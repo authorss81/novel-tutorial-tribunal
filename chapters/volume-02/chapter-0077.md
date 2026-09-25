@@ -36,7 +36,7 @@ She read that last line four times and then said the thing Nahl wrote down in th
 
 ---
 
-The other six of the seven are reported and not staged, because they were answered in writing and Nahl had them all on a sheet by the sixth, and what they said, in Nahl's summary, was: five of them said no for the reason Fallowditch had given, one of them said no for the reason that it is three people and no money and one of them is out on a boundary, and one of them did not answer the question Nahl asked at all and answered a different one, which was that it holds nothing and would rather be a bench that can be honest than a bench that can be relieved.
+The other six of the seven are reported and not staged, because they were answered in writing and Nahl had them all on a sheet by the sixth, and what they said, in Nahl's summary, was: four of them said no for the reason Fallowditch had given, one of them said no for the reason it gave the first time, which is that it holds a hundred-and-sixty-year-old book and two letters have now told it that nobody may swear to it, and one of them did not answer the question Nahl asked at all and answered a different one, which was that it holds nothing and would rather be a bench that can be honest than a bench that can be relieved.
 
 That last one is the sentence of the third month of this case and it is in a letter and it is in no record but the file, and it was read out once at the First Verdict on the seventh of the month by a clerk in a flat voice and was not improved on by anybody, including the magistrate, who said it was the most useful thing a bench had said to her in eleven years and that it was not useful to anybody at all.
 
