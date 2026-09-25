@@ -1,10 +1,10 @@
 # Chapter 81: The Deck That Is Open in the Weather
 
-The fourth bridge has four square holes in it and has had them since the twentieth of the first month, and it has been open to the weather since the twenty-seventh of the month before last, and on the second of the fourth month, at about the fourth morning bell, a loaded peat cart stood in the middle of the span with its near wheel hard against the second hole and the far side empty, waiting for the keeper to walk out and look at it.
+The fourth bridge has four square holes in it and has had them since the twentieth of the first month, and it has been open to the weather since the twenty-seventh of last month, and on the second of the fourth month, at about the fourth morning bell, a loaded peat cart stood in the middle of the span with its near wheel hard against the second hole and the far side empty, waiting for the keeper to walk out and look at it.
 
 Wist Anhalt is forty-nine. He has kept this bridge for twenty-nine years. He was sitting on the parapet with his back to the wind and a piece of chalk in his hand, and when the carter came up he did not get up, he said *wait*, and the carter waited, and then he got up and walked the span at the pace he has walked it since before the carter's father had a cart.
 
-He went over the second hole. He went over the first. He came back and looked at the fourth and put the chalk in his pocket instead of using it, and then he went along the parapet and looked at the ends of the four new timbers that were lying in the mud on the north bank because they were cut on the road above the fen three days ago and there is no water in the river to float a timber up to a deck and the man who would do it has not come.
+He went over the second hole. He went over the first. He came back and looked at the fourth and put the chalk in his pocket instead of using it, and then he went along the parapet and looked at the ends of the four new timbers that were lying in the mud on the north bank because they were cut on the road above the fen on the thirtieth of the third month and there is no water in the river to float a timber up to a deck and the man who would do it has not come.
 
 The four new timbers were bought at ninety-six pounds out of the ninth bridge's district road fund. There is no more money for that fund this year. There are not new timbers under this deck and there is not a date when there will be, and the old four are in a yard four miles down the fen road, stacked, and they did not fail, and nobody has said they would.
 
@@ -20,7 +20,7 @@ The carter took his cart across at a walk.
 
 ---
 
-There is no person at this bridge except Anhalt, and Anhalt is not a party to anything, and on the twenty-seventh of the month before last a clerk of nineteen years in the post stood in the open air at a bridge four miles down the road and entered that he had not asked him. That entry is the only thing in the whole of this case that anybody has done for the keeper of the fourth bridge, and it was done in a book that is not in this district and about a man who is not in it.
+There is no person at this bridge except Anhalt, and Anhalt is not a party to anything, and on the twenty-seventh of last month a clerk of six years in the post stood in the open air at a bridge four miles down the road and entered that he had not asked him. That entry is the only thing in the whole of this case that anybody has done for the keeper of the fourth bridge, and it was done in a book that is not in this district and about a man who is not in it.
 
 The same morning a letter came down the fen road with a cart, and it was addressed to the bench of four of the district of Halloway, and it was in the hand of Meridith Vale, clerk of the district of the ninth bridge, and it had come eleven miles and it was not a notice and it was not a demand and it was not served on anybody.
 
@@ -30,7 +30,7 @@ It was a page and a sum.
 >
 > **THE CHARTER OF YOUR DISTRICT COSTS FORTY-FOUR POUNDS AND SIXTEEN A YEAR. IT IS CHARGED TO THE ROAD FUND OF THE DISTRICT OF THE NINTH BRIDGE, WHICH IS FOUR HUNDRED AND TEN POUNDS A YEAR, AND YOUR CHARTER TAKES A LITTLE UNDER A NINTH OF IT. I HAVE PUT IT IN THAT WAY ON PURPOSE BECAUSE A BENCH OF FOUR THAT IS PAYING A RATE OUT OF ITS OWN BOOK OUGHT TO KNOW WHOSE BOOK IT IS IN.**
 >
-> **A PUBLIC MAINTENANCE REVIEW WAS HELD AT OUR SPAN ON THE TWENTY-SEVENTH OF THE MONTH BEFORE LAST. THE YEAR WAS SET OUT AT THAT REVIEW AS FOLLOWS: FOUR NEW TIMBERS FOR THE FOURTH BRIDGE, NINETY-SIX POUNDS. THE TELLING OF COLDWATER, FIFTEEN. TWO HANDS UNDER A DECK AT EVERY CHANGE, TWO HUNDRED AND TEN. YOUR CHARTER, FORTY-FOUR POUNDS AND SIXTEEN. WHAT IS LEFT IN THE YEAR IS FORTY-FOUR POUNDS AND FOUR SHILLINGS, AND YOUR CHARTER COSTS TWELVE SHILLINGS MORE THAN WHAT IS LEFT.**
+> **A PUBLIC MAINTENANCE REVIEW WAS HELD AT OUR SPAN ON THE TWENTY-SEVENTH OF LAST MONTH. THE YEAR WAS SET OUT AT THAT REVIEW AS FOLLOWS: FOUR NEW TIMBERS FOR THE FOURTH BRIDGE, NINETY-SIX POUNDS. THE TELLING OF COLDWATER, FIFTEEN. TWO HANDS UNDER A DECK AT EVERY CHANGE, TWO HUNDRED AND TEN. YOUR CHARTER, FORTY-FOUR POUNDS AND SIXTEEN. WHAT IS LEFT IN THE YEAR IS FORTY-FOUR POUNDS AND FOUR SHILLINGS, AND YOUR CHARTER COSTS TWELVE SHILLINGS MORE THAN WHAT IS LEFT.**
 >
 > **ONE HAND UNDER A DECK IS A HUNDRED AND FIVE POUNDS, AND THE WATCH WENT TO ONE HAND ON THE DAY OF THAT REVIEW, AND THAT HUNDRED AND FIVE IS THE ONE THING IN OUR YEAR THAT CAME BACK, AND IT IS IN A DIFFERENT LINE FROM YOURS, AND A CLERK CANNOT MOVE A LINE INTO ANOTHER LINE WITHOUT A MINUTE, AND THE MINUTE IS A BENCH'S AND NOT MINE. SO YOUR CHARTER COSTS TWELVE SHILLINGS MORE THAN THE LINE IT IS CHARGED TO, AND WE HAVE A HUNDRED AND FIVE POUNDS WE CANNOT PUT AGAINST IT.**
 >
@@ -60,9 +60,9 @@ Nobody argued with it for about eleven seconds, which is a long time in that roo
 
 “Then say the other one,” said Garvin Slade. He had not said anything for nine minutes. “Say the one under it. If that is true then our water pays our notices, and our notices are what says we may appeal, and the appeal is about a bench, and the bench is us. And we set it. We set it at the end of March and we are the people who did it and every bucket out there is carrying our own lawyer.”
 
-“It is not a lawyer,” said Oakes. “It is a quarter.”
+“It is not a lawyer,” said Oakes. “It is half a farthing.”
 
-“It is a quarter of a penny a bucket, Garvin, and it is not one farthing, and I have said four times in this room that it is the right rate and I am not going to unsay it, because the fund has nothing in it and a rate that cannot be paid is not a rate. I have a girl of fourteen who walks to that pump every morning and she has never once said a word about it to me and I have looked for it.”
+“Half a farthing a bucket, Garvin, and not one farthing, and I have said four times in this room that it is the right rate and I am not going to unsay it, because the fund has nothing in it and a rate that cannot be paid is not a rate. I have a girl of fourteen who walks to that pump every morning and she has never once said a word about it to me and I have looked for it.”
 
 ---
 
@@ -100,7 +100,7 @@ And that took about half an hour, and it was made in a room with a person in it 
 
 “The other thing,” she said. “We have not written down that a rate out of this district’s own water is being carried in another district’s fund. That letter is in your hand, Oakes, and I want it in our book with the figure against it and I want the figure of the charter’s cost entered in our book as a thing *we* owe, whatever anybody else’s fund says, so that when a clerk in this room in four years comes to this page he is looking at a number and not at a blank. And I want the four new props entered, and the day, and the fact that we were not asked and did not send anybody.”
 
-Nell Ambrey is sixty and has a sanitation complaint in her gift only on a day when she has nothing else, and she has had nothing else since the twelfth of the month before last, and she said the rest of it in the voice of a woman who has been losing both a smell and a sheet for eleven weeks.
+Nell Ambrey is sixty and has a sanitation complaint in her gift only on a day when she has nothing else, and she has had nothing else since long before any of this began, and she said the rest of it in the voice of a woman who has been losing both a smell and a sheet for eleven weeks.
 
 “Because a debt that can be neither paid nor refused is a debt that does not go away, and there is one kind of debt in this city that nobody can take off you whatever happens, and it is the one in a book in your own room in your own hand. And in four years the two hundred people who went up that bank on the first of the month are going to be asked by a woman with a barrow what a thousand four hundred and seventeen pounds is, and the answer is going to be that this district cannot pay it and never could and refused the figure and got it put in anyway. That answer is true and it is worthless. It is the only true sentence anybody in this district has said about money since the fourteenth of the month before last.”
 
@@ -122,7 +122,7 @@ They entered it at the fifth bell, and it took Corva Silt the best part of an ho
 
 > **ENTERED IN THE BOOK OF THE BENCH OF FOUR OF THE DISTRICT OF HALLOWAY, THE SECOND OF THE FOURTH MONTH, ON A LETTER OF THE SECOND OF THE FOURTH MONTH FROM THE CLERK OF THE DISTRICT OF THE NINTH BRIDGE, AND NOT SERVED ON ANYBODY AND NOT ENTERED BY ANY COURT.**
 >
-> **ONE: THE CHARTER OF THIS DISTRICT COSTS FORTY-FOUR POUNDS AND SIXTEEN A YEAR AND IT IS CHARGED TO THE ROAD FUND OF THE DISTRICT OF THE NINTH BRIDGE AND NOT TO THIS DISTRICT'S FUND. THE NINTH BRIDGE'S FUND IS FOUR HUNDRED AND TEN POUNDS A YEAR. THAT YEAR WAS SET OUT AT A PUBLIC REVIEW ON THE TWENTY-SEVENTH OF THE MONTH BEFORE LAST AS FOUR NEW TIMBERS AT NINETY-SIX POUNDS, THE TELLING OF COLDWATER AT FIFTEEN, TWO HANDS UNDER A DECK AT TWO HUNDRED AND TEN, AND THIS CHARTER AT FORTY-FOUR POUNDS AND SIXTEEN, LEAVING FORTY-FOUR POUNDS AND FOUR SHILLINGS. THIS CHARTER COSTS TWELVE SHILLINGS MORE THAN WHAT IS LEFT. A HAND UNDER A DECK IS A HUNDRED AND FIVE POUNDS AND THE WATCH WENT TO ONE HAND ON THE DAY OF THAT REVIEW, AND THAT MONEY IS IN A LINE THAT CANNOT BE MOVED INTO OURS WITHOUT A BENCH'S MINUTE. THEY WILL PAY IT AND HAVE ASKED FOR NO REPLY.**
+> **ONE: THE CHARTER OF THIS DISTRICT COSTS FORTY-FOUR POUNDS AND SIXTEEN A YEAR AND IT IS CHARGED TO THE ROAD FUND OF THE DISTRICT OF THE NINTH BRIDGE AND NOT TO THIS DISTRICT'S FUND. THE NINTH BRIDGE'S FUND IS FOUR HUNDRED AND TEN POUNDS A YEAR. THAT YEAR WAS SET OUT AT A PUBLIC REVIEW ON THE TWENTY-SEVENTH OF LAST MONTH AS FOUR NEW TIMBERS AT NINETY-SIX POUNDS, THE TELLING OF COLDWATER AT FIFTEEN, TWO HANDS UNDER A DECK AT TWO HUNDRED AND TEN, AND THIS CHARTER AT FORTY-FOUR POUNDS AND SIXTEEN, LEAVING FORTY-FOUR POUNDS AND FOUR SHILLINGS. THIS CHARTER COSTS TWELVE SHILLINGS MORE THAN WHAT IS LEFT. A HAND UNDER A DECK IS A HUNDRED AND FIVE POUNDS AND THE WATCH WENT TO ONE HAND ON THE DAY OF THAT REVIEW, AND THAT MONEY IS IN A LINE THAT CANNOT BE MOVED INTO OURS WITHOUT A BENCH'S MINUTE. THEY WILL PAY IT AND HAVE ASKED FOR NO REPLY.**
 >
 > **TWO: THE FIGURE ENTERED IN THIS BOOK ON THE TENTH OF THE THIRD MONTH, OF ONE THOUSAND FOUR HUNDRED AND SEVENTEEN POUNDS AND TEN SHILLINGS, CANNOT BE PAID BY THIS DISTRICT AND CANNOT BE REFUSED BY THE PERSON IT IS OWED TO, AND STANDS. THIS DISTRICT HAS NO MONEY. THE ROAD FUND OF THIS DISTRICT IS TWO HUNDRED AND FORTY POUNDS A YEAR AND IS FED BY CARTAGE ON A SHUT ROAD AND THE CARTAGE HAS BEEN NIL SINCE THE FOURTEENTH OF THE MONTH BEFORE LAST.**
 >

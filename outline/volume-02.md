@@ -88,7 +88,7 @@ The immediate promise of the volume is delivered. A poor district has an appeal,
 
 - **Do not restore the right of refusal in this volume.** The Quiet Chamber page is missing, the facing leaf yields one line, and one quarter of a sentence now has to be read as a duty and not a place. That is a consequence, not a recovery, and `outline/series.md` assigns the recovery of a *fragment* to this volume and the answer to a later one.
 - **Do not resolve the Bridgeward.** It is the volume's new question and it is one step further along and no further.
-- **Do not name who writes the continuity line.** Six appearances, four refusals, no name.
+- **Do not name who writes the continuity line.** Nine appearances, six refusals, no name, after Chapters 81–90. The seventh refusal is reserved for Chapters 91–100 and is a volume-level promise.
 - **Do not give Ilyan a party, a bench, a body, a remedy he chooses alone, or the right to assign another person's burden.** His standing is confined to the ninth-bridge matter and his carrier's clause is a duty with a consequence, not an office.
 - **Do not introduce a new final enemy.** The First Witness remains the distant institutional voice already established in Volume 01, and Sel Harrow, the district benches, the copied instruments, the forms, and the preservation authority are immediate pressures. The antagonist for this volume is **a category that cannot say who is in it**, and it has no villain.
 - **Do not turn the word *exception* into law.** It is a Bench term, it is at the top of a printed form, and it must never appear in any instrument in this case. Let it travel as a word and let it cost somebody.

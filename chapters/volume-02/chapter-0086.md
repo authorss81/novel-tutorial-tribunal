@@ -8,8 +8,8 @@ He had done it this way, because it is the way a clerk does a thing that has gon
 
 > **ONE. WHAT THE DISTRICT OWES, IF IT COULD BE PAID.**
 > **THE THIRTY YEARS: A HUNDRED AND THIRTEEN THOUSAND FOUR HUNDRED HOURS AT THREEPENCE THE HOUR IS ONE THOUSAND FOUR HUNDRED AND SEVENTEEN POUNDS AND TEN SHILLINGS.**
-> **B. SALLOW'S OWN CORRECTION, GIVEN AT THE GATE, UNASKED: THE WORKING TIDE OF THE TURN IS ONE DAY IN SEVEN AND THE WEEK IS ABOUT SIXTY-THREE HOURS AND NOT SEVENTY-THREE AND A HALF. THAT IS SIXTEEN THOUSAND TWO HUNDRED HOURS AND TWO HUNDRED AND TWO POUNDS AND TEN SHILLINGS.**
-> **SO: ONE THOUSAND TWO HUNDRED AND FIFTEEN POUNDS.**
+> **B. SALLOW'S OWN CORRECTION, GIVEN AT THE GATE, UNASKED: THE WORKING TIDE OF THE TURN IS ONE DAY IN SEVEN AND THE WEEK IS ABOUT SIXTY-THREE HOURS AND NOT SEVENTY-THREE AND A HALF. THAT TAKES OUT SIXTEEN THOUSAND TWO HUNDRED HOURS AND TWO HUNDRED AND TWO POUNDS AND TEN SHILLINGS, AND LEAVES NINETY-SEVEN THOUSAND TWO HUNDRED HOURS.**
+> **SO: NINETY-SEVEN THOUSAND TWO HUNDRED HOURS AT THREEPENCE THE HOUR IS ONE THOUSAND TWO HUNDRED AND FIFTEEN POUNDS.**
 > **THE CORRECTION FOR THE RATE CANNOT BE FOUND IN ANY DISTRICT IN THIS CITY AND IS NOT ENTERED AS A NUMBER.**
 > **THE HUNDRED AND FIFTY HAULS OF THE LAST ELEVEN MONTHS: NO FIGURE, BECAUSE SEE THE END OF ONE.**
 >
@@ -19,7 +19,7 @@ He had done it this way, because it is the way a clerk does a thing that has gon
 > **THE CHARTER IS PAID OUT OF A DIFFERENT DISTRICT'S FUND. IT IS NOT OURS. IT IS NOT ENTERED IN OUR BOOK AS OURS AND IT IS NOT ENTERED IN THEIRS AS THEIRS.**
 >
 > **THREE. WHAT THE DISTRICT IS PAYING WITH.**
-> **HALF A FARTHING A BUCKET AT THE STANDPIPE. A FARTHING IS A QUARTER OF A PENNY. THIS IS AN EIGHTH OF A PENNY. IT IS ELEVEN POUNDS FOUR IN THE QUARTER AND FORTY-FOUR POUNDS AND SIXTEEN IN THE YEAR.**
+> **HALF A FARTHING A BUCKET AT THE STANDPIPE. A FARTHING IS A QUARTER OF A PENNY. THIS IS AN EIGHTH OF A PENNY. IT IS ELEVEN POUNDS FOUR IN THE QUARTER AND FORTY-FOUR POUNDS AND SIXTEEN SHILLINGS IN THE YEAR.**
 > **OF THE ELEVEN POUNDS FOUR, THE LARGEST PART IS THE SERVING OF THE NOTICES, BECAUSE THERE IS NO CLAUSE IN ANY INSTRUMENT IN THIS CITY FOR SERVING A DISTRICT, AND SO A CLERK IS PAID BY THE HOUR TO WORK OUT WHO A DISTRICT IS.**
 > **ONE PERSON IS PAID ABOUT A POUND AND ELEVEN A QUARTER TO KEEP NINE SHEETS AND A PAGE. SHE ASKED FOR THE RATE. SHE READS IT OUT. SHE CANNOT APPEAL FROM IT.**
 
@@ -61,12 +61,12 @@ Nobody said anything for a moment.
 
 ---
 
-The System put the sum in front of Ilyan while Garvin Slade was still standing up, and it was a record of a room and not a rule about the world.
+The System put the sum in front of Ilyan while Garvin Slade was still standing up, and it was a record of a room and not a rule about the world, and it was the only copy of it he would ever have, because he cannot read a slate.
 
 **IN THE ROOM OVER A PUMP, THE FIFTEENTH OF THE FOURTH MONTH, AT THE SECOND BELL. A SLATE WITH THREE SUMS ON IT, WRITTEN BY THE MAINTENANCE CLERK OF A BENCH OF FOUR.**
 **ONE: WHAT THE DISTRICT OWES. THE THIRTY YEARS, AS ENTERED, IS ONE THOUSAND FOUR HUNDRED AND SEVENTEEN POUNDS AND TEN SHILLINGS. AFTER THE CORRECTION GIVEN BY THE PERSON IT IS OWED TO, ONE THOUSAND TWO HUNDRED AND FIFTEEN POUNDS. THE CORRECTION FOR THE RATE CANNOT BE FOUND IN ANY DISTRICT IN THIS CITY AND IS NOT ENTERED AS A NUMBER. THE HUNDRED AND FIFTY HAULS OF THE LAST ELEVEN MONTHS HAVE NO FIGURE AT ALL, BECAUSE A HAUL IS A BARROW'S LOAD, A BARROW'S LOAD IS FOUR LOADS TO A CART, THE DISTRICT'S OWN RATE IS A RATE FOR A LOAD, AND THERE ARE NO LOADS IN THIS DISTRICT.**
 **TWO: WHAT THE DISTRICT HAS. TWO HUNDRED AND FORTY POUNDS A YEAR ON PAPER. NIL IN FACT SINCE THE FOURTEENTH OF THE MONTH BEFORE LAST. THE CHARTER IS PAID OUT OF ANOTHER DISTRICT'S FUND AND IS IN NEITHER DISTRICT'S BOOK AS A DEBT OF EITHER.**
-**THREE: WHAT THE DISTRICT IS PAYING WITH. AN EIGHTH OF A PENNY A BUCKET. FORTY-FOUR POUNDS AND SIXTEEN A YEAR, OF WHICH THE LARGEST SINGLE PART IS THE SERVING OF NOTICES, BECAUSE NO INSTRUMENT IN THIS CITY SAYS HOW TO SERVE A DISTRICT. ONE PERSON IS PAID ABOUT A POUND AND ELEVEN A QUARTER TO KEEP NINE SHEETS AND A PAGE, AND SHE ASKED FOR THE RATE, AND SHE READS IT OUT, AND SHE CANNOT APPEAL FROM IT.**
+**THREE: WHAT THE DISTRICT IS PAYING WITH. AN EIGHTH OF A PENNY A BUCKET. FORTY-FOUR POUNDS AND SIXTEEN SHILLINGS A YEAR, OF WHICH THE LARGEST SINGLE PART IS THE SERVING OF NOTICES, BECAUSE NO INSTRUMENT IN THIS CITY SAYS HOW TO SERVE A DISTRICT. ONE PERSON IS PAID ABOUT A POUND AND ELEVEN A QUARTER TO KEEP NINE SHEETS AND A PAGE, AND SHE ASKED FOR THE RATE, AND SHE READS IT OUT, AND SHE CANNOT APPEAL FROM IT.**
 **THE THREE SUMS ARE THE SAME MONEY. THE ONLY ONE OF THE THREE THAT ANY PERSON IN THIS DISTRICT CAN SEE IS A PUMP.**
 **WHAT IS NOT DECIDED HERE: WHETHER THE RATE FOR A HAUL WAS SET TOO LOW. WHETHER THE UNIT WAS WRONG OR THE UNIT WAS NEVER CHOSEN. WHETHER A DISTRICT THAT SETS A RATE FOR A THING IS OBLIGED TO SAY WHAT THE THING IS.**
 
@@ -90,7 +90,7 @@ Then he said the other thing, and he said it to the room, and he said it to a be
 
 “The figure is in the book. The figure is a claim. A claim wants somebody to answer it. For thirty years I had been the ward and a ward is a duty and a duty cannot be answered, and there were four words in that book in a guild's hand about a hundred and ninety years ago that say exactly that, and I found them, and I did not give them to a court, and the court has found them since. So she was safe. She was the safest person in four miles, because there was nothing to answer.
 
-“And then a man with two hundred guild words and no licence multiplied six days of a slate up by thirty years, and he said out loud that it was wrong before he wrote it, and he wrote it anyway, because I asked him for a number on the eighteenth of the second month in this room and I did it in order to put a shape on a debt and put the shape on a rate and put the rate on a barrel lid. That is the whole of it. I asked him. I am the reason she is a claim. I did not take thirty years from her. I took the shape off her that meant nobody had to answer her, and I did that in a room with a bench of four in it, and the figure is a thousand two hundred and fifteen pounds and it is a hundred and fifty hauls at two thirds, and both of those are true.”
+“And then a man with two hundred guild words and no licence multiplied six days of a slate up by thirty years, and he said out loud that it was wrong before he wrote it, and he wrote it anyway, because I asked him for a number on the eighteenth of the second month in this room and I did it in order to put a shape on a debt and put the shape on a rate and put the rate on a barrel lid. That is the whole of it. I asked him. I am the reason she is a claim. I did not take thirty years from her. I took the shape off her that meant nobody had to answer her, and I did that in a room with a bench of four in it, and the figure is a thousand two hundred and fifteen pounds and it is wrong, and both of those are true.”
 
 Nobody in the room said anything at all for long enough that a cart went past on the fen road.
 
@@ -118,7 +118,7 @@ Then he said the thing that had been sitting in his chest since the first of the
 
 “Eleven years of a cart's worth of rubbish has gone out of this district at the hands of one woman, and a cart's worth is four barrows, and this district has paid her for three of the four and never for the fourth, and the fourth is a load, and there is nowhere in this district that a load is worth anything at all, and that is not an accident. That is a hole in a book with a bench's name on it. And I have wanted to say it out loud since the twenty-eighth of March and I could not, because I did not know what a haul was.” He looked up. “That is the first thing I have said in this case that is a number and not a feeling, and it is wrong by however much a barrow is worth in a district with no cart, and I would like it minuted that I know that.”
 
-“Two hundred and forty people,” said Nell Ambrey. “It is about two hundred and forty and it is the number in a letter we have had from another district's clerk and not in anything we have counted ourselves, and a woman read that charter out on a bank in the mud on the third of the month before last to about a hundred and ninety people, and that is the first time the whole of this case has had a number for how many people are inside the thing it has done, and she was standing on the bank when she read it, and the number in the letter is the clerk's estimate from a bridge and the number on the bank was hers.”
+“Two hundred and forty people,” said Nell Ambrey. “It is about two hundred and forty and it is the number in a letter we have had from another district's clerk and not in anything we have counted ourselves, and a woman read that charter out on a bank in the mud on the third of last month to about a hundred and ninety people, and that is the first time the whole of this case has had a number for how many people are inside the thing it has done, and she was standing on the bank when she read it, and the number in the letter is the clerk's estimate from a bridge and the number on the bank was hers.”
 
 Nobody wanted the conversation to go there, and it went there anyway, and it stayed there, and a district that has a rate, a page, an appeal and a bill, and no count of its own, and the number it is using is a clerk's estimate from a bridge.
 
@@ -134,8 +134,8 @@ At the ninth bell Ilyan Vester walked the four miles back up the fen road with t
 
 “I could not correct it,” he said. “That is the honest answer and it is a bad one. The rate in that figure is a rate that exists because a day's figure for six and a half hours has been divided by the four hours of a ten-and-a-half-hour tide that this district does not pay anybody for. There is no rate in this city from thirty years ago. I could have written *a sum nobody can check* instead of a number, and I wrote a number because Oakes asked me for a number and because a number is the only thing that can be carried in a book from a room to a bench, and I have thought about it for about nine days and I still think I would have written it and I would write it again, and that is the part I would like entered if anybody ever enters anything about it.”
 
-“Then I will tell you what I have worked out, and you can put it wherever you go,” said Bryn Sallow, and worked the chain, and did not look at him. “Thirty years of a duty with nobody in it is a hundred and fifty hauls at two thirds, and the number that made me a claim of it is a thousand four hundred and seventeen pounds, and neither of them can be paid, and both of them are in a book in the room you have just left, and the woman they are about is me, and the woman who is going to read them out at a pump four times a year is her.”
+“Then I will tell you what I have worked out, and you can put it wherever you go,” said Bryn Sallow, and worked the chain, and did not look at him. “I have stood at that gate thirty years and I have watched that woman with the barrow go past it about two hundred times a year, and a working tide at that gate is ten and a half hours and six and a half of them are what this district pays me for, and there is no arithmetic in this county that turns ten and a half hours into a barrow. So I have done it the only way a person at a gate can do it, which is to say that thirty years of what I have done is about six thousand of what she does, at two thirds. The number that made me a claim of it is a thousand four hundred and seventeen pounds. Neither of them can be paid, and both of them are in a book in the room you have just left, and the woman they are about is me, and the woman who is going to read them out at a pump four times a year is her.”
 
 She put the chalk in her pocket and took her foot off the bank onto the sill-stone.
 
-“I would like to be a hundred and fifty hauls at two thirds,” she said. “I have never once in my life been a hundred and fifty of anything. And it will be read out on a bank by a woman with a barrow, and I will be standing at the gate when she reads it, because that is where I stand.”
+“I would like to be six thousand hauls at two thirds,” she said. “I have never once in my life been six thousand of anything. And it will be read out on a bank by a woman with a barrow, and I will be standing at the gate when she reads it, because that is where I stand.”

@@ -28,7 +28,7 @@ She did read it to him, twice, on the flat and then up the bank, in the voice sh
 >
 > **THE RATE WAS SET BY A BENCH OF FOUR. IT WAS ASKED FOR BY THE HOLDER OF THE FIFTH TERM, WHO CANNOT APPEAL FROM IT, AND IT WILL BE READ ALOUD AT THE SIXTH BELL ON EVERY FIRST DAY OF A QUARTER BY THE SAME PERSON, AND NOBODY MAY APPEAL IT, AND IT IS THE LARGEST SINGLE WANT OF THE PEOPLE IT IS READ TO.**
 
-"That's me," she said. “That's my name in it, sort of. That's the second barrow I want and the hundred and fifty that I did. Read it back to me.”
+“That's me,” she said. “That's my name in it, sort of. That's the second barrow I want and the hundred and fifty that I did. Read it back to me.”
 
 “I can't read that,” said Merrick Vaunt.
 

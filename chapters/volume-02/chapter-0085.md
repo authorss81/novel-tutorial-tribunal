@@ -1,16 +1,16 @@
 # Chapter 85: The Second Ask, Past the Fourth Mile
 
-The third member came back from the boundary on the evening of the tenth of the fourth month, wet through, at about the eighth bell, and Perditta Nye had been sitting in the room over the shop that had been a chandler's for two hours with a folded sheet on the table in front of her, and she had not sealed it, and he came in and looked at it and at her and said, "That is the one I was on the hedge about."
+The third member came back from the boundary on the evening of the tenth of the fourth month, wet through, at about the eighth bell, and Perditta Nye had been sitting in the room over the shop that had been a chandler's for two hours with a folded sheet on the table in front of her, and she had not sealed it, and he came in and looked at it and at her and said, “That is the one I was on the hedge about.”
 
-"Yes," said Nye. "It is the only one I have written since the eighteenth of March. It is a sheet of our paper with four names and a mark on it and a wedge and chain that I have not pressed yet, and it asks another district four miles off this one to send us a charter, and it is a day and a half of a cart and we have nine pounds in the year and four and six of the day is mine because the other four and three is the boundary money and the boundary has to be done.
+“Yes,” said Nye. “It is the only one I have written since the eighteenth of March. It is a sheet of our paper with four names and a mark on it and a wedge and chain that I have not pressed yet, and it asks another district four miles off this one to send us a charter, and it is a day and a half of a cart and we have nine pounds in the year and four and six of the day is mine because the other four and three is the boundary money and the boundary has to be done.”
 
-"Read it," he said, and read it, standing, with the rain off him on the flags, and then he said, "Send it."
+“Read it,” he said, and read it, standing, with the rain off him on the flags, and then he said, “Send it.”
 
-"You have not read the line about the cart."
+“You have not read the line about the cart.”
 
-"I have read the line about the cart," he said. "It is our money and the cart is our day and if we do not send it then in four years there is a room over a shop with a rule in it and nobody in this district who knows what a charter is, and I am fifty-eight and I have been on this bench twenty-two years and I have never once in twenty-two years sent a thing to a place I could not walk to, and I have no idea what to do about it and I would like to send it anyway, and you may enter that I said *and I would like to* out loud."
+“I have read the line about the cart,” he said. “It is our money and the cart is our day and if we do not send it then in four years there is a room over a shop with a rule in it and nobody in this district who knows what a charter is, and I am fifty-eight and I have been on this bench twenty-two years and I have never once in twenty-two years sent a thing to a place I could not walk to, and I have no idea what to do about it and I would like to send it anyway, and you may enter that I said *and I would like to* out loud.”
 
-"Then I shall enter it," said Nye, and pressed the wedge and chain into the wax at about the ninth bell on the tenth of the fourth month, and it went down the lane on the eleventh at about the first bell in the hands of a drover who was going that way anyway, and it was four names and a mark and a seal and one sheet.
+“Then I shall enter it,” said Nye, and pressed the wedge and chain into the wax at about the ninth bell on the tenth of the fourth month, and it went down the lane on the eleventh at about the first bell in the hands of a drover who was going that way anyway, and it was four names and a mark and a seal and one sheet.
 
 > **TO THE HOLDER OF THE TERMS OF THE CHARTER OF THE DISTRICT OF HALLOWAY, WHICH THE BENCH OF THREE OF FALLOWDITCH HAS HEARD NAMES A PERSON AND DOES NOT KNOW HIS NAME.**
 >
@@ -42,7 +42,7 @@ The licence says three things that matter here, and Sera Quill said all three of
 
 “Fallowditch is not within four miles of this court. So nothing happens. If you do not go, the ask is not met, and the appeal in the district of Halloway is not stayed by that, because the appeal in Halloway is not stayed by an ask from Fallowditch. It is simply an ask that was not met, and the reason it was not met is in a ledger with a date on it, and in four years somebody will read it and see that a district eleven miles off asked for something and a man of thirty-one was not near enough, and that is a true sentence and it is the whole of what the fourth term of a licence costs me and you both.”
 
-He walked out to Fallowditch two days later, on the thirteenth, and it took him most of the day, and the leg stopped about two hundred yards short of the shop that had been a chandler's. It had been his own for the first six miles of them. Past the fourth mile it was a favour, and a favour cannot be entered. He has never been paid for any of it and is not going to be.
+He walked out to Fallowditch two days after the letter came down the fen road, on the thirteenth, and it took him most of the day, and the leg stopped about two hundred yards short of the shop that had been a chandler's. It had been his own for the first six miles of them. Past the fourth mile it was a favour, and a favour cannot be entered. He has never been paid for any of it and is not going to be.
 
 ---
 
@@ -78,19 +78,19 @@ He did not say one word about it.
 
 ---
 
-The line took twenty days to come anywhere, because that is what a thing with nobody waiting for it does.
+The line took a fortnight to come anywhere, because that is what a thing with nobody waiting for it does.
 
-Nye wrote it the same afternoon, in her own hand, on a sheet of her own bench's paper, and sealed it, and the seal is a wedge-and-chain and there is one of them in the room. She put it in a handbag and it went down to the fen road on the twelfth with a man going to a market, and it sat on a tray in a chamber in Orison for twenty days with nothing on it asking anything, and on the second of the fifth month a clerk who was copying a list of a board picked it up because it was face up, and it was stamped that day, and it went into a file with a number on the spine, and the number is the only thing that happened to it.
+Nye wrote it the same afternoon, in her own hand, on a sheet of her own bench's paper, and sealed it, and the seal is a wedge-and-chain and there is one of them in the room. She put it in a handbag and it went down to the fen road on the fourteenth with a man going to a market, and it sat on a tray in a chamber in Orison until the twenty-seventh of the fourth month with nothing on it asking anything, and on that morning a clerk who was copying a list of a board picked it up because it was face up, and it was stamped that day, and it went into a file with a number on the spine, and the number is the only thing that happened to it.
 
 ---
 
 And the thing that came out of the nine sheets was not the line.
 
-It came at about the eleventh bell, when Nye had finished reading, and she asked the question that three years in the post and nine days of her own rule had put in her mouth, and she asked it standing up, in front of her own bench, with a sheet of paper in her hand.
+It came at about the eleventh bell, when Nye had finished reading, and she asked the question that three years in the post and four days of her own rule had put in her mouth, and she asked it standing up, in front of her own bench, with a sheet of paper in her hand.
 
 “You said, when you were in the cart, that a bench that keeps records of persons is a bench. That is out of a letter and it is not yours and I have got it off a shelf in a room over a pump where a woman of twenty-nine has a page and four entries on it, and the letter says an office with no person in it is a shelf and cannot hold a person. So I have been a clerk for three years and on the ninth of this month I read a rule into my own book in my own room that says any person of this district may bring a document here, and it shall be read out, and an entry made, and the entry shall have a date and the name of the person it is about.
 
-“That makes me a person in this district who keeps entries about persons,” said Perditta Nye. “And there is one other person in this district who can read, and it is me, and the coal man cannot read, and the third member is fifty-eight and reads the weather and not a book, and the man who came about the folded sheet cannot read, and Adela Cray can read about four words together. I am a holder of a room nobody made me a holder of.”
+“That makes me a person in this district who keeps entries about persons,” said Perditta Nye. “And there is one person in this district who can read and it is me, and the coal man cannot read, and the third member is fifty-eight and reads the weather and not a book, and the man who came about the folded sheet cannot read, and Adela Cray can read about four words together and a number and has told me so. I am a holder of a room nobody made me a holder of.”
 
 Nobody in that room had an answer, and she did not want one, and she went on for about a minute.
 

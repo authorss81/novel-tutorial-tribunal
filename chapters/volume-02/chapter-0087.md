@@ -1,6 +1,6 @@
 # Chapter 87: The Man Who Took His Name Out of a Rate
 
-Garvin Slade did not come to the room over the pump. He came to the booth, which is at the top of Weir Lane and is a plank shed with a counter and a scale and forty-four years of a chalk board with prices on it, and he is thirty-eight and has been selling salt out of it for eleven years, and in the second week of the fourth month two women who have bought salt off him for a decade asked him whether the water was going up.
+Garvin Slade did not come to the room over the pump. He came to the booth, which is at the top of Weir Lane and is a plank shed with a counter and a scale and forty-four years of a chalk board with prices on it, and he is thirty-eight and has been selling salt out of it for twenty-five years, and in the second week of the fourth month two women who have bought salt off him for a decade asked him whether the water was going up.
 
 He told them he did not know, and one of them said *you are one of the four*, and he said he was, and she said *then you know*, and he said he did not, and she went away, and he has been at that counter since and it is a nine-foot counter and you cannot be nine feet away from a person who has just asked you a question you cannot answer.
 
@@ -42,7 +42,7 @@ The second thing was the rate, and it took an hour and it is the shape of the wh
 
 It cannot be undone. That is what they established, and it was established in about nine minutes, and the person who established it was Oakes and he established it the way a clerk establishes things, by reading a document out.
 
-“The rate is on a barrel lid nailed to a gate-side board and it was chalked there on the seventeenth of the second month and it was read out at the sixth bell on the first of this month to about two hundred people,” he said. “A rate that has been read aloud to a district has been told to that district. You may withdraw from a thing. You may not take a thing back off two hundred people, because they have heard it and they have carried buckets with it in them and one of them is a girl of fourteen who walks to that pump every morning and she has not asked me a single question about the water and I have been looking for one since the seventeenth of the second month.
+“The rate is in this district’s book and it was read out at the sixth bell on the first of this month to about two hundred people,” he said. “A rate that has been read aloud to a district has been told to that district. You may withdraw from a thing. You may not take a thing back off two hundred people, because they have heard it and they have carried buckets with the lid that hangs on the same board, and half a farthing has been chalked on that lid since the seventeenth of the second month and it is the right rate and it is not going anywhere tonight, and one of the people carrying those buckets is a girl of fourteen who walks to that pump every morning and she has not asked me a single question about the water and I have been looking for one since the seventeenth of the second month.
 
 “So the rate stands. And I am not going to rub your name off the entry of the twenty-eighth, because a clerk does not rub out a name, and because you said you wanted to be in it twice.”
 
@@ -104,7 +104,7 @@ They did it on the seventeenth, at the second bell, in about twenty minutes, and
 
 “The third line is not mine,” said Nell Ambrey. “That is Oakes, and it is correct, and I am not going to take it out.”
 
-And Garvin Slade read it standing up, and said that it was the first time in eleven years that anybody in his trade had made a note in a book about anything he had said, and that he was going to think about the word *towards* for a while, and that he had a booth to open at the fifth bell.
+And Garvin Slade read it standing up, and said that it was the first time in as long as he had had the booth that anybody in his trade had made a note in a book about anything he had said, and that he was going to think about the word *towards* for a while, and that he had a booth to open at the fifth bell.
 
 ---
 
@@ -128,7 +128,7 @@ She took the salt. She said that she would think about it. And that was the whol
 
 ---
 
-And in the room over the pump, on the same morning, a woman of twenty-nine read the whole of the entry of the fourteenth out loud to herself in a loud voice, standing, with the barrow against the wall, because a bench has never read a line aloud, and then she sat down on the step and did not do a run for a while, which is the first time anybody has seen her not do a run in about eleven years.
+And in the room over the pump, on the same morning, a woman of twenty-nine read the whole of the entry of the sixteenth out loud to herself in a loud voice, standing, with the barrow against the wall, because a bench has never read a line aloud, and then she sat down on the step and did not do a run for a while, which is the first time anybody has seen her not do a run in about eleven years.
 
 ---
 

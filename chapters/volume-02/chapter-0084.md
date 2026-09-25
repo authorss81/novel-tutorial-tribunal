@@ -112,7 +112,7 @@ He stood in the room for a while with his hands behind him.
 
 “My sister keeps the family things,” he said, “and she would have my name on it inside a month, and she would have had my name on it a hundred and ten years ago when it should have been settled, and I have spent nine years being the one it was not settled with. Unnamed is better than that.”
 
-“It is,” said Nye, “and I am not going to improve on unnamed, and I have never in three years been gladder to be laughed at than I am at the word *theatre* in a rule I wrote on a bench of three's own motion nine days ago.”
+“It is,” said Nye, “and I am not going to improve on unnamed, and I have never in three years been gladder to be laughed at than I am at the word *theatre* in a rule I wrote on a bench of three's own motion this morning.”
 
 She read the entry back to him twice. He could not read it, and he made her do it, and when she had finished he touched the book with one finger on the line, the way a man touches a gate he has just had closed that was standing open in the wind, and then he went out into the lane and down it and did not look back at the shop.
 

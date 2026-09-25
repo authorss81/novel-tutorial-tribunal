@@ -100,11 +100,11 @@ Blore was quiet for a while, and the cart came, and he shunted it across on the 
 
 ---
 
-He stood up, and looked at the deck, and then said the thing that was actually going to cost Blore the most, and he said it in a way that showed he had been carrying it down eleven miles.
+He stood up, and looked at the deck, and then said the thing that was actually going to cost Blore the most, and he said it in a way that showed he had been carrying it down nineteen miles.
 
 “Now the part I have not told you and came for,” he said. “You have been doing your best to work out how to get the hundred and five pounds back and you have got to the right place. Forty-four pounds and four in a fund, a bench that can be written to, a man who can be sent for, an account that can be carried. That is a recoverable-looking thing. I want to put the other shape in front of you and I have not got a way of doing it that will not sound like a threat, so I am going to give it to you as a fact and you can be as angry with me as you like.
 
-“Blore. There is one hand under the deck at the ninth bridge this year, and that hand is a man who was there before you and is a better hand than you are. And in the cut banks the work has a place for a hand this week because Harl Mecken is sixty and has two of us. And this year there is a place for you here and nowhere else in this county where there is a hand out on a deck, because the span at the ninth bridge is not short of one hand and the deck at the fourth bridge has four square holes in it and the man who keeps it is sitting on it. That is not a punishment and it is not anybody's revenge and it is the true shape of a road fund that has spent its year. You are not owed a job. There is no job. There is a bench of four with a fund in it that has forty-four pounds and four shillings left, and a chamber in a city that a district can be written to, and a man who can be sent for and is not a bench, and not one of those three is a person, and in four years when you are twenty-six you will have two seasons of a span and one of them will have had four hours a day taken off it, and an apprenticeship in this trade wants two seasons and one is not two, and that is not anybody's cruelty. That is arithmetic that has been in the book since long before you were born.”
+“Blore. There is one hand under the deck at the ninth bridge this year, and that hand is a man who was there before you and is a better hand than you are. And in the cut banks the work has a place for a hand this week because Harl Mecken is sixty and has two of us. And this year there is a place for you here and nowhere else in this county where there is a hand out on a deck, because the span at the ninth bridge is not short of one hand and the deck at the fourth bridge has four square holes in it and the man who keeps it is sitting on it. That is not a punishment and it is not anybody's revenge and it is the true shape of a road fund that has spent its year. You are not owed a job. There is no job. There is a bench of four with a fund in it that has forty-four pounds and four shillings left, and a chamber in a city that a district can be written to, and a man who can be sent for and is not a bench, and not one of those three is a person, and in four years when you are twenty-six you will have two seasons of a span and one of them will have had four hours a day taken off it, and an apprenticeship in this trade wants two seasons and one is not two, and that is not anybody's cruelty. That is arithmetic that has been in the book since long before you were born.””
 
 Blore did not say anything for a while. The water came up under the cut the way it does and went back and did it again.
 
@@ -118,7 +118,7 @@ Blore did not say anything for a while. The water came up under the cut the way 
 
 “The honest one.”
 
-“The honest one is that you go and stand in that room,” said Sedge, “because your name is in it and nobody has ever asked you a single thing and you have never been in a room in your life. And when you get there there is nothing in it for you. That is what I am telling you, and I have walked you four miles from a place where somebody could pay you to sit down. You will walk into a stone room and a man with a seal will say that the court has no power over a district's road fund, and it will be true, and he will be right, and you will go out again poorer in nothing and richer in one piece of paper that has your name on it. And then you will have two choices and they are both about a room and neither of them is about money.”
+“The honest one is that you go and stand in that room,” said Sedge, “because your name is in it and nobody has ever asked you a single thing and you have never been in a room in your life. And when you get there there is nothing in it for you. That is what I am telling you, and I have walked nineteen miles to tell you it, and the room is four miles off that road, and I have been in it. You will walk into a stone room and a man with a seal will say that the court has no power over a district's road fund, and it will be true, and he will be right, and you will go out again poorer in nothing and richer in one piece of paper that has your name on it. And then you will have two choices and they are both about a room and neither of them is about money.”
 
 He waited for it, and Blore asked it.
 
@@ -132,7 +132,7 @@ Blore worked the rest of the day under the deck at the cut banks. He was at the 
 
 At the change he stopped and stood on the seat with his back to the cut and looked at the underside of a deck that had not moved, and he said out loud, to nobody, in the voice of a man reading a mark on a plate, “Nothing.”
 
-Then he went down and told Sarn Mecken, because he had to tell him and because he worked for him, and Mecken listened with his thumb and his forefinger on his own chin and then said, “Aye. Well. You've come down here for a season and there's a season here. I'll not have you saying I kept you.”
+Then he went down and told Harl Mecken, because he had to tell him and because he worked for him, and Mecken listened with his thumb and his forefinger on his own chin and then said, “Aye. Well. You've come down here for a season and there's a season here. I'll not have you saying I kept you.”
 
 “I wasn’t going to say it.”
 
