@@ -4,7 +4,7 @@ The Lower Ward Assembly met in a rented cloth hall off the fish-market lane, and
 
 Sound behaved oddly in there. A voice raised at the back arrived at the front a half beat late, which meant that anyone who wanted to be heard by the whole room had to stand in the middle aisle and project, and anyone who wanted a sentence to die before it reached the benches had only to keep talking. Three cart owners discovered this within the first ten minutes and immediately became a choir.
 
-Ilyan stood at the middle aisle with Sera on his left and Oren three rows back with the guild’s wage notice rolled in his hands. Maren Kett came in late, because Maren Kett always came in late, and took a seat on the eastern bench without hurrying, and placed a folded paper on the clerk’s table in full view.
+Ilyan stood at the middle aisle with Sera on his left and Oren three rows back with the guild’s wage notice rolled in his hands. Maren Kett came in late — he had come in late to the public extract reading, and to the road sitting, and to the line at the hearing boundary, in that order, each time a little later than the last — and took a seat on the eastern bench without hurrying, and placed a folded paper on the clerk’s table in full view.
 
 Sera asked to read it before he spoke. The clerk hesitated. Maren nodded.
 

@@ -19,7 +19,7 @@
 ## Tarin Keel
 
 - **Status:** Route-arbiter and cautious working ally. Offered a neutral boundary and a public witness list to an assembly that could not convene, without an order and without force.
-- **Change:** He refused to let Ilyan's narrow inspection request become a rule that a worker's refusal can halt a crossing, because a load does not care whose objection is in the record. He then identified, in front of witnesses, that the district ledger's refusal column already existed because the same clerk had filled two lines of it himself, and forced the household's refusal out of the position column and into the fourth column where a refusal belongs. He wrote it into a public witness list at the evidence session rather than a judgment, and he holds the Saltwheel crossing-side marker. He continues to distinguish a boundary from a laborer and will not cross that line for Ilyan or for anyone.
+- **Change:** He refused to let Ilyan's narrow inspection request become a rule that a worker's refusal can halt a crossing, because a load does not care whose objection is in the record. He then identified, in front of witnesses, that the district ledger's fourth column already existed because the same clerk had filled two lines of it himself; Oren used that to make the district clerk rewrite the household's entry. He wrote the sequence into a public witness board at the evidence session rather than a judgment, and he holds the Saltwheel crossing-side marker. He continues to distinguish a boundary from a laborer and will not cross that line for Ilyan or for anyone.
 - **Current custody:** The Saltwheel crossing-side marker bearing the private refusal wording remains under his protection. The count book with the guild's recorded offer and refusal is in the guild's own keeping.
 
 ## Tamsin Ro
@@ -30,7 +30,7 @@
 
 ## Neris Ro
 
-- **Status:** Tamsin's mother and a dye-yard tally worker. Her room on the lower road is now an entered, sworn record; her work hour and quarter-bell start are recorded; the household's crossing is no longer credited as maintenance labor.
+- **Status:** Tamsin's mother and a dye-yard tally worker. Her room on the lower road is now an entered, sworn record, and the district's four concessions — the admitted landlord's book, Lio's tally with the support column struck, the half-hand removed from the wage bill, and a stable quarter-bell crossing hour with a work record that follows her between employers — were offered and accepted around a signature she refused. The concessions are promised on the record but are not all shown performed; the crossing hour and the portable work record are the two not yet shown in action. The household's crossing is no longer credited as maintenance labor.
 - **Consent boundary:** The flood account remains disputed, preserved, and refused. The names inside it were never consenting witnesses. She has now refused her refusal publicly a fifth time and told a clerk she would not perform it again.
 - **Current want:** A route to work and a room without permanent registration. She refused a maintenance acknowledgment on the ground that the charter has no exit, so a signature would bind the household to a rule it could never leave, and she said the reason out loud so it would be on the record. She has accepted the four concessions offered around the signature and refused the signature itself.
 
@@ -61,17 +61,17 @@
 - **Limit:** He is not a villain and does not think he is doing harm. He describes his own job accurately, believes the entry is lawful, and has twice entered a fact against the district's instinct at a household's request. The chain he is part of names no responsible person, and he is the one person in the case who can be shown, step by step, doing exactly what he was sent to do. The office that authorized the printed form is a **preservation authority** — a stamp with no person whose function is to keep records through a period in which records are being kept. Preservation and enforcement share one signature. Sera has one question a day at that desk and has spent hers.
 - **Institutional context:** the ninth bridge belongs to Orison's lower ward, and Vale is that ward's maintenance clerk. Tovin Dain attends in a borrowed capacity as the enforcing officer of the adopting district, with no standing on the bridge. Bevin Larch is the lower ward's schedule clerk.
 
-## Maren Kett, Tovin Dain, Meral, and Halden Moot
+## Maren Kett, Tovin Dain, and Halden Moot
 
 - **Maren Kett:** Won the materials-store hold in the assembly by citing the Bench's own refusal to hold enforcement in the Saltwheel matter. Wants one legible rule with no roof. He is beginning to be right about more than he is right about.
 - **Tovin Dain:** Served the maintenance acknowledgment on the guild's crew after the household refused it, and lost on it. He is a credible institutional actor whose enforcement keeps exposing the transferred cost.
-- **Meral:** The common register still carries the district's added line, *acknowledgment inferred from continued use*, and the copied petition is still mounted and still dangerous.
+- **The common register, without Meral:** Meral, the Merefen petition clerk of Chapters 12–20, does not appear in Chapters 21–30 and has had no scene. His open line is the district's own addition to that register, *acknowledgment inferred from continued use*, and the copied petition is still mounted and still dangerous. If he returns, he is returning to a file he last touched before the copied-precedent arc turned into a guild argument, and he is not the same officer as Meridith Vale.
 - **Halden Moot:** The Lower Ward Assembly's quorum clerk. Procedurally correct throughout: a notice to a petition box is an undelivered notice, an empty bench is not a ward, and an evidence session has no findings. His shelf of routing indexes produced the batch's chain payoff by accident.
 
 ## Hanne Kolm, Sel Harrow, and Sel Harrow's office
 
 - **Hanne Kolm:** Keeps a twelve-year unsworn landlord's book of every room, name, and month on the lower road. She refused to let the assembly seal it, then swore it into the record once the household asked for it and gave nothing for it. She also refused the district's *unsworn, offered, not admitted* notation and demanded the refusal be read aloud.
-- **Sel Harrow:** Has not appeared in person this batch. The court's office has defined the limits of the examination and preserved the sealed plate. He remains a recurring institutional obstacle and a probable witness in the full hearing.
+- **Sel Harrow:** Has not appeared in person this batch and does not appear in Chapters 21–30. The court's only contact in the batch is one relayed message limiting the examination to what the record shows and one court translator at the boundary; the sealed plate was put in the locker during the first field, not here. He remains a recurring institutional obstacle and a probable witness in the full hearing.
 
 ## Relationship and continuity note
 

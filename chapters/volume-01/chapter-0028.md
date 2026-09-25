@@ -102,7 +102,11 @@ It was one page: the authorization for print run one hundred and fourteen, cut o
 
 “Because a preservation authority is also the office that routed my family’s request, and if I go at it with a bad temper I hand them a reason to be tidy, and tidy is how pages stop existing.” She folded it. “One question a day at that desk, and I have spent it.”
 
-Joren’s four apron spans went in first, from the road side, with two wedges at the third and fifth span joints. The district loaders brought stone and lime and left it at the line, because the district was not on the work list, it was the supplier, and Ilyan wrote *materials supplied by the district, labor named by each body* on the slate, and watched the distinction hold all morning without anybody having to be told to respect it.
+Joren’s four apron spans went in first, from the road side, with two wedges at the third and fifth span joints. The district loaders brought stone and lime and left it at the line, because the district was not on the work list, it was the supplier, and Ilyan wrote the distinction on the slate in the guild’s own form.
+
+**MATERIALS SUPPLIED BY THE DISTRICT. LABOR NAMED BY EACH BODY.**
+
+He watched it hold all morning without anybody having to be told to respect it.
 
 The joint course went down at midday. Oren’s crew fed it from the outside, which meant Ilsa read the scale from the road side for the first time in six years, standing in the cart lane, calling across the wedge line, and the count came back to the mark on the first run.
 
@@ -154,7 +158,7 @@ It was, in fact, a very long moment in the workroom. Oren did not use it. Joren 
 
 “Then record it and it will be one,” Oren said. “You have a pen. You have been putting my guild’s hours in a book all day because the work was done. The work was done by people who did not choose to be credited. Put the credit in the book and it will be a position too, and it will be a true one, and the next clerk who reads it will have to decide whether to argue with a household or with a piece of paper.”
 
-Vale looked at the two books for a while. Then he wrote it, in his own hand, in the flat pressed letters, with the position and the body and the offered and the declined, and he did not sign it as a fact, because it was not a fact. He signed it as an entry, with the hour and the version, and the hour was after the last bell of light, and the version was one, and it was the first page in Orison where the refused and the paid were in the same book and could not be separated by anybody who did not want to cut a page out.
+Vale looked at the two books for a while. Then he wrote it, in his own hand, in the small square letters he used when he was being careful, with the position and the body and the offered and the declined, and he did not sign it as a fact, because it was not a fact. He signed it as an entry, with the hour and the version, and the hour was after the last bell of light, and the version was one, and it was the first page in Orison where the refused and the paid were in the same book and could not be separated by anybody who did not want to cut a page out.
 
 The two books were sewn together and the cord was knotted twice and a piece of the ward’s petition-box string was used for the second knot, which Neris did and did not explain.
 
@@ -175,7 +179,7 @@ Oren looked at it for a long time.
 
 “So the paper was there first,” he said.
 
-“The paper was there first,” Vale agreed, and did not say anything else, and did not need to, because he had said it with the flat honesty of a man who had spent a week discovering that being the hand was not the same as being the reason, and who was tired of it, and who had just written a household’s refusal into a book where it could not be cut out without a signature, a version number, and an hour.
+“The paper was there first,” Vale agreed, and did not say anything else, and did not need to, because he had said it with the honesty of a man who had spent a week discovering that being the hand was not the same as being the reason, and who was tired of it, and who had just written a household’s refusal into a book where it could not be cut out without a signature, a version number, and an hour.
 
 “Keep the strip on,” Joren said. “Somebody will want that book.”
 

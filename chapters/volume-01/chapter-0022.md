@@ -110,7 +110,7 @@ Vale’s mouth moved a fraction. “I am not here to take the book. I am here be
 
 “Third,” Ilyan went on, ignoring him. “Work. Neris’s shift at the dye-yard, her tally hours, her foreman’s record. That is an employment record. It goes to the dye-yard and to the district employment desk. It is not testimony, it is not access, and nobody in this lane has the right to read it to prove a point about a bridge.”
 
-Neris said, “The foreman has already written to me.”
+Neris said, “The foreman has already written to me.” She took the letter out of her coat and handed it over, because she had read it four times and had stopped being able to see what was on the page. It was employment register, and employment register was on Oren’s sheet, so the hours and the post and the word for provisional came to Ilyan without effort. The sentence that mattered was the shortest one on the page, and it was in the dye-yard’s own hand, where nobody had thought to simplify anything.
 
 “What did he say?”
 
@@ -152,7 +152,7 @@ Then, four nights back, on the night the stay was entered into the district’s 
 
 **RO HH — PRESENT. CROSSING HOURS 1st BELL TO DUSK, WALKING LOAD. ½ HAND PER CROSSING, DAILY. CREDIT TO WAGE BILL.**
 
-Underneath, in the guild apprentice’s copying hand and then in a second, smaller hand, the entry had been matched against the district schedule by number. The number was a schedule line, not a guild line. And the hand that had matched it was the same flat unhurried hand that had stood in the shelter lane and explained the ground floor without once looking at a sleeping child.
+Underneath, in the guild apprentice’s copying hand and then in a second, smaller hand, the entry had been matched against the district schedule by number. The number was a district form number and not a guild line, which meant it had come off a sheet printed once and issued to more than one office. It meant Vale could match a line here that had been handed to him in a lane eleven streets away, without the line ever having been his line in the first place. And the hand that had matched it was the same unhurried, pressed hand that had stood in the shelter lane and explained the ground floor without once looking at a sleeping child.
 
 Ilyan stood in the workroom holding a ledger he had no right to alter, and the arithmetic was simple and complete. The district had not forged a signature. It had not even needed a form. Neris Ro had crossed a bridge on her way to work, and somewhere between the ninth bridge and a schedule roll a half-hand had been counted out of the guild’s wage bill, and the household had been paying, in its own footsteps, toward a maintenance burden it had refused in front of the Bench and would refuse again in front of anyone.
 

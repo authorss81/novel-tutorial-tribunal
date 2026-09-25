@@ -74,7 +74,7 @@ Nobody had anything after that. It was the third time she had separated those tw
 
 “Ask the record-holder,” Dain said from the door, “whether he intends to submit the pre-arrival paper.”
 
-The room went quiet in a way Ilyan had learned to distrust.
+The room stopped. Ilyan had learned over the week to distrust that particular stop, because in this city a silence was usually a record of something that had just been decided without him.
 
 Sera stood.
 
@@ -102,7 +102,7 @@ He sat down.
 
 “The paper is in the *court’s* record,” Sera said, “on a routing out of a plate office, entered at a slot, by nobody who can be named. It is not evidence of anything until somebody states what it is evidence of, and the moment he states it, it becomes a request to reopen, and the moment it is a request to reopen, the stay stops. I will not do that to that household on the strength of a chain that has two locations and no speaker.”
 
-Ilyan sat in a hall that had been built for grain counts and had a woman in it telling him no for the second time in three days, and he felt the old sickening pull toward the sentence *the record is not the only thing that matters* and he did not say it, because it was the sentence he had used on Neris in a room above a lock-and-ledger shop, and he had learned in a single afternoon what it was worth.
+Ilyan sat in a rented cloth hall where a voice raised at the back arrived at the front a half beat late, with a woman in it telling him no for the second time in three days, and he felt the old sickening pull toward the sentence *the record is not the only thing that matters* and he did not say it, because it was the sentence he had used on Neris in a room above a lock-and-ledger shop, and he had learned in a single afternoon what it was worth.
 
 “All right,” he said. “I will not submit the paper.”
 
@@ -148,7 +148,7 @@ Hanne Kolm came at the last bell, which meant she had walked down from the lower
 
 Neris did not give a speech. She gave the crossing hours, the route to the dye-yard, the shift, the room, the provisional lease, and the half-hand that had been credited against the guild’s wage bill every morning since the night of the stay, and when Moot asked her whether the household wished to be recorded as refusing the maintenance acknowledgment, she said, “My refusal is already in the guild’s book, in the district’s book, in the ward’s book, and on the back of a strip of paper from a print shop. I am not going to say it a fifth time so that a room full of officials can feel that they obtained it.”
 
-Nobody had an answer to that, and it was not an answer the hall needed, and it was the single most useful refusal in the whole evening.
+The hall let it stand, and the letting stand was the single most useful thing anybody had done all evening.
 
 Moot began to close the sitting, and stopped with his pen above the book, because of a noise from the corner where the ward’s notices were kept.
 
@@ -160,7 +160,9 @@ It was a routing index. Every notice the assembly sent went out with a routing, 
 
 He read down a column of dates, and then stopped, and read one line twice, and then turned the index around so the middle aisle could see it.
 
-The middle aisle could not read it. But the System could, because a clerk in a court building had handled a Bench custody index inside the boundary, and handling it had been an act of custody, and custody indexes are records, and the translator had entered the record into the open case. Ilyan saw the formal lines appear in front of him like weather coming over a ridge.
+Moot read the four lines aloud, twice, and then did the thing that made them a record instead of a story told in a hall: he wrote the shelf, the box, the two dates and the stamp on the session sheet, and entered the page as an exhibit in the sitting. That was the only way anything got into a record in this room with no quorum behind it.
+
+The middle aisle could not read it from where it stood. But the page was now an entered exhibit inside a boundary that a court clerk had already set across a public record, and custody indexes are records, and the translator had taken it. Ilyan saw the formal lines appear in front of him like weather coming over a ridge.
 
 **MAINTENANCE-REVIEW CONDITION, NINTH BRIDGE: ORIGINAL ROUTING, BRIDGE PLATE OFFICE.**
 **REROUTED ON EXECUTION OF THE CURRENT WORKING PLATE, TO CONTINUITY DESK, C—2.**

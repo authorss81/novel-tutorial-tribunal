@@ -24,6 +24,10 @@ Neris read it twice in the lane light. Tamsin was awake behind her, sitting on t
 
 “That is what I asked.”
 
+From the lane mouth Ilyan could follow the office words, because Vale had read them out loud in the working register that came off the district’s own forms, and four fifths of the paragraph was that register. The fifth part was the machinery — what a signature gets joined to, and what a signature carries into — and none of it was on any sheet in his head, and it was the whole of the question.
+
+So he watched her face instead, which was a thing he had gotten better at.
+
 Vale waited. He had the professional stillness of a man who understood that this was the moment of the whole morning and that nothing he said next would be for his own benefit.
 
 “It does not end because it does not have to,” Neris said. “It ends when the bridge charter does. I sign a maintenance acknowledgment inside a charter that has no maintenance review, no appeal, and no exit, and from that moment the burden on this household is joined to a rule I cannot leave. If the bridge is reviewed, my acknowledgment carries into the review. If the bridge is amended, it carries into the amendment. If the bridge is left as it is, then I have signed a thing with no end and I have no door.”
@@ -44,11 +48,19 @@ Vale stood with the sheet in his hands for a moment, and then he did a thing tha
 
 “Write that,” Neris said. “And write that I asked you to write it.”
 
-He did. Then he went up the lane to the workroom with the acknowledgment still in the case, unused, because the district office had a second copy and a second use for it.
+He did. Then he took out a second sheet, which was the ground floor, and read that one out as well, standing up, in the same voice.
+
+The materials store had run its three days and lapsed without ever being occupied, because a materials store wants a count before and a count after and the office had produced neither. It had not been re-entered. To re-enter it, the district would have had to serve notice on a household whose tenancy was by then an admitted record, and a household with an admitted tenancy is a household the district is required to serve, and the office had three people in it and a schedule it was already late on.
+
+“So the drying room is mine,” Neris said.
+
+“The drying room is yours,” Vale said, “and I want that written down in the same words, because in three weeks somebody will find the old roll and read it as live. It is not live. I am telling you it is not live on my own initiative and I am not paid extra for it.”
+
+He closed the case. Then he went up the lane to the workroom with the acknowledgment still inside it, unused, because the district office had a second copy and a second use for it.
 
 By the second bell it had the second use.
 
-The acknowledgment was served on the ninth-bridge guild’s crew at the public approach by the lower ward’s own maintenance office, in that office’s own words, and Oren read it standing at the chalk line with all four of his hands behind him and the count not yet running. Dain was there again, in the same borrowed capacity as before, watching a document his district had not written be refused by people it did not employ.
+The acknowledgment was served on the ninth-bridge guild’s crew at the public approach by the lower ward’s own maintenance office, in that office’s own words, and Oren read it standing at the chalk line with all four of his hands behind him and the count running underneath him. Dain was there again, in the same borrowed capacity as before, watching a document his district had not written be refused by people it did not employ.
 
 It named the crew. It named the span. It named the work: the west joint, the count at every change, the under-deck watch, the salt crack, the apron, the wedge line, the whistle, the bell before and after.
 

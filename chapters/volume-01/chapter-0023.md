@@ -32,9 +32,9 @@ Vale considered this. “The guild can be entered as the operating crew. The aut
 
 “Then leave the authority row blank and let the file say a schedule was run without an authority,” Oren said. “That is a true sentence and I will defend it in front of anybody you like.”
 
-Ilyan felt the argument he could have made arrive fully formed in his chest: that a blank authority row on a public work slate was exactly the gap a later clerk would fill with something worse, and that a name, even the wrong name, was at least a name that could be examined. It was a good argument. It was also the argument of a man who had spent his life believing that a documented wrong was halfway to a fixed one.
+Ilyan felt the argument he could have made arrive fully formed in his chest: that a blank authority row on a public work slate was exactly the gap a later clerk would fill with something worse, and that a name, even the wrong name, was at least a name that could be examined. It was a good argument. It was also the argument of a man who had spent his life believing that a documented wrong was halfway to a fixed one, and the whole difficulty with that belief is that it holds true right up until the day somebody uses the document.
 
-He let it go.
+He was not going to be the thing in the frame. Not this morning, not with a cart driver already out there reading the board before he reached his own shaft, and not on the strength of an argument that only worked at all if his name stayed on it.
 
 “Leave the authority row blank,” he said. “And put my name in the observation row, where it belongs.”
 
@@ -66,7 +66,7 @@ It came out of the eastern yard loaded with coarse salt and a tarpaulin lashed o
 
 The driver saw the slate on the frame.
 
-Ilyan watched him see it. He was close enough to watch the man’s hands, and what happened in those hands was not defiance. It was the flinch of a person trying not to be the man who had gone over a ninth-bridge work slate with the bridge record-holder’s name in the authority row on it. The driver pulled the wheel toward the outside, took the turn at the eastern apron at a speed he had never taken it before, and the near wheels went off the wedge line and struck the curbstone with a flat crack.
+Ilyan watched him see it. He was close enough to watch the man’s hands, and what happened in those hands was not defiance. It was the flinch of a person trying not to be the man who had gone over a ninth-bridge work slate with the bridge record-holder’s name in the authority row on it. The driver pulled the wheel toward the outside, took the turn at the eastern apron at a speed he had never taken it before, and the near wheels went off the wedge line and struck the curbstone with a crack that had no ring in it.
 
 The span jolted. The scale jumped. Ilsa swore, Jessa stopped calling, and the water under the deck changed its note — a higher, thinner sound, the sound a channel makes when it has found a new way to move.
 

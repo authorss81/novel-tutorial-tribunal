@@ -30,6 +30,10 @@ Oren’s eyebrows lifted a fraction. “That is a different request from the one
 
 “I would not have used that sentence,” Ilyan said. “I do not have the standing, and it is not true.”
 
+He could follow a working sentence by then, which he could not at the beginning of the week, and the reason was that the guild had needed him to. Oren had put a sheet of the span’s own two hundred words into his hand on the fourth day, in square keeper’s hand, and had told him that a man who could not take a count was a man who could not be a second pair of eyes, and that a second pair of eyes was the only thing standing between a keeper and his own memory. After that the crew had taught him the way it taught everything, by pointing at a thing and saying a word twice when he had the shape of it wrong.
+
+It was enough to follow men talking about a load. It was not enough for a clerk’s sentence or a foreman’s letter, and everyone in the workroom had quietly got into the habit of saying those things plainly when he was in the room, which Ilyan understood to be a courtesy and also a way of managing the one man in the building who was listening in a language he did not fully have.
+
 Oren studied him for a moment, then wiped a clean strip of the board and wrote a third line.
 
 **NINTH-BRIDGE WORK, NAMED: west-joint brace and pin; load-count at every change; warning bell sounded before and after; saltglass dust and lime for the joint course; eastern approach wedge (road crew, not guild).**

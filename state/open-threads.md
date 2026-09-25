@@ -19,6 +19,7 @@
 15. **The nine anchors:** Their locations, functions, and custodians remain unknown. No new final enemy has been introduced.
 
 16. **The venue clause:** The assembly moved Ilyan's public examination from its hall to the bridge span on a clause Ilyan wanted and never asked who drafted. Moot says twenty clerks draft clauses and that asking again is not available to him in the time he has. Unanswered, and it is the kind of small procedural convenience that turns out to be a technique.
+17. **Ilyan's local language is bounded and must stay bounded:** the guild's two-hundred-term work sheet, enough for load talk and employment register and nothing else. Three ceilings are marked in the prose (Ch22 foreman's letter, Ch27 the office half of Ilsa's schedule, Ch30 the acknowledgment's machinery). Do not let a later batch have him read a clerk's sentence, a legal instrument, or a district register cold, and do not let the vocabulary grow into fluency without a scene that costs him something.
 
 ## Long mystery threads
 
@@ -36,8 +37,8 @@
 - Ilyan and Sera work under a stricter boundary than before. She stopped him in a public hall, refused to let him use her family's page, and accepted him only as a record-checker with a stated division of labor. Trust remains conditional, specific, and revocable. Their first real professional victory in this batch is that the division of labor works.
 - Tamsin and Neris retain independent agency and have now twice refused to strengthen the case at their own expense. Tamsin's offered fact is unchanged; she has asked that the record state she is not a reason for the bridge. Neris has refused a signature that would bind her household to a rule with no exit.
 - Ilyan and Tarin are a working alliance with a real disagreement. Tarin refused to let a worker's refusal become a switch, and he entered the household's refusal into a district book to keep the district honest.
-- Sel Harrow has not appeared in person this batch; the court's office has continued to define the limits of the examination and to preserve the record. He remains a recurring institutional obstacle and a probable witness in the full hearing.
-- Maren Kett is a credible institutional opponent who has begun winning on his own terms and has lost nothing. Dain, Meral, and Vale remain institutional actors, not hidden culprits. Hesk Ardan and the lowland conservancy have withdrawn, which leaves Ilyan without a constituency.
+- Sel Harrow has not appeared in person this batch and does not appear in Chapters 21–30; the court's only contact is one relayed message and one translator at the boundary. He remains a recurring institutional obstacle and a probable witness in the full hearing.
+- Maren Kett is a credible institutional opponent who has begun winning on his own terms and has lost nothing. Dain and Vale remain institutional actors, not hidden culprits. Meral, the Merefen petition clerk of Chapters 12–20, does not appear in this batch and has had no scene. Hesk Ardan and the lowland conservancy have withdrawn, which leaves Ilyan without a constituency.
 - Oren Sedge's guild has accepted only named work and has won a refusal on its own reasoning, without Ilyan. Ilsa Bray, Joren Vell, Pev Sorrel, Dalla Rusk, Lio Fenn, Mava Rusk, Jessa, Mero, Puck, Coll, and Hanne Kolm each hold a boundary of their own.
 - Nadia remains an independent Earth witness; every exchange must carry a cost and no rescue shortcut.
 - The final hearing must resolve the global constitutional conflict without unanimity, a new enemy, or a reset.

@@ -169,7 +169,7 @@ She looked at him.
 
 “And one code,” Sera said. She did not open the book again. She took a slip from her sleeve instead and set it beside the lamp, and Ilyan saw that it was a rubbing she had taken an hour earlier from the back of the district’s work slate.
 
-Three marks, in the margin, in the flat pressed hand that had entered a case reference at seven in the morning.
+Three marks, in the margin, in the pressed hand that had entered a case reference at seven in the morning.
 
 **C—2 / …**
 

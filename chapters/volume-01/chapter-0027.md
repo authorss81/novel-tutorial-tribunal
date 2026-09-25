@@ -4,6 +4,8 @@ The schedule they wanted Ilsa Bray to sign was one page long and had been writte
 
 It said that the named keeper of the ninth-bridge load-count would continue to perform the inspection at every change of load, together with the under-deck watch and the salt-crack check, until the bridge charter was reviewed and thereafter until the review was concluded. There was a wage line. The wage line had an amount and no hours, and the phrase *until reviewed* appeared twice, and the second time it read *and thereafter*, which turned a sentence about a week into a sentence about a career.
 
+Half of that was load vocabulary and came to Ilyan off the guild’s sheet without effort. The office half was not on the sheet, and he was not going to guess at a document he had no standing to guess at. He needed it read back to him before he formed a view on it, which is not a thing a man admits in front of a crew he is asking to trust him.
+
 Ilsa read it standing up, twice, and gave it back.
 
 “No,” she said.
@@ -14,7 +16,7 @@ Oren took the page from her without taking her side, which Ilyan had come to und
 
 “The guild will pay the hours,” Oren said. “I will put the rate on the board myself.”
 
-“Then put the hours on the board too.” She was not angry. She had the flat, tired patience of a woman who had said this before, in other rooms, for other offices. “Six a.m. to the second bell, every change, and the under-deck watch, and the salt crack, and if I am here for a count at the third bell in the dark I want it counted as the third bell in the dark. That is all. Name them.”
+“Then put the hours on the board too.” She was not angry. She had the flat, tired patience of a woman who had said this before, in other rooms, for other offices. “From the setup before the first bell to dusk, every change, and the under-deck watch, and the salt crack, and if I am standing here for a count at the third bell in the dark I want it counted as the third bell in the dark. That is all. Name them.”
 
 “If I name them, the district says the bridge is unaffordable.”
 
@@ -24,7 +26,7 @@ The afternoon was already going wrong in the specific way afternoons do when a s
 
 Tarin had the boundary marked across both approaches and the carts held outside it. He had done that without being asked, because a count that is interrupted by a queue is not a count, and because a queue that is told it is waiting on a person rather than on a load will eventually become a crowd.
 
-“The order permits named inspectors inside the line,” he said to Ilyan, in the flat voice he used for the difference between what was allowed and what was right. “Two named guild keepers, the road party, the record hand, and the attached record-holder as observer. The workroom stays outside. The ward and the district stay outside. If a cart crosses, the count is void and we start again at the second bell, and the district will pay for the second bell because the district sent the cart.”
+“The order permits named inspectors inside the line,” he said to Ilyan, in the voice he used for reading a rule out loud, which was the only voice he had. “Two named guild keepers, the road party, the record hand, and the attached record-holder as observer. The workroom stays outside. The ward and the district stay outside. If a cart crosses, the count is void and we start again at the second bell, and the district will pay for the second bell because the district sent the cart.”
 
 “I am not asking to be inside for the count,” Ilyan said. “I am asking for something narrower and I want to say it in front of the people who will have to live in it.”
 
@@ -48,7 +50,7 @@ Oren took the schedule back, read it, and struck the second *until reviewed* out
 
 “Hours, then,” Oren said to Ilsa. “Name them and I will pay them out of the levy until the levy is spent, and after the levy is spent I will put a line on the board that says the inspection was not performed, and I will put my name on that line instead of yours.”
 
-“Second bell to dusk, every change, under-deck at every fourth change,” Ilsa said. “And the salt crack, which takes an hour and a half and which nobody has paid for since the year before last.”
+“Before the first bell to dusk, every change, under-deck at every fourth change,” Ilsa said. “And the salt crack, which takes an hour and a half and which nobody has paid for since the year before last.”
 
 “The salt crack is paid.”
 
@@ -126,7 +128,7 @@ She traced the air above the rubbing.
 
 “This edge is the load-book edge,” she said. “The plate is not a keeper’s plate. The count on a keeper’s plate is stamped in the middle, where anybody can see it. The count on a load book is cut along the edge, because a load book is a running thing and the edge is cheaper. My grandmother’s book has cuts like that down two edges and a name cut once at the front and never again.”
 
-“Nobody has ever told me that,” Oren said, and the fact that he said it in a flat voice, without embarrassment, told Ilyan more about the last twenty-two years of the ninth-bridge guild than anything the guild had ever entered in a record.
+“Nobody has ever told me that,” Oren said, and the fact that he said it in the voice he used for a gauge reading, without embarrassment, told Ilyan more about the last twenty-two years of the ninth-bridge guild than anything the guild had ever entered in a record.
 
 “The count on that plate was kept by hand,” Ilsa said. “Hand-cut, edge by edge, the way a person does when they are counting loads and are also the person the loads are counted against. And you do not count loads alone. There is a keeper, who does the work, and there is a book-keeper, who does the count and signs for it, and both of them are witnesses, because a load count that one person makes alone is a load count that the office can rewrite with a chalk line.”
 
@@ -140,7 +142,7 @@ Oren had gone very still.
 
 Ilsa looked at Oren.
 
-“She said, *a book without a second hand is only a record*,” she said. “And then the office paid her off the book and she went and did not come back, and that was the year the first field came. A week ago a levy ledger on a road over the river turned up with a witness name cut out of it in the same manner, and I have been sitting here for a week trying to decide whether the two cuts are the same hand, and I am not able to decide it, and I would like somebody in this room to stop me from deciding it.”
+“She said, *a book without a second hand is only a record*,” she said. “And then the office paid her off the book and she went and did not come back, and that was the year the first field came. I stood at the back of the Merefen hall with the rest of the people who had no business being there, the night the levy ledger was read into the record, and there is a name cut out of that ledger in the same manner. I have been sitting here for a week trying to decide whether the two cuts are the same hand, and I am not able to decide it, and I would like somebody in this room to stop me from deciding it.”
 
 Nobody in the workroom said anything. The span ticked as the temperature dropped, which was ordinary, and which was the only sound in the room for a while.
 

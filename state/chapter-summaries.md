@@ -86,7 +86,7 @@ Oren counts the guild's work in hours and posts a notice naming the ninth-bridge
 
 ## Chapter 0022 — A House at the Edge
 
-The household's shelter, room, work hour, and crossing hours are separated by Ilyan and Sera into four records with four recipients, which Meridith Vale immediately explains means four doors where there was one locked gate. The district proposes a three-day materials store on the ground that a provisional tenancy has no tenancy to protect. Tamsin is invited to repeat the bell for the assembly and chooses to say it once in the workroom, where the span is visible while she talks about it, because a keeper who can see a failure cannot stop a load. Neris offers route facts only. A work record shows the Ro household's crossing credited as a half-hand of maintenance labor every morning since the night of the stay.
+The household's shelter, room, work hour, and crossing hours are separated by Ilyan and Sera into four records with four recipients, which Meridith Vale immediately explains means four doors where there was one locked gate. The district proposes a three-day materials store on the ground that a provisional tenancy has no tenancy to protect. Tamsin is invited to repeat the bell for the assembly and chooses to say it once in the workroom, where the span is visible while she talks about it, because otherwise people will say the bell was working for her and not for the keeper who rings it. Neris offers route facts only. A work record shows the Ro household's crossing credited as a half-hand of maintenance labor every morning since the night of the stay, matched by a district form number issued to more than one office.
 
 ## Chapter 0023 — The Name on the Load
 
