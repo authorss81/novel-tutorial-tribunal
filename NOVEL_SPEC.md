@@ -15,4 +15,4 @@ A System judges whether a fantasy world is fit to continue, and every challenge 
 The verdict decides whether the world is a game, a prison, or a place where people can refuse the rules.
 ## Status
 
-Volume 01 Batch 0004 prose is generated (Chapters 31–40). Volume 01 remains in progress; the next active phase is Batch 0005, Chapters 41–50, the full hearing.
+Volume 01 is complete: Chapters 1–50 written, and the volume's resolution delivered in Chapters 41–50 — the ninth-bridge charter amended with an appeal, a visible exit, a named maintenance burden, recognized access, housing, and work for the Ro household, Ilyan's provisional standing restored, and Sera formally licensed. The Quiet Chamber's page is still missing and yielded one phrase. The next active phase is Volume 02 Batch 0001, Chapters 51–60, *The City of Exceptions*.
