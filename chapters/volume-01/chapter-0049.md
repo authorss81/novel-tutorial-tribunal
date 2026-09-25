@@ -92,6 +92,12 @@ The System put the entry into Ilyan's sight while Harrow was still refusing the 
 
 “It is the court’s text,” Harrow said. “Say so in the instrument.”
 
+“In this room it is an amendment,” Sera said, before he could move on, and he did not move on. “That is what was done to a charter and it is what the ten terms say was done to a charter. In a few days it will be called an exception, because that is the word this city uses for a thing one bridge is allowed to do that the charter does not allow, and a word costs a clerk less than an argument costs a district. Nothing in these ten terms will stop a form being printed with that word at the top of it. And when that happens, the paper in the clerk’s hand will still be the paper I verified, and the word will not be on it, and somebody will come to me and ask which of the two documents is the real one.”
+
+“Enter nothing of the kind,” Dain said. “That is a prediction and not an objection.”
+
+“It is a recordwright telling a room what a record does,” Sera said. “You asked for it in daylight. It is in daylight.”
+
 Then, because he had said he would do it out loud and not in a file, he turned to the whole approach.
 
 “A word about a precedent, since nobody has asked for it and everybody has thought about it, and I would rather it were done in daylight.

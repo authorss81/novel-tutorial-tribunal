@@ -34,13 +34,13 @@ Marda Rennick sat on the bench in the lower road all day with her leg out and di
 
 The rider came up off the fen road on the fifth day of the unloaded period, six days before the day this chapter is set on, and he had a print, and the print was two days old.
 
-It was a single sheet, printed on a district's paper from a form, and it had been printed in Halloway — a poor district on the low water, four miles below the weighhouse, with a sanitation complaint in front of its own bench and a ward that had asked for a rule — and it was an extract of the ninth-bridge settlement, and it had been printed on the second day after the ruling, before the day-book line was opened, before the re-bedding had begun, and before any of the four districts had sent anybody to ask what had been decided.
+It was a single sheet, printed on a district's paper from a form, and it had been printed in Halloway — a poor district on the low water, four miles below the weighhouse, with a sanitation complaint in front of its own bench and a ward that had asked for a rule — and it was an extract of the ninth-bridge settlement, and it had been printed on the second day after the ruling, three days into the unloaded period, while the span it was an extract of stood on four props over a channel and carried nothing at all, and nobody on this bridge had asked that district for a copy of anything.
 
 “Same words,” the rider said, handing it over, and he was fifteen and he had ridden eleven miles and he was not interested in the case. “Same words, in a different column.”
 
 It was the same words. That was the part that landed. Not a copy of a summary, not a clerk's paraphrase, not a version with the awkward parts left off: the *same words*, in the same order, in a district's typeface, on a district's paper, in a district's column.
 
-And in the fourth paragraph, where the ninth bridge's settlement said that the access condition of the span continued for a lawful traveler of this span, Halloway's print said that the gate at the low-water culvert would remain closed to any person who was not a lawful traveler of the district, and the word was the same word and it was doing the opposite work, and it had been in a printed document with a district's name at the top since the second day after a ruling that was nine days old.
+And in the fourth paragraph, where the ninth bridge's settlement said that the access condition of the span continued for a lawful traveler of this span, Halloway's print said that the gate at the low-water culvert would remain closed to any person who was not a lawful traveler of the district, and the word was the same word and it was doing the opposite work, and it had been in a printed document with a district's name at the top since the second day after a ruling that was ten days old.
 
 Maren Kett read it standing up. It took him a long time and he read it twice.
 
