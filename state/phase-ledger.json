@@ -1,5 +1,5 @@
 {
-  "currentPhase": "batch-0001",
+  "currentPhase": "batch-0002",
   "novel": "novel-tutorial-tribunal",
   "version": 1,
   "phases": [
@@ -52,18 +52,35 @@
     },
     {
       "id": "batch-0001",
-      "status": "planned",
+      "status": "done",
       "fallbackUsed": false,
       "volume": 1,
       "batch": 1,
       "startChapter": 1,
       "endChapter": 10,
+      "attempts": 1,
+      "baseCommit": null,
+      "resultCommit": null,
+      "leaseExpiry": null,
+      "nextRetryTime": null,
+      "actualModel": "opencode/space-bunny-free",
+      "note": "Chapters 1-10 written and reviewed. The batch ends with the provisional stay and the deliberate Quiet Chamber page removal; see state/batch-summary.md and reviews/volume-01/batch-0001.md."
+    },
+    {
+      "id": "batch-0002",
+      "status": "planned",
+      "fallbackUsed": false,
+      "volume": 1,
+      "batch": 2,
+      "startChapter": 11,
+      "endChapter": 20,
       "attempts": 0,
       "baseCommit": null,
       "resultCommit": null,
       "leaseExpiry": null,
       "nextRetryTime": null,
-      "actualModel": null
+      "actualModel": null,
+      "note": "Next prose phase. Use the detailed prompt in workspace/volume-01/batch-0002/PROMPT.md."
     }
   ]
 }

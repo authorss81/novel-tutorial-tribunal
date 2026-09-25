@@ -13,6 +13,6 @@ A System judges whether a fantasy world is fit to continue, and every challenge 
 
 ## Ending
 The verdict decides whether the world is a game, a prison, or a place where people can refuse the rules.
-
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+
+Volume 01 Batch 0001 prose is generated and reviewed. Volume 01 remains in progress; the next active phase is Batch 0002, Chapters 11–20.
