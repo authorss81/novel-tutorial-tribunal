@@ -39,3 +39,43 @@ The guild posts a safety order, the eastern district invokes its mounted petitio
 ## Chapter 0010 — The Stay
 
 Tamsin offers only the bell fact, Neris offers register/work/housing facts and refuses the flood account, and Oren offers the bridge’s physical sequence without accepting unlimited guild liability. Ilyan names a finite public burden attached to his identity and report through the review. The Bench grants limited provisional standing and a one-cycle stay with a public seventh-morning-bell review; the current charter remains untouched. Tamsin and Neris cross together and the repaired load holds. Sera files a licensing recommendation, then distinguishes the original Quiet Chamber page’s pre-arrival removal from the later disappearance of her duplicate and takes Ilyan to the archive.
+
+## Chapter 0011 — The Word That Traveled
+
+A Merefen courier brings an extract that detaches the ninth-bridge stay from its named bridge, crew, burden, and review date. Ilyan and Sera discover that a local clerk may lawfully reuse public wording as a precedent witness without asking the original parties. Ilyan chooses a bounded review rather than a freeze that could close the road and water route, accepting that his name will travel. Neris and Tamsin keep the Ro household’s safety, work, housing, and consent boundaries visible. The extract’s added sentence reads, “the unlisted ward may refuse at the cost of the shared road.”
+
+## Chapter 0012 — The Road That Borrowed the Bridge
+
+Ilyan observes the Saltwheel Road’s carts, water route, load marks, levy, and broken drain. The Cinder Ward is divided: some residents need the road, some cannot pay the levy, and many have no recognized address for notice. Joren Vell identifies the physical failure and refuses to sign a clean inspection without ward representation. He offers the road as a witness but rejects Ilyan’s plan, turning the local dispute toward the Bench.
+
+## Chapter 0013 — A Name in the Margin
+
+At a record shop, Ilyan and Sera find that the Merefen petition combines older road clauses and the copied ninth-bridge wording. It was entered as a precedent witness, not a ruling, but a marshal has already used it to justify a maintenance levy. Sera refuses to hide the acceptance ledger from the ward. Its final witness entry is removed, leaving a Kest fragment and a clipped continuity-cadence replacement.
+
+## Chapter 0014 — Tarin’s Boundary
+
+Tarin imposes a neutral route and public witness list after a containment order. Ilyan documents the inspection rather than directing the crowd. A loaded cart breaks the crossing-side marker and shifts the water route. Beneath the district’s newer plate, the marker carries private wording closely matching Ilyan’s Earth report: “Completion does not erase the cause of refusal.” Tarin secures the physical evidence and warns Ilyan not to request a broad emergency.
+
+## Chapter 0015 — A Good Exception, a Bad Road
+
+At the Cinder Ward, Mava Rusk refuses a maintenance acknowledgment and loses water and shelter priority. The district invokes Ilyan’s stay as settled precedent. Ilyan states that the stay was bounded by one bridge, a named crew, a household, and a review date; the copied petition has removed those conditions. The refusal triggers a road-wide closure, but ward residents use a slower route to deliver clinic herbs. A petition-box fragment survives with the words, “A burden may be refused when its effect is made visible,” while its lower half is cleanly cut away.
+
+## Chapter 0016 — Recovery Work
+
+Oren, Joren, the ward workers, and the district repair the Saltwheel Road without pretending bridge knowledge transfers automatically. The local keeper and residents name the work, hours, materials, warning line, water route, review, and exit. Ilyan documents the sequence only. The road opens under a finite local arrangement, but the district refuses to publish the ward’s refusal. A proposed renewal instruction arrives before the first interval ends; it has no end date and will become active only when entered.
+
+## Chapter 0017 — The Assembly Refuses a Clean Answer
+
+The Merefen assembly splits between road users, ward residents, and districts afraid that one unlisted ward will become a universal precedent. Ilyan refuses to offer a universal declaration and supports a visible, specific refusal. He submits his public Earth sequence for neutral comparison without accepting authorship. The comparison clerk finds a removed Quiet Chamber witness signature replaced after the old page was taken from its shelf.
+
+## Chapter 0018 — The Family Appeal
+
+Sera keeps her family’s withdrawal claim separate from the road case and accepts Ilyan only as a record-checker. The original page’s removal predates Ilyan’s crossing; her duplicate vanished during or after the first field. A formal continuity request has a valid seal but no named author, a C—2 code, and a missing witness index. Ilyan admits he cannot infer guilt from the seal and agrees to trace the ordinary chain rather than hunt a villain.
+
+## Chapter 0019 — The Copy Reaches the Road
+
+An automatic-renewal order treats the ward’s work as consent and threatens a pre-dawn closure. Ilyan and Sera frame a narrow challenge, while Joren, Dalla, and Mava each choose limited testimony. Tarin keeps the line neutral and refuses force. The Bench pauses automatic renewal, seals rather than erases the copied petition, and keeps the local route available for a short interval. A second paper using Ilyan’s private Earth sequence enters the court slot.
+
+## Chapter 0020 — The Precedent Has a Body
+
+The district offers to reopen the road if Mava signs, but she refuses the acknowledgment and accepts only the named work and public review. The ward’s refusal and labor are entered in the common register. At the morning bell, the affected people choose a fresh one-interval continuation, so the route remains open without becoming permanent precedent. Ilyan claims no authorship or general authority. Sera links the second paper to the C—2 continuity request and finds that the old bridge plate bears an S. Kest fragment; the paper’s receipt predates Ilyan’s arrival, leaving the question of how his private words entered Veyran law.
