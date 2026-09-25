@@ -38,13 +38,23 @@ Ilyan studied the two dates without touching the paper. “Two removals.”
 
 “Two known absences,” Sera said. “Do not make them one event because both involve the same page.”
 
-She looked at the empty sleeve in the archive box rather than at Ilyan. “My grandmother’s household had a well under a shared covenant. When the family wanted to leave, the current Bench said the house could petition for correction. The well remained tied to the people who stayed. That is why the family appeal matters to me. It is not an abstract return of a beautiful old right. It is a question about a house, a name, and the cost of leaving without becoming a stranger.”
+She reached into her coat and took out a flat tin measure, the kind used to draw a bucket from a shared tank. The lip was worn smooth, and a small quill had been wedged through the handle to keep the level true. She set it on the table beside the empty sleeve.
 
-Neral nodded but did not offer sympathy. “A family appeal requires a claimant, the old covenant, the burden of staying, and a remedy for leaving. The original page would help. Its absence does not make the claim invalid. It makes the chain harder to prove.”
+“My grandmother kept this,” she said. “The Quill house had its own well under a shared covenant. When the family wanted to leave, the current Bench said the house could petition for correction. The well stayed tied to the people who stayed. My grandmother went on drawing from it every morning for eleven years, and then the house emptied and the name went with it.”
+
+Neral looked at the tin measure and then at the ledger, as if comparing two kinds of record. He did not offer sympathy.
+
+“It is not an abstract return of a beautiful old right,” Sera said. Her voice had gone quiet rather than loud. “It is a question about a house, a name, and the cost of leaving without becoming a stranger. The petition box on the Saltwheel Road is the same question with a different address.”
+
+“That is the danger of saying it in this room,” Neral said. “The road case is live.”
+
+“Then let the danger sit in the record instead of in my chest.” She did not take the measure back.
+
+Neral turned the tin measure once so the worn lip faced away, and then set it down. “A family appeal requires a claimant, the old covenant, the burden of staying, and a remedy for leaving. The original page would help. Its absence does not make the claim invalid. It makes the chain harder to prove.”
 
 “Then we prove the chain we have,” Sera said.
 
-Ilyan watched her place two fingers beside the inventory mark. The motion was careful, as if touching the paper might make it speak. He understood why she had not made the road case carry her family’s claim. A public archive could be useful only if it did not become a lever in someone else’s dispute.
+Ilyan watched her place two fingers beside the inventory mark. The motion was careful, as if touching the paper might make it speak. He understood why she had not made the road case carry her family’s claim, and he understood that he had no business holding anything while she said this. A public archive could be useful only if it did not become a lever in someone else’s dispute.
 
 Neral opened a third ledger. “There is a continuity request associated with the original page.”
 
@@ -120,7 +130,7 @@ Sera watched him. “You could use the page to challenge the road petition.”
 
 “Maybe it connects a process. It does not tell us who owns the result.”
 
-Her expression softened by a fraction. It was not forgiveness. It was the recognition that he had learned a distinction under pressure.
+Her expression softened by a fraction. She was not forgiving him. She was recording that he had learned a distinction under pressure, and waiting to see whether it would survive the next convenient lie.
 
 Neral slid a thin carbon sheet across the table. “The request entered the chain through a second routing mark. It went to the Quiet Chamber, then to the bridge plate office, then to the public petition desk. The bridge plate office received it before the first hearing field.”
 

@@ -72,9 +72,14 @@ A formal notice unfolded above the desk when Meral placed his seal beside the ad
 
 **RECORD STATUS: PRECEDENT WITNESS ADMITTED FOR COMPARISON.**
 **RULING STATUS: NONE.**
-**REQUEST: PRESERVE THE LEVY LEDGER AND HOLD AUTOMATIC LOCAL ENFORCEMENT UNTIL THE WARD CAN ANSWER AT A BOUNDED REVIEW.**
+**PRESERVED: THE LEVY LEDGER, ENTRY BY ENTRY, INCLUDING THE REMOVAL.**
+**NOT GRANTED: A HOLD ON LOCAL ENFORCEMENT. THE LEVY CONTINUES PENDING A REVIEW NOBODY HAS NAMED.**
 
-Ilyan read the panel once and looked away. The Bench had made the distinction legible. It had not made it harmless.
+Ilyan read it twice. They had won the record and lost the road. The line between a precedent witness and a ruling was now officially clear, and the carts were free to keep running on the strength of a copy that was not a ruling. He looked away from the panel. The Bench had made the distinction legible. It had not made it harmless.
+
+Sera said, “So the district may keep collecting while the record is read.”
+
+Meral did not answer. His thumb stayed on the ledger box until Neral drew it away.
 
 “Who copied the extract into Merefen?” Sera asked Neral.
 
@@ -124,7 +129,7 @@ Ilyan turned to Neral. “I am asking for the ledger of people who accepted the 
 
 Neral’s gaze moved to Sera. She gave a small nod.
 
-He brought out a black tablet, its surface crowded with entries in several hands. The first pages showed road crews, cart owners, and pump workers who had accepted temporary labor or a payment. Other lines carried marks beside household names. Some marks were signatures. Some were thumbprints. Some were merely the word *seen*.
+He brought out a black-bound ledger, its paper leaves crowded with entries in several hands. The first pages showed road crews, cart owners, and pump workers who had accepted temporary labor or a payment. Other lines carried marks beside household names. Some marks were signatures. Some were thumbprints. Some were merely the word *seen*.
 
 Ilyan traced the order of the entries with his eyes. Every few lines, the burden changed: labor became a levy, the levy became a refusal, and the refusal became a reason to close the route. The record did not show a single decision. It showed people being moved through a sequence until the district could call the final result voluntary.
 
@@ -188,7 +193,7 @@ Meral looked at her. “You are making a new rule.”
 
 Ilyan filed the request through Sera’s provisional scope. It asked the Bench to preserve the levy ledger, distinguish adoption from authorship, and hold any local enforcement until the ward could answer at a bounded review. The request did not ask the court to close the road. It asked the court to prevent the copied precedent from becoming the only explanation of the road’s condition.
 
-The clerk entered the request beside the disputed chain. The tablet remained in the room, its last line exposed.
+Sera read the request back before the clerk wrote anything, because a request that asks for two things has to show which one the court gave. The clerk entered the outcome beside the disputed chain. The tablet remained in the room, its last line exposed. The ledger had been preserved and the road had not been touched. South of the river, carts would keep crossing on the strength of a copy that was not a ruling.
 
 The removed witness name was gone, though the final **Kest** remained in the margin. The replacement cadence stayed.
 

@@ -16,7 +16,7 @@ Joren Vell was already crouched at the seam. “We have one day before the distr
 
 Meral stood nearby with a schedule board. “The district will provide stone, lime, and two loaders. It will not provide unpaid ward labor after the first delivery.”
 
-A pump worker named Lio Dain held a worn tool belt. “The ward can provide the labor. We do not receive work credit against the levy.”
+A pump worker named Lio Fenn held a worn tool belt. “The ward can provide the labor. We do not receive work credit against the levy.”
 
 “Work credit is not the same as payment,” Meral said.
 
@@ -80,7 +80,7 @@ Meral looked at her. “You are asking the ward to carry a public dispute.”
 
 No one moved for a moment. Then Lio took the work slate from Joren and added a line beneath the hours: **Refusal is recorded where it occurs. It may not be used to remove water, shelter, or the right to speak at review.**
 
-Tamsin appeared at the edge of the work area with Neris. The child kept her injured leg raised on a folded blanket and carried the blue scarf from the bridge rail. She did not step over the warning line.
+Tamsin appeared at the edge of the work area with Neris, arriving behind one of Tarin’s guards. The household was still bound by the ninth-bridge stay, and the stay was what moved them: the escort had brought them over from the bridge at first light and would take them back at the evening bell. The child kept her injured leg raised on a folded blanket and carried the blue scarf from the bridge rail. She did not step over the warning line.
 
 “Are you going to sign for the work?” she asked.
 
@@ -92,11 +92,11 @@ Sera answered before Ilyan could. “It says you accepted the listed work. The d
 
 Meral looked as if he might object, but the pump workers were already watching the line. Tamsin held the blue scarf against her coat.
 
-“I don’t want to be at the bridge for another speech,” she said. “I want the warning bell to work.”
+“How many bells?” Tamsin asked. “Before the road closes, how many times will it sound?”
 
-“Then the bell stays on the work slate,” Joren said. “The crew will sound it before every load change.”
+Joren wrote it into the work slate as he answered. “The crew will sound it before every load change. If you want to count the changes, count them for yourself. You do not have to hand the count to anybody.”
 
-Tamsin considered this. “And I can decide later whether to say more.”
+Tamsin watched the water wheel turn. “And I can decide later whether to say more.”
 
 “You can,” Ilyan said.
 
@@ -104,9 +104,9 @@ Neris touched the child’s shoulder, then looked at the water trough. “Do not
 
 “It will not be,” Lio said. “The price is the work and the hours. The road gets no extra sentence because we needed it.”
 
-It was not a perfect sentence. It named an effect rather than a complete legal remedy. It was also specific enough for the people who would live under it.
+The sentence named an effect rather than a complete legal remedy, and Ilyan left it alone. It was specific enough for the people who would live under it.
 
-Ilyan finally opened his notebook. “I can document the sequence.”
+Only after the slate was signed did he take the notebook out. “I can document the sequence.”
 
 “That is your work,” Sera said. “Not the road’s authority.”
 
@@ -138,7 +138,7 @@ The arrangement was written on two copies. One went to the ward’s petition box
 
 Meral did not sign the copy. Joren and Lio did. Mava signed only the part that described the ward’s work, then wrote **no acknowledgment** beneath it. The mark was clear enough to be copied. Meral looked at it as if it were a stone in the wrong place.
 
-The road opened for the named route at midday. It was not a general opening. Carts could pass between the eastern gate and the ward pump if the load stayed under the marked limit. A footpath remained open. Water could continue through the sleeve while the road waited for the next morning bell. The arrangement ended at that bell unless the people affected chose to renew it.
+The road opened for the named route at midday, and for that route only. Carts could pass between the eastern gate and the ward pump if the load stayed under the marked limit. A footpath remained open. Water could continue through the sleeve while the road waited for the next morning bell. The arrangement ended at that bell unless the people affected chose to renew it.
 
 That was the victory. It was small, visible, and easy for the district to dislike. It also left the workers with a practical problem: the arrangement named a route, but not the people who would inspect it after the next storm. Joren wrote a second slate for the next shift. Meral supplied the material list and the district’s schedule, but the ward’s copy kept every name and hour. No one thanked Ilyan. The absence of thanks felt more honest than a speech.
 

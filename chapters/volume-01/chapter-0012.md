@@ -2,7 +2,7 @@
 
 The Saltwheel Road did not begin at a gate.
 
-It began in a yard where three broken carts waited beneath a blue-stained awning, then climbed through a low district boundary and followed the shoulder of a drainage channel. The road surface was pale stone blocks, repaired with darker wedges and held together by a line of gray binding fiber. Water ran beside it in a shallow concrete trough, carrying lime dust toward a low pump house. Beyond the trough, houses leaned against the hillside. Their doors had numbers painted above them, except for a row of smaller shelters marked only by hooks and cloth.
+It began in a yard where three broken carts waited beneath a blue-stained awning, then climbed through a low district boundary and followed the shoulder of a drainage channel. The road surface was pale stone blocks, repaired with darker wedges and held together by a line of gray binding fiber. Water ran beside it in a shallow concrete trough, carrying lime dust toward a low pump house. Beyond the trough, houses leaned against the hillside. Their doors had numbers painted above them, except for a row of smaller shelters marked only by hooks and cloth. The pump workers called that stretch the Cinder Ward. The district’s papers had no word for it at all.
 
 Ilyan had expected a road to be a line between places. The road here was a labor schedule, a water route, a set of carts, and a promise made by people who could not all afford the same cost.
 
@@ -56,19 +56,19 @@ Sera translated. Joren’s expression hardened.
 
 “Then stand where the cart can turn.”
 
-He pointed to a place beside the weighbridge. Ilyan moved there. Joren signaled to a driver, who sent a loaded cart along the road. The cart passed the first mark and then the second. On the third, its left wheel dipped. The driver pulled hard on the reins. Water surged through the trough, and the road surface gave a low, hollow sound.
+He pointed to a place beside the weighbridge. Ilyan moved there. Joren signaled to a driver, who sent a loaded cart along the road. The cart passed the first mark and then the second. On the third, its left wheel dipped. The driver pulled hard on the reins, and the road gave back a low hollow note, like a plate struck with a crack already behind it.
 
 Joren lifted one finger. “Stop.”
 
-The driver stopped. A second cart came behind him, carrying stacked baskets and a sealed water tank. The driver did not wait for permission. He tried to pass. The baskets caught the eastern curb, and a narrow marker at the crossing side cracked under the impact.
+The driver stopped. A second cart came behind him, carrying stacked baskets and a sealed water tank. The driver did not wait for permission. He tried to pass. The baskets caught the eastern curb, and the narrow marker at the crossing side cracked along its face.
 
-A line of black stone split along its face. The ward’s water channel immediately shifted toward the road. Joren seized the cart’s shoulder and shouted for the driver to back. The driver shouted back that the levy had closed the left side. Two workers from the pump ran into the channel with boards.
+Joren seized the cart’s shoulder and shouted for the driver to back. The driver shouted back that the levy had closed the left side. The water in the trough climbed a finger’s width and stopped. It had found the hollow course and pressed against it, and the course had not yet given.
 
-Ilyan saw the load sequence: the first cart had exposed the hollow seam, the second had widened it, and the broken marker had changed where water could run. The district’s rule had turned a maintenance problem into an argument over who was allowed to use the road. The road had then made the argument physical.
+Ilyan saw the load sequence: the first cart had exposed the hollow seam, the second had put weight where the first had already hurt, and the cracked marker had turned a repair question into an argument about who was allowed to use the lane. The district’s rule had done the arguing. The road had answered with a sound instead of a sentence.
 
-Joren and the workers wedged the boards into the channel. The water slowed. The cart backed away with one wheel scraping stone.
+Joren knelt and laid his palm flat on the stones. “Hollow,” he said. “Not through. If it goes through, the channel takes the road and the ward’s tanks fill with lime.” He looked up at the marker. “And that is now weak enough that one heavier wheel finishes it.”
 
-Ilyan looked at the broken marker. “The load was unsafe before the refusal.”
+Ilyan looked at the cracked marker. “The load was unsafe before the refusal.”
 
 Joren’s eyes met his. “Yes.”
 
@@ -80,7 +80,7 @@ Sera spoke to the people gathered around the pump. She asked who had authorized 
 
 A clerk in a brown vest stood at the weighbridge with a ledger under his arm. He had followed them from the yard. His nameplate, translated by Sera, read **Meral, petition clerk**.
 
-Meral pointed to the broken marker. “The ward’s refusal caused the cart to move outside its lane.”
+Meral pointed at the cracked marker. “The ward’s refusal caused the cart to move outside its lane.”
 
 “The cart driver chose the lane,” Ilyan said.
 
@@ -104,7 +104,7 @@ Sera touched the page with one finger. “Do not make them one person.”
 
 “Start by refusing to merge the voices.”
 
-He drew three columns instead of one. **Road workers. Ward residents. District office.** Under the last, he wrote **burden named by whoever can change it**. It was not a solution. It was a way to avoid making the solution lie.
+He drew three columns instead of one. **Road workers. Ward residents. District office.** Under the last, he wrote **burden named by whoever can change it**. The page solved nothing. It only kept him from writing a solution that lied.
 
 Meral snapped the ledger shut. “You cannot inspect the petition from the road.”
 
@@ -136,7 +136,7 @@ Meral’s hand moved to the ledger. “You are making an accusation.”
 
 Sera translated the exchange for the people around the pump. A murmur followed. One of the water carriers stepped forward and said that the district had promised the ward a place in the review, but the invitation had been sent to an address that did not exist. Another person said the clerk had used a public copy of the ninth-bridge stay as the “precedent witness” and that the marshal had already approved a maintenance levy because of it.
 
-Ilyan looked at the broken marker. The private carbon sentence was no longer an abstract danger. It had become a rule that could close a road, raise a levy, and make a refusal look like a threat to everyone who used the route.
+Ilyan looked at the cracked marker. The private carbon sentence was no longer an abstract danger. It had become a rule that could close a road, raise a levy, and make a refusal look like a threat to everyone who used the route.
 
 Joren approached the marker and knelt. He brushed away the water film, then stopped with his hand above the cracked stone.
 
@@ -158,4 +158,4 @@ He lifted the slate and walked toward the court courier at the edge of the yard.
 
 “You can stand behind the line,” Joren said. “You do not get to stand in front of my witness.”
 
-Ilyan moved behind the marked stone. The district carts waited on one side, the ward water carriers on the other, and the broken marker lay between them. For the first time, the copied rule had not carried his name into a clean answer. It had carried it to a place where a local worker was deciding how to speak.
+Ilyan moved behind the marked stone. The district carts waited on one side, the ward water carriers on the other, and the cracked marker lay between them. For the first time, the copied rule had not carried his name into a clean answer. It had carried it to a place where a local worker was deciding how to speak.

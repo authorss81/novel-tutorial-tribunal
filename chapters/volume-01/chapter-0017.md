@@ -4,11 +4,11 @@ The Merefen assembly met in a hall built for grain counts, not public argument.
 
 Stacks of baskets stood along one wall. A broad blackglass map of the district showed the Saltwheel Road as a pale line between the eastern gate and the river pumps. The Cinder Ward appeared as a blank notch in the boundary, marked only by a small symbol for shelter. Someone had added a fresh line from the ward to the road, then scratched away the word that had once named the people living there.
 
-Ilyan entered with Sera and stayed behind the public witness line. The line was not Tarin’s this time. A Merefen marshal had painted it around a square of floor where any person who wished to speak could stand. The arrangement was public, but it was also controlled. The marshal had placed district clerks at the two exits.
+Ilyan entered with Sera and stayed behind the public witness line. The line was not Tarin’s this time. Marshal Tovin Dain had painted it around a square of floor where any person who wished to speak could stand. The arrangement was public, but it was also controlled. He had placed district clerks at the two exits.
 
 The assembly had divided its benches before the hearing began. Cart owners sat with the eastern trade representatives. Pump workers occupied the lower steps. The ward’s residents had brought stools, a petition box, and a water carrier who would not remove her red armband. Joren Vell stood beside the road map with his hammer hanging from his belt. Oren Sedge had remained in Orison, but a bridgekeeper’s guild letter lay open on the clerk’s table, naming the finite work of the ninth-bridge stay.
 
-Maren Kett entered from the eastern side. He had not come as a defendant. He was an assembly representative whose district road shared the eastern petition’s burden, and he carried a map of three connected routes.
+Maren Kett entered from the eastern side. He had not come as a defendant. The assembly had given him a written mandate, and Sera asked to see it before he took his seat. It named the eastern routes, the cart owners who fed on them, and one instruction: oppose any local exception that let an unlisted household use a shared road without acknowledging the burden. Maren set it on the clerk’s table where anyone could read it, then unrolled his map of three connected routes.
 
 “The ninth-bridge stay worked because it was bounded,” Maren said. “The ninth bridge, the named crew, the Ro household, the review date. That is why it did not become another district-wide rule. Merefen has copied only the form because the form is what keeps the road open.”
 
@@ -40,14 +40,13 @@ Mava Rusk rose from the ward benches. She had the signed local work slate in one
 
 The marshal looked down at the map. “The common register does not distinguish refusal from nonpayment.”
 
-“Because the common register was made to hide the distinction,” Lio Dain said.
+“Because the common register was made to hide the distinction,” Lio Fenn said.
 
 The room tightened. A district clerk called for order. The marshal struck a small bell, and the blackglass map brightened with a formal notice. The System translated the public record into Ilyan’s sight.
 
-**ASSEMBLY QUESTION: MAY A LOCAL PETITION REUSE THE NINTH-BRIDGE PRECEDENT WITNESS?**
-**EVIDENCE: THE PUBLIC EXTRACT OMITS THE ORIGINAL BRIDGE, CREW, AND REVIEW DATE.**
-**BURDEN: THE WARD AND ROAD USERS MAY CARRY A LEVY WITHOUT A FINITE END.**
-**CHOICE: ACCEPT THE COPY, PAUSE ITS EFFECT, OR SEND THE QUESTION TO A BOUNDED REVIEW.**
+**THE ASSEMBLY CANNOT ADOPT A RULE FOR EVERY DISTRICT. IT MAY ANSWER ONE QUESTION.**
+**THE QUESTION: MAY THIS ROAD KEEP USING THE NINTH-BRIDGE WORDING AFTER THE CONDITIONS HAVE BEEN CUT OUT OF IT?**
+**IF THE ASSEMBLY CANNOT ANSWER, THE WORDING STAYS A COPY AND NOT A PRECEDENT.**
 
 The panel offered no universal answer. Ilyan felt the familiar temptation to treat it as a test with one correct button. He looked at the ward benches instead.
 
@@ -115,11 +114,9 @@ The assembly clerk called the comparison clerk forward. Neral came from the side
 
 The first comparison showed the public wording. The ninth-bridge stay named a bridge, a household, a guild, a load path, and a review. The Merefen extract named a road, a ward, a levy, and “when the road is stable.” The differences were not accidental punctuation. The copied record had removed the people who had made the first remedy accountable.
 
-Neral shifted the rubbing. A fragment of old binding thread rose with it. Beneath the thread, a partial witness signature was visible in the margin: the first name had been removed, but the final **Kest** remained. Beside it, in fresh ink, someone had entered a replacement line.
+Neral laid three dates in a row beneath the frame: the date on the empty sleeve’s inventory, the date the Merefen petition had been assembled from the public extract, and the date on the replacement line in the old margin.
 
-The clerk compared the date on the inventory with the date on the replacement. His face changed.
-
-“The old Quiet Chamber page was removed from its shelf before the external witness arrived,” he said. “The removed witness signature was replaced after that removal. The replacement was entered later, and the continuity seal is valid.”
+“The three do not run the way the district’s account needs them to,” the clerk said. “The sleeve was emptied before the external witness arrived. The petition was built from the public wording before the replacement line was entered. Whoever wrote that line was not copying the archive. They were making the archive agree with a copy that already existed.”
 
 The room did not become quiet. It became more crowded with questions. Maren demanded to know whether the replacement meant the original page had been recovered. Meral asked why the ward should care about an old archive. Joren said the ward cared because every rule that reached it had been edited before it arrived.
 
@@ -129,10 +126,10 @@ Sera stepped close to the frame. “Do not read the replacement as guilt.”
 
 “Good. Keep the dates separate.”
 
-Ilyan looked at the name fragment and then at his own report. The comparison had not found a culprit. It had found a sequence: a page removed, a witness name removed, a replacement line entered, and a public wording copied into a local petition. His private report sat on the table, close enough to touch.
+Ilyan looked at the three dates and then at his own report. The comparison had not found a culprit. It had found a direction of travel: a public wording copied out, a local petition built on it, and only afterward a shelf emptied and a margin rewritten so that the older record would agree. Someone had not smuggled a new burden into an old law. Someone had taken an old law and made it look like it had always said the new thing. His private report sat on the table, close enough to touch.
 
 The assembly clerk sealed the comparison frame and announced that the bounded review would proceed. No universal precedent was adopted. No party’s burden was assigned. The road stayed under the local arrangement until the next bell, and the ward’s refusal remained in the public record.
 
 As the hall began to empty, Neral whispered to Sera that the replacement line carried the same clipped cadence Ilyan had heard beneath the System. Sera looked toward Ilyan but did not explain it in front of the assembly.
 
-The comparison had not answered who had taken the Quiet Chamber page. It had shown that the answer was older than his arrival and more complicated than a single missing hand.
+The comparison had not answered who had taken the Quiet Chamber page. It had shown that the answer was older than his arrival, that it was not one hand, and that whoever had done the copying was not the person who had tidied the record afterward.

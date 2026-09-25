@@ -23,7 +23,7 @@ Sera read the note twice. “That is not in the stay.”
 
 Ilyan looked through the open window. The ninth bridge was visible beyond the roofs, a pale line over the lower road. A cart crossed while we watched. The repaired brace held, and the warning bell gave one ordinary note after the cart passed. The household’s temporary safety had become a public object in less than a day.
 
-The courier rubbed the bridge scar on the back of his hand. “Merefen says the wording is the only way to keep the Saltwheel Road open. The road carries salt, lime, and water. If the rule is challenged, the carts stop before dawn. They sent the extract to show the order is already traveling.”
+The courier’s coat smelled of the drainage channel, and the tube strap had left a dark band across his shoulder. “Merefen says the wording is the only way to keep the Saltwheel Road open. The road carries salt, lime, and water. If the rule is challenged, the carts stop before dawn. They sent the extract to show the order is already traveling.”
 
 “Who sent it?” Sera asked.
 
@@ -65,7 +65,7 @@ The courier stared at the strip. “Merefen will say the road is closed because 
 
 Sera’s eyes narrowed. “Do you want to freeze it?”
 
-Ilyan looked at the courier’s mud-caked boots. He had walked through the district before coming here. On the back of his tube strap, a white fiber clung from the road’s edge. Ilyan picked it up and rolled it between his fingers. It was not a legal clue. It was ordinary grit, proof that the extract had traveled through a working place rather than a clerk’s quiet room.
+Ilyan looked at the courier’s mud-caked boots. He had walked through the district before coming here. On the back of his tube strap, a white fiber clung from the road’s edge. Ilyan picked it up and rolled it between his fingers. The court would not accept it as anything. It accepted that the extract had traveled through a working place rather than a clerk’s quiet room.
 
 “No,” he said. “Not an immediate freeze. I want a bounded review of the copy’s chain and a request that Merefen name its own bridge, road, crew, burden, and review date before it uses the stay as precedent. If the copy cannot name those things, it should not decide who pays for the road.”
 
@@ -115,7 +115,7 @@ Sera took a clean sheet from her case. Ilyan stood at the table and wrote the ch
 
 Claimant: Ilyan Vester, attached external witness.
 
-Affected parties: the Ro household, the ninth bridgekeeper’s guild, the Eastmere district, the Merefen district, the Cinder Ward residents, the Saltwheel Road workers, and the people who depend on the road for water and goods.
+Affected parties: the Ro household, the ninth bridgekeeper’s guild, the Eastmere district, the Merefen district, the unlisted ward’s residents, the Saltwheel Road workers, and the people who depend on the road for water and goods.
 
 Disputed condition: whether a public provisional remedy may be reused as a general precedent without preserving its named bridge, crew, burden, and review date.
 
@@ -145,14 +145,12 @@ He placed his signature beneath the request.
 
 The court notice unfolded above the table, plain and narrow.
 
-**CLAIM: A public remedy may be cited beyond its original place.**
-**EVIDENCE: The copied extract names a shared road but omits the original bridge conditions.**
-**BURDEN: The affected ward and road users may be charged before a review.**
-**CHOICE: Pause the copied use, or limit this request to a bounded review.**
+**WHAT IS ASKED: A REVIEW OF THE COPIED RECORD. NOT ITS CANCELLATION.**
+**WHAT IS LEFT ALONE UNTIL THEN: THE ROAD, THE LEVY, AND EVERY PARTY’S POSITION.**
 
 Ilyan did not touch the notice. “Bounded review,” he said.
 
-Sera entered the choice through her slate. The Bench accepted the filing as an attached review because the eastern petition had already been coupled to the bridge record. That did not make Ilyan a claimant for Cinder Ward or give him authority over its residents. His role remained observation and documentation; Sera’s provisional scope extended only to the copied record and its disclosure. The local arrangement still belonged to the people who lived beside the road.
+Sera entered the choice through her slate. The Bench accepted the filing as an attached review because the eastern petition had already been coupled to the bridge record. That did not make Ilyan a claimant for the unlisted ward or give him authority over its residents. His role remained observation and documentation; Sera’s provisional scope extended only to the copied record and its disclosure. The local arrangement still belonged to the people who lived beside the road.
 
 The notice folded away, leaving the carbon sentence visible on the backing.
 

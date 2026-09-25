@@ -1,10 +1,26 @@
 # Chapter 19: The Copy Reaches the Road
 
-The automatic-renewal order arrived at the Saltwheel Road just after midnight.
+The clerk who entered the order was not Meral.
 
-Meral read it beneath the pump lamp while Ilyan, Sera, and Tarin stood inside the temporary neutral line. The district’s seal glowed on the order’s lower edge. A second seal, newer and less familiar, marked the clerk who had entered it into the active petition record. The road beneath them was dark except for the lamp’s small circle, but the water still moved through the repaired sleeve, carrying lime dust toward the ward.
+He had come down from Merefen just after midnight with a second seal, newer and less familiar than the district’s, and he worked by the pump lamp at the cart’s flat table while the rest of the road slept. The renewal instruction lay open in front of him with its entry line still blank. Beside it sat the active petition book, the one book in the district that could turn an instruction into a condition.
 
-Meral’s voice was flat when he translated. “The Saltwheel Road petition continues until the ward signs a new maintenance acknowledgment. The continuation is automatic. If the ward refuses, the district may close the route before the morning bell. The copied precedent remains attached to the ninth-bridge stay.”
+“The line is the act,” he said, without looking up. “Until it is entered, that paper is a seal on nothing. After it is entered, it is the road.”
+
+Sera read it over his shoulder. “Enter it, and a refusal becomes the cause of a closure before anyone has answered.”
+
+“Enter it, and the district has a maintenance decision instead of a guess,” the clerk said. “I was not sent to hold it. I was sent to enter it.”
+
+Ilyan looked at the blank line. It was a hand’s width of clean paper between an instruction and a road, and it was the most consequential hand’s width he had seen since he arrived. He could not fill it. Nobody at the pump could. The only person who could fill it was the man with the newer seal, and the law gave that man no reason to hesitate.
+
+Tarin arrived with two guards, ran a temporary line across the paving around the cart’s table so that the entry would happen in a witnessed space, and looked at the table before he looked at the road. “You are entering it now.”
+
+The clerk’s hand did not move. “I am entering it before the morning bell, as instructed. The order is lawful. My name goes on the seal, not on the condition.”
+
+Tarin set his record hand beside the book. “Then witness the hour.”
+
+The clerk dipped the stylus. He wrote the date, the office, and the maintenance number from the instruction, and then he made the small mark that put the instruction into the active petition record. He did not hurry. Ilyan watched a decision become true because a pen had crossed a hand’s width of clean paper, and nothing in the record would ever show the hour at which he had wished he had not.
+
+Meral read the entered order under the lamp. His voice was flat when he translated. “The Saltwheel Road petition continues until the ward signs a new maintenance acknowledgment. The continuation is automatic. If the ward refuses, the district may close the route before the morning bell. The copied precedent remains attached to the ninth-bridge stay.” Beyond the lamp’s small circle the road was dark, but the water still moved through the repaired sleeve, carrying lime dust toward the ward.
 
 Tarin looked at the order. “Who issued the continuation?”
 
@@ -20,7 +36,7 @@ Tarin looked at the order. “Who issued the continuation?”
 
 Sera stepped closer. “Show the entry that says acceptance.”
 
-Meral turned the order over. The back carried a long table of dates, marks, and payment amounts. A line from the evening’s local arrangement had been copied into the register, but the words **no acknowledgment** had been removed. The signature beneath the entry belonged to Mava Rusk only for the work slate. The continuation had added a second line in the district clerk’s hand: **acknowledgment inferred from continued use**.
+Meral turned the order over. The back carried a long table of dates, marks, and payment amounts. A line from the midday arrangement had been copied into the register, but the words **no acknowledgment** had been removed. The signature beneath the entry belonged to Mava Rusk only for the work slate. The continuation had added a second line in the district clerk’s hand: **acknowledgment inferred from continued use**.
 
 Ilyan looked at the road. The route was open because the ward had carried the repair work. The district wanted to turn continued use into consent to a rule the ward had refused.
 
@@ -90,10 +106,9 @@ He placed one hand on the neutral line, not touching the active plate.
 
 A formal notice appeared above the road as Sera entered the challenge. The System translated the immediate record.
 
-**CLAIM: THE COPIED PETITION RENEWS WITHOUT A NEW ACKNOWLEDGMENT OR REVIEW.**
-**EVIDENCE: THE WORK ORDER RECORDS WARD LABOR; THE COMMON REGISTER REMOVES THE WARD’S REFUSAL.**
-**BURDEN: A ROAD CLOSURE MAY FALL ON PEOPLE WHO DID NOT ACCEPT THE RENEWED BURDEN.**
-**CHOICE: PAUSE THE RENEWAL FOR ONE SHORT INTERVAL, OR ALLOW THE AUTOMATIC ORDER TO TAKE EFFECT.**
+**THE RENEWAL IS NOW ENTERED. THE ENTRY LINE IS FILLED.**
+**THE ONE QUESTION BEFORE THE BENCH: DOES THE AUTOMATIC EFFECT PAUSE, OR DOES IT RUN UNTIL SOMEBODY SAYS OTHERWISE?**
+**A PAUSE IS NOT A RULING. THE PETITION STAYS IN THE RECORD WITH ITS TERMS VISIBLE.**
 
 Ilyan did not touch the notice. “One short interval,” he said. “Until the public review.”
 

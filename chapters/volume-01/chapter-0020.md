@@ -1,34 +1,26 @@
 # Chapter 20: The Precedent Has a Body
 
-The district offered the ward a choice before the morning bell.
+The district’s offer reached the ward before the pump lamp had burned down.
 
-If Mava Rusk signed the maintenance acknowledgment, the Saltwheel Road would reopen for the ordinary cart lane, the shelter delivery board would be restored, and the district would withdraw the automatic-renewal order. If she refused, the road would remain open only for water carriers and people named in the local work slate. The ward’s refusal would be entered in the public register, where carts and landlords could see that the road depended on a condition the district did not recognize.
+The offer gave them until the morning bell. If Mava Rusk signed the maintenance acknowledgment, the Saltwheel Road would reopen for the ordinary cart lane, the shelter delivery board would be restored, and the district would withdraw the automatic-renewal order. If she refused, the road would remain open only for water carriers and people named in the local work slate. The ward’s refusal would be entered in the public register, where carts and landlords could see that the road depended on a condition the district did not recognize.
 
-Mava read the offer twice. “They want the refusal visible.”
+Mava looked at the last line. “They want the refusal visible.”
 
 “They want it legible as a threat,” Ilyan said.
 
 “That may be the same thing.”
 
-The public hearing boundary had been drawn on the paving beside the pump. Tarin’s guards stood outside it. Joren Vell and two roadkeepers occupied the work line. Oren stood with them, carrying a bridgekeeper’s tool that he had deliberately left sheathed. Dalla Rusk and the pump workers held the water route. Lio Dain had the local work slate, its two signed copies tied through a clean cord.
+The public hearing boundary had been drawn on the paving beside the pump. Tarin’s guards stood outside it. Joren Vell and two roadkeepers occupied the work line. Oren stood with them, carrying a bridgekeeper’s tool that he had deliberately left sheathed. Dalla Rusk and the pump workers held the water route. Lio Fenn had the local work slate, its two signed copies tied through a clean cord.
 
 Sera stood beside Ilyan with the public court slate open. The copied petition remained sealed in its blackglass case. The pause from the night had not destroyed it. The words about the unlisted ward could still be read by anyone who approached the case.
 
-Meral read the district offer. “The road remains open under the existing arrangement. The ward signs, and the acknowledgment becomes a condition of ordinary maintenance. Without the signature, the district will use the local arrangement only until the morning bell.”
+Meral read the district offer again, slower this time, and then set the page down as if he had finished with it before he had. “The work has the end we named. The road does not. The office decides when the road has ended the work, by its own assessment, and it has not made that assessment.”
 
-Joren stepped toward the boundary. “Then the maintenance work has no end.”
+Joren put his hammer down on the paving. “It never does. The broken seam is visible. The water route is visible. The assessment is the one thing nobody at this pump has ever laid eyes on.”
 
-“The work has the end we named,” Meral said. “The road does not.”
+“Because an assessment is a decision, not a measurement,” Meral said. “The moment you publish the hour at which the district decides the road is finished, every cart owner on this route becomes a party to your refusal.”
 
-“Who decides that the road has ended the work?”
-
-“The district maintenance office.”
-
-“By what condition?”
-
-“By the office’s assessment.”
-
-Joren shook his head. “The broken seam is visible. The water route is visible. The assessment is not.”
+“Then publish the reason and keep the hour to yourself,” Joren said. “That is a much smaller thing than you are describing.”
 
 A cart owner called from the eastern side. “If the ward refuses, our loads stop. Do you want our families to carry that so the ward can keep its name?”
 
@@ -38,11 +30,17 @@ The cart owner’s face tightened. “That is easy to say when your shelter is a
 
 “Then give the shelter a place in the arrangement. Give the pump hours. Name the work. Show what happens when I say no.”
 
-The district clerk opened a ledger. “The common register does not recognize a ward refusal as a separate civic act.”
+The district clerk opened a ledger and turned it so the ward could read the entry. “The common register does not recognize a ward refusal as a separate civic act. It recognizes use. The register records that the ward kept using the road after the acknowledgment was refused, and from continued use it infers acceptance.”
 
-Mava pointed to the local work slate. “This is a separate civic act. Four people worked. Two roadkeepers worked. The district supplied stone. The pump stayed open. If you do not call that work, you are calling labor invisible so you can call refusal dangerous.”
+Mava pointed to the local work slate. “We did not use the road. We carried it. Use is what you did to us when you lowered the bars.”
 
-Ilyan opened his notebook but kept it below the boundary line. His role was to document the sequence, not to stand between the ward and the district. The distinction was harder to maintain than a speech would have been. Every person at the pump had a practical reason to favor the road’s opening. Every person who lived beside the broken seam had a practical reason to fear the next cart. He could not turn those reasons into a single burden without repeating the district’s mistake.
+“If carrying a road counts as agreeing to it,” Joren said, “then the guild’s own crew on the ninth bridge made the Ro household consent to the stay. Write that down and see whether a single person on this road believes it.”
+
+The clerk’s stylus did not move. “The entry is lawful until a court says otherwise.”
+
+“Then the court will have that sentence beside the slate that contradicts it,” Sera said.
+
+Ilyan held the notebook flat against his chest and kept it below the boundary line. His role was to document the sequence, not to stand between the ward and the district. The distinction was harder to maintain than a speech would have been. Every person at the pump had a practical reason to favor the road’s opening. Every person who lived beside the broken seam had a practical reason to fear the next cart. He could not turn those reasons into a single burden without repeating the district’s mistake.
 
 Sera entered the local arrangement into the public record. The court slate translated only the formal lines, but the people who gathered could hear the six named provisions as Sera read them aloud: the work, the hours, the materials, the route, the review, and the exit. The local arrangement did not amend the copied petition. It did not make the road permanently safe. It allowed the named work to continue until the morning bell while the parties disputed the automatic renewal.
 
@@ -50,7 +48,7 @@ Meral objected. “The ward is not a party to the road’s charter.”
 
 “It is an affected party to the road’s physical condition,” Joren said. “If you want its labor, you have to hear its refusal.”
 
-The marshal from the assembly stood at the edge of the hearing. He had not been named in the local petition, but the court had admitted his district’s objection as part of the copied-precedent record. He raised one hand.
+Marshal Tovin Dain stood at the edge of the hearing. He had not been named in the local petition, but the court had admitted his district’s objection as part of the copied-precedent record. He raised one hand.
 
 “If the court allows the ward to refuse an acknowledgment while still using the road, every unregistered settlement will claim the same protection.”
 
@@ -139,7 +137,7 @@ Meral’s expression remained skeptical. “The distinction will not comfort the
 
 He turned to Sera. “Your archive clue?”
 
-Sera had been watching the second paper from the night, which lay in a clear sleeve beside the public register. At its lower fold, beneath the translated sentence, the custody code **C—2** matched the code on the continuity request in the archive. A second line pointed through the bridge-plate office before ending at the public petition desk. She had not allowed the paper to enter the road petition as evidence. The active case record displayed the copied wording, while the paper remained under the clerk’s separate preservation mark.
+Sera had been watching the second paper from the night, which lay in a clear sleeve beside the public register. She had not allowed it to enter the road petition as evidence. The active case record displayed the copied wording, while the paper itself remained under the clerk’s separate preservation mark.
 
 “After the review is entered,” she said, “I need to compare the continuity request with the bridge plate inventory.”
 
@@ -149,7 +147,7 @@ Sera had been watching the second paper from the night, which lay in a clear sle
 
 Neral brought a narrow rubbing from the court locker. The old saltglass plate itself remained sealed, but the clerk had recorded its dimensions, its inventory number, and the visible edge marks before it was placed in the case. Sera held the rubbing beside the gray request and the second paper.
 
-The levy ledger’s removed witness entry ended in **Kest**. The older witness index contains a matching name, **Sava Kest**, and the continuity request carried **C—2**. The second paper carried the same code and a bridge-plate route line. On the old bridge plate’s edge notation, beneath a salt crack, a partial set of letters matched the indexed name: **S. Kest**. When Neral unfolded the paper’s lower margin, a receipt mark dated the routing before the ninth-bridge public notice and before Ilyan’s arrival. The date was ordinary ink, not a magical answer.
+The code matched everywhere. **C—2** on the continuity request, **C—2** on the second paper, and a route line that ran through the bridge-plate office before it ended at the public petition desk. Only the last mark was new. Beneath a salt crack in the old plate’s edge notation, a partial set of letters matched the indexed name Neral had read aloud in the archive: **S. Kest**. When Neral unfolded the paper’s lower margin, a receipt mark dated the routing before the ninth-bridge public notice and before Ilyan’s arrival. The date was ordinary ink, not a magical answer.
 
 Sera did not touch any of the records. “The second paper was routed through the same chain as the continuity request. The name may be a witness, a copied name, or a custody office. The records do not tell us which.”
 

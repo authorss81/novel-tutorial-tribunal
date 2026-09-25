@@ -72,9 +72,13 @@ Mava listened to the end. Then she took the paper from the clerk and tore it onc
 
 Dain raised two fingers to the guards. Not a command to attack. A command to enforce.
 
-Along the road, the gray loading bars lowered. Cart wheels stopped. The pump’s shared channel was diverted away from the ward side. A district worker turned the shelter’s delivery board so the ward could see the blank line where its allocation should have been. The water route narrowed to a single pump wheel, and a queue formed before the first person had reached it.
+Along the road, the gray loading bars came down with a sound like a dropped gate. Cart wheels stopped in four places at once, and drivers who had been shouting found themselves with nothing to do. The pump’s shared channel was diverted away from the ward side by a plank the district had thought to bring. A district worker turned the shelter’s delivery board so the ward could see the blank line where its allocation should have been.
 
 The change was immediate. This was the copied rule in motion.
+
+The water route narrowed to a single pump wheel, and the queue formed before the first person had reached it. A woman with two jars. An old man with a flat sled. A boy holding a bucket too large for his hands. Behind them, the clinic carrier with the fever herbs wrapped in oilcloth. Nobody moved faster. The wheel was the limit, and the limit did not care who stood behind whom.
+
+The district clerk wrote a line on his board and turned it so the ward could read it: **CARTS HELD. WATER HELD. ACKNOWLEDGMENT PENDING.**
 
 A young woman in the ward, carrying a wrapped bundle of fever herbs for the shelter’s infirmary, looked at the lowered bars. “The clinic needs this before dark.”
 
@@ -84,13 +88,13 @@ Ilyan felt the old urge to call the closure unlawful before he had named the law
 
 “Can the ward’s people choose a safe route?” he asked.
 
-Joren looked at the drainage channel, the broken marker, and the old footpath rising behind the pump. “Yes. It will take forty minutes and two people at the water wheel. The cart cannot pass.”
+Joren looked at the drainage channel, the empty socket where the crossing marker had stood, and the old footpath rising behind the pump. “Yes. Forty minutes each way, and it takes two people at the water wheel while the queue keeps drawing. The cart cannot pass, and the path takes one carrier at a time on the bend.”
 
 “Then ask them.”
 
-Joren called out the work. Four ward residents volunteered, including Dalla Rusk. Two district drivers refused to help because the route was not in their levy. Three ward residents chose to stay at the shelter with the water containers. No one was praised. No one was assigned. Ilyan watched the work list form on a slate: path, time, carriers, who would remain with the pump, and the fact that the cart route would stay closed until the load was safe.
+Joren called out the work. Four ward residents volunteered, including Dalla Rusk, who had been arguing with Mava about the road before the district ever did. Two district drivers refused to help because the route was not in their levy. Three ward residents chose to stay at the shelter with the water containers. No one was assigned. Ilyan watched the work list form on a slate: path, time, carriers, who would remain with the pump, and the fact that the cart route would stay closed until the load was safe.
 
-Mava and Dalla carried the fever herbs along the footpath. A boy walked ahead with a bell, not because the rule required one but because the path was narrow and the light was fading. The water wheel turned under the hands of two residents. The clinic bundle arrived as the first blue evening light reached the shelter.
+Mava and Dalla carried the fever herbs up the footpath. A boy walked ahead with a bell, not because any rule required one but because the path narrowed at the bend and the light was going. It took them fifty-one minutes. The wheel turned under two pairs of hands while a third counted the jars in the queue aloud, so that nobody would take the same turn twice and blame the next person for the wait. The bundle reached the shelter as the first blue evening light came over the ridge, and the line behind it had not shortened by a single place.
 
 The immediate rescue succeeded. The water carts remained stopped. The ward’s shelter lost its scheduled delivery. A district family waiting for a load of lime had to walk home. Mava’s refusal had not been free, and the people who had refused to help had not become villains. They had chosen the road they could control.
 

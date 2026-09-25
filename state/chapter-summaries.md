@@ -42,15 +42,15 @@ Tamsin offers only the bell fact, Neris offers register/work/housing facts and r
 
 ## Chapter 0011 — The Word That Traveled
 
-A Merefen courier brings an extract that detaches the ninth-bridge stay from its named bridge, crew, burden, and review date. Ilyan and Sera discover that a local clerk may lawfully reuse public wording as a precedent witness without asking the original parties. Ilyan chooses a bounded review rather than a freeze that could close the road and water route, accepting that his name will travel. Neris and Tamsin keep the Ro household’s safety, work, housing, and consent boundaries visible. The extract’s added sentence reads, “the unlisted ward may refuse at the cost of the shared road.”
+A Merefen courier brings an extract that detaches the ninth-bridge stay from its named bridge, crew, burden, and review date. Ilyan and Sera discover that a local clerk may lawfully reuse public wording as a precedent witness without asking the original parties. Ilyan chooses a bounded review rather than a freeze that could close the road and water route, accepting that his name will travel. Neris and Tamsin keep the Ro household’s safety, work, housing, and consent boundaries visible. The extract’s added sentence reads, “the unlisted ward may refuse at the cost of the shared road.” The ward is known only as the unlisted ward; the name Cinder Ward does not appear until Chapter 12.
 
 ## Chapter 0012 — The Road That Borrowed the Bridge
 
-Ilyan observes the Saltwheel Road’s carts, water route, load marks, levy, and broken drain. The Cinder Ward is divided: some residents need the road, some cannot pay the levy, and many have no recognized address for notice. Joren Vell identifies the physical failure and refuses to sign a clean inspection without ward representation. He offers the road as a witness but rejects Ilyan’s plan, turning the local dispute toward the Bench.
+Ilyan observes the Saltwheel Road’s carts, water route, load marks, and levy. A loaded cart exposes a hollow seam and cracks the crossing-side marker; Joren says the course has not gone through and that one heavier wheel will finish it. The breach itself is saved for Chapter 14. The Cinder Ward is divided: some residents need the road, some cannot pay the levy, and many have no recognized address for notice. Joren Vell identifies the physical failure and refuses to sign a clean inspection without ward representation. He offers the road as a witness but rejects Ilyan’s plan, turning the local dispute toward the Bench.
 
 ## Chapter 0013 — A Name in the Margin
 
-At a record shop, Ilyan and Sera find that the Merefen petition combines older road clauses and the copied ninth-bridge wording. It was entered as a precedent witness, not a ruling, but a marshal has already used it to justify a maintenance levy. Sera refuses to hide the acceptance ledger from the ward. Its final witness entry is removed, leaving a Kest fragment and a clipped continuity-cadence replacement.
+At a record shop, Ilyan and Sera find that the Merefen petition combines older road clauses and the copied ninth-bridge wording. It was entered as a precedent witness, not a ruling, but a marshal has already used it to justify a maintenance levy. Sera refuses to hide the acceptance ledger from the ward. The Bench grants preservation of the ledger and refuses the hold on enforcement, so the batch’s first filing returns worse than it went in: the record is protected and the road is not. The ledger’s final witness entry is removed, leaving a Kest fragment and a clipped continuity-cadence replacement.
 
 ## Chapter 0014 — Tarin’s Boundary
 
@@ -66,7 +66,7 @@ Oren, Joren, the ward workers, and the district repair the Saltwheel Road withou
 
 ## Chapter 0017 — The Assembly Refuses a Clean Answer
 
-The Merefen assembly splits between road users, ward residents, and districts afraid that one unlisted ward will become a universal precedent. Ilyan refuses to offer a universal declaration and supports a visible, specific refusal. He submits his public Earth sequence for neutral comparison without accepting authorship. The comparison clerk finds a removed Quiet Chamber witness signature replaced after the old page was taken from its shelf.
+The Merefen assembly splits between road users, ward residents, and districts afraid that one unlisted ward will become a universal precedent. Ilyan refuses to offer a universal declaration and supports a visible, specific refusal. He submits his public Earth sequence for neutral comparison without accepting authorship. The comparison sets three dates side by side and finds that the local petition was built from the public wording before the Quiet Chamber margin was rewritten. The copier and the person who tidied the record afterward are not the same person. Maren Kett’s written mandate is read into the hall before he argues.
 
 ## Chapter 0018 — The Family Appeal
 
@@ -74,7 +74,7 @@ Sera keeps her family’s withdrawal claim separate from the road case and accep
 
 ## Chapter 0019 — The Copy Reaches the Road
 
-An automatic-renewal order treats the ward’s work as consent and threatens a pre-dawn closure. Ilyan and Sera frame a narrow challenge, while Joren, Dalla, and Mava each choose limited testimony. Tarin keeps the line neutral and refuses force. The Bench pauses automatic renewal, seals rather than erases the copied petition, and keeps the local route available for a short interval. A second paper using Ilyan’s private Earth sequence enters the court slot.
+A district clerk from Merefen enters the automatic-renewal order into the active petition book at a witnessed hour, before anyone can stop it, and the entered record treats the ward’s work as consent and threatens a pre-dawn closure. Ilyan and Sera frame a narrow challenge, while Joren, Dalla, and Mava each choose limited testimony. Tarin keeps the line neutral and refuses force. The Bench pauses automatic renewal, seals rather than erases the copied petition, and keeps the local route available for a short interval. A second paper using Ilyan’s private Earth sequence enters the court slot.
 
 ## Chapter 0020 — The Precedent Has a Body
 

@@ -106,6 +106,19 @@ Move from the copied-precedent neighborhood arc into local institutions. The nin
 - **Action/consequence:** Ilyan supports a named, time-limited maintenance arrangement with a public review, enforceable local work terms, and a visible exit condition. The Ro household’s refusal, the guild’s finite burden, and the district’s transport effect are recorded separately. Ilyan does not claim authorship or general authority, and the current bridge charter remains unamended: appeal, enforceable exit, and durable housing/work protection are still unresolved.
 - **Ending pull:** The old bridge plate’s S. Kest fragment matches the missing witness index, while the C—2 route shows that the maintenance term and Ilyan’s private sequence may have traveled through the same pre-arrival process. The next batch opens with local institutions deciding whether to reopen the bridge record under pressure.
 
+## Repetition to avoid, carried from the batch-0002 review
+
+Chapters 11–20 ended with five filings that all returned a bounded review or a short interval. Do not write a sixth. The plot cards for 0024 and 0030 as written restate beats already delivered — Ilyan refusing a universal declaration is Ch17’s assembly scene, and a named time-limited arrangement with a public review and separately recorded refusals is Ch20’s settlement. Preserve those chapters’ outcomes and change the *shape* of how they are reached.
+
+Four pressures in the existing canon are unspent and should carry this batch instead:
+
+- **The refused hold.** In Chapter 13 the Bench preserved the levy ledger and refused to hold local enforcement. The district knows the distinction is on the record and collects anyway. An institution that has already won once legally will push there first.
+- **Acknowledgment inferred from continued use.** The common register manufactures consent from a person’s continued use of a road. Nobody has to forge a signature; leaving a person no alternative is enough. This is stronger than the copied petition and survives the pause.
+- **The entering clerk.** A district clerk with a newer seal crossed the entry line on the record and made a disputed order true. Lawful procedure, performed on time, is what actually moves the road.
+- **The date order.** The local petition was assembled from the public wording *before* the Quiet Chamber margin was rewritten, so the copier and whoever tidied the record afterward are different people. Two processes, not one hand.
+
+A good version of this batch gives at least one request a worse outcome than the last one, and lets a local institution win something on its own terms without Ilyan.
+
 ## Relationship and power guardrails for Chapters 21–30
 
 - Ilyan must lose some public support by admitting the limits of his stay and the consequences of his attached name. Growth is changed judgment and delegated work, not a new power.

@@ -44,7 +44,7 @@ The ward woman frowned. “You want a list.”
 
 “I want a sequence,” Tarin said. “A crowd has no sequence. A witness list can tell us who is present, what they are observing, and who may speak without speaking for someone else.”
 
-Ilyan opened his notebook. “Separate the list from the testimony.”
+Ilyan put the two on separate pages of his own. “Separate the list from the testimony.”
 
 “That is the point.”
 
@@ -154,7 +154,7 @@ He secured the cloth bundle under his coat. “And if your name is used against 
 
 Ilyan returned to the line. The crowd had not disappeared. It had changed shape, with names and limits written on a public slate and a broken marker in Tarin’s keeping. The district driver was already arguing over the spilled lime. Joren was calling for another inspection. The ward residents were asking who would pay for the boards.
 
-Tarin gave Ilyan a place beside the record hand, not inside the field. It was a smaller authority than the bridge stay and a more useful one. Ilyan opened his notebook and began to write down the order of the water, the cart, the marker, and the words beneath it.
+Tarin gave Ilyan a place beside the record hand, not inside the field. It was a smaller authority than the bridge stay and a more useful one. He began to write down the order of the water, the cart, the marker, and the words beneath it.
 
 The containment order warned that his next request might be used to widen an emergency. He understood the danger. He also understood that a narrow request could be lost if the record around it became too large to read.
 
