@@ -50,7 +50,7 @@ Oren took the schedule back, read it, and struck the second *until reviewed* out
 
 “Hours, then,” Oren said to Ilsa. “Name them and I will pay them out of the levy until the levy is spent, and after the levy is spent I will put a line on the board that says the inspection was not performed, and I will put my name on that line instead of yours.”
 
-“Before the first bell to dusk, every change, under-deck at every fourth change,” Ilsa said. “And the salt crack, which takes an hour and a half and which nobody has paid for since the year before last.”
+“From the setup before the first bell to dusk, every change, under-deck at every fourth change,” Ilsa said. “And the salt crack, which takes an hour and a half and which nobody has paid for since the year before last.”
 
 “The salt crack is paid.”
 
@@ -76,7 +76,7 @@ Oren rang the bell before and after. The count came back to the mark and walked 
 
 “Which is why you cannot ring a bell and stop a load,” Ilsa said. “There is a keeper on this span who can see the failure, and there is no clause that lets her do one thing about it, and if the fraction is a fraction today it is a third of a finger next month, and when it is a third of a finger the span goes somewhere between one count and the next and the clause that should have stopped it does not exist.”
 
-The carts were outside the line. The four of them had heard this. The owner of the standing lime-stone cart said, to nobody in particular and in a voice pitched to carry, that the keeper had refused her schedule, and that the bridge was not being counted, and that this was what the bridge record had done to the bridge.
+The carts were outside the line. The four of them had heard this. The owner of the standing lime-stone cart said, to nobody in particular and in a voice pitched to carry, that the keeper had refused her schedule, and that the bridge was going unwatched, and that this was what the bridge record had done to the bridge.
 
 Bevin Larch, the lower ward’s schedule clerk, who had been standing at the rope with a rolled notice he had not been able to deliver to anybody, said the rest of it. He said it politely, because clerks are trained before they are recruited.
 

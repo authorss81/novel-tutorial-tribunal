@@ -24,7 +24,7 @@ Meridith Vale was standing on the paving with his case under his arm, entirely u
 
 “That is circular,” Ilyan said. “I am in the authority row because the schedule was built around my record. That does not make my record an authority.”
 
-“It makes it the named source,” Vale said. “I did not write your name there because it is powerful. I wrote it there because the district is not permitted to schedule bridge work for a case it is not party to, and the only way to schedule work for this case is to name the case.”
+“It makes it the named source,” Vale said. “I did not put your name there because it is powerful. I wrote it there because the district is not permitted to schedule bridge work for a case it is not party to, and the only way to schedule work for this case is to name the case.”
 
 Oren spoke without looking away from the frame. “Then put the guild at the top of the board. The guild is the answer for the day’s load. That is not a courtesy. If the count does not return, the crew is the one who has to stand under the span and find out why, and I will not have their hours on a board that says a man who writes things down approved them.”
 
@@ -76,7 +76,7 @@ Oren was across the apron in four strides with his weight on the cart’s off sh
 
 “Because he was afraid of the board,” Joren said, and he was not accusing anybody. He was looking at the frame. “He took the turn wide because he did not want the cart under your name. If that slate had said the guild, he would have come round slow, because he knows our line and he would not have wanted to be the man who cracked our apron.”
 
-Ilyan wrote that down exactly. He wrote: *the third count failed at the approach, not the joint; the driver changed his line after reading the slate; the change produced the failure. The name is not a force on the span. The name is a force on the people who read it before they reach it.*
+Ilyan wrote that down exactly. The entry read: *the third count failed at the approach, not the joint; the driver changed his line after reading the slate; the change produced the failure. The name is not a force on the span. The name is a force on the people who read it before they reach it.*
 
 It was the most useful thing his notebook had held in a week and it was useless to him in the way he most wanted.
 
@@ -114,7 +114,7 @@ Oren came back from the apron with salt dust on his forearms. “The wedge holds
 
 “Name the work,” Ilyan said. “Not the bridge. The wedge. The apron. The hours. What does the load need for this afternoon to be safe, in hands, and who has them.”
 
-That was the whole of his job, and it was much smaller than he had been led to expect, and he did it in nine minutes with a borrowed slate, while Oren named the work and Joren argued about the order and Ilsa refused to give a number before she had seen the apron twice. What came out of it was not an arrangement. It was a condition for one afternoon: four spans of apron marked out, two wedges, a load limit, the bell, and a line of chalk a cart driver could see from the seat. It had no hours, no wage and no end, and it lasted until the carts stopped, and Ilyan wrote it down in that form on purpose, because the day he wrote down something that looked like a settlement was the day somebody would schedule against it.
+That was the whole of his job, and it was much smaller than he had been led to expect, and he did it in nine minutes with a borrowed slate, while Oren named the work and Joren argued about the order and Ilsa refused to give a number before she had seen the apron twice. What came out of it was not an arrangement. It was a condition for one afternoon: four spans of apron marked out, two wedges, a load limit, the bell, and a line of chalk a cart driver could see from the seat. It had no hours, no wage and no end, and it lasted until the carts stopped, and Ilyan wrote it down in that form on purpose, because the day he recorded something that looked like a settlement was the day somebody would schedule against it.
 
 Nobody asked Ilyan’s permission. That was correct, and it was the day’s actual lesson, and it went into the notebook under a heading he had to write twice because the first word was wrong.
 

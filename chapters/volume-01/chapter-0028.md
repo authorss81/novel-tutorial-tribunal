@@ -56,7 +56,7 @@ Tarin came in with two guards and did not cross the chalk line, which was his wa
 
 “I am telling you the arrangement is missing a person,” Tarin replied. “I do not have a person. I have a boundary and two guards who cannot leave the rope to hold a line for eight hours. If your arrangement does not contain the man with the whistle, then the arrangement will be correct and the road will be damaged by Thursday, and the district will be able to say anything it likes about the ward afterwards.”
 
-Oren wrote it on the slate. Joren added the hours. Ilsa added the salt crack. Tarin added the whistle and did not add himself, because Tarin had spent a week being careful about the difference between a boundary and a laborer and he was not going to cross it in front of a slate.
+Oren marked it on the slate. Joren added the hours. Ilsa added the salt crack. Tarin added the whistle and did not add himself, because Tarin had spent a week being careful about the difference between a boundary and a laborer and he was not going to cross it in front of a slate.
 
 It was, Ilyan thought, the first arrangement built by the people who would have to be standing under the span when it failed, and it was badly balanced. Four guild hands across nine slots. Four ward hours, one of them a whistle on a road corner. One road hand free and a cart lane neither of the other two would leave. No slack anywhere in it, and no way to add any without a wage that did not exist, and every person in that room knew it.
 
@@ -102,7 +102,7 @@ It was one page: the authorization for print run one hundred and fourteen, cut o
 
 “Because a preservation authority is also the office that routed my family’s request, and if I go at it with a bad temper I hand them a reason to be tidy, and tidy is how pages stop existing.” She folded it. “One question a day at that desk, and I have spent it.”
 
-Joren’s four apron spans went in first, from the road side, with two wedges at the third and fifth span joints. The district loaders brought stone and lime and left it at the line, because the district was not on the work list, it was the supplier, and Ilyan wrote the distinction on the slate in the guild’s own form.
+Joren’s four apron spans went in first, from the road side, with two wedges at the third and fifth span joints. The district loaders brought stone and lime and left it at the line, because the district was not on the work list, it was the supplier, and Ilyan put the distinction on the slate in the guild’s own form.
 
 **MATERIALS SUPPLIED BY THE DISTRICT. LABOR NAMED BY EACH BODY.**
 

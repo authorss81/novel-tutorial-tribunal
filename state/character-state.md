@@ -24,7 +24,7 @@
 
 ## Tamsin Ro
 
-- **Status:** Physically healing but not well; safe under the ninth-bridge provisional stay until the review bell at noon on the day after the pre-review sitting.
+- **Status:** Physically healing but not well; safe under the ninth-bridge provisional stay until the review bell, which rings at noon on the day of the pre-review sitting (the morning of Chapter 30).
 - **Offered testimony:** The warning bell rang before the bridge moved. She repeated it once, in the workroom, where the span was visible while she spoke, and refused the public assembly. She has sent no message to Ilyan's examination and has not attended it.
 - **Current boundary:** She asked that the file going to the bridge review state that she is not a reason for the bridge — that the rule was missing before she was under it and will still be missing if she stops crossing. The court clerk wrote it into the file, and the file has not yet been read by the review. She counts the load changes to herself and tells people the number and nothing else.
 
@@ -44,7 +44,7 @@
 
 - **Status:** Ninth-bridge keeper and load-counter, six years on the scale. Refused a forward schedule reading *until reviewed and thereafter* with a wage line that has no hours.
 - **Contribution:** She offered the physical defect — on the third run the west joint comes back to its mark, walks two fingers out, and comes back — and refused the schedule. Oren recorded both in the guild's own book as *offered* and *declined*, so the refusal is not consent and not sabotage.
-- **Family knowledge:** She was apprenticed in the year the crew list was rewritten to one witness. Her grandmother counted the plate's load-book edge and said, on being paid off the book, *a book without a second hand is only a record.* Ilsa cannot prove that the name cut out of the Saltwheel levy ledger is the same woman and has said so in public, and has asked the room to stop her from deciding it. Oren pays eight hours of salt-crack work from the guild's own account in the same entry as her refused schedule, so the district cannot read the refusal as a refusal of work.
+- **Family knowledge:** She was fourteen and standing in the room when the year was closed out. A woman who had counted the west edge for six years found a new crew list with one name on it that was not hers, said one sentence, was paid off the book, and did not come back; that was the year the first field came. Ilsa's own grandmother kept a book with load-book cuts down two edges, and **Ilsa has not established that the two women are the same person.** She has said in public that she cannot decide whether the levy ledger's cut-out name and the plate's cut are one hand, and has asked the room to stop her from deciding it. Oren pays eight hours of salt-crack work from the guild's own account in the same entry as her refused schedule, so the district cannot read the refusal as a refusal of work.
 
 ## Joren Vell, Mava Rusk, Dalla Rusk, Lio Fenn, and Pev Sorrel
 

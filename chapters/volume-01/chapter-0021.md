@@ -40,7 +40,7 @@ Oren studied him for a moment, then wiped a clean strip of the board and wrote a
 
 Ilsa Bray was already in the doorway with a hood down and a load-counter’s cord around her wrist. She was in her middle years, narrow-shouldered, with the permanently squinting look of someone who spent her life reading a scale from four feet away.
 
-“Before the first bell,” she said, reading the board, “two hands at the west joint and two at the count. At the load change, four hands. After dusk, none, because nobody counts a load they cannot see.”
+“Before the first bell,” she said, reading the board, “two hands at the west joint and two at the count. At the load change, six hands. After dusk, none, because nobody counts a load they cannot see.”
 
 “Nobody counts a load they cannot see,” Oren agreed. “That sentence is worth more than the whole levy.”
 
