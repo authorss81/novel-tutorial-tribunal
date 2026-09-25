@@ -6,9 +6,20 @@ Write **Chapters 41–50** in order as complete finished scenes. This batch deli
 
 ## Where the case stands on the morning of the hearing
 
-Chapter 39 is Day 16. Chapter 40 is Day 17. **The full hearing is Day 19, the fourth morning bell — two days after Chapter 40.** Day 10 was a Thursday, so Day 19 is a Saturday. That is worth using: a full hearing convened overnight by a district that wanted a common rule, now sitting on a weekend, with the district's own schedule lapsed and the guild's arrangement ending that same morning. Do not make anybody remark on the weekday in a modern idiom; local people will simply notice that the bells are Saturday bells and that a road is a Saturday road.
+Chapter 39 is Day 17. Chapter 40 is Day 18. **The full hearing is Day 20, the fourth morning bell — two days after Chapter 40, set "three days out" at the end of Chapter 39.** Day 10 was a Thursday, so Day 20 is a **Sunday**. That is worth using: a full hearing convened overnight by a district that wanted a common rule, now sitting on the last day of a week, with the district's own schedule lapsed and the guild's arrangement ending that same morning. Do not make anybody remark on the weekday in a modern idiom; local people will simply notice that it is the last day and that a road on it is a thin road. **Do not write Day 19 or call it a Saturday — an earlier version of this prompt did, and the chapters do not support it.**
 
 The three remedies the Bench will put on the table are the ones named in the preliminary hearing: **amend the bridge charter, break the span, or hold the hearing open.** Volume 01's resolution is fixed in `outline/volume-01.md`: the charter must end up including an appeal and a visible exit, the bridge remains open under a narrow renewable exception, the child and household receive recognized access and housing protection, Ilyan receives provisional standing and a continuing public burden, Sera becomes formally licensed, and the Quiet Chamber's missing page stays unresolved while a phrase from it gives Ilyan a new clue about the original refusal clause. **Deliver that concrete resolution.** Do not resolve the historical right of refusal, the authorship mystery, the C—2 chain's responsible person, or the First Witness.
+
+## Corrections carried forward from the Batch 0004 review
+
+Concrete defects in Chapters 31–40 were repaired after review. The prose was preserved; only these things changed, and they are canon:
+
+- **The day map is corrected.** Chapters 30 and 31 share Day 10; 32 is Day 11; 33 Day 12; 34 Day 13; **35 Day 14 and 36 Day 15 — consecutive days, not one**; **37 and 38 share Day 16**; 39 Day 17; 40 Day 18; the full hearing Day 20. Anchors in the prose: Chapter 32 finds the spent levy on a Friday morning, so Day 10 is a Thursday; Chapter 35 runs to dusk with the district's objection filed and Chapter 36 opens at the second bell with the district's answer; Chapter 38's lapse is "dusk yesterday" for Chapter 39; Chapter 39 sets the hearing "three days out" and Chapter 40 says the date is "two days off". The case entered on Day 1, so Chapter 31 is the tenth morning of it.
+- **The protagonist's name is Ilyan.** Nineteen stray `Ilya` speech tags in Chapters 32–40 were corrected. There is no short form in this manuscript. Do not introduce one.
+- Chapter 37 no longer claims the nine routine items sit "on a different week". The index carries eleven items in the plate-execution week, all routed C—2, two named in class.
+- Chapter 34 reads "either of the last two districts' road funds".
+- Chapter 40's four lines were written on the day before, not at a bell Ilyan was standing at, so do not build on a bell-hour for that draft.
+- **Pacing note.** Six of Batch 0004's ten chapters were primarily procedural conversation, and its two strongest beats both landed in the last third. This batch is the volume's payoff and should not repeat that shape: put the physical work, the load, the water, the bell, and the people on the span in front of the room early, and turn the hearing at least twice — once on a physical fact and once on something a person pays for. Do not let Chapters 41–45 be four hearings in a row.
 
 ## Binding to the Volume 01 outline for Chapters 41–50
 

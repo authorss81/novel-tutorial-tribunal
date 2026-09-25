@@ -30,7 +30,7 @@ Neris Ro was sitting on the workroom step with the household's copy of the regis
 
 “You were trying to say that the district is asking and my mother is not answering,” Tamsin said, “and those are not the same, and the second one is mine.”
 
-Oren rang the bell before the change and the bell did what it did, and the crew moved, and Ilya stood at the chalk line with his notebook shut, because that was the arrangement now: he held the book and he did not reach.
+Oren rang the bell before the change and the bell did what it did, and the crew moved, and Ilyan stood at the chalk line with his notebook shut, because that was the arrangement now: he held the book and he did not reach.
 
 When the count came back and the crew stood down, Tamsin got up off the step.
 

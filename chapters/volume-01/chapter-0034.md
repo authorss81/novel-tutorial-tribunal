@@ -18,7 +18,7 @@ Ardan stood up when Ilyan came in, which was a thing he did not have to do, and 
 
 “That is a different animal from the animal you were last time.”
 
-“It is the same animal with the paper taken off,” Ardan said. “I withdrew the citation. The citation was worthless and it was still being used to look at me in a room. What I have instead is nine carts, and a toll I pay whether or not this rule exists, and a very clear interest in whether a keeper can put a load off a bridge in the middle of a market morning.” He sat back down. “I have been told I am not a district. I would like it entered that I am not a district and that I pay more per week to these three spans than either of the last district's road fund does.”
+“It is the same animal with the paper taken off,” Ardan said. “I withdrew the citation. The citation was worthless and it was still being used to look at me in a room. What I have instead is nine carts, and a toll I pay whether or not this rule exists, and a very clear interest in whether a keeper can put a load off a bridge in the middle of a market morning.” He sat back down. “I have been told I am not a district. I would like it entered that I am not a district and that I pay more per week to these three spans than either of the last two districts' road funds does.”
 
 “Then you are a witness,” Ilta Breen said, writing, “and not a delegate, and I will enter you as one, and a witness cannot vote.”
 
@@ -205,7 +205,7 @@ Prenn looked at the slate for a while, and then she turned it over, and wrote a 
 
 “The conference has failed,” Ordway said, from the door, with the salt cart already moving in his mind. “For the record: we have failed on procedure, and not on opinion, and the difference is worth writing down, because in two years somebody will say this room refused a common rule and the truth is that two districts could not produce a document and one clerk in this room would not accept a sentence about that. Draft eleven is not adopted. Draft eleven is circulated, with the witness question open, to three districts and one bridge that is not in any of them.”
 
-“Eleven lines,” Ilya said.
+“Eleven lines,” Ilyan said.
 
 “Eleven lines that work,” Prenn said, “which is eleven more than anybody in this city has on any subject I have been to a conference about.”
 

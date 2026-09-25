@@ -104,7 +104,7 @@ Neris Ro said, “The shelter.”
 
 “And so it goes to the east bank,” Joren said, “where two households can guarantee the carrier after the date, because the east bank has a schedule that has not lapsed.”
 
-Nobody needed to say the rest of it, and Ilya did it anyway, because he was the man in the room with a record in his head and nobody else had the whole of it.
+Nobody needed to say the rest of it, and Ilyan did it anyway, because he was the man in the room with a record in his head and nobody else had the whole of it.
 
 “And on the east bank the roof is a two-person job,” he said. “A ladder and two on the ground, and a bundle is not a bundle, it is a roof, and a person with one pair of hands does not put a roof on. So the carrier takes the bundles where two pairs of hands are, and the lower road has one household with two pairs of hands and eleven with one, and the eleven do not get a roof, and they do not get a bundle, and they get told by a carrier that the span is between arrangements.”
 
@@ -114,7 +114,7 @@ Neris Ro put her hand on the bench.
 
 “Room nine,” she said. “Marda Rennick and her boy Besh. She is at the wash line at the dye-yard from the first bell and comes back at the second, and her knee went in the winter and it is not the knee that is the problem, the problem is that she cannot get up a ladder and Besh is nine and cannot be on a ladder at all. She is the household the roof goes to first when the carrier has a choice, because she is on the list, and she is going to lose it first, and she will lose it before anybody else on that road because she is the only one who cannot do it herself if it does come.”
 
-“Write that in the arrangement,” Ilya said.
+“Write that in the arrangement,” Ilyan said.
 
 “No,” Neris said. “Do not write it in the arrangement. It will be in the arrangement's price, which is the same thing, and if it is in the arrangement then somebody in a room can point at a line and feel that somebody cared, and Marda Rennick still has a hole in her roof.”
 
@@ -126,7 +126,7 @@ She turned round.
 
 Bevin Larch had come out with the roll at the last bell because a ward clerk is required to be present when a ward's hours are entered, and he stood at the rope with the roll and did not go inside it, and he had been waiting for about an hour for somebody to make him do something.
 
-“Read it back,” Ilya said.
+“Read it back,” Ilyan said.
 
 Larch did. He read the whole arrangement back in the lane-side voice of a clerk reading a roll, four sources and the hours and the fee and the shortage and the two days, and the ward's four hands, and the road party, and the cart owners, and the end of it, and the charter not amended, and the keeper who may summon a pause and may not release the span.
 
@@ -156,7 +156,7 @@ He read it back before he inked it, which was his habit and which on that evenin
 
 Then he said, to the rope, in the voice of a man who had thought about it and had decided anyway, “I am twenty-four and I have been a clerk for a year, and I am going to be asked tomorrow by somebody with more than a year whether I wrote that line myself.”
 
-“You did,” Ilya said.
+“You did,” Ilyan said.
 
 “I did,” Larch said, “and I would write it again, and I would like it noticed that I did not have to, and that the only reason anybody is going to notice is that a man standing on a rope asked me to read it back.”
 

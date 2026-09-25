@@ -22,7 +22,7 @@ Ilsa read the scale at the change.
 
 Ilyan had it on the bench at the second bell in four lines, because he had learned that the case had been lost several times to a document with nine lines in it, and that four was usually enough.
 
-He had written it at the second bell the day before, in the room above the lock-and-ledger, and Sera had read it and said nothing, which had been worse.
+He had written it the day before, in the room above the lock-and-ledger, in the last of the light, and Sera had read it and said nothing, which had been worse.
 
 Sera read it out loud at the workroom bench, in the flat voice, with the count running underneath, and it was this.
 
@@ -39,7 +39,7 @@ Sera read it out loud at the workroom bench, in the flat voice, with the count r
 
 “The half is real this morning,” Ilsa said. “It was not real on Friday. The light loads do not take it out at all and the heavy ones take more than two, and I have been saying two because two is the figure that got written on a tray by a court clerk with a good hand.”
 
-“Ilya,” Sera said. “That line is false as written and it is false in the direction of worse. If a district's assessor stands up in two days and asks whether the drift is uniform, and you say *two fingers on every load*, and he asks to see a light load, and the light load shows nothing at all, then your whole finding is a keeper's rounding error with a court stamp on it, and the span goes back into the argument about whether it is dangerous, and we lose days we do not have.”
+“Ilyan,” Sera said. “That line is false as written and it is false in the direction of worse. If a district's assessor stands up in two days and asks whether the drift is uniform, and you say *two fingers on every load*, and he asks to see a light load, and the light load shows nothing at all, then your whole finding is a keeper's rounding error with a court stamp on it, and the span goes back into the argument about whether it is dangerous, and we lose days we do not have.”
 
 “Write it as the band,” Ilyan said.
 
@@ -55,7 +55,7 @@ Sera read it out loud at the workroom bench, in the flat voice, with the count r
 
 “The guild refused it in public, on the approach, in front of the district's clerk, with the reason stated, and I am not asking anybody in this room to soften that.” Sera looked at him. “But in two days the district is going to stand up and say *the bridge is unsupervised because a keeper would not sign*, and half of that sentence is true and the other half is a choice the district made when it wrote a schedule that rested on a signature instead of a term. If we let the district say the first half we have handed them the whole sentence.”
 
-“So what do I write?” Ilya asked.
+“So what do I write?” Ilyan asked.
 
 “You write that the schedule's authority was a signature, and that a signature was refused, and that the schedule therefore lapsed on its term, and that the span is now maintained by a local arrangement with a named end date and no schedule behind it.” She put two fingers on the bench. “All four of those are true. None of them is an accusation. Every one of them is a fact the district would have to answer, and the district cannot answer any of them without saying the word *schedule*.”
 

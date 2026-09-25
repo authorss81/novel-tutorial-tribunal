@@ -124,7 +124,7 @@ They went, all four guild hands, and Ilyan stayed above, and what they found was
 
 “The joint is being emptied and the water is doing it slowly and it has been doing it for long enough that the permanent set is what it is.” Oren tapped the board. “That pale line is what the joint has taken and kept. That is a different number from the two fingers and it never comes back. The two fingers are what one load borrows while the water puts it back. I have been calling the two fingers the drift because that is the word we use, and it is the wrong word for it. The drift is the pale line. The two fingers is a loan.”
 
-“And when the loan stops being a loan?” Ilya asked.
+“And when the loan stops being a loan?” Ilyan asked.
 
 “When there is no fine left under the west seat to come back,” Oren said. “And then the joint goes out two fingers and stays out, and the second morning after that it goes out four, and there is no clause on this bridge that lets me stop a cart when that happens, because the clause that would have let me stop it is not in the charter.”
 
@@ -134,7 +134,7 @@ He said that last part without any weight at all, which was how he said the heav
 
 “Take the load off, open the seat, take out what is left of the course, and bed it again in crushed stone and lime, and let it cure long enough to be worth something. Three weeks if the weather holds. A day to open it, a day to bed it, and twenty days you do not load it.” He wiped his hands. “And crushed stone, and lime, and a crew of six for two days, and a span with no load on it for a day while we do it, and every one of those five things is somebody else's money and none of them is the guild's.”
 
-“Which one is cheapest to refuse?” Ilya asked.
+“Which one is cheapest to refuse?” Ilyan asked.
 
 “The day,” Oren said. “Everything else can be argued. If I have materials and hands, the day is a nuisance. If I have the day and no materials, I have an open bridge in the rain and a great deal of very expensive evidence about my own competence.”
 

@@ -130,7 +130,7 @@ Ilyan looked at the bench, at the count book lying open with Coll's figures in i
 
 “*Ordered*,” Roke said, half to himself. “A review may order a party to produce. It may not order a party to advocate.”
 
-“The guild will produce it,” Oren said. “And I will not advocate for it in front of a room, because this case is eleven days old and I have watched what happens to a person who advocates. You want a keeper who can stop a load? I will put the hours and the wage and the two fingers on the board every morning until somebody with a charter makes them mean something, and that is not advocacy, that is a keeper's job.”
+“The guild will produce it,” Oren said. “And I will not advocate for it in front of a room, because this case is ten days old and I have watched what happens to a person who advocates. You want a keeper who can stop a load? I will put the hours and the wage and the two fingers on the board every morning until somebody with a charter makes them mean something, and that is not advocacy, that is a keeper's job.”
 
 “And the full hearing is not scheduled,” Maren Kett said.
 

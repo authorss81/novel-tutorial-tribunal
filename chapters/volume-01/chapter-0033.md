@@ -70,7 +70,7 @@ Dain looked at him. “I cannot put a line in that I have no authority to fund, 
 
 “There,” Vale said, quietly, from behind the book. “That is the sentence, and it is the right one, and it is why this office has not put it in.”
 
-Nobody looked at him, which Ilya was later sorry about.
+Nobody looked at him, which Ilyan was later sorry about.
 
 “Because I have no authority,” Vale went on, in the same voice. “Not a keeper's authority, not a district's. The schedule I keep is a schedule of works and hours. A line in it called *stoppage* would have to be a line in the bridge charter, and the bridge charter is the Bench's, and this office does not amend the Bench's charter. So the district is being asked to pay for a power it cannot create and cannot refuse, and I have been sent three documents in twelve days that each wanted me to write down a thing I have no power to write down, and the honest answer to all three is the same and it is four words long.”
 

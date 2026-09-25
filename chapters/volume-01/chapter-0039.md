@@ -24,7 +24,7 @@ The approach was quiet in a way that had a shape.
 
 “Your provisional grant ran one review cycle,” Harrow said. “The cycle ended at the seventh morning bell. The review did not conclude, because I consolidated the matter under the emergency continuity rule, and so no new ruling was made, and so there is no grant to continue. I entered the consolidation myself and I would enter it again. It is a good rule and it is the correct instrument for a record whose chain is broken, and you are the attached record-holder of a record whose chain is broken, and those two facts are not related by anything except that they happened in the same case.”
 
-“I know it lapsed,” Ilya said. “Vale told me yesterday.”
+“I know it lapsed,” Ilyan said. “Vale told me yesterday.”
 
 “Then you know why I cannot take a scheduling request from you,” Harrow said. “Not as a punishment. Because in this court a request is a person putting their name against a consequence, and there is no name on yours at present. I will take it from a party whose burden is named in the record, or from an advocate of record in the matter. That is the whole of the rule and I did not write it this morning.”
 

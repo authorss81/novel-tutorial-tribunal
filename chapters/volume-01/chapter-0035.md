@@ -47,7 +47,7 @@ Nobody had ever in twelve days been told that a household was entitled to the ru
 
 The lane was quiet for a moment, and the quiet was not agreement, and Ilyan understood that the second half of that sentence was the entire district's reason and the first half was its legal basis and the two together were the machine.
 
-“So a record comes in and the household comes with it,” Ilya said.
+“So a record comes in and the household comes with it,” Ilyan said.
 
 “No,” Sera said, without looking at him. “Read the trigger again and read what the register calls a party. A record comes in and the *parties whose hours are entered in a ward record* come in with it. The district is not reaching for you. The district is reaching for a row in its own book, and your row is unusually complete.”
 

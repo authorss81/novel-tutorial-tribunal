@@ -60,7 +60,7 @@ Fell let the silence stand for as long as it was worth.
 
 “That is the whole of it,” Fell said. “That is what we have. It is a bound volume with a replaced page in it, and the shop did not do it, and there is a word for what has been done to it and the word is *relay*, and a relay is not a crime, and it is done about four times a year, and the reason it is done is that the court’s records are kept in duplicate and a volume gets damaged.”
 
-“Who ordered the relay?” Ilya asked.
+“Who ordered the relay?” Ilyan asked.
 
 “The shop does not keep the order,” Fell said. “The order is on the page that is not there. I have said the true thing four times now, in three rooms, and I would be glad if somebody wrote it down.”
 
@@ -79,9 +79,9 @@ Fell looked it up herself, from the authority's own index, which was a separate 
 
 Then, because Fell was a public servant with a professional conscience and because nobody had told her not to, she read the count as well.
 
-“Eleven items that week,” she said. “All eleven routed C—2. Nine of them are routine and I could tell you what they are and I am not going to because it is not my day. Two are what I read you. The other nine are on a different week.”
+“Eleven items that week,” she said. “All eleven routed C—2. Nine of them are routine and I could tell you what they are and I am not going to because it is not my day. Two are what I read you.”
 
-“Eleven items in one week under one standing authority,” Ilya said. “And the authority is a *standing* authority, so it does not name a person, and it does not expire, and the condition that required it is — what?”
+“Eleven items in one week under one standing authority,” Ilyan said. “And the authority is a *standing* authority, so it does not name a person, and it does not expire, and the condition that required it is — what?”
 
 “Continuity,” Fell said. “While the condition that required it remains. And I will tell you the honest thing about standing authorities, since nobody in this city appears to want to hear it from the desk that holds them. A standing authority is not a person who decided something. It is a piece of paper that keeps deciding the same thing, for as long as the emergency it was written for lasts, and it does not need a name because it was never meant to be argued with. It is meant to be obeyed while it is inconvenient to argue with it.”
 
@@ -107,7 +107,7 @@ Ilyan took out his notebook and wrote the eleven items and the two classes and t
 
 “No,” Neral said, from behind the lamp. “But I can tell you the paste is a shop paste and not a binder's, because a binder uses a hot paste and this is cold, and cold paste is what you use when you are putting a page into a book that is already dry and you do not want to take the whole volume apart. Whoever did it wanted the volume back in service the same day. That is not a person. That is a decision about a book.”
 
-“An office,” Ilya said.
+“An office,” Ilyan said.
 
 “An office,” Neral agreed, “or a person with an office's instructions, and I know which of those two it is not, and it is not me, and I have been buying this stock for nine years and I would like it entered that I have been buying it for nine years and that I have never once been asked to produce a page.”
 
@@ -137,7 +137,7 @@ He set the case down on the partition and opened it, and took out the working sc
 
 “This is my hand. The hour is mine. The version is mine. That is all true and it is all mine and none of it is the reason. If you go looking for a reason, you will find one in a person, and there is no person, and when there is no person the only two places a person can be are the office and the pay, and you have already got the office and you do not want it.”
 
-“What do I do with the pay?” Ilya asked, and heard how the question sounded, and did not take it back.
+“What do I do with the pay?” Ilyan asked, and heard how the question sounded, and did not take it back.
 
 Vale looked at him for a while with the flat professional attention of a man who had decided to be treated fairly and was reserving the right to be bored about it.
 
@@ -151,7 +151,7 @@ The room was quiet.
 
 “At the money,” Vale said. “An office is a thing people are paid to do. Somebody is paid to sit at that desk and relay a page in cold paste, and somebody is paid at the end of a year for having done it, and the question is not *who was wicked* — the question is who draws the wage, what the wage buys, and what happens to the wage and the person when the person leaves. I have been a clerk for nineteen years. I know three things about every office in this city and they are all about money and none of them are about sin.”
 
-“Thank you,” Ilya said, and meant it, and also felt the ground close over the easy version of the last six days the way it always did.
+“Thank you,” Ilyan said, and meant it, and also felt the ground close over the easy version of the last six days the way it always did.
 
 “Do not thank me yet,” Vale said. “You have lost your standing this morning and you have not noticed.”
 
@@ -171,7 +171,7 @@ The authority's index was a record, and the district entered it into the open ca
 
 Two items, one week, one routing, one standing authority, and a column where a name should be that had never once had anything in it.
 
-“A week,” Ilya said. “The plate was executed on that day and the clause was taken into preservation on that day. Not before. Not after. On the day the plate that recorded the clause was replaced, somebody handed the clause itself to a desk with a stamp, and the desk has had it ever since, and the desk was told it was preserving it.”
+“A week,” Ilyan said. “The plate was executed on that day and the clause was taken into preservation on that day. Not before. Not after. On the day the plate that recorded the clause was replaced, somebody handed the clause itself to a desk with a stamp, and the desk has had it ever since, and the desk was told it was preserving it.”
 
 “And the desk has no incoming index and no named clerk,” Sera said, “and now it has two items in it that a court has asked about, and it still has no name, and a name is not going to come, because the office is not a person and there is nothing to name.”
 
