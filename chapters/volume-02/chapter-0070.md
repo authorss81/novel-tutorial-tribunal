@@ -54,13 +54,13 @@ He said so in about eleven sentences on a barrow on the bank with his boots not 
 
 Ansa Rell was on the bank, and she was not annoyed, and said so, and then said the other thing, which is that she was going to be careful.
 
-“Enter that,” she said, “and enter that this court has no power over a road in a region with no district, and takes no view on it, and has said so on the face of a field about a gate and will say so again, and that a boy of seventeen has asked a question on a road that is not this court's, and that nothing this court does in the next five weeks is going to be about that road.
+“Enter that,” she said, “and enter that this court has no power over a road in a region with no district, and takes no view on it, and has said so on the face of a field about a gate and will say so again, and that a boy of seventeen has asked a question on a road that is not this court's, and that nothing this court does in the next four weeks is going to be about that road.
 
 “And I am going to be careful about one thing and I want it in the record. Eleven benches have answered a question in public in eleven days and seven of them said they hold nothing. That is the emptiest public statement this city has made in nineteen years, and it was made because a boy of seventeen put a line book in nobody's file, and I do not want anybody in this room to think that what I have done at a weighhouse desk has cost nothing. I have not cost anything. I have taken an answer that was owed. That is the whole of my month.”
 
 ---
 
-Bram's letter had gone up the road on the eighteenth and came back on the twenty-ninth, and it is a letter of one side, and it is in a hand of a person of seventy-one who has been collecting a toll for eight years and whose father did it before her, and it is in the line book, and he read it out on the bank.
+Bram's letter had gone up the road on the eighteenth and came back on the twenty-ninth, and it is a letter of one side, written in a hand of a person of seventy-one who has been collecting a toll for eight years and whose father did it before her, and it came back in the line book where he keeps everything that crosses, and he read it out on the bank.
 
 > **TO THE BOY WHO ASKED. I HAVE YOUR PAPER. I HAVE READ IT TWICE AND I CANNOT READ HALF THE WORDS AND I HAVE HAD A MAN FROM THE WEIGHHOUSE READ THE OTHER HALF TO ME AND HE DID NOT WANT TO AND HE DID IT ANYWAY.**
 >
@@ -72,7 +72,7 @@ Bram's letter had gone up the road on the eighteenth and came back on the twenty
 >
 > **DOES YOUR PAPER SAY ANYTHING ABOUT A ROAD WITH NOBODY IN IT.**
 
-Nobody in that bank could answer it, and it is in the record, and it was not answered, and it was not going to be answered in the next five weeks, and nobody chased it.
+Nobody in that bank could answer it, and it is in the record, and it was not answered, and it was not going to be answered in the next four weeks, and nobody chased it.
 
 ---
 
@@ -90,7 +90,7 @@ Harrow was four miles up the road at the ninth bridge at the time and came down 
 
 He did not ask who wrote it. He did not ask when it was put there. He did not ask whether it was there when the page was sworn or whether it came afterwards, and the reason he did not ask the third question is that the answer would have been the whole of it and the court has no power over the question, and he said that too, and entered it, and then he did a thing that has happened four times now and that nobody has ever reported as a procedure.
 
-He entered the line into the record as an unentered line, in the words *continuity preserves the record against the holder*, with a date, and did not rule on it, and did not find it, and did not use it, and did not let it be used, and said that he would not rule on it, and that on the seventh time he would not rule on it either, and that he had been a trialwright for eleven years and had come to the conclusion that a line he did not enter is a line he may not rule on and that this is not modesty and it is not neutrality and it is the only procedure he has.
+He entered the line into the record as an unentered line, in the words *continuity preserves the record against the holder*, with a date, and did not rule on it, and did not find it, and did not use it, and did not let it be used, and said that he would not rule on it, and that on the seventh time he would not rule on it either, and that he had been a trialwright for eleven years and had come to the conclusion that a line he did not enter is a line he may not rule on, and that this is not modesty and is not neutrality and is the only procedure he has.
 
 And nobody named anything. That is entered, and it is the finding of the sixth appearance, and the sixth appearance is in a document that a woman with a barrow keeps in a room over a pump and is not allowed to appeal from, and the word in it is the word for the person, and the person does not know.
 
@@ -104,7 +104,7 @@ He was on the floor of a room over a pump with his hands on a board floor and a 
 
 ---
 
-The fifth thing was entered on the twenty-fourth of the month in a stone room off the second gallery with a stove that does not draw, and Sera Quill entered it herself because it is her record and nobody else's, and it is in the case's record and it cannot be taken back, and there are five of them.
+The fifth thing was entered on the twenty-fourth of the month in a stone room off the second gallery with a stove that does not draw, and Sera Quill entered it herself because it is her record and nobody else's, and it went into the case's record and it cannot be taken back, and there are five of them.
 
 Two copies of a private sequence from a game called *The Sovereign's Wake*.
 
@@ -136,11 +136,11 @@ She read that back and did not tidy it and did not put her own name against it, 
 
 The last thing on the twenty-fourth was the review.
 
-It is the fourth morning bell of the third month after the ruling, at the span, on public notice, callable early by any party on a named reading outside the band a keeper has kept, and not postponable, and it is in five weeks.
+It is the fourth morning bell of the third month after the ruling, which is the twenty-seventh of that month, at the span, on public notice, callable early by any party on a named reading outside the band a keeper has kept, and not postponable. From the twenty-ninth of this month, where the batch ends, that is four weeks, and there are no fifth weeks in it and no room has been left for any.
 
-Ilyan must be produced at it with his report and the two copies of his own sequence, to say out loud what the record cost and who paid it, and may not send somebody with his name on it, and the ruling that made his standing is confined to the ninth-bridge matter, and in five weeks a bench that has never heard of the fourth bridge is going to look at an account of a hundred and four pounds, and a magistrate is going to have to answer for four benches in nineteen years and eleven instruments that were valid and none of them that was affordable, and a charter with a person in its fifth term that is five days old and has two entries in it and no standing outside one poor district, and an appeal that ran perfectly and produced a duty to answer and a public statement by nine benches that this city holds nothing.
+Ilyan must be produced at it with his report and the two copies of his own sequence, to say out loud what the record cost and who paid it, and may not send somebody with his name on it, and the ruling that made his standing is confined to the ninth-bridge matter, and in four weeks a bench that has never heard of the fourth bridge is going to look at an account of a hundred and four pounds, and a magistrate is going to have to answer for four benches in nineteen years and eleven instruments that were valid and none of them that was affordable, and a charter with a person in its fifth term that is seven days old and has two entries in it and no standing outside one poor district, and an appeal that ran perfectly and produced a duty to answer and a public statement by nine benches that this city holds nothing.
 
-None of that is secured. All of it is in use. The difference between those two things is the whole of the next four weeks and nobody in this case can decide it and one of them is going to try.
+None of that is secured. All of it is in use. The difference between those two things is the whole of the four weeks there is, and nobody in this case can decide which of them it is, and one of them is going to try.
 
 The span took a load on the thirty-fourth day of the unloaded period and has taken one every change since, and on the twenty-fourth of the month the count came back at mark on a light load, and on a heavy one it walked out two and came back all the way, and the pale permanent set sat a finger's width from the iron ring where it has sat for six years, and the bell was rung for the change by a keeper who has looked at the pin on a named day by two people, one of whom has pulled the rope, and four miles down the fen road a rate of half a farthing was read out at a pump by a woman who cannot appeal, and on a road off the fen road a slip of paper is nailed to a frame on a bridge that has four square holes in it and a keeper's four words and a line under them in a clerk's hand that says *fourth bridge, four words, asked and answered*, and a cart of four old props went back to a yard at a cost of four pounds and there are no new ones this year.
 
@@ -152,4 +152,4 @@ And in a line book in a boy's hand, on a page about a road with nobody in it, th
 
 Nobody in this city could answer it. Four benches have been asked in nineteen years and eleven have said they hold nothing, and this court has entered a duty to answer and cannot compel one, and the honest answer from every door in Orison is that the paper says something about a person, and a road with nobody in it is not a person, and there is no form for it, and nobody is going to be able to refuse one, because there is nobody in it to say no.
 
-Which is either the end of the argument or the beginning of a different one, and nobody in this city is going to be able to tell which for some time, and the man who will have to try is thirty-one and is standing on a mud bank four miles down a fen road with a slate under his arm on which six days of a gate hand’s tide are written in a load-carrier’s figures that may be wrong by four minutes in any hour of them. Behind him there is a page kept by a woman with a barrow who cannot appeal from it, and a rate of half a farthing on a bucket, and four hundred and eleven loads on a flat that nobody has counted since the twentieth of last month. Ahead of him there is a review in five weeks. And in the pocket of a boy of seventeen, who is seventeen and does not know and said so, there is a question he has carried eleven miles of road from a place where the road works, and it is the only question anybody in this case has been asked this month that none of them can answer.
+Which is either the end of the argument or the beginning of a different one, and nobody in this city is going to be able to tell which for some time, and the man who will have to try is thirty-one and is standing on a mud bank four miles down a fen road with a slate under his arm on which six days of a gate hand’s tide are written in a load-carrier’s figures that may be wrong by four minutes in any hour of them. Behind him there is a page kept by a woman with a barrow who cannot appeal from it, and a rate of half a farthing on a bucket, and four hundred and eleven loads on a flat that nobody has counted since the twentieth of last month. Ahead of him there is a review in four weeks. And in the pocket of a boy of seventeen, who is seventeen and does not know and said so, there is a question he has carried eleven miles of road from a place where the road works, and it is the only question anybody in this case has been asked this month that none of them can answer.

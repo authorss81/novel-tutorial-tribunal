@@ -38,7 +38,7 @@ Harrow put the two costs on the step in the flat voice.
 
 “The clean instrument is eight clauses, it can be made in an afternoon, it is payable on the fourteenth, and nobody is unhouseable on it. On the first quarter of it, the low-water gate stays shut to loads out of the district at all times, which is right, and the district’s carts come back, and about nine carts a week come back onto a road that has been shut for a month, and a cart is four barrows and a barrow is not a person.
 
-“The charter is nine sheets and one of the five terms has no person in it, and the person is not found by writing harder, and if the fifth term is left open then the charter is a rule with a hole where the district is, and in four months a clerk in some other district will print it with a bench’s name in the hole and it will be good law. It also costs about forty-four pounds a year, and it cannot be paid out of the district's own road fund at all because the cartage on that fund's road has been nil since the fourteenth, so the money comes off the pump instead, and there is a bridge four miles away with four square holes in it that the district's money is contesting, and the ninth-bridge district's fund is the only fund in this case with anything in it. and there is a bridge four miles away with four square holes in it that those paper pounds are contesting.”
+“The charter is nine sheets and one of the five terms has no person in it, and the person is not found by writing harder, and if the fifth term is left open then the charter is a rule with a hole where the district is, and in four months a clerk in some other district will print it with a bench’s name in the hole and it will be good law. It also costs about forty-four pounds a year, and it cannot be paid out of the district's own road fund at all because the cartage on that fund's road has been nil since the fourteenth, so the money comes off the pump instead, and the ninth-bridge district's fund is the only fund in this case with anything in it, and out of that same fund there is a bridge four miles away with four square holes in it, and those paper pounds are contesting.”
 
 Then Ansa Rell said the thing that nobody had planned, which is that she was going to vote her own weight for the clean instrument, and she said why in front of everybody, and it was the right reason and it was the reason that had been in her bag since the eleventh day.
 
@@ -70,9 +70,9 @@ Sera Quill said the part that was against him, and she said it standing, and she
 
 “I am going to write the fifth term either way and I am not going to put a name in it that I have not asked, and if this court finishes today with a hole in it then I will enter my own name against the fact that the recordwright of a charter left the fifth term open, and it will be the second thing in a month I have entered against myself and it will be the one that costs me my licence and I would rather it did it in my own hand.”
 
-The room did what rooms do, which is nothing, for about nine seconds.
+The room did what rooms do, which is nothing, and it did it for long enough that the wind came round off the water and changed.
 
-Then Ilyan said the sentence that is the only thing he said all day that anybody has ever written down, and he said it in a guild's words, standing four feet inside the rail with a leg that had gone at the fourth bell and was not his, and it is in the record in nine words.
+Then Ilyan said the sentence that is the only thing he said all day that anybody has ever written down, and he said it in a guild's words, standing four feet inside the rail with a leg that had gone at the fourth bell and was not his, and it went into the record in nine words.
 
 “I am for the charter, and the reason is that a gate is not the problem.”
 

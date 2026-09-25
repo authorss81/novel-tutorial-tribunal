@@ -44,7 +44,7 @@ And she stopped, and looked at the slate, and everybody in the rope understood a
 
 “Where are they sleeping,” she said. “I cannot enter that. I have four numbers and I have no column to put a person in. I have four numbers and a place, and the place is the low water, and the low water is a hundred and sixty years of road book, it is a tide, it is flat mud with a hundred yards of it in the wet, and in nineteen years when somebody reads this return they are going to read *the persons of the low water* and they are going to think it is a place with a population and it is not a place with a population, it is a bank with a pump on it and a lane behind it, and I have just written the exact mistake this court came down here to find.”
 
-It is the only time in five weeks that Ilyan has seen a magistrate with nothing to say, and it lasted about four seconds, and then she said:
+It is the only time in five weeks that Ilyan has seen a magistrate with nothing to say, and it lasted the length of a breath, and then she said:
 
 “Then we will do it the way it is done, and I want it watched.”
 
@@ -54,7 +54,7 @@ And the return is four columns and a place in every line, and the places are fiv
 
 “That is the ward,” she said. “Not the people. The five places. And the ward has been a word for five places in a poor district for a hundred and sixty years, and the city has been paying a rate on it out of the water at those five places, and the rate has bought a woman with a chalk line and four hours and a district that has learnt to rule by habit, and the ward as a thing to be done is being done by a woman who is not in it and has not been in it for thirty years, and the ward as a place cannot be written down because there is no such place, and I have spent two days in this city finding that out and it has taken four sentences and a pump.”
 
-Nobody wrote that down for about nine seconds and then Corva Silt wrote all of it down in the district's own hand.
+Nobody wrote that down for a while and then Corva Silt wrote all of it down in the district's own hand.
 
 ---
 

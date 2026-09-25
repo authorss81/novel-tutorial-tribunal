@@ -1,6 +1,6 @@
 # Chapter 66: The Price of the Telling
 
-Two clerks of the Orison chamber came up the hill on the twelfth of the month with instruments in their hands, and one of them was Ottla Prenn, who had brought draft eleven to a common-rule sitting three weeks earlier and had been told by a magistrate in front of nine benches that the room could not finish, and the other one was a woman of fifty-one named Hulda Vane who had come four miles from a district called Coldwater and who had not been to a court in nine years and had brought two instruments and would only let anybody see one of them at a time.
+Two clerks of the Orison chamber came up the hill on the twelfth of the month with instruments in their hands, and one of them was Ottla Prenn, who had brought draft eleven to a common-rule sitting three weeks earlier and had been told by a magistrate in front of nine benches that the room could not finish, and the other one was a woman of fifty-one named Hulda Vane, who had been a clerk since she was twenty-five, and who had come four miles from a district called Coldwater, and who had not been to a court in nine years, and who had brought two instruments and would only let anybody see one of them at a time.
 
 Dessin Nahl came up the road with them and read the docket out loud in the lane outside Coldwater's bench house, because that is what a clerk does with a docket in a lane, and then she read the two names that were going to be off the board that morning, which were a water matter off the cut banks and a name matter that had now been on the Orison board twenty-two days, and neither of those people said anything, because a clerk who reads a board aloud in a lane saves two arguments a month and it is not her job to be kind about it.
 
@@ -110,9 +110,9 @@ The price of the telling proper was paid at the weighhouse on the second evening
 
 ---
 
-They came back up the fen road at the second bell on the fourteenth with a page and a rate and a carrier's four-shilling slip pinned to it, and they came past the fourth bridge, because it is on the road, and the fourth bridge is a span with four holes in it where four props should be, and the holes are square and clean and forty-four days old.
+They came back up the fen road at the second bell on the fourteenth with a page and a rate and a carrier's four-shilling slip pinned to it, and they came past the fourth bridge, because it is on the road, and the fourth bridge is a span with four holes in it where four props should be, and the holes are square and clean and twenty-five days old.
 
-Ilyan had stood on that span twice in six weeks. Wist Anhalt was forty-nine and had been keeper for twenty-nine years and his four props had come off it on the day of the hearing and gone down the fen road on a cart and propped the ninth bridge's west seat for thirty-four days, and the ninth bridge's charter says they go back on the same cart before the review or the district pays, and they had not gone back.
+Ilyan had stood on that span twice in six weeks. Wist Anhalt was forty-nine and had been keeper for twenty-nine years and his four props had come off it on the twentieth of last month, nine days before the hearing, and gone down the fen road on a cart and stood under the ninth bridge's west seat for the fortnight that seat was given, and have been on that cart's boards in a yard ever since. The ninth bridge's charter says they go back on the same cart before the review or the district pays, and they had not gone back.
 
 Anhalt was on the deck. He had a lantern and a rule and he was checking a joint by a number in a book, alone, at the second bell, on a span with four square holes in it, and he did not stop working when four people came up the approach with a cart.
 

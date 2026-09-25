@@ -6,7 +6,7 @@ The rate went on the board at the gate side on the morning of the eighteenth and
 >
 > **THE REASON THE AMOUNT IS WHAT IT IS: THE ROAD FUND OF THIS DISTRICT IS PAID OUT OF THE CARTAGE ON THE CULVERT ROAD, AND THE GULVERT ROAD IS SHUT TO LOADS, AND THE CARTAGE HAS BEEN NIL SINCE THE FOURTEENTH OF THE LAST MONTH. THE SUM ENTRIES THE DIFFERENCE IS ELEVEN POUNDS AND FOUR IN THE QUARTER. THE BENCH HAS SET THE RATE AT THE AMOUNT THAT PRODUCES ELEVEN POUNDS AND FOUR AND NOT A UNIT MORE, BECAUSE THE BENCH HAS NO MONEY AND THE MINIMUM IS A FACT AND NOT A MERCY.**
 
-Cael Rundle read it at the fifth bell standing at the top of the bank, and he read it the way a man reads a thing he is going to argue with, and the argument lasted about eleven seconds, and then he put his finger under the third line and said:
+Cael Rundle read it at the fifth bell standing at the top of the bank, and he read it the way a man reads a thing he is going to argue with, and the argument lasted until the second bucket came up the bank and stopped, and then he put his finger under the third line and said:
 
 “That is the right rate. I want it minuted that I said so before anybody said anything, because I have been in this case since the fifteenth of the last month and I have voted for two rates in two days and I have voted for the one I live in as well.
 
@@ -30,7 +30,7 @@ That is a decision that was made in about four minutes on the previous evening b
 
 And the man they went to was asked, in the end, the thing nobody had asked him in a month.
 
-Wist Anhalt is forty-nine and has kept the fourth bridge for twenty-nine years and his four props came off that span on the day of a hearing in Orison and went four miles down a fen road on a cart and held up the west seat of another bridge for thirty-four days, and he wrote four words on a slip of paper, and a court nailed the four words to a frame, and he has never met the man who wrote them and does not want to.
+Wist Anhalt is forty-nine and has kept the fourth bridge for twenty-nine years and his four props came off that span on the twentieth of last month, nine days before a hearing in Orison he was not in and had not been told about, and went four miles down a fen road on a cart and held up the west seat of another bridge for a fortnight, and have been standing in a yard ever since, and he wrote four words on a slip of paper, and a court nailed the four words to a frame, and he has never met the man who wrote them and does not want to.
 
 He had said on the fourteenth, in a lane, that he was not going to have them back on that cart unless the district paid for it, and that if the district did not pay then the props would stay where they were and he would write it in his own book on the seventeenth with the date and the weather, and that he would not send it to anybody and would not nail it to a frame and would not say four words about it in a room in Orison.
 
@@ -58,15 +58,15 @@ Corva Silt sent for him, on the seventeenth, in a cart, with two clauses in writ
 
 “And I want to say the last one and I want it minuted, because it is the only thing I have got.
 
-“You took my four props off my deck in the morning without a word to me and used them to hold up a bridge in another district for thirty-four days, and that was lawful, and I sent two hands to help pack the seat and nobody asked me to and I would do it again. And in those thirty-four days I had a span with four square holes in it and the weather coming, and I did not once put a hand on a square hole and I did not once sleep on that deck, and nobody in this city knows that but you.
+“You took my four props off my deck in the morning without a word to me and used them to hold up a bridge in another district for a fortnight, and that was lawful, and I sent two hands to help pack the seat and nobody asked me to and I would do it again. And in those twenty-eight days I had a span with four square holes in it and the weather coming, and I did not once put a hand on a square hole and I did not once sleep on that deck, and nobody in this city knows that but you.
 
-“I have been the man who was not on the bridge for thirty-four days and I would like that on a page in your book and not on a nail.”
+“I have been the man who was not on the bridge for twenty-eight days and I would like that on a page in your book and not on a nail.”
 
 Nobody in that lane had anything to say to that for about a minute.
 
 “I will write it,” said Corva Silt, in the district's own hand, on the back of a slip, in a wet lane, on a bridge four miles from a court, “and it will go up the fen road in the morning and it will be entered and it will not be put on a nail, and I am going to say one thing back and I am going to say it as a clerk who is thirty-one and has printed an instrument in a fortnight that shut a lane in a district of mine.
 
-“I have got it wrong twice. I printed a paper with a word in it that shut a gate, and I struck out one of my own clauses four days later and had to insist the bench minute it so it would not be mine alone. And you are the fourth person in a month who has come at me with a thing I have done and told me to take it off a nail and put it in a book, and every one of the four of you was right, and I would like the court to enter that a clerk of this district is asking to be relieved of the print authority four times in six weeks and has been refused four times and is not going to ask a fifth time.”
+“I have got it wrong twice. I printed a paper with a word in it that shut a gate, and I struck out one of my own clauses four days later and had to insist the bench minute it so it would not be mine alone. And you are the fourth person in a month who has come at me with a thing I have done and told me to take it off a nail and put it in a book, and every one of the four of you was right, and I would like the court to enter that a clerk of this district asked to be relieved of the print authority for the fifth time in six weeks and was refused for the fifth time and is not going to ask a sixth time.”
 
 ---
 
@@ -128,9 +128,43 @@ Then she said the cost, which is the part that made it real and the part she had
 
 The hundred and forty people came off the bank at the ninth bell and the water came up and about two hundred went up the mud in the dark, and on the barrel lid at the gate side there were now two things, the rate in the district's own hand and the six and a half hours a day in chalk with a name against them, and about a mile up the fen road in a room over a pump a woman with a barrow against the wall had written out, in her own hand, the first entry in a page she was not allowed to appeal from, and she had written it in the middle of the page rather than at the top, because a person who keeps a page does not put the most important thing where it is easiest to find.
 
-On the eighteenth of the month, in a room over a pump, four people and a clerk made Bream swear a serving list, and he did it standing, and it took him eleven minutes, and it is the first thing he has ever sworn in his life, and it is a list of forty names, and he read them out himself, and he got one wrong, and the clerk corrected him, and he said the name again, and the name is a man of nineteen who pays a shilling a week and has paid it every week since he was fourteen.
+Nobody sent for Bream either. Corva Silt did, on the eighteenth, in a cart, and he came up the fen road in it and stood in a room over a pump and said no for the better part of a quarter of an hour before anybody else had got as far as the question.
 
-He is in the record as a person who swore something. It is entered that he wrote down forty names, which is a different thing from a number, and the difference between the two is a fifth of a page and four hours of a stranger's day, and no court in this city has ever paid anybody for either, and the clerk entered the four hours as unpaid because that is what the district does.
+“You asked me for a roll,” he said. “On a bank, in the mud, with a magistrate sitting on it, and eleven benches' worth of people standing behind a rope, and you asked me for forty names and my oath, and I said no, and I said I would come back and say no again, and I have thought about it every day since and I am still going to say no to that, and I would like it written down that I said it to a bench of four as well and not only to a court.”
+
+“Then nobody has asked you for anything else,” said Wenna Tace, from the step, with a barrow's handle in her hand.
+
+“No,” said Bream. “Nobody has.”
+
+He said it the way a man says a thing he has carried four miles up a road to get rid of.
+
+“A roll says who owes me a shilling a week. I have told this court that forty roofs pay me and not one of them has ever been late and not one of them has ever been cheated, and every word of that is true and all of it is mine, and I would put my hand on it in front of anybody in this city. That is the whole of what I know. And a roll is a page with a seal on it, and a page with a seal on it is a thing a bench can come back with, and the day it comes back with is the day somebody comes for the lane.”
+
+“And what they want is not that,” said Corva Silt, with the pen down on the table.
+
+“They want forty doors,” said Bream.
+
+---
+
+He said the difference out loud before he wrote a word of it, and he said it in his own words, and the room did not help him and did not interrupt him, and it is in the district's own hand in that day's book.
+
+“A serving list is not a roll. I have been told what the word for it is and I am not arguing with the word. A notice has got to go somewhere. It cannot go to a district, because a district is not a person and a person is what a notice goes to. It goes to a door, and it goes to a door that can be found, and the only person in this city who knows where thirty-one of those forty doors are is me, because thirty-one of them are on Weir Lane and I have walked every one of them for nineteen years, and the other nine are in two yards at the end of it that have no name at all and I go down there as well. I have never written one of them down. There is no page in this district that says where any of them are except a book I keep for myself and am not putting in a room.”
+
+“Who is the notice for,” said Wenna Tace.
+
+“The gate hand,” said Bream. “It is a day and a half of it and it is the reason I am standing in this room and I would like that in the book, because I have worked out what I am about to do and I am going to do it anyway, and I would rather a person had written down that I knew.”
+
+He swore it standing, and it took him twelve minutes, and it is the first thing he has ever sworn in his life. He read out forty names himself into a page a clerk held up for him, and the clerk did not read them after him and did not copy them into the bench's book, and the page went into a folder in that room and not out of it, and he read the list over once more before he let the folder close, because the first reading is the one that is worth checking.
+
+He got one wrong. The clerk corrected him and he said the name again, and the name is a man of nineteen who pays a shilling a week and has paid it every week since he was fourteen, and Bream said out loud, in a room with four people in it, that he was sorry for it, and has not forgotten that he said it in a room instead of to the man.
+
+And here is what it cost him, in a room with a door, in about a quarter of an hour, and none of it was on anybody's list.
+
+Forty people in a lane found out that their landlord's mouth had turned them into a page. He could not unsay a name once he had said it, and he had got to fifty-four by never being anything at all, and from the eighteenth of that month he is a body, and if this lane is ever contested by anybody in this city the first name anybody will ask for is his, and he will be produced, and he will have to stand up in a room and answer for a list he wrote in his own hand and read out twice.
+
+And nobody in that room offered him a shilling of the two pounds a week that went out of forty roofs and never came back, and he did not ask for one, and he asked for that to be entered, and it was, and the entry is the shortest thing in the district's book that day.
+
+He is in the record as a person who swore something. It is entered that he wrote down forty names, which is a different thing from a number, and the difference between the two is a fifth of a page and four hours of a stranger's day, and no court in this city has ever paid anybody for either, and the clerk entered the four hours as unpaid because that is what the district does. And it is entered that nobody thanked him, and that he did not ask to be thanked, and that he asked for that as well.
 
 And the clean instrument went back to a drawer in a weighhouse office with a salt cart's worth of work still on it, and Bel Ordway did not burn it and did not throw it away, and he asked a clerk to put a note on the back of it in his own hand: *made, not adopted. It is the best of the two and it is in a drawer, and a rule in a drawer is still a rule anybody can print.* And the clerk asked whether he wanted that on the front and he said no, because the front is for a rule and the back is for a man, and a rule that has a man's handwriting on the back is not a rule any more.
 

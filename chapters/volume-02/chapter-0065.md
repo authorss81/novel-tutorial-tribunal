@@ -38,7 +38,7 @@ The gate hand turned round, which she does about four times in a day and had not
 
 “The whole point of a number is that it gives a person something to be angry at somebody specific about.”
 
-Bryn Sallow looked at him for about four seconds, in the position she has been in for thirty years, one foot on the sill-stone and one on the bank.
+Bryn Sallow looked at him for longer than she had looked at anything in a month, in the position she has been in for thirty years, one foot on the sill-stone and one on the bank.
 
 “Say the last part again,” she said.
 
@@ -58,7 +58,7 @@ That is the honest account of what he is for. A person is not a measuring instru
 
 What the slate does have is this: the gate hand called her hours, and he wrote them down, and somewhere in the fourth hour the leg went off.
 
-Not the first one. The fourth, maybe, or the sixth — it did not go at a moment. It thinned. His left leg went from being a foreign object with somebody's knee in it to being something that was simply tired, in the way a leg is tired, and the weight in it changed, and he understood in about nine seconds what had happened and then had to put his hand on the gate leaf to keep standing up, which is the leaf of an oak gate, forty feet above a low water, at the ninth bell, with the water coming.
+Not the first one. The fourth, maybe, or the sixth — it did not go at a moment. It thinned. His left leg went from being a foreign object with somebody's knee in it to being something that was simply tired, in the way a leg is tired, and the weight in it changed, and he understood what had happened in the time it took him to find out that he was going down, and then had to put his hand on the gate leaf to keep standing up, which is the leaf of an oak gate, forty feet above a low water, at the ninth bell, with the water coming.
 
 He had it for about three more hours.
 
@@ -118,6 +118,6 @@ He said it to Sera Quill at the fourth bell on the eighth of the month, on a ste
 
 “Then I am going to write the fifth term and the hole in it is going to have a line under it as well, and the line is going to say that a page is not held by a person and that a number on a slate is not a record, and I do not know how to write the rest of it, and I have got a stove that does not draw and nine sheets and a review in forty-nine days, and I would like to be somebody else for about a day, and I am not going to be, so I am going to go and be very good at this instead.”
 
-The ninth bridge's west seat came out of its fortnight on the third of this month, four miles up the fen road, with nobody watching except a keeper and a counter and a bell rung at every change with two hands under the deck, and the span took its first load that day, thirty-four days after the ruling, and Ilyan was four miles away counting a gate hand's tide and found out from a cart, and the count came back at mark on a light load, and the pale permanent set did not move, and the fourth bridge's four props were still on a cart that had not gone, and nobody in that district knew, because nobody in that district had asked.
+The ninth bridge's west seat came out of its fortnight on the third of this month, four miles up the fen road, with nobody watching except a keeper and a counter and a bell rung at every change with two hands under the deck, and the span took its first load that day, the thirty-fourth day of the unloaded period, and Ilyan was four miles away counting a gate hand's tide and found out from a cart, and the count came back at mark on a light load, and the pale permanent set did not move, and the fourth bridge's four props were still on a cart that had not gone, and nobody in that district knew, because nobody in that district had asked.
 
 Four miles down the road, on a slate with a line down the middle of it, in a hand that is not a clerk's hand and is not a record, there were six days of a gate hand's tide written down in a load-carrier's figures, and a name at the top of it, and a barrow's handle against the wall, and a man standing on a bank with a leg that is his own for as long as he is counting and not one minute after.

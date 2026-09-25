@@ -99,7 +99,7 @@ Sera found it in about four minutes, and it took four minutes because a guild ke
 
 It is a book about nine feet long and two inches thick and it opens anywhere, and every page has four columns, and the columns are a word, and what the word is for, and where it came from, and when a bridgekeeper last complained about it. It is the ninth bridge's book and it is Oren Sedge's book and it is in a guild's words, and it is the only book in this city that anybody has ever written down what the words *mean*.
 
-And the word was in the third column from the end, under a heading Ilyan could read without difficulty because the heading was a bridge heading: *DUTIES CARRIED, NOT DISCHARGED.* And in the third column, with a star against it, and the star meant somebody had complained about it:
+And the word was in the second column, under a heading Ilyan could read without difficulty because the heading was a bridge heading: *DUTIES CARRIED, NOT DISCHARGED.* The entry ran across three of the four columns, which is what an entry is in a book that has never once been tidied up, and there was a star in the fourth column against it, and a star meant somebody had complained about it:
 
 > **WARD. NOT A PLACE. THE WORK A DISTRICT OWES AND HAS NOT GOT ROUND TO. A GUILD'S WORD, OLD, FROM BEFORE THE BOOK IS ANYBODY'S GRANDMOTHER'S. IT MEANS A THING YOU DO, NOT A THING YOU LIVE IN.**
 
@@ -169,7 +169,7 @@ She looked at the board with the two names taken off it.
 
 Nobody said anything, and she went down the step, and the room began the four conversations again, and by the time Ilyan got his weight onto his right leg and stood up off a guild's bench, the light on the wet west face of the block had gone from grey to a colour he had no word for.
 
-Then Odile, the court translator, said his name, and he turned round, and she was holding the ninth bridge's book in both hands and had it open at the third column from the end.
+Then Odile, the court translator, said his name, and he turned round, and she was holding the ninth bridge's book in both hands and had it open with one finger flat on a single word in the second column.
 
 “Mr Vester,” she said. “I want to say something about how you found that, and then I am going to let it go and I am never going to raise it again.”
 
