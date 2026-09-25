@@ -38,11 +38,11 @@ The nine benches did not come. Dessin Nahl came, with the draft, and sat down on
 
 The System put the field into his sight while Tarin was still driving the fourth stake, and it was a record and not a rule about the world, and it was the first thing since the hearing that it had shown him that he had not already been told out loud in a room.
 
-> **HEARING FIELD OPENED AT THE LOW-WATER CULVERT, HALLOWAY, AT THE FIFTH BELL, ON THE NINTH-BRIDGE MATTER.**
-> **COUPLED: THE NINTH-BRIDGE RECORD, AND INSTRUMENT H-9 (CULVERT), HALLOWAY, NUMBERED, PUBLISHED AT THE FOURTH BELL ON THE FOURTEENTH.**
-> **THE DISPUTED WORDS: "A PERSON WHO IS NOT ENTERED IN THE LAWFUL-TRAVELER REGISTER IS NOT A TRESPASSER BY THAT FACT ALONE."**
-> **WHAT IS ASKED: WHETHER AN INSTRUMENT BUILT OUT OF A PUBLIC INSTRUMENT THAT A DISTRICT DID NOT ADOPT IS WITHIN THE NINTH-BRIDGE SETTLEMENT.**
-> **WHAT IS NOT ASKED: WHETHER THE GATE SHOULD BE OPEN OR SHUT. THE COURT HAS NO POWER OVER THE GATE AND SAYS SO.**
+**HEARING FIELD OPENED AT THE LOW-WATER CULVERT, HALLOWAY, AT THE FIFTH BELL, ON THE NINTH-BRIDGE MATTER.**
+**COUPLED: THE NINTH-BRIDGE RECORD, AND INSTRUMENT H-9 (CULVERT), HALLOWAY, NUMBERED, PUBLISHED AT THE FOURTH BELL ON THE FOURTEENTH.**
+**THE DISPUTED WORDS: "A PERSON WHO IS NOT ENTERED IN THE LAWFUL-TRAVELER REGISTER IS NOT A TRESPASSER BY THAT FACT ALONE."**
+**WHAT IS ASKED: WHETHER AN INSTRUMENT BUILT OUT OF A PUBLIC INSTRUMENT THAT A DISTRICT DID NOT ADOPT IS WITHIN THE NINTH-BRIDGE SETTLEMENT.**
+**WHAT IS NOT ASKED: WHETHER THE GATE SHOULD BE OPEN OR SHUT. THE COURT HAS NO POWER OVER THE GATE AND SAYS SO.**
 
 The coupling went the way it had gone on a span in the first week of the case, and it went in about four seconds, and then the two documents started disagreeing with each other in the only way documents can, which is by meaning different things while saying the same words.
 
@@ -190,7 +190,7 @@ It is a spent thing. It is the seal of a passage that has already happened and w
 
 He put his thumb on it and the low water went out of his nose.
 
-That is what happened. It did not go far away. It stopped. For about forty seconds he could not smell the flat, or the bank, or the culvert, or the two hundred loads, or his own boots, and the world was clean and quiet and about nine notes out of tune, and he understood in the middle of it — not in words, in the body — that the two things were the same kind of thing. That the thing in his nose was not a memory of the low water. It was a *rendering* of the low water, made for a person who had never stood on a bank, delivered into the part of him that had no reason to have been in a room, and that the passage in his pocket had been the same operation, and that it had cost the ninth bridge its emergency reserve and a woman on the lower road her flood account and had carried him here without asking him, and that whatever put the low water in his leg on the bank had put it there the same way it had put him on a bridge.
+That is what happened. It did not go far away. It stopped. For about fifty minutes he could not smell the flat, or the bank, or the culvert, or the four hundred loads, or his own boots, and the world was clean and quiet and about nine notes out of tune, and he understood in the middle of it — not in words, in the body — that the two things were the same kind of thing. That the thing in his nose was not a memory of the low water. It was a *rendering* of the low water, made for a person who had never stood on a bank, delivered into the part of him that had no reason to have been in a room, and that the passage in his pocket had been the same operation, and that it had cost the ninth bridge its emergency reserve and a woman on the lower road her flood account and had carried him here without asking him, and that whatever put the low water in his leg on the bank had put it there the same way it had put him on a bridge.
 
 Then the smell came back, and it came back wrong.
 
@@ -208,6 +208,6 @@ He put the token away and pressed both hands flat on the milestone until the sto
 
 Ilyan picked up the slate.
 
-“Four hundred and six,” he said, “on the fourteenth, from the flat, at the second change, counted by me and not by anybody else and I am telling you it is mine. Four hundred and nine yesterday. I have been counting the same pile four times since the fourteenth because it is a long flat and I do not have a second pair of eyes and a person is not a measuring instrument, and the number may be wrong by forty and it is the only number in this case that is mine and I have not given it to anybody, and I am giving it to you now because you write things down and I am frightened of keeping it.”
+“Four hundred and six,” he said, “on the fourteenth, from the flat, at the second change, counted by me and not by anybody else and I am telling you it is mine. Four hundred and nine on the seventeenth, and four hundred and nine again at the turn this morning, which is three times I have counted the same pile since the fourteenth, and I am telling you that as well, because a long flat and one pair of eyes is a fact about the number and not about me. And the number may be wrong by forty and it is the only number in this case that is mine and I have not given it to anybody, and I am giving it to you now because you write things down and I am frightened of keeping it.”
 
 Sera wrote it down, and gave it back, and did not say anything about the hand, and they walked up the fen road in the dark, and about halfway up it Ilyan said that the smell of his own coat had gone and that he could still smell the flat, and she said “yes,” and neither of them said anything else about it, because there was nothing to say about it yet and because the third of the four things her license says she does is to carry the terms of the ninth-bridge matter to any district that asks, and Halloway had not asked, and she was going to be in a room at the sixth bell in the morning reading out nine sentences in a keeper's words, and there was a burden schedule to be taken, and the schedule was going to be the first page in the history of this city with a woman's own hours on it, and there was no way on earth that anybody was going to pay for the three hours that taking it would take.

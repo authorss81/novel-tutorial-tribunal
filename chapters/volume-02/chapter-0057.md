@@ -71,18 +71,18 @@ Dain did not pretend not to understand.
 
 ---
 
-The panel came into Ilyan at the moment Roke entered it, and it was the second time since the hearing that a thing he could read had arrived in a form that was not paper, and he had still not got used to it and had stopped expecting to.
+The System put the burden schedule into Ilyan's sight at the moment Roke entered it, and it was the second time since the hearing that a thing he could read had arrived in a form that was not paper, and he had still not got used to it and had stopped expecting to.
 
-> **BURDEN SCHEDULE, TAKEN IN THE FIELD AT THE LOW-WATER CULVERT, THE TWENTIETH DAY. LINES: FOUR. LINES WITH A RATE AGAINST THEM: NONE.**
-> **THE HOURS ARE ENTERED IN THE GATE HAND'S HAND AND ARE NOT A NUMBER.**
-> **WHAT THE SCHEDULE SHOWS: THE INSTRUMENT NAMES AN OFFICE. THERE IS ONE PERSON IN THE OFFICE. THE PERSON IS NOT PAID.**
-> **WHAT THE SCHEDULE DOES NOT SHOW, AND THE COURT WILL NOT FIND: WHO IS OWED THE FOUR HUNDRED AND ELEVEN LOADS, AND WHO OWES THEM.**
+**BURDEN SCHEDULE, TAKEN IN THE FIELD AT THE LOW-WATER CULVERT, THE TWENTIETH DAY. LINES: FOUR. LINES WITH A RATE AGAINST THEM: NONE.**
+**THE HOURS ARE ENTERED IN THE GATE HAND'S HAND AND ARE NOT A NUMBER.**
+**WHAT THE SCHEDULE SHOWS: THE INSTRUMENT NAMES AN OFFICE. THERE IS ONE PERSON IN THE OFFICE. THE PERSON IS NOT PAID.**
+**WHAT THE SCHEDULE DOES NOT SHOW, AND THE COURT WILL NOT FIND: WHO IS OWED THE FOUR HUNDRED AND ELEVEN LOADS, AND WHO OWES THEM.**
 
 Nobody in that field was going to argue with a number, and there was nothing on the page to argue with, and that is the whole of the finding: a four-line schedule, entered by a woman's own hand, with nothing against it.
 
 Then the court did something that cost a day and a half and was not in anybody's plan, which is that it began to take statements, and it took them from the people who are in the schedule, and it took them at length, and it produced a second page.
 
-Wenna Tace, four hundred and six loads, eleven months of arrears, ninety days of a third of a haul rate, and a barrow that is four loads to a cart, and which is not a haul and is entered as neither and is therefore invisible.
+Wenna Tace, four hundred and eleven loads, eleven months of arrears, ninety days of a third of a haul rate, and a barrow that is four loads to a cart, and which is not a haul and is entered as neither and is therefore invisible.
 
 Cael Rundle, a ratepayer, thirty-one years, a bad chest in the wet, a daughter of fourteen who is not in the traveller book and walks to the pump, and *I am not asking for the water, I am asking for the paper gone*, and a motion withdrawn as to the withdrawal of the precedent and unwithdrawn as to everything else.
 

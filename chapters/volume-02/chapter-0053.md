@@ -97,7 +97,7 @@ Nobody in the room had wanted to hear that, and two people wrote it down.
 
 Then Ilyan was asked, and the asking was not by Nell Ambrey, and Corva Silt had put the names in the notice and so the room was entitled.
 
-The first question came from the back of the room, on the strength of the Bench's order read aloud by Corva Silt at the eighth bell, from a man Ilyan had not seen before, about thirty-five, with a builder's apron on and lime in the seam of it.
+The first question came from the back of the room, on the strength of the Bench's order read aloud by Corva Silt at the eighth bell, from a man Ilyan had not seen before, who was called Abel Kearn, was thirty-five, built out of the upper street, and had a builder's apron on with lime in the seam of it.
 
 “You are the one on the paper,” the man said. “Right. Here is the question and I have asked it four times and got four answers and none of them was a person. What did you do about this.”
 
@@ -119,7 +119,7 @@ The first question came from the back of the room, on the strength of the Bench'
 
 “Yes,” said Ilyan. “And if you want to make a rule about that, make it about me, and not about the paper.”
 
-The builder's apron man thought about it for about as long as it takes a load to come off a span.
+Abel Kearn thought about it for about as long as it takes a load to come off a span.
 
 “Then you are no use in this room,” he said, “and I am sorry, because I have a bad thing and I want somebody to make it good, and there is no somebody. And I have been in this room three times and there has been a court man on the bridge four miles up the road and a recordwright from a town that has an archive in it, and there is one lawyer’s clerk in this district and she is thirty-one and she printed it.”
 

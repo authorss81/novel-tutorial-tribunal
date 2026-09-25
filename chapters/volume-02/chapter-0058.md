@@ -2,7 +2,7 @@
 
 On the twenty-first morning Ilyan could not feel his left foot from the ankle down, and he knew before he put a shoe on that this was the second day and not the first, and the second day is where a thing stops being an accident and becomes a rate.
 
-He had tried four things. Cold water on it at the fifth bell, which did nothing. Standing on it, which was worse. Counting the loads on the flat from the top of the bank, which he had done on the fifteenth, the seventeenth, the nineteenth and the twentieth and had got four hundred and six, four hundred and nine, four hundred and nine and four hundred and eleven, and which was the only part of his working day that had got easier.
+He had tried four things. Cold water on it at the fifth bell, which did nothing. Standing on it, which was worse. Counting the loads on the flat from the top of the bank, which he had done on the fourteenth, the seventeenth, the nineteenth and the twentieth and had got four hundred and six, four hundred and nine, four hundred and nine and four hundred and eleven, and which was the only part of his working day that had got easier.
 
 And the smell. That was the other thing and it was the other half of the problem and he had stopped trying to explain it to himself about a day after the token had gone cold on the milestone.
 

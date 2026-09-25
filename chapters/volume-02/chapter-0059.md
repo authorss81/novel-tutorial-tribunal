@@ -68,15 +68,15 @@ That is the part that has to be in a record: it worked.
 
 Roke wrote it. He read it back. Odile read the conditions of the charter aloud to make sure the ground was right and Harrow checked her against his own copy and neither of them differed by a word. Larch read the list of parties on notice back into the field, and the list is fourteen names and one seal, and it is the Ro household and Neris Ro first, because a clerk writes the party with the most to lose at the top.
 
-> **CHALLENGE ENTERED BEFORE THE REVIEW DATE UNDER TERM SIX OF THE NINTH-BRIDGE CHARTER.**
-> **CLAIMANT: I. VESTER, ATTACHED RECORD-HOLDER, A PARTY BY THE RULING, LIMITED TO THIS MATTER.**
-> **PARTIES ON NOTICE: EVERY PARTY NAMED IN THE NINTH-BRIDGE INSTRUMENT. FOURTEEN NAMES AND ONE SEAL.**
-> **CONDITION DISPUTED: WHETHER A REVIEW HELD AT ONE SPAN MAY BE RECEIVED IN A BENCH THAT HAS NOT ADOPTED THE INSTRUMENT.**
-> **BURDEN: THE BURDEN OF THIS CHALLENGE IS THE COURT'S. IT IS NOT THE CLAIMANT'S AND HE HAS NOT ASSIGNED IT TO ANYBODY.**
-> **WHAT IS NOT ASKED: THAT ANY GATE BE OPENED OR SHUT. THAT ANY PERSON BE PAID. THAT ANY HOUSEHOLD LOSE AN ACCESS, A ROOM, OR A WORK RECORD.**
-> **THE APPEAL DOES NOT SUSPEND ACCESS, HOUSING, OR WORK. THAT IS IN THE CHARTER AND IT IS NOT A FAVOUR.**
-
 The System put it in front of Ilyan at the moment Roke entered it, and it was a record of a challenge and not a rule about the world, and it was the fourth thing since the hearing that had gone into this city's record out of his own account and could not be taken back, and the other three were two copies of a private sequence from a game called *The Sovereign's Wake* and a precedent he had asked for in a corridor.
+
+**CHALLENGE ENTERED BEFORE THE REVIEW DATE UNDER TERM SIX OF THE NINTH-BRIDGE CHARTER.**
+**CLAIMANT: I. VESTER, ATTACHED RECORD-HOLDER, A PARTY BY THE RULING, LIMITED TO THIS MATTER.**
+**PARTIES ON NOTICE: EVERY PARTY NAMED IN THE NINTH-BRIDGE INSTRUMENT. FOURTEEN NAMES AND ONE SEAL.**
+**CONDITION DISPUTED: WHETHER A REVIEW HELD AT ONE SPAN MAY BE RECEIVED IN A BENCH THAT HAS NOT ADOPTED THE INSTRUMENT.**
+**BURDEN: THE BURDEN OF THIS CHALLENGE IS THE COURT'S. IT IS NOT THE CLAIMANT'S AND HE HAS NOT ASSIGNED IT TO ANYBODY.**
+**WHAT IS NOT ASKED: THAT ANY GATE BE OPENED OR SHUT. THAT ANY PERSON BE PAID. THAT ANY HOUSEHOLD LOSE AN ACCESS, A ROOM, OR A WORK RECORD.**
+**THE APPEAL DOES NOT SUSPEND ACCESS, HOUSING, OR WORK. THAT IS IN THE CHARTER AND IT IS NOT A FAVOUR.**
 
 “This is the fourth,” he said, to nobody, on the step.
 

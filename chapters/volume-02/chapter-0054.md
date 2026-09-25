@@ -102,7 +102,7 @@ Then Cael Rundle said, and he said it to Ilyan and not to the bench, and he did 
 
 “And this,” Cael Rundle said, and pulled the sheet out of his coat, “is your precedent, which I have had read to me twice, and I am going to say one sentence with it and then I am finished.
 
-“Your paper says a person not on a register is not a trespasser because of it alone. My daughter is fourteen and she is not on that book and she was not born in this district and she has never been in this lane and she walks to the pump every morning and has done since she was six. And on the fourteenth day, because of your paper, a carter told her, in front of a child, that his load was not going up the hill for a girl who is not in a book. And she came home and asked me whether she was a trespasser. And I said no. And I am sixty, I said no, and I could not make her believe me, and that is the whole of what I came down here for and I have been three hours being clever about it.”
+“Your paper says a person not on a register is not a trespasser because of it alone. My daughter is fourteen and she is not on that book and she was not born in this district and she has never been in this lane and she walks to the pump every morning and has done since she was six. And on the fourteenth day, because of your paper, a carter told her, in front of a child, that his load was not going up the hill for a girl who is not in a book. And she came home and asked me whether she was a trespasser. And I said no. And I am fifty-eight, I said no, and I could not make her believe me, and that is the whole of what I came down here for and I have been three hours being clever about it.”
 
 The room was extremely quiet.
 

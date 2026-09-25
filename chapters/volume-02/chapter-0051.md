@@ -6,6 +6,22 @@ Ilyan had walked the four miles from the weighhouse with the print rolled inside
 
 The standpipe was at the low point of the whole district, which was a decision, and the decision had been made by somebody who did not have to drink the water.
 
+---
+
+He had not come on the day the copy came, and the seven days in between were the work.
+
+The copy had gone up the fen road on the fifth day in the hand of a boy on a bicycle who had been paid a penny and had not been told what was in it. It had been printed two days after the hearing and nailed up on the morning it was printed, and it came into the weighhouse and then up into a room he was not licensed to be in, and a record hand logged it and could not find a file with a name on it and put it in the ninth-bridge matter sideways, between an account for a broken pin and the return of a broken seal.
+
+What he did with it took that day and most of a second one. He read it against the ninth bridge's own settlement on the frame, with the slate against his knee, in the cold, in the way he had read every paper for five weeks, and he got the same answer twice. It was lawful. It had been made out of a public instrument by an office with a print authority and no fee and no permission. It had taken the sentence that helps a person and had not taken the sentence that would have cost the district something, and both of those sentences were in the charter, four lines apart, and the clerk had put her district's name and her district's seal on the half that worked.
+
+And there was nothing he could do with that, and the reason there was nothing he could do with it was his own name. A print in a district's own column, on a district's own board, four miles down a fen road, is not a document in the ninth-bridge matter. If he had walked down on the sixth day with it in his coat and said who he was, the room would have stopped listening, and Kett had told him so in a corridor in Orison and had been right. If he had walked down and not said who he was, he would have been a man in a room refusing to give his name, which is a worse man and the same man.
+
+And on the ninth day a court made him a thing he had asked to be, in three lines, in a room off the basalt court, and the price of it was that his name would be the first thing anybody said in that room and the second thing anybody wanted to throw at the other side.
+
+And on the tenth day he heard the rest of it, and it came to him the way everything in this case comes to him, which is sideways. A carter came up off the fen road at the second bell with an empty cart, having been turned back at a gate four miles down that road with his load standing on it, and told the weighhouse about it in the flat voice of a man who was still annoyed rather than frightened. He could not be got to say which gate, because to him it had been a gate. He had sat in a district room since and had not been asked one question by anybody in it, and the only thing he wanted out of the room was his road money.
+
+He came down on the twelfth because the bench itself was sitting on the twelfth, and because a person whose name is on a produced document may be asked questions about that document, and because on the twelfth he could stand in a lane and be nobody for a whole day, and because on the fourteenth he would be a name and nothing else, and after the fourteenth nobody in Halloway was going to be in a mood to be told anything by a man with a slate.
+
 At the sixth bell there were forty-one people at the queue. Ilyan counted them twice, because counting is the only thing he could still do at a glance, and because a number he could not get would be a number he could not use. Forty-one at the sixth bell. At the ninth bell, later, when the pump's second shift had been on for an hour, there would be nine. He wrote both figures on the slate and put a rule between them and did not yet know what the rule was for.
 
 The print was nailed on a board by the gate, and it was not a notice in a frame. It was a single sheet, district paper, from a district form, and it had been put up with four nails and no glass, and rain had been at it for nine days and it had gone soft at the corners and the fourth paragraph was the only part still crisp.
@@ -64,7 +80,7 @@ She said it twice, which she had never done in eleven years.
 
 “Cael,” she called, without turning round, “come and hear that word.”
 
-And a man of about sixty came up out of the queue with his coat buttoned wrong, and Wenna read him the sentence a third time, and Cael Rundle said:
+And a man who looked about sixty came up out of the queue with his coat buttoned wrong, and Wenna read him the sentence a third time, and Cael Rundle said:
 
 “That is the bridge word.”
 
@@ -180,7 +196,7 @@ The count had been taken at the seventh bell by two hands and one of them had be
 
 ---
 
-Harrow read it out on the record, and Roke wrote it, and it is the reason Ilyan is standing in a district four miles down the fen road on the fourteenth day, which is where this ends and where the rest of it starts.
+On the ninth day, three days before he walked down the bank, in a room off the basalt court with a tray on the table, Harrow read it out on the record and Roke wrote it, and it is the reason there is a man standing in a lane at the sixth bell at the end of this morning with a print rolled inside his coat, and it is the reason he is not going to be allowed to leave this district inside a week.
 
 “*The attached record-holder, whose name is on the produced instrument, and who has no constituency, and who may be heard in the ninth-bridge matter only, is attached to a sitting of the Halloway bench on the fourteenth, as a witness to his own attached observation, and to nothing else.*”
 
@@ -198,4 +214,4 @@ Sera was at the foot of the steps, and she had the read-back under her arm and a
 
 “Then I will want you there and be wrong about the reason,” Ilyan said, and she wrote the time on her slate rather than looking at him, and then she said, “And you will be wrong about it, and I will let you stand there being wrong, and that is the whole of the service I have been retained for.”
 
-And the tide came up under the road behind them, and the low water began, and the smell did not.
+And three days after that the tide came up under the road at the low water, and the low water began, and the smell did not.
