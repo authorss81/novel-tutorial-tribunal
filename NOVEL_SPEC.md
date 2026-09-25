@@ -15,4 +15,4 @@ A System judges whether a fantasy world is fit to continue, and every challenge 
 The verdict decides whether the world is a game, a prison, or a place where people can refuse the rules.
 ## Status
 
-Volume 01 Batch 0002 prose is generated and reviewed. Volume 01 remains in progress; the next active phase is Batch 0003, Chapters 21–30.
+Volume 01 Batch 0003 prose is generated. Volume 01 remains in progress; the next active phase is Batch 0004, Chapters 31–40.

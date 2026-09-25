@@ -1,65 +1,78 @@
-# Character State After Batch 0002
+# Character State After Batch 0003
 
 ## Ilyan Vester
 
-- **Status:** First Defendant; early Stage 1, Case Opener. He can phrase one narrow challenge or provisional exception request with a named advocate. In the Saltwheel matter, he may document an attached review and sequence, but he cannot represent Cinder Ward, assign its burden, force a witness, or choose a remedy.
-- **Physical state:** Sleep-deprived and bruised from the crossing and road work. The current headache is ordinary fatigue and strain; no new supernatural perception or power has appeared.
-- **Current burden:** His identity, signed Earth report, and post-hearing testimony remain attached to the ninth-bridge case through the seventh-morning-bell review. His name now also travels with the copied-precedent request, but the local arrangement does not assign him authority over its people.
-- **Immediate want:** Keep the bridge and local road cases answerable without turning a bounded remedy into a universal rule; determine how his private sequence entered Veyran records before he arrived; find a route home without becoming Veyra’s author.
-- **Moral change:** He can now distinguish authorship, adoption, enforcement, and consent, but the distinction does not protect him from the consequences of his name. He has learned that a remedy can fail on its own merits — the ledger was preserved and the road was not — and that watching a lawful man cross a blank line can be more consequential than arguing with an unlawful one. He accepts that local workers and witnesses may reject his plan and that documentation is a limited responsibility, not control.
-- **Public position:** The eastern district, Merefen, and the Cinder Ward know his name. It is both evidence resource and political liability. His Earth sequence has been publicly compared and appears in a pre-arrival Veyran paper, deepening the authorship dispute without proving authorship.
+- **Status:** First Defendant; early Stage 1, Case Opener. In the ninth-bridge case he can document a sequence, request one narrow provisional exception, and file an attached observation. He cannot assign another's burden, force a witness, rewrite a plate, choose a local remedy, or use a new perception.
+- **Physical state:** Sleep-deprived, stiff-handed from cold work and road grit. The headache is ordinary fatigue. No new supernatural perception or power has appeared.
+- **Current burden:** His identity, signed Earth report, and post-hearing testimony remain attached to the ninth-bridge case through the bridge review. In addition, the Lower Ward Assembly's limited word makes his name citable as a record and uncitable as a permit, schedule, levy, acknowledgment, or bearer of labor. He holds one granted request: a paid, finite west-joint inspection ending at the review bell.
+- **Immediate want:** Get the keeper's pause clause and the missing maintenance review back into the charter before the two-finger drift becomes a collapse, without spending the Ro household's stay to do it, and find out how his private Earth sequence entered a Veyran routing desk before he arrived.
+- **Moral change:** He has admitted the most damaging true sentence available to him: every limit in the stay he accepted was a limit on the court, and nothing in it stopped a clerk from reusing the stay's shape, and he did not ask for that clause because asking would have meant asking to amend a charter and he was relieved not to have to. He has also learned that a rule about refusal is not a rule about structures — a rule that makes refusal free also makes refusal lawful on the worst day in the worst weather. He wrote a rule about refusal he had never said aloud, chose not to file it, chose not to destroy it, and said why out loud in a room.
+- **Public position:** Weaker and more useful. The lowland conservancy withdrew its citation and rode home. The assembly restricted how his name may be used. The assembly's clerk has officially recorded that he declined to request the charter amendment three of four delegations wanted. He has no district and no coalition. He has entered his Earth reproduction sequence into a public record twice and cannot un-enter it.
 
 ## Sera Quill
 
-- **Status:** Provisional advocate, limited scope. She represents Ilyan’s attached bridge disclosure and copied-precedent review only; she is not yet formally licensed and does not represent the Cinder Ward as a whole.
-- **Immediate want:** Preserve the distinction between the local road’s finite arrangement and her family’s withdrawal appeal; pursue the two dated Quiet Chamber absences without making Ilyan’s public case a shortcut.
-- **Relationship boundary:** She works with Ilyan because the records require it and because he accepted concrete limits. She does not trust him personally, forgive the breach, or give him control over witnesses. She accepts him as a record-checker for the family chain, not as its advocate.
-- **Current possession and knowledge:** She retains custody of the court’s disputed copy of Neris’s account; Neris retains the original. The original Quiet Chamber sleeve is in archive custody. Sera has identified the formal continuity request, C—2 code, Sava Kest witness-index entry, and a second paper using Ilyan’s pre-arrival private sequence. She now also knows that the local petition was built from the public wording before the Quiet Chamber margin was rewritten, which separates the copier from whoever tidied the record. She carries her grandmother’s tin well-measure, and she keeps the family stake in the record rather than in her chest. The responsible person remains unknown.
+- **Status:** Provisional advocate, limited scope: the bridge charter, the maintenance record, the disclosure, and the copied-precedent review. Not yet formally licensed. Not the Cinder Ward's advocate. Not the Quill family's advocate.
+- **Immediate want:** Keep the Ro household's case, the Saltwheel arrangement, and her family's withdrawal claim separate, and trace the C—2 routing through custody rather than through a person.
+- **Relationship boundary:** She stopped Ilyan in a public hall and was right. She refused to let him reopen the bridge record on the C—2 evidence, because a reopening suspends the stay, and the stay is the only lawful crossing a ten-year-old has. She told him plainly that she is not the place his tools come from, and that the day she lets her grandmother's well be a lever is the day her family's claim becomes a technique. She has accepted him as a record-checker with a written division of labor: the family record is hers, and he may trace custody in the public records but may not infer a person from a sequence.
+- **Current possession and knowledge:** She holds the district's working schedule book and the rubbing of the incomplete routing mark. She knows the C—2 rerouting of the bridge's maintenance condition, the print run 114 distribution, the nine-step custody chain, and that the pre-arrival paper's receipt falls inside the C—2 index's gap. She has not submitted the pre-arrival paper and has told a public room why. She still holds the court copy of Neris's disputed account and her grandmother's tin well-measure.
 
 ## Tarin Keel
 
-- **Status:** Route-arbiter and cautious working ally, not an unconditional protector.
-- **Change:** He establishes a neutral public witness list, refuses force against residents or guards, and secures the broken marker as physical evidence. He allows Ilyan to document only within the sequence Tarin sets. Tarin continues to warn that a narrow request can be used by officials to justify a wider emergency.
-- **Current custody:** The crossing-side marker bearing the private refusal wording is under Tarin’s protection pending a public Bench record. It is not at the road; the socket where it stood is empty.
+- **Status:** Route-arbiter and cautious working ally. Offered a neutral boundary and a public witness list to an assembly that could not convene, without an order and without force.
+- **Change:** He refused to let Ilyan's narrow inspection request become a rule that a worker's refusal can halt a crossing, because a load does not care whose objection is in the record. He then identified, in front of witnesses, that the district ledger's refusal column already existed because the same clerk had filled two lines of it himself, and forced the household's refusal out of the position column and into the fourth column where a refusal belongs. He wrote it into a public witness list at the evidence session rather than a judgment, and he holds the Saltwheel crossing-side marker. He continues to distinguish a boundary from a laborer and will not cross that line for Ilyan or for anyone.
+- **Current custody:** The Saltwheel crossing-side marker bearing the private refusal wording remains under his protection. The count book with the guild's recorded offer and refusal is in the guild's own keeping.
 
 ## Tamsin Ro
 
-- **Status:** Physically injured but safe under the ninth-bridge provisional stay; age ten and a voluntary, limited witness.
-- **Offered testimony:** The warning bell rang before the bridge moved. She has not offered the flood account or a permanent public role.
-- **Current boundary:** She wants the warning bell to work and does not want to be made into a performance or used to justify a copied road rule. At the Saltwheel work line she offered to count the bell changes for herself and kept the count to herself, which is a larger limit than it looks. Her access and housing/work protection remain temporary, and the stay now moves her under Tarin’s escort between the bridge and the road.
+- **Status:** Physically healing but not well; safe under the ninth-bridge provisional stay until the review bell at noon on the day after the pre-review sitting.
+- **Offered testimony:** The warning bell rang before the bridge moved. She repeated it once, in the workroom, where the span was visible while she spoke, and refused the public assembly. She has sent no message to Ilyan's examination and has not attended it.
+- **Current boundary:** She asked that the file going to the bridge review state that she is not a reason for the bridge — that the rule was missing before she was under it and will still be missing if she stops crossing. The court clerk wrote it into the file, and the file has not yet been read by the review. She counts the load changes to herself and tells people the number and nothing else.
 
 ## Neris Ro
 
-- **Status:** Tamsin’s mother and a dye-yard tally worker; the Ro household’s access to work, housing, and the bridge remains provisional.
-- **Consent boundary:** Her private flood account was filed without permission. The court copy is disputed; the original stays with her; the names inside it were not consented to and are not public testimony.
-- **Current want:** A safe route to work and a room without permanent registration or symbol-making. She has asked that the Cinder Ward review not use her family’s crossing, Tamsin’s bell fact, or the flood account as proof that a copied rule is safe.
+- **Status:** Tamsin's mother and a dye-yard tally worker. Her room on the lower road is now an entered, sworn record; her work hour and quarter-bell start are recorded; the household's crossing is no longer credited as maintenance labor.
+- **Consent boundary:** The flood account remains disputed, preserved, and refused. The names inside it were never consenting witnesses. She has now refused her refusal publicly a fifth time and told a clerk she would not perform it again.
+- **Current want:** A route to work and a room without permanent registration. She refused a maintenance acknowledgment on the ground that the charter has no exit, so a signature would bind the household to a rule it could never leave, and she said the reason out loud so it would be on the record. She has accepted the four concessions offered around the signature and refused the signature itself.
 
 ## Oren Sedge
 
-- **Status:** Ninth-bridge keeper and cautious repair adviser for the Saltwheel work.
-- **Current burden:** His ninth-bridge maintenance remains finite and named through the bridge review. He advised the local road without transferring bridge authority; the roadkeepers and ward workers performed the work.
-- **Evidence:** The old saltglass workroom plate remains sealed. Its maintenance-review condition and the old plate’s S. Kest edge fragment are unresolved evidence, not a complete charter.
+- **Status:** Ninth-bridge keeper, twenty-two years in the post, and the guild's decision-maker. Has begun rejecting documents on the guild's own reasoning without reference to Ilyan.
+- **Current burden:** The guild works to a chalk wage board with named hours at the levy rate, four hands before the first bell and six at each change, none after dusk, and the levy is spent on Thursday. He has refused a district maintenance acknowledgment that assigned the burden to *their successors, until the charter is amended*, on the ground that the guild will not carry a term it cannot use: the charter does not let a keeper stop a load.
+- **Evidence:** The sealed saltglass plate is in the court locker. It is a load record, not a keeper's plate, and its edge carries **S. Kest** cut along the load-book side, with the salt gone white in the cut. Oren has carried a rubbing since the first field and showed it publicly only once.
 
-## Joren Vell, Dalla Rusk, Lio Fenn, and Mava Rusk
+## Ilsa Bray
 
-- **Joren Vell:** Saltwheel roadkeeper; discovered the hollow seam, warned that one heavier wheel would finish the cracked marker, and refused a clean inspection without ward representation. He offers the road’s physical sequence, not Ilyan’s remedy, and he argues the district’s own logic back at it in public.
-- **Dalla Rusk:** Water-route worker and Mava’s sister; they argued about the road before the district ever did. She offers the pump and water facts while refusing to speak for every resident.
-- **Lio Fenn:** Ward worker; records work hours and insists labor is not consent to the levy.
-- **Mava Rusk:** Cinder Ward household lead; refuses the maintenance acknowledgment, accepts only the named local work and public review, and keeps the refusal visible. The arrangement is not hers to become permanent by signature.
+- **Status:** Ninth-bridge keeper and load-counter, six years on the scale. Refused a forward schedule reading *until reviewed and thereafter* with a wage line that has no hours.
+- **Contribution:** She offered the physical defect — on the third run the west joint comes back to its mark, walks two fingers out, and comes back — and refused the schedule. Oren recorded both in the guild's own book as *offered* and *declined*, so the refusal is not consent and not sabotage.
+- **Family knowledge:** She was apprenticed in the year the crew list was rewritten to one witness. Her grandmother counted the plate's load-book edge and said, on being paid off the book, *a book without a second hand is only a record.* Ilsa cannot prove that the name cut out of the Saltwheel levy ledger is the same woman and has said so in public, and has asked the room to stop her from deciding it. Oren pays eight hours of salt-crack work from the guild's own account in the same entry as her refused schedule, so the district cannot read the refusal as a refusal of work.
 
-## Meral and Marshal Tovin Dain
+## Joren Vell, Mava Rusk, Dalla Rusk, Lio Fenn, and Pev Sorrel
 
-- **Meral:** Merefen petition clerk who assembled the composite petition, used the copied precedent to justify the levy, and later preserved the ward’s refusal in the common register after the pause. He now also defends the office’s unpublished end-assessment, and he knows the hold on enforcement was refused. He remains an institutional actor, not a hidden culprit.
-- **Tovin Dain:** The same Merefen marshal throughout the batch. He enforces the ward closure in Chapter 15, paints and controls the assembly witness line in Chapter 17, and carries the district’s copied-precedent objection to the hearing in Chapter 20. He defends road continuity and threatened water/shelter priority when the ward refused. His concern about pumps and deliveries is real, and his enforcement exposes the transferred cost.
+- **Joren Vell:** Set the eastern apron and the wedges from the road side so the guild could feed the joint course from the outside, and refused to let the district put the work in its schedule. He does not sign the *and their successors* clause either.
+- **Mava Rusk:** Did not attend the assembly and did not permit the Cinder Ward to be spoken for by a bench she was never assigned. Her refusal is in the fourth column of the new ledger. The arrangement is not hers to make permanent.
+- **Dalla Rusk:** Gave the water route and the pump hours at the evidence session and refused, mid-answer, to speak for the households the pump serves.
+- **Lio Fenn:** Gave the ward's hours and declined to give the ward's position, on the ground that a position given by him is a position given by one man with a tally. His tally is now an entered record with the support column struck through.
+- **Pev Sorrel:** Holds the whistle at the road corner for the ward's hours and used it eleven times in a day without ever using it to hurry anybody.
 
 ## Meridith Vale, the entering clerk
 
-- **Status:** A district clerk from Merefen with a newer, less familiar seal. He appears once, in Chapter 19, and performs the single most consequential physical act of the batch: he enters the automatic renewal into the active petition book. He insists he was sent to enter it, not to hold it, and notes that his name goes on the seal, not on the condition. He is not a villain; he is what a lawful procedure looks like when nobody stops it.
+- **Status:** District maintenance clerk, holder of a newer seal and a standing print authority. He is the same man who entered the Saltwheel renewal in Chapter 19.
+- **Acts in this batch:** Entered Ilyan's name in a work slate's authority row under an unnamed four-year-old instruction; delivered the materials-store proposal to the Ro household; ran the routine maintenance update that replaced the affected-party column; and entered the new two-book ledger. He first entered the Ro household's crossing credit as a *position*, which Tarin identified as the wrong column and Oren made him rewrite, and he rewrote it in his own flat hand with the hour and the version, in front of witnesses.
+- **Limit:** He is not a villain and does not think he is doing harm. He describes his own job accurately, believes the entry is lawful, and has twice entered a fact against the district's instinct at a household's request. The chain he is part of names no responsible person, and he is the one person in the case who can be shown, step by step, doing exactly what he was sent to do. The office that authorized the printed form is a **preservation authority** — a stamp with no person whose function is to keep records through a period in which records are being kept. Preservation and enforcement share one signature. Sera has one question a day at that desk and has spent hers.
+- **Institutional context:** the ninth bridge belongs to Orison's lower ward, and Vale is that ward's maintenance clerk. Tovin Dain attends in a borrowed capacity as the enforcing officer of the adopting district, with no standing on the bridge. Bevin Larch is the lower ward's schedule clerk.
 
-## Sel Harrow
+## Maren Kett, Tovin Dain, Meral, and Halden Moot
 
-- **Status:** Trialwright and procedural gatekeeper. He preserves the copied petition while pausing automatic renewal, refuses to erase a dangerous record, and keeps the local review bounded. He remains institutionally protective and morally legible.
+- **Maren Kett:** Won the materials-store hold in the assembly by citing the Bench's own refusal to hold enforcement in the Saltwheel matter. Wants one legible rule with no roof. He is beginning to be right about more than he is right about.
+- **Tovin Dain:** Served the maintenance acknowledgment on the guild's crew after the household refused it, and lost on it. He is a credible institutional actor whose enforcement keeps exposing the transferred cost.
+- **Meral:** The common register still carries the district's added line, *acknowledgment inferred from continued use*, and the copied petition is still mounted and still dangerous.
+- **Halden Moot:** The Lower Ward Assembly's quorum clerk. Procedurally correct throughout: a notice to a petition box is an undelivered notice, an empty bench is not a ward, and an evidence session has no findings. His shelf of routing indexes produced the batch's chain payoff by accident.
+
+## Hanne Kolm, Sel Harrow, and Sel Harrow's office
+
+- **Hanne Kolm:** Keeps a twelve-year unsworn landlord's book of every room, name, and month on the lower road. She refused to let the assembly seal it, then swore it into the record once the household asked for it and gave nothing for it. She also refused the district's *unsworn, offered, not admitted* notation and demanded the refusal be read aloud.
+- **Sel Harrow:** Has not appeared in person this batch. The court's office has defined the limits of the examination and preserved the sealed plate. He remains a recurring institutional obstacle and a probable witness in the full hearing.
 
 ## Relationship and continuity note
 
-Ilyan and Sera have a limited working arrangement with a concrete trust breach and repair. Ilyan and Tarin have a wary practical alliance. The Ro household’s relationship to Ilyan is witness-based, consent-based, and independent. No romance beat has occurred; the slow-burn relationship remains quiet and procedural.
+Ilyan and Sera have a working division of labor and a professional disagreement in public. He has lost the constituency his name used to supply and gained nothing in exchange but a wage and a clause she refused to give him. Ilyan and Tarin disagree and still work together. The Ro household's relationship to Ilyan is witness-based, consent-based, independent, and now visibly separate from his case. No romance beat has occurred; the slow-burn relationship remains quiet, procedural, and slightly worse for both of them.

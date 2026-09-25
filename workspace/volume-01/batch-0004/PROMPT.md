@@ -1,0 +1,138 @@
+Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0001.md`, the complete Chapters 1–30 in `chapters/volume-01/`, `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/chapter-summaries.md`, `state/batch-summary.md`, `state/character-state.md`, the relevant bible files, and the current batch prompt. This is the fourth prose batch of Volume 01, *The First Hearing*. Treat Chapters 1–30 as canon. Do not restart, replace, or silently retcon them.
+
+## Phase and range
+
+Write **Chapters 31–40** in order as complete finished scenes, normally 2,000–3,000 words each. Do not pad. Every chapter needs a complete action, resistance, changed situation, practical or emotional consequence, and an ending that creates a decision, pressure, discovery, or consequence. Do not write an outline or meta commentary as the chapter.
+
+## Batch goal
+
+Move from *local institutions under pressure* into *the record under pressure*. The seventh-morning-bell bridge review falls at noon on the morning after Chapter 30 and must not be resolved here; it is the doorway into Chapters 41–50. The batch's pressure is that the missing maintenance-review clause is a **physical** danger as well as an archival one: the west joint drifts two fingers on every load and returns, the brace holds and the joint does not, and the current charter does not let a keeper stop a load. Meanwhile the C—2 routing discovery from Chapter 29 creates an institutional temptation: if the rerouting of the bridge's own maintenance term can be shown, someone in the city will want to reopen the whole record — and a reopening suspends the Ro household's stay.
+
+The batch should end with the bridge physically safer but legally no more secure, the district having found a lawful way to keep pressing without any single villain, the C—2 chain one documented step deeper with no responsible person named, and a real institutional loss for Ilyan that is not his fault. Do not resolve the full bridge case, the historical right of refusal, the authorship mystery, or the First Witness.
+
+## Canon and limits to preserve
+
+- Ilyan crossed through a separate one-use legacy null passage, not the Shale Mirror. It was non-consensual, returnless, assigned no automatic burden, consumed the ninth bridge emergency reserve, and worsened an existing western-joint drift. He carries a spent blackglass token and the signed, unmerged *Sovereign's Wake* refusal report. He has now entered his Earth reproduction sequence into a public Veyran record **twice** and cannot un-enter it.
+- Ilyan is early Stage 1, Case Opener. He may document a sequence and attached precedent and request one narrow provisional exception or attached observation with a named advocate. He cannot represent the Ro household, represent Cinder Ward, assign another person's burden, force a witness, rewrite a plate, choose a remedy alone, or use a new perception. His growth in this batch must be **changed judgment, delegation, and accepting a loss he did not cause** — not a new power, a new perception, or a new ally who solves his problem.
+- The System translates only formal Bench records, notices, and hearing-field boundaries entered into Ilyan's open case. It does not translate ambient conversation, trade shorthand, tone, or local custom. The Bench preserves records and issues binding rulings. Keep panels rare — five formal notices served Chapters 21–30; this batch should be comparable or lighter — readable, and tied to the immediate record. Never use real software jargon.
+- Sera Quill is still a limited provisional advocate. Her scope covers the bridge charter, the maintenance record, disclosure, and the copied-precedent review. It does not make her the Ro household's advocate or Ilyan's general counsel. The written division of labor from Chapter 26 stands: the family record is hers, and Ilyan may trace custody in public records but may not infer a person from a sequence. Trust is conditional, specific, and revocable. Her family withdrawal appeal remains separate.
+- Tarin Keel is a cautious working ally. He protects neutral lines, witnesses, and physical evidence; he does not obey Ilyan automatically; he does not use force against residents or guards. He will disagree with Ilyan and still hold the line. Oren Sedge's guild accepts only named, paid work. Ilsa Bray refuses forward schedules without hours and offers the physical defect instead. Sel Harrow remains a recurring procedural obstacle, not a cartoon villain.
+- Tamsin and Neris retain independent agency. Tamsin's only offered fact remains that the warning bell rang before the bridge moved; she has asked that the record state she is not a reason for the bridge. Neris has refused a maintenance acknowledgment because the charter has no exit, and has refused the flood account again. The Ro household's room, work hour, and crossing hours are entered records; its acknowledgment is not signed.
+- The ninth bridge's one-cycle provisional stay runs to the seventh morning bell. The current charter is unamended. The maintenance-review clause that once let a named keeper pause a span is missing, and a keeper may summon a pause but may not release the span. Appeal, enforceable exit, and durable housing/work protection remain unresolved.
+- The original Quiet Chamber page was removed before Ilyan arrived; its empty sleeve remains in archive custody. Sera's private duplicate was present the night before the first field and disappeared during or after that field. Keep those dates distinct. A formal continuity request has a valid office seal, no named author, a C—2 code, and a missing witness index naming Sava Kest. A second paper uses Ilyan's private Earth sequence, carries the C—2/bridge-plate route, and has a receipt dated before the bridge notice and Ilyan's arrival, falling **inside the gap** in the C—2 incoming index. The old bridge plate's edge carries **S. Kest** cut along the load-book edge — that is, the second hand of the ninth-bridge load book. And the plate and the older witness index have been shown to be **one document cut once**, so that pairing is a result, not a fresh clue, and must not be re-revealed. The pale line on the deck is the joint’s permanent set; the two fingers are what one load walks before it comes back. Keep the two measurements distinct in any scene that reports drift. These are chain clues, not proof of a culprit or a named First Witness.
+- The continuity phrase "Continuity preserves the record before remedy" is a seeded, unidentified voice/cadence. Do not identify the First Witness here.
+- Meridith Vale is the same district maintenance clerk throughout. He has entered Ilyan's name in a work slate's authority row, delivered a materials-store proposal, run a routine maintenance update that replaced the affected-party column, and entered the new two-book ledger. He is not a villain. Public print run 114's authorization page was cut and replaced. The span is a load record with two witnesses under the old charter and one under the current one.
+- The Lower Ward Assembly's limited word stands: the attached name may be cited as a record and may not be cited as a permit, schedule, levy, or acknowledgment, nor entered as the bearer of labor.
+- A request to reopen the ninth-bridge record suspends every relief entered under it, including the stay. This is the fact that stops Ilyan in Chapters 26 and 29 and must continue to bind him.
+
+## Required mini-arc movement
+
+### Chapter 0031 — The Review That Opens With a Number
+
+- **POV/location:** Ilyan, Oren, Tarin, the public hearing boundary at the ninth bridge, the noon bell.
+- **Goal:** Get the keeper's pause authority and a real maintenance review into the record before the two-finger drift becomes an incident, without reopening the charter and without spending the household's stay.
+- **Resistance:** The review opens on a measurement, not an argument. The district's transport effect and the guild's finite wage both arrive as numbers. Oren will not ask for more labor than the levy pays. The Bench can review but not amend without the full hearing, and a full hearing is not scheduled. The Ro household's stay is a relief entered under the very record everyone wants reopened.
+- **Action/consequence:** Ilyan asks for the smallest thing that is actually safe — a *pause route* for a named keeper, not a new charter, not a general rule, not a reopening. Someone in the room asks who pays for a bridge that can be stopped, and the answer turns out to be the carts, and the district immediately offers to name the carts as the affected party.
+- **Ending pull:** The review records the two-finger drift as a measured condition and orders the guild to bring a costed pause proposal to the full hearing — which is not scheduled and which only Ilyan can ask the Bench to schedule, and asking would be the reopening he has been forbidden to ask for.
+
+### Chapter 0032 — The Work the Levy Does Not Pay
+
+- **POV/location:** Ilyan, Oren, Ilsa Bray, Joren Vell, the workroom and the road, the following morning.
+- **Goal:** Find out what the drift actually is, physically, before anyone has to argue about whose fault it is.
+- **Resistance:** The levy is spent on Thursday. The guild has four hands and nine slots. Oren refuses to have Ilyan touch the span, and Ilsa refuses to have a stranger near the scale. Joren's road practice and Oren's bridge knowledge still do not transfer, and the drift may be in the joint, the apron, the water, or the load sequence.
+- **Action/consequence:** Ilyan documents rather than examines. The physical cause turns out to be a mundane, fixable, expensive thing rather than a hidden rule — but the fix requires the district's materials and a day the district does not have, and the guild's own account shows that a crew of six would have caught it four days ago if the schedule had named the guild's hours.
+- **Ending pull:** The guild's own records show a second-hand count was discontinued the same year the second witness was removed, which means the drift was visible earlier and was not seen because the span was being watched by one person instead of two.
+
+### Chapter 0033 — An Institution Wins Something
+
+- **POV/location:** Ilyan, Oren, Dain, Vale, the district maintenance office, midday.
+- **Goal:** Get materials and a day without the district obtaining a maintenance acknowledgment as the price.
+- **Resistance:** The district's position is coherent and not corrupt: a span that cannot be paused is cheaper to maintain than one that can, and every clause that lets a keeper stop a load moves a cost onto the district. The district offers a full answer if the guild signs. The guild's only ground for refusing is the same clause Ilyan wants restored, which means the guild is arguing for the law to change.
+- **Action/consequence:** The guild wins without Ilyan. Oren refuses on the guild's own terms, using the guild's own wage board and the guild's own history of an unpausable span, and the district concedes materials without an acknowledgment because conceding them is cheaper than the argument. The local institution wins something on its own terms, and the win is small and costs the district nothing it values.
+- **Ending pull:** In exchange, the district asks the guild to appear at a regional maintenance conference where three districts will propose a common bridge rule, and Oren has to decide whether a guild that wants its clause back can afford to refuse a room where the clause might be written for everyone.
+
+### Chapter 0034 — The Room Where the Clause Might Be Written
+
+- **POV/location:** Ilyan, Oren, Maren Kett, Hesk Ardan, a regional maintenance conference, the following day.
+- **Goal:** Find out whether a common rule could restore the pause clause everywhere, and whether Ilyan can influence one without becoming the author of it.
+- **Resistance:** A legible common rule is what Maren has wanted since Chapter 17, and here it looks reasonable. The delegates want one sentence, and the one sentence they want does not include refusal, exit, or a second witness. Ilyan's name is uncitable as a permit, so the room cannot use him as a precedent and resents him for it. Oren is a guild delegate with no authority to bind six crews.
+- **Action/consequence:** Ilyan, barred from being an authority, becomes useful as a documentarian, and the room discovers that it cannot agree on a rule because two districts keep failing to supply a witness list — a procedural failure that turns out to be the C—2 index's missing incoming again. The common rule fails, and the failure is procedural rather than moral, which nobody expected.
+- **Ending pull:** A delegate produces a working draft of a common maintenance clause and asks who will carry the witness burden, and every person in the room looks at the man whose name cannot be cited, because he is the only one in the room with nothing to lose by being the record of it.
+
+### Chapter 0035 — The Ro Household Under the Copy
+
+- **POV/location:** Ilyan, Sera, Neris, Tamsin, Hanne Kolm, the lower road and the dye-yard, late morning.
+- **Goal:** Keep the Ro household's access, housing, and work out of the copied-precedent fight now that the household is an entered record.
+- **Resistance:** The Saltwheel petition is still mounted, and now that the Ro household's room and work hours are formal, the district can use them: a household with a sworn tenancy record and a crossed-out support column is a household that *did* participate, and the district's argument shifts from acknowledgment to acknowledgment-with-amendment. Officials begin asking whether the household's refusal of a signature is a position on a record that now exists.
+- **Action/consequence:** Ilyan and Sera discover the household has been entered into a common register as a *participating party* by the same inference that made the ward sign — not by forgery but by the fact that its data is now in the system. Neris wants the entry removed; Tamsin wants to know what it costs. The chapter's practical work is separating an entry of facts from an entry of consent, which turns out to be the same distinction the ward fought over two districts ago.
+- **Ending pull:** The common register's own draft shows where the household was added, and the addition is dated to the day Ilyan's public account was entered — an institution responding to a record rather than to a person.
+
+### Chapter 0036 — What the Household Will Not Say
+
+- **POV/location:** Ilyan, Sera, Tamsin, the hearing boundary and the workroom, afternoon.
+- **Goal:** Get Tamsin's bell fact into a form that can carry the keeper's pause clause without turning her into the reason for it.
+- **Resistance:** Tamsin has already given the fact once and said she is not a reason for the bridge. Officials want her at the review again. Neris will not send her and will not explain why in public. Ilyan is explicitly barred from treating a child as a witness to his own theory.
+- **Action/consequence:** Tamsin offers something no one asked for and no one wanted: she will say, in her own words, what the bell did and did not do on the day the bridge moved, including the part where it rang and nothing stopped. She sets the terms. The chapter's beat is that her narrow, inconvenient, unsentimental account of the bell is the only testimony in the case that actually describes the failure, and it does so because she is describing a machine, not a symbol.
+- **Ending pull:** Her account, in the guild's book rather than the court's, becomes the physical witness for the pause clause, which means the strongest evidence in the full hearing comes from a record no institution controls and no advocate can be shown to have written.
+
+### Chapter 0037 — The Clerk Who Was Sent to Enter It
+
+- **POV/location:** Ilyan, Sera, Meridith Vale, Neral, the district office and the print shop, the following morning.
+- **Goal:** Trace print run 114's authorization to a person or an office, using custody rather than inference.
+- **Resistance:** The print shop is a public desk and will answer one question a day, and Sera has already spent hers. The authorization page was cut and replaced, and the replacement is *also* an authorization, signed by an office rather than a person. Vale's position is that he was sent the form, used it, and did not make it. Nobody is lying, which is the difficulty. A preservation authority is the most defensible office in the city and the one whose name appears nowhere on the paper.
+- **Action/consequence:** The trace produces an ordinary and damning answer: the run was authorized by a standing preservation authority that could authorize a print run without naming a person, because the office existed to preserve records during a period when the record itself was being preserved. The form that carried a household's position was printed under a preservation authority, and the same kind of office appears on the C—2 routing. Preservation and enforcement are the same signature. Ilyan's temptation is to build a villain out of the office; Sera's answer is that an office is a thing people are paid to do, and that the question is who is paid and what happens to the pay when the person leaves.
+- **Ending pull:** The authority's own index shows it was used to route the C—2 material as well, and the next request in the queue is not Ilyan's: an automated notice arrives telling the district that its maintenance acknowledgment, refused by the guild, must be re-issued or the schedule will lapse at the next bell.
+
+### Chapter 0038 — The Schedule Lapses
+
+- **POV/location:** Ilyan, Oren, Joren, Dalla, Neris, the road and the bridge, the same day into evening.
+- **Goal:** Keep the route and the pump usable through the loss of the district schedule, without the guild quietly becoming the district's unpaid crew.
+- **Resistance:** The schedule lapses and the district has no lawful reason to send anyone, so materials stop, the pump's hours are unfunded, and the ward's water and the roof shipments have real people attached to them. The guild's wage board has no slack. Someone has to write another arrangement, and this time the parties have learned exactly how that goes.
+- **Action/consequence:** This time the arrangement is written by the bodies that will carry it, without Ilyan, and it is better and worse than the last one: better because every hour is named and paid from four sources, worse because it is explicitly temporary in a way everyone can see, including the roof shipments. Ilyan's role is to enter it as a record and to say plainly that the district's lapse is the district's decision.
+- **Ending pull:** A practical win, and the price is visible in the ward's own copy: the shelter's next delivery is now conditional on a review nobody has promised, and Neris names the household that will be first to lose it.
+
+### Chapter 0039 — The Continuity Voice in a Public Field
+
+- **POV/location:** Ilyan, Sera, Harrow, a public field at the bridge, the day before the full hearing is scheduled.
+- **Goal:** Ask the Bench for the full hearing to be scheduled on a specific date, without reopening the bridge record.
+- **Resistance:** Scheduling a full hearing is a procedural act, and Harrow will do it only if the request is properly built. The district objects on the grounds that Ilyan's standing was challenged. The continuity cadence appears beneath a formal notice in a way that is more insistent than before, and Ilyan must not treat it as a speaker. Sera will not let the request be built on the Quiet Chamber chain.
+- **Action/consequence:** The field opens, tests the disputed records, and the continuity line is visible in the translation as a clipped instruction attached to a ruling nobody in the room requested. Harrow rules on the scheduling request and refuses to rule on the cadence, and says that a court which cannot say what a line in its own translation is has no business amending a charter. That refusal is the most useful thing anyone has said in a week.
+- **Ending pull:** The full hearing is set. The Bench's own translation carries a sentence that no one entered, and the physical consequence is that the bridge's load-count now shows a second hand's mark on the drift line — the same two-finger figure Ilsa has been reporting, appearing in a place a keeper did not put it.
+
+### Chapter 0040 — What the Field Left Standing
+
+- **POV/location:** Ilyan, Sera, Oren, Tarin, the workroom and the public hearing boundary, following morning.
+- **Goal:** Prepare a bounded, survivable position for the full hearing and hand the practical work to people who can keep doing it.
+- **Resistance:** Ilyan has three days of testimony ahead of him, no constituency, one small granted request, and a charter that will be offered for amendment, destruction, or continued delay. Oren's guild is out of money. Tamsin's bell account is in the guild's book and cannot be entered as court evidence without her consent, which she will give on her own terms. The district has lost the schedule and gained an argument.
+- **Action/consequence:** Ilyan delegates. Oren takes the physical witness, Tarin takes the neutral boundary, Ilsa takes the measurement, Joren takes the road, and Ilyan keeps only the record. He loses something real: the assembly's own clerk records that the attached record-holder has no remaining constituency, which means the court will hear a man with no district behind him and a household that will not sit for him. Sera corrects his draft of the load-bearing facts in public and is right about two of the four.
+- **Ending pull:** The batch closes on the bridge carrying a named local arrangement with a visible end date, a drift that has been measured and funded but not fixed, and a full hearing set. The C—2 chain has gained one documented step — a preservation authority that can authorize a print run without naming a person — and still no name. The next batch opens with the three remedies and the household's legal access, housing, and work in front of the Bench.
+
+## Repetition to avoid
+
+Chapters 11–30 contained: five filings that returned bounded reviews or short intervals, two assemblies that refused a universal declaration, and two named local arrangements with separately recorded refusals. Do not write a third of any of these. In particular:
+
+- The Chapter 33 local win must be a **materials and access** win secured by the guild's own argument, not a settlement with a review date and a public exit.
+- The Chapter 38 arrangement must be visibly **worse** than the Chapter 28 and Chapter 30 arrangements in at least one named respect (the shelter delivery is now conditional), and its cost must land on a named household before the chapter ends.
+- Chapters 0031 and 0039 are procedural. Make them physically different from each other: 0031 is a measurement and a refusal at a noon bell, 0039 is a field that tests records and a court that refuses to rule on its own translation.
+- Do not give any chapter a panel that states a new general rule. The System reports records, numbers, and immediate choices; people supply interpretation.
+
+## Unspent pressures to carry
+
+- **The refused hold.** The district used the Bench's own Saltwheel refusal to defeat a hold in Chapter 24 and it worked. Use it again in a new form, and let an institution that has already won once legally push there first again.
+- **Acknowledgment inferred from continued use.** The district has discovered a stronger form: a household whose *data* is in the register is a household that participated. This survives every pause and every fourth column.
+- **The entering clerk.** Vale has done four lawful acts. Chapter 37 must make his position legible and unblamable while the chain around him gets one step deeper.
+- **The date order.** The maintenance term was rerouted to C—2 on the day the working plate was executed; the pre-arrival paper's receipt falls inside the gap. Two processes, not one hand. Preserve that distinction and do not collapse it into a culprit.
+- **The preservation authority.** Print run 114 was authorized by an office with a stamp and no person, whose job is to keep records through a period in which records are being kept. The same kind of office appears on the C—2 routing. Preservation and enforcement share one signature. This is the deepest documentary thread available and it must be traced by custody, one question at a time, not by inference.
+- **The missing second hand.** The plate's load-book edge and the guild's one-witness practice are the same fact. It is the physical form of the refusal right: a rule kept by one person is a record, not a covenant.
+
+## Relationship and power guardrails for Chapters 31–40
+
+- Ilyan must lose something that is not his fault, and he must not get it back by being cleverer. Growth is changed judgment, delegation, and accepting that a local body may win without him.
+- Sera should be competent, independent, and professionally annoyed when Ilyan reaches for the archive or for authority he does not have. Deepen the relationship through boundaries and a working division of labor. No romantic rescue beat.
+- Tarin may disagree with Ilyan and still protect the neutral line. Oren's guild accepts only named work. Tamsin, Neris, Mava, Joren, Dalla, Lio, Ilsa, Pev, Hanne, Coll, and other local people choose their own voices and burdens.
+- Keep the System rare. Keep the ninth bridge's physical danger real and measurable. Do not solve the bridge by naming a hidden bug or a magical shortcut, and do not let the pause clause be restored by proclamation — it must be supported by Oren's plate, the current physical behavior, and living witnesses including Tamsin's bell.
+- Do not identify the First Witness, reveal the full original Compact, resolve the historical refusal right, or introduce a new final enemy or cosmic threat.
+
+## State and workflow after writing
+
+After Chapters 31–40 are complete, update `state/batch-summary.md`, `state/chapter-summaries.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, `state/current.md`, and any other requested manuscript state files. Update `NOVEL_SPEC.md` status if needed. Do not edit controller-owned files, including `state/phase-ledger.json`, workflow files, or agent configuration. After updating state, inspect `outline/volume-01.md`. Chapters 41–50 are the full hearing and must be planned next, so create exactly one next phase directory and detailed prompt for that range; do not create more than the next phase.

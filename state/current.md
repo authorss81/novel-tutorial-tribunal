@@ -1,23 +1,23 @@
 # Current State
 
-Current phase: Volume 01 Batch 0003 queued; Batch 0002 complete
+Current phase: Volume 01 Batch 0003 complete; next phase is Batch 0004
 
 Current volume: 1 (series, ending, and Volume 01 outlines complete)
 
-Current batch: 0003 (queued; Batch 0002 complete)
+Current batch: 0004 (queued; Batch 0003 complete)
 
-Last completed batch: 0002 (10 of 10 chapters complete)
+Last completed batch: 0003 (10 of 10 chapters complete)
 
-Last completed chapter: 0020
+Last completed chapter: 0030
 
 Last batch summary: `state/batch-summary.md`
 
-Active threats: The ninth bridge has only a one-cycle provisional stay; its current charter still lacks an enforceable maintenance review, appeal, exit, and durable housing/work protection. The Eastmere petition and Merefen Saltwheel Road copy remain dangerous public precedent witnesses, while the Cinder Ward’s local arrangement is finite and renewable only by a new visible choice. The common register infers consent from continued use, so a refusal can be manufactured without a signature. The original Quiet Chamber page was removed before Ilyan arrived; Sera’s private duplicate vanished during or after the first night field. A continuity request, C—2 routing mark, missing Sava Kest witness entry, and a second paper using Ilyan’s pre-arrival private sequence are connected but unexplained, and the date comparison shows the local petition was assembled before the archive margin was rewritten.
+Active threats: The ninth bridge's west joint drifts two fingers on every load and returns; the brace holds and the joint does not. The clause that once let a named keeper pause a span is missing from the current charter, so the guild can see a failure and cannot stop a load. The bridge's provisional stay expires at the seventh-morning-bell review at noon, the charter is unamended, and appeal, enforceable exit, and durable housing and work protection are named in the record as unresolved. The Saltwheel petition is still a mounted precedent witness and the district's common register still carries *acknowledgment inferred from continued use*. Meridith Vale has performed four lawful acts in a row, and the printed form that carried the Ro household's position came from public print run 114, distributed to a plate office six days before the ninth-bridge notice, under an authorization page that was cut and replaced.
 
-Active promises: Ilyan must prove he is not Veyra’s author; the ninth-bridge missing maintenance condition; the historical right of refusal; the identity and purpose of the First Witness; the Shale Mirror’s connection to Earth and Nadia Kestrel’s independent witness work; the nine anchor positions and their missing functions.
+Active promises: Ilyan must prove he is not Veyra's author; the ninth bridge's missing maintenance-review condition; the keeper's power to pause a load; the historical right of refusal; the identity and purpose of the First Witness; the Shale Mirror's connection to Earth and Nadia Kestrel's independent witness work; the nine anchor positions and their missing functions.
 
-Current relationship pressure: Ilyan and Sera work under a limited, revocable provisional arrangement after Ilyan’s unauthorized use of Neris’s account. Sera’s scope now covers the copied precedent and disclosure as an attached review, while her family withdrawal appeal remains separate and now has a named object in the record. Ilyan and Tarin are cautious practical allies, not friends. Tamsin and Neris retain independent witness, consent, housing, and work boundaries, and cross between bridge and road under escort because the stay still moves them. Sel Harrow remains a procedural gatekeeper. Mava, Joren, Dalla, Lio, and other local workers retain their own agency; Dalla and Mava are sisters. Nadia remains an unresolved Earth anchor; no romance beat has occurred.
+Current relationship pressure: Ilyan and Sera work under a stricter boundary than before. She stopped him in a public hall, refused to let him reopen the bridge record, and accepted him only as a record-checker with a written division of labor. Ilyan has lost the lowland conservancy's citation and the assembly has made his name uncitable as a permit, so he has no constituency and one small granted request. Ilyan and Tarin are working allies with a real disagreement about worker refusal and load safety. Tamsin and Neris have twice refused to strengthen the case at their own expense; Tamsin has asked that the record state she is not a reason for the bridge. Sel Harrow has not appeared in person this batch. No romance beat has occurred.
 
-Current power state: Early Stage 1, Case Opener. With a named advocate, Ilyan can phrase one narrow challenge or provisional exception request. In the Saltwheel matter he may document an attached review and sequence, not represent the Cinder Ward, assign its burden, or choose a remedy alone. His name, report, and post-hearing testimony remain attached through the seventh-morning-bell bridge review. The System translates formal records and notices in the open case; the Bench preserves records and issues binding rulings. No new perception or supernatural ability has appeared.
+Current power state: Early Stage 1, Case Opener. He can document a sequence, request one narrow provisional exception, and file an attached observation. He holds one granted request: a paid, finite west-joint inspection ending at the review bell. He cannot assign another's burden, force a witness, rewrite a plate, choose a local remedy, or use a new perception. The System translates formal records, notices, and the visible boundary of a hearing field entered into his open case; the Bench preserves records and issues binding rulings. Panels stayed rare: five formal notices across ten chapters.
 
-Next active phase: `batch-0003`, write Chapters 21–30 from `workspace/volume-01/batch-0003/PROMPT.md`.
+Next active phase: `batch-0004`, write Chapters 31–40 from `workspace/volume-01/batch-0004/PROMPT.md`.
