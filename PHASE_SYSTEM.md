@@ -123,6 +123,8 @@ A phase processes 10–20 chapters in one model run. The model is loaded once pe
 - `phase-002-volume-01-outline`: create the first volume and its batches.
 - `phase-003-buffer-plan`: create detailed cards for the first 10–20 chapters.
 
+Legacy repositories may retain the scaffold IDs `phase-001-outline` and `phase-002-batch-plan`. These are planning-only audit entries and must not be treated as completed or active chapter-writing phases; the phase ledger records that status, and the authoritative prose phase is the matching `workspace/<volume>/<batch>/PROMPT.md` entry.
+
 ### Batch phases
 
 Each phase writes a complete batch:
