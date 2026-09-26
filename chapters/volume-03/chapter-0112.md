@@ -1,6 +1,6 @@
-# Chapter 112: Nine, and the Number Nobody Had Told Them
+# Chapter 112: The Margin of Four
 
-The council of the water and passage guild of Kestrel Reach is nine men and it had not sat since the turn before last, and it sat on the fourth day of the fourth tide because the fourth is a bar day and the strait is shut and every cart on this coast that has to come round comes over nine hundred yards of shingle in front of the guild house, so that a body of nine which meets on a day it cannot travel is a body nobody can be got hold of on.
+The council of the water and passage guild of Kestrel Reach is nine men and it had not sat since the turn before last, and it sat on the fourth of the fourth tide because the fourth is a bar day and the strait is shut and every cart on this coast that has to come round comes over nine hundred yards of shingle in front of the guild house, so that a body of nine which meets on a day it cannot travel is a body nobody can be got hold of on.
 
 That is not in the charter. It is in the practice, and the practice is about four hundred years old, and it is the only piece of administration on this coast that has ever improved anything.
 
@@ -36,9 +36,9 @@ She said: “The crossing took ninety pounds eighteen last year.”
 
 “Of which how much is carts.”
 
-“Seventy-eight pounds fourteen is tallage on carts and goods, taken at a counter in this building by people who do not live on that road.”
+“Eighty-one pounds sixteen is tallage on carts and goods, taken at a counter in this building by people who do not live on that road.”
 
-“So the road comes to a hundred and four shillings,” said Gell Roke, “and what is the hundred and four shillings for.”
+“So the road comes to nine pounds two,” said Gell Roke, “and what is the nine pounds two for.”
 
 “Eleven households send somebody over that flat. The chain and the oil and the tarpaulin come out of that and not out of the tallage, because nobody has ever paid for a chain on that flat out of a cart. Three pounds two. The other households’ crossings are worth thirteen shillings between them, and eight pounds nine of it is one household of the eleven, which is a boy of eleven who goes over nine hundred yards of shingle thirty-nine times a week at a penny. So the road gives the guild six pounds, the guild spends three pounds two keeping a chain across a flat it does not maintain, the margin is four, and the wage is two.”
 
@@ -54,7 +54,7 @@ Then he said the thing, and it is the reason the vote went five to four and not 
 
 He said, first, the money. He said it without heat and he said it the way a man does sums on a paint tin for a long time. Two pounds out of four leaves two, and the two is what a bad year eats, and this has been a bad year, and the passage money is short, and a council that votes a wage it has to withdraw in the winter is a council that has told the road it does not matter what happens on it. That was the argument the four used, and it closed, and the cooper and the fish factor used it and neither of them had anything to put on top of it.
 
-And then Gell Roke said the other thing, and he said it in about nine words and did not look at Bettany Rook while he said it.
+And then Gell Roke said the other thing, and he said it in nine or ten words and did not look at Bettany Rook while he said it.
 
 “I have painted that staff for the guild for nineteen years,” he said. “Nobody has paid me one penny of it and I have never asked and I am not asking now, and I would like this table to notice that I am the only man at it being asked to vote against paying a stranger two pounds a year for standing at a post. I have not got an argument that will carry in a room, and I am voting no, and I would like it written down that I know exactly what I sound like.”
 
@@ -88,7 +88,7 @@ The one thing nobody at that table knew, including the woman who had been harbou
 
 The System put the vote in front of Ilyan Vester at the fourth bell, on the fourth day of a tide, on the step outside a room with a bell on its door worked by a wire and not by a hand, and it was a record of a thing entered in a minute book, and a minute book is the only durable thing on this coast.
 
-**THE COUNCIL OF THE WATER AND PASSAGE GUILD OF KESTREL REACH IS NINE. IT VOTED FIVE TO FOUR THAT A PERSON BE PAID TWO POUNDS A YEAR OUT OF WHAT THE CROSSING OF WETHER CROSS TAKES, TO COUNT CROSSINGS IN PERSONS AND NOT IN CARTS. THE CROSSING TOOKS NINETY POUNDS EIGHTEEN. SEVENTY-EIGHT POUNDS FOURTEEN OF IT IS TALLAGE TAKEN AT A COUNTER BY PEOPLE WHO DO NOT LIVE ON THAT ROAD. THE MARGIN ON THE ROAD IS FOUR POUNDS. THE WAGE IS TWO. THE SEASON IS SHORT.**
+**THE COUNCIL OF THE WATER AND PASSAGE GUILD OF KESTREL REACH IS NINE. IT VOTED FIVE TO FOUR THAT A PERSON BE PAID TWO POUNDS A YEAR OUT OF WHAT THE CROSSING OF WETHER CROSS TAKES, TO COUNT CROSSINGS IN PERSONS AND NOT IN CARTS. THE CROSSING TOOKS NINETY POUNDS EIGHTEEN. EIGHTY-ONE POUNDS SIXTEEN OF IT IS TALLAGE TAKEN AT A COUNTER BY PEOPLE WHO DO NOT LIVE ON THAT ROAD. THE MARGIN ON THE ROAD IS FOUR POUNDS. THE WAGE IS TWO. THE SEASON IS SHORT.**
 **WHAT IS NOT DECIDED: WHETHER A BODY THAT VOTES A WAGE IT CANNOT PAY HAS VOTED AT ALL, AND WHETHER THE FOUR WHO VOTED AGAINST KNEW WHAT THE ROAD TAKES AND THE FIVE DID NOT.**
 
 He was standing on the step with the door shut behind him and the wire going over its pulley, and it had come to him there and not in the room, because the room had one person in it who could not read and about eight who could and would not have read it if it had been put in their hands.

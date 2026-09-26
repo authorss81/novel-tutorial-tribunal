@@ -86,7 +86,7 @@ Forty ruts. A year ago, in the turn, with a hundred people going up and down thi
 
 That was the number she needed and it was the wrong shape, and it was the first thing in eleven years that anyone had put in front of her that was any use at all, and it was no use at all.
 
-Forty crossings of soft ground by people who knew it was soft. Not forty days. Forty times, by about nine carters and a good many carts, and she could not have told you from the ruts whether one of them had been in the water for an hour or a cart had gone over at speed and thrown a wheel, and neither could anybody else, and the water had been over the top of them all the same.
+Forty crossings of soft ground by people who knew it was soft. Not forty days. Forty times, by nine carters and a good many carts, and she could not have told you from the ruts whether one of them had been in the water for an hour or a cart had gone over at speed and thrown a wheel, and neither could anybody else, and the water had been over the top of them all the same.
 
 She stood in the middle of the low road at the top of the bank with a book under her coat and forty ruts going away from her in both directions, and what she had in her head was that she had spent four years asking a board for a figure and there were forty of them lying in the mud two hundred yards below her house, and that whoever put them there had not counted them either, and had not intended to, and would have been surprised to be asked.
 

@@ -60,7 +60,7 @@ And one boy of eleven is two thousand and twenty-eight of the four thousand and 
 
 They nailed a board on the front of the post at about the fourth bell, under the chain, where it is in the way of anybody using the crossing, which is the only place anybody on that coast would put anything.
 
-The board is a plank about two feet by one, and the nails are fourpence, and it took two men and about eleven minutes because Gell Roke had to keep stopping to explain what he was doing to about nine people.
+The board is a plank about two feet by one, and the nails are fourpence, and it took two men and about eleven minutes because Gell Roke had to keep stopping to explain what he was doing to everybody standing round him.
 
 > **THE COUNT OF THIS POST WAS CUT ON THE SEVENTH DAY OF A TIDE AND WRITTEN DOWN FOR THE FIRST TIME.**
 > **THE POST: FOUR THOUSAND AND SIXTY-EIGHT.**
@@ -77,7 +77,7 @@ And under all of that, in the same hand, in smaller letters, because Gell Roke w
 
 It cost an afternoon of a man of thirty's shop, a day and a half of a woman's slate, fourpence of nails, about two hours of a man of seventy-one's daylight, the oil a man of thirty spent on a cart up the coast road that he did not have to go, and nothing at all in money otherwise, because there is no wage for it and the council voted a wage two pounds a year on the fourth day of the fourth tide and cannot pay it and the vote is in a minute book in four lines and the four lines are the true shape of it.
 
-Seth Garrick shut the shed for the afternoon and did not open it again until the turn, and about nine people who buy lamp oil on the seventh were told by a boy of nine that the oil man was busy.
+Seth Garrick shut the shed for the afternoon and did not open it again until the turn, and the people who buy lamp oil on the seventh were told by a boy of nine that the oil man was busy.
 
 Corrie Tallow went down to the far stones four times that day, once for each tide, and stood at the far end of nine hundred yards of shingle and counted every body that went over, for nothing, as she has done for thirty-one years and as she will go on doing now that a board on a post says *by whoever is here.*
 
@@ -85,9 +85,9 @@ And a woman of fifty-one in a hood had four hours of a season's figures dictated
 
 ---
 
-At about the fifth bell Gell Roke put the chisel in the bag and the hammer in his hand and then stopped, and looked at the post, and then looked along the shingle at about nine people, and then at a man of thirty-one standing four feet off with his coat on and a leg that he has been favouring since the third bell.
+At about the fifth bell Gell Roke put the chisel in the bag and the hammer in his hand and then stopped, and looked at the post, and then looked along the shingle at the people standing on it, and then at a man of thirty-one standing four feet off with his coat on and a leg that he has been favouring since the third bell.
 
-Nobody had said anything to that man for four hours. He had counted nothing and cut nothing and carried nothing and asked no question and had been useful about nine times in twenty-nine days, and there was no office in this guild, or in any room on this coast, that had ever been given to him or could be, and nobody had asked him to stay and nobody was going to, and his name was not on the board and would not be and could not be.
+Nobody had said anything to that man for four hours. He had counted nothing and cut nothing and carried nothing and asked no question and had been useful a half-dozen times in twenty-nine days, and there was no office in this guild, or in any room on this coast, that had ever been given to him or could be, and nobody had asked him to stay and nobody was going to, and his name was not on the board and would not be and could not be.
 
 “Right,” said Gell Roke. “I am seventy-one and I have been cutting that post since before you came off a cart, and there is a hammer in my hand and there is no rule on this coast that says who holds it, and I have not got the pair of hands for a year off and I have never asked anybody for a year off in my life.”
 
@@ -115,7 +115,7 @@ He stood at the end of the shingle for a long time after it had gone dark enough
 
 Here is what he had, on the last night of twenty-nine days on this coast.
 
-He had been put a sentence to a road nine miles by water and had it refused in the open, correctly, in a room, in front of thirty-one people, at a cost of eleven pounds of freight and two men's day and four years of a woman who sold rope. He had a line in a day book with no name on it. He had a copy of a woman's thirty-one years on a shelf in a room where it is not the record, on purpose, and a copy of her pencil in a school a hundred and forty miles up this coast in a register where it is a record of nothing, also on purpose, both of them put there by women who knew exactly what they were doing and have told him so in about nine words each.
+He had been put a sentence to a road nine miles by water and had it refused in the open, correctly, in a room, in front of thirty-one people, at a cost of eleven pounds of freight and two men's day and four years of a woman who sold rope. He had a line in a day book with no name on it. He had a copy of a woman's thirty-one years on a shelf in a room where it is not the record, on purpose, and a copy of her pencil in a school a hundred and forty miles up this coast in a register where it is a record of nothing, also on purpose, both of them put there by women who knew exactly what they were doing and have told him so in a sentence each.
 
 He had a sheet of paper in his coat with two accounts of the same water on it, one of which he wrote and one of which came back, and he was never able to find the join between them, and he could not have read either one.
 
@@ -131,8 +131,14 @@ The board was on the post. The number was wrong in at least one place and the nu
 
 And the arch at Thornglass was cold and would be cold for a year, and the charter on the wall of the tide office could not be touched for a year, and the two panes that did not agree could not be put side by side by anybody because the only instrument on this coast is the guild's and the guild's has not left that room in nineteen years.
 
-And the year had begun on the fourth week of a season, on a coast of four hundred miles, where a rule that cannot be changed for a year is not a rule, and where a man with a cart and a load of lime had said that out loud in the open to about nine people on a shingle and had not been answered by one of them, and where a woman of seventy-one had put a hammer into the hand of a stranger and called it the ward of a road, and neither of those two sentences had been answered, and both of them were true.
+And the year had begun on the fourth week of a season, on a coast of four hundred miles, where a rule that cannot be changed for a year is not a rule, and where a man with a cart and a load of lime had said that out loud in the open to nine people on a shingle and had not been answered by one of them, and where a woman of seventy-one had put a hammer into the hand of a stranger and called it the ward of a road, and neither of those two sentences had been answered, and both of them were true.
 
 The question that was left standing on that coast at the end of the twenty-ninth day was not about a boy, and not about a woman of eighty-one, and not about a man off a road with a leg he has been carrying since a city four hundred miles behind him.
 
-It was the one that had been sitting in a trough and a yard and a shed and a bar and a post and a board for four weeks, and it was the plainest anybody on that shingle had ever heard, and it was this: that on a coast of four hundred miles there are about nine people holding about nine things in their heads because there is no column for any of them and no office and no clause and no way of writing one down, and every one of those nine is on its way out, and the whole apparatus of that coast — a charter, a tariff, a card, a song, a post, a pane, a book in a school, a slate in a basket, a bench in a room with a painted staff on a wall — is a machine for making nine things into one written thing, and the machine has just been shown, on a wet shingle, by a man of seventy-one, not to work.
+It was the one that had been sitting in a trough and a yard and a shed and a bar and a post and a board for four weeks, and it was the plainest anybody on that shingle had ever heard.
+
+It was this. On a coast of four hundred miles there are about nine people holding about nine things in their heads, because there is no column for any of them and no office and no clause and no way of writing one down, and every one of those nine is on its way out.
+
+And the whole apparatus of that coast — a charter, a tariff, a card, a song, a post, a pane, a book in a school, a slate in a basket, a bench in a room with a painted staff on a wall — is a machine for making nine things into one written thing.
+
+It has just been shown, on a wet shingle, by a man of seventy-one, not to work.

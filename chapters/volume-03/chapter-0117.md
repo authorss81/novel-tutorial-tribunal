@@ -1,6 +1,6 @@
 # Chapter 117: What a Copy Loses
 
-The head of the lane at Wether Cross on the second day of the fifth tide, from the second bell, which is what Corrie Tallow had said, and Corrie Tallow was in the habit of being at that end of the lane from the second bell whatever else was happening on this coast, and there is a bench against the lamp oil shed that Seth Garrick lets anybody sit on, and thirty people were on that shingle by the third bell for no reason any of them could have put into a sentence.
+The head of the lane at Wether Cross on the second of the fifth tide, from the second bell, which is what Corrie Tallow had said, and Corrie Tallow was in the habit of being at that end of the lane from the second bell whatever else was happening on this coast, and there is a bench against the lamp oil shed that Seth Garrick lets anybody sit on, and thirty people were on that shingle by the third bell for no reason any of them could have put into a sentence.
 
 Belva Cray came with a chair and a shawl against the wind off the Reach, and she had a pencil and a school register and a piece of string, and she checked the copy as it was made, line by line, the way a woman checks a thing she is going to swear to in a room.
 
@@ -54,7 +54,7 @@ Seth Garrick did not stop working the hinge.
 
 ---
 
-Nobody saw the moment. There were thirty people in that yard and about nine of them were within twenty feet of the bench and not one of them saw it, and it took about four seconds, and it happened because two slates were lying on the same bench.
+Nobody saw the moment. There were thirty people in that yard and six or seven of them were within twenty feet of the bench and not one of them saw it, and it took about four seconds, and it happened because two slates were lying on the same bench.
 
 Sabra Trew had her grandmother's list on a slate. She had brought it because Corrie Tallow had asked for the arch's firings and the wall is nineteen of them and one of the nineteen is a hole four days wide, and the grandmother's book that went into the school has four hundred years in it in two hands, and the only person alive who can lay one out and say which hand is which and where the two of them stop and start is the woman who has been copying all morning, and it has taken her eleven days to be able to look at the two side by side and she had not expected to be asked and had not thought about what would happen if she was.
 

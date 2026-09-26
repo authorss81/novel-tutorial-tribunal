@@ -1,6 +1,6 @@
 # Chapter 118: The Sentence That Became a Thing
 
-It started on the morning of the third day of the fifth tide at the head of the lane at Wether Cross, with about nine people within twenty feet of the bench and thirty more standing nine hundred yards off watching the water come in, and it was nobody's fault, and by the time it had gone two miles up the coast road it was a different sentence, and the two of those facts were the whole of what happened.
+It started on the morning of the third of the fifth tide at the head of the lane at Wether Cross, with nine or ten people within twenty feet of the bench and thirty more standing nine hundred yards off watching the water come in, and it was nobody's fault, and by the time it had gone two miles up the coast road it was a different sentence, and the two of those facts were the whole of what happened.
 
 Corrie Tallow was at the end of the bench and Bettany Rook was at the counter door with her arms folded and the hood down because the door was a windbreak and nobody was looking at her, and Belva Cray had come down the lane for the third day running with the register in a case, and Jory Vance had come down off the hill with a board and a brush in his cuff to make the copy fair enough for a woman to take home.
 
@@ -16,7 +16,7 @@ She said it to Belva Cray. She was not making a point and she was not doing anyt
 
 And Jory Vance, with a brush in his cuff, said, “Then the two records agree, and we can put it that way.”
 
-He said it the way a young man says a thing that has just been made easy for him. It is not what she said. It is what a sentence becomes when a person who is copying at a counter takes the part he can use, and it was said in the open, in a yard, to about nine people, and about four of them agreed with it.
+He said it the way a young man says a thing that has just been made easy for him. It is not what she said. It is what a sentence becomes when a person who is copying at a counter takes the part he can use, and it was said in the open, in a yard, to nine or ten people, and about four of them agreed with it.
 
 ---
 
@@ -60,7 +60,7 @@ He read it a third time and put it flat on the bench and kept his hand on it.
 
 “Say the rest of it,” he said. “You have not said the rest of it. You have been holding something in your mouth for a minute and I have watched you not say it, and I am sixty-one and I have watched a great many people not say a thing and it is nearly always the thing.”
 
-“There is a woman at the crossing,” said Seth Garrick, “who was in a yard yesterday with about nine people standing round her, and a young man at the counter with a brush in his cuff said out loud that the two records agree, and about four people said aye, and I have not got a way of telling you that it is the wrong words because I have been standing at a post for nineteen years and I am not an authority on a sentence. I am telling you that the harbourmaster would not write it down and that a man with a brush in his cuff said it, and that the two of them were about nine feet apart at the time.”
+“There is a woman at the crossing,” said Seth Garrick, “who was in a yard yesterday with a yard of people standing round her, and a young man at the counter with a brush in his cuff said out loud that the two records agree, and about four people said aye, and I have not got a way of telling you that it is the wrong words because I have been standing at a post for nineteen years and I am not an authority on a sentence. I am telling you that the harbourmaster would not write it down and that a man with a brush in his cuff said it, and that the two of them were about nine feet apart at the time.”
 
 Hollis Thrale put the sheet down.
 
@@ -108,7 +108,7 @@ He put the page in with two other torn-out pages of the same book and with a she
 
 ---
 
-A carter came down the coast road on the fourth day of the fifth tide with an empty crate and asked at the stall whether the woman was in.
+A carter came down the coast road at about the seventh bell on the third day of the fifth tide with an empty crate and asked at the stall whether the woman was in.
 
 “The woman at the crossing told us to say to her that a man off a road has taken her down to the glassworks,” he said, “and that it is agreed at the counter that the two records are the same, and that the man at Thornglass is asking for the book.”
 

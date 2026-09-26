@@ -1,12 +1,12 @@
 # Chapter 116: Thirteen Shillings
 
-Gell Roke was on a ladder at the harbour mouth on the sixth day of the fifth tide with a pot of paint and a boy of about ten holding the pot, and he was repainting the mark at two feet under on a staff that has been standing in the same place for about four hundred years, and he does it when he feels like it and had felt like it on the fourth.
+Gell Roke was on a ladder at the harbour mouth on the sixth of the fifth tide with a pot of paint and a boy of about ten holding the pot, and he was repainting the mark at two feet under on a staff that has been standing in the same place for about four hundred years, and he does it when he feels like it and had felt like it on the fourth.
 
 Jory Vance came down the slip with the returns board under his arm because Bettany Rook had sent him down to ask Gell Roke something and had sent him down for no other reason than that he was the only person in that building who did not know what she wanted to know either.
 
 “Gell,” he said. “She wants to know what happens to the flat on a bad seventh.”
 
-“That is a strange thing to send a boy of twenty-two down a slip for,” said Gell Roke, without turning round, “and I will tell you what happens to it and you can put it up her and you can put it up the council and it will not make one penny of difference, and I have known that for about nine years and nobody ever asked me.”
+“That is a strange thing to send a boy of twenty-two down a slip for,” said Gell Roke, without turning round, “and I will tell you what happens to it and you can put it up her and you can put it up the council and it will not make one penny of difference, and I have known that for as long as I have been on this coast and nobody ever asked me.”
 
 “Say it anyway.”
 
@@ -28,11 +28,11 @@ Gell Roke came down the ladder two rungs, which for a man of seventy-one is a de
 
 “The boy.”
 
-“The one at the lane end. He is eleven and his name is on nobody’s list and I know his name and I am not going to say it on a slip because I have been painting this staff for nineteen years and I do not put names on the water.” He took the brush and wiped it on his thumb. “He goes on five days. Two of the low ones and three of the high ones, because those are the days the cart goes. That is six and six and six and six and nine, and six and six and six and six and nine, and so on for a week, and thirty-nine tides at a penny is three shillings and threepence. A hundred and fifty-two weeks in a year and it is three shillings and threepence a week whatever we do, because the water does not care what day it is, and eight pounds nine a year is what he costs you and has cost you every year of his life.”
+“The one at the lane end. He is eleven and his name is on nobody’s list and I know his name and I am not going to say it on a slip because I have been painting this staff for nineteen years and I do not put names on the water.” He took the brush and wiped it on his thumb. “He goes on five days. Two of the low ones and three of the high ones, because those are the days the cart goes. That is six and six and nine and nine and nine, and so on for a week, and thirty-nine tides at a penny is three shillings and threepence. Fifty-two weeks in a year and it is three shillings and threepence a week whatever we do, because the water does not care what day it is, and eight pounds nine a year is what he costs you and has cost you every year of his life.”
 
 “And on a bad seventh.”
 
-“On a bad seventh the seventh is a nine-day instead of a six-day, so he goes forty-two times a week, which is three shillings and sixpence, which is nine pounds two a year instead of eight pounds nine.” Gell Roke turned round on the ladder and looked at Jory Vance. “You have got a pencil. Three pence a week, fifty-two weeks. Write it down and do not do it in your head, because everybody does it in their head and everybody gets it wrong by a penny.”
+“On a bad seventh the water comes up in the middle of the week as well, and one of his two low days is a nine-day instead of a six-day, so he goes forty-two times a week, which is three shillings and sixpence, which is nine pounds two a year instead of eight pounds nine.” Gell Roke turned round on the ladder and looked at Jory Vance. “You have got a pencil. Three pence a week, fifty-two weeks. Write it down and do not do it in your head, because everybody does it in their head and everybody gets it wrong by a penny.”
 
 Jory Vance wrote it on the edge of the board.
 
@@ -44,7 +44,7 @@ Jory Vance wrote it on the edge of the board.
 
 “What.”
 
-“The wage the council voted is two pounds a year. That is thirty-eight shillings. Thirteen shillings is not two pounds.”
+“The wage the council voted is two pounds a year. That is forty shillings. Thirteen shillings is not two pounds.”
 
 “No,” said Gell Roke. “And you have just found the whole of it, and I doubt anybody up that hill is going to like the shape of it.”
 
@@ -74,9 +74,9 @@ The boy put the pot on the wall. It stayed there.
 
 “All right.”
 
-“Because the guild has not paid me one penny in nineteen years and I have kept that staff up to the truth by doing it anyway, and nine men on this coast will never be got to understand why a man of seventy-one ought to be paid two pounds a year to go on doing a thing he has never been paid for and would not stop doing.” He picked the brush up. “If they pay me, then for nineteen years I did it for nothing, and if they find out I did it for nothing, then it is on the staff that it is on the board, and a painted thing that a person put there for love is not the same as a painted thing a person is paid for, and the day somebody needs it to be the second one, it will not be. I would rather be a man who has never been paid and always has, because that is a thing you can say out loud in a room, and in about nine years there is not going to be anybody else on this coast who can say it out loud at all.”
+“Because the guild has not paid me one penny in nineteen years and I have kept that staff up to the truth by doing it anyway, and nine men on this coast will never be got to understand why a man of seventy-one ought to be paid two pounds a year to go on doing a thing he has never been paid for and would not stop doing.” He picked the brush up. “If they pay me, then for nineteen years I did it for nothing, and if they find out I did it for nothing, then it is on the staff that it is on the board, and a painted thing that a person put there for love is not the same as a painted thing a person is paid for, and the day somebody needs it to be the second one, it will not be. I would rather be a man who has never been paid and always has, because that is a thing you can say out loud in a room, and in nine years there is not going to be anybody else on this coast who can say it out loud at all.”
 
-Jory Vance wrote that down too. He wrote it on the back of the board where the returns go, in a hand that was not a clerk's, and he did not know why he wrote it and did not find out until about the fourth of the fifth tide, when it came back to him on a sheet of paper that somebody else had read out loud to a yard.
+Jory Vance wrote that down too. He wrote it on the back of the board where the returns go, in a hand that was not a clerk's, and he did not know why he wrote it, and he did not find out until the third of the fifth tide, when a sentence of his own came back to him off a cart, written down by somebody else, and it was not the sentence he had said.
 
 “Then who is it,” he said.
 

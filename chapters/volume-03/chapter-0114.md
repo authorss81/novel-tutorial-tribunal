@@ -1,6 +1,6 @@
 # Chapter 114: Nine, and What a Song Is For
 
-Danno Ray came down off the high road at the second bell on the sixth day of the fourth tide with a load of lime behind him and about four hours before the turn, and he had been up the coast road and back and he was in the particular state a man is in when he has been in a cart for two days and has used up a thing he does not usually use up.
+Danno Ray came down off the high road at the second bell on the sixth of the fourth tide with a load of lime behind him and about four hours before the turn, and he had been up the coast road and back and he was in the particular state a man is in when he has been in a cart for two days and has used up a thing he does not usually use up.
 
 He put the beasts in and came and sat on the end of the post at Wether Cross, which nobody does, and asked Corrie Tallow for a mug of whatever was going.
 
@@ -85,7 +85,7 @@ Corrie Tallow asked.
 
 “Can a number be taken out of a song.”
 
-Nobody on that shingle made a sound. It is a well-asked question, in the way a question is well-asked when you have had a day and a half to arrange it, and about nine people on that flat have heard her ask a question they could not answer themselves and did not have the nerve to put, and Bel Hask was at the top of the lane and heard it and put her hand on the gate post.
+Nobody on that shingle made a sound. It is a well-asked question, in the way a question is well-asked when you have had a day and a half to arrange it, and a dozen people on that flat have heard her ask a question they could not answer themselves and did not have the nerve to put, and Bel Hask was at the top of the lane and heard it and put her hand on the gate post.
 
 Bettany Rook did not answer for a while, and then she said:
 

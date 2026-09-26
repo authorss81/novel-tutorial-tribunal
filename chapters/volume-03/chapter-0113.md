@@ -1,6 +1,6 @@
 # Chapter 113: A Word on a Piece of Paper
 
-On the fifth day of the fourth tide the harbourmaster wrote five words on a slip of paper and gave it to a man who was buying lamp oil at the counter, and the man took it, because he was going up the lane anyway and she asked him to, and it cost her nothing at all.
+It was the fifth day of the fourth tide, and the harbourmaster wrote five words on a slip of paper and gave it to a man who was buying lamp oil at the counter, and the man took it, because he was going up the lane anyway and she asked him to, and it cost her nothing at all.
 
 It said: *Come up to the counter at the second bell.*
 
@@ -8,7 +8,7 @@ That is the whole of it. There is no guild seal on it and there is no form and i
 
 Seth Garrick, who is thirty and sells lamp oil out of a shed at the head of the lane, put it in his coat and went up the lane and did not read it, because it was not addressed to him and he has been on this road since he was nine.
 
-Corrie Tallow, who is forty-eight and has a stall at Wether Cross, came down to the counter at the second bell with a hand-lead in her fist and a boy of nine holding the other end of it and about nine feet of slack between them, and she had shut the stall for a day.
+Corrie Tallow, who is forty-eight and has a stall at Wether Cross, came down to the counter at the second bell with a hand-lead in her fist and a boy of nine holding the other end of it and nine feet of slack between them, and she had shut the stall for a day.
 
 ---
 
@@ -32,7 +32,7 @@ Corrie Tallow stood at the counter with a hand-lead in her fist and did not say 
 
 The room did not make any sound.
 
-“That is the whole of the reason and you may have it for nothing,” said Bettany Rook. “You are the only person on this coast who has counted that flat in persons, every tide, for thirty-one years, into a book of your own that you pay for out of a stall. There is a woman at Slackwater nine miles down the water who has counted bodies on that sand for eleven years for no pay and I have never asked her either, and she is not a woman who is going to be standing at my counter. There is a boy of eleven on that flat and he is not in anything. And there is a woman of eighty-one on a bar road four miles along this coast who takes a penny a cart herself in a basket and no second person has ever stood behind her either, and she is not mine to send for and I will not.”
+“That is the whole of the reason and you may have it for nothing,” said Bettany Rook. “You are the only person on this coast who has counted that flat in persons, every tide, for thirty-one years, into a book of your own that you pay for out of a stall. There is a woman at Slackwater nine miles down the water who has counted bodies on that sand for eleven years for no pay and I have never asked her either, and she is not a woman who is going to be standing at my counter. There is a boy of eleven on that flat and he is not in anything. And there is a woman of eighty-one on a bar road four miles along this coast who takes a penny a cart herself out of a basket and sends the guild a slate of the lot once a quarter, and no second person has ever stood behind her either, and she is not mine to send for and I will not.”
 
 “So it is me or nobody.”
 
@@ -48,7 +48,7 @@ She said it at once, and without any weight on it, and Bettany Rook had the look
 
 “That is yours to decide and I am not going to argue with you about it in a room. Say the reason and I will write it as it comes out of your mouth.”
 
-“Two pounds a year is four days and a bit of that stall,” said Corrie Tallow. “I have done the sum on the way down here. Two pounds is forty-eight shillings and a day of me is four shillings and twopence, and it is four days and a bit, and I have been doing it for thirty-one years and I was seventeen when I started and I did it because my mother's book was a bad book and I could do it better, and nobody has ever paid me and nobody has ever asked me and I have never wanted to be asked.”
+“Two pounds a year is nine days and a bit of that stall,” said Corrie Tallow. “I have done the sum on the way down here. Two pounds is forty shillings and a day of me is four shillings and twopence, and it is nine days and a bit, and I have been doing it for thirty-one years and I was seventeen when I started and I did it because my mother's book was a bad book and I could do it better, and nobody has ever paid me and nobody has ever asked me and I have never wanted to be asked.”
 
 She put the hand-lead down on the counter, which she had not meant to do.
 
@@ -78,7 +78,7 @@ Bettany Rook wrote it down at the counter in about four minutes with a pen of he
 
 That is the whole of what a word on a piece of paper is on this coast, and it is worth putting down exactly what it is, because nobody here has ever written it down either and it is four hundred years old.
 
-**There is a guild and it has a counter and a counter can put a person in front of it. Nobody has ever been compelled to come to that counter and no one has ever been summoned. There is no hearing at the end of it. There is no penalty for not coming and there is no penalty for coming and there is nothing to appeal to and no second door, and the whole of the machinery is a slip of paper with five words on it, written in a hurry, carried by a man who was going that way anyway.**
+There is a guild and it has a counter and a counter can put a person in front of it. Nobody has ever been compelled to come to that counter and no one has ever been summoned. There is no hearing at the end of it. There is no penalty for not coming and there is no penalty for coming and there is nothing to appeal to and no second door, and the whole of the machinery is a slip of paper with five words on it, written in a hurry, carried by a man who was going that way anyway.
 
 It worked. That is the finding and it is the whole of it. The woman came. She came on the day and at the bell and she stood at the counter and she heard the offer and she said no, and she did all of it in about nineteen minutes, and the cost of doing it was four shillings and twopence and a day and a half of her sister and a boy's dinner, and she said every one of those numbers out loud before anybody asked her for any of them, because she has been on this road long enough to know what a number is for.
 

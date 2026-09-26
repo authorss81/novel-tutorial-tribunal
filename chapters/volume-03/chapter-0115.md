@@ -1,8 +1,8 @@
 # Chapter 115: What Comes Back
 
-Belva Cray came over the road head on the seventh day of the fourth tide at about the first bell with a bundle under her coat the size of a good armful, and she had been four days on the road and had done it with two changes of cart and the eleven shillings that were in a box under a bed, which was the money for a desk, and there is no such thing as a school that needs a desk and everybody in that trade knows it and buys one anyway.
+Belva Cray came over the road head on the seventh of the fourth tide at about the first bell with a bundle under her coat the size of a good armful, and she had been four days on the road and had done it with two changes of cart and the eleven shillings that were in a box under a bed, which was the money for a desk, and there is no such thing as a school that needs a desk and everybody in that trade knows it and buys one anyway.
 
-She came down the lane behind a carter who had been paid at the road head and had not been asked to come any further, and she was the only person on that lane who had come from anywhere, and about nine people saw her go past and worked out in about four seconds that she was not from the coast.
+She came down the lane behind a carter who had been paid at the road head and had not been asked to come any further, and she was the only person on that lane who had come from anywhere, and a dozen of them saw her go past and worked out in about four seconds that she was not from the coast.
 
 She stopped at the tally post, which nobody stops at.
 
@@ -16,7 +16,7 @@ She stopped at the tally post, which nobody stops at.
 
 ---
 
-Bettany Rook read the letter at the counter on the fifth day of the fourth tide, standing up, with the hood back because the counter is on the land side, and it is four lines and it is in a hand she has not seen before, and it is signed with two initials and no name.
+Bettany Rook read the letter at the counter on the fifth, standing up, with the hood back because the counter is on the land side, and it is four lines and it is in a hand she has not seen before, and it is signed with two initials and no name.
 
 > *I am sorry to write to a school. There is a book in your press that came from a glassworks two miles along this coast from a crossing called Wether Cross. The woman who sent the second copy of it to you has been dead eleven years. The woman who made the copy is her granddaughter and she is twenty-four and there is a letter of her own that she has not answered.*
 > *I have no way of reading it and there is nobody on this coast who can read it for me, and the wall it was cut from is two miles from where I am writing this, and nobody has been able to put the two together, and the woman who sent the book has been dead eleven years and the woman who copied it is twenty-four and has a letter of her own she has not answered.*
@@ -43,7 +43,7 @@ So Belva Cray came, and she waited at the counter from the second bell with a bu
 
 Bettany Rook squared the licence sheet on the counter and left her hand on it.
 
-“I have been at that counter six years,” she said. “There is a pane on the north wall upstairs with every tide in it since before I came, and a bar staff two hundred yards down that road that is painted, and a slate that goes from Alma Gannock in a basket once a quarter off a road four miles along this coast. And there is not one thing on four hundred miles of this coast that will take a week and give me back days.”
+“I have been at that counter six years,” she said. “There is a pane on the north wall upstairs with every tide in it since before I came, and a bar staff two hundred yards down that road that is painted, and a slate that goes once a quarter to this counter in a basket off a bar road four miles along this coast, by a woman of eighty-one who takes her penny a cart out of the same basket and has never been asked for either. And there is not one thing on four hundred miles of this coast that will take a week and give me back days.”
 
 “So I have come a hundred and forty miles for nothing.”
 

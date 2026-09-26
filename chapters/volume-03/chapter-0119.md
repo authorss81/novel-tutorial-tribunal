@@ -2,7 +2,7 @@
 
 The fourth week of a season is when the quarter goes up, and the quarter is four weeks of passage money written in a hand that has not changed since before Bettany Rook came here, and it is read by the guild's own office in a city two hundred miles up the coast and by nobody else at all.
 
-There were nine sheets of it and about two hundred and eighty figures on them, and on the fourth day of the fifth tide she came into the tide office at the first bell and put them on the counter in a stack, and Jory Vance was already there with a brush in his cuff because the quarter goes up on the fourth and it always has.
+There were nine sheets of it and about two hundred and eighty figures on them, and on the fourth of the fifth tide she came into the tide office at the first bell and put them on the counter in a stack, and Jory Vance was already there with a brush in his cuff because the quarter goes up on the fourth and it always has.
 
 Then she stood on the other side of the counter and did not open the first one.
 
@@ -20,7 +20,7 @@ Jory Vance looked at the stack for a moment.
 
 “All right,” said Jory Vance, and got a fresh pen, and did not look at her, and it was four hours and about forty minutes.
 
-The room had four people in it and about nine came and went over the four hours, and nobody asked her one question, and about half of them counted. Nobody on this coast can work out how she does it. A woman of fifty-one reading a column of two hundred figures and saying the odd one out loud and the even one silently, and getting to the bottom of a page and going back up it, and starting a page again, is not a thing that is about her eyes. It looks exactly like a thing that is about her hands.
+The room had four people in it and nine or ten came and went over the four hours, and nobody asked her one question, and about half of them counted. Nobody on this coast can work out how she does it. A woman of fifty-one reading a column of two hundred figures and saying the odd one out loud and the even one silently, and getting to the bottom of a page and going back up it, and starting a page again, is not a thing that is about her eyes. It looks exactly like a thing that is about her hands.
 
 And at about the seventh bell her hands were not doing it.
 
@@ -72,7 +72,7 @@ Bettany Rook did not answer for some time.
 
 “It brings me to the last one and here is the last one, and then I am going inside, and it is this: this office is the only office on this coast that anybody can be answered in, and if I go into a room and say the record is bad, then in about four months the guild will have got a perfectly good reason to put the harbourmaster of Kestrel Reach at a counter for the remainder of her sight, and they will be right to, and I will be the woman who gave them the reason.” She stopped. “There are about nine hundred people on this water and every one of them comes to a person. Not to a bench and not to a court and not to a guild. To a person. I am that person and I have been it for six years and I have never once been sure it was a good idea and I have never once had an alternative, and I will not hand in the alternative in a yard to a man with a bad leg because he has been three weeks on this coast and has been careful with me.”
 
-He had nothing for that and it took him about nine seconds to find nothing for it and the nine seconds were the worst of the whole three weeks.
+He had nothing for that and it took him the best part of ten seconds to find nothing for it and those seconds were the worst of the whole three weeks.
 
 “You are right,” he said. “And there is one more thing I have been carrying since the first day and I am going to say it now because you have just refused me twice and I would rather be refused on something I chose than go on holding it.”
 
@@ -98,7 +98,7 @@ He said: “I have been on that road thirty-one years and I have hauled over the
 
 “A rule that cannot be changed for a year is not a rule. It is a season. And a season is a thing that happens to you and a rule is a thing that a person can be told, and the guild has got one of them and calls it the other one, and I say that as a man who has been under both.”
 
-Corrie Tallow was forty yards off under her awning with the chalkboard face out to the weather, and had not looked up, because a woman of forty-eight on this coast has learned in four years exactly how far a sentence like that carries and what it costs to be the woman who answers one. Bettany Rook was up the lane with a stack of nine sheets and about four hours of work still in them and had not heard a word of it. Seth Garrick was at his shed door with a hammer in his hand. There were about nine people on that shingle and not one of them answered him, and one of them was a man of thirty-one who had spent three weeks finding out that the hardest thing about this coast is not a rule and not a season and not a pane, and is a sentence said out loud in the open on a day when about nine people happen to be standing there.
+Corrie Tallow was forty yards off under her awning with the chalkboard face out to the weather, and had not looked up, because a woman of forty-eight on this coast has learned in four years exactly how far a sentence like that carries and what it costs to be the woman who answers one. Bettany Rook was up the lane with a stack of nine sheets and about four hours of work still in them and had not heard a word of it. Seth Garrick was at his shed door with a hammer in his hand. There were nine people on that shingle and not one of them answered him, and one of them was a man of thirty-one who had spent three weeks finding out that the hardest thing about this coast is not a rule and not a season and not a pane, and is a sentence said out loud in the open on a day when nine people happen to be standing there.
 
 ---
 
