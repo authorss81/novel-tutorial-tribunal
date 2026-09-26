@@ -1,4 +1,90 @@
-# Batch Summaries — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0004 IS DELIVERED`; everything below it is archive and is not edited by this phase.
+# Batch Summaries — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0005 IS DELIVERED`; everything below is archive and is not edited by this phase.
+
+## VOLUME 05 BATCH 0005 IS DELIVERED — Chapters 241–250, *The Redacted Archive, And A Rule-Free Alternative*. **The live block. Everything below is archive and is not edited by this phase.**
+
+**Batch goal, as the volume outline fixes it and as this batch received it: the climax. He opens the redacted archive to the basin rather than protect the Bench's reputation, and Sable Venn arrives and offers a rule-free alternative, and he cannot prove her wrong, only incomplete. The resolution: a revocable local charter and an exit review; the first missing anchor position identified beneath the Red Basin, its stone not reached and nobody standing in front of it.**
+
+**The batch's shape in one line: a valley of about four hundred and ten people has known for a week that a record about their water exists four hundred miles away and was not sent to it, and in ten days it finds out what to do about it, which is: find out what it would cost, find out who may speak, decide not to send anybody, and then have a man from four hundred miles off open the page in a room, because the four people it belongs to cannot be asked anything and nine people in the valley were being crushed by a thing that costs those four people nothing at all.**
+
+### WHAT THE BATCH PAID, ONCE EACH, WITH THE CHAPTER
+
+1. **A valley's answer to a thing it cannot act on is to go on doing the work, and it is both a decision and a habit** — 241.
+2. **The cheap way to a withheld record is to ask somebody who has been there, and there is nobody, and it is established in a cart yard in about four minutes** — 241.
+3. **The question is not *how do we get it* and it is *what would we do with it if we had it*, and it is the most expensive sentence anybody has said in this valley in a month** — 241.
+4. **Being frightened has a shape and the shape is a valley of ninety houses where everybody knows which house everybody lives in** — 241.
+5. **The price of asking a chamber for one thing is £5 6s and the reason nobody has paid it is not the price** — 242.
+6. **A second paper puts a second date on a matter, and a second date is a thing a bench can use to close a first one, and a bench that is seized of a matter and is doing its job properly will do it** — 242.
+7. **A mine pays the £5 6s out of its own road cost, says out loud that it is buying a date and not a conscience, and is not thanked and is not stopped** — 242.
+8. **The sixty tons is two people's arithmetic and not sixty tons of anything, in nine words from a man who has counted carts for nineteen years** — 243.
+9. **A figure four years old cannot be reconciled to a memory of nineteen years by anybody in the valley, and the man who says so is a person of the valley and not a clerk from Orison** — 243.
+10. **A man of sixty-one has counted what goes into his own pans every day for thirty years and has never once been asked what comes up off a road** — 243.
+11. **The first time in about a month that a number in this valley has got smaller rather than larger, and nobody thanked anybody for it** — 243.
+12. **The standing of a valley is not in a person but in a document, and eleven people can end it in a road with one sentence** — 244.
+13. **A paper nobody is on cannot be asked anybody anything, said by a man of thirty-four who cannot read the paper it is about and who has been the copy for a month** — 244.
+14. **THE COLUMN IS OPENED, by him, in a room, with no authority, out loud, in front of about nine people, and nobody had asked him** — 245.
+15. **What makes it a choice and not an accident: he could have gone up the hill and nobody in four hundred and ten would ever have found out, and what he had instead was nothing whatever** — 245.
+16. **He could have said the sentence that splits the thirty from the four and did not, and says so in his own words, because the sentence that separates them is the sentence that protects the institution** — 245.
+17. **A record can be perfectly kept and still be wrong about a place, and the reason is that nobody who kept it was ever in it — said once by a man of thirty-one about a building and again by a man of fifty-two about four people in a room, and the second is better and is in a worse voice** — 245, 248.
+18. **NOBODY HAS HIDDEN ANYTHING, said a second time, in the room, where it costs somebody something the first time it did not** — 245.
+19. **Nobody thanked him and nobody was relieved, and a bench of four's good name is a public thing and does not survive the asking** — 245.
+20. **SABLE VENN ARRIVES, on foot, from the north, with a board, and refuses the sheet on the wall before it is offered** — 246.
+21. **Her alternative is genuinely better and genuinely worse, and the person it is worse for says so herself, at her own gate, before she is asked, with the working** — 246.
+22. **The incompleteness is named by an ordinary person in the room and not by him: a rule-free valley cannot be given anything, and the honest name for a person in that position is a person who is not in the instruments** — 246.
+23. **He had the standing to say the sentence he learned once in another county and did not say it, and the reason is printed and is not a rule** — 246.
+24. **She did not win and did not lose, the paper is not hers and she is not on it, and about four people in that room will remember and about six will not** — 246.
+25. **The figure in the return of the water at the frame reaches the woman it is about, read out in a lane by a man who cannot read, and she does not celebrate and says something ordinary and true** — 247.
+26. **A return of a river is a thing that already happened and a height is a thing you decide to be above, and this valley had never been told what the water does** — 247.
+27. **The four people who keep this valley's record read nine years of it out loud to each other in an hour and find that there is no column in any of it for what this valley trades** — 248.
+28. **The mine's standing interest in a number is settled in public, and what it costs the mine is not six shillings and eightpence a year but the right to say the chamber got this valley wrong** — 248.
+29. **THE ELEVEN FEET GOES INTO A THIRD DOCUMENT IN THREE COPIES IN THREE PLACES, both sills named, the difference of four feet written down, on the strength of the chamber's own second ruling, and it is the worst answer and it is the right one** — 249.
+30. **A bad answer in three copies can be argued with by three people and a good answer in one can be argued with by nobody** — 249, in a joiner's mouth, and it is the volume's last civic finding.
+31. **THE REVOCABLE LOCAL CHARTER, on a wall, in one hand, with no name on it and no dash on it, and a person may leave it without losing anything but the charter, and it is worse than the ruling he proposed and better than the flood** — 249.
+32. **A paper that can be ended cannot hold a wage, because a wage is the only one of these things that is still going when the roofs are done, and the whole of what it cannot hold is 1,840 pence** — 249, said by the woman it is about, before she was asked.
+33. **About nine people who were afraid of a good name are not afraid of it any more, and it is not because anybody was made safe** — 249.
+34. **The exit review has a date on it and any person of this valley may bring it** — 249, 250.
+35. **THE POSITION BENEATH THE BASIN IS A BEARING AND A DEPTH AND A PAGE NUMBER, it has not moved, the way down is a chamber with water in it, four hundred and six feet is the pit and is not the void, and NOBODY WENT DOWN** — 250.
+36. **The leg is used once in fifty chapters, in the passage where he puts down nothing, as a fact about a wall** — 250.
+37. **The volume ends on a person doing their work** — 250.
+
+### THE INSTRUMENTS, re-run over `chapters/volume-05/chapter-0241.md` to `chapter-0250.md` after the last save, with the threshold and the unit printed beside every count
+
+- **Weekday scan, plural-safe, case-insensitive: ZERO matches.** **Month-name scan: ZERO month-names, FIFTEEN tokens, thirteen the lower-case modal *may* and two the same word in capitals inside the block-quoted charter at `249:37`.**
+- **Day-phrase instrument: NINETEEN instances on NINETEEN lines.** All legal bands. **The third question caught two in the first writing and the pattern could not see either.**
+- **Day-count: THREE instances, at `245:78` (193), `247:69` (195) and `250:43` (198), and the volume total is EIGHTEEN.** The outline's table was written before Chapter 241 and was not corrected after the chapters.
+- **Panels: ZERO in this batch, and the volume is still at THREE.** **Bold: ZERO lines and ZERO bold markers, and there are ZERO emphasis spans.** **Italics: TWO, both textual citation.** **Strikethrough, underline and code markers: ZERO.**
+- **Duplicates at SEVENTY CHARACTERS AND ABOVE: ZERO distinct duplicated lines, ZERO extra occurrences. At FORTY: ZERO and ZERO. CROSS-BATCH against Chapters 201–240 at forty characters: ZERO shared lines — and that last scan caught the one carry-over in the first writing, a line of Hollis Nance's from `233:21` re-set word for word at `245:15`.**
+- **Uppercase CORRECT: ZERO.** One was in the first writing, inside the charter. **The 179-and-189 shape is not used a third time.**
+- **Banned names: ZERO across the board.** **Sable twice and Venn three times, all in Chapter 246, all at her arrival.** **Orison three times, the lowest in the volume.** **Nesh Arrad and Alo Vearn once each, both in Chapter 250, both in the hand-off paragraph.**
+- **The word NINE: NINETY-NINE occurrences. The word ELEVEN: SIXTY-THREE.** **Paragraph-initial *Nobody*: TWENTY** — 3, 1, 3, 1, 4, 2, 1, 1, 3, 1 — **the lowest in the volume.** *About nine words*: ONE. *Nine words*: THREE lines. *About four seconds*: ONE, down from five. *A minute and a half*: ZERO. *Grind ink*: ZERO. *Is not a thing you can get*: ZERO.
+- **Meta-narration sweep: ZERO in the prose, H1 headings excluded, and SIX instances were in the first writing and all six are out.**
+
+### THE MONEY, with the working printed beside every figure, and a script that checked all twenty-eight of them and returned zero failures
+
+**The matter to Orison, £5 6s, SPENT IN THIS BATCH FOR THE FIRST TIME IN THE VOLUME, by the Anner out of the Anner's own cost of the high road: 240d + 960d + 72d = 1,272d.** Against the wages of this valley: **ten weeks of a pitman's pay and 72d over; eleven weeks of a sluice-keeper's pay and 84d over, which is about two thirds of every year she works.** Against the settlement: **1,272 × 33 = 41,976d and 42,880 − 41,976 = 904d over, so thirty-three whole times.** The sixty tons: **60 × £7 = £420 a year; 60 tons = 1,200 hundredweights; 1,200 × 168d = 201,600d = £840; and 100,800 × 100 ÷ 1,747,200 = 5.77, five and seven-tenths in the hundred.** The sluice-keeper's pit half: **16 × 54d = 864d = £3 12s a year.** The cost of the mine being bound in advance: **120 ÷ 6 = 20d a day, four of them = 80d = 6s 8d, and 80 × 100 ÷ 6,000 = 1.33, one and a third in the hundred.** The third document: **1d + 1d + 3d = 5d.** The charter: **a roof is £9 = 2,160d, nineteen of them is 41,040d = £171 exactly, the settlement is 42,880d, the difference is 1,840d = £7 13s 4d, and 1,840d is the whole wage plus the penny a day — and 41,040d is also what the flood cost, to the penny.** The two sills: **108in − 28in = 80in = 6ft 8in; 9 + 4 = 13; 13 − 11 = 2; 2 + 2 = 4.** Debts, named once, at `250:47` and `250:49`, and not converted: **£485 on £9,700 = 9,700 × 12d = 116,400d ✓; 5s 4d ✓; £45 2s 8d ✓.** **AND THE FORTY-FIVE TIMES COMPARISON IS NOT RESTAGED AND FORTY-FIVE IS NOT USED AS A MULTIPLIER ANYWHERE IN VOLUME 05.**
+
+### THE TWELVE THINGS THIS BATCH'S OWN FIRST WRITING GOT WRONG, all caught by the project's own instruments, all corrected in the prose before delivery
+
+1. **Six meta-narration sentences**, including a chapter number spoken in a clerk's mouth, a narrator pointing at a book, and a narrator pointing at a batch. **The cards were written in the frame *what happens* and the prose caught six anyway.**
+2. **A near-verbatim carry-over from Chapter 233** caught only by the cross-batch duplicate scan, not by the within-batch one.
+3. **One uppercase CORRECT inside the block-quoted charter.**
+4. **Two wrong dates inside legal bands**, caught by the third question and invisible to the pattern.
+5. **A whole paragraph of wrong money in Chapter 242**: a pitman's week called the whole of the price, and nine shillings called one pound and eight shillings.
+6. **Two wrong ratios in Chapter 242**, where a hundred and forty became thirty-four and thirty-four became thirty-three.
+7. **A wrong cost for the opening in Chapter 245**: four pence for four lines on one sheet, and a sheet is one page and a page is a penny.
+8. **Twenty-six instances of the word nine and one of the word eleven above the volume trend**, cut from the first writing.
+9. **Five instances of *about four seconds***, four varied out.
+10. **A gender error inherited from the batch prompt**, which said a man of twenty-six at the pit in a sentence about her; the chapter follows the manuscript and names Alo Vearn as a woman of twenty-six.
+11. **A contradiction inside one chapter** about how far apart two papers on one wall are, and it is now a hand's breadth from four pages in one place and about a foot in another, and the two are different walls.
+12. **A tangled chain of arithmetic in Chapter 249** that did not finish, now printed in full and in order with the finding at the end of it.
+
+### THE TWO THINGS THIS BATCH ADDS TO THE PROJECT'S OWN LIST OF WHAT A LATER PASS GETS WRONG IF IT DOES NOT MEASURE IT
+
+1. **THE CROSS-BATCH DUPLICATE SCAN IS A DIFFERENT INSTRUMENT FROM THE WITHIN-BATCH ONE AND ONLY THE CROSS-BATCH ONE CATCHES A CARRY-OVER.** Both return zero over Chapters 241–250 at forty characters and above, and a chapter can pass both and still have lifted a line out of Chapter 233. **Run it on every batch. It costs one command.**
+2. **A BATCH PROMPT CAN BE WRONG ABOUT A CHARACTER AND THE CHAPTER FILE IS THE FACT.** The Batch 0005 card for Chapter 250 says a man of twenty-six at the pit in a sentence about her, and the prompt's own preamble and the repaired Chapter 240 both establish a woman of twenty-six. **This is the second time in two batches that a hand-off document has been wrong about her, and the state file was the thing that was wrong the first time.**
+
+### THE THING THIS BATCH DID NOT DO
+
+**It did not write a review, and it did not write a repair, and it did not write a sixth batch, and it did not write a volume audit, and it did not write a `.done` marker, and it did not touch `state/phase-ledger.json`.** **It did not resolve a thread to make the batch land. Every one of the eighteen threads came out of it exactly as it went in except the column, which this batch opens because the outline says Chapter 245 or 246 and it is the volume's climax and not a thing a batch may postpone for tidiness. The carrying is off nothing. The blank is a blank. Nobody is redeemed. Nobody is forgiven. The name stays off the eleven-hand sheet and the space at its foot stays empty and undashed. The eleven feet goes into a third document in three copies and not onto the settlement. And the mine is a mine.** **THE NEXT PHASE IS THE VOLUME 05 CLOSE AND ITS PROMPT IS AT `workspace/volume-05/volume-close/PROMPT.md`.**
 
 ## VOLUME 05 BATCH 0004 IS DELIVERED — Chapters 231–240, *The Sealed Column*. **The live block. Everything below it is archive and is not edited by this phase.**
 
