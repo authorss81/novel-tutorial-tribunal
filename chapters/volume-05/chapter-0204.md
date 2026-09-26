@@ -18,7 +18,7 @@ Nobody in that party had asked Ewan Troke to bring anybody anywhere, and he had 
 
 “How much of it,” said Ilyan Vester.
 
-“That is the whole of what I have ever said about it and I have said it to about nine people in three years and every one of them was a man who wanted me to say it louder.” She put a hand on the frame. “Sixteen weeks at four and six is three pounds and twelve, and three years of it is ten pounds and sixteen, and if you want the whole of it, it is seven pounds and four a year, and the four that I have come to expect is the half the Anner gives me on the first day of the week in an envelope and the half the Seat has not given me since the turn before is the other half and I have not chased it and I am not going to, because the only way you chase the Seat is in a room, and I have never in my life been in that room, and the women in this village who have been in that room are two, and one of them is seventy-six and the other one is the wife of a man on the Seat, and there is nobody else.”
+“That is the whole of what I have ever said about it and I have said it to a handful of men in three years and every one of them was a man who wanted me to say it louder.” She put a hand on the frame. “Sixteen weeks at four and six is three pounds and twelve, and three years of it is ten pounds and sixteen, and if you want the whole of it, it is seven pounds and four a year, and the four that I have come to expect is the half the Anner gives me on the first day of the week in an envelope and the half the Seat has not given me since the turn before is the other half and I have not chased it and I am not going to, because the only way you chase the Seat is in a room, and I have never in my life been in that room, and the women in this village who have been in that room are two, and one of them is seventy-six and the other one is the wife of a man on the Seat, and there is nobody else.”
 
 “What is the Seat’s half spent on,” said Tarin Keel.
 
@@ -60,11 +60,11 @@ The three other entries in the book were in a different hand and older and they 
 
 “It was not unusual,” said Ewan Troke. “I would not have told you it was unusual if I had not read it in front of you. The Seat’s order has named a day since before the first shaking, and the sluice has been opened early since before the first shaking, and the word again at the end of that page is the under-manager’s own word and he was twenty when he wrote it, and he has never told anybody in this basin that he wrote it, and I found it out in the last half hour standing on a wet bank.”
 
-Nobody asked the obvious question for about a minute and a half, which is not long.
+Nobody asked the obvious question for the better part of a minute, which is not long.
 
 “Why,” said Ilyan Vester.
 
-Nobody answered him, and it was Ilma Treen who answered him about a minute and a half later and she did it while moving stone, which she did not stop doing, because she had come up the bank to move a barrow of stone and four people had arrived on it and she was not going to leave a barrow of stone standing in the sun for a conversation.
+Nobody answered him, and it was Ilma Treen who answered him a good while after that and she did it while moving stone, which she did not stop doing, because she had come up the bank to move a barrow of stone and four people had arrived on it and she was not going to leave a barrow of stone standing in the sun for a conversation.
 
 “The Anner’s road comes down off the ridge,” she said, “and it crosses the causeway where the Sallow goes out south, and about nine carts a day go over that causeway in the season, and the water goes over the causeway too, and if the sluice is standing when the carts are on it then the causeway is not there any more.”
 
@@ -74,7 +74,7 @@ She set the stone down.
 
 “Then why eleven days,” said Tarin Keel.
 
-“Because eleven days is what it takes them to get nine carts off the causeway and onto the high road, and the high road adds a morning and a half each way, and the Anner does it because I asked them once, in the first year, and I did not ask them properly, I asked, and they did it.” She moved another stone. “And they never cost it to me. It was their week. It was their carts. It was their road. And I have been getting paid four shillings and sixpence a week for sixteen weeks and holding the water in the Hollow for nine more weeks than anybody agreed to pay me for, and if you want to make that into a thing I have stolen, you may, and I will listen, because I have not heard it said out loud before and I would like to know which of us is right.”
+“Because eleven days is what it takes them to get nine carts off the causeway and onto the high road, and the high road adds a morning and a half each way, and the Anner does it because I asked them once, in the first year, and I did not ask them properly, I asked, and they did it.” She moved another stone. “And they never cost it to me. It was their week. It was their carts. It was their road. And I have been getting paid four shillings and sixpence a week for sixteen weeks and holding the water in the Hollow for four more weeks than anybody agreed to pay me for, and if you want to make that into a thing I have stolen, you may, and I will listen, because I have not heard it said out loud before and I would like to know which of us is right.”
 
 ---
 
@@ -88,13 +88,13 @@ The question nobody had asked her, which was not asked by the man who had come n
 
 She stopped moving stone.
 
-“Nine years I have worked the water for about one hundred and forty days a year,” she said, “and I have been paid for ninety of them, and I have never once done a hundred and forty and been paid for a hundred and forty, and I would like that written down somewhere, and I do not know who in this basin writes things down.”
+“A hundred and forty days a year, and I have been paid for a hundred and twelve of them, and I have never once done a hundred and forty and been paid for a hundred and forty, and I would like that written down somewhere, and I do not know who in this basin writes things down.”
 
 Ilyan Vester took out a penny exercise book and a stub of lead and sat down on the sill of the sluice, which is wet, and which he did not notice until about four lines later, and he wrote the day at the top of the page in his own hand, and the day in this basin is a day out of a water-book and not a day of a grain year, and the number that went on the page is one hundred and fifty-two, and it is the third time in five days that he has put a number of that kind at the top of a page in this valley, and it is the first time he has put it in front of anybody.
 
 He did not tell her what the number was. He had never told anybody in two hundred and one days what the number at the top of the page was, and there was no reason on earth why he was going to start in a village four miles from a chandler’s shop.
 
-“Twenty-five days,” he said, to the page and not to her, and then he said it again to her, because it is his own arithmetic and he does it out loud, and it is the habit of a man who has spent a year in a room where nobody could check him and has decided that the checking is the point. “Twenty-five days is three weeks and four days. At four and six the week, and a wage being a week’s wage, three weeks is thirteen shillings and six and the four days is nothing, and thirteen shillings and six is what the Seat has not paid her for holding the water in this Hollow for about a hundred and forty days a year.”
+“Twenty-eight days,” he said, to the page and not to her, and then he said it again to her, because it is his own arithmetic and he does it out loud, and it is the habit of a man who has spent a year in a room where nobody could check him and has decided that the checking is the point. “A hundred and forty days and a hundred and twelve paid is twenty-eight days, and twenty-eight days is four weeks. At four and six the week, and a wage being a week’s wage, four weeks is eighteen shillings exactly and there is nothing over, and eighteen shillings is what the Seat has not paid her for holding the water in this Hollow for a hundred and forty days a year.”
 
 Ilma Treen looked at him for a while and then at the gate and then back at him.
 

@@ -57,7 +57,7 @@ He said that last part without any weight on it at all, and it was the first thi
 
 ---
 
-The four of them came down off the flat at about the time the light goes and got as far as a fold of ground above the dry bed, which is where a person who has come nine days on that road stops, and the three of them had said the thing they had come to say somewhere around the fourth day and had not improved on it since, and it was worth putting down in the three mouths it came out of.
+The four of them came down off the flat at about the time the light goes and got as far as a fold of ground above the dry bed, which is where a person who has walked that whole road stops, and the three of them had said the thing they had come to say somewhere around the fourth day and had not improved on it since, and it was worth putting down in the three mouths it came out of.
 
 “A date,” said Sera Quill. “One date, agreed to by everybody, so that there is one first day of the year in this basin.”
 
@@ -87,7 +87,7 @@ Then the man with the board came over the top of the ridge on his way down, beca
 
 “Good,” said the man with the board. “There is a lot of it about.”
 
-He put the board down against a stone and took out a stone of his own and looked at the sky and worked something out of it, and it took him about nine seconds, and then he took his board up and went on down the far side, and he did not know that four people had come nine days to look at his valley and he would not have cared and there is no reason on earth why he should have.
+He put the board down against a stone and took out a stone of his own and looked at the sky and worked something out of it, and it took him no time at all, and then he took his board up and went on down the far side, and he did not know that four people had come nine days to look at his valley and he would not have cared and there is no reason on earth why he should have.
 
 Ewan Troke got his case shut and the strap over it.
 

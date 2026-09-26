@@ -12,7 +12,7 @@ It was cut by a man with a stick and a string and a bucket of tar, and he did it
 
 ---
 
-Garrow Lee was forty-one and he was a joiner and he was on the bank with a rule and a piece of chalk and a plane and about nine feet of lath, and he had been at the sluice frame since the second light measuring for a gate that he cannot get anybody to buy.
+Garrow Lee was forty-one and he was a joiner and he was on the bank with a rule and a piece of chalk and a plane and about eight feet of lath, and he had been at the sluice frame since the second light measuring for a gate that he cannot get anybody to buy.
 
 “Eleven feet the frame and one pound eight the oak,” he said, before he had been asked, and then he corrected himself, which is what a man does when he has said a figure in a room before and got it taken. “Four pounds ten the frame and one pound eight the oak, and the five pounds eighteen is mine and there is not a part of the five pounds eighteen that is anybody else’s. That is the whole of a gate.”
 
@@ -38,11 +38,11 @@ He put the rule against the top of the frame and looked along it and then took i
 
 “Then eleven feet is not eleven feet,” said Tarin Keel.
 
-“Eleven feet is eleven feet,” said Garrow Lee. “It is the number the man wrote on a wall somewhere four miles away, and the ground between there and here is not level, and so the mark is not a level, and there are eleven marks and there are eleven heights and nobody has the eleven numbers. And if you write *eleven feet* on anything, then whoever reads it in nine years will take it for a level, and it will be a level, and it will be the only level anybody in this basin has ever had.”
+“Eleven feet is eleven feet,” said Garrow Lee. “It is the number the man wrote on a wall somewhere four miles away, and the ground between there and here is not level, and so the mark is not a level, and there are eleven marks and there are eleven heights and nobody has the eleven numbers. And if you write *eleven feet* on anything, then whoever reads it after the rest of us are dead will take it for a level, and it will be a level, and it will be the only level anybody in this basin has ever had.”
 
-He had not said the arithmetic out loud and Ilyan Vester did it, in his own mouth, the way he does it, and it took him about nine seconds, and he wrote it in the penny exercise book and then he read it back to a bank of clay with eleven roofs on it.
+He had not said the arithmetic out loud and Ilyan Vester did it, in his own mouth, the way he does it, and it took him no time at all, and he wrote it in the penny exercise book and then he read it back to a bank of clay with eleven roofs on it.
 
-“If the Anner’s sill is nine feet above this frame’s sill, then eleven feet above the Anner’s sill is two feet below this frame’s sill, and two feet below the sill is about the height of the floors of the houses on the upper half of that lane, and the mark on the fifth doorpost is a foot above the mark on the ninth, so the mark is not the floor and is not a level and is not a number anybody can use.”
+“If the Anner’s sill is nine feet above this frame’s sill, then eleven feet above the Anner’s sill is two feet above this frame’s sill, and two feet above the sill is about the height of the floors of the houses on the upper half of that lane, and the mark on the fifth doorpost is a foot above the mark on the ninth, so the mark is not the floor and is not a level and is not a number anybody can use.”
 
 “It is a man with a bucket of tar,” said Ewan Troke.
 
@@ -62,11 +62,11 @@ That is the whole of it and it is worth putting plainly, because the three of th
 
 ---
 
-And that is the sentence that the eleven houses had been waiting nine years for, and it came from a joiner of forty-one on a bank at the second light on the last day of the fiftieth week, and nobody in the party was going to be able to say afterwards that anybody had asked them to say it.
+And that is the sentence that the eleven houses had been waiting a long time for, and it came from a joiner of forty-one on a bank at the second light on the last day of the fiftieth week, and nobody in the party was going to be able to say afterwards that anybody had asked them to say it.
 
 ---
 
-The house of the eleven that had been rebuilt once is the third one up the lane and it was rebuilt nine years ago, in the year of the mark, and it was rebuilt because the front wall went out, and the rebuild is a document, because the Seat paid nine pounds toward it out of a fund that has not been named in nine years and has not been asked after in nine years, and about eleven other people in this village know about that nine pounds.
+The house of the eleven that had been rebuilt once is the third one up the lane and it was rebuilt nine years ago, in the year of the mark, and it was rebuilt because the front wall went out, and the rebuild is a document, because the Seat paid nine pounds toward it out of a fund that has not been named in nine years and has not been asked after in as many, and about eleven other people in this village know about that nine pounds.
 
 “It is the only house of the eleven that is higher than it was,” said Ewan Troke, standing at the bottom of the lane. “The rest of them are all exactly where they were, and the mark is exactly where it was, and the mark on this one is a foot below where the other ten are, because the man who rebuilt it put his own mark on the new doorpost, and he was not the man with the string.”
 
@@ -82,7 +82,7 @@ And one of the eleven was a woman who kept a sluice eleven years and had never b
 
 “Then it is on the mark,” said Ilma Treen, and she looked at the eleven of them from the top of the lane, and nobody in the party had thought to ask her to and she had done it on her own in about four seconds, and then she said: “Then somebody is going to have to come and tell me what a mark is for. It is not going to be the Seat. And it is not going to be the Anner.”
 
-Nobody said who it was going to be. There were four of them standing in a lane in a village of about four hundred and ten people and not one of them was from anywhere else, and the joiner had told them the price of a gate and did not know what any of them could do with a number, and the two men from the Seat who had told him it was nobody’s business had not been in this lane, and the one person in the lane who would have made something of that difference was standing at the bottom with a lath under his arm and had said nothing for about nine minutes.
+Nobody said who it was going to be. There were four of them standing in a lane in a village of about four hundred and ten people and not one of them was from anywhere else, and the joiner had told them the price of a gate and did not know what any of them could do with a number, and the two men from the Seat who had told him it was nobody’s business had not been in this lane, and the one person in the lane who would have made something of that difference was standing at the bottom with a lath under his arm and had said nothing for a long time.
 
 ---
 

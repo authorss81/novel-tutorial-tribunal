@@ -40,7 +40,7 @@ The order was written at the third light on the second of the four pages and it 
 > THREE. THAT ELEVEN FEET BE THE HEIGHT, AND THAT THE ELEVEN HOUSES OF HOLLOW SALLOW BE BELOW IT, AND THAT NO PERSON OF HOLLOW SALLOW BE ASKED TO LEAVE ANY HOUSE BY THIS ORDER.
 > FOUR. THAT THIS ORDER BE READ IN THE ROOM OF THE WATER-SEAT AND IN THE LANE AT HOLLOW SALLOW, AND THAT THE COPY IN THE LANE BE KEPT BY A PERSON OF THE LANE AND NOT BY THE SEAT.
 
-Hollis Nance wrote it in a fair hand and it took about nine minutes and he read it out twice and the second reading did not change a word, and the difference between what it does and what anybody in that room wanted is in the four lines, and it is visible to anybody standing at that table who is not looking at the ink, because the third line is the shortest line on the page and it is the one that took the longest to agree.
+Hollis Nance wrote it in a fair hand and it took about ten minutes and he read it out twice and the second reading did not change a word, and the difference between what it does and what anybody in that room wanted is in the four lines, and it is visible to anybody standing at that table who is not looking at the ink, because the third line is the shortest line on the page and it is the one that took the longest to agree.
 
 “There is no hole in it,” said Ilyan Vester.
 
@@ -60,7 +60,7 @@ They read the two copies out twice, at the second light and at the noon light, a
 
 And the Anner’s copy was taken by Jory Vellan, who read it once standing up, and said the two words that will do, and put the sheet down on the table, and went out, and was gone before anybody could ask him a question, and he was gone because he had stood in the doorway of a room in this town twenty-four hours ago and had not come in, and everybody at that table has spent the last day pretending that did not happen, and he is the only person in this basin who knows what the thing is going to cost and has never once said it out loud in a room that was writing it down.
 
-And the seat’s press was locked and the keys are on a nail, and the four pages went in and the four pages came out, and a woman of about forty washed the pen and put it upside down on a board and turned it over again, and the first day of the fifty-first week was a working day.
+And the seat’s press was locked and the keys were in his coat, and the four pages went in and the four pages came out, and a woman of about forty washed the pen and put it upside down on a board and turned it over again, and the first day of the fifty-first week was a working day.
 
 Then the thing came up in its own two plain lines, in a room with nine people in it, in the flat white nothing that has put things in front of him in about a year and a half, and it did not say one word about the nine of them.
 
@@ -83,4 +83,4 @@ And the dam was going to hold, and the four men and the barrow were going to hol
 
 Nothing in the four lines says what.
 
-Hollis Nance put the key back on the nail it lives on and said, to nobody, that a clerk who files an order he is not allowed to make is still a clerk who has filed it, and that there was nobody in this basin he could hand that to, and that he had therefore put it in the press and shut it, and that the press is the only thing in this room that has ever been asked to remember anything.
+Hollis Nance put the key back in the inside pocket of his coat, where it lives, and said, to nobody, that a clerk who files an order he is not allowed to make is still a clerk who has filed it, and that there was nobody in this basin he could hand that to, and that he had therefore put it in the press and shut it, and that the press is the only thing in this room that has ever been asked to remember anything.

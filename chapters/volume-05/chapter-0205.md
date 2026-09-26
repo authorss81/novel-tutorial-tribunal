@@ -4,7 +4,7 @@ The water-seat of Sallowby is one room over a shuttered shop with eleven seats i
 
 The clerk is Hollis Nance and he is forty-four and he stood up when they came in, which nobody asked him to do.
 
-“I am not a Bench clerk,” he said, “I am not a recordwright, and I am not an advocate, and I am the only person in this room who is anybody at all, and if you have come about the ninth turn of anything then you are in the wrong room and the right room is nine days away and it costs five pounds and six to take a paper there and bring it back, which is a pound for entry and four for a day and six shillings for a rider’s board, and I have said all of that in nine words because in nine years in this room I have found that people who are told the price at the beginning argue about the price at the end and people who are told it at the end have already made a plan.”
+“I am not a Bench clerk,” he said, “I am not a recordwright, and I am not an advocate, and I am the only person in this room who is anybody at all, and if you have come about the ninth turn of anything then you are in the wrong room and the right room is nine days away and it costs five pounds and six to take a paper there and bring it back, which is a pound for entry and four for a day and six shillings for a rider’s board, and I have said all of that in nine words because in all the years I have stood in this room I have found that people who are told the price at the beginning argue about the price at the end and people who are told it at the end have already made a plan.”
 
 Nobody had come about the ninth turn of anything and Ewan Troke said so, and the clerk sat down.
 
@@ -23,7 +23,7 @@ The forty pounds is in a box under the floor in the room below and the box is a 
 
 Hollis Nance put the last line on the table face up, which nobody had asked him to do either, and then he sat down again.
 
-“It is void,” he said. “It has been void since the year after the first shaking, because the man who wrote that at the back wrote it correctly and there is nobody in this basin to say that he was wrong, and I am a clerk and not a lawyer and a clerk who says a bond is not void is a clerk who has read a document. I have said that sentence out loud in this room about four times in nine years and three of them were to men who came to find out what the money is doing and none of them came back.”
+“It is void,” he said. “It has been void since the year after the first shaking, because the man who wrote that at the back wrote it correctly and there is nobody in this basin to say that he was wrong, and I am a clerk and not a lawyer and a clerk who says a bond is not void is a clerk who has read a document. I have said that sentence out loud in this room about four times in the whole of the time I have been in it and three of them were to men who came to find out what the money is doing and none of them came back.”
 
 “Then why is it in the press,” said Ilyan Vester.
 
@@ -71,7 +71,7 @@ Nobody argued with him about that and nobody agreed with him either, and it went
 
 ---
 
-The last hour of that day was spent on a heap of clay and rubble by the dam, in the light, with about nine people there, and a man tipped a barrow out of it and it went down the slope in a long red heap and the ochre in it came up through the clay and made a yellow streak about four feet long where it stopped, and Jory Vellan went over to it and looked at it and then went back to the table and did a sum, out loud, because he was asked to and because there is nothing else to do with a morning.
+The last hour of that day was spent on a heap of clay and rubble by the dam, in the light, with a knot of them there, and a man tipped a barrow out of it and it went down the slope in a long red heap and the ochre in it came up through the clay and made a yellow streak about four feet long where it stopped, and Jory Vellan went over to it and looked at it and then went back to the table and did a sum, out loud, because he was asked to and because there is nothing else to do with a morning.
 
 “Eleven hundred tons a year out of the Anner,” he said. “Ochre and salt together, and the salt is the half that sells at the pans and the ochre is the half that sells here. Four pounds a ton at the pit’s mouth. Eleven at Sallowby. There is no more to it than that and no one of those three figures is anybody’s opinion.”
 

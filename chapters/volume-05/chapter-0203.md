@@ -83,7 +83,7 @@ He said what he had come for, which was that there was a name on the ninth-turn 
 
 “You brought me that half three years ago,” said Wenna Skell, “and you brought it me with the name on it and I copied it with the name on it, and I have copied it four times since for other people, and I never asked you about the name because you were not the one who wrote it, and a man who does not write a deed is not the man to be asked about a name in one.”
 
-“I am the man to be asked about a name in one,” said Jory Vellan. “It is my wife’s name and I watched her die and she has been dead four years and the half was drawn three, and I have not laid eyes on that deed since the day it came into this room, and there is a word at the foot of it under her name and I have never asked what the word is, because I have read it about nine times and I have never once asked anybody to read it out.”
+“I am the man to be asked about a name in one,” said Jory Vellan. “It is my wife’s name and I watched her die and she has been dead four years and the half was drawn three, and I have not laid eyes on that deed since the day it came into this room, and there is a word at the foot of it under her name and I have never asked what the word is, because I have read it a great many times and I have never once asked anybody to read it out.”
 
 “Which word.”
 

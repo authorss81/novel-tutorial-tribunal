@@ -1,8 +1,8 @@
 # Chapter 208: Three Rulings And A Column Head
 
-The bag came to Sallowby nine days after the four pages went on the wall, and it came with a man who was going to Coldbeck for a horse and had no business at the Seat at all, and it was addressed to the Bench of Orison at the water-seat of Sallowby, in that order, which is not an address, and it had been on the shelf under the window in the Seat’s one room for nine days, and nobody had opened it, and nobody had opened it because it said Bench on it.
+The bag came to Sallowby on the morning of the first of the fifty-first week, the same morning the four pages went on the wall, and it came with a man who was going to Coldbeck for a horse and had no business at the Seat at all, and it was addressed to the Bench of Orison at the water-seat of Sallowby, in that order, which is not an address, and it had been on the shelf under the window in the Seat’s one room since about the second light, and nobody had opened it, and nobody had opened it because it said Bench on it.
 
-Hollis Nance opened it on the second of the fifty-first week at about the second light, in front of five people, and he said the thing before he did it, which is a thing he does and has done for nine years.
+Hollis Nance opened it on the second of the fifty-first week at about the second light, in front of five people, and he said the thing before he did it, which is a thing he does and has done every year he has stood in that room.
 
 “I have no authority to open this. I am a clerk of a Seat. This is addressed to a chamber nine days away, and the chamber does not know there is a Seat, and there is nothing on the outside of it that says I may, and I am going to open it anyway and if that is a crime in Orison it is a crime in Orison and not in this room, and I would like the five of you to have heard me say that and I would like nobody to repeat it back to me afterwards.”
 
@@ -30,9 +30,9 @@ Nobody in that room said anything for about as long as it takes to fold four she
 
 “Who carries them?”
 
-“A man,” said Hollis Nance. “He comes twice and takes what is in the gap and he is paid at the Seat of Orison and he is not paid by us, and he is not a clerk and he is not an advocate and he is a man with a bag, and he has never once in nine years told me what he has taken, and I have never once in nine years asked him, and I have had nine years to ask him and about four hundred and eleven pounds of yours to have asked him about.”
+“A man,” said Hollis Nance. “He comes twice and takes what is in the gap and he is paid at the Seat of Orison and he is not paid by us, and he is not a clerk and he is not an advocate and he is a man with a bag, and he has never once told me what he has taken, and I have never once asked him, and I have had nine years to ask him and about four hundred and eleven pounds of yours to have asked him about.”
 
-The arithmetic of that is the arithmetic of this whole volume and nobody in the room said it out loud and the reason nobody said it is that the man with the bag is in about nine rooms a week and he is doing a job and the job is not wrong.
+The arithmetic of that is the arithmetic of this whole volume and nobody in the room said it out loud and the reason nobody said it is that the man with the bag is in rooms all week and he is doing a job and the job is not wrong.
 
 ---
 
@@ -44,7 +44,7 @@ Nine years old, because the third turn is nine years back, and about a height, a
 
 “That is line one of the order,” said Hollis Nance. “It says eleven feet above its own sill, and the sill is named, and the sill is the Anner’s own sill, and that is a sill, and it is named, and I wrote it because a man read it out to me and I copied him.”
 
-“It is named as its own sill,” said Tarin Keel. “The Anner’s. And the eleven houses are on the Sallow, four miles off, and the line of the order says the eleven houses are below eleven feet, and the eleven feet is the Anner’s number, and nobody has ever said that the two are the same number of feet, and the man who cut the marks did not say it either, and the chamber said in the fifty-fifth turn that nobody is to say it without naming a sill, and the order names a sill for the dam and does not name one for the houses.”
+“It is named as its own sill,” said Tarin Keel. “The Anner’s. And the eleven houses are on the Sallow, four miles off, and the line of the order says the eleven houses are below eleven feet, and the eleven feet is the Anner’s number, and nobody has ever said that the two are the same number of feet, and the man who cut the marks did not say it either, and the chamber said in its third turn, nine years back, that no order may name a height without naming the sill, and the order names a sill for the dam and does not name one for the houses.”
 
 Nobody answered that, and it did not need answering, and it is the ninth thing anybody has said about a four-line order that had three more hours of argument put into it on its first morning and came to no argument at all on the second.
 
@@ -54,7 +54,7 @@ Nobody answered that, and it did not need answering, and it is the ninth thing a
 
 “Then the record is perfect,” said Sera Quill. “Three rulings, and all three of them are things I would say if I were writing them, and not one of them has ever been in a room in this basin, and the reason is that a man in another city has been the only one of us who ever spoke to either side.”
 
-“Two sides,” said Jory Vellan. “There are not two sides. There is a pit and there is a village and there is a man in Orison who sends both of them to a room and the room sends back an answer, and the pit and the village have never been in the same room with each other, and if you put them in the same room they will agree about the water in about nine minutes, because it is the same water.”
+“Two sides,” said Jory Vellan. “There are not two sides. There is a pit and there is a village and there is a man in Orison who sends both of them to a room and the room sends back an answer, and the pit and the village have never been in the same room with each other, and if you put them in the same room they will agree about the water in about six minutes, because it is the same water.”
 
 “Then put them in the same room,” said Ilyan Vester.
 
@@ -62,23 +62,23 @@ Nobody answered that, and it did not need answering, and it is the ninth thing a
 
 ---
 
-Folded into the fourth sheet, and not tied to anything, and not printed, and in a hand that is not a printer’s, there was a letter of about nine lines.
+Folded into the fourth sheet, and not tied to anything, and not printed, and in a hand that is not a printer’s, there was a letter of a few lines.
 
 Hollis Nance saw it and stopped with it in his hand about two inches off the table, and he held it there long enough that everybody in the room understood that he had seen it, and then he put it down on the table beside the bundle and squared it with two fingers and took his hand away.
 
-“That is a letter,” he said. “It is not sealed. It is in a clerk’s hand and it is about nine lines and it has been in this bundle since the bundle was tied and the bundle came on the second of the week and it is nine days since the bag was put on that shelf.”
+“That is a letter,” he said. “It is not sealed. It is in a clerk’s hand and it is about nine lines and it has been in this bundle since the bundle was tied, and the bag came on the first of the week with everything else that was in it, and it has been on that shelf one day, and there is nobody in this room who has read it.”
 
 Nobody asked him to read it.
 
-Nobody in that room asked Hollis Nance to read it out, and about a minute and a half went by, which is not long, and he did not read it and he did not say what it was about, and he said afterwards, to nobody, that it was nine lines and that a clerk is not an advocate and that he was not going to read a man’s letter in a room with four other people in it, and that if the four other people wanted it read they could ask him in a room with nobody else in it, and that there was going to be no such room, and that the letter would be tied back into the bundle.
+Nobody in that room asked Hollis Nance to read it out, and about a minute went by, which is not long, and he did not read it and he did not say what it was about, and he said afterwards, to nobody, that it was nine lines and that a clerk is not an advocate and that he was not going to read a man’s letter in a room with four other people in it, and that if the four other people wanted it read they could ask him in a room with nobody else in it, and that there was going to be no such room, and that the letter would be tied back into the bundle.
 
 “If you would like me to say who wrote it,” said Hollis Nance, “I can say that it is a clerk of the counting-house in the Orison lane and that he is thirty-four and that we have not had a letter from him in about a year, and I am saying that because there is a form in this basin for somebody else’s letter and there is not for mine, and that is the whole of what I have.”
 
-Nobody said anything, and the letter went back into the fourth sheet, and the four sheets were folded into eight, and the string was tied with a knife-cut end, and the bundle went on the shelf under the window where it had been for nine days.
+Nobody said anything, and the letter went back into the fourth sheet, and the four sheets were folded into eight, and the string was tied with a knife-cut end, and the bundle went on the shelf under the window where it had been since the morning before.
 
 ---
 
-What is at the back of the shelf is the Seat’s own index, and it is a hand-book and it is about two inches thick and it is the only thing in this room that anybody has kept up to date for nine years, and it is kept up to date by Hollis Nance, alone, on the last working day of every fourth week, in the evening.
+What is at the back of the shelf is the Seat’s own index, and it is a hand-book and it is about two inches thick and it is the only thing in this room that anybody has kept up to date for as long as he has been in it, and it is kept up to date by Hollis Nance, alone, on the last working day of every fourth week, in the evening.
 
 It is a list of what the chamber has sent the Seat, and it has one column for the matter and one column for the turn and one column for the date of the print, and the entries go back to the first shaking in a small hard hand and get worse as they come forward.
 
@@ -88,6 +88,6 @@ It is on the page, and it is the same size as the other three, and the other thr
 
 Ilyan Vester saw it at about the fourth light, standing up, with the bundle in his hand and the room emptying behind him, and he did not ask about it, and no one in the room said anything about it, and it is in this record because it is on a page and because a thing that is on a page in a stranger’s eye at the end of a week is the only kind of thing in this basin that is not going to be lost, and the losing of it is four hundred and sixty entries away and nobody is counting.
 
-The string on the bundle was cut at the end and not frayed, and the man who tied it had a knife and a reason, and he was in about nine rooms a week, and he had been doing it for nine years, and the four pages on the wall in Hollow Sallow were three days old and were going to be the answer to three rulings that nobody in that village had ever seen, one of which says that a height marked on a doorpost is not a measurement, and the third line of the four names eleven feet as though somebody had.
+The string on the bundle was cut at the end and not frayed, and the man who tied it had a knife and a reason, and he was in about nine rooms a week, and he had been doing it for longer than the Seat has had a bundle, and the four pages on the wall in Hollow Sallow were three days old and were going to be the answer to three rulings that nobody in that village had ever seen, one of which says that a height marked on a doorpost is not a measurement, and the third line of the four names eleven feet as though somebody had.
 
 Hollis Nance put the shelf square with the back of his hand and went and washed the pen, because there was going to be another order inside a month and the season was beginning, and the Sallow comes up in about a hundred and forty days and nobody in this basin had begun to think about it, and the man with the bag would be going this way again in six weeks with whatever went into the gap, and what went into the gap that day was nothing, because the gap in the wall in that room is about the size of a person and the four pages went on the wall, and there was nothing left over to send.

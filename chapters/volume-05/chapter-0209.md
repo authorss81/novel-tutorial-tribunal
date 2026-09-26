@@ -24,7 +24,7 @@ The oldest trench on the lowest level of the Anner is eleven chains and sixteen 
 
 Nobody said anything about that for about a minute and a half, which is not long, and a minute and a half is a long time at the bottom of a mine.
 
-“They are cuts,” she said. “Not mine. Older. You can put a chain in and it will go in about four inches and come out on a shoulder, like a joint, and I have never seen a man make one and I have worked beside about nine men who could make one in their sleep.”
+“They are cuts,” she said. “Not mine. Older. You can put a chain in and it will go in about four inches and come out on a shoulder, like a joint, and I have never seen a man make one and I have worked beside a dozen men who could make one in their sleep.”
 
 ---
 
@@ -60,7 +60,7 @@ Which is the whole of it. The Seat’s ninth line and the chain-book’s elevent
 
 He wrote it in the penny exercise book and then read it back, because the habit of reading a figure back in front of the people who are going to have to live in it is the only instrument he has ever had and it is not enough.
 
-“Nine degrees and a quarter off the Anner’s own heading, at more than four hundred and six feet, in the floor along the eleventh chain of the oldest trench, in a straight line from the red stone to the low end, and the six cuts are in that line and are older than the chain-book page that found them, and the drain that was aimed along them is a hundred and ten years older than nothing and a hundred and ten years younger than the floor, and the man who aimed it is not in either book and is not in this basin.”
+“Nine degrees and a quarter off the Anner’s own heading, at more than four hundred and six feet, in the floor along the eleventh chain of the oldest trench, in a straight line from the red stone to the low end, and the six cuts are in that line and are older than the chain-book page that found them, and the drain that was aimed along them is the later thing by a span that this basin has no instrument for naming, and the man who aimed it is not in either book and is not in this basin.”
 
 ---
 

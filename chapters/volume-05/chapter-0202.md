@@ -22,7 +22,7 @@ He put the board down on the near side of the fourth pan and came and sat on the
 
 “No.”
 
-“Then there is nobody here you have come to see, and you have come up a bank for water, and the water is there.” He nodded at the bladder. “And I am going to tell you about the notches, because I have been telling people about the notches for thirty years and about nine of them stayed, and the other hundred and fifty went to the Sallow with my name on a heap of stones, and there is nobody in this basin who knows that the count has been out for a hundred and fifty days.”
+“Then there is nobody here you have come to see, and you have come up a bank for water, and the water is there.” He nodded at the bladder. “And I am going to tell you about the notches, because I have been telling people about the notches for thirty years and about nine of them stayed, and the other hundred and forty went to the Sallow with my name on a heap of stones, and there is nobody in this basin who knows that the count has been out for a hundred and fifty days.”
 
 Nobody said anything, and none of them had come up the bank for the count, and that is exactly how it happened.
 
@@ -78,7 +78,7 @@ He said it without any bitterness in it at all, and then he did the thing he had
 
 Sera Quill wrote nothing down. She had a book in her coat and she did not take it out, and Ilyan Vester noticed that she did not and did not say anything about it, and it was the first time in nine days he had seen her leave a thing unwritten on purpose.
 
-A hundredweight of that salt comes to the pans at a pound and fourpence and the pans above Coldbeck are the only place in this basin that a person can count a thing by and be sure of it, and about a hundredweight a week goes down the bank on a barrow in the season, which is five pounds and four a year for the man who does the barrow, and he is seventy-one, and his name is on no document anywhere, and nobody in this volume has met him and nobody in this volume will.
+A hundredweight of that salt comes to the pans at a pound and fourpence and the pans above Coldbeck are the only place in this basin that a person can count a thing by and be sure of it, and about a hundredweight a week goes down the bank on a barrow in the season, and a hundredweight is twenty-four shillings, and twenty-four shillings fifty-two times is sixty-two pounds and eight, and the man who does the barrow gets five pounds and four of it and he is seventy-one, and his name is on no document anywhere, and nobody in this volume has met him and nobody in this volume will.
 
 The day was said once that morning, in Fen Tregerran’s own mouth, while he was putting the board down, and it was the hundred and fiftieth out of the water-book, and it was the second time in two days that a number out of that water-book had been said out loud to a stranger, and both times it had been in answer to a question and not as a thing anybody was giving anybody.
 
