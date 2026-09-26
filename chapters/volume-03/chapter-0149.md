@@ -6,7 +6,7 @@ It is not glass, and that is the entire reason it can be pulled.
 
 A pane is a picture of one morning taken by a man standing beside an arch, and it weighs what a pane weighs, and it hangs in an oak frame on the north wall of a room a mile and a flight of stairs up a hill, and it has not been out of that building in nineteen years, and it cannot be crossed out, and a thing that cannot be crossed out is a thing that cannot be pulled.
 
-This is three sheets of paper, written out longhand, three times over, in three hands, with no plate and no form and nothing printed off anything, and it can be crossed out, and one of the three women on it is going to cross her own out with a pen in about four months, in a room with a door shut, and nobody will be able to stop her and nobody is going to try.
+This is three sheets of paper, written out longhand, one in each of three hands, with no plate and no form and nothing printed off anything, and it can be crossed out, and one of the three people on it is going to cross her own out with a pen in about four months, in a room with a door shut, and nobody will be able to stop her and nobody is going to try.
 
 It went into the record like this, and the System put it in front of him at about the fifth bell with the light going in a shed, and what it gave him was the three sheets and one fact about them and nothing else.
 
@@ -33,7 +33,7 @@ It went into the record like this, and the System put it in front of him at abou
 
 Not one of the three asked him what that was, and he did not say, and a man of sixty-one was at the bench and a woman was at the cold arch, and the whole of what that room had done in the time it took to make a pot of tea was put three true things on three pieces of paper and refused, correctly, to put them in one.
 
-No bench sat. No council convened, and the vote of a council of nine was not repeated, and nobody in any room said a figure out loud that had been said in a room in a season four years back. The guild is in it and has not been defeated and is not going to be defeated this season, because the guild was right about that wall in the season it laid it and is right about it now, and the danger is real and is there this morning.
+No bench has sat about it and no council has been asked, and the guild is in it and has not been defeated and is not going to be defeated this season, because the guild was right about that wall in the season it laid it and is right about it now, and the danger is real and is there this morning.
 
 The money is not there. Nobody pretended it was. There is no stone in this and no cart and no day bought with anything, and the season’s money is not in the arch, and the guild will sound that wall at its own cost in its own season and it will not be this season, and a man of fifty-eight in a lane said every part of that out loud and said the guild was right, and asked for it to be said by him and in the open, and he will not want to hear it said twice.
 
@@ -55,11 +55,11 @@ He stayed because there was tea, and because he had a leg, and because the shed 
 
 So he said it, out loud, in the ordinary way, in a shed, to two people.
 
-“I arranged something three days ago at this bench and I did not put it in writing and I have not mentioned it since and you have not asked me about it, and I am going to mention it now because there is going to be a claim in a bundle and the claim has to live somewhere and I arranged where it lives and I arranged it with you three days ago in about four seconds and you said yes to the fire.”
+“I arranged something two days ago at this bench and I did not put it in writing and I have not mentioned it since and you have not asked me about it, and I am going to mention it now because there is going to be a claim in a bundle and the claim has to live somewhere and I arranged where it lives and I arranged it with you two days ago in about four seconds and you said yes to the fire.”
 
 Sabra Trew took the bar out of the fire and stood with it and did not put it down and did not look up.
 
-“Yes,” she said. “I said yes to the fire. I have been waiting three days for you to come up that road and say it out loud, and I have thought about it every day and I have not said one word to him about it, and I am not going to now, and you have about four seconds before I stop talking to you both, and I would use them for a thing that is true.”
+“Yes,” she said. “I said yes to the fire. I have been waiting two days for you to come up that road and say it out loud, and I have thought about it every day and I have not said one word to him about it, and I am not going to now, and you have about four seconds before I stop talking to you both, and I would use them for a thing that is true.”
 
 “I arranged it before you knew what it was,” he said. “That is what I have come to say. I asked you whether you would keep three pages because there is nobody else on four hundred miles of this coast who can put two lists side by side and say where one of them runs out, and that is the reason, and the reason is true, and I did not tell you what keeping them meant, and I knew what it meant when I asked, and I asked you anyway.”
 
@@ -77,7 +77,7 @@ She put the bar down on the floor, which she does not do.
 
 “And then I will be the person who keeps it. Not you, who is four hundred miles behind me and cannot be got at. Not him, who is sixty-one and has a bench and a wall and is the man at the fire and has been for forty-one years, and everybody on this coast already knows him, and everybody would come to him about a thing on a bench and would not come to me about a thing in a box.
 
-“They would come to me because I am the one holding it. And I have stood at a second fire six days in seven for three years and I have not answered a letter of my own in four and I am paid nothing, and I am twenty-four and I have never once in my life been asked to stand behind anything, and you have not asked me that either, and you have arranged it, and I have found out about it three days late from a man who has been thinking about how to say it.
+“They would come to me because I am the one holding it. And I have stood at a second fire six days in seven for three years and I have not answered a letter of my own in four and I am paid nothing, and I am twenty-four and I have never once in my life been asked to stand behind anything, and you have not asked me that either, and you have arranged it, and I have found out about it two days late from a man who has been thinking about how to say it.
 
 “The work I do is a fire and a bar and a wall of brick and a mark a week, and it is six days in seven, and if I take this then I have taken something I cannot put down when I am tired, and I will be tired, and there is no day on this coast when a person is not tired, and this coast has spent four hundred years putting a person who is tired in front of a thing and calling it a custom.
 

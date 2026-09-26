@@ -2,9 +2,9 @@
 
 The seventh of the ninth tide is a bar day and the flat takes nine, and the sea was over the crown of the bar before the light and the whole two hundred yards of gravel at the north end was under it, and the water owned the bar and did what it does three days a week, and about seventy people were on nine hundred yards of shingle by the fourth bell.
 
-Nobody stood on the stone. It comes round twice a week and the last person to stand on it was a carter of thirty-three on the fourth of the seventh tide, and that is three tides back, and there have been four days since on which the stone was standing there with nobody on it, and this was the other sort of day, and the woman who stands on it does not know this is the sort of day she does not know, and there was not one question anybody could have put there on that shingle and not one person on it would have walked up to try.
+Nobody stood on the stone. It comes round twice a week and the last person to stand on it was a carter of thirty-three on the fourth of the seventh tide, and that is two tides back, and there have been four days since on which the stone was standing there with nobody on it, and this was the other sort of day, and the woman who stands on it does not know this is the sort of day she does not know, and there was not one question anybody could have put there on that shingle and not one person on it would have walked up to try.
 
-There was one thing left to settle and it was the whole of what the thing was, and he had spent two days failing to settle it and had not told anybody that he was failing.
+There was one thing left to settle and it was the whole of what the thing was, and he had spent a day failing to settle it and had not told anybody that he was failing.
 
 The three of them had each said yes to a page of their own, and the three pages were in a bundle going up the coast road, and the question had come out of a room a mile and a flight of stairs up the hill on the sixth evening from the one person of the three who could not leave her counter, and it had been one sentence and she had said it standing up.
 
@@ -16,9 +16,9 @@ So the answer to what it costs to pull it had to be worked out by people who wou
 
 ---
 
-It started at the hard at about the third bell, because a boat’s carpenter of fifty-two was planing a garboard and had a hull on his ways and a slip of his own a long way inside the gravel.
+It started at the hard at about the third bell, because a boat’s carpenter of fifty was planing a garboard and had a hull on his ways and a slip of his own a long way inside the gravel.
 
-“You have asked me a question and I have got nothing,” said Pell Cawley, without stopping. “I have been sitting on that for a day and a half and I keep arriving at the same place and it is this. A man has to be able to pull it. Not the guild and not the office and not nine men in a room. A man. Any man who goes over that flat. And the minute you say any man, then it is a day, because a carter cannot pull it standing in a lane and a stall-holder cannot pull it between two customers.
+“You have asked me a question and I have got nothing,” said Pell Cawley, without stopping. “I have been sitting on that since last night and I keep arriving at the same place and it is this. A man has to be able to pull it. Not the guild and not the office and not nine men in a room. A man. Any man who goes over that flat. And the minute you say any man, then it is a day, because a carter cannot pull it standing in a lane and a stall-holder cannot pull it between two customers.
 
 “And then it is worse than a day, and this is the part I have not got round. It has to be said out loud, in the open, on this flat, at the head of it, with about seventy people on it, and not one word of it written for him, because a man who pulls a thing by letter is a body, and you have gone a week without a building on the end of this on purpose.
 
@@ -42,7 +42,7 @@ A woman of forty-eight at a stall four hundred yards off said the next part and 
 
 “And the last part, and this is the one I have been turning over since the second of a tide and it is why I said what I said in that lane and I will say it again: he cannot pull it for anybody. He cannot pull it for the people who cannot get over that flat on a bad morning. He cannot pull it on behalf of the eleven households or the boy with the lead or a woman with a handcart. He can pull it for himself, and if he does that then it is his grievance and it is a real one, and it is the only shape the thing has.”
 
-Nobody objected, which on this coast is not a consent and Corrie Tallow had said so out loud three days ago in about nine hundred words, and about four of the people standing there had heard that and one of them had written it on a board in a drawer a mile up a hill.
+Nobody objected, which on this coast is not a consent and Corrie Tallow had said so out loud five days ago in about nine hundred words, and about four of the people standing there had heard that and one of them had written it on a board in a drawer a mile up a hill.
 
 ---
 
@@ -72,7 +72,7 @@ At the turn, in the ordinary way, as it is every seventh, the lamp-oil man at th
 
 It is a tariff in four lines and it is not written down and it is about a hundred years old or thereabouts and it is not a court and it is not an instrument and it settles nothing, and nobody put a figure out of it, and nobody appealed with it, and about nine people on that shingle heard it and had heard it a hundred times before and would hear it a hundred times after, and it was not the subject of anything at all that day.
 
-At about the ninth bell a man of thirty-three, who had been standing at the head of the flat since the fourth bell with his beasts’ heads up and a load of deals behind him waiting for the flat to take the water off, came down about forty yards of shingle on foot and stood four feet off a stranger and said the thing he had been working out for a day and a half and had told nobody, which was that he had heard on the fourth that there was going to be a thing on this coast a person could pull, and that he had thought about it for a day and a half, and that he was not going to do it, and why.
+At about the ninth bell a man of thirty-three, who had been standing at the head of the flat since the fourth bell with his beasts’ heads up and a load of deals behind him waiting for the flat to take the water off, came down about forty yards of shingle on foot and stood four feet off a stranger and said the thing he had been working out for a night and had told nobody, which was that he had heard on the sixth that there was going to be a thing on this coast a person could pull, and that he had thought about it for a night, and that he was not going to do it, and why.
 
 “I spent the only question I have ever had on this coast on a piece of paper,” said Wend Garrow, “and a woman on that stone told me out loud in front of seventy people that I had not spent it on the water, and she was right, and I have not been able to put it anywhere for a month, and there is nowhere on this coast to put a thing that has happened to a man.
 

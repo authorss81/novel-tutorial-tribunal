@@ -4,7 +4,7 @@ The seventh of the eighth tide is a bar day and the flat takes nine, and the wes
 
 Nobody was hurt. That is the first thing about it and it is the reason a coast of about nine hundred people got through a night about it. No bell was rung and no boat was lost and no man was in the water at any point in it, and at the fourth bell a carter said to a second carter that it was a good seventh, and the second carter said it was a good seventh, and that was the whole of what was said about it on nine hundred yards of shingle for the better part of two days.
 
-At about the turn Halse Tarrant went out along the top of the wall with a bar in his hand. He went out because his hour and a quarter of ebb was gone and the sand had come up into that deep and filled it level, and on a fourth, a sixth and a seventh the whole of that wall stands up out of the sand, and he had about an hour before the flood came back in behind it and made nine foot of green water over the whole of it again and put every boat on this coast out of reach of it until the fourth of the next tide, which is three days off.
+At about the turn Halse Tarrant went out along the top of the wall with a bar in his hand. He went out because the hour and a quarter of hard ebb was nearly spent and the sand had come up into that deep and filled it level, and on a fourth, a sixth and a seventh the whole of that wall stands up out of the sand, and he had until the ninth bell before the flood came back in behind it and made nine foot of green water over the whole of it again and put every boat on this coast out of reach of it until the fourth of the next tide, which is four days off.
 
 He went out to look at the eleven yards, and he was on it for about half an hour, and what he did on it was walk it.
 
@@ -50,7 +50,7 @@ Nobody said anything. She went on sorting a coil that did not need sorting.
 
 “Now I am going to tell you what that costs and I am telling you because you are stood there and I have not got anybody else to tell, and I am not being kind about it and I am not unkind either.
 
-“A man with a lead line and a boat can sound it. A man with a boat can go under it on a seventh if the seventh behaves, and a seventh behaves about twice in five, and the rest of them is a man in nine foot with the man being whoever is holding the rope. That is one day. One day of a man with a boat, on a day the sea owns the bar, and the day is not mine because I have nine of them and the nine are not for this.
+“A man with a lead line and a boat can sound it. A man with a boat can go under it on a seventh if the seventh behaves, and a seventh behaves about eleven times in twenty, and the rest of them is a man in nine foot with the man being whoever is holding the rope. That is one day. One day of a man with a boat, on a day the sea owns the bar, and the day is not mine because I have nine of them and the nine are not for this.
 
 “And that is the whole of it and the whole of it is not the boat. It is that if I put my name to this then there is a thing on this coast with my name at the bottom of it, and I have had eleven years of a thing nobody has asked me the name of, and a name on a wall is not a wage. It is not a wage and it does not pay for oil. What it does is make a person able to point at me and say, that one, she was the one, and there is a day coming when that will be worth something to somebody and a day coming when it will cost me something, and I would rather have it on the day I chose it than have it put there by a man who needed a boat.”
 

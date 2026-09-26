@@ -1,6 +1,6 @@
 # Chapter 150: Beneath the Weeks
 
-The second of the tenth tide is a good day and the flat takes six, and Ilyan Vester had been on that coast fifty-nine days, and he walked two miles up the coast road at about the second bell with the weight on his good side and got to a shed at about the half past.
+The second of the tenth tide is a good day and the flat takes six, and Ilyan Vester had been on that coast fifty-nine days, and he walked two miles up the coast road at about the second bell with the weight on his good side and got to a shed at about the third bell.
 
 It took him about an hour and a quarter, and it had taken him an hour and a quarter on the third of the ninth tide going the other way with nothing in his coat he had not had before, and the leg had been his own for about four hours on the fourth of the third tide in this building and had not been his own on any day since that one, and it was not his own now, and he told nobody on the road and nobody in the shed.
 
@@ -40,7 +40,7 @@ Nobody said anything for about a minute, and the light came off the water outsid
 
 Then the rendering came up on him, in a shed, with his hand flat on about two feet of brick, and it came up the way it comes up, at the height and at the distance it has been at since the third of the second month in a city four hundred miles behind him: the boards, and the table the size of a table a hand could go on, and the lamp with the wick down, and the window with weather on the outside of it that was not this weather, and four people at the table and one of them about forty-four with her back to him.
 
-It did not move. He could not look away from it with two feet of brick under his hand, and it cost him what it costs, and the leg went at the same moment from the hip down, all of it, and did not come back inside the length of a shed and came back the rest of the way worse, and he put his weight against the bench and stood there for about four minutes and did not say anything about it, and a man of fifty-eight two hundred yards down that coast has never been told and a man of sixty-one in this room has not noticed and a woman at the fire has her back to both of them.
+It did not move. He could not look away from it with two feet of brick under his hand, and it cost him what it costs, and the leg went at the same moment from the hip down, all of it, and did not come back inside the length of a shed and came back the rest of the way worse, and he put his weight against the bench and stood there for about four minutes and did not say anything about it, and a man of fifty-eight two miles down that coast has never been told and a man of sixty-one in this room has not noticed and a woman at the fire has her back to both of them.
 
 Nobody was told, then or afterwards, and about nine people on this coast have now watched something happen to him on a road, on a shingle or in a boat, and not one of them has ever mentioned it.
 
@@ -88,7 +88,7 @@ Nobody answered her, and she went on, because she was not asking anybody.
 
 “This coast has people in it who can say no. That is the thing I have never been able to account for and I have been trying to account for it since I was about eleven years old and I am the woman who cuts the marks in this building, so I have had a good deal of time to notice it. There is a stone at the head of the flat and a woman stands on it two days a week and she answers about the water and nobody may ask her a second, and nobody has ever written down that she does it, and nobody has ever asked her how she came to be allowed to.
 
-“A hundred years, near enough. And there are four hundred years of weeks on that wall and every single one of them has a gap in it where a week was not kept, and a gap in a list of weeks is not a mark, it is nothing, and I have spent three years being the one person on this coast who can lay two lists beside each other and say where each of them stops, and in the whole of that there is no column anywhere for a thing that was not kept.
+“A hundred years, near enough. And there are four hundred years of weeks on that wall and there are gaps in the run of them where a week was not kept, and a gap in a list of weeks is not a mark, it is nothing, and I have spent three years being the one person on this coast who can lay two lists beside each other and say where each of them stops, and in the whole of that there is no column anywhere for a thing that was not kept.
 
 “So a coast where a person can say no and a coast where a thing can be left out without anybody noticing are the same coast, and they have been the same coast for a hundred years, and it has never once occurred to me before this evening that that is a thing a person would have had to put in.
 
@@ -102,7 +102,7 @@ And nothing on that coast answered it. Not the System, which had recognised a si
 
 At about the ninth bell he went down the coast road and across the flat and the light was going and the chain was up and the sixth crossing was in the middle of nine hundred yards of shingle with the water off it.
 
-A bundle of three sheets of paper had gone up that road two hundred miles on the seventh of the ninth tide, in a cart, with nothing else in it. It is not sealed. It is not in a locked room. It has three women’s names on it and his own at the foot of the third sheet in his own hand, and it is a thing any clerk in that building can ask for and be handed and copy and carry to a man on a shore he has never stood on. He knew all of that on the day he tied the string round it and he knows it now, and it will be just as true on the day a man he will never meet asks for it, and there is no arrangement of this in which it is not.
+A bundle of three sheets of paper had gone up that road two hundred miles on the seventh of the ninth tide, in a cart, with nothing else in it. It is not sealed. It is not in a locked room. It has three names on it, one woman, a man and a woman, and his own at the foot of the third sheet in his own hand, and it is a thing any clerk in that building can ask for and be handed and copy and carry to a man on a shore he has never stood on. He knew all of that on the day he tied the string round it and he knows it now, and it will be just as true on the day a man he will never meet asks for it, and there is no arrangement of this in which it is not.
 
 A penny exercise book was in the inside pocket of his coat with six torn-out pages in it, and the sixth of them had a date on it and the words that it was his and a reason on it, and the reason on it was the one he could have put his hand up to in a room, and it was not the reason, and he had put the page back in with the other five, and that was the whole of what had happened to him in fifty-nine days.
 

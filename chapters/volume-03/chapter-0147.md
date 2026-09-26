@@ -20,7 +20,7 @@ Then he waited until the sixth, at about the turn, on a bar day with the sea sta
 
 “I am not going to put them side by side,” said Ilyan Vester.
 
-“Good,” said Hal Bevan. “Then you have understood more about this coast in a fortnight than a man in a good coat understands in a year, and I have got no more, and that is nine crossings.”
+“Good,” said Hal Bevan. “Then you have understood more about this coast in the time you have been standing on it than a man in a good coat understands in a year, and I have got no more, and that is nine crossings.”
 
 ---
 
@@ -50,7 +50,7 @@ She said it fast and she did not stop there, and Ilyan Vester stood in a yard an
 
 “Tell me.”
 
-“Not a page with three people on it. Three texts. Yours is a page of its own and it is yours and it goes in on its own and it is not inside anybody else’s and it does not come before anybody else’s and it does not come after. It says the day you said it and the place you said it in and that you were alone when you said it. And it does not say what the other two said, and it does not say their numbers, and it is not going to be read next to theirs, because I cannot stop a clerk reading a page and I can stop the two of them being on the same page.
+“Not a page with three people on it. Three texts. Yours is a page of its own and it is yours and it goes in on its own and it is not inside anybody else’s and it does not come before anybody else’s and it does not come after. It says the day you said it and the place you said it in and who else was standing there when you said it, and it does not say that any of them was asked, because none of them was. And it is in your hand and not in mine. And it does not say what the other two said, and it does not say their numbers, and it is not going to be read next to theirs, because I cannot stop a clerk reading a page and I can stop the two of them being on the same page.
 
 “The other two are the same. Three sheets. Three names at three separate places. And nothing at the top of any of them that says the three of them are about the same water, because nobody has asked the three of you that and I am not going to ask you.”
 
@@ -60,7 +60,7 @@ Sorrel Gannock stood in her own yard for about half a minute.
 
 “All right.”
 
-“A page of its own is not a record of nothing. Everybody on this coast thinks a page of its own is a record of nothing, because a woman forty miles up the coast took a copy of a list of weeks home in a bundle and wrote on it that it is a record of nothing, and she was right about that copy and that copy is a record of nothing.
+“A page of its own is not a record of nothing. Everybody on this coast thinks a page of its own is a record of nothing, because a woman a hundred and forty miles up this coast took a copy of a list of weeks home in a bundle and wrote on it that it is a record of nothing, and she was right about that copy and that copy is a record of nothing.
 
 “Mine will not be a record of nothing, because it will have a day on it and a place on it and my name on it, and it will say what a person in a boat can be shown and what she will not put a number on, and a number somebody can act on has to come off a page or it is a man talking in a yard for a fortnight.
 
@@ -96,11 +96,11 @@ And that was the whole of it. He did not ask her what it involved and she did no
 
 ---
 
-The room a mile and a flight of stairs up the hill, at about the sixth bell, with the door shut, which is the second time in sixty days that anybody has had a conversation in that room with the door shut for its own sake.
+The room a mile and a flight of stairs up the hill, at about the sixth bell, with the door shut, which is the second time in five days that anybody has had a conversation in that room with the door shut for its own sake.
 
-“Put it in,” said Bettany Rook, before he had said it. “I have been waiting four days for somebody to ask me that and I am not going to make a man who has walked a mile and a half say a sentence twice.
+“Put it in,” said Bettany Rook, before he had said it. “I have been waiting two days for somebody to ask me that and I am not going to make a man who has walked a mile and a half say a sentence twice.
 
-“And I am going to say what goes on it and what does not, and I have had four days and I have not asked anybody.
+“And I am going to say what goes on it and what does not, and I have had two days and I have not asked anybody.
 
 “What goes on it: a duty, and my name on it, and not an office. And four lines from the guild, word for word, with the fourth line underlined, because that is the line which cost the guild nothing to write, and it is the only thing that office has sent to this coast in the best part of two years that was not a figure of money, and it belongs in a record of this more than anything anybody is going to say about that wall.
 
@@ -110,9 +110,9 @@ The room a mile and a flight of stairs up the hill, at about the sixth bell, wit
 
 Then the two of them made the thing, and it took most of the evening.
 
-He wrote it out longhand on three leaves torn out of the back of the penny exercise book he carries in his coat, which took him the better part of an hour and a half and used up nine sheets of paper and all of the ink he had brought with him, and he folded the three separately and put a string round them and wrote the date on the outside of it and nothing else, because he wanted it to be a thing a person could pick up and read and not a thing that had been handled.
+He wrote the three heads longhand on three sheets of his own, one for each, and the three accounts that went on them were in three other hands and not in his, one of them given in a yard two miles off and one of them given in a room a mile up a hill, and the whole of it took him the better part of an hour and a half and the last of the ink he had brought with him, and he folded the three separately and put a string round them and wrote the date on the outside of it and nothing else, because he wanted it to be a thing a person could pick up and read and not a thing that had been handled.
 
-The top of the first sheet said what the first sheet was and when and where and that the person was alone. The top of the second said the same. The top of the third said the same. There was no sheet on top of the three of them. There was no sentence at the top of the three of them, and it took him about a minute and a half every time he started to write one and about a minute and a half to stop.
+The top of the first sheet said what the first sheet was and when and where and who else was standing there when it was said. The top of the second said the same. The top of the third said the same. There was no sheet on top of the three of them. There was no sentence at the top of the three of them, and it took him about a minute and a half every time he started to write one and about a minute and a half to stop.
 
 He had done that before, in a net loft at the north end on the third of the sixth tide, in about nine minutes, and it had held a tide and cost a carter of thirty-three a day and a day’s hire, and every word of it had been out of one of three true accounts, and the three had been in three different places, and nobody had been asked to agree to anything, and it was legal.
 

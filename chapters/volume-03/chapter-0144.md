@@ -12,7 +12,7 @@ Hollis Thrale was at the bench with his hands on the frame.
 
 “I would like you to say it out loud in the shed anyway, because I am the only person on this coast who has ever been asked a question in this shed and I would like to know what it is like the second time.”
 
-“It is the same question I asked a woman on a shingle four days ago,” said Ilyan Vester. “Would you like to be the one standing there.”
+“It is the same question I asked a woman on a shingle three days ago,” said Ilyan Vester. “Would you like to be the one standing there.”
 
 “No,” said Hollis Thrale, and then he stopped, and put his hand flat on the bench, and took about four seconds.
 
@@ -22,7 +22,7 @@ Hollis Thrale was at the bench with his hands on the frame.
 
 “And I am going to tell you now what I found out about two years ago, standing exactly where you are standing, and you may do what you like with it. A record is a thing a person has to stand behind. That is the whole of what a pane is. It is not the glass and it is not the guild and it is not the frame. It is the man who stood beside the arch on one morning with the weather he got, and the four hundred people who stand at that fire after him, and the guild has been borrowing my standing for three years on that wall and it does not know that it is borrowing it.
 
-“Which means that the question you have just asked me is the only question anybody on this coast has ever asked about a record, and nobody has ever asked it of the man who makes them, and a man of sixty-one who has been the man at the fire for forty-one years is not a person anybody thinks to ask. You are four days late. You are not too late. Four days is nothing. Nineteen years would have been something.
+“Which means that the question you have just asked me is the only question anybody on this coast has ever asked about a record, and nobody has ever asked it of the man who makes them, and a man of sixty-one who has been the man at the fire for forty-one years is not a person anybody thinks to ask. You are three days late. You are not too late. Three days is nothing. Nineteen years would have been something.
 
 “That is not an excuse. It is a description, and I have got very good at telling the difference since the woman at this fire put it in front of me in her own words and would not be talked out of it, and she was not asked for it either, and I have not paid her for that and she is not owed it for it and I have never mentioned it in this shed.”
 
