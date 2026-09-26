@@ -2,7 +2,7 @@
 
 Nothing happened for three weeks, and the three weeks are part of it.
 
-A bench of four in a district four miles from a bridge had a rate for a load in its book and no money, and a number of loads in a barrow in a hauler's head, and two debts in one unit and neither of them in any coin. A man in a building with no name on the door had a day book with nine hundred and forty forms in a box on the fourth shelf and a quarter of a sentence in a record and four days of sweeping entered against his name in the same column as the work. A clerk of thirty-eight had a pitch back at the bottom of a slipway and nine sentences in a bench of five's book. A recordwright of a public record had nine words with a crease in them, entered under her licence, in a cold room, and had stopped asking a desk questions.
+A bench of four in a district four miles from a bridge had a rate for a load in its book and no money, and a number of loads in a barrow in a hauler's head, and two debts in one unit and neither of them in any coin. A man in a building with no name on the door had a day book with nine hundred and forty forms in a box on the fourth shelf and a quarter of a sentence in a record and four days of sweeping entered against his name in the same column as the work. A clerk of thirty-eight had a pitch back at the bottom of a slipway and nine sentences in a bench of five's book. A recordwright of a public record had ten words with a crease in them, entered under her licence, in a cold room, and had stopped asking a desk questions.
 
 All of that was true on the twenty-eighth of the fifth month and all of it was still true on the twenty-eighth of the sixth, and on the nineteenth day of the sixth a man of thirty-one wrote down the only sentence he had about it, and the sentence is in his own book and in no record but his, and it is that the whole of the last four months of this case arrived, and none of it was secure, and the difference between the two facts is a room over a pump where a page is kept by a person who cannot appeal from one word of it.
 
@@ -148,7 +148,7 @@ Nobody improved it, and the bench of four in that district did four things on th
 
 “Six. A public answer that cost four pounds fifteen for twenty-two names in four months, entered against a road fund four miles away, which is a tenth of what is left in that year.
 
-“Seven. Nine words off a leaf four hundred years old with a crease in them, entered under a licence in a building with no name on the door, in a record a poor district cannot be sent for and cannot be sent anything.
+“Seven. Ten words off a leaf four hundred years old with a crease in them, entered under a licence in a building with no name on the door, in a record a poor district cannot be sent for and cannot be sent anything.
 
 “Eight. A form with a word at the top of it found in a box and in nine districts, and a pitch at the bottom of a slipway given back, and a clerk of twenty-six years who entered the whole of it against herself and a clerk of thirty-one who has asked five times to be relieved of a print authority and has been refused five times and has stopped asking.
 

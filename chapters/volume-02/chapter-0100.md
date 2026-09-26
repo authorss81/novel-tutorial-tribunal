@@ -59,7 +59,7 @@ She read the lid first, because the lid is read before anything else, and it is 
 
 And it has not gone up. That is the finding of the first of the seventh month and it is not a disappointment, and it was never going to be anything else, and the bench entered on the seventeenth of the fourth month that it cannot set the rate again this year with three of its four or with four, because it has no money, and that the reason it cannot set the rate again is the same reason it set it.
 
-Then the entries, which is a page in a room over a pump, and about two hundred people standing in the cold on a mud bank to hear about a woman's slate, a pitch at the bottom of a slipway, ten words off a leaf, and a quarter of a penny against a woman of sixty-one.
+Then the entries, which is a page in a room over a pump, and about two hundred people standing in the cold on a mud bank to hear about a woman's slate, a pitch at the bottom of a slipway, ten words off a leaf, and an eighth of a penny against a woman of sixty-one.
 
 She read the rate for a load. She read it in the district's own hand, word for word, twice, because it is the shortest instrument this case has produced and it is the only one that says plainly that it has not done the thing it was made to do.
 
@@ -93,7 +93,7 @@ Nobody improved it. About two hundred people went up the same bank to get to the
 
 And then a woman of sixty-one asked a question, and nobody had asked her, and she had a right to ask and had never once used it.
 
-The rule of the twenty-ninth of the fourth month says the book is open at the pump two days a week at the fourth bell, and any person of this district may ask for it to be read aloud to them, and a person so asking is not to be asked why. It cost a boy of nineteen an hour a week that nobody pays, and the bench entered that he is unpaid so that a clerk in four years does not read a generous district. She had never used it. Not once in three months. She cannot read the book, she has known that since the seventeenth of the second month, and she has said nothing.
+The rule of the twenty-ninth of the fourth month says the book is open at the pump two days a week at the fourth bell, and any person of this district may ask for it to be read aloud to them, and a person so asking is not to be asked why. It cost a boy of nineteen an hour a week that nobody pays, and the bench entered that he is unpaid so that a clerk in four years does not read a generous district. She had never used it. Not once in two months. She cannot read the book, she has known that since the seventeenth of the second month, and she has said nothing.
 
 Ottoline Fenn is sixty-one. She takes in washing at the upper end of the street, four women wash with her and she is the one who gets up first, and she has drawn at that standpipe for nineteen years with a yoke and two buckets, four times a day. Since the sixth of the fourth month she has filled at a pump four miles up the fen road at the fourth bell, before the count, and walked back, which is most of a morning.
 

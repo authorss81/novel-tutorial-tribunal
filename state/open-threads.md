@@ -33,7 +33,7 @@
 - What is the relationship between Sava Kest, the C—2 routing code, the bridge plate, and Ilyan's pre-arrival report. **The standing authority of preservation has said three times, in the same hand, that it can prove a rule was printed and cannot hold a person, and it has been asked a question about paper for the first time in four years, and it will not be asked a fourth time.**
 - What wrote a mark in a guild's count book inside a field, and what does the Bench's own translation do with a line nobody entered.
 - **Is a right with no receiving office a right? Is a right whose receiving office is a person's back a right? Is a right that costs a person an hour every week a right, or is it nineteen and unpaid?** And now: is a form a rule, and if a form is a habit with a seal on it, whose habit is it, and what happens to a paper when the habit is believed.
-- A rendering with a vantage, and the vantage is a room. What is in a room, four miles from anywhere, that somebody has made for a person. **Unmoved for ninety-nine days.**
+- A rendering with a vantage, and the vantage is a room. What is in a room, four miles from anywhere, that somebody has made for a person. **Unmoved. The door in the picture has been at the same height and the same distance since the third of the second month, and Chapter 92 has him counting it at ninety days on the fifth of the fifth. That is Ilyan's own count and it is the only figure the manuscript gives; the number ninety-nine is not in any chapter and must not be used.**
 
 ## Relationship and political promises
 

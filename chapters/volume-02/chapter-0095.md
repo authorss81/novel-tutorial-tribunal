@@ -48,7 +48,7 @@ A family claim of six years, unfiled, needs a page. A page is the thing a matter
 
 And it was not a technicality on the second of the fifth month, when it was an abstract question about a hauler's question. It became a technicality — it became a wall with a door in it, the phrase she used in front of a trialwright — the moment she put a fragment of a page in a record on the twelfth, because a record is not a matter, and she entered it as a record, and she was right, and the record is hers and hers alone and it is in a book in a cold room four miles from a city, and the claim is not a record.
 
-She can hand a district nine words with a crease in them. She cannot hand her own family a page. And the difference between those two things is not a loophole and it is not a technicality and it is not a thing anybody in this city finds flattering: a record is what a person knows and a claim is what a person wants. And a recordwright of a public record may enter the first and may not have the second, and she has spent six years being proud of the sentence that says so.
+She can hand a district ten words with a crease in them. She cannot hand her own family a page. And the difference between those two things is not a loophole and it is not a technicality and it is not a thing anybody in this city finds flattering: a record is what a person knows and a claim is what a person wants. And a recordwright of a public record may enter the first and may not have the second, and she has spent six years being proud of the sentence that says so.
 
 Which means that the fragment came, and the claim did not, and they are the same two halves of a woman, and she is the woman, and there is nobody else.
 
@@ -114,7 +114,7 @@ So the fragment is in a building that the district cannot reach, in a book that 
 
 A record of a page is a thing a person can be sent for. She wrote that on the twelfth. What she had not written on the twelfth is the other side of it, and here it is, and it is the whole of what she has done in four months in two sentences: a record of a page is also a thing that cannot be sent anywhere.
 
-> **SO I HAVE THE ONLY COPY OF NINE WORDS THAT NOBODY IN THIS CITY HAS, AND THE ONLY PERSON WHO COULD ASK FOR IT TO BE READ ALOUD AT A PUMP IS A WOMAN WHO CANNOT APPEAL FROM ONE WORD OF THE PAGE SHE HOLDS, AND I CANNOT SEND IT TO HER, AND SHE CANNOT ASK ME FOR IT, AND IF I PUT IT IN A LETTER IT IS A MATTER, AND IF IT IS A MATTER IT IS MINE, AND IT IS NOT MINE.**
+> **SO I HAVE THE ONLY COPY OF TEN WORDS THAT NOBODY IN THIS CITY HAS, AND THE ONLY PERSON WHO COULD ASK FOR IT TO BE READ ALOUD AT A PUMP IS A WOMAN WHO CANNOT APPEAL FROM ONE WORD OF THE PAGE SHE HOLDS, AND I CANNOT SEND IT TO HER, AND SHE CANNOT ASK ME FOR IT, AND IF I PUT IT IN A LETTER IT IS A MATTER, AND IF IT IS A MATTER IT IS MINE, AND IT IS NOT MINE.**
 
 On the sixteenth, in a lane at the low end of a street of counting-houses, a man of thirty-one said a thing out loud that he had said out loud twice before, and this is the third time, and it is in a lane and not in a room and he was not asked and he did not go anywhere to say it.
 

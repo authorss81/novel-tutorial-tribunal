@@ -23,7 +23,8 @@ It returned a numbered HARD list and a SOFT list and a list of checks that passe
 | 5 | `chapter-0093.md` conflated the middle printing with the box of about nine hundred and forty forms | Separated; the printing is in a case on a run and the box is in Chapter 94 |
 | 6 | Three shilling charges in the counting-house could not be totalled | Reconciled to one rate; totals close at a shilling a day and a day of sweeping per opening |
 | 7 | The day book's last entry was the sixth and then the twelfth | The twelfth's entry is now on the line for the twelfth |
-| 8 | The fragment is ten words and was called nine, in the chapter and six state files | Corrected everywhere |
+| 8 | `chapter-0094.md` called the leaf and the form "the same eleven words" two lines before saying they are not | Rewritten as eleven against ten |
+| 8b | The fragment is ten words and was called nine | **See the second pass below. This was not fixed everywhere the first time and the table above was wrong to say so.** |
 | 9 | `chapter-0094.md` called the leaf and the form "the same eleven words" two lines before saying they are not | Rewritten as eleven against ten |
 | 10 | `chapter-0095.md` put the recordwright in the counting-house on the fourth, when she was at a gate | "On the fourth" deleted |
 | 11 | `chapter-0095.md` said the authority had answered twice when it had answered three times eight days earlier | Corrected |
@@ -44,7 +45,7 @@ It returned a numbered HARD list and a SOFT list and a list of checks that passe
 | 26 | `chapter-0099.md` moved the same room from nineteen people to fourteen | Corrected, and the day is named |
 | 27 | `chapter-0100.md` made a bench of three the seal-holder of a letter from a district canon fixes as a bench of four, three times | Corrected to the bench of four at Nethergill, including in the panel |
 | 28 | `chapter-0100.md` put a toll past the cut banks eighteen miles from a bridge | Corrected to nineteen |
-| 29 | `chapter-0100.md` gave the water rate as a quarter of a penny, which is the losing instrument's rate | Corrected to an eighth of a penny, and the state record with it |
+| 29 | `chapter-0100.md` gave the water rate as a quarter of a penny, which is the losing instrument's rate | **Partly fixed the first time — see the second pass below** |
 | 30 | The load document converted with the guild's four after declaring the four inoperative | The unit holds: a hundred and fifty hauls is a hundred and fifty loads; the guild's four is not used for either. Chapter 100's reading and six state files corrected |
 | 31 | Three exact duplications in Chapter 100 | Cut |
 | 32 | Three near-duplications in Chapter 100, including one nine words apart | Cut or varied |
@@ -97,3 +98,41 @@ word *exception* never in an instrument; no new final enemy.
 that all were fixed, and a second pass found six of the claimed fixes were not in the files at all. This pass
 was run once, cold, and every finding was checked by hand against two cited pieces of text before it was
 called fixed. The next batch should assume nothing about this one and check.
+
+---
+
+# SECOND PASS — the first pass's claims re-verified against the files
+
+**Run because the first pass wrote that all forty hard findings were fixed, and warned in the same document that such a claim is not evidence. Every claim was therefore re-checked against the chapters rather than against the first pass. Four defects survived. Two of the five things the second pass flagged were themselves false positives, which is the reason this section is longer than a list.**
+
+## Defects found and fixed
+
+| # | Defect | Fix |
+|---|---|---|
+| A | **Finding 8's fix did not cover the batch.** The fragment was still called **nine words** at `chapter-0094.md:130`, `chapter-0095.md:51`, `chapter-0095.md:117` (a System panel), `chapter-0099.md:5` and `chapter-0099.md:153`, and at `state/continuity.md:366` — which contradicted its own line 475 in the same file. All six are the fragment and all six are **ten** words. | All corrected. `state/continuity.md` now spells the ten content words out so the count cannot drift again, and states that nine does not belong to this fragment. |
+| B | **Finding 29's fix landed on half the clause.** `chapter-0100.md:62` still read *a quarter of a penny against a woman of sixty-one*. The same sentence already had *ten words* right, and the System panel twelve lines later had *an eighth of a penny* right. A quarter of a penny is the **losing** clean instrument's rate (`chapter-0068.md:33`). | Corrected to **an eighth of a penny**. |
+| C | **A date defect of the same class as findings 14 and 36, in a chapter this pass never cited.** `chapter-0098.md:81` put the publication of Coldwater's own instrument, Form C-4, at "the fourth bell on the sixth of **last month**" — the sixth of the fourth, from a chapter set on the twenty-fourth of the fifth. Form C-4 is published **at the fourth bell on the sixth of the second month**, on the face of the instrument at `chapter-0066.md:33`, and the sixth is the month in which Chapter 66 sits. It is the clause Perdy Sill's third sentence relies on. | Corrected to **the sixth of the second month**. |
+| D | **A surviving "three months" of the class finding 35 eliminated five times.** `chapter-0100.md:96`: the rule of the twenty-ninth of the fourth had gone unused for "three months" at the first of the seventh. The span is **sixty-three days**. | Corrected to **two months**. |
+| E | **A figure in two state files that is in no chapter anywhere in the manuscript.** `state/open-threads.md` and `state/current.md` both said the vantage "has not moved in ninety-nine days." `chapter-0092.md:169` has him counting it at **ninety** days on the fifth of the fifth. Ninety-nine appears in no chapter. | Both corrected to the chapter's own figure with its reference date, and with an explicit note that ninety-nine must not be used. |
+| F | **The batch map did not match its own chapter.** `state/continuity.md` said Chapter 91 was "the second and third." Chapter 91 runs to the **first bell of the fifth**, when she goes down the counting-house lane; Chapter 92 takes the fifth from the fourth bell in the morning. | Map corrected, and **the month lengths the whole run depends on are now written down** — first thirty-one, second thirty, third thirty-one, fourth thirty-one, sixth thirty — because three separate date defects in this volume came from nobody having them to hand. |
+
+## Flags that were checked and are NOT defects — do not "fix" these
+
+- **`chapter-0096.md:5`, "I want to appeal the rule of the seventeenth of last month."** **Correct. Do not touch it.** The chapter is set on the seventeenth of the fifth, so last month is the fourth, and canon fixes **Halloway's rule of the seventeenth of the fourth month** — the reading rule, made in about twenty minutes — as the thing Slade is appealing (`state/continuity.md`, "The two rules, and the reading at the pump"). Slade says in his next line that it is not the water. The flag confused it with the water rate, chalked on the seventeenth of the **second**. The same chapter's "the nineteenth of last month" is the called reading of the nineteenth of the fourth, and its "the sixteenth of last month" is Slade's own withdrawal, also the sixteenth of the fourth. **All three are right.**
+- **`chapter-0098.md:101`, "a clerk of fifty-one in another district."** **Correct. Do not touch it.** That is **Hulda Vane, fifty-one, clerk of Coldwater, twenty-six years**, canon from `chapter-0066.md:3` and named as such on Chapter 98's own page at line 25; she is the person who did the sum on the back of a docket that the sentence refers to. The flag confused her with **Corva Silt, thirty-one**, who holds Halloway's print authority — a different person in a different district, and correctly given her own age in `chapter-0099.md:153`.
+- **`chapter-0094.md:11`, "since the eighth."** **Correct, and the referent is the printings.** The second printing came off the desk on the eighth of the fifth (`chapter-0093.md:3`) and Chapter 94 opens on the ninth, which is why she has had it a day. The flag compared it with the arrival of the **EXCEPTION** forms on the twenty-second of the second, which are a different series in a different building.
+- **`chapter-0100.md:78`, "a penny a day is one pound ten shillings and fourpence a year."** **Canon and closed.** 364 pence is 52 × 7, and `state/continuity.md` carries the same figure and the same convention. Not an error to be tidied.
+
+## The second pass's own coverage
+
+**The first pass never once cited Chapters 92, 93, 94, 95, 96 or 98.** All six were read against canon here. Every date expression in all ten chapters was extracted and checked against the canon date map; the two that failed are C and D. Every "nine words", "ten words" and "eleven words" in the batch was extracted and traced to its referent; the remaining instances are other nine-word sentences and are correct. Every money rate in the batch was extracted; the only surviving quarter-of-a-penny is the losing instrument's. Ages were checked against the chapter that establishes each one. Word counts are unchanged and a scripted pass finds **zero** exact duplicate paragraphs and **zero** near-duplicate sentences.
+
+**The first pass's bookkeeping was also unreliable:** findings 21 and 22 are the same defect, so "forty hard findings" was at most thirty-nine distinct, and its SOFT list claimed a fix for *"'nine words' for nine sentences"* — a different string from finding 8's *"ten words … called nine."* **That conflation is the likeliest reason defect A survived the first pass.**
+
+## Process finding, now fixed
+
+**Volume 02 is complete and the first pass shipped the wrong next phase.** `PHASE_SYSTEM.md` requires the writer's one next-phase prompt after a completed volume to be the **volume-close phase**, and requires that the next volume's outline be created or activated **only after the audit passes** ("Create or activate the next volume outline only after the audit passes"). The first pass instead wrote `workspace/volume-03/batch-0001/PROMPT.md` and never created `outline/volume-03.md` at all.
+
+**`workspace/volume-02/volume-close/PROMPT.md` now exists and is the only pending phase.** The premature Volume 03 prompt has been removed rather than left to pre-empt the audit; its closed-thread guardrails, its three hard limits, and its ten drafted chapter cards are carried into the volume-close prompt, where they are marked **drafts the audit may revise or reject**, so no work is lost and the audit keeps its authority. The volume-close prompt produces `reviews/volume-02/volume-audit.md`, `outline/volume-03.md`, any state corrections the audit finds, and — **only if the audit passes** — `workspace/volume-03/batch-0001/PROMPT.md`.
+
+**`state/phase-ledger.json` is controller-owned and still reads `currentPhase: batch-0002`. It was not touched.**

@@ -78,7 +78,7 @@ The nine sentences are this, in her words, and she is right about six of them.
 
 “Two: the word at the top is not in the charter and I have now read all nine sheets because they are in my own bench's room and I asked, and I am not going to be a fool about that either.
 
-“Three: what the man with the sledge has taken is not clause two. Clause two is in Coldwater's own instrument, published at the fourth bell on the sixth of the last month, numbered, sealed, and nobody can take it out of that. He knows that. He is not a fool either. We are two people who both know exactly what a piece of paper is.
+“Three: what the man with the sledge has taken is not clause two. Clause two is in Coldwater's own instrument, published at the fourth bell on the sixth of the second month, numbered, sealed, and nobody can take it out of that. He knows that. He is not a fool either. We are two people who both know exactly what a piece of paper is.
 
 “Four: and that is the thing, and it is the thing I have not got round to in two years, and I would like somebody to tell me what to do with it. A piece of paper is not a thing. It is a thing somebody can be sent for. Clause two is a thing I can take to the turnbull and hold up and a carter has to answer, because a carter has answered a piece of paper before, because that is what carters do. And now there is another piece of paper and it is *mine*, it is in my own bench's room, it was printed by my own clerk, and it is better than his, because it has got a seal and a number and five terms and a word at the top, and there is nothing in the world that stops me from holding it up.
 
