@@ -32,7 +32,7 @@ And nobody in that room asked her what it was, and nobody asked her, and it is w
 
 The finding, which is the bridge out of this and into the next ten chapters, was said by the man in the basket, in the lane, at about the sixth bell, to a woman of thirty-nine who was walking six miles up a road with sixteen pence that was not hers, and neither of them wanted it and it is the only true thing anybody in this district has said out loud since a woman of about sixty-one stood on a quay and said it and went home and whose name nobody ever found out.
 
-Then what was it for,” he said. “I have been in this district fifty days and I have watched every single thing anybody in it has done and I could not tell you one single one of them that was wrong, and I have been carrying a matter for seven days and it has cost me nothing and bought nothing, and I have not had a part in this and I am not going to have one and I would like to know what the difference is between the two.”
+“Then what was it for,” he said. “I have been in this district fifty days and I have watched every single thing anybody in it has done and I could not tell you one single one of them that was wrong, and I have been carrying a matter for seven days and it has cost me nothing and bought nothing, and I have not had a part in this and I am not going to have one and I would like to know what the difference is between the two.”
 
 She did not stop walking, and she did not slow down, and she said it to the road.
 

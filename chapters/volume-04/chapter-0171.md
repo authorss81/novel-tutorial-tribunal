@@ -79,7 +79,7 @@ At about the second bell Osa Trin came out of the door with the chalk still in h
 
 “Nine minutes,” he said.
 
-“That is the reading. That is nine minutes of it. The forty-two is the waiting.” She put the chalk in her pocket. “There were about two hundred and forty people in there and about a hundred of them have not been in this building since the spring before last, and they came today because the door was open, and in four weeks’ time not one of them will remember whether the door was open.”
+“That is the reading. That is nine minutes of it. The forty-two is the waiting, and you stood in it for the whole of it and counted nothing, because you were told to read nothing and you read nothing.” She did not put the chalk away this time. “That door has been shut more days than I could tell you, and nobody has ever stood in it but me and a box of chalk, and I have not worked out yet what you are for.”
 
 “Then what was the door for.”
 
