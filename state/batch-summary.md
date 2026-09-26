@@ -52,7 +52,7 @@ At the sixth bell on the first of the seventh, a boy of seventeen read out one q
 
 **Five System-rendered entries across the batch, one each in Chapters 91, 97, 98, 99 and 100**, at most one in any chapter, and none stating a new general rule: the six heads on a sheet in a stone room; the year read out of a fund by a clerk from another district; the three rooms and a lane between the twenty-fourth and the twenty-seventh of the fifth month; the room over a pump and a slate; the open air at the First Verdict. Chapters 92, 93, 94, 95 and 96 have none. **All five are plain bold lines with no blockquote marker, each introduced by a narrative line saying the System put it in front of him.** Every block-quoted block in Chapters 91–100 is a physical object in the fiction. **There is no bold used as emphasis in running prose or dialogue anywhere in Chapters 91–100.**
 
-**Word range for the batch: 3,498–6,439.** Chapter 100 carries the seventh refusal, the eighth thing, the quarter's reading, the asking, the answer and the volume's closing question, and is the longest thing in the volume. Chapter 96 is the shortest and is a complete scene. **Do not treat any of these figures as a target.**
+**Word range for the batch: 3,498–6,439.** Chapter 100 carries the seventh refusal, the eighth thing, the quarter's reading, the asking, the answer and the volume's closing question, and at 6,439 words is the longest chapter in **this batch**. *(Corrected by the Volume 02 audit: it is not the longest thing in the volume — Chapter 80 is 6,693 words.)* Chapter 96 is the shortest and is a complete scene. **Do not treat any of these figures as a target.**
 
 ## Deliberately not delivered, and must not be re-opened in Volume 03
 
