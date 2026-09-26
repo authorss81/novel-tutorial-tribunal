@@ -68,7 +68,7 @@ The System put the refusal in front of Ilyan Vester on the third of a tide, at t
 **ENTERED: THAT IT COST A TIDE, ELEVEN POUNDS OF FREIGHT AND TWO MEN'S DAY, AND THAT HE WAS NOT TALKED OUT OF IT.**
 **WHAT IS NOT DECIDED: WHAT A MATTER PUT IN ONE PLACE COSTS THE OTHER PLACE, AND ON WHOSE BACK IT NOW SITS.**
 
-The assembly's own practice is that a refusal is written on the back of the notice and read out at the next sitting, and Pether Voke asked for it to be written and then asked who would write it, and Efa Lund, thirty-four, who keeps the shore's count of what crosses the flat and has kept it eleven years in a book of her own, was the only person in the loft who could do it, and she said so, and he asked her, and she said yes.
+The assembly's own practice is that a refusal is written on the back of the notice and read out at the next sitting, and Pether Voke asked for it to be written and then asked who would write it, and Efa Lund, thirty-four, who had gone down that flat on her own account for eleven years and been paid nothing for it by anybody, was the only person in the loft who could do it, and she said so, and he asked her, and she said yes.
 
 She wrote it on the back of a notice that was a fishmonger's, and she read it out twice to the room as the assembly's practice requires, and then she turned it round and gave it to him, and he was the man it was refusing.
 
