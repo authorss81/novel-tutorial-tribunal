@@ -102,7 +102,7 @@ The room a mile and a flight of stairs up the hill, at about the sixth bell, wit
 
 “And I am going to say what goes on it and what does not, and I have had four days and I have not asked anybody.
 
-“What goes on it: a duty, and my name on it, and not an office. And four lines from the guild, word for word, with the fourth line underlined, because the fourth line is the one that costs them nothing and it is the only sentence anybody in that building has written to this coast in about two years that was not about a sum, and it belongs in a record of this more than anything anybody will say about the wall.
+“What goes on it: a duty, and my name on it, and not an office. And four lines from the guild, word for word, with the fourth line underlined, because that is the line which cost the guild nothing to write, and it is the only thing that office has sent to this coast in the best part of two years that was not a figure of money, and it belongs in a record of this more than anything anybody is going to say about that wall.
 
 “What does not go on it: a number. I have not been on that wall and I have not sounded it and I have not got a figure and I am not going to be handed one and put my name under it. If somebody sounds it, and somebody will if anybody ever gives them a day, then it will be his number with his name on it in his own book with the date on it, and it will be somewhere in these three sheets, and it will be his.
 
@@ -114,9 +114,9 @@ He wrote it out longhand on three leaves torn out of the back of the penny exerc
 
 The top of the first sheet said what the first sheet was and when and where and that the person was alone. The top of the second said the same. The top of the third said the same. There was no sheet on top of the three of them. There was no sentence at the top of the three of them, and it took him about a minute and a half every time he started to write one and about a minute and a half to stop.
 
-He had done that before, in a net loft, in the sixth of a tide, in about nine minutes, and it had held a tide and cost a carter of thirty-three a day and a day’s hire, and every word of it had been out of one of three true accounts, and the three had been in three different places, and nobody had been asked to agree to anything, and it was legal.
+He had done that before, in a net loft at the north end on the third of the sixth tide, in about nine minutes, and it had held a tide and cost a carter of thirty-three a day and a day’s hire, and every word of it had been out of one of three true accounts, and the three had been in three different places, and nobody had been asked to agree to anything, and it was legal.
 
-That is the thing he has been wrong about for a month and he had it exactly backwards until the third of a tide in a yard at Wether Cross when a man with a hammer told him he was asking in the wrong order, and the whole of the trade is the separation and not the joining, and there is no other trade.
+That is the thing he has been wrong about for a month and he had it exactly backwards until the seventh of a tide at the post at Wether Cross, when a man of seventy-one took a bar out of a cart, put a chisel in a bag, said *there is a hammer in my hand and there is no rule on this coast that says who holds it*, and put the hammer in his hand, and the whole of the trade is the separation and not the joining, and there is no other trade.
 
 At about the ninth bell, at the near end of nine hundred yards of wet shingle with the water going off it, the System put the record in front of him, and what it gave him was the three sheets and nothing that joined them.
 

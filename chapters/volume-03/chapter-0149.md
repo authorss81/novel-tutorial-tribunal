@@ -39,7 +39,7 @@ The money is not there. Nobody pretended it was. There is no stone in this and n
 
 What the three pages bought is about a foot of water and eleven yards of wall and no money at all, and it is this: that a body two hundred miles up this coast cannot answer that claim without answering three people by name, one of them a boat, one of them a fire, and one of them a counter, and a person in a good coat who has never walked on that beach.
 
-And it was the first thing on this coast that had ever been made that way. Three people, in three places, in their own words, and not one word of any of it anybody else’s, and no person on four hundred miles of this coast answers for another person about a crossing, and that is about four hundred years old and it is in nobody’s book, and it is the reason a crossing counts a person and not a cart, and nobody on this coast has ever made anything that way before, and nobody in that shed said so out loud, and it was not said as an argument in a room because it was not an argument. It was a bench, a pot of tea, and about as long as it takes to make one.
+And it was the first thing on this coast that had ever been made that way. Three people, in three places, in their own words, and not one word of any of it anybody else’s, and no person on four hundred miles of this coast will answer for another person about a crossing, and nobody has ever written down why, and it is the reason a crossing on this coast counts a person and not a cart, and nobody on this coast has ever made anything that way before, and nobody in that shed said so out loud, and it was not said as an argument in a room because it was not an argument. It was a bench, a pot of tea, and about as long as it takes to make one.
 
 Hollis Thrale said one thing about it before the light went, and he said it to the bench and not to anybody.
 
@@ -51,7 +51,7 @@ He got up off the bench, put the bar into the fire at the mouth of it, and stepp
 
 He stayed. That was the mistake and he did not know it was one until about a quarter of an hour after it had happened.
 
-He stayed because there was tea, and because he had a leg, and because the shed was the only room on this coast he had ever been welcome in, and because a man of sixty-one who had walked a mile and a half to be careful was going to put another fire in and there was a draught coming off the north end of this building that would take a man off his feet in about four minutes.
+He stayed because there was tea, and because he had a leg, and because the shed was the only room on this coast he had ever been welcome in, and because a man of sixty-one who had walked two miles to be careful was going to put another fire in and there was a draught coming off the north end of this building that would take a man off his feet in about four minutes.
 
 So he said it, out loud, in the ordinary way, in a shed, to two people.
 
@@ -63,7 +63,7 @@ Sabra Trew took the bar out of the fire and stood with it and did not put it dow
 
 “I arranged it before you knew what it was,” he said. “That is what I have come to say. I asked you whether you would keep three pages because there is nobody else on four hundred miles of this coast who can put two lists side by side and say where one of them runs out, and that is the reason, and the reason is true, and I did not tell you what keeping them meant, and I knew what it meant when I asked, and I asked you anyway.”
 
-“No,” said Sabra Trew. “You did not, and I want to be exact about the order of that, because you have come a mile and a half to be careful and I have watched you be careful three times this month and you keep being careful in the wrong direction, and a glassmaker in this shed told me in a yard about a word in the fifth of a tide and it has been the most useful thing anybody has said to me in three years.
+“No,” said Sabra Trew. “You did not, and I want to be exact about the order of that, because you have come two miles to be careful and I have watched you be careful three times this month and you keep being careful in the wrong direction, and a glassmaker in this building told me on the third of the seventh tide, standing at his own fire, that a person saying no and a person being unable to say yes are two different things, and it has been the most useful thing anybody has said to me in three years.
 
 “You asked me whether I would keep three pages. You did not ask me whether I would stand behind three pages. And I said yes to the first one in about four seconds because the first one is a thing I have done since I was nine years old, and I cut marks for a living, and I have kept a list of firings since I was eleven and nobody has ever asked me for it and it has never once been read.
 

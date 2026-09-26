@@ -70,7 +70,7 @@ Then she said the whole of it, standing up, without sitting down and without ask
 
 She put her hand flat on the table.
 
-“That is what I am holding, and you may have it, and I have just given it to you, and it is worth exactly nothing, and I am telling you it is worth nothing so that you do not go and find out.”
+“That is the whole of what is in this room in front of you, and you may have it, and I have just given it to you, and I am telling you what it is worth before you go and find out, which is nothing. Nothing at all. A man in a good coat can take it four hundred miles up a coast road in a fortnight and there is nobody at the end of it who can do one thing with it.”
 
 ---
 

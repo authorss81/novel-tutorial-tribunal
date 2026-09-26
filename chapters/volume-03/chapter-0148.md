@@ -2,7 +2,7 @@
 
 The seventh of the ninth tide is a bar day and the flat takes nine, and the sea was over the crown of the bar before the light and the whole two hundred yards of gravel at the north end was under it, and the water owned the bar and did what it does three days a week, and about seventy people were on nine hundred yards of shingle by the fourth bell.
 
-Nobody stood on the stone. It is a fourth of a flat’s week since anybody has, and this was the other sort of day, and the woman who stands on it does not know this is the sort of day she does not know, and there was not one question anybody could have put there on that shingle and not one person on it would have walked up to try.
+Nobody stood on the stone. It comes round twice a week and the last person to stand on it was a carter of thirty-three on the fourth of the seventh tide, and that is three tides back, and there have been four days since on which the stone was standing there with nobody on it, and this was the other sort of day, and the woman who stands on it does not know this is the sort of day she does not know, and there was not one question anybody could have put there on that shingle and not one person on it would have walked up to try.
 
 There was one thing left to settle and it was the whole of what the thing was, and he had spent two days failing to settle it and had not told anybody that he was failing.
 
@@ -48,7 +48,7 @@ Nobody objected, which on this coast is not a consent and Corrie Tallow had said
 
 The man on the chain said the other half and said it without turning round, at about the seventh bell, with a cart in the middle of the flat and the ninth crossing about an hour off.
 
-“A revocation stops a thing and does not undo it,” said Hal Bevan. “You know that. You have known it since before you came to this coast and you have known it better than anybody on it, and I have watched you work it out on your own in about nine minutes at a counter in the second of a tide, and I am the last man on four hundred miles who ought to be telling you something you have not worked out yourself.
+“A revocation stops a thing and does not undo it,” said Hal Bevan. “You know that. You have known it since before you came to this coast and you have known it better than anybody on it, and I have watched you work it out on your own in about four minutes at a counter on the sixth day of a tide four hundred miles behind you, and I am the last man on four hundred miles who ought to be telling you something you have not worked out yourself.
 
 “But I am going to say it anyway, because it is the part that makes the thing real. When a man pulls it, the eleven yards is still going. The water does not know. And the person who pulled it will be the person who said three people who were not together were wrong about a wall, and he will have said it in the open, and he will have been right or wrong about a thing nobody on this coast can prove either way, because the two photographs cannot come out of their room and a man with a lead line has not been out on a fourth.
 
