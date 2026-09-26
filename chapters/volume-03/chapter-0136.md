@@ -26,7 +26,7 @@ And she read it out, and it took her about nine seconds, and it is the only othe
 
 “Course three, the outer end of the north wall. Given as a place and not a figure. There is a post at the inner end of that wall with a plate on it, and the third column says the outer end is two hundred and sixty-one yards from that post, along the line of the wall, and then it gives the height at the top of the inner end, which is the ninth course, which is the six-foot one.
 
-”Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course, and that the inner end is the fifth.”
+“Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course, and that the inner end is the fifth.”
 
 She stepped away from the frame.
 
@@ -34,7 +34,7 @@ She stepped away from the frame.
 
 “The guild’s third says two hundred and sixty-four,” said Hollis Thrale. “And its eighth says the toe stands to the fourth course for the whole length, and it does not give the inner end at all. And I have got both of them in my head in a clerk’s hand and I have had them for two years, and I am going to tell you how I got them, because you have not asked and I would rather you had them than worked them out.
 
-”The harbourmaster read me two columns off her own wall in a yard on the fourth of a tide and would do nothing else, and she was within her rights, and she was right to refuse me the other nine, and I did not go back.”
+“The harbourmaster read me two columns off her own wall in a yard on the fourth of a tide and would do nothing else, and she was within her rights, and she was right to refuse me the other nine, and I did not go back.”
 
 “So the third one is three yards,” said Sabra Trew.
 
@@ -44,7 +44,7 @@ He put his hand flat on the bench.
 
 “So the third column is a small thing that tells me the water has moved and tells me nothing about how far. And the eighth column is the whole of the trouble and it has been the whole of the trouble for two years, and I have said so to a glassmaker who made this one and to nobody else, and the glassmaker was me, and that is the shape of it. The eighth column says how much gravel is standing against the seaward face. Mine says two courses for the whole of it and five at the inner end. Theirs says four. A course on that wall is about the thickness of my hand, and four courses of it is two feet eight, and two is a foot and four, and if theirs is right then that wall has had two feet eight of gravel standing against its face for nineteen years and it is doing its job. And if mine is right then the toe has come down by a foot and four along two hundred and sixty yards, and there is no bottom under that bottom course in places, and the ebb is working round the foot of a wall instead of past the end of it.
 
-”And I cannot tell you which of those two is true, and I have had two years to try, and the only way there has ever been to try it is to put the two panes on one bench, and the only instrument anybody will act on is theirs, and it is a mile up that hill in a frame, and it does not come out of that room, and the next firing is a year off and there is no money in the arch.”
+“And I cannot tell you which of those two is true, and I have had two years to try, and the only way there has ever been to try it is to put the two panes on one bench, and the only instrument anybody will act on is theirs, and it is a mile up that hill in a frame, and it does not come out of that room, and the next firing is a year off and there is no money in the arch.”
 
 “Then make another one.”
 
@@ -54,7 +54,7 @@ She had not turned round. She had said it to the fire.
 
 “No, and I said it to him two years ago and I am not going to say it again for him, and you are not going to pay for it either, so I will say it once and then we will get on.
 
-”A third one is a third morning. It settles nothing. It is harder to argue with and no more true, and the water will have moved three times instead of twice, and a year of somebody’s back is the price of it, and the price is me, and the price was me the first two times as well, and one of those two is on a wall a mile up this hill and one of them is on this one and they do not agree in the eighth column, and there are two photographs on this coast and no room to put them side by side in, and a third photograph is a third morning and not a room.”
+“A third one is a third morning. It settles nothing. It is harder to argue with and no more true, and the water will have moved three times instead of twice, and a year of somebody’s back is the price of it, and the price is me, and the price was me the first two times as well, and one of those two is on a wall a mile up this hill and one of them is on this one and they do not agree in the eighth column, and there are two photographs on this coast and no room to put them side by side in, and a third photograph is a third morning and not a room.”
 
 Nobody said anything for about a minute, and the fire made the noise it makes.
 
@@ -64,7 +64,7 @@ Sabra Trew turned round.
 
 “It is worth everything,” she said. “It is worth about eleven yards of stone and a cart, and a bad morning, and about eleven yards of the point, and a boat slip with a man called Teel’s name on it, and that is not an exaggeration, that man lost a slip in the year before that wall went down and he never had another and he worked at the hard for the rest of his life and he is dead. And it is worth nothing at all, and here is the whole of why, and you have known it for two years and you have not said it in this shed.
 
-”It is worth everything and it is worth nothing at the same time, because it is a record of a morning. It is a morning when a man stood beside an arch with a lead line and wrote down how much gravel was standing against a stone wall. And the gravel is not there now, or it is, and either way the morning is not coming back, and the only thing on this coast that will tell you how much gravel is standing against that wall this morning is a man in a boat with a line on the day the sea is doing whatever it is going to do.”
+“It is worth everything and it is worth nothing at the same time, because it is a record of a morning. It is a morning when a man stood beside an arch with a lead line and wrote down how much gravel was standing against a stone wall. And the gravel is not there now, or it is, and either way the morning is not coming back, and the only thing on this coast that will tell you how much gravel is standing against that wall this morning is a man in a boat with a line on the day the sea is doing whatever it is going to do.”
 
 “I have said that.”
 

@@ -98,7 +98,7 @@ And that was the whole of it. He did not ask her what it involved and she did no
 
 The room a mile and a flight of stairs up the hill, at about the sixth bell, with the door shut, which is the second time in five days that anybody has had a conversation in that room with the door shut for its own sake.
 
-“Put it in,” said Bettany Rook, before he had said it. “I have been waiting two days for somebody to ask me that and I am not going to make a man who has walked a mile and a half say a sentence twice.
+“Put it in,” said Bettany Rook, before he had said it. “I have been waiting two days for somebody to ask me that and I am not going to make a man who has walked a mile and a flight of stairs up a hill say a sentence twice.
 
 “And I am going to say what goes on it and what does not, and I have had two days and I have not asked anybody.
 
