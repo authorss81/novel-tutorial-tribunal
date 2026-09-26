@@ -32,7 +32,7 @@ He stopped, and there were nine people in that room and not one of them had writ
 
 “To take a granary off a district the account has to put a person in the district. I have spent nineteen years making sure that it never does that, because a person who can be asked a question is a person, and an account that can be asked questions is a thing that can be refused. There is no clerk on the register. There is no form for sending anybody to look at a granary. There has not been one since before I came into this post, and nobody in that office has ever been asked to invent one, and I have not invented one either, and I have been asked twice in nine years and I have said no twice and I was right twice.” He looked at the door frame and then at the room. “So a reeve of fifty-four has been holding a granary and a bank of the second mouth for about a month on a word of her own and a door that shuts at the seventh bell, and the whole of the account’s protection of her in that is that nobody has ever had to look at her. That is not a right. There is no form for it and there is no line for it and I could not produce it in a room if you asked me to.”
 
-Nobody in that room said anything, and a reeve of fifty-four, who had come up to say one thing about the beam and had stayed, said the thing she had come up to say and it was one sentence.
+That went into nine people and came out as nothing, and a reeve of fifty-four, who had come up to say one thing about the beam and had stayed, said the thing she had come up to say and it was one sentence.
 
 “Then put it in a book, because it is the only thing about this lease that has ever been said out loud anywhere and it has been said in a room by the man who could take it off me and not in a bin-board by me,” said Marda Fen, “and nobody is going to be thanked for it and nobody is going to be ruined by it, and I have had a granary for twenty-two years and I would like the reason it is still mine to be written down by somebody who is not me.”
 
@@ -44,7 +44,7 @@ He put a register on the table. It was a book and it was about nine inches thick
 
 “I have brought the register and I am giving it up, and I am saying the number out loud because nobody else in this county will, and there are about nine thousand of them in issue and about nine thousand of them stay in issue.”
 
-Nobody in that room said anything at all.
+Nothing came out of the room, and he waited for it and did not fill it.
 
 “About nine thousand,” said Ors Halm. “In a hundred and one counties, at two shillings and eightpence, at the same price, in the same form, entered in a register I have kept myself for nine years with no clerk on it and no form for asking to see it. I have given you the book. I have not given you the nine thousand and I am not going to pretend to you that I have, and I am not going to be a man who hands over a book and lets a room think that something has been undone.”
 
@@ -62,7 +62,7 @@ And then he said the last thing and it is the only thing he said in that room th
 
 “I am not a good man and I am not going to become one this morning,” he said. “My first scheme is the two sheets and two shillings and eightpence and about nine thousand people who did their jobs properly, and it is on the page in this room in terms, and I have not denied a figure, and you may do whatever you like with it. And about thirty-four men in nine counties have given a second cart back in the last month, which is seventeen thousand loads, and your district was a hundred loads short of a cut that is over, and thirty-four is not a list, and there are about nine hundred men in this county and no list of any of them exists, and a man in a good coat has wanted one for four years and has thirty-four names off a trestle and I have wanted one for nine years and have never asked him for it, and there is no form for asking.”
 
-Nobody in that room said anything.
+Nobody answered him, and he had not come for an answer.
 
 “And here is the thing that everybody in this district knows and has not said, and I have read it out of a book in this county and I am not going to be a man who leaves it in a book.” He looked round. “If the sheets go and the price stays, then about three hundred and thirty-nine men in this county who have one cart each are still men with one cart each, and a load of carriage is still worth three shillings to a man who has a cart and nothing at all to a man who has not got one, and there is still no column anywhere in this county for a man who has not got one, and a remedy that undoes the scheme and does not undo the price produces a district where nobody can get a cart.”
 

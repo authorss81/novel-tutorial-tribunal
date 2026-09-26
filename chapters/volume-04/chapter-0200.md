@@ -36,7 +36,7 @@ The one thing that happened in that room about the register is that a convenor o
 
 She read him the first line of it and it took her about four seconds and it was a number and a rate and a date and a heading, and there were nine people in that room and not one of them could have told her afterwards what the date was.
 
-“Thank you,” said Perrin Gant, and shut the book, and put the key in his pocket, which is a thing he does. “That is twice in nineteen years that I have asked for a page in this room to be read back to me and the second one has cost nothing, and I am sixty-one, and I have asked for a thing since the forty-seventh week and this is the first one that has come back with nothing in it, and I would like it written down that I asked.”
+“Thank you,” said Perrin Gant, and shut the book, and put the key in his pocket, which is a thing he does. “That is three times in nineteen years that I have asked for a page in this room to be read back to me and the third one has cost nothing, and I am sixty-one, and I have asked for a thing since the forty-seventh week and this is the first one that has come back with nothing in it, and I would like it written down that I asked.”
 
 Nobody thanked him and he did not expect to be and he had said in this room ten days ago that nobody does, and that is a sentence about a bench of four and not about a register, and it is the whole of what happened in that room between the fourth bell and the sixth.
 

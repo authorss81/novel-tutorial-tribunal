@@ -28,7 +28,7 @@ Then a reeve of fifty-four said it again, and she had come up to say one thing a
 
 “You are all about to write my name in the middle of a sentence,” said Marda Fen.
 
-Nobody in that room said anything.
+Not one of the nine of them said anything.
 
 “I said in this doorway in the forty-seventh week that I would not be entered in a book as the bearer of a thing I have been carrying for nine years with a pen borrowed off a bench, and nothing has happened since then, and nothing is going to happen, and I am not going to be asked twice.” She put her hand on the door frame. “So that line has to go down the way it is, or the district has to find somebody else, and there is nobody else, and I have been the only person in this district carrying anything without authority since before the four of you were on this bench, and you know that, and Gant wrote a question about it into a book a year ago and I have watched that question sit in there.”
 

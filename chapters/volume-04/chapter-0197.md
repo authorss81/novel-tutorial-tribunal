@@ -71,13 +71,13 @@ Nobody in that room saw anything, and he has never in this district told anybody
 
 Ansel Cork entered it at about the fourth bell and it took about nine minutes, and there is no copy of it, because a copy is fourpence a sheet and this district is at nothing, and the account entered it, and the account is a party, and a party is the only thing in that room that can put a burden down, and a person cannot be compelled to take one and cannot be produced.
 
-He said three things when it was done, and the first of them had been standing in a minute since the thirty-fifth day of that month.
+He said three things when it was done, and the first of them had been standing in a minute since the thirty-fifth day.
 
-“The cost of the notice of four sheets remains with the district,” said Ansel Cork. “Five shillings and fourpence. It is the fourth line of that page and it is the only line of it the account cannot do anything about, and it has been on that minute since the thirty-fifth day of that month, and this district has never paid any of it and is not going to, and I have said it out loud in a room twice this morning and I am not going to say it again.”
+“The cost of the notice of four sheets remains with the district,” said Ansel Cork. “Five shillings and fourpence. It is the fourth line of that page and it is the only line of it the account cannot do anything about, and it has been on that minute since the thirty-fifth day, and this district has never paid any of it and is not going to, and I have said it out loud in a room twice this morning and I am not going to say it again.”
 
 Nobody in that room argued with him about it.
 
-“And a forbearance may be applied for once a year,” he said, “and the district applied for one on the third day of the forty-third week of this year and it was set aside and not refused, and once a year is once a year, so the next one this district can put its hand on is fifty-two weeks off, and there is no form for applying for one and there has not been one since before I came. That is the only door in this county that this thing came through, and nobody in this room can hold it open and nobody in this room can shut it.”
+“And a forbearance may be applied for once a year,” he said, “and the district applied for one on the thirty-fifth day of this year and it was set aside and not refused, and once a year is once a year, so the next one this district can put its hand on is fifty-two weeks off, and there is no form for applying for one and there has not been one since before I came. That is the only door in this county that this thing came through, and nobody in this room can hold it open and nobody in this room can shut it.”
 
 “Will the carrying come off the record,” said Perrin Gant, who had been a convenor in that district for nineteen years and had been asked for nothing in all of them.
 
