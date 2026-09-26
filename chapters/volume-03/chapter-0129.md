@@ -1,6 +1,6 @@
 # Chapter 129: The Fourth Time
 
-The quarter goes up the coast road in a cart in the fourth week of a season and it is read by the guild’s own office two hundred miles up this coast and by nobody else at all, and it is four weeks of passage money written in a hand that has not changed since before Bettany Rook came to that counter, and on the second of the seventh tide she was writing it out and would be four hours at it and would not be helped.
+The quarter goes up the coast road in a cart in the fourth week of a season and it is read by the guild’s own office two hundred miles up this coast and by nobody else at all, and it is four weeks of passage money written in a hand that has not changed since before Bettany Rook came to that counter, and on the second of the seventh tide she had started it at the first bell and would be four hours at it and would not be helped.
 
 She got to about the fourth sheet and stopped.
 
@@ -24,7 +24,9 @@ Jory Vance wrote the quarter’s line out on the edge of the returns board in hi
 
 And nothing at the end of it.
 
-The System put the quarter in front of Ilyan Vester on the lane below the office at about the fourth bell, and what it gave him was the fifth thing on this coast that was a record of a thing nobody had entered anywhere in particular.
+And she had the rest of the quarter out on the boards inside an hour, which it had not been done in nineteen years, and the reason she gave for that was that a quarter is four weeks of sums and a sum does not stop for a line with a wage on it and no person on it, and she was not going to sit in front of one for the other three hours while it was in the room.
+
+The System put the quarter in front of Ilyan Vester on the lane below the office at about the second bell, and what it gave him was the fifth thing on this coast that was a record of a thing nobody had entered anywhere in particular.
 
 **THE GUILD’S QUARTER CARRIES A LINE FOR A PERSON TO BE PAID TWO POUNDS A YEAR OUT OF WHAT THE CROSSING OF WETHER CROSS TAKES, VOTED FIVE TO FOUR ON THE FOURTH DAY OF THE FOURTH TIDE. THE LINE HAS NO NAME ON IT AND NOBODY HAS ASKED. THE CROSSING TOOKS NINETY POUNDS EIGHTEEN. IT TOOK A HUNDRED AND SIX FOUR YEARS AGO, AND THE LAST MAN ON THAT LINE WAS PAID FOR ELEVEN MONTHS.**
 **WHAT IS NOT DECIDED: WHETHER A LINE WITH NO NAME ON IT IS A WAGE THAT HAS BEEN REFUSED BY EVERYBODY ON THIS COAST OR A POST NOBODY HAS APPLIED FOR.**
@@ -51,7 +53,7 @@ Not the guild and not the assembly and not the harbourmaster and not a clerk. If
 
 The sheet lay on the counter with the quarter under it.
 
-And the quarter went up the coast road that afternoon in the cart that goes up the coast road that afternoon, and the sheet went with it, and Jory Vance put a piece of string round the sheet and a loop for a hand, because a sheet that carries a bar road is a person, and a person does not go in a cart with a load of oil. Nobody gave it to anybody. A man with a bad leg had been in that building since the first bell with his back to the wall and had the whole of it in his ears, the blank and the road and the woman on it and the day and the bell, said out loud twice in a room with the door open, and he had read nothing and understood all of it, and when the clerk set the sheet down on the end of the counter for a carter who was going up for his own reasons, he picked it up off the counter and put it inside his coat. He has been on this coast thirty-eight days and not one person has asked him for one thing, and there was nobody in that building to ask him whether he would like to be the one standing there.
+And the quarter went up the coast road that afternoon in the cart that goes up the coast road that afternoon, and Jory Vance had the sheet ready for it by the third bell and had put a piece of string round it and a loop for a hand, because a sheet that carries a bar road is a person, and a person does not go in a cart with a load of oil. Nobody gave it to anybody. A man with a bad leg had been in that building since the first bell with his back to the wall and had the whole of it in his ears, the blank and the road and the woman on it and the day and the bell, said out loud twice in a room with the door open, and he had read nothing and understood all of it, and when the clerk put the day’s post out on the end of the counter at about the third bell with the sheet on the top of it, he picked it up off the counter and put it inside his coat. He has been on this coast thirty-eight days and not one person has asked him for one thing, and there was nobody in that building to ask him whether he would like to be the one standing there.
 
 Nobody sent for him. Nobody had standing to send for him, and there was nobody in that building who could have told him not to, and the fourth time he has been produced on this coast it was because he picked a piece of paper up off a counter. Picking a thing up is the whole of the mechanism. It took him about a second and it is going to cost him the best part of a day and he did not know that when he did it.
 
