@@ -67,7 +67,7 @@ Ewan Troke had it in the flat of his hand again and he read it out against the f
 
 Nobody asked her what she was writing on it. That is the whole of it and it is worth putting plainly, because the four of them had come nine days to find out what a document in this basin is, and the answer came out of the back of a page in a mill hand while the man who wrote it was up a hill with a barrow of stone.
 
-“It is three weeks and a day old,” said Ewan Troke. “I counted it on the way up because I have been counting the days out of that book since the second of the week and I have nothing else to count with. And the slow came up on the evening of the sixth day of last week, and that is a fortnight and a day after she wrote it, so she wrote *the water is in the hollow* a fortnight before it came up, and every year, and nobody has ever asked her how she knows.”
+“It is three weeks and a day old,” said Ewan Troke. “I counted it on the way up because I have been counting the days out of that book since the second of the week and I have nothing else to count with. And the slow came up on the evening of the sixth day of last week, and that is a fortnight after she wrote it, so she wrote *the water is in the hollow* a fortnight before it came up, and every year, and nobody has ever asked her how she knows.”
 
 Ilma Treen came back down the lane at about the time the light goes and put the barrow down before she said anything, and the four of them were standing at a frame with a page of an order on it and a water-book open against the oak.
 

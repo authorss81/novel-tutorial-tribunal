@@ -58,9 +58,9 @@ Nobody in that room took the four pages off the wall. That is what happened on t
 
 ---
 
-The one other thing in that room on the fifth of the week had to do with a man of thirty-one and it is the only line in this chapter that is about him and not about a wall.
+The one other thing in that room on the fifth of the week had to do with a man of thirty-one and it is the only line of that morning that is about him and not about a wall.
 
-His name is not on the four pages. It has never been on the four pages. It is not on the bond, and it is not on the standing order of the sluice, and it is not on the marl-strip deed, and it is not in the chain-book and it is not in the hand-book with the fourth column in the head of it, and there is no line in this valley carrying his name on anything at all, and that is the single fact in this volume that has not gone wrong, and he is the only person in that room who noticed it, and he did not say it, and he wrote it in a penny exercise book in a cart shed behind two houses of Hollow Sallow that night in his own hand, and he wrote beside it that it was not a relief, and that is a true thing he wrote and the only true thing anybody wrote that day about himself.
+His name is not on the four pages. It has never been on the four pages. It is not on the bond, and it is not on the standing order of the sluice, and it is not on the marl-strip deed, and it is not in the chain-book and it is not in the hand-book with the fourth column in the head of it, and there is no line in this valley carrying his name on anything at all, and that is the one thing in this valley that has not gone wrong, and he is the only person in that room who noticed it, and he did not say it, and he wrote it in a penny exercise book in a cart shed behind two houses of Hollow Sallow that night in his own hand, and he wrote beside it that it was not a relief, and that is a true thing he wrote and the only true thing anybody wrote that day about himself.
 
 And nobody in that room said so either. That is on the record and it is worth putting down, because nine people were in it and about six of them knew it, and the reason not one of them said a word is that saying it would have been a kindness, and this basin has never in nine years done anybody a kindness in a room, and it was not going to start on the fifth of a week.
 

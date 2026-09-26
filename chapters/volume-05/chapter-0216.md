@@ -44,13 +44,13 @@ The Anner's sill is the dam's own sill and it is the high one. The frame at Holl
 
 Eleven feet above the Anner's sill is therefore two feet above the frame's sill. Two feet above the frame's sill is about the height of the floors of the houses on the upper half of that lane.
 
-He said it out loud, in the dark, on a bank, with a lamp he was holding in his left hand, to about eleven people, and then he said it again because the first time nobody had heard the middle of it, and then he said the sentence that is the whole of the finding, and it is the finding of this volume.
+He said it out loud, in the dark, on a bank, with a lamp he was holding in his left hand, to about eleven people, and then he said it again because the first time nobody had heard the middle of it, and then he said the sentence that is the whole of the finding.
 
 “The eleven feet is the dam's number and not the lane's.”
 
 And then he went down the bank to the frame to look at it, and his leg was what his leg has been since a morning four hundred miles and some weeks behind him, and it did not do anything on the way down a wet clay bank in the dark, and it is not going to do anything for as long as he is carrying the thing he is carrying, and he has not told one person in this valley what any of that is and there is nobody here he is going to tell.
 
-Nobody said anything. There is a place in this project where four pages are put on a wall and a ruling is made about a height without a sill, and the height is right and the sill is right and the two of them are nine feet apart, and nobody in the dark on that bank at the fourth light was in a position to do anything at all about it, and the shortest of the two numbers was the one the paper had used twice.
+Nobody said anything. Four pages are on a wall and a ruling has been made about a height without a sill, and the height is right and the sill is right and the two of them are nine feet apart, and nobody in the dark on that bank at the fourth light was in a position to do anything at all about it, and the shortest of the two numbers was the one the paper had used twice.
 
 Nobody drowned. Nineteen houses had water in them by the time the light went properly and about a hundred and forty people were in nineteen houses, and it was a slow night in a wet year in a village of about four hundred and ten, and every door in that lane was a door that opened, and the girl of seventeen read the third line out loud to about twenty people standing in two feet of the Sallow in a lane, and the third line says that no person of Hollow Sallow is to be asked to leave any house by that order, and nobody was, and it was the only one of the four lines anybody in that lane could have used and it was useless to them and it is the reason they were standing in it.
 

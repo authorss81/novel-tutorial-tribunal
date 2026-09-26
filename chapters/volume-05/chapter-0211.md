@@ -24,7 +24,7 @@ She read the head, which is a day out of a water-book. She read the first line, 
 
 “That eleven feet be the height,” she said, “and that the eleven houses of Hollow Sallow be below it, and that no person of Hollow Sallow be asked to leave any house by this order.”
 
-She said it to the end of the lane, where about eleven people were standing, and nobody said anything, and the girl waited, and then she said the thing that is the finding of this chapter in her own mouth, and she said it the way she said the rest of it, in her father's voice for documents.
+She said it to the end of the lane, where about eleven people were standing, and nobody said anything, and the girl waited, and then she said the finding in her own mouth, and she said it the way she said the rest of it, in her father's voice for documents.
 
 “It says how high the water is,” she said. “It does not say high as from where.”
 

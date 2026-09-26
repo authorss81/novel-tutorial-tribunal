@@ -43,7 +43,7 @@ Nobody in that lane saw anything, and his leg was what his leg has been, and nob
 
 The woman who keeps the sluice said it at about the second hour, and she said it to a man of thirty-one who had a book in his coat and had not taken it out.
 
-She had been in water to the knee since the middle of the night and she had come up out of it to get a barrow, and she put the barrow down first, and then she said the sentence, and it is nine words long and it is the finding of this chapter and it is hers, and she is not a lawyer and she is not a lawyer because there is no lawyer in this basin and has not been one since before the first shaking.
+She had been in water to the knee since the middle of the night and she had come up out of it to get a barrow, and she put the barrow down first, and then she said the sentence, and it is nine words long and it is hers, and she is not a lawyer and she is not a lawyer because there is no lawyer in this basin and has not been one since before the first shaking.
 
 “It named a dam,” said Ilma Treen. “It named a height. It named a day. It never named the water.”
 

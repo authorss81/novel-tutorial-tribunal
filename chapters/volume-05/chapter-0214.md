@@ -24,7 +24,7 @@ And the cost of asking eleven people was not a fee. It was three days.
 
 “It is a figure,” said Ilyan Vester. “It is a figure that is in nobody’s minute.”
 
-“That is what I am telling you. Three days is a number and it is not a thing anybody can put in a minute and take out again. A pound is a figure. Five pounds and six is a figure and I have said it out loud twice. Three days is three days of eleven people not being where they otherwise were, and there is no column in this basin for a person not being where they are, and I have been carrying that since the first year I went at those marks and it is too heavy, and you have all been in this valley eight days and it is the heaviest thing in it.”
+“That is what I am telling you. Three days is a number and it is not a thing anybody can put in a minute and take out again. A pound is a figure. Five pounds and six is a figure and I have said it out loud twice. Three days is three days of eleven people not being where they otherwise were, and there is no column in this basin for a person not being where they are, and I have been carrying that since the first year I went at those marks and it is too heavy, and you have all been in this valley thirteen days and it is the heaviest thing in it.”
 
 Nobody put it in a minute. He wrote it in a penny exercise book, on the basin side, under the day, in his own hand, and the day was one hundred and sixty-two.
 
@@ -36,7 +36,7 @@ The Anner would not answer for the village, and said so in the shortest sentence
 
 “Then it is three days against a river,” said Tarin Keel.
 
-“It is three days against a river,” said Ilyan Vester, “and the river is two feet in the lane and rising, and there is no version of the three days in which eleven people are standing on dry ground on the third of them, and I am going to spend them anyway, because the only two things in this valley that have ever been made to anybody are a mark on a doorpost and a page on a wall, and both of them were made without asking anybody, and the second one happened eight days ago and is on a wall in Sallowby, and the first one is under tar on a post at the bottom of this hill.”
+“It is three days against a river,” said Ilyan Vester, “and the river is two feet in the lane and rising, and there is no version of the three days in which eleven people are standing on dry ground on the third of them, and I am going to spend them anyway, because the only two things in this valley that have ever been made to anybody are a mark on a doorpost and a page on a wall, and both of them were made without asking anybody, and the second one happened seven days ago and is on a wall in Sallowby, and the first one is under tar on a post at the bottom of this hill.”
 
 He said the last part to the table and not to the lane, and afterwards he wrote it in the book, and the book said only this, in his own hand, and no more:
 
@@ -54,7 +54,7 @@ He did not finish that thought in the book and he did not finish it out loud, an
 
 The lane got the order read to it at the closing of the water, and it got it read by a clerk of a Seat who has no authority to read it in a lane and did it anyway, and the nine people from the morning carried eleven chairs down the hill because there were not enough chairs in the Seat of Sallowby for eleven people and nobody had thought about chairs until the bottom of the lane.
 
-He read all four lines, including the head, which is a day out of a water-book, and he read the third line last, and he read it exactly as it is on the wall in Sallowby, and he did not read it better than the girl of seventeen had read it eight days before and he did not read it worse.
+He read all four lines, including the head, which is a day out of a water-book, and he read the third line last, and he read it exactly as it is on the wall in Sallowby, and he did not read it better than the girl of seventeen had read it six days before and he did not read it worse.
 
 Nobody signed anything. That is the whole of what came of the first day of asking eleven people: a clerk stood in a lane at the closing of the water and read four lines out loud to about forty people, and not one of them signed, and not one of them said they agreed, and about eleven of them said nothing at all, and eleven of those eleven were the eleven whose houses are on the marks, and not one of them would say whether it was the water or the mark that was wrong.
 

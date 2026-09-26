@@ -1,6 +1,6 @@
 # Chapter 215: Eleven Feet, Held Exactly
 
-The Anner dam is a mile and a half above where the clay comes out of the ground and four miles above the village, and it is held up by four men and a barrow and a great deal of arguing that happened before any of them were born, and on the second day of the fifty-second week there were four men on it and a barrow and about two hundred tons of everything in this chapter standing on it.
+The Anner dam is a mile and a half above where the clay comes out of the ground and four miles above the village, and it is held up by four men and a barrow and a great deal of arguing that happened before any of them were born, and on the second day of the fifty-second week there were four men on it and a barrow and about two hundred tons of clay and rubble standing on it.
 
 The order says the Anner shall hold the dam on the Anner water to eleven feet above its own sill, and keep the same, until the slow is down, and the Anner is the party bearing the order and is answerable for the height.
 

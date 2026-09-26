@@ -4,6 +4,10 @@
 
 > **WHAT THIS BLOCK IS: the new canon, in one place, with a chapter and a line against every claim, so that a later pass can check a thing instead of believing it.** The standing instruction is unchanged and it is the whole of what makes this usable: **re-run every scan against the chapter files and do not re-read a list.**
 
+> **WHAT THIS BLOCK IS: the new canon, in one place, with a chapter and a line against every claim, so that a later pass can check a thing instead of believing it.** The standing instruction is unchanged and it is the whole of what makes this usable: **re-run every scan against the chapter files and do not re-read a list.**
+>
+> **AND THE REVIEW OF THIS BATCH REPAIRED FOUR FIGURES IN IT AND IN THE CHAPTERS, and they are corrected here rather than left to be inherited wrong: the four of them arrived on basin day 149, so Chapter 214's day of 162 is THIRTEEN days in the valley, the four pages went on the wall on basin day 155 and the girl of seventeen read them on day 156, which is SEVEN days and SIX days before Chapter 214 (`214:27`, `214:39`, `214:57`; all three said eight); the mill-hand entry of basin day 139 and the slow of basin day 153 are A FORTNIGHT apart exactly and not a fortnight and a day (`212:70`, and this file's live block did not carry it but `state/current.md` section 3 did, with a tick beside the wrong figure); and the run at the end of the batch is NINETEEN days, not seventeen and not sixteen, because 168 − 149 = 19 (`220:33`, `220:61`). The count of nine day-count instances is untouched, because it is a count of instances and not of days. The receipt is `state/current.md` section 14.**
+
 ### THE GROUND, AND THE WATER IN IT, AS IT STANDS AT THE END OF CHAPTER 220
 
 **The world is exactly one notch bigger than it was at Chapter 201 and not bigger than that. No new city, no new institution, no new faction, no new magic and no new people with a new name.**

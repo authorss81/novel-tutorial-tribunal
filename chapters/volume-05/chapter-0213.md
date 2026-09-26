@@ -36,7 +36,7 @@ Garrow Lee came down off the bank on the second step and stood in the lane and l
 
 “You have,” said Ilya Kever. “You have not had water on both of them in the same hour. That is all you have not had.”
 
-Nobody argued with him about that and nobody argued with the joiner about it either, and it went into a penny exercise book on the bank in a lead hand, and it is the whole of the finding of this chapter, and it is a foot, and it is a foot in one measurement and two in another, and it was got by two careful men and neither of them is lying and neither of them is careless and they cannot both be right.
+Nobody argued with him about that and nobody argued with the joiner about it either, and it went into a penny exercise book on the bank in a lead hand, and it is the whole of the finding, and it is a foot, and it is a foot in one measurement and two in another, and it was got by two careful men and neither of them is lying and neither of them is careless and they cannot both be right.
 
 “Nine years back,” said the man of seventy-four, from the lane, “a chamber nine days off this valley said in writing that a height marked on a doorpost is not a measurement. They said it on a grocer’s paper. I have never read it and I have never heard of it and I have been putting tar on doorposts since before there was a turn of any kind, and I want somebody to tell me straight whether they said it about this.”
 
