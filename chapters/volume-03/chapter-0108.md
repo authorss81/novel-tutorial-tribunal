@@ -44,7 +44,7 @@ The tally post at Wether Cross is a larch post about the height of a man with a 
 
 “Crossings,” said the reading man, and then stopped, and looked at the post, and did not go on for about as long as it takes a man to decide to say the thing he has been not saying for four years.
 
-“No,” he said. “No, that is what they are for and that is not the same answer and you are the first man in nine years to ask me that question in the order you asked it in. I want to say it properly, because I stood at that chain for eleven months saying a number out loud and I never once thought about the post, and there is no reason on this coast for anybody to think about the post.
+“No,” he said. “No, that is what they are for and that is not the same answer and you are the first man in four years to ask me that question in the order you asked it in. I want to say it properly, because I stood at that chain for eleven months saying a number out loud and I never once thought about the post, and there is no reason on this coast for anybody to think about the post.
 
 “The post counts the crossings. And nobody fills the tariff returns in from it. The tariff is made out at the counter from the carts that paid, and the post is made out here by a man with a hammer at the turn, and the two have never agreed, and the post is the honest one and the returns are the money one, and the post is wood and the post rots and the guild pulls it up every nine or ten years when the bottom goes, and the old one goes into the sea or into a kiln, and there is one leaning against the wall of the tide office now that I have seen every day for four years and never once looked at.”
 

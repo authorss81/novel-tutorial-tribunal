@@ -28,7 +28,7 @@ A batch is a batch. It goes in the arch on a tide and it is turned about forty t
 
 “And the fifth pane,” said Ilyan Vester.
 
-“The fifth pane is on the order sheet with a date against it and no money against it,” said Hollis Thrale. “Ordered by a clerk of that guild in the winter, paid for out of the passage money when the season comes round, and the season is not until the turn, and the letting day was eleven weeks ago, and it has gone. So the fifth pane is not late. It has not begun. There is no batch in my arch for it. It would have to go in now and it would be a year, and the letting day for that one is the fourth of next tide, and if the money is not in my hand by the third I do not put it in, because you do not open an arch for a batch that cannot be let.”
+“The fifth pane is on the order sheet with a date against it and no money against it,” said Hollis Thrale. “Ordered by a clerk of that guild in the winter, paid for out of the passage money when the season comes round, and the season is not until the turn, and the letting day was eleven weeks ago, and it has gone. So the fifth pane is not late. It has not begun. There is no batch in my arch for it. It would have to go in now and it would be a year, and the letting day for that one is a year off, on a fourth, low, with a wind out of the west, and if the money is not in my hand by the third of next tide I do not put it in, because you do not open an arch for a batch that cannot be let, and if it does not go in this arching then the next letting day is a year after that and there is nothing anybody on this coast can do about it in between.”
 
 “So the guild cannot change its own charter.”
 

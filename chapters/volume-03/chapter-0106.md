@@ -28,7 +28,7 @@ He told her. That was the first thing he did and he did it badly, standing at th
 
 “Seventeen what.”
 
-“Your eleven is your eleven. Nobody has said it is wrong and nobody is going to say it is wrong from me. There is a woman at Slackwater — Efa Lund, thirty-four, keeps a count of the flat in a book of her own, eleven years, no pay, not asked — and she counts bodies on the sand at the turn instead of households at the doors, and she has got seventeen, and four of your eleven have stopped sending since the spring, and three more come down the shore road from the east end on market days and go over and come back and you do not know they are there because you are watching your own eleven doors.”
+“Your eleven is your eleven. Nobody has said it is wrong and nobody is going to say it is wrong from me. There is a woman at Slackwater — Efa Lund, thirty-four, keeps a count of the flat in a book of her own, eleven years, no pay, not asked — and she counts bodies on the sand at the turn instead of households at the doors, and she has got seventeen, and the six she has that you have not got are not a lie and I can give you all six. Three come down the shore road from the east end on market days and go over and come back and you do not know they are there because you are watching your own eleven doors. One of your eleven is two houses and has been two houses since the spring, and it pays for both and counts for one, and there is no column on that flat for half a house. And two are a man and his wife who went round by the road in the winter, found the road cheaper than a boy, and came back in the spring, and they are on that sand every tide of the week and they have never been on your list, because nobody ever told you they had been away.”
 
 Corrie Tallow looked at him for a while.
 
@@ -100,4 +100,4 @@ And that was all she said, then, and ever, about that.
 
 He walked down the hill to the flat with a sheet of paper in his hand and did not know what to do with it, which was the first time in four months that he had carried a document he could not use in either direction.
 
-Behind him, four hundred yards up the shingle, a woman of forty-four was standing at the top of a lane with a net over her shoulder watching a lane and a boy of eleven was somewhere on it, and a woman of twenty-two was brushing a tally board, and a woman of twenty-four at the glassworks two miles along the coast was scraping a batch off a kiln floor with a bar, and a woman of fifty-one was standing at a counter in a hood.
+Behind him, four hundred yards up the shingle, a woman of forty-four was standing at the top of a lane with a net over her shoulder, watching a lane, and a boy of eleven was somewhere on it.

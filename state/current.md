@@ -4,7 +4,7 @@
 
 **Volume 03 Batch 0001 is complete: Chapters 101–110 exist as finished prose and are canon. The coast is open. Chapters 1–100 are canon and were not touched by this batch.**
 
-**Volume 02's audit and its twelve canon defects stand and were not built on.** `reviews/volume-02/volume-audit.md` found twelve hard defects inside Chapters 51–100, repaired none of them, and corrected four figures in the state record. **Do not quote any of them as canon and do not treat a closure claim as evidence.** The most likely to propagate are Chapter 96's "two months and nine days" (it is twenty-two days), Chapter 98's form arithmetic (which does not close; 463 is load-bearing and the order figures may not be restated), and Chapter 70's refusal number (the fourth, not the sixth). **Also standing: four week- or month-name slips in Chapters 101–110 were found and removed in this batch's own review pass — three weekday names and one month name — and any weekday or month date on the coast is a defect, because the coast's calendar is a seven-day tide, bells and the turn.**
+**Volume 02's audit and its twelve canon defects stand and were not built on.** `reviews/volume-02/volume-audit.md` found twelve hard defects inside Chapters 51–100, repaired none of them, and corrected four figures in the state record. **Do not quote any of them as canon and do not treat a closure claim as evidence.** The most likely to propagate are Chapter 96's "two months and nine days" (it is twenty-two days), Chapter 98's form arithmetic (which does not close; 463 is load-bearing and the order figures may not be restated), and Chapter 70's refusal number (the fourth, not the sixth). **Also standing: NINE week- or month-name slips in Chapters 101–110 were found and removed across this batch's own review pass and a post-batch repair pass — three weekday names and one month name, then a *this month*, a *first month of a tide*, a *fourth month / seventh month* pair used as dates, and a *Tuesday* — and any weekday or month date on the coast is a defect, because the coast's calendar is a seven-day tide, bells and the turn. A final repair pass over Chapters 101–110 after that found and fixed twenty further defects, listed in `state/batch-summary.md` under REPAIRS; the batch is closed and its chapters are canon.**
 
 **One controller-owned problem remains flagged and is deliberately not fixed.** **`state/phase-ledger.json` is stale and is off limits to an agent. Trust the filesystem and this file over the ledger.**
 
@@ -16,7 +16,7 @@ Last completed batch: Volume 03 Batch 0001 (10 of 10 chapters complete)
 
 Last completed chapter: 0110
 
-Last batch summary: `state/batch-summary.md`
+Last batch summary: `state/batch-summary.md` — **includes a REPAIRS section listing twenty defects found in Chapters 101–110 by a review pass run after the batch checkpoint, all now fixed. Chapters 101–110 are closed and canon as they stand.**
 
 Last volume audit: `reviews/volume-02/volume-audit.md` — **PASS**, twelve hard defects in canon prose recorded and not repaired
 
@@ -48,7 +48,7 @@ Known evidence gap: **no committed review file exists for four batches** — Vol
 
 ## Active threats
 
-- **A rule that cannot be changed for a year is on this coast until the third of next tide.** The charter is a pane; the fifth pane's letting day has gone; the tariff is a penny a tide; the days are painted on a post; the third of the seventh has been gone over twice; and the days are not in the charter and never were. The person who has the job of changing it is going blind and has told nobody.
+- **A rule that cannot be changed for a year is on this coast until a letting day a year off.** The third of next tide is not that date; it is the last day the money for the fifth pane can be in the glassmaker's hand and still be out of the arch in a year. The charter is a pane; the fifth pane's letting day has gone; the tariff is a penny a tide; the days are painted on a post; the third of the seventh has been gone over twice; and the days are not in the charter and never were. The person who has the job of changing it is going blind and has told nobody.
 - **A boy of eleven is on nine hundred yards of shingle nine times a day on the three worst days of the week at the best price of the week, and there is no keeper of that flat and never has been, and no body on this coast owns the flat.**
 - **An eighty-one-year-old woman is entered on a guild crossing card as the person who bears the cost of a bad week and has never been asked, and the toll she keeps is short twice in eight years and she paid both out of her own box, and nobody on this coast knows that she has been deciding alone for eight years whether four carts or sixteen go over.**
 - **A woman who sells rope has thirty-one years of tide in pencil and cannot get it into a record because the record is glass and glass cannot be crossed out, and the copy that was made for her is not the record and will be found in a hundred years by somebody who does not exist yet.**

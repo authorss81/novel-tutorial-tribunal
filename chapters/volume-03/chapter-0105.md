@@ -8,7 +8,7 @@ Pether Voke had lost a tide before he started and said so first, which nobody in
 
 Then he said, “And one thing before the man says his piece, because he has not asked and I am going to answer it so he does not have to stand there and be told later.
 
-“Who sent you? Nobody. I asked him yesterday on the water and he told me the truth, which is that a woman with a stall walked eleven miles to find out whether there was a man in a city who could look at a document and find where it was bolted to what. And that a lawyer of nineteen years said her the name of that man for no reason he gave her, in a lane, and that neither of them is going to be paid and neither of them is a party to anything.
+“Who sent you? Nobody. I asked him yesterday on the water and he told me the truth, which is that a woman with a stall walked eleven miles to find out whether there was a man in a city who could look at a document and find where it was bolted to what. And that a counsel of nineteen years said her the name of that man for no reason he gave her, in a lane, and that neither of them is going to be paid and neither of them is a party to anything.
 
 “And there is a court eleven miles up that road. I know about it. Every body on this coast knows about it the way you know about weather. It has a tray and a clerk and it can do one thing, which is put a mark on a sheet of paper, and it has no power over a strait, and there is no instrument in this Reach or in yours or in the city that can make anybody at this counter do anything they have not decided to do. If you have come here to say that a court is going to make them hear you, then you have come nine miles by water on a bad leg for nothing, and I would rather you spent the rest of the morning on the flat with a stick and a board, because that is where the good days are.”
 
@@ -62,10 +62,10 @@ The room did not make a sound. Thirty-one people, and a man of fifty-four sittin
 
 ---
 
-The System put the refusal in front of Ilyan Vester on the third of a tide, at the second bell, in a net loft with the doors open at both ends, and it was a record of a thing that was not entered anywhere.
+The System put the refusal in front of Ilyan Vester on the third of a tide, at the second bell, in a net loft with the doors open at both ends, and it was a record of a thing that was not entered anywhere in particular — a thing said out loud in a room, on the back of a fishmonger's notice, and read twice to the room before it was given away.
 
-**A MATTER IN TWO PLACES WAS ASKED FOR IN A LOFT AT THE THIRD OF A TIDE. THE SECOND PLACE WAS REFUSED IN THE OPEN BY A PERSON OF THAT PLACE, WHO WAS TOLD HE WAS BEING ASKED AND WHAT IT COST BEFORE HE ANSWERED.**
-**ENTERED: THAT THE REFUSAL IS CORRECT, AND THAT IT WAS GIVEN WITHOUT HIS BEING TALKED OUT OF IT, AND THAT IT COST HIM A TIDE, ELEVEN POUNDS OF FREIGHT AND TWO MEN'S DAY.**
+**A MATTER IN TWO PLACES WAS ASKED FOR IN A LOFT AT THE THIRD OF A TIDE. THE SECOND PLACE WAS REFUSED IN THE OPEN BY A PERSON OF THAT PLACE, WHO WAS TOLD HE WAS BEING ASKED AND WHAT IT COST BEFORE HE ANSWERED, AND WHO SAID THE COST OUT LOUD BEFORE HE BEGAN.**
+**ENTERED: THAT IT COST A TIDE, ELEVEN POUNDS OF FREIGHT AND TWO MEN'S DAY, AND THAT HE WAS NOT TALKED OUT OF IT.**
 **WHAT IS NOT DECIDED: WHAT A MATTER PUT IN ONE PLACE COSTS THE OTHER PLACE, AND ON WHOSE BACK IT NOW SITS.**
 
 The assembly's own practice is that a refusal is written on the back of the notice and read out at the next sitting, and Pether Voke asked for it to be written and then asked who would write it, and Efa Lund, thirty-four, who keeps the shore's count of what crosses the flat and has kept it eleven years in a book of her own, was the only person in the loft who could do it, and she said so, and he asked her, and she said yes.

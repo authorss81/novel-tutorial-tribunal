@@ -68,11 +68,23 @@ The road above the crossing is one cart wide and there was a bar coming up behin
 
 That is the whole of it, and it took the rest of that day and a good part of the next morning, and none of it is a mystery.
 
-The guild's crossing card and the guild's tide-office card are printed from one plate in one shop in a city two hundred miles up the coast, one under the other, with a rule between them, and the rule is a hair's width and a clerk filling a card in at a counter does not see a rule. A man who cannot read does not see a rule at all. He sees a line and he copies it because he has been told to fill the card in and the line is there. He copies it correctly. It is the wrong line.
+Wend Garrow had found the two cards. He had a guild crossing card in his apron with eight years of somebody else's pencil on it, and a tide-office card out of the same shop, and he had put them on the table in the guild house upside down to each other because that is how he had found them, stacked, and then he had turned them both over and put them back the way they were, and he did not know what he was showing and he was not able to be told.
 
-The guild is not hiding anything. The guild printed two cards off one plate because the pressman had one plate and two cards off one plate are cheaper than one card off two, and the guild's own return on that crossing for eight years says it was open every week of every year and never short, because the return is a return and a return is made out of the number that comes in the basket.
+“A rule between them,” said Ilyan Vester. “Hair's width. Both cards off one plate, one under the other.”
 
-And the guild's charter does say, in the one sentence that is in everybody's mouth on that road, that the passage-holder bears the passage. It is the sentence that keeps a licence from being a guarantee. It is correct. It is the sentence Bettany Rook has said out loud to strangers for six years.
+“One pressman,” said Wend Garrow. “One plate and two cards off it is cheaper than one card off two plates, and the guild has been having its cards printed at that shop since before I could read, and the shop is two hundred miles up the coast and the man who owns it has been dead nine years.”
+
+“Does the tide-office card have a line on it about who bears the passage?”
+
+“It has got a line at the bottom of it.”
+
+“Then a man filling in a crossing card sees a line and copies it, because he has been told to fill the card in. A man who cannot read does not see a rule at all. He sees a line. He copies it correctly. It is the wrong line.”
+
+Wend Garrow looked at the two cards on the table for a while.
+
+“Nine years,” he said. “The guild's own return for that crossing says it was open every week of every year and never once short. It is on the wall in the tide office. I have read it, because I read everything on those walls, which is my whole job and the only thing I am good at.”
+
+Ilyan Vester had stood in front of the charter on the second day of a tide and read the burden term off it with his own eyes, one piece at a time, at a counter, with a woman standing on the other side of it not helping him. **The sentence at the bottom of the tide-office card is that sentence.** Word for word, the same fourteen words, the same order, and the charter puts it at the head of a column where a person can find it in a room, and the card puts it at the end of a line where a man filling a card in will copy it without ever knowing what it says.
 
 And that sentence is standing at the end of the bottom line of a card at a bar road, with a name against it, and the name is Alma Gannock, and she is eighty-one, and she has been the person who bears the cost of a week the water is not on it for eight years, and it has cost her thirty-two pence, and it has cost her four hundred and sixteen decisions, and nobody has asked her one question about any of it.
 
@@ -80,7 +92,7 @@ The money is nothing. That is the finding and it took the whole of a day to be s
 
 The rest of it is not a number. It is that for eight years a woman has decided, on her own, on a bar road, in bad weather, with a boy of eight in the hut, whether four carts or sixteen go over; that nobody on this coast knows that she is deciding; that if the guild knew, it would put a second person on that road, because a second person is how you stop one person being the whole of a thing; and that she would rather be the whole of the thing, and she has never been asked why, and neither would she be able to say it in one sentence if she were asked today.
 
-Efa Lund said the other thing. She came up the shore road on the second of the tide with a basket on her arm and she had heard from Cleve Gannock, at a shop, in a shop, in three days, and she stood in the middle of the bar road and said:
+Efa Lund said the other thing. She came up the shore road on the second of the tide with a basket on her arm and she had heard it from Cleve Gannock, in a shop, in three days, and she stood in the middle of the bar road and said:
 
 “You have had it for a day and a half. You have had the worst fact I have heard in eleven years of counting and you have not gone back down there and asked her, and I said on the steps at Slackwater what would happen and I was right about it, and you have done the other thing, and I would like to hear you say why, because I have thought about nothing else for a day and a half and I am not the only one.”
 
@@ -98,6 +110,6 @@ Efa Lund stood on the bar road and looked at the water for a while.
 
 “That is two reasons,” she said, “and I have been trying all morning to think of a third that is a lie. Go on.”
 
-“There is a third one and it is the worst one and I have had it since the sixth,” he said. “I have found the pattern of it three times now on this coast and the pattern is: a person is standing nearest to a duty, and nobody has written down the duty, and the person has been doing it. Bel Hask. Corrie Tallow. Sabra Trew. And now an old woman on a bar road with a slate and a basket and thirty-two pence of her own money gone out of a box over eight years. I could put her in a page in a day. I have got a penny exercise book and a hand that will not hold a chalk square and I could write four hundred words about Alma Gannock in an hour, and it would be the fourth time I have done the same thing in four hundred miles, and every single one of the four has cost the person something that nobody put in the book.
+“There is a third one and it is the worst one and I have had it since the sixth,” he said. “I have found the shape of it three times on this coast and the shape is that a thing gets done and no body on this coast owns the doing of it, and the doing of it is what the thing is. A tariff nobody owns. A burden nobody owns. An old woman on a bar road with a slate and a basket and thirty-two pence of her own money gone out of a box over eight years. Bel Hask, and the woman who sells rope, and the apprentice at the glassworks — and now this. I could put her in a page in a day. I have got a penny exercise book and a hand that will not hold a chalk square and I could write four hundred words about Alma Gannock in an hour, and it would be the fourth time I have done the same thing in four hundred miles, and every single one of the four has cost the person something that nobody put in the book.
 
 “So she does not go in the book. Not this season. And I am writing down that I did not, and what the reason was, and the date, and that it is mine, and I am going to hand it to a woman with a ledger on this coast who is going to read it and tell me that a man off a road is nobody and cannot keep a thing like that. And she will be right, and then I shall have to go and find out how a person on this coast is supposed to be asked, and I do not know, and there is nobody here to teach me, and I have been saying that out loud for nine days to anybody who will stand still.”

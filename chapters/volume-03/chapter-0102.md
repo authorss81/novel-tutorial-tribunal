@@ -1,6 +1,6 @@
 # Chapter 102: Seven Days and a Wall With One Door
 
-The guild house at Kestrel Reach is a stone building on the harbour side with the custom counter on the ground floor and the tide office over it, and the door has a bell on it that is worked by a wire and not by a hand, so that a person inside can hear a person outside without getting up. The Reach has about nine hundred people in it and the house has four rooms and a loft over the loft, and everything anybody on this coast knows about the water is kept in the upper room, and the upper room is not opened to the public.
+The guild house at Kestrel Reach is a stone building on the harbour side with the custom counter on the ground floor and the tide office over it, and the door has a bell on it that is worked by a wire and not by a hand, so that a person inside can hear a person outside without getting up. The Reach has about nine hundred people in it and the house has four rooms and a loft over the loft, and everything anybody on this coast knows about the water is kept in the upper room, and the upper room is not opened without somebody in it.
 
 That last part is not secrecy and Bettany Rook will tell you so in about nine words, standing up, without being asked, and she will be right about that as she is right about the water.
 
@@ -43,7 +43,7 @@ She said it flat, and she was not being hard, and she had said it before, and th
 The System put the licence in front of Ilyan Vester on the seventh day of a tide, at the second bell, at a counter on a harbour, and it was a notice and not a rule about the world.
 
 **A LICENCE OF PASSAGE IS ISSUED BY THE WATER AND PASSAGE GUILD OF KESTREL REACH FOR SEVEN DAYS OF EVERY TIDE. THE SEASON IS PAID FOR ONCE, AT THE FIRST BELL OF THE FIRST OF THE TIDE. THE LICENCE DOES NOT NAME THE DAYS. THE LICENCE IS NOT REFUNDED ON A DAY THE WATER IS ON THE BAR.**
-**WHAT IS NOT DECIDED: WHO BURNS THE PASSAGE WHEN THE WATER IS ON THE BAR. THE LICENCE SAYS WHO PAYS FOR IT. A MAN IN A CITY FOUR HUNDRED MILES OFF HAS ENTERED, IN A BOOK, THAT THOSE ARE NOT THE SAME SENTENCE, AND IS NOT THE PERSON WHO SOLD IT.**
+**WHAT IS NOT DECIDED: WHO BURNS THE PASSAGE WHEN THE WATER IS ON THE BAR. THE LICENCE SAYS WHO PAYS FOR IT AND SAYS NOTHING ELSE, AND THE WORD AT THE BOTTOM OF IT IS NOT A NAME.**
 
 She was still talking. She had not stopped and the room had not gone quiet, and Ilyan was standing three feet from a piece of glass on a wall with a charter on it and the leg had the whole of her voice in it and it was the wrong weight again. Forty-four years old, somewhere four hundred miles behind him, and he was thirty-one, and the weight was not his and it had never once been his, and there was no way on any coast to explain a leg.
 

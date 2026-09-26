@@ -20,7 +20,7 @@ He was thirty-one and he had been on a cart for nine hours and he was four hundr
 
 ---
 
-Corrie Tallow was forty-eight and she had a stall at Wether Cross and she had sent a cart eleven miles up the road and paid a day’s hire for it out of a day she did not have, and the man in the cart had come out of it and was standing in the rain in the middle of a load of quicklime.
+Corrie Tallow was forty-eight and she had a stall at Wether Cross and she had sent a cart eleven miles up the road and paid four days’ hire for it out of four days she did not have, and the man in the cart had come out of it and was standing in the rain in the middle of a load of quicklime.
 
 She had seen him on the fourth of the tide and the first thing she had thought was that he did not look like a man who could be helped and the second thing was that he had not asked her anything, and the two together had taken the four days it took for the cart to come round.
 
@@ -38,7 +38,7 @@ The stall was an awning on four poles and a board across the front with the day�
 
 ---
 
-And he was honest, because he had a sheet in his coat with two questions on it and because a woman eleven miles up the road had written them and he had not been able to improve them.
+And he was honest, because he had a sheet in his coat with two questions on it and because a woman four hundred miles behind him had written them and he had not been able to improve them.
 
 “I need to know whether the crossing and the strait are the same matter,” he said. “Because if they’re the same matter, I can put it where it belongs. If they are not the same matter then the crossing is outside it from the start, and a rate on the crossing is not in the matter at all, and there’s nothing I could take back to anybody and no way on this coast that anybody could complain of it inside anything.”
 
