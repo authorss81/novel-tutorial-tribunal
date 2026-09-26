@@ -31,7 +31,7 @@ Six inches and four feet is three foot six, and one of those two numbers is wron
 
 The second one was the table. He could ask her whether the guild’s own table is right about the north end.
 
-And that is not a question about the water. It is a question about a thing somebody made in a shed and paid for, and this stone is for the water, and everybody on that flat knows it is for the water, and about nine of them know it the way people know a thing that has been true longer than they have, which is that none of them could tell you who taught it to anybody and not one of them would want to be asked.
+And that is not a question about the water. It is a question about a thing somebody made in a shed and paid for, and this stone is for the water, and everybody on that flat knows it is for the water, and about nine of them know it the way people know a thing that has been true longer than they have, which is that not one of them could tell you who taught it to anybody, and not one of them would want to be asked.
 
 He would get one sentence. It would be true, and it would not be unkind, and it would be over in about four seconds, and it would cost him the only thing he has got, and there is no way on this coast to get it back, because a person does not get a second question and does not get a different day.
 

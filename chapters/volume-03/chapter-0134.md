@@ -1,14 +1,14 @@
 # Chapter 134: The Two Days a Week
 
-The seventh of the seventh tide is a bar day and the strait is shut, and the water has been on the crown of the bar since before the light and it is not coming off it, and every cart on this coast that has to come round this coast is on nine hundred yards of shingle this morning instead of on a road.
+The seventh of the seventh tide is a bar day and the strait is shut, and the water has been on the crown of the bar since before the light and it is not coming off it, and there is more of it on that shingle this morning than there is on any road in four hundred miles, and not one cart of it is going anywhere else, and on a seventh the water owns the bar the way it owns everything else that day.
 
 Nobody has ever given the seventh a name that means anything. It is the day the water owns the bar, and that is all it is, and it comes round about seven times in a season and there is nothing anybody can do about it and nobody on this coast has ever once tried.
 
 ---
 
-Gell Roke was at the harbour mouth at about the eighth bell with a pot of paint in one hand and a hammer in a bag at his feet and a boy of about ten holding the pot.
+There was a man on the staff at the harbour mouth at about the eighth bell, and a boy of about ten was holding his pot for him, and his hammer was in a bag on the ground because he had not wanted to carry it up the slip in that hand.
 
-He is seventy-one and he paints that staff at two feet under, and the staff has stood in the same place for about four hundred years, and the only moment in the week a man can put a mark on it at two feet under is the turn on a seventh, because that is the only time the water at the harbour mouth stands up over the two-foot mark. He has never explained that to anybody and nobody has ever asked him and he repaints it when the feeling comes on him, and the feeling comes about twice a season.
+Gell Roke is seventy-one and he paints that staff two feet under, and the staff itself has stood where it stands for about four hundred years. What makes it a job and not a hobby is the water. A mark two feet under can only be put on when the sea at the harbour mouth is standing up over the two-foot mark, and that happens once a week and not on six days, and on the other six that paint goes on a mark nobody can see. He has never set that out for anybody, nobody has ever thought to ask him, and he comes back and does it about twice a season according to how he feels.
 
 He had a coat on the mark from about four years ago and it had gone thin at the two-foot line, and he was putting a second one on, and the pot had to go up under there to reach it.
 
@@ -16,15 +16,15 @@ He had a coat on the mark from about four years ago and it had gone thin at the 
 
 The boy held it up.
 
-The mark under the water is the same width as the mark above it and it has been the same width for nineteen years, and it is a long way from where the thing it marks now is, and about two hundred people on this coast have worked that out at some time in their lives and not one of them has ever said it to anybody, and this morning nobody said it to anybody either, because it is a bar day and there were seventy people on the flat and every one of them had a load.
+The mark under the water is as wide as the mark above it and has been for nineteen years, and what it marks is a long way from where it is, and somewhere under two hundred people on this coast have worked that out for themselves at some time, and it has never once come out of one of their mouths, and nobody said it this morning either, because it is a bar day and seventy people were on that flat and every one of them had a load.
 
 ---
 
-On the flat the chain went up and came down nine times, and it rests an hour between the fifth and the seventh, and the seventh is the day it rests, and the eighth crossing of the nine is the one the man with the bar has to hurry over, and that is how a seventh is made and it is not anybody being cruel.
+The chain went up and came down on that flat nine times, and then it lay still for an hour between the fifth and the seventh, and a seventh is the day it lies still, and the eighth crossing of the nine is the one the man with the bar has to hurry over, and that is how a seventh is made and it is not anybody being cruel.
 
-Corrie Tallow was at the far stones with her slate for the ninth crossing, because the ninth crossing of a bar day is the only one on that flat worth a slate, and she is not paid and never will be and she is always there on the ninth. She had counted forty-one crossings that day and about half of them had been people on foot, and a boy of eleven had gone over for the ninth time at a penny with a hand-lead in his fist, and nobody on that shingle thought anything about it, including him.
+Corrie Tallow was out at the far end with her slate, because a ninth crossing is the only crossing on that flat anybody has ever thought of putting in pencil, and nobody pays her for it and nobody is going to start, and she is there on every ninth without fail. She had counted forty-one crossings that day and about half of them had been people on foot, and a boy of eleven went over at a penny with a hand-lead in his fist and nobody on that shingle thought anything of it, him included.
 
-The tally post was at the crossing with its chain across the path and the board on the front of it, two numbers and a difference and a line under them, the fourpence of nails holding as they have held, and the ninth crossing went over about four feet from it and nobody looked at it. It is inspected at about the turn on a seventh, once a year, by a man with a hammer, and it had been inspected in the turn of the year and it would not be inspected again until the turn of the year after, and there is nobody on this coast who has any business at that post on a seventh morning and nobody had.
+The tally post was at the crossing with its chain up and the board on the front of it, and the fourpence of nails holding as they have held, and the ninth crossing went over about four feet from it and nobody looked at it. It is inspected at about the turn on a seventh, once a year, by a man with a hammer, and it had been inspected in the turn of the year and it would not be inspected again until the turn of the year after, and there is nobody on this coast who has any business at that post on a seventh morning and nobody had.
 
 Danno Ray came over on the seventh crossing with a load of lime and two men on and he was forty-five and he had been on the high road since he was a boy, and he got his cart off the flat and turned the beasts round and came back along the near side where the going is firm, because he was not a fool about a seventh.
 
@@ -42,9 +42,9 @@ He was not the only one who had. There were about nine people on this coast who 
 
 ---
 
-At about the turn Seth Garrick sang at the stone.
+Seth Garrick sang at the turn, on the stone, as he does.
 
-It is four lines and it is a tariff, and it is sung every seventh at the turn by one man, and it is not written down and it is not on any board, and the lines went out over nine hundred yards of wet shingle in the ordinary way, and four or five people came in on the chorus, which they do.
+Four lines, and a tariff, and it belongs to the seventh and to nobody else, and there is no copy of it anywhere, on a board or off one, and about nine hundred yards of wet shingle had it this morning the way it has everything, and four or five people came in on the chorus, which they do.
 
 The stone was bare behind him. Nobody stood on it that day and nobody could have, and there is nobody on this coast who has ever explained to the guild or to anybody else why that is, and the guild has never asked.
 

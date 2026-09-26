@@ -42,7 +42,7 @@ That is what it looked like. In the middle of the seaward face, for about eleven
 
 Nobody was in it. That is the first thing about it and it is the whole of why it was possible for six people to stand on a wall and look at it for as long as they did.
 
-“It is not the wall failing,” said Halse Tarrant. “Do not anybody say that. The wall is doing what it was built to do and it has been doing it for nineteen years. That is the bed going out from under the bottom course in the middle of eleven yards of it, and I found that yesterday with a lead line in a boat, and I have got it in a book in a shed with the date on it, and there are four people on this coast who know what is in that book, and I told all four of them myself last night at the top of the lane, and not one of the four can do one single thing about it.”
+“It is not the wall failing,” said Halse Tarrant. “Do not anybody say that. The wall is doing what it was built to do and it has been doing it for nineteen years. That is the bed going out from under the bottom course in the middle of eleven yards of it, and I found that yesterday with a lead line in a boat, and I have got it in a book in a shed with the date on it, and there are three people on this coast who knew I went out yesterday and not one of them knew what I went out for.”
 
 He did not say the last part to anybody who had not been there. It came out the way a thing comes out of a man on a wall.
 
@@ -58,7 +58,7 @@ He put his hand flat on the ninth course.
 
 “And the guild was right,” he said. “I want that said too, and by me, and in the open, and not once in the next year by anybody else. The danger was real. The danger is there this evening. They put two hundred and sixty yards of stone on that shoulder in a season because the water had already taken a hut and a slip, and they were right, and I have watched it every day for thirty-one years and it is exactly as bad as the man who laid the stone said it would be, and if you take that wall out you have got no north end in three winters and I would say so to anybody who asked me tonight, including anybody in a building two hundred miles up this coast.”
 
-Nobody said anything for about a minute, and the westerly got up another notch, and the boil in eleven yards of it went on doing what it was doing, and the sand went on going out of the deep.
+Nobody said anything for about a minute. The westerly got up another notch, and the boil in eleven yards of it went on doing what it was doing, and the sand went on going out of the deep.
 
 ---
 

@@ -26,13 +26,13 @@ And she read it out, and it took her about nine seconds, and it is the only othe
 
 “Course three, the outer end of the north wall. Given as a place and not a figure. There is a post at the inner end of that wall with a plate on it, and the third column says the outer end is two hundred and sixty-one yards from that post, along the line of the wall, and then it gives the height at the top of the inner end, which is the ninth course, which is the six-foot one.
 
-”Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course for the whole length of the wall, and for the last nine yards before the outer end it stands to the fifth.”
+”Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course, and that the inner end is the fifth.”
 
 She stepped away from the frame.
 
 “Nine of the eleven are depths,” she said. “They are depths and they are taken from a boat at the lowest of the ebb with a line and they are for a morning. And the two that are not depths are the two that are about a wall, and a wall is not a depth, and whoever made these two columns knew it, and they gave them as places because that is the only way you can say anything about a wall that is going to stay where it is.”
 
-“The guild’s third says two hundred and sixty-four,” said Hollis Thrale. “And its eighth says the toe stands to the fourth course for the whole length, and it does not give the eleven yards at all. And I have got both of them in my head in a clerk’s hand and I have had them for two years, and I am going to tell you how I got them, because you have not asked and I would rather you had them than worked them out.
+“The guild’s third says two hundred and sixty-four,” said Hollis Thrale. “And its eighth says the toe stands to the fourth course for the whole length, and it does not give the inner end at all. And I have got both of them in my head in a clerk’s hand and I have had them for two years, and I am going to tell you how I got them, because you have not asked and I would rather you had them than worked them out.
 
 ”The harbourmaster read me two columns off her own wall in a yard on the fourth of a tide and would do nothing else, and she was within her rights, and she was right to refuse me the other nine, and I did not go back.”
 
@@ -42,9 +42,9 @@ She stepped away from the frame.
 
 He put his hand flat on the bench.
 
-“So the third column is a small thing that tells me the water has moved and tells me nothing about how far. And the eighth column is the whole of the trouble and it has been the whole of the trouble for two years, and I have said so to a glassmaker who made this one and to nobody else, and the glassmaker was me, and that is the shape of it. The eighth column says how much gravel is standing against the seaward face. Mine says two courses for the whole of it. Theirs says four. A course on that wall is about the thickness of my hand, and four courses of it is two feet eight, and two is a foot and four, and if theirs is right then that wall has had two feet eight of gravel standing against its face for nineteen years and it is doing its job. And if mine is right then the toe has come down by a foot and four along two hundred and sixty yards, and there is no bottom under that bottom course in places, and the ebb is working round the foot of a wall instead of past the end of it.
+“So the third column is a small thing that tells me the water has moved and tells me nothing about how far. And the eighth column is the whole of the trouble and it has been the whole of the trouble for two years, and I have said so to a glassmaker who made this one and to nobody else, and the glassmaker was me, and that is the shape of it. The eighth column says how much gravel is standing against the seaward face. Mine says two courses for the whole of it and five at the inner end. Theirs says four. A course on that wall is about the thickness of my hand, and four courses of it is two feet eight, and two is a foot and four, and if theirs is right then that wall has had two feet eight of gravel standing against its face for nineteen years and it is doing its job. And if mine is right then the toe has come down by a foot and four along two hundred and sixty yards, and there is no bottom under that bottom course in places, and the ebb is working round the foot of a wall instead of past the end of it.
 
-”And I cannot tell you which of those two is true, and I have had two years to try, and the only way there has ever been to try it is to put the two panes on one bench, and the only instrument anybody will act on is theirs, and it is on a wall a mile up that hill in a frame and it does not come out of that building and the next one is a year off and there is no money in the arch.”
+”And I cannot tell you which of those two is true, and I have had two years to try, and the only way there has ever been to try it is to put the two panes on one bench, and the only instrument anybody will act on is theirs, and it is a mile up that hill in a frame, and it does not come out of that room, and the next firing is a year off and there is no money in the arch.”
 
 “Then make another one.”
 
@@ -74,7 +74,7 @@ Sabra Trew turned round.
 
 The man on the crate by the warm wall had the true answer in his mouth about two seconds before the fire made its noise the second time, and he had it in his mouth and he did not say it, because he has been wrong about the same shape of thing three times on this coast now and every one of the three times he had put it in a building.
 
-He said instead the thing he had actually come to say, which was a stupid thing, and he knew it was a stupid thing while he was saying it.
+What he said instead was the thing he had come up the road to say, and it was not much of a thing, and he heard himself saying it and did not stop.
 
 “There is a man two miles along this coast with a lead line in a box and a boat and the ability to sound. He is fifty-eight and he is the only man on this coast who has the four things. He needs a day and he has not got one and he has not asked anybody in fifteen years.”
 

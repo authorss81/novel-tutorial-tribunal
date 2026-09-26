@@ -1,12 +1,12 @@
 # Chapter 138: The Driven Mark
 
-The fourth of the eighth tide is a bar day and the sea has been standing up over the crown of the bar since the middle of the night, and the ebb out of that deep at the north end is about an hour and a quarter and hard, and it is coming out carrying sand, and it is putting the sand into the hole, and for the length of that ebb the hole is not a hole.
+The fourth of the eighth tide is a bar day and the sea has been standing up over the crown of the bar since the middle of the night, and the ebb out of that deep at the north end is an hour and a quarter, and hard, and it is coming out carrying sand, and it is putting the sand into the hole, and while it does that the hole is not a hole.
 
-Sorrel Gannock took the flat boat off the hard at about the fourth bell with the towrope in the bow and a coil in her hand and nothing else in her at all, and she is thirty-six and she is the only one of the three brothers who will take a boat over that shallow on a bar day, and she has done it for eleven years and did it for eleven years in her father’s place and has not been paid one penny of any of it and there is nowhere on this coast to put the name of the person who did it.
+It was Sorrel Gannock who had the flat boat off the hard by about the fourth bell, with the towrope in the bow and a coil in her hand and nothing else in her at all, and she is thirty-six and she is the only one of the three brothers who will take a boat over that shallow on a bar day, and she has done it for eleven years and did it for eleven years in her father’s place and has not been paid one penny of any of it and there is nowhere on this coast to put the name of the person who did it.
 
-A man with a bad leg went in it because there was nowhere else to be.
+He went in it because a bar day is a day with nowhere else to be, and nobody asked him and he did not offer.
 
-He put his hand flat on the bottom of the boat at the crown and could feel the sand come under it, in grains, in a wave of them, the way a man can feel rain coming on a roof. And the leg went the way it goes, from the hip down, all of it, in about four seconds, and he had a man’s knees against his back and a flat bottom under him and nowhere to go, and it stayed gone for about the length of two hundred yards and came back about a minute after she had the bow up on the far bank, worse.
+He got his hand down flat on the boards under him at the crown of the bar and the sand came up under it in grains and in a wave of them, the way a man can feel rain arriving on a roof. And the leg went the way it goes, from the hip down, all of it, in about four seconds, and he had a man’s knees against his back and a flat bottom under him and nowhere to go, and it stayed gone for about the length of two hundred yards and came back about a minute after she had the bow up on the far bank, worse.
 
 Nobody in that boat said anything about it then or afterwards, and she did not look round, and she had not looked round the last two times either.
 
@@ -74,15 +74,15 @@ It settled nothing. It was not evidence of anything, and it was not a discovery,
 
 At about the sixth bell a cart’s wheel came off on the shingle above the flat at the north end.
 
-It came off the way a wheel comes off, all at once and about four seconds late, and the sound of it went a long way over the shingle, and there were about seventy people on that flat and not one of them looked up, because a wheel coming off makes a noise like a cart going over and everybody on a fourth has heard that noise and does not turn round for it.
+It came off in one movement and the noise that came with it was about four seconds behind it, and the noise went out over that deep and came back off the water thinner than it went out. About seventy people were on the flat and not one of them turned round. A wheel coming off is not a thing anybody on a fourth stops for, and there is no man on nine hundred yards of shingle who has ever stopped for one.
 
-The man who came out first was fifty-eight and had hoop iron in a cart behind him and a bundle of bar steel on the top of it, and he had come up the coast road in the morning with a load the way he comes up with a load, and he had stopped at the north end for a collar cut the way he stops, and he was across forty feet of hard before the cart had stopped, and the man whose wheel it was had not got down yet.
+The first man out of that shed was fifty-eight with ash in his hand, and there was a cart behind him with hoop iron in it and bar steel roped down on the top of that, and he had a collar cut to do and had been in that yard about a quarter of an hour for it, and he was over the hard and down on the wheel before that cart had finished coming to a stop, and the man it belonged to had not got down yet.
 
-Ostre Brann put the bar steel on the ground and went at it with his hands and said one word, and the word was *sprung*, and then he said the other thing, which is the thing he always says and which is the reason everybody on this coast will say a man who has been in his yard is honest.
+Ostre Brann set the bar steel down out of the wet where it would not cut into the shingle and went down on the wheel with his hands, and he had one word for it and the word was *sprung*, and he said it once, and the carter had not asked him anything.
 
-“Down there is no good and down there is going to be water in an hour. Bring it up the hard and put the disc off it and stand it up, and do not put that iron on the shingle, that iron has been on my cart for two days.”
+“Up the hard,” said Ostre Brann, “and take the disc off and stand it up on the gravel, and get that iron off the shingle, and I am not going to say the rest of it, because I said the rest of it on this flat a fortnight ago to a man who is not standing here.”
 
-Then he went over the wheel with a length of line at four places, and he found the place where it touched and the place where it stood off, and put his thumb in the gap, because you cannot argue with a thumb.
+Then he laid a length of line across the rim at four places, and he found the two that did not agree, and he put his thumb in the gap and left it there until the carter came and put his own thumb in it, because you cannot argue with a thumb.
 
 ---
 
@@ -90,15 +90,15 @@ Then he went over the wheel with a length of line at four places, and he found t
 
 ”Do not do that. Bring it up the hard.”
 
-He got the disc off and laid the wheel on the bench in Cawley’s yard and did the other thing, which is to put the felloe ends against a flat surface and feel along them for a crush, and he found one in about the place he found the last one, on a pair of them a third of the way along, and the wood had opened the width of a thumbnail where it had opened last time and closed again in a wedge, and there was shingle in the wedge.
+He got the disc off and laid the wheel on the bench in Cawley’s yard and did the other thing, which is to lay the felloe ends down on a flat surface and feel along them for a crush, and he found one in about the place he found the last one, in a pair of them, about a third along the nave, and the wood had opened the width of a thumbnail where it had opened last time and closed again in a wedge, and there was shingle in the wedge.
 
-And then he said the thing that is his, which is not the same thing he said last time and is worth exactly as much.
+And then he said the thing that is his, which is not a thing anybody on this coast has ever heard him say, and it is worth exactly as much as the other three.
 
 “You can get a number off a wheel,” he said. “Nobody has ever told anybody that and it is not any use to anybody, and I am telling you because you are the third man in a month who has come to me about water and I would like one of you to be told that it can be done with the tools I have got.
 
 ”Everything in that nave above the axle line took the load. Everything below it did not. So the wood above the axle line is a record of how deep the going was and the wood below it is a record of how deep it was not, and if you take a wheel to pieces and put a rule on it you can tell me within about four inches what the going was like on the last crossing, and I have done it, and I have never once told anybody, because it is a fact about the last crossing and about nothing else in the world.
 
-”A repair is not a date. There is a plate in that nave with pegs in it and they are old and they are not mine and they tell you a wheel came in cracked once and it does not tell you when. There is a punch in the hoop and it is Ness Tarn’s and Ness has been dead nine years and a mark says who bought the iron and the iron does not know anything about water.
+”A repair is not a date, and I said that to the last man who came in here, and I am saying it to you in the same words because it is still true and you are the second man this season to want a date off a wheel. There is a plate in that nave with pegs in it and they are old and they are not mine and they tell you a wheel came in cracked once and it does not tell you when. There is a punch in the hoop and it is Ness Tarn’s and Ness has been dead nine years and a mark says who bought the iron and the iron does not know anything about water.
 
 ”But the number I can give you, and I have never been asked for it by anybody, is four inches, and it is about the ground, and it is about one crossing, and it is about the axle height of one cart.
 

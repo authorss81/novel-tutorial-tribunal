@@ -28,7 +28,7 @@ She looked at him for about two seconds.
 
 “Then you get one and you have got one, and nobody may ask you a second and there is not going to be one, and I am not going to make you walk back down nine hundred yards of wet shingle with nothing because you asked it in the wrong words. Nobody has ever been made to walk down that shingle with nothing and nobody is going to start with you on my account. Ask it properly or I cannot answer it, and you have asked it properly.”
 
-And then she answered it, out loud, in front of about seventy people, and she did not hedge and she did not soften it and she did not ask him for anything, and it took about a minute and a half.
+And then she answered it, out loud, in front of about seventy people, and it took about a minute and a half, and she did not soften it, and every word of it carried to the far stones without anybody moving, and she did not ask him for anything either.
 
 “There is nothing in that paper that is wrong about the water.
 
@@ -62,7 +62,7 @@ She got down off the flat stone onto the shingle and did not pick up anything, b
 
 He went down off the stone and down the shingle to the chain and put his slate in his hand and carried it for the rest of the day, and he did not say anything to anybody about what he had been told, and about nine people on that flat would have given a great deal to have heard it.
 
-There were seven carts on the flat and the man with the bar took them across in order. A boy of eleven went over for the ninth time at a penny with a hand-lead in his fist. A woman of forty-eight was at the far stones with her slate for the ninth crossing, because the ninth crossing of a bar day is the only one on that flat worth a slate, and she is not paid and never will be and she is always there on the ninth. The tally post stood where it has stood with its chain across the path, and the board was on the front of it with its two numbers and the difference and the line under them, and the fourpence of nails held, and the ninth crossing went over four feet from it and not one man on that flat so much as turned his head at it.
+There were seven carts on the flat and the man with the bar took them across in order. A boy of eleven went over for the ninth time at a penny with a hand-lead in his fist. A woman of forty-eight was where she always is when a flat takes nine, at the far stones, with a slate on her knee, because there is one crossing out of nine that a person might write down and it is the one the water made hardest, and she has never been paid for any of it and has never once said so out loud. The tally post stood where it has stood, the chain across the path, and the board still on the front of it, and the ninth crossing went over four feet from it, and not one man on that flat so much as turned his head at it.
 
 Seth Garrick came out of the oil shed at the head of the lane when the ninth crossing was done and stood with his back on his own door and looked at the flat for a while, and then he said one thing out loud to nobody in particular, which was: “Well.”
 

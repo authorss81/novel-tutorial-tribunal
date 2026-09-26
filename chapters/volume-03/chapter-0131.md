@@ -8,7 +8,7 @@ Two men were on the line because that is what a fourth is for. Nine crossings go
 
 The guild’s own works were finishing at the far end of that water, four men on the last of the nine yards of sea wall, and the stone for it had gone over on the third of that tide and it had been two days since, and a man who lays a wall knows that a wall does not wait and so the stone had come on the second ebb and not the first and the two days were on the far side and everybody who had hired that stone had stopped looking at their own watch.
 
-And the tally post was there at the crossing with the chain across the path and the board on the front of it with two numbers on it and a difference and a line under them, and the fourpence of nails held, and nobody put a hand on it, because it is a bar day and there were seven carts on that flat and every one of them was more urgent than a board.
+And the tally post was there at the crossing with its chain up, and the board was on the front of it, and it is a bar day and there were seven carts on that flat and every one of them was more urgent than a board.
 
 At the turn Wend Garrow went up the shingle to the head of the flat and put his beasts’ heads up about a foot and waited, because the water was coming over the bar and was going to keep coming for another hour and a half, and everybody on that coast knows what a fourth does and none of them will stand on a stone early.
 
