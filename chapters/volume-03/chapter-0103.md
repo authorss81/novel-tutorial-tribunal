@@ -74,7 +74,7 @@ The other thing she wanted, the thing she had wanted for four years, she said in
 
 “What is the answer?”
 
-“They will not fire a hand into a pane,” said Corrie Tallow. “That is the answer. They keep their water on glass because paper goes. A pane does not go, a pane lasts about nine years and then you fire a new one, and that is the only record this coast has of where the channel goes. And you cannot take a mistake out of glass. If my figures were wrong in the fourth of some tide, and somebody fired them in, and then a boat went on the bank in the seventh of the next tide because of what I wrote in the fourth, then there is a pane on the wall of that building with a woman's pencil in it and no way of taking it out and no way of saying whose fault it was, and they will not do that, and they are right, and I have got thirty-one years in a penny exercise book that answers to a wet sleeve.”
+“They will not fire a hand into a pane,” said Corrie Tallow. “That is the answer. They keep their water on glass because paper goes. A pane does not go, a pane lasts about twenty years and then you fire a new one, and that is the only record this coast has of where the channel goes. And you cannot take a mistake out of glass. If my figures were wrong in the fourth of some tide, and somebody fired them in, and then a boat went on the bank in the seventh of the next tide because of what I wrote in the fourth, then there is a pane on the wall of that building with a woman's pencil in it and no way of taking it out and no way of saying whose fault it was, and they will not do that, and they are right, and I have got thirty-one years in a penny exercise book that answers to a wet sleeve.”
 
 She put her hand flat on the awning pole.
 

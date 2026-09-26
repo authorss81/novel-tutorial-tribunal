@@ -91,7 +91,7 @@ He asked it at the sixth bell, in the yard, with the rain coming off the eaves i
 
 “Read me the part about who holds the passage when the water is over the bar.”
 
-“There is no part about that either, and I will tell you why there is no part about it, and I have told the guild council for eleven years and I have never once been asked again, which is itself a kind of answer.” She put her hand on the door frame. “A charter is a thing that says what a thing is. This charter says what a passage is, and a passage is water a boat may go over and back on, licensed, by the season. That is the whole of what it says. It is a good charter. It is the best charter I have read anywhere and I have read forty years of them. And it does not say what happens on the fourth day, because on the fourth day nothing happens, because the fourth day is not a passage, and the charter is not a place where you write down what you are not going to do.”
+“There is no part about that either, and I will tell you why there is no part about it, and I have told the guild council for eleven years and I have never once been asked again, which is itself a kind of answer.” She put her hand on the door frame. “A charter is a thing that says what a thing is. This charter says what a passage is, and a passage is water a boat may go over and back on, licensed, by the season. That is the whole of what it says. It is a good charter. It is the best charter I have read anywhere and I have been reading them since I was twenty-six. And it does not say what happens on the fourth day, because on the fourth day nothing happens, because the fourth day is not a passage, and the charter is not a place where you write down what you are not going to do.”
 
 “So who holds it when the water comes?”
 

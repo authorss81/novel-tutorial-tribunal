@@ -1,8 +1,8 @@
 # Chapter 107: A Pane Is Not a Copy, It Is a Year
 
-On the sixth of the tide he walked the two miles along the coast above the crossing to the glassworks at Thornglass, which is a shed, a kiln, a long bench, an arch and a yard of cullet, and it is the only building on this stretch where nobody ever has to shout, because the fire is behind two feet of brick and the man who built it in the year of the bad seventh was deaf in his right ear and has never once been asked about it.
+On the sixth of the tide he walked the two miles along the coast above the crossing to the glassworks at Thornglass, which is a shed, a kiln, a long bench, an arch and a yard of cullet, and it is the only building on this stretch where nobody ever has to shout, because the fire is behind two feet of brick, and the family has been deaf in the right ear since the kiln was built in the year of the bad seventh, and nobody has ever once been asked about it.
 
-Hollis Thrale is sixty-one. He has been at the fire for forty-one years. He is right about his craft in every particular that can be tested and wrong about one thing, and the thing he is wrong about is the whole of this chapter.
+Hollis Thrale is sixty-one. He has been at the fire for forty-one years. He is right about his craft in every particular that can be tested and wrong about one thing, and the one thing is the whole of what this chapter is for.
 
 The apprentice is Sabra Trew, twenty-four, in her third year, and she scrapes a batch off the kiln floor with an iron bar, and her back is the shape of a person who has been leaning over a low fire for three years, and she is paid nothing, and she is not unhappy, and she has not answered a letter.
 
@@ -16,7 +16,7 @@ He had said that to about forty people in his life and he was saying it to a man
 
 “Twenty years back.”
 
-“Nineteen and eight months for the first of them, and the charter before the table by about three months,” said Hollis Thrale, “and the table is a better piece of work than the charter and I have said so to about four people and none of them wanted to hear it. If you want to see what a pane of mine looks like, that is the one on that wall behind you, and I made that one three years ago for myself, because the guild's does not come out of that building and a man ought to be able to read the water off his own wall, and the guild has never seen it and is never going to.”
+“Nineteen years and eight months for the first of them, and the charter before the table by about three months,” said Hollis Thrale, “and the table is a better piece of work than the charter and I have said so to about four people and none of them wanted to hear it. If you want to see what a pane of mine looks like, that is the one on that wall behind you, and I made that one three years ago for myself, because the guild's does not come out of that building and a man ought to be able to read the water off his own wall, and the guild has never seen it and is never going to.”
 
 ---
 
@@ -32,7 +32,7 @@ A batch is a batch. It goes in the arch on a tide and it is turned about forty t
 
 “So the guild cannot change its own charter.”
 
-“The guild can write on anything it likes for the next eleven months and not one word of it will be the charter,” said Hollis Thrale. “The charter is that pane, because that pane is the only one that was ever made and everybody on this coast has believed for nineteen years that there is one of it and there is, and that is what a thing being true is made of. I could write the most beautiful charter in this county on that bench this afternoon and it would be a sheet of paper about nineteen years old in a year, and a sheet of paper is not this, and a pane is not a sheet of paper, and I have been trying for forty-one years to work out why everybody says that as though it were obvious.”
+“The guild can write on anything it likes for the next eleven months and not one word of it will be the charter,” said Hollis Thrale. “The charter is that pane, because that pane is the only one that was ever made and everybody on this coast has believed for nineteen years that there is one of it and there is, and that is what a thing being true is made of. I could write the most beautiful charter in this county on that bench this afternoon and in a year it would be a sheet of paper nineteen years old, and a sheet of paper is not this, and a pane is not a sheet of paper, and I have been trying for forty-one years to work out why everybody says that as though it were obvious.”
 
 ---
 
@@ -78,7 +78,7 @@ The old man came out to the bench about a quarter of an hour later and put a can
 
 “But you are also wrong, and you are wrong in the way people from the roads are wrong, and I am going to say it because you asked me and because you have been honest in my shed.
 
-“You called it a photograph, and then you will want to know what a photograph is *for*, and the honest answer is that a photograph is for arguing with. A photograph is the only thing on this coast that cannot be argued with, and if you cannot argue with a thing then you cannot ask it anything, and the day this coast has to ask that pane a question — the day the water goes somewhere that pane does not say — there will be no way on this coast to ask it, and there are two people alive who can read it, and one of them is sixty-one and deaf in the right ear and has not had a cart in his yard in nine years, and the other is fifty-one and she is losing the one eye she has got and she has told nobody including me, and I found out in the spring because I made her a lens and a lens is a thing you fit to a person rather than to a window.”
+“You called it a photograph, and then you will want to know what a photograph is *for*, and the honest answer is that a photograph is for arguing with. A photograph is the only thing on this coast that cannot be argued with, and if you cannot argue with a thing then you cannot ask it anything, and the day this coast has to ask the guild's pane a question — the day the water goes somewhere that pane does not say — there will be no way on this coast to ask it, and there are two people alive who can read it, and one of them is sixty-one and deaf in the right ear and has not had a cart in his yard in nine years, and the other is fifty-one and she is losing the one eye she has got and she has told nobody including me, and I found out in the spring because I made her a lens and a lens is a thing you fit to a person rather than to a window.”
 
 He put his hand out flat at the frame, on his own pane, the one the guild had never seen.
 
@@ -86,7 +86,7 @@ He put his hand out flat at the frame, on his own pane, the one the guild had ne
 
 “That one and the one in the guild house were fired about sixteen years apart. Eleven courses on both, and the same brass, and the same hand on the ruling, and two columns out of the eleven do not agree. The later one is mine and I would swear to mine. That one had been on my wall for a year before I saw it, and I did not see it because nobody in the world makes a second copy of a thing in order to check the first, and because I am sixty-one and I am right about glass.
 
-“And here is why I have not said it out loud. I cannot get at theirs to put the two side by side, because the guild has never let that pane out of that room in nineteen years and is not going to now, and they have a clerk and a key and a building and nineteen years of custom behind them, and I have a shed. And I cannot be sure mine is the right one either, because the channel moves, and the two that differ are the third and the eighth, and the third and the eighth are the two columns that record a place and not a depth, and a place that has moved is a place that has moved since I wrote it down. I have been out on that bar twice this year with a boat and a line and I know which of us is right. There is no instrument on this coast that would say so in a room. The only thing that would say so in a room is a pane, and the only pane in a room is theirs.”
+“And here is why I have not said it out loud. I cannot get at theirs to put the two side by side, because the guild has never let that pane out of that room in nineteen years and is not going to now, and they have a clerk and a key and a building and nineteen years of custom behind them, and I have a shed. And I cannot be sure mine is the right one either, because the channel moves, and the two that differ are the third and the eighth, and the third and the eighth are the two columns that record a place and not a depth, and a place that has moved is a place that has moved since I wrote it down. I have been out on that bar twice this year with a boat and a line and I know which of us is right. There is no instrument on this coast that would say so in a room. The only thing that would say so in a room is a pane, and the only pane anybody will act on is theirs.”
 
 He took his hand off the glass.
 

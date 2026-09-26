@@ -56,7 +56,7 @@ Wend Garrow went through on the fourth with a season’s passage paid for on the
 
 They got him out at the far end. They got the horses out. They did not get the salt boards, which are the cargo and are paid for twice if they come back broken, and they did not get the cart, which is his own and which he built himself in the winter.
 
-The guild was right. That is the whole of it and there is no other part of it. The bar was where the table said the bar was, on the fourth day of the tide, at about the seventh bell, and the table is a pane of saltglass in a frame in the tide office at Kestrel Reach, and the guild does not let it out of the building because it is the only copy and because it is a working record of a moving thing and it goes brown in about nine years and then it is a different record.
+The guild was right. That is the whole of it and there is no other part of it. The bar was where the table said the bar was, on the fourth day of the tide, at about the seventh bell, and the table is a pane of saltglass in a frame in the tide office at Kestrel Reach, and the guild does not let it out of the building because it is the only copy and because it is a working record of a moving thing and it goes brown in about twenty years and then it is a different record.
 
 Wend Garrow is thirty-three. He has been on that road since he was nine. He got out. He is standing on a quay at the top of a lane with no cart and a hook in his hand and he is not a liar and he is not wrong about most of it.
 
@@ -78,7 +78,7 @@ At the seventh bell the water came over the bar, and the whole of the Reach lay 
 
 The bar went under about two feet and stayed there.
 
-That is the fact about the sixth day of a tide at Kestrel Reach, and it is the only fact about the water anybody is going to be given: the bar went under two feet and stayed there for four hours, and about a mile above the bar there is a road with a crossing on it, and a man who had bought a season's passage for seven days was sitting on his load at the head of a drop with his hands between his knees, and he had a house, and a wife, and four hundred pounds of salt boards in the channel, and he was going to have to explain that in a room tonight with nothing in his hands.
+That is the fact about the sixth day of a tide at Kestrel Reach, and it is the only fact about the water anybody is going to be given: the bar went under two feet and stayed there for four hours, and about a mile above the bar there is a road with a crossing on it, and a quarter of a mile up a lane from that crossing a man who had bought a season's passage for seven days was standing at the top of it with a hook in his hand and no cart, and he had a house, and a wife, and four hundred pounds of salt boards in the channel, and he was going to have to explain that in a room tonight with nothing in his hands.
 
 And that was the first thing anybody learned on that coast about the water, and it was not learned off a document. A man sitting on a load who had every reason to lie about it told him, on a wet road, and what he told him was which three days out of seven you do not do it on, and that was the whole of the geography of the Nettle Straits, and it had been had since the third bell and it was not lost.
 

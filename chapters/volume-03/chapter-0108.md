@@ -15,7 +15,7 @@ On the seventh day the flat is crossable nine times and on this one it was cross
 
 That is the crossing's song and it takes about as long as a hymn and it is a tariff, and Ilyan Vester, who can follow about two hundred guild terms of a bridge-and-weighhouse trade and has been getting about four words of a sentence on a pane for three days, followed every word of it and understood all of it, and stood there afterward with a thing happening in his chest that he had not had about a document in two years.
 
-“It is a tariff,” said Seth Garrick, getting off the stone. “It has been a tariff since before I could walk and it will be a tariff when I cannot, and the reason it is a song and not a sheet of paper is that a sheet of paper costs a penny and a song costs a breath, and there are thirty-one households on this road and at least forty of them cannot read.”
+“It is a tariff,” said Seth Garrick, getting off the stone. “It has been a tariff since before I could walk and it will be a tariff when I cannot, and the reason it is a song and not a sheet of paper is that a sheet of paper costs a penny and a song costs a breath, and there are thirty-one households on this road, and there is no way on this earth to tell which of the thirty-one cannot read, including me, including her.”
 
 “There is a tariff nailed to the tally post,” said Ilyan.
 

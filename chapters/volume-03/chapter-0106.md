@@ -68,9 +68,9 @@ Corrie Tallow watched him go past.
 
 “No,” she said, “and that is the last thing I am going to say to you about it, and then I am going to be a woman with a stall. I have been asked four times in four years to go to that counter and be asked the question by somebody who counts. I have gone twice. I am the woman who has been asking four years. If I go up there with a figure, it will not be a figure, it will be me, and they will hear *her*, and they will hear it in a voice that has been asking for four years, and whatever they say next will be a sentence about me and not about the tariff, and I will have spent a day of the only thing I have got on being the woman who asked, and I have been that woman twice and it has cost me two days and both of them came back with nothing at all.”
 
-She picked up her net, which was not hers, and looked at the lane.
+She hung the net back on the stall pole, and looked at the lane.
 
-“So I am not going. I am going to be here at the sixth bell tomorrow, and the day after, and the day after that, with a board and a stick, and the number that is right is eleven and I am going to go on counting eleven until the four of them that have stopped sending say so, and I am not going to stand in a room and be believed. I have been believed twice.”
+“So I am not going. I am going to be here at the sixth bell tomorrow, and the day after, and the day after that, with a board and a stick, and the number that is right is eleven and I am going to go on counting eleven, and one of my eleven is two houses and there is no column on that flat for half a house, and I am not going to stand in a room and be believed. I have been believed twice.”
 
 ---
 
@@ -88,7 +88,7 @@ She turned round and got a sheet of paper, which is not a pane and which can be 
 
 > **CROSSING AT WETHER CROSS, THIS TIDE AND THE LAST. TARIFF AS AT THE TALLY: ONE PENNY THE TIDE. NINE HUNDRED YARDS OF FLAT. THE TALLY IS OF CARTS AND NOT OF PERSONS AND HAS ALWAYS BEEN OF CARTS. THE TARIFF IS THE SAME ON EVERY DAY OF THE TIDE, INCLUDING THE DAYS THE WATER IS ON THE BAR, AND THE COUNCIL HAS REFUSED TWICE TO WRITE A DIFFERENT PRICE FOR A DAY OF WATER AND WILL REFUSE AGAIN.**
 
-“That is not the guild's record and I have not entered it as the guild's record and it is not going into the office book, because if it goes into the office book then in nine years somebody has to fire it into a pane and I have watched a man nearly do that to a pane and I am not doing it to a sheet of paper I wrote standing up on a wet counter with a pen borrowed off a boy of twenty-two.” She squared it up on the counter. “Take it up the road. It is a sheet of paper and a sheet of paper cannot be argued with in a court, and I have known that for nineteen years and it is the first useful thing anybody has written on this coast about that flat since the flat was made.”
+“That is not the guild's record and I have not entered it as the guild's record and it is not going into the office book, because if it goes into the office book then in twenty years somebody has to fire it into a pane and I have watched a man nearly do that to a pane and I am not doing it to a sheet of paper I wrote standing up on a wet counter with a pen borrowed off a boy of twenty-two.” She squared it up on the counter. “Take it up the road. It is a sheet of paper and a sheet of paper cannot be argued with in a court, and I have known that for nineteen years and it is the first useful thing anybody has written on this coast about that flat since the flat was made.”
 
 He read it. He got the first line and he got about four words of the second and he stood there and held it at a distance and read it out loud to her, slowly, and she watched his face and said nothing whatsoever, and did not look at the hood, and did not help him, and stood at that counter with her hands flat on it while a man of thirty-one read her own sentence back to her one piece at a time.
 
