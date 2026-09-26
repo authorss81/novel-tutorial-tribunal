@@ -1,6 +1,6 @@
 # Chapter 186: What A Room Does With A True Thing
 
-The second day of the forty-eighth week was the first day in about seven weeks that a yard in this district had four hundred carts standing in it with nothing to do, and about four hundred men standing about in the yards and at the gates and on the wall above the weigh, waiting for a cut that is not coming until next year, and there is no other week in a grain year that looks like that week.
+The second day of the forty-eighth week was the second week running in which a yard in this district had four hundred carts standing in it with nothing to do, and the week before it was the first such week in seven years, and about four hundred men were standing about in the yards and at the gates and on the wall above the weigh, waiting for a cut that is not coming until next year, and there is no other pair of weeks in a grain year that looks like this pair.
 
 That is the whole of what the week is for, and it is the reason what happened in the room above the chandler's shop on the second day of the forty-eighth week was going to happen, and about nine people were in the room, and the fire was out, because a fire in that room is lit when somebody in it is cold and nobody in that room was cold.
 
@@ -46,7 +46,7 @@ He stopped and nobody filled it in.
 
 “Nine doors a day, in a lane this size, is a hundred days. And a hundred days of the only price this district writes down for a day is three pounds fifteen. And a hundred days cannot be done by a man with a cart, because the hundred days are inside a cut and a man with one cart in this district moves about four hundred loads in a cut, which is sixty pounds, and that is his year.” He looked at the room. “So the price of a list of the three hundred and thirty-nine is one man's year, or one man's cart, and three pounds fifteen, and this district is at nothing and has been since the sixth day of the forty-third week, and there is no one hundredth person. I have wanted that list for four years. I am not going to get it, and I am not going to get it this week when the four hundred men in the yards have got nothing to do, which is the best week anybody in this district has ever had for it and is the only week in nine years.”
 
-“Why,” said Wil Tamworth, who is thirty-three and asks what a number means, and who had been given things to do that mattered for nine days and had this one.
+“Why,” said Wil Tamworth, and he had been given things to do that mattered for nine days and had this one, and he asks what a number means because nobody else in that room was going to.
 
 “Because a list of people is a number with the people still in it,” said Ilger Rusk, “and I have been asking for the number for four years and there are about nine of them in this county who have it, and I have had thirty-four names off a trestle in a good coat’s handwriting in this room eleven days ago and I cannot get one of the rest off anybody, and thirty-four is not a list. You cannot get a name out of a number by asking the number. You have to go and stand in front of the man, and there are nine hundred of them, and about nine a day, and a hundred days, and I am one, and I have carts in three counties and no list, and I am not going to be a hundredth person.”
 
