@@ -80,9 +80,9 @@ The bar went under about two feet and stayed there.
 
 That is the fact about the sixth day of a tide at Kestrel Reach, and it is the only fact about the water anybody is going to be given: the bar went under two feet and stayed there for four hours, and about a mile above the bar there is a road with a crossing on it, and a man who had bought a season's passage for seven days was sitting on his load at the head of a drop with his hands between his knees, and he had a house, and a wife, and four hundred pounds of salt boards in the channel, and he was going to have to explain that in a room tonight with nothing in his hands.
 
-And that was the first thing anybody learned on that coast about the water, and it was not learned off a document. A man sitting on a load who had every reason to lie about it told him, on a wet road, and what he told him was which four days out of seven you do not do it on, and that was the whole of the geography of the Nettle Straits, and it had been had since the third bell and it was not lost.
+And that was the first thing anybody learned on that coast about the water, and it was not learned off a document. A man sitting on a load who had every reason to lie about it told him, on a wet road, and what he told him was which three days out of seven you do not do it on, and that was the whole of the geography of the Nettle Straits, and it had been had since the third bell and it was not lost.
 
-And then the water came up over the stones, and a woman of about seventy came down the lane out of the rain with a lamp she did not need yet, and looked at me, and looked at the leg, and said:
+And then the water came up over the stones, and a woman of about seventy who kept a kettle on the lane came down it out of the rain with a lamp she did not need yet, and looked at him, and looked at the leg, and said:
 
 “Right. You’ve brought him.”
 

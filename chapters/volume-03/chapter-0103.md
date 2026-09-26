@@ -6,7 +6,7 @@ That was the first it cost him on this coast, and it cost him about a penny, and
 
 Corrie Tallow was at the crossing. She was under her awning with the board turned back round and the chalk side out, and the flat was drying from the middle out, and there were about nine hundred yards of wet shingle between the two stones and the far stones, and the water was standing in the channel down the middle of it in a long grey rope.
 
-“I have been standing here since the second bell,” she said, “watching a boy of eleven earn four shillings a week and I have counted every tide he has made this month on the back of this board in chalk, and I have been doing it for two days, and I am not going to tell you what I found because you have not asked yet.”
+“I have been standing here since the second bell,” she said, “watching a boy of eleven earn three shillings and threepence a week and I have counted every one of his tides on the back of this board in chalk, and I have been at it two days, and I am not going to tell you what I found because you have not asked yet.”
 
 “Then tell me,” he said.
 
@@ -74,7 +74,7 @@ The other thing she wanted, the thing she had wanted for four years, she said in
 
 “What is the answer?”
 
-“They will not fire a hand into a pane,” said Corrie Tallow. “That is the answer. They keep their water on glass because paper goes. A pane does not go, a pane lasts about nine years and then you fire a new one, and that is the only record this coast has of where the channel goes. And you cannot take a mistake out of glass. If my figures were wrong in the fourth month of some year, and somebody fired them in, and then a boat went on the bank in the seventh month because of what I wrote in the fourth, then there is a pane on the wall of that building with a woman's pencil in it and no way of taking it out and no way of saying whose fault it was, and they will not do that, and they are right, and I have got thirty-one years in a penny exercise book that answers to a wet sleeve.”
+“They will not fire a hand into a pane,” said Corrie Tallow. “That is the answer. They keep their water on glass because paper goes. A pane does not go, a pane lasts about nine years and then you fire a new one, and that is the only record this coast has of where the channel goes. And you cannot take a mistake out of glass. If my figures were wrong in the fourth of some tide, and somebody fired them in, and then a boat went on the bank in the seventh of the next tide because of what I wrote in the fourth, then there is a pane on the wall of that building with a woman's pencil in it and no way of taking it out and no way of saying whose fault it was, and they will not do that, and they are right, and I have got thirty-one years in a penny exercise book that answers to a wet sleeve.”
 
 She put her hand flat on the awning pole.
 

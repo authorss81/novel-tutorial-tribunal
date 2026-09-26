@@ -1,6 +1,6 @@
 # Chapter 105: Thirty-One Seats and a Day Off the Water
 
-The third of the tide, the second bell, in a net loft with the doors open on both ends, because a body of thirty-one that shuts its doors in the first month of a tide is a body that stops turning up, and Slackwater shuts them for four days of every seven in the middle of the season, and the people who make the meeting happen are the people who have to be outside in the weather while it happens.
+The third of the tide, the second bell, in a net loft with the doors open on both ends, because a body of thirty-one that shuts its doors in the first week of a tide is a body that stops turning up, and Slackwater shuts them for four days of every seven in the middle of the season, and the people who make the meeting happen are the people who have to be outside in the weather while it happens.
 
 Pether Voke had lost a tide before he started and said so first, which nobody in the loft expected and which changed the temperature of the room more than anything that was said afterwards.
 

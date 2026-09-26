@@ -10,13 +10,13 @@ The apprentice is Sabra Trew, twenty-four, in her third year, and she scrapes a 
 
 He had said that to about forty people in his life and he was saying it to a man with a bad leg and a wet coat who had come up the coast road in the rain with a sheet of paper in his hand.
 
-“So the guild’s charter is on that wall in that frame,” said Ilyan Vester, “and the tide table is on the wall behind you, and you made both.”
+“The guild’s charter is on a wall in a frame in the tide office at the Reach,” said Ilyan Vester, “and the tide table is on the wall beside it, and you made both of those, and the guild has the only one of either and has not let either of them out of that building in nineteen years.”
 
-“I fired both.”
+“I fired both of those.”
 
 “Twenty years back.”
 
-“Nineteen and eight months,” said Hollis Thrale, “and the charter first, and the table the spring after, and the table is a better piece of work than the charter and I have said so to about four people and none of them wanted to hear it.”
+“Nineteen and eight months for the first of them, and the charter before the table by about three months,” said Hollis Thrale, “and the table is a better piece of work than the charter and I have said so to about four people and none of them wanted to hear it. If you want to see what a pane of mine looks like, that is the one on that wall behind you, and I made that one three years ago for myself, because the guild's does not come out of that building and a man ought to be able to read the water off his own wall, and the guild has never seen it and is never going to.”
 
 ---
 
@@ -36,7 +36,7 @@ A batch is a batch. It goes in the arch on a tide and it is turned about forty t
 
 ---
 
-He got the hand up onto it without meaning to, the way it does, and there was a cold place in his left hip, and the fire in the arch was about nine feet from a man in a hood on a wall, and the seam came apart in about four seconds and he had it.
+He got the hand up onto it without meaning to, the way it does, and there was a cold place in his left hip, and the fire in the arch was about nine feet from a yard and a half of glass standing in a frame on a wall, and the seam came apart in about four seconds and he had it.
 
 It was not what he expected and it was not wrong. He could see how the pane was put together — the ruled margin, the eleven courses, the way the tide was written in columns and the columns were not even and were not meant to be, the small squared mark in the corner that said which firing it came out of, and the way the whole thing was one object with no joints in it that a person could get a finger into, and the authority of it sat on eleven courses of somebody's arithmetic and on one man standing beside an arch on one morning, and none of it had a name on it, and none of it needed one, and every word on it was a thing that had been true on a particular morning in a particular year about a river that had moved since.
 
@@ -44,7 +44,7 @@ It was not what he expected and it was not wrong. He could see how the pane was 
 
 Hollis Thrale put down a bar. Sabra Trew stopped scraping.
 
-“Not the guild,” said Ilyan Vester. “You are looking at it the way people look at it, because it is in their building and they paid for it, and they think it is theirs, and it is not. It is his. He is the only reason it is a record and not a thing somebody wrote on a wall, and if he dies the coast cannot check the guild against anything, and the guild does not know that, and neither do you.”
+“Not the guild,” said Ilyan Vester. “You are looking at that one the way people look at the one in the guild house, because it is in their building and they paid for it, and they think it is theirs, and it is not. It is him. He is the only reason either of them is a record and not a thing somebody wrote on a wall, and if he dies the coast cannot check the guild against anything, and the guild does not know that, and neither do you.”
 
 “That,” said Hollis Thrale, after a while, “is the first thing anybody has said to me about a piece of my own work in about twenty years and it is a horrible thing to hear and I do not think it is wrong.” He picked the bar up again. “Now go and stand over there, because you have gone grey, and there is a step down on your side, and I am sixty-one and I am not going to be the one that has to get you off my floor.”
 
@@ -70,17 +70,27 @@ The old man came out to the bench about a quarter of an hour later and put a can
 
 “Nobody ever asks me that. They ask what it costs and how long and whether it will take a mould. Not once in forty-one years.” He turned round. “You are wrong. It is not a rule and it is not a record of a rule and it is not the guild’s, whatever the guild has believed for nineteen years.
 
-“It is a photograph of a river. On that morning. In that year, with that weather, I stood at that arch with two pairs of hands and my own, and I came out of it with a piece of glass about a yard and a half by three feet, and I carried it four hundred yards myself because I would not have anybody else touch it wet, and I set it in that frame with my own hands and I ruled the margin with a piece of brass, and my father taught me the ruling. A channel is not a rule. A channel moves. Nine years from now the third column on that pane will be a history of a place where the water used to be, and it will be right, and it will be about water that is not there.”
+“It is a photograph of a river. On that morning. In that year, with that weather, I stood at that arch with two pairs of hands and my own, and I came out of it with a piece of glass about a yard and a half by three feet, and I carried it four hundred yards myself because I would not have anybody else touch it wet, and I set it in its frame in the guild house with my own hands and I ruled the margin with a piece of brass, and my father taught me the ruling. A channel is not a rule. A channel moves. Nine years from now the third column on that pane will be a history of a place where the water used to be, and it will be right, and it will be about water that is not there.”
 
 “And a sheet of paper in a book?”
 
-“A sheet of paper in a book is what the coast has had all along,” said Hollis Thrale, “and the coast has been wrong about it in every way that costs anybody something, and I have been the one telling it so, and I have been telling it so for forty-one years, and I am telling you now that the woman at the crossing has the only real record of the water on this coast and it is in pencil in a penny book and I cannot put it into glass and I would not want to.”
-
-He put his hand out flat at the frame.
+“A sheet of paper in a book is what the coast has had all along,” said Hollis Thrale, “and the coast has been wrong about it in every way that costs anybody something, and I have been the one telling it so, and I have been telling it so for forty-one years, and I am telling you now that the woman at the crossing has a better record of the water on this coast than I do, and it is in pencil in a penny book, and I cannot put it into glass and I would not want to.”
 
 “But you are also wrong, and you are wrong in the way people from the roads are wrong, and I am going to say it because you asked me and because you have been honest in my shed.
 
-“You called it a photograph, and then you will want to know what a photograph is *for*, and the honest answer is that a photograph is for arguing with. A photograph is the only thing on this coast that cannot be argued with, and if you cannot argue with a thing then you cannot ask it anything, and the day this coast has to ask that pane a question — the day the water goes somewhere that pane does not say — there will be no way on this coast to ask it, and there is exactly one person alive who can read it and she is fifty-one and she is losing the other one and she has told nobody including me, and I found out in the spring because I made her a lens and a lens is a thing you fit to a person rather than to a window.”
+“You called it a photograph, and then you will want to know what a photograph is *for*, and the honest answer is that a photograph is for arguing with. A photograph is the only thing on this coast that cannot be argued with, and if you cannot argue with a thing then you cannot ask it anything, and the day this coast has to ask that pane a question — the day the water goes somewhere that pane does not say — there will be no way on this coast to ask it, and there are two people alive who can read it, and one of them is sixty-one and deaf in the right ear and has not had a cart in his yard in nine years, and the other is fifty-one and she is losing the one eye she has got and she has told nobody including me, and I found out in the spring because I made her a lens and a lens is a thing you fit to a person rather than to a window.”
+
+He put his hand out flat at the frame, on his own pane, the one the guild had never seen.
+
+“And now I am going to tell you the thing I have not told anybody on this coast, and I am telling you because you have been honest in my shed and because I have wanted for two years for one person on this coast to have both figures in front of them and there has never been one.
+
+“That one and the one in the guild house were fired about sixteen years apart. Eleven courses on both, and the same brass, and the same hand on the ruling, and two columns out of the eleven do not agree. The later one is mine and I would swear to mine. That one had been on my wall for a year before I saw it, and I did not see it because nobody in the world makes a second copy of a thing in order to check the first, and because I am sixty-one and I am right about glass.
+
+“And here is why I have not said it out loud. I cannot get at theirs to put the two side by side, because the guild has never let that pane out of that room in nineteen years and is not going to now, and they have a clerk and a key and a building and nineteen years of custom behind them, and I have a shed. And I cannot be sure mine is the right one either, because the channel moves, and the two that differ are the third and the eighth, and the third and the eighth are the two columns that record a place and not a depth, and a place that has moved is a place that has moved since I wrote it down. I have been out on that bar twice this year with a boat and a line and I know which of us is right. There is no instrument on this coast that would say so in a room. The only thing that would say so in a room is a pane, and the only pane in a room is theirs.”
+
+He took his hand off the glass.
+
+“So it is on the wall of my own shed,” he said, “and you are standing in front of it. You may tell somebody. I have sat in this shed for two years trying to think of a person to tell.”
 
 He looked at Ilyan Vester's left hand, which was holding the edge of the crate.
 

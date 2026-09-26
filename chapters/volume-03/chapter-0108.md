@@ -2,9 +2,9 @@
 
 The song belongs to the crossing and not to the guild and not to anybody at the tide office, and it is sung by a man called Seth Garrick at a flat-topped stone at the head of the shingle at the turn on the seventh day, and it has no other occasion and no other singer, and there is nobody alive who will say where it came from.
 
-Seth Garrick is thirty. Four years ago he was twenty-six and he was the reading man at Wether Cross at fourpence a day out of the crossing's own takings, and the guild took him off in the eleventh month because the crossing took ninety pounds eighteen of tariff that year against a hundred and six the year before, and he sells lamp oil now out of a shed at the head of the lane, and he can still read the fourth of a tide out loud in a voice that carries nine hundred yards of shingle.
+Seth Garrick is thirty. Four years ago he was twenty-six and he was the reading man at Wether Cross at two pounds a year out of the crossing's own takings, and the guild took him off in the eleventh month because the crossing took ninety pounds eighteen of tariff that year against a hundred and six the year before, and he sells lamp oil now out of a shed at the head of the lane, and he can still read the fourth of a tide out loud in a voice that carries nine hundred yards of shingle.
 
-Ilyan Vester had a bed over a lamp oil shed at the head of the lane, which Seth Garrick had given him on the fifth for one reason and no other, and he had paid for it by agreeing to stand at that post with a hammer and a piece of paper and count the notches at a turn, because Seth Garrick had been counting them in his head for four years and there was nobody to check him and he had begun to think he might be getting it wrong. He came down to the Quay at the first bell and was on the shingle by the second, and the rain had stopped, and the fourth, sixth and seventh of a tide were being got through.
+Ilyan Vester had a bed over a lamp oil shed at the head of the lane, which Seth Garrick had given him on the sixth for one reason and no other, and he had paid for it by agreeing to stand at that post with a hammer and a piece of paper and count the notches at a turn, because Seth Garrick had been counting them in his head for four years and there was nobody to check him and he had begun to think he might be getting it wrong. He came down to the Quay at the first bell and was on the shingle by the second, and the rain had stopped, and the fourth, sixth and seventh of a tide were being got through.
 
 On the seventh day the flat is crossable nine times and on this one it was crossable eight, because the seventh had stood up an hour late and a cart had waited for it, and Seth Garrick came down to the stone at about half an hour before the turn and stood on it and did not say anything for a while, and about forty people were on the shingle and none of them had come for the singing.
 
@@ -62,7 +62,9 @@ The song was at the turn on the seventh day and Bel Hask was on the stone at hal
 
 The custom is that anybody at the head of the shingle may stand on the tide stone on the fourth or the sixth at the turn and ask the harbourmaster one question, and she will answer it there, on the stone, in the open, to whoever is standing on the shingle, and nobody may ask a second question, and it is not written down anywhere on this coast, and the guild's charter says nothing about it, and the guild has never interfered with it, and in nineteen years nobody has broken it, and it is the only thing on this coast on which a person may be answered by a person with no obligation to answer. The song is a different thing and belongs to a different man and is on the seventh, and a great many people on this coast have never worked out that those are two customs and not one.
 
-Bel Hask had her net rolled on her shoulder and she had lost three days of the boy and a day and a half of a horse and nine pounds of freight and four shillings and threepence, and she stood on the stone at about half an hour after the turn and said her question, and it was one question, and it was about the seventh day.
+Nobody had told her she had come on the wrong day. On the seventh the stone had a man on it singing a tariff, and that had been the shape of the stone in her lifetime, and the two customs that are there have never been written down and have never been set side by side, and a woman of forty-four with a net on her shoulder is not a person anybody stops.
+
+Bel Hask had her net rolled on her shoulder and she had lost four days of the boy and a day and a half of a horse and nine pounds of freight, and she had done that sum four times in three days and it had come out the same way every time and it was not the money. She stood on the stone at about half an hour after the turn and said her question, and it was one question, and it was about the seventh day.
 
 Bettany Rook came down from the head of the lane in the hood with the light behind her and stood at the foot of the stone and listened to the whole of it without moving, and about sixty people were on that shingle.
 
@@ -86,7 +88,7 @@ She stopped, and about sixty people were on nine hundred yards of wet shingle an
 
 “Then I will bring you one.”
 
-“You will not,” said Bettany Rook, quite gently, “and I want to be careful about why, because I do not want to be the reason a woman of forty-four walks eleven miles to write a question down and then has to explain to her son why she is not going to.
+“You will not,” said Bettany Rook, quite gently, “and I want to be careful about why, because I do not want to be the reason a woman of forty-four has to walk down to this counter in the rain to write a question down and then has to explain to her son why she is not going to.
 
 “The book is mine. It is the guild's, and I keep it, and the key is mine. If a question goes in there, it is in *my* record, and my record is a record of my house, and a question about a penny a tide on a road that is not the guild's road is not a question about my house. I would read it out. I would read it out and about nine people would hear it and one of them would write it in a book of his own, and then I would be able to say *we have read this*, and I could not tell you what comes after that sentence, and neither could you, and you would have paid a day for it. I have done that to about nine people in six years and I have not said so to any of them and I am saying it to you because you will go and find out otherwise.”
 
@@ -110,7 +112,7 @@ The pot of paint was three days coming and a man from the fish market had it.
 
 Ilyan Vester was not there, as instructed, and did not want to be, and went along the coast road to Thornglass instead with a leg that had been the wrong weight for nine days and a left hand that would not take a rope, and the token was in his pocket and was not touched, and the fourth thing that token did is the last thing it will do, and it took the words.
 
-Sabra Trew was scraping an arch floor when he came in and she was still scraping the last batch off the same row of notches she had been scraping for two days, and she had not answered a letter, and there was a woman of sixty in the shed with a bar and a cane and no hurry at all.
+Sabra Trew was scraping an arch floor when he came in and she was still scraping the last batch off the same row of notches she had been scraping for two days, and she had not answered a letter, and there was a man of sixty-one in the shed with a bar and a cane and no hurry at all.
 
 “That is a mark you cut and not a count,” said Ilyan Vester.
 
@@ -130,4 +132,4 @@ Ilyan Vester wrote the address of the school on the back of a page out of a penn
 
 “Will you write to somebody?”
 
-“I will write it down,” he said, “and that is all I can do, and I have not done it yet, and I am telling you the truth about that instead of the other thing, which is that I will probably do it about the fourth of next tide and it will be the only useful thing I have done on this coast in a fortnight.”
+“I will write it down,” he said, “and that is all I can do, and I have not done it yet, and I am telling you the truth about that instead of the other thing, which is that I will probably do it about the fourth of next tide and it will be the only useful thing I have done on this coast in a week.”

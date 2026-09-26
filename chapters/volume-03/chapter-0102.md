@@ -24,7 +24,7 @@ Wend Garrow was at the counter before she had the second cup of anything down, w
 
 “Yes,” she said. “Four hundred yards. That is correct and it is in the chart and I have told the guild twice that the chart is right and the mark on the bar staff is short by four hundred yards, and nobody has painted it, because to paint it you have to come out on the bar at low water on the second day with a pot, and there is one man on this coast who will do that for the guild and he is seventy-one and he does it when he feels like it.” She put the licence down flat on the counter. “So your cart is at four hundred yards and not at nil, and I am not blaming you for that and it does not pay for your salt boards.”
 
-“I am not asking you to pay for my salt boards,” said Wend Garrow. “I am asking whether a man who buys a season's passage is told which four days of it he cannot use.”
+“I am not asking you to pay for my salt boards,” said Wend Garrow. “I am asking whether a man who buys a season's passage is told which three days of it he cannot use.”
 
 “No,” said Bettany Rook.
 
@@ -73,7 +73,7 @@ He had walked past it. The number was on it. He had looked at the staff and had 
 
 She turned back to the counter and gave Wend Garrow three sentences about what the guild would do, and the guild would do nothing, and the three sentences were that the guild would pay the two pounds four for the loan of the wreck gear out of the passage money as it always had, and that the guild would write his loss in the season book so that no other carter bought a licence in the same week without somebody saying a word to him, and that the guild would not pay for the salt boards and could not be made to.
 
-“And I will tell you the last of it in a room with nobody in it,” she said, “because it is the only thing I have got and I would like it said once in daylight. The guild voted a reader at the crossing four years ago. One pound a day, out of the crossing's own takings, to sit on the chain and say the fourth out loud to anybody who came. We had him eleven months. His name is Seth Garrick and he sells lamp oil now and he was twenty-six then and he is a good reader and it is not his fault that the crossing took four hundred and forty pounds of tariff in that year, which was a kiln year, and three hundred and eleven the year after that, and ninety the year after that, and fifty-one the year after that, and a wage of one pound a day comes out of what the crossing takes, and the crossing took less, and we took the reader off in the eleventh month, and I did not vote against it and I voted for it and I have not voted for it twice.”
+“And I will tell you the last of it in a room with nobody in it,” she said, “because it is the only thing I have got and I would like it said once in daylight. The guild voted a reader at the crossing four years ago. Two pounds a year, out of the crossing's own takings, to sit on the chain and say the fourth out loud to anybody who came. We had him eleven months. His name is Seth Garrick and he sells lamp oil now and he was twenty-six then and he is a good reader and it is not his fault that the crossing took ninety pounds eighteen of tariff that year against a hundred and six the year before, which was a kiln year, and a wage comes out of what the crossing takes, and the crossing took less, and we took the reader off in the eleventh month, and I did not vote against it and I voted for it and I have not voted for it twice.”
 
 “Because the money was the money,” said Wend Garrow.
 
@@ -111,7 +111,7 @@ The rain came off the eaves. Somewhere down the hill a chain went up, which was 
 
 Her face did not move at all, and he understood that she had waited eleven years for somebody to say it to her and was not going to be thanked for it.
 
-“The second thing,” he said, “is that a guild which holds the only safe water on this coast is not a crime. It is a house with one door in it and no other, and every person on this coast is standing in that house tonight, and that is fine right up until the week the door is shut. And there is going to be a week the door is shut, and not because anybody in this building wants it shut, and it will be a week about eleven years from now and about four years after that, and I do not know when and neither do you, and when it comes there is no second route and no second office and no person on this coast who can read the one you have got, and there is one of you, and she has a hood on because of the light on the water.”
+“The second thing,” he said, “is that a guild which holds the only safe water on this coast is not a crime. It is a house with one door in it and no other, and every person on this coast is standing in that house tonight, and that is fine right up until the week the door is shut. And there is going to be a week the door is shut, and not because anybody in this building wants it shut, and I would not tell you when it is if I knew it, and you would not tell me, and when it comes there is no second route and no second office and no person on this coast who can read the one you have got, and there is one of you, and she has a hood on because of the light on the water.”
 
 Bettany Rook took the hood off.
 
