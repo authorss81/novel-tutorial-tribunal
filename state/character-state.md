@@ -1,4 +1,4 @@
-# Character State
+# Character State — **open `state/index.md` first.** The live record is the second block, `## VOLUME 04 IS WRITTEN`; everything below it is archive.
 
 ## VOLUME 04 IS CLOSED — Chapters 151–200, *The Ledger Harvest*. **The volume close record is the top section of `state/current.md`, under `## VOLUME 04 IS CLOSED`. It carries the map, the devices, the money, the open threads and the list of what a later pass must check hardest. The cast as it stands at the end of Chapter 200 is unchanged and is the section below this one. Nothing below is edited.**
 

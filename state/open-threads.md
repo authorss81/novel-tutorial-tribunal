@@ -1,4 +1,4 @@
-# Open Threads
+# Open Threads — **open `state/index.md` first.** The live record is the top block, `## VOLUME 04 IS CLOSED`; everything below it is archive.
 
 ## VOLUME 04 IS CLOSED — Chapters 151–200, *The Ledger Harvest*. **The volume close record is the top section of `state/current.md`, under `## VOLUME 04 IS CLOSED`. It carries the map, the money, the new question, the open threads in full, the devices, and the nineteen things a later pass must check hardest. This section adds only the forward record and the short list of what must not be opened.**
 
