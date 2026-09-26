@@ -6,7 +6,7 @@
 
 **The three most likely to propagate are:** Chapter 96's "two months and nine days" (it is twenty-two days, and it has been corrected in every state file that carried it); Chapter 98's form arithmetic, which does not close (400 + 320 ordered, 463 + 140 accounted for, 117 unaccounted, and 463 is load-bearing); and Chapter 70's refusal number, which conflates the appearance count with the refusal count (Chapter 70 is the fourth refusal, not the sixth).
 
-**Two controller-owned problems remain flagged and are deliberately not fixed**, because the files are off limits to an agent. `workspace/volume-02/batch-0004/` and `workspace/volume-02/batch-0005/` have **no `.done` marker**, where other batch directories have one, so a selector that takes the first `PROMPT.md` without `.done` may re-dispatch a finished batch. And **`state/phase-ledger.json` is stale**: it read `currentPhase: batch-0002` before Batch 0003 and has had no entry since. **Trust the filesystem and this file over the ledger.**
+**One controller-owned problem remains flagged and is deliberately not fixed**, because the file is off limits to an agent. **`state/phase-ledger.json` is stale**: it read `currentPhase: batch-0002` before Batch 0003 and has had no entry since. **Trust the filesystem and this file over the ledger.** *(Corrected after the review of this phase: the flag that stood here about `workspace/volume-02/batch-0004/` and `batch-0005/` having no `.done` marker is no longer true. Both markers exist, created by commits `ea8ccf9` and `2435402`, so a selector that takes the first `PROMPT.md` without `.done` will not re-dispatch those two. The ledger problem above was re-verified and is still real.)*
 
 ## Progress
 
@@ -19,6 +19,8 @@ Last completed chapter: 0100
 Last batch summary: `state/batch-summary.md`
 
 Last volume audit: `reviews/volume-02/volume-audit.md` — **PASS**, twelve hard defects in canon prose recorded and not repaired
+
+Known evidence gap: **no committed review file exists for four batches** — Volume 01 Batch 0002 (Chapters 11–20), Volume 01 Batch 0004 (Chapters 31–40), Volume 02 Batch 0001 (Chapters 51–60) and Volume 02 Batch 0002 (Chapters 61–70). The Volume 02 volume audit reads Chapters 51–100 in full and so stands in for the two Volume 02 gaps. **The two Volume 01 gaps are not covered by anything**, and no review file has been written for them here, because a review that was never performed cannot be honestly reconstructed after the fact. *Any later agent that needs Chapters 11–20 or 31–40 should audit them cold against the chapters and not rely on this file's account of them.*
 
 ## Where Volume 02 stands, and what it handed to Volume 03
 

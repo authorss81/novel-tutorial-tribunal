@@ -92,11 +92,11 @@ The household's shelter, room, work hour, and crossing hours are separated by Il
 
 Meridith Vale enters Ilyan's name in the authority row of the public work slate under a four-year-old standing instruction, and Oren refuses to let the guild work under another body's authority. A loaded cart reads the board, changes its line, takes the eastern turn fast, and breaks the approach apron; the name is not a force on the stone but a force on the people who read it before they reach it. A guild apprentice refuses to read the scale aloud while that name is on the board, and Oren takes the book and signs beside him. Sera compares the slate's hand with the composite petition's hand and finds they are not the same. The slate's back shows a case copy routed through the plate office that no instruction authorizes.
 
-## Chapter 0024 — The Assembly's Limited Word
+## Chapter 0024 — The Assembly’s Limited Word
 
 The Lower Ward Assembly can answer one question: may the attached name be cited as authority for local maintenance work? The district invokes the Bench's own refusal to hold enforcement in the Saltwheel matter and declines to hold the materials store. Maren Kett argues for one legible rule with no roof, and Sera says a rule that tells a clerk who pays does not tell a person she may say no. Ilyan reaches for a general rule about acknowledgment inferred from use and Sera stops him in the middle aisle in front of the hall, because his standing is one bridge and he has no facts about four districts. The assembly's limited word makes his name citable as a record, uncitable as a permit, and orders him to give a public account of his first bridge testimony in three days.
 
-## Chapter 0025 — Ilyan's First Public Testimony
+## Chapter 0025 — Ilyan’s First Public Testimony
 
 Neris and Tamsin do not come and send no message. Ilyan answers for what he accepted, what he did not accept, and where his plan failed, including filing Neris's private flood account without asking. Asked to affirm that the stay authorized local adoption, he refuses, and then confesses to the limit he never asked to have removed: every term in the stay he accepted was a limit on the court, and nothing in it stopped a clerk from reusing its shape, and he was relieved not to have to ask for a charter amendment. A question about the pre-arrival paper forces him to produce his Earth reproduction sequence again, permanently and publicly. The lowland conservancy withdraws its citation. Afterward Sera finds that the district's working schedule book has a page cut from the binding gutter and a replaced column that was cut from a printed form rather than written by hand.
 
