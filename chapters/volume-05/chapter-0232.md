@@ -22,7 +22,7 @@ And that was the whole of the beginning, and about four men in that yard stopped
 
 Nobody in that yard said anything for about as long as it takes to turn a cup round on a board.
 
-“There is no gate on it,” he said. “That is the whole of it. That is the entire argument and I have been carrying it round this yard since I was twenty and never said it out loud because there is no money behind it and I am not a man who says a thing out loud when there is no money behind it. Every trade in this basin has carried salt and ochre past the gate at the top of the pass for eleven years and not one of us has ever asked what is at the other end of it. I have asked. It is a room with a yard in it, and there are about thirty clerks in that building, and there is a bench of four above them, and the bench has been right three times since the first shaking about this basin and every one of the three was right in a way that cost us something.”
+“There is no gate on it,” he said. “That is the whole of it. That is the entire argument and I have been carrying it round this yard since I was twenty and never said it out loud because there is no money behind it and I am not a man who says a thing out loud when there is no money behind it. And I told this yard before the year turned that I was going out of the basin before it did, and the year turned, and here I am, and it turns out a road is the only thing in this valley that is not behind anybody. Every trade in this basin has carried salt and ochre past the gate at the top of the pass for eleven years and not one of us has ever asked what is at the other end of it. I have asked. It is a room with a yard in it, and there are about thirty clerks in that building, and there is a bench of four above them, and the bench has been right three times since the first shaking about this basin and every one of the three was right in a way that cost us something.”
 
 “And the market at the end of the shoulder road,” said the scrivener, “has got no court in it.”
 
@@ -38,6 +38,8 @@ She put the page down on a cart's side.
 
 Nobody in that yard argued with her about it, and about four of them had never thought about it and about six thought about it and went on doing what they were doing.
 
+“The bond is not a box,” said Hollis Nance, who was in the yard because a page of hers had to go up to his room with a copy in it, and who had not said a word while she was saying it. “It says a height. Eleven feet above the Anner's own sill, and the same, and Hollow Sallow not flooded by the Anner, and the Anner not answerable for any flooding not held to that height. Forty pounds is what it costs to have a paper of that kind looked at, and she has told this yard what the paper is for and what it costs, and those are two different things, and I would like one of them written down this week instead of the other.”
+
 “And that is why the road is the thing and not the water,” she said. “Nine carts a day and a morning and a half each way, and four pounds a ton at the mouth and eleven at the market, and seven pounds a ton between them, and that seven is the road. The road is the reason there is a dam. The dam is the reason the causeway is shut. The causeway is the reason there are nine carts on the high road instead of the same carts on the flat. And every one of those reasons is a thing a man can point at, and none of them is the water, and the Seat is called the water-seat because that is the easiest name to give a room that is really there for a box.”
 
 ---
@@ -46,9 +48,9 @@ The route was on a cart's side by the sixth hour, in chalk, in nine or ten hands
 
 It cost nothing to draw. Nobody had been asked whether they wanted it and nobody had been asked whether they would pay for it and nobody in that yard thought for about four minutes about either of those two questions, and then it was twelve o'clock and the market was over and the cart yard emptied out the way it empties.
 
-The thing that is the shape of the next book in this valley was named once, in a cart yard, on the fifth day of the fifty-fourth week, by a man who counts carts and who said it because he had counted the carts and not because he had read anything, and it was not followed, and nothing else in this week was about it.
+A road that does not go through Orison was named once, in a cart yard, on the fifth day of the fifty-fourth week, by a man who counts carts and who said it because he had counted the carts and not because he had read anything, and it was not followed, and nothing else in this week was about it.
 
-Nobody in this basin has a figure for that road. The one man who has something that could be turned into a figure was asleep behind a cart shed on the fifth of that week because he had been on a dam until the middle of the night, and what was in his head stayed in his head, and the hands in that yard wrote a road on a cart's side and no number under it.
+Not one person in this basin has a figure for that road. The one man who has something that could be turned into a figure was asleep behind a cart shed on the fifth of that week because he had been on a dam until the middle of the night, and what was in his head stayed in his head, and the hands in that yard wrote a road on a cart's side and no number under it.
 
 ---
 

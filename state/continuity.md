@@ -1,8 +1,9 @@
 # Continuity State — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0004`; everything below it is archive.
 
-# Continuity State — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0004`; everything below it is archive.
-
 ## VOLUME 05 BATCH 0004 — Chapters 231–240, *The Sealed Column*. **The fact base for everything after it, and it supersedes the `## VOLUME 05 BATCH 0003` block below it, which is archive and is not edited. The live record with the map, the instruments, the money with the working and the seventeen handed-on threads is the top block of `state/current.md` under `## VOLUME 05 BATCH 0004 IS DELIVERED`, and it outranks this block.**
+
+> **A REVIEW OF THIS BATCH RAN ON 26 SEPTEMBER 2026 AND THIS BLOCK WAS REPAIRED BY IT. The receipt is `state/current.md` §14, in the Batch 0004 block, and it is the authority on every line number in this one. The repair changed no plot, no finding, no turn, no ending and no scheduled chapter; it fixed eleven P0 defects, eleven P1 and eight P2, and left one P1 standing on purpose and says which. WHAT IS CORRECTED IN THIS BLOCK, AND EVERY FIGURE BELOW WAS RE-MEASURED AGAINST `chapters/volume-05/chapter-0231.md` TO `chapter-0240.md` AND NOT READ OUT OF A LIST: **the day-count is THREE instances in this batch, not two — `235:53` (183), `239:59` (187) and `240:21` (188) — and the volume total is FIFTEEN, not fourteen; about thirty people in the basin know the column exists, not four; nineteen roofs, not twenty; ten debts on the Shelf half of the penny exercise book, not six, and five days, not six weeks; the person at the pit is Alo Vearn, a woman of twenty-six; and the new question is NOT raised anywhere in this batch, which the delivered text broke once at `240:21` and the repair put right without replacing it with a gesture at it.** Two things no permitted editor may fix are recorded in `state/current.md` §10: `workspace/volume-05/batch-0004/.done` does not exist and the next invocation will re-select this batch, and `state/phase-ledger.json` still reads `batch-0002`.
+
 
 ### THE GROUND AND THE WATER IN IT AS IT STANDS AT THE END OF CHAPTER 240
 

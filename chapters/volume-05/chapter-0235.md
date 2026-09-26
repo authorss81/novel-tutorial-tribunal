@@ -56,7 +56,7 @@ He wrote the hundred and eighty-three at the top of the page, and the second lin
 
 He wrote: *A DAY GOES ON A THING WHEN IT ARRIVES. A DAY DOES NOT GO ON A THING WHEN IT WAS DONE, AND THERE IS NO COLUMN ANYWHERE IN THIS VALLEY FOR WHEN IT WAS DONE, AND FOUR HUNDRED MILES OFF THERE IS A TURN AND A DAY AND NOBODY IN THIS VALLEY CAN PLACE A TURN.*
 
-And he did not write the Shelf half open, because the Shelf half has not been opened once in six weeks and there are six debts on that side of it and none of them is this.
+And he did not write the Shelf half open, because he shut it on the third day of the last week and it has not been opened once in the five days since, and there are ten debts on that side of it, and none of them is this.
 
 ---
 
@@ -66,7 +66,7 @@ The thing that was found in that room on the first day of the fifty-fifth week w
 
 “Somebody will have a name for it,” said the woman of about forty.
 
-“There are about nine of them in this basin,” said Ilma Treen, “and I have counted them twice and I am not counting them a third time, and one of them is a height.”
+“There are nine of them in this basin,” said Ilma Treen, “and I have counted them twice and I am not counting them a third time, and one of them is a height.”
 
 Nobody in that lane asked her which nine, and she did not say, and about four people in that lane have been thinking about it since.
 
@@ -74,12 +74,14 @@ Nobody in that lane asked her which nine, and she did not say, and about four pe
 
 The girl of seventeen found one of the nine on the evening of the first day of the fifty-fifth week, in her own book, in her own hand, and it was a number she wrote herself and nobody asked her for.
 
-She had written it off the frame at Hollow Sallow on the fourth day of that week at the closing of the water, in the way a person writes a thing down when they are standing in front of it, and it is a figure of the water against the frame with nothing to do with any order, and there are four hands in the hundred-year-old book and the four hands are the Seat's and the mill's and a man of twenty-two's and a predecessor's, and not one of the four has ever stood at that frame and watched the water come up to it, and the second hand on that book is now paid a penny a day and is the girl's own, and what the second hand is for is to write down what she is told.
+She had written it off the frame at Hollow Sallow on the fourth day of that week at the closing of the water, in the way a person writes a thing down when they are standing in front of it, and it is a figure of the water against the frame with nothing to do with any order, and there are four hands in the hundred-year-old book and she is the fifth, and the four are the Seat's and the mill's and a man of twenty-two's and a predecessor's, and not one of the four has ever stood at that frame and watched the water come up to it, and the second hand on that book is now paid a penny a day and is the girl's own, and what the second hand is for is to write down what she is told.
 
 So she wrote it in her own book instead, and then she sat with it, and what she had found out is that there is nowhere in this basin to put a number a person wrote themselves.
 
 The water-book has four columns and they belong to the four hands. A deed has a room and a copy and a press. A settlement has a wall and a copy down a hill in one hand and a man of thirty-four who reads it out. A figure she wrote off a frame at the closing of the water on a night when nobody had asked her for it has got a page in a girl's own book in a cart shed, and the cart shed is behind two houses and nobody keeps a book in a cart shed.
 
 She wrote a second line under it and the second line is the finding, and she is seventeen and it is the first thing she has ever written down about the ordinary way this basin works, and it is: *NOBODY HAS ASKED ME FOR THIS AND I DO NOT KNOW WHERE IT GOES AND I AM NOT GOING TO ASK.*
+
+And then she carried the book up to the pit and asked the under-manager, in the ordinary way, at the gate, whether a girl was allowed to keep a book at all, and he said yes, and she said where, and he said he did not know and it was not his, and she said she had seen a cart shed behind two houses with the door on the latch, and he said that shed is anybody's who wants it and has been for nineteen years, and she said she would like to know it was nobody's, and he said she could have it in writing when he had a moment, and she said she would not trouble him. She has not been back inside it, because there was nothing in it that was hers, and a book of her own does not need a room. What she has is the knowledge that there is a door in this valley with a latch on it that nobody has ever asked about, and she has not said that out loud to anybody, and a man who has been in this basin about a month sleeps in this village and has never been asked about it either.
 
 The second hand of the water-book was kept in two hands that week, and a third book was begun, and the first thing in it was a number that did not go anywhere.
