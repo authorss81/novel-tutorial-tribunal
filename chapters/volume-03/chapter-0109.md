@@ -2,7 +2,7 @@
 
 The bar road runs four miles along the coast above the north end and it goes over a sand bar with nine feet of tide over the middle of it in a bad week, and Alma Gannock has kept that crossing for eight years with a chain and a stool and a tarpaulin, and it has never once been shut, and four carts go over it in a good week.
 
-She is eighty-one. Dell Gannock's mother. She knits, and she has a boy of nine with her because his mother is dead and Dell is on the water, and she takes the penny a cart herself on a slate and brings the slate in a basket to the tide office once a quarter, and the tide office writes the number down and does not check it, because there is nothing to check it against.
+She is eighty-one. Dell Gannock's mother. She knits, and she has a boy of eight with her because his mother is dead and Dell is on the water, and she takes the penny a cart herself on a slate and brings the slate in a basket to the tide office once a quarter, and the tide office writes the number down and does not check it, because there is nothing to check it against.
 
 “There is nobody at the other end of this road to count them,” she said. “Not now. There was a man with a hut two years gone and before him a woman, and that is the whole of the counting on this road and it is me, and it has been me for eight years and there is a penny in it for the guild and a chain I paid for out of my own knitting.”
 

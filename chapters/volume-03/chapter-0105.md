@@ -1,10 +1,10 @@
 # Chapter 105: Thirty-One Seats and a Day Off the Water
 
-The third of the tide, the first bell, in a net loft with the doors open on both ends, because a body of thirty-one that shuts its doors in the first month of a tide is a body that stops turning up, and Slackwater shuts them for four days of every seven in the middle of the season, and the people who make the meeting happen are the people who have to be outside in the weather while it happens.
+The third of the tide, the second bell, in a net loft with the doors open on both ends, because a body of thirty-one that shuts its doors in the first month of a tide is a body that stops turning up, and Slackwater shuts them for four days of every seven in the middle of the season, and the people who make the meeting happen are the people who have to be outside in the weather while it happens.
 
 Pether Voke had lost a tide before he started and said so first, which nobody in the loft expected and which changed the temperature of the room more than anything that was said afterwards.
 
-“My lighter is over on the sixth with two men on her,” he said, “and I am in here, and so is the sixth tide, and that is eleven pounds of freight and two men’s day, and I have said it out loud in front of thirty-one people so that if anybody in this room decides I did it for a romance later on, they will find I did it in the open at the first bell before I knew which way I was going.” He put his hand on the trestle. “Carry on.”
+“My lighter is over on the sixth with two men on her,” he said, “and I am in here, and so is the sixth tide, and that is eleven pounds of freight and two men’s day, and I have said it out loud in front of thirty-one people so that if anybody in this room decides I did it for the story of it later on, they will find I did it in the open at the first bell before I knew which way I was going.” He put his hand on the trestle. “Carry on.”
 
 Then he said, “And one thing before the man says his piece, because he has not asked and I am going to answer it so he does not have to stand there and be told later.
 
@@ -66,7 +66,7 @@ The System put the refusal in front of Ilyan Vester on the third of a tide, at t
 
 **A MATTER IN TWO PLACES WAS ASKED FOR IN A LOFT AT THE THIRD OF A TIDE. THE SECOND PLACE WAS REFUSED IN THE OPEN BY A PERSON OF THAT PLACE, WHO WAS TOLD HE WAS BEING ASKED AND WHAT IT COST BEFORE HE ANSWERED.**
 **ENTERED: THAT THE REFUSAL IS CORRECT, AND THAT IT WAS GIVEN WITHOUT HIS BEING TALKED OUT OF IT, AND THAT IT COST HIM A TIDE, ELEVEN POUNDS OF FREIGHT AND TWO MEN'S DAY.**
-**WHAT IS NOT DECIDED: WHETHER A MATTER IN ONE PLACE IS A MATTER ABOUT A STRAIT. IT IS NOT. IT IS A MATTER ABOUT A ROAD.**
+**WHAT IS NOT DECIDED: WHAT A MATTER PUT IN ONE PLACE COSTS THE OTHER PLACE, AND ON WHOSE BACK IT NOW SITS.**
 
 The assembly's own practice is that a refusal is written on the back of the notice and read out at the next sitting, and Pether Voke asked for it to be written and then asked who would write it, and Efa Lund, thirty-four, who keeps the shore's count of what crosses the flat and has kept it eleven years in a book of her own, was the only person in the loft who could do it, and she said so, and he asked her, and she said yes.
 

@@ -14,7 +14,7 @@ Danno Ray did not look at him.
 
 The cart came the last twenty feet and stopped and the man in it got down off it into the wet, and did it badly, and put a hand on the side of it afterward, and stood there in the rain while his left leg decided what it was doing.
 
-He was thirty-one and he had been on a cart for nine hours and he was four hundred miles from anything he had ever argued about, and there was a folded sheet in his coat with one question on it in a hand he had asked her not to write in.
+He was thirty-one and he had been on a cart for nine hours and he was four hundred miles from anything he had ever argued about, and there was a folded sheet in his coat with two questions on it in a hand he had asked her not to write in.
 
 “Right,” said Danno Ray, and looked at him, and did not ask. “You’re the one she went eleven miles for.”
 
@@ -38,7 +38,7 @@ The stall was an awning on four poles and a board across the front with the day�
 
 ---
 
-And he was honest, because he had a sheet in his coat with a question on it and because a woman eleven miles up the road had written it and he had not been able to improve it.
+And he was honest, because he had a sheet in his coat with two questions on it and because a woman eleven miles up the road had written them and he had not been able to improve them.
 
 “I need to know whether the crossing and the strait are the same matter,” he said. “Because if they’re the same matter, I can put it where it belongs. If they are not the same matter then the crossing is outside it from the start, and a rate on the crossing is not in the matter at all, and there’s nothing I could take back to anybody and no way on this coast that anybody could complain of it inside anything.”
 
@@ -68,7 +68,7 @@ There is a sheet in his coat.
 
 > **WHOSE ACCOUNT ARE YOU CARRYING, AND WHO WILL HEAR IT.**
 
-Two questions on one sheet and both of them in the same hand, and she wrote them in a city four hundred miles off and gave it to him at a counter and would not come, and would not give a reason he could use, and he had not asked her again. She is a recordwright of a public record and there is nothing on this coast a public record can be sworn in, and she said so in a room in about four sentences, and then she wrote a question on a sheet and gave it to him, and he has carried it since that counter and it has cost him nothing and told him nothing, and on the sixth day of a tide on a coast four hundred miles from her he understood for the first time that it was not a question at all.
+Two questions on one sheet and both of them in the same hand. Sera Quill wrote them in a city four hundred miles off and gave them to him at a counter and would not come, and would not give a reason he could use, and he had not asked her again. She is a recordwright of a public record and there is nothing on this coast a public record can be sworn in, and she said so in a room in about four sentences, and then she wrote two questions on a sheet and gave them to him, and he has carried them since that counter and they have cost him nothing and told him nothing, and on the sixth day of a tide on a coast four hundred miles from her he understood for the first time that they were not questions at all.
 
 It was an instruction.
 
@@ -78,9 +78,9 @@ At the seventh bell the water came over the bar, and the whole of the Reach lay 
 
 The bar went under about two feet and stayed there.
 
-That is the fact about the sixth day of a tide at Kestrel Reach and it is the only fact I am going to give anybody about the water in this chapter: the bar went under two feet and stayed there for four hours, and about a mile above the bar there is a road with a crossing on it, and a man who had bought a season's passage for seven days was sitting on his load at the head of a drop with his hands between his knees, and he had a house, and a wife, and four hundred pounds of salt boards in the channel, and he was going to have to explain that in a room tonight with nothing in his hands.
+That is the fact about the sixth day of a tide at Kestrel Reach, and it is the only fact about the water anybody is going to be given: the bar went under two feet and stayed there for four hours, and about a mile above the bar there is a road with a crossing on it, and a man who had bought a season's passage for seven days was sitting on his load at the head of a drop with his hands between his knees, and he had a house, and a wife, and four hundred pounds of salt boards in the channel, and he was going to have to explain that in a room tonight with nothing in his hands.
 
-And that is the first thing I learned on this coast, and I did not learn it from a document, and I was told it on a wet road by a man sitting on a load who had every reason to lie to me and did not, and what he told me was which four days out of seven you do not do it on, and that is the whole of the geography of the Nettle Straits and I have had it since the third bell and I have not lost it.
+And that was the first thing anybody learned on that coast about the water, and it was not learned off a document. A man sitting on a load who had every reason to lie about it told him, on a wet road, and what he told him was which four days out of seven you do not do it on, and that was the whole of the geography of the Nettle Straits, and it had been had since the third bell and it was not lost.
 
 And then the water came up over the stones, and a woman of about seventy came down the lane out of the rain with a lamp she did not need yet, and looked at me, and looked at the leg, and said:
 

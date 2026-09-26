@@ -84,7 +84,7 @@ He put his hand flat on the trestle.
 
 He stopped, and it was not for effect, and then he said the last of it standing up, because he was a man who said the last of a thing on his feet.
 
-“Four times in thirty-one years is not a rate,” he said. “It is a habit, and a habit of this Reach is that when a body somewhere puts us in a matter, the price is a day off a boat, and the boat is mine, and I have four or five days in a good week and a boat that is holed above the waterline if I lay her up one day longer than I mean to, and I will be sixty in the spring.”
+“Four times in thirty-one years is not a rate,” he said. “It is a habit, and a habit of this Reach is that when a body somewhere puts us in a matter, the price is a day off a boat, and the boat is mine, and I have four or five days in a good week and a boat that is holed above the waterline if I lay her up one day longer than I mean to, and I will be fifty-five in the spring.”
 
 He sat back down.
 
