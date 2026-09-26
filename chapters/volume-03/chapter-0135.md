@@ -4,7 +4,7 @@ A good day on the first of the eighth tide and the flat takes six, and the sea h
 
 The man standing on the seaward shoulder of that bar at about the third bell was Halse Tarrant, and he is fifty-eight, and he has been on that wall for thirty-one years, and he was one of the hands that laid the first of it.
 
-“It is two hundred and sixty yards,” he said, “and it is laid in courses, and it is nine courses at this end and it goes from about six foot at the inner end to about two at the outer, and the outer end stands out into the deep on purpose.”
+“It is two hundred and sixty yards,” he said, “and it is laid in courses, and it is nine courses at this end and it goes from about six foot at the inner end to about two courses at the outer, and the outer end stands out into the deep on purpose.”
 
 He said it to nobody in particular. There was a man forty feet off on the wet shingle with his weight on his good side and a hand-lead in his fist that he had picked up out of a pool and had not put down, and Halse Tarrant had not asked him a question and was not going to.
 
@@ -12,7 +12,7 @@ He said it to nobody in particular. There was a man forty feet off on the wet sh
 
 He put his thumb on the top course.
 
-“So they laid the wall along this shoulder to hold the gravel against the ebb, and the guild paid for it and the guild came out of the Reach with eight men in a season and put it down in about seven weeks, and the last course went on nineteen years and eight months ago in the same year they had a thing fired in a shed at Thornglass for the room upstairs of the office at the Reach, and those two things were paid for out of the same season and they are about forty yards and two miles apart and there is not one person on this coast who has ever put them in the same sentence.”
+“So they laid the wall along this shoulder to hold the gravel against the ebb, and the guild paid for it and the guild came out of the Reach with eight men in a season and put it down in about seven weeks, and the last course went on nineteen years and eight months ago in the same year they had a thing fired in a shed at Thornglass for the room upstairs of the office at the Reach, and those two things were paid for out of the same season and they are about two miles apart and there is not one person on this coast who has ever put them in the same sentence.”
 
 He looked at the water for a while.
 
@@ -56,7 +56,7 @@ He said it flat and he did not put anything on it.
 
 The man forty feet off with a hand-lead in his fist had been on this coast forty-four days and had put the lead down about four seconds after he picked it up, and had listened to the whole of that without saying one word, which is the fourth time in ten days that a person on this coast had told him the true thing and gone on with their work.
 
-He had the four things in his head already. A man of sixty-one at a bench two miles along this coast had said them out loud to nine people in a works’ lodging-house kitchen on the third of a tide, and had said that he would not ask for them, and had given the reason, and the reason was that the asking is a year and the year is whoever stands at that fire and the woman who stands at that fire is twenty-four and is paid nothing.
+He had the four things in his head already. A man of sixty-one at a bench two miles along this coast had said them out loud, standing up, as work and not as an argument, to one man in his own shed on the fifth of the sixth tide, and had set out in three sentences what asking for them would come to, and the answer was a year, and the year is whoever stands at that fire, and the woman who stands at that fire is twenty-four and is paid nothing.
 
 He had thought at the time that the glassmaker had a better set of tools than anybody else on the coast and had not got anybody to hold them.
 

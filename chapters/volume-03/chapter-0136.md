@@ -6,7 +6,7 @@ The arch behind two feet of brick was cold and had been cold for two batches of 
 
 Hollis Thrale is sixty-one and has been at the fire forty-one years and cannot hear a voice on his right, which his father could not and his father’s father could not, and the kiln was built by a man who worked one-handed because of it in the year of the bad seventh.
 
-He had his own pane on the wall of that shed, in a frame of his own making, three years old, and it carries a figure for eleven places for every tide of the year because that is what a saltglass record of water is, and it is the only other pane within two hundred miles and it is the only one of the three that is on a wall a person can stand in front of.
+He had his own pane on the wall of that shed, in a frame of his own making, three years old, and it carries a figure for eleven places for every tide of the year because that is what a saltglass record of water is, and it is the only one of the three on this coast that a person can stand in front of without asking somebody for a key, because the other two are on the north wall of a room a mile up this hill and neither of them has been out of that building in nineteen years.
 
 “There is a thing on your wall that says where the wall is,” said Ilyan Vester, from the crate by the warm wall. “And there is a thing on a wall a mile up the hill that says where the wall is. And they do not agree, and you have never been in the room.”
 
@@ -24,9 +24,9 @@ Sabra Trew put the bar down in the middle of the fire and turned round, which sh
 
 And she read it out, and it took her about nine seconds, and it is the only other person on that coast who can do it.
 
-“Course three, the outer end of the north wall. Given as a place and not a figure. There is a post at the inner end of that wall with a plate on it, and the third column says the outer end is two hundred and sixty-one yards from that post, along the line of the wall, and then it gives the last course, which is the ninth, which is the two-foot one.
+“Course three, the outer end of the north wall. Given as a place and not a figure. There is a post at the inner end of that wall with a plate on it, and the third column says the outer end is two hundred and sixty-one yards from that post, along the line of the wall, and then it gives the height at the top of the inner end, which is the ninth course, which is the six-foot one.
 
-”Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course for the whole length of the wall, and for the last eleven yards before the outer end it stands to the fifth.”
+”Eight. Course eight, the toe of the seaward face of the north wall. That is a place and not a figure either. It says the gravel stands against the seaward face to the second course for the whole length of the wall, and for the last nine yards before the outer end it stands to the fifth.”
 
 She stepped away from the frame.
 
@@ -38,11 +38,11 @@ She stepped away from the frame.
 
 “So the third one is three yards,” said Sabra Trew.
 
-“Three yards in nineteen years and eight months, on a wall that was laid in seven weeks by eight men,” said Hollis Thrale. “That is not three yards of nothing. That is the water moving and it is moving along that wall, and if the end of that wall is three yards further out than the man who set it out intended then something has taken the gravel off the inside of the end, and I cannot tell you how much of it or when, because a number about a wall is not a number about water and you have to be in a boat to get one of those.”
+“Three yards in nineteen years and eight months, on a wall that was laid in seven weeks by eight men,” said Hollis Thrale. “That is not three yards of nothing. That is the water moving and it is moving along that wall, and if the end of that wall is three yards further in than it was on the morning the guild’s number was taken, then something has taken the gravel off the outer end of it, and I cannot tell you how much of it or when, because a number about a wall is not a number about water and you have to be in a boat to get one of those.”
 
 He put his hand flat on the bench.
 
-“So the third column is a small thing that tells me the water has moved and tells me nothing about how far. And the eighth column is the whole of the trouble and it has been the whole of the trouble for two years, and I have said so to a glassmaker who made this one and to nobody else, and the glassmaker was me, and that is the shape of it. The eighth column says how much gravel is standing against the seaward face. Mine says two courses for the whole of it. Theirs says four. Those are a foot and a half apart, and if theirs is right then that wall has had two feet of gravel in front of it for nineteen years and it is doing its job. And if mine is right then the toe has come down by a foot and a half along two hundred and sixty yards, and there is no bottom under that bottom course in places, and the ebb is working round the foot of a wall instead of past the end of it.
+“So the third column is a small thing that tells me the water has moved and tells me nothing about how far. And the eighth column is the whole of the trouble and it has been the whole of the trouble for two years, and I have said so to a glassmaker who made this one and to nobody else, and the glassmaker was me, and that is the shape of it. The eighth column says how much gravel is standing against the seaward face. Mine says two courses for the whole of it. Theirs says four. A course on that wall is about the thickness of my hand, and four courses of it is two feet eight, and two is a foot and four, and if theirs is right then that wall has had two feet eight of gravel standing against its face for nineteen years and it is doing its job. And if mine is right then the toe has come down by a foot and four along two hundred and sixty yards, and there is no bottom under that bottom course in places, and the ebb is working round the foot of a wall instead of past the end of it.
 
 ”And I cannot tell you which of those two is true, and I have had two years to try, and the only way there has ever been to try it is to put the two panes on one bench, and the only instrument anybody will act on is theirs, and it is on a wall a mile up that hill in a frame and it does not come out of that building and the next one is a year off and there is no money in the arch.”
 
@@ -68,7 +68,7 @@ Sabra Trew turned round.
 
 “I have said that.”
 
-“You have said it to me and to a man off a road and to nine men in a kitchen in a different month and you have never once said it to the man who keeps the wall, because he is a mile and a half up this coast and you have never been there, and neither has he been here, and the two of you have been four feet from the same argument for two years and neither of you knew it.”
+“You have said it to me and to a man off a road who came up this road twice in three days and stood at that bench, and you have never once said it to the man who keeps the wall, because he is two miles along this coast and you have never been there, and neither has he been here, and the two of you have been four feet from the same argument for two years and neither of you knew it.”
 
 ---
 
@@ -76,7 +76,7 @@ The man on the crate by the warm wall had the true answer in his mouth about two
 
 He said instead the thing he had actually come to say, which was a stupid thing, and he knew it was a stupid thing while he was saying it.
 
-“There is a man a mile and a half up this coast with a lead line in a box and a boat and the ability to sound. He is fifty-eight and he is the only man on this coast who has the four things. He needs a day and he has not got one and he has not asked anybody in fifteen years.”
+“There is a man two miles along this coast with a lead line in a box and a boat and the ability to sound. He is fifty-eight and he is the only man on this coast who has the four things. He needs a day and he has not got one and he has not asked anybody in fifteen years.”
 
 Hollis Thrale did not turn round.
 

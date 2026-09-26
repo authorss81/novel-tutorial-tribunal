@@ -20,11 +20,11 @@ The mark under the water is the same width as the mark above it and it has been 
 
 ---
 
-On the flat the chain went up and came down nine times, and it rests an hour between the fifth and the seventh, and the seventh is the day it rests and the eighth is the day the man with the bar has to hurry, and that is how a seventh is made and it is not anybody being cruel.
+On the flat the chain went up and came down nine times, and it rests an hour between the fifth and the seventh, and the seventh is the day it rests, and the eighth crossing of the nine is the one the man with the bar has to hurry over, and that is how a seventh is made and it is not anybody being cruel.
 
 Corrie Tallow was at the far stones with her slate for the ninth crossing, because the ninth crossing of a bar day is the only one on that flat worth a slate, and she is not paid and never will be and she is always there on the ninth. She had counted forty-one crossings that day and about half of them had been people on foot, and a boy of eleven had gone over for the ninth time at a penny with a hand-lead in his fist, and nobody on that shingle thought anything about it, including him.
 
-The tally post was at the crossing with its chain across the path and the board on the front of it with two numbers on it and a difference and a line under them, and the fourpence of nails held, and nobody put a hand on it. It is inspected at about the turn on a seventh, once a year, by a man with a hammer, and it had been inspected in the turn of the year and it would not be inspected again until the turn of the year after, and there is nobody on this coast who has any business at that post on a seventh morning and nobody had.
+The tally post was at the crossing with its chain across the path and the board on the front of it, two numbers and a difference and a line under them, the fourpence of nails holding as they have held, and the ninth crossing went over about four feet from it and nobody looked at it. It is inspected at about the turn on a seventh, once a year, by a man with a hammer, and it had been inspected in the turn of the year and it would not be inspected again until the turn of the year after, and there is nobody on this coast who has any business at that post on a seventh morning and nobody had.
 
 Danno Ray came over on the seventh crossing with a load of lime and two men on and he was forty-five and he had been on the high road since he was a boy, and he got his cart off the flat and turned the beasts round and came back along the near side where the going is firm, because he was not a fool about a seventh.
 
@@ -38,7 +38,7 @@ The boy of twenty-two with the board did not answer him. Two carters standing at
 
 “It is not the rule I am complaining about,” Danno Ray said, to nobody, and got his beasts up the shingle and went to the hard. “You have had that crossing a hundred years. I am complaining about the season. There is a difference and one of them can be got in a letter and the other one cannot, and I have not worked out yet which is which, and I will work it out, and I will not be the only one who has.”
 
-He was not the only one who had. There were about nine people on this coast who had that sentence in them and had had it for some time and had not said it out loud, and two of them were within forty feet of him and neither of them said anything, and it is not the business of a narrator to say which two, because neither of them knows.
+He was not the only one who had. There were about nine people on this coast who had that sentence in them and had had it for some time and had not said it out loud, and two of them were within forty feet of him, and nobody has ever worked out which two they were and neither of them knows, and it is not a thing that needs working out before it can be said.
 
 ---
 
@@ -68,15 +68,15 @@ A carter came down the shingle at about the eighth bell who was not going anywhe
 
 “The stone. When is she on it next.”
 
-“Day after tomorrow,” said Hal Bevan. “The first of the eighth. And then the third, and then the fifth, and then the seventh, and then the first of the ninth, and it goes like that and it has gone like that for about a hundred years, and there is no more to it than that.”
+“The fourth of the eighth,” said Hal Bevan. “Four days. And then the sixth of that same tide, and then the fourth of the ninth, and it goes like that and it has gone like that for about a hundred years, and there is no more to it than that.”
 
 “What about the sixth.”
 
-“The sixth is there. And the fourth is there. And the first, the second, the third and the fifth are not.”
+“The sixth is there. And the fourth is there. And the first, the second, the third and the fifth are not, and the seventh is not either.”
 
 “So there are two in a week.”
 
-“There are two in a week,” said Hal Bevan, “and the seventh is not one of them, and the seventh is the day the water has the bar, and there is nothing at all. That is the whole of it. I have never seen anybody get a day out of this coast and I have not had one out of it in nineteen years and I am not expecting one, and I would say the same to anybody who asked me tomorrow morning, which is exactly the same answer, and it will be the same answer on the third.”
+“There are two in a week,” said Hal Bevan, “and the seventh is not one of them, and the seventh is the day the water has the bar, and there is nothing at all. That is the whole of it. I have never seen anybody get a day out of this coast and I have not had one out of it in nineteen years and I am not expecting one, and I would say the same to anybody who asked me tomorrow morning, which is exactly the same answer, and it will be the same answer on the second.”
 
 The carter stood about a minute.
 

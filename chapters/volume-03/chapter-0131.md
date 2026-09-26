@@ -16,7 +16,7 @@ The stone is four feet of flat stone at the head of the flat where the lane come
 
 She was already on it.
 
-She is Bettany Rook and she is fifty-one and she has been harbourmaster of Kestrel Reach for six years and nineteen years at that counter before that, and she came down the hill about half an hour before the turn on the fourth and on the sixth, which is how anybody on that flat knows at all, and stood on the stone and waited with her hands behind her.
+She is Bettany Rook and she is fifty-one and she is the harbourmaster of Kestrel Reach, and she has been in that office nineteen years and six of them in the chair, and she came down the hill about half an hour before the turn on the fourth and on the sixth, which is how anybody on that flat knows at all, and stood on the stone and waited with her hands behind her.
 
 How long she has done that, and how long she means to go on doing it, and whether anybody in a building a mile and a flight of stairs up the hill from that crossing knows she does it, are three things that nobody standing on that shingle has ever asked her about, and he had been on this coast forty days and had not asked her either.
 

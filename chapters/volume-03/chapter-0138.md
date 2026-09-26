@@ -16,13 +16,13 @@ She took him round the point after that, because that is the way the boat lies w
 
 It held. It was about the eleventh time in twenty that bar day and the twelfth in twenty that the deep had packed and stayed packed for the length of a crossing, and she had been out on it eleven years and she did not think about the eleven, and about nine people on that coast had heard a boat-builder say out loud about a month ago that a man who tells you it is a road every week of your life is a man who has been on it forty times and has never once had it go out under him.
 
-The training wall is on the seaward side of that deep. It is two hundred and sixty yards of stone laid in courses and it is nineteen years and eight months old and it goes from about six foot at the inner end to about two at the outer, and it stands up out of that deep on a fourth the way a wall does when the ebb has brought the sand out of the channel and packed the middle of the bar flat and the deep has filled, and you can stand a flat boat over the top of the whole of it and walk the courses and look down the seaward face at all nine of them and into a foot and a half of brown water and sand at the bottom of it.
+The training wall is on the seaward side of that deep. It is two hundred and sixty yards of stone laid in courses and it is nineteen years and eight months old and it goes from about six foot at the inner end to about two courses at the outer, and it stands up out of that deep on a fourth the way a wall does when the ebb has brought the sand out of the channel and packed the middle of the bar flat and the deep has filled, and you can stand a flat boat over the top of the whole of it and walk the courses and look down the seaward face, and at the inner end that face is the full nine of them.
 
 Halse Tarrant was on the inner end with a bar in his hand, doing the only thing there is to do to a wall that is out of the water, which is to see whether any of the stone has moved overnight, and he had been doing it since before the light and would be there at dusk.
 
 “Well now,” he said.
 
-They stood the boat on the sand at the outer end and he came down the courses and looked at something.
+They stood the boat on the sand about nine yards along it from the inner end and he came down the courses and looked at something.
 
 “Two foot off the top of the ninth,” he said. “Do not tell me a boat has touched it.”
 
@@ -32,7 +32,7 @@ They stood the boat on the sand at the outer end and he came down the courses an
 
 “There is a mark on it,” said Halse Tarrant.
 
-And he got down on the fourth course and put his hand into a place on the seaward face where there is an iron stake about the thickness of a wrist standing up out of the stone, and he did not pull on it, because you do not pull on those.
+And he got down the courses to it and put his hand into a place on the seaward face where there is an iron stake about the thickness of a wrist standing up out of the stone, and he did not pull on it, because you do not pull on those.
 
 The head of it is a foot square and there is a plate on it, and the plate is thin and it is not rust, because it has been in salt water and out of it for nineteen years and it has gone the colour of a coin and it is harder than the stone it is bedded in.
 
@@ -76,7 +76,7 @@ At about the sixth bell a cart’s wheel came off on the shingle above the flat 
 
 It came off the way a wheel comes off, all at once and about four seconds late, and the sound of it went a long way over the shingle, and there were about seventy people on that flat and not one of them looked up, because a wheel coming off makes a noise like a cart going over and everybody on a fourth has heard that noise and does not turn round for it.
 
-The man who came out first was fifty-eight and had hoop iron in a cart behind him and a bundle of bar steel on the top of it, and he had come up the coast road in the morning with a load and had stopped at the north end to get a collar cut, and he was across forty feet of hard before the cart had stopped.
+The man who came out first was fifty-eight and had hoop iron in a cart behind him and a bundle of bar steel on the top of it, and he had come up the coast road in the morning with a load the way he comes up with a load, and he had stopped at the north end for a collar cut the way he stops, and he was across forty feet of hard before the cart had stopped, and the man whose wheel it was had not got down yet.
 
 Ostre Brann put the bar steel on the ground and went at it with his hands and said one word, and the word was *sprung*, and then he said the other thing, which is the thing he always says and which is the reason everybody on this coast will say a man who has been in his yard is honest.
 
@@ -86,11 +86,11 @@ Then he went over the wheel with a length of line at four places, and he found t
 
 ---
 
-“Twice now,” said Ostre Brann, to nobody, “in about ten days, and both of them the same way, on that flat, in the worst of the week, and the second one is going to be a different man from the first one and he is going to be told by a man who saw a cart come off and did not stop.
+“Twice now,” said Ostre Brann, to nobody, “in about a fortnight, and both of them the same way, on that flat, in the worst of the week, and the second one is going to be a different man from the first one and he is going to be told by a man who saw a cart come off and did not stop.
 
 ”Do not do that. Bring it up the hard.”
 
-He got the disc off and laid the wheel on the bench in Cawley’s yard and did the other thing, which is to put the felloe ends against a flat surface and feel for a crush, and there was one, on a pair of them, about a third of the way along, and the wood had opened about the thickness of a thumbnail and had closed again in a wedge, and the shingle was in it.
+He got the disc off and laid the wheel on the bench in Cawley’s yard and did the other thing, which is to put the felloe ends against a flat surface and feel along them for a crush, and he found one in about the place he found the last one, on a pair of them a third of the way along, and the wood had opened the width of a thumbnail where it had opened last time and closed again in a wedge, and there was shingle in the wedge.
 
 And then he said the thing that is his, which is not the same thing he said last time and is worth exactly as much.
 

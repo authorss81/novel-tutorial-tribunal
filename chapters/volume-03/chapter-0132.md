@@ -1,6 +1,6 @@
 # Chapter 132: What a Man Has Left
 
-A good day on the fifth of the seventh tide and the flat takes six, and the sea outside has come down off the bar since the middle of the night, and the ebb out of the Reach runs long and soft and the whole of that flat is a mile of wet shingle with a channel in it doing a yard a minute and nothing else in the world on it.
+A good day on the fifth of the seventh tide and the flat takes six, and the sea outside has come down off the bar since the middle of the night, and the ebb out of the Reach runs long and soft and the whole of that flat is nine hundred yards of wet shingle with a channel in it doing a yard a minute and nothing else in the world on it.
 
 Hal Bevan put the chain up at the second bell and the six crossings went over one after another from there to the turn, and he stood in the middle of that flat with a bar in his hand the way he has stood on it for nineteen years and he did not watch any of them go.
 
@@ -31,7 +31,7 @@ Six inches and four feet is three foot six, and one of those two numbers is wron
 
 The second one was the table. He could ask her whether the guild’s own table is right about the north end.
 
-And that is not a question about the water. It is a question about a thing somebody made in a shed and paid for, and this stone is for the water, and everybody on that flat knows it is for the water, and about nine of them know it because a woman with a net stood on it in a different year and was refused in front of sixty people and was right to be refused and the reason she was given was the water and not the money and not the guild.
+And that is not a question about the water. It is a question about a thing somebody made in a shed and paid for, and this stone is for the water, and everybody on that flat knows it is for the water, and about nine of them know it the way people know a thing that has been true longer than they have, which is that none of them could tell you who taught it to anybody and not one of them would want to be asked.
 
 He would get one sentence. It would be true, and it would not be unkind, and it would be over in about four seconds, and it would cost him the only thing he has got, and there is no way on this coast to get it back, because a person does not get a second question and does not get a different day.
 
@@ -113,4 +113,4 @@ He had the stone on the sixth and he had it in his pocket and he did not know wh
 
 He took it out at the seventh bell and looked at it and put it back, and it was a slate, and it was the only thing he had that anybody on this coast would act on, and it told him who was going over first on a tide, and it had nothing whatever to say to him about a piece of paper in a dealer’s hand.
 
-The channel was doing a yard a minute down the middle of a mile of shingle and there was nothing in the world on it, and he went up to the crossing and got his coat off the post and went home, and the day was a good day and the flat took six and he had spent nothing and had decided everything.
+The channel was doing a yard a minute down the middle of nine hundred yards of shingle and there was nothing in the world on it, and he went up to the crossing and got his coat off the post and went home, and the day was a good day and the flat took six and he had spent nothing and had decided everything.
