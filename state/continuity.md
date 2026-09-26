@@ -1,5 +1,74 @@
 # Continuity State — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0002`; everything below it is archive.
 
+# Continuity State — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0003`; everything below it is archive.
+
+## VOLUME 05 BATCH 0003 — Chapters 221–230, *After The Water, And The Ordinary People*. **The fact base for everything after it, and it supersedes the `## VOLUME 05 BATCH 0002` block below it, which is archive and is not edited. The live record with the map, the instruments, the money with the working and the fourteen handed-on threads is the top block of `state/current.md` under `## VOLUME 05 BATCH 0003 IS DELIVERED`, and it outranks this block.**
+
+### THE GROUND AND THE WATER IN IT AS IT STANDS AT THE END OF CHAPTER 230
+
+The Sallow has been out of the lane of Hollow Sallow since about the seventh day of the fifty-second week. The mud is firm enough to walk in the lane by the second hour. **Nineteen houses are ruined and under repair, and about a hundred and forty people live in them, and they are no longer under water and are not any the less ruined for it, and nobody in the basin has a word that holds both.** The rest of the village had a foot and a half in the lane and had it out by the noon light. **Nineteen roofs: one is off and back on, the second is coming off this week, and the rest are timbered in part and waiting.** Two houses in the bottom half of the lane are not going to stand through a winter and one of them is going to have to come down and be put up again. **The gate at Hollow Sallow is hung, at five pounds eighteen, and opens at the closing of the water, and does the only thing a gate in that frame has ever been able to do.** The Anner dam is at eleven feet to the Anner's own sill and the wet workings are dry. **The height is not on the settlement sheet.**
+
+### THE PEOPLE OF THE BASIN AFTER THE SETTLEMENT
+
+**Eleven hands are on a sheet on the wall of the Seat's one room, and the copy in the lane is in one hand, and the copy is read out in the lane.** Coll Ferren, thirty-four, four people, is the eleventh hand and keeps the lane copy and cannot read it. Ilma Treen, thirty-eight, is the sluice, is paid nine shillings a week in full and on the day by the Anner, and has been paid three years of arrears in an envelope. **Elsa Quint, seventeen, is the second hand of the water-book, is paid a penny a day for every day the water runs, writes the day at the head of every page, and has the basin's day-count from a man of thirty-one and has never asked him where the number came from.** Brann Slee, fifty-six, is on the second roof. Garrow Lee, forty-one, hung the gate. Jory Vellan, fifty-two, pays for all of it and asked to be asked again in a year. Wenna Skell, thirty-three, copied both sheets for nothing. Ewan Troke, twenty-nine, is not in this batch. Fen Tregerran, sixty-one, put a hand to the sheet and refused to date it. Hollis Nance, forty-four, wrote both fair copies and named the count of eleven out loud and did not carry the paper to Orison. **Sera Quill, twenty-eight, put no hand to anything and witnessed the copies and said her family's claim of six years is not filed and is not going to be filed in a valley.**
+
+### THE THREE CLOCKS, UNCHANGED, AND WHAT THIS BATCH DID TO THEM
+
+The pan-book year: fifty saltings, a drying of seven weeks in a dry year and eleven in a wet one. The turn: a year from the first shaking, turn nought, this year turn twelve. The day: a day since the second shaking, out of the water-book. **They do not convert, the finding was made once at `202:45` in a salt-pan's mouth, and this batch is the first in the volume in which the basin put its own day-count onto a document eleven other people wrote, at `225:59`, and the reason is that the only man in the basin whose count has never been out refused to date a paper about water in a count of dryings, in nine words, and put his hand to it anyway and said a hand and a date are two different acts.**
+
+### THE DOCUMENTS, OF WHICH THIS BATCH ADDED TWO, AND THE TOTAL IN THE VOLUME IS TEN
+
+1. The chain-book copy of the marl-strip deed (`201`).
+2. The two halves of the marl-strip deed (`203`).
+3. The bond, forty pounds, lodged in the eleventh salting of the fortieth year and void since the death of the man who lodged it (`205`).
+4. The four-page order of the water-seat, the hundred and fifty-fifth day, four complete lines, on a wall in Sallowby, with a copy in the lane kept by a person of the lane (`207`).
+5. A printed abstract of three chamber rulings (`208`).
+6. A chain-book page of a trench and six marks (`209`).
+7. The standing order of the sluice, made in the eleventh salting of the forty-ninth year, handed to the keeper and not copied (`212`).
+8. A page of the Seat's water-book in two hands (`216`).
+9. **THE DRAFT OF A REMEDY, seven lines with the first struck through and left on the paper, and three words under a name at the foot (`226:9`–`17`).** The name is out. **The space is not filled and is not dashed and no chapter may fill it or dash it or have anybody put it back for him.**
+10. **THE SHEET OF THE ELEVENTH HAND, six lines, one hand, with three hands on a struck line that do not agree, printed on the face of the paper (`228:13`–`20`).**
+**AND TWO DOCUMENTS THAT ARE NOT BLOCK-QUOTED AND MAY NOT BE: the list of nineteen answers, which has no heading, no addresses and no date, and is under a board in a cart shed with a stone on it; and the seven lines a man of thirty-four added in a road, of which the seventh has no figure on it and exists only in a lane.**
+
+### THE FINDINGS OF THIS BATCH, ONCE EACH
+
+1. A list of what nineteen people need is not a list of work, and eighteen of the nineteen answers cannot be bought (`221`).
+2. The roof is second (`221`).
+3. A list of houses is a list of people, and the next house is the house that is not on the list (`222`).
+4. A list with addresses on it can be argued against the wrong door in a person's own front door (`222`).
+5. The thing the mine can pay is not the difficulty: two and three-tenths in the hundred (`223`).
+6. A mine that pays a wage once a week is a different kind of mine, and that is not a reason to refuse (`223`).
+7. It is not the four and six; it is the day the money comes on (`224`).
+8. A book kept by people who have not stood at the frame keeps what they were told (`224`).
+9. A man who lost a house is not a house (`225`).
+10. A paper with a man's name on it is read out in a year when he is gone (`225`).
+11. Nobody said it out loud to him, and that is the finding (`226`, `227`).
+12. A copy kept in a lane by a man who cannot read it is a different document every time it is read out (`226`).
+13. A paper with no name on it cannot be asked anybody anything, and he wanted his name on it for that reason (`227`).
+14. A change made aloud cannot be attributed to a hand (`228`).
+15. A document can acquire a line in a road in four seconds and a clerk of the Seat cannot do one single thing about it, because the man who acquired it is a person of the lane (`228`).
+16. Two words and one sentence cost nothing and the sentence has no figure and will not get one (`228`).
+17. The settlement costs more than the flood, and a hair under one part in eight of the whole thing is not roofs (`229`).
+18. The paper is not going to Orison, and the reason is a bench that is seized of the matter and a clerk who has found a reason not to spend five pounds and six in nine years (`229`).
+19. A book that has kept the same four hands for a hundred years has kept what those four were told (`224`, and the same fact at `229`).
+20. **Not one of them names the height, and he had a pencil out and did not put it in (`230`).**
+
+### WHAT A LATER PASS GETS WRONG IF IT DOES NOT MEASURE IT
+
+1. **THE RUN IS THIRTY DAYS, NOT NINETEEN.** Arrival is basin day 149 and Chapter 230 is basin day 178, and 178 − 149 = **29**. The Batch 0002 record's nineteen days was right for Chapter 220 and is wrong here, and the same error was made and repaired once in this volume already, at the review of Batch 0002, where three prose figures and one record figure were corrected from seventeen to nineteen.
+2. **THE RECURRING FIGURE OF THE SETTLEMENT IS £178 13s 4d AND NOT £171 16s 8d.** 41,040d + 1,728d + 112d = 42,880d; 42,880 − 42,720 = 160d = 13s 4d. **The first writing of this batch added 88d, which is not a figure in this basin, and the outline and the prose were both corrected at the site before delivery.**
+3. **THE FIRST YEAR IS £195 7s 4d AND NOT £188 10s 8d**, and the excess over the flood is **£24 7s 4d AND NOT £17 10s 8d**: 46,888d − 41,040d = 5,848d; 5,848 ÷ 240 = 24 remainder 88d.
+4. **THE EXCESS IN SLUICE-KEEPER YEARS IS THREE YEARS AND ABOUT SIX WEEKS, NOT TWO AND SEVEN WEEKS**, and the check is 5,848 ÷ 1,728 = 3.38 and the remainder is 664d ÷ 108d = 6.15. **The figure of about twenty-four years, which is the whole flood against her whole year, is 41,040 ÷ 1,728 = 23.75 and it is a DIFFERENT NUMBER for a DIFFERENT THING and the two may not be swapped.**
+5. **THE SECOND HAND OF THE WATER-BOOK COSTS 9s 4d A YEAR AND IS ABOUT A FIFTEENTH OF THE WAGE, NOT A FOURTEENTH**: 112d; 1,728 ÷ 112 = 15.4.
+6. **THE ELEVEN HANDS ARE ELEVEN PEOPLE AND ARE NOT THE ELEVEN OF ANYTHING ELSE**, and the chapter says so out loud at `227:62` in a clerk's mouth. **A later pass that puts an eleventh house, an eleventh mark or an eleventh foot on that sheet is undoing the one joke this volume is allowed.**
+7. **THE INTERVAL FROM THE COUNTING TO COLL FERREN'S REFUSAL IS EIGHT DAYS, NOT ELEVEN: 173 − 165 = 8**, and `225:3` prints the subtraction.
+8. **THE GRAIN YEAR IS NOT TURNED IN THIS BATCH AND MAY NOT BE TURNED WITHOUT A DECISION.** Shelf day 91 is the first day of a new grain year on the Shelf, because week fifty-two is days eighty-four to ninety; Chapter 220 says the other side's year turns in about forty weeks and refuses to print the figure; **this batch says nothing about the turn and puts the four hundred and eighty-five pounds only in a list of six debts that are not stopping.**
+9. **THE SHEET HAS SIX LIVE LINES IN SALLOWBY AND SEVEN IN THE LANE, and the seventh has no figure on it, and the difference between the two sheets is a man of thirty-four's mouth and cannot be attributed to a hand.** No chapter resolves it and none may.
+10. **THE COUNT OF PEOPLE WHO HAVE NOW BEEN NAMED IN VOLUME 05 IS FIVE, NOT FOUR**, and the fifth is Coll Ferren at `221:41`, and the class is defined in `outline/volume-05.md` guardrail seven and in `state/current.md` §8.6.
+
+---
+
+
 ## VOLUME 05 BATCH 0002 — Chapters 211–220, *The Four Pages, And The Water*. **The fact base for everything after it, and it supersedes the `## VOLUME 05 BATCH 0001` block below it, which is archive and is not edited. The live record with the map, the instruments, the money with the working and the thirteen handed-on threads is the top block of `state/current.md` under `## VOLUME 05 BATCH 0002 IS DELIVERED`, and it outranks this block.**
 
 > **WHAT THIS BLOCK IS: the new canon, in one place, with a chapter and a line against every claim, so that a later pass can check a thing instead of believing it.** The standing instruction is unchanged and it is the whole of what makes this usable: **re-run every scan against the chapter files and do not re-read a list.**

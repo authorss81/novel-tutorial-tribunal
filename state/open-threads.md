@@ -1,5 +1,63 @@
 # Open Threads — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0002 IS DELIVERED`; everything below it is archive.
 
+# Open Threads — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0003 IS DELIVERED`; everything below it is archive.
+
+## VOLUME 05 BATCH 0003 IS DELIVERED — Chapters 221–230, *After The Water, And The Ordinary People*. **The live record is this block. The block below it is archive and is not edited by this phase.**
+
+> **WHAT THIS BLOCK IS: fourteen threads carried into Batch 0003 and out of it, not one of them advanced and not one of them resolved, and three new things this batch opened which are not resolutions.** **A batch that resolves one of the fourteen is a second reversal, and the outline forbids it.**
+
+### 1. THE NEW QUESTION — whose memory is missing from the account that records his payment. **NOT RAISED IN THIS BATCH.**
+`198:35`, seventh line, a book six miles up a road that goes north, a number upon a sheet and not a name, no column for the year. **It is not asked in Chapters 221 to 230, not answered, not compressed into one word, and not even a whisper. The Shelf half of his penny exercise book was not opened once in ten chapters. The System does not raise it and does not answer it.** **The six debts on that side of the book are named once, in one sentence, at `230:35`, as things that are not stopping, and the new question is not among them and is not adjacent to them.** **NO PASS MAY ANSWER IT, COMPRESS IT, OR SUMMARISE IT.**
+
+### 2. THE CARRYING, off nothing, with a finding about why. **UNCHANGED.**
+A line that is not a claim is not a thing that comes off; a forbearance once a year and the next one fifty-two weeks off. **He carries the Ryefold matter through all ten chapters, puts it down once, and it does not come off, and the leg does not come back, and `230:17` uses the leg once as a fact on a wet clay bank without a reason and without an interval, and `230:33` says the carrying has cost him four hundred miles and a leg he has not got back and prints no arithmetic on it.** Volume 05 does not answer it and does not repeat the account's agent's three sentences.
+
+### 3. THE BLANK IN THE THIRD LINE, still a blank, and the fourth sheet's question, still unasked, and the fourth hand still a stranger's hand nobody has asked. **UNCHANGED.**
+**The clerk of thirty-four's letter is in a bundle on a shelf in a room in Sallowby with a knife-cut end on it. It is named once in this batch, in the list of six debts at `230:35`, and it is NOT OPENED and it is not referred to anywhere else and the chapter does not say so again and does not need to. The entry is due in about nine months.**
+
+### 4. NESH ARRAD, thirty-nine. **HER NAME IS IN THIS BATCH ONCE AND IT IS IN A LIST OF SIX DEBTS.**
+**`230:35`, with no day figure and no letter and no interval, and the letter has not arrived and cannot have arrived and no chapter of this batch says that it has. NO PASS MAY SAY THAT IT HAS.**
+
+### 5. THE SECOND NOTICE OF FIVE SHILLINGS AND FOURPENCE, never paid for. **`230:35`, unpaid, not forgiven, and not going to be forgiven.**
+
+### 6. THE CLAIM OF FORTY-FIVE POUNDS TWO SHILLINGS AND EIGHTPENCE to a carter of fifty-one with a boy, eleven miles off, not producible, no form for it, and he is right. **`230:35`, unadvanced, unpaid, and he is right.**
+
+### 7. THE DEAD MAN IN THE FOURTH LINE of a list of two hundred and forty, and his wife, who knows she is on the fourth line and does not know her husband is not alive. **`230:35`, unadvanced. RUTH VELLAN IN THE RED BASIN IS A DIFFERENT DEAD PERSON and is not in this batch at all, and the two may not be joined.**
+
+### 8. THE BOX OF ABOUT NINE HUNDRED AND FORTY FORMS in a run of four thousand, the man with a key six miles off who is there two days out of seven. **`230:35`, not found, and not to be found.**
+
+### 9. THE NINETY-ONE NUMBERED SHEETS in a sacking bag in a yard, about nine hundred doors, no one hundredth person, about four hundred carts not asked. **`230:35`, unadvanced.**
+
+### 10. THE CLASS OF THREE HUNDRED AND THIRTY-NINE and the one boy of nineteen who is its only instrument. **UNTOUCHED. There is no boy of nineteen in this batch. A pitman of about thirty-five hangs a gate on his own time in Chapter 230 and is not thanked, and he is not nineteen and the two may not be joined.**
+
+### 11. THE MINUTE OF THE FIRST OF THE FORTY-EIGHTH WEEK, one sheet, the only copy, in a drawer four miles off with nobody's name on it. **`230:35`, unadvanced.**
+
+### 12. A CLERK OF THIRTY-FOUR'S LETTER, unanswered, with the entry due in about nine months. **Unadvanced, and see item 3.**
+
+### 13. THE THIRTEEN STANDING PROSE DEFECTS carried from Volume 04 — `160:96`, `158:77`, `158:79`, `167:41`, `174:53`, `173:55`, the forty-five times at 183 and 185, `167:35`. **CARRIED, not repaired and not built on.**
+
+### 14. THE FOUR HUNDRED AND EIGHTY-FIVE POUNDS A YEAR, on nine thousand seven hundred at the close of that grain year, the district of Ryefold at nothing, and it does not stop. **NAMED ONCE IN THIS BATCH, at `230:35`, in a list of six debts that are not stopping, and NOT CONVERTED and NOT COMPARED to anything in the basin, and the grain year is not turned in this batch and no chapter of it says that it turns.** Check: 9,700 × 12d = 116,400d = £485 ✓.
+
+### 15. THE ANONYMITY OF ILYAN'S NAME. **NEW IN THIS BATCH, AND IT IS A STATE, NOT A QUESTION, AND A LATER PASS MAY NOT UNDO IT.**
+**He put his own name at the foot of his own draft on the second day of the fifty-third week, under the three words *asked for by*, without being asked and without stopping, because a paper with no name on it cannot be asked anybody anything. On the seventh day of that week a woman of about forty refused him in nine words, he agreed with her before she had finished, he said the whole reason out loud in a lane in front of about eleven people, and nobody asked him for a reason. The name is out. The space at the foot is not filled and is not dashed, and a clerk of forty-four said out loud that he would not put a dash there because a dash is a thing people put where a name used to be so that a later person thinks nothing was ever there. HE IS STILL NOT NAMED ON ANYTHING IN THIS VALLEY, which is the one fact in the volume that has not gone wrong, and `218:63` stands.** **NO CHAPTER MAY PUT IT BACK, FILL THE SPACE, DASH IT, OR HAVE ANYBODY PUT IT BACK FOR HIM.**
+
+### 16. THE HEIGHT IS NOT ON THE PAPER. **NEW IN THIS BATCH, AND IT IS THE BATCH'S CLOSING FINDING AND IT IS NOT RESOLVED.**
+**The six lines name a roof, a gate, a wage, a penny, a payer and a reading. The struck line has three hands on it. The seventh line has no figure. Not one of them names eleven feet above the Anner's own sill, which is the number that put two feet of water into nineteen houses, and it is on a wall, in a void bond under a floor, in a chain-book, in about nine books and on about nine doorposts. A man of thirty-one had a pencil out and about four inches of space under the struck line at the fifth hour of the third day of the fifty-fourth week and did not write anything in it, and wrote it in his own book in four words, and told nobody, and the chapter prints the reason he did not put it in, and the reason is a recordwright's nine words and his own lack of standing. NO PASS MAY PUT THE HEIGHT ON THE SHEET.**
+
+### 17. THE SHEET HAS SIX LINES IN SALLOWBY AND SEVEN IN THE LANE. **NEW IN THIS BATCH, AND IT IS THE SHARPEST THING THE NEXT BATCH INHERITS.**
+**A man of thirty-four who cannot read the sheet read it aloud in a road in front of about forty people, put in two words and then added a whole line that is not on the paper in Sallowby, and a clerk of forty-four who came down because a copy is his job said afterwards that he has stood in about forty roads in nine years making sure that what is written down is what was said, and watched a document acquire a line in about four seconds, and could not do one single thing about it, and that the reason is that the man who acquired it is a person of the lane and the lane has a copy and the Seat has an original, and that nobody has ever once asked him which of those two is the document.** **The line he added is *and somebody to come and look at a wall before winter*, and it has no figure on it and is not going to get one, and two houses in the bottom half of that lane are not going to stand through a winter. NO CHAPTER OF VOLUME 05 RESOLVES THIS YET AND NONE MAY, AND IT IS NOT THE SAME THING AS THE HEIGHT.**
+
+### WHAT THE VOLUME OWES NEXT, AND WHAT IT MAY NOT OPEN YET
+
+**OWED IN BATCH 0004, Chapters 231 to 240: the pressure toward the Bench's reputation; the chamber's own index at Orison carrying a column whose heading is a word that means not sent, named in an ordinary mouth by a person who has to look at the heading every day; nobody in that movement opens it, asks for it, or is asked about it, and the climax is that HE opens it; Sable Venn named twice more and at a distance and not arriving; the Red Basin's tradesmen beginning to organise a route that does not go through Orison, named once and not followed.** **The fourth column was named once, at `218:25`, by a clerk who said he was never going to ask about it. Batch 0002 did not name it and Batch 0003 did not name it, and Batch 0004 is the batch in which it is named in an ordinary mouth and in which NOBODY ASKS FOR IT.**
+
+**NOT TO BE OPENED IN BATCH 0004:** the revocable local charter; the exit review; Sable Venn arriving; the stone; the eleventh notch; **the eleven feet going on the sheet; the name going back on the sheet; the seven lines being made to agree.**
+
+**AND THE THINGS A HUMAN STILL HAS TO KNOW, WHICH ARE NOT THIS PROJECT'S TO FIX:** `state/phase-ledger.json` is three volumes stale and nothing reads it; `workspace/volume-05/batch-0002/` and `workspace/volume-05/batch-0003/` both await a `.done` marker from the controller and this project may not write one; `reviews/volume-01/` and `reviews/volume-03/` have no volume audit, and Volume 03 is the urgent one; `reviews/volume-05/` does not exist, because the reviews of the Volume 05 planning phase and of Batch 0002 were run by the controller and a phase may not write a review into a directory it did not review from, **and there is no receipt of any review of Batch 0003 anywhere in this project, because none has been run.**
+
+---
+
+
 ## VOLUME 05 BATCH 0002 IS DELIVERED — Chapters 211–220, *The Four Pages, And The Water*. **The live record is this block. The block below it is archive and is not edited by this phase.**
 
 **Chapters 1–210 are canon. Volume 04 is closed, audited and repaired. Chapters 211 to 220 are canon and Volume 05 Batch 0002 is delivered, and it is the batch in which the volume's midpoint reversal is paid. The volume outline is `outline/volume-05.md` and `outline/series.md` outranks it.**

@@ -1,5 +1,60 @@
 # Batch Summaries — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0002 IS DELIVERED`; everything below it is archive and is not edited by this phase.
 
+# Batch Summaries — **open `state/index.md` first.** The live record is the top block, `## VOLUME 05 BATCH 0003 IS DELIVERED`; everything below it is archive and is not edited by this phase.
+
+## VOLUME 05 BATCH 0003 IS DELIVERED — Chapters 221–230, *After The Water, And The Ordinary People*. **The live block. Everything below it is archive and is not edited by this phase.**
+
+**Batch goal, as `outline/series.md` fixes it and verbatim: *Burden Bearer; Ilyan must let ordinary witnesses revise his remedy after his first failure.*** **Batch goal as the series' own card for 221–230 adds: the remedy is not withdrawn by him; it is rewritten in eleven hands that are not his; and the settlement is worse for him than the one he proposed.**
+
+**The batch's shape in one line: the four pages held a dam to a number and put water in nineteen houses, and this batch is about what eleven ordinary people write down when they are asked to put it right, and the answer is a sheet of six lines that names no person and no height, and it works, and it works because the mine pays, and the mine now has a standing interest in a number that put water in nineteen houses, and that interest is the batch's cost and it does not go away when the roofs are on.**
+
+### WHAT THE BATCH PAID, ONCE EACH, WITH THE CHAPTER
+
+The order of the work and the finding that eighteen of nineteen answers cannot be bought (221). The question of naming houses, and the answer, and a list with addresses argued against the wrong door at a ninth doorway (222). The money in full with the working, and the finding that what the mine can pay is nothing (223). The wage that comes every week, the three years paid in an envelope, and a second hand on a hundred-year-old book at a penny a day (224). A man who lost a house, eight days of nobody asking him, and a paper with no names on it (225). His draft, block-quoted, and five objections, all by people it names or does not name (226). **The eleven hands, the name out of the document, the panel, and a clerk counting eleven out loud so that six people who had gone quiet would know it was not the eleven of anything** (227). Their sheet, block-quoted, read aloud by a man who cannot read it, two words changed and a line added (`228`). The first year costing more than the flood (`229`). And a gate hung, and the height left off (`230`).
+
+### THE INSTRUMENTS, RE-RUN AGAINST THE CHAPTER FILES AFTER THE LAST SAVE, AND EVERY COUNT SAYS WHAT IT IS A COUNT OF
+
+- **Weekday scan, plural-safe, case-insensitive: ZERO.** **Month-name scan: ZERO month-names and five hits, all the modal verb *may*.**
+- **Day-phrase instrument: TWELVE instances on twelve lines, all of a legal form, every named week inside its own Shelf band, four of the twelve being references to an earlier day inside the batch and each of the four correct.**
+- **Day-count: THREE instances, at `221:11` (169), `225:59` (173) and `230:33` (178), three of three satisfying basin day = Shelf day + 78. The volume total is TWELVE and is not added to Volume 04's twenty-two. Five other lines carry one of those three figures and every one of the five is a different kind of number: one is a reference to the day the counting began and four are one hundred and seventy-eight POUNDS.**
+- **No notch count in the batch, and Fen Tregerran appears three times and cuts none. The volume's eleventh notch count stands at `218:71`.**
+- **System panels: ONE, at `227:53`–`54`. The volume total is THREE.**
+- **Bold lines: TWO, both the panel's. Emphasis spans: ZERO in the delivered text, and SIX were in the first writing.**
+- **Italic lines: SIX, and every one is a phrase quoted back out of a document by a person reading it, and one of the six is the word *eleven* referred to as a word.**
+- **Duplicate lines at seventy characters: ZERO distinct, ZERO extra occurrences. At forty characters: ZERO and ZERO.**
+- **Meta-narration in the prose: ZERO. Three instances were in the first writing, at `225:5`, `225:35` and `226:73`, and all three were the frame of a chapter card and not a slip.**
+- **`CORRECT`: ZERO. The stock pause *a minute and a half*: ZERO, and two were in the first writing.**
+- **Block-quoted physical documents: TWO, at `226:9`–`17` and `228:13`–`20`, and a markdown strikethrough was in the first writing of the first of them and was a fourth formatting category and is out.**
+- **The word NINE: EIGHTY-EIGHT over ten chapters, against Batch 0001's ninety-eight and Batch 0002's eighty-eight. The word ELEVEN: SIXTY-FIVE, and this is the batch in which the eleven is the subject, and two of the sixty-five were cut as filler.**
+- **Batch size: 91,109 bytes across ten files.**
+
+### THE MONEY, WITH THE WORKING PRINTED BESIDE EVERY FIGURE
+
+£171 for nineteen roofs at £9 (2,160d × 19 = 41,040d; ÷240 = 171 ✓). £7 4s for the whole wage (16 × 108d = 1,728d ✓). 9s 4s for the second hand (16 × 7 = 112 days; 112 ÷ 12 = 9s 4d ✓). **£178 13s 4s a year recurring (41,040 + 1,728 + 112 = 42,880d; −42,720 = 160d ✓).** £5 18s for the gate and £10 16s of arrears, £16 14s once (1,416 + 2,592 = 4,008d; ÷240 = 16r 168d; 168 ÷ 12 = 14s ✓). **£195 7s 4d in the first year (42,880 + 4,008 = 46,888d; −46,800 = 88d ✓).** **£24 7s 4d more than the flood (46,888 − 41,040 = 5,848d; ÷240 = 24r 88d ✓).** **Three years and about six weeks of a sluice-keeper's paid year (5,848 ÷ 1,728 = 3.38; 664d ÷ 108d = 6.15 ✓).** A hair under one part in eight of the whole thing not roofs (5,848 × 8 = 46,784; 46,888 − 46,784 = 104d ✓). Two and three-tenths in the hundred of the £7,700 road (42,880 ÷ 1,848,000 = 0.0232 ✓). Nine shillings and fourpence is about a fifteenth of the wage (1,728 ÷ 112 = 15.4 ✓). Five pence for two pages and a seal (2d + 3d ✓). £5 6s for a matter to Orison, **not spent twice** (1,272d ✓). **AND THE FIGURES THAT TRAVEL AS DEBTS AND NOT AS PRICES, ALL SIX NAMED ONCE IN ONE SENTENCE AND NONE ADVANCED: £485 a year on £9,700, the second notice of 5s 4d, the claim of £45 2s 8d, ninety-one numbered sheets, about nine hundred and forty forms, the minute of the forty-eighth week, the dead man in the fourth line, and the unopened letter of a clerk of thirty-four.**
+
+### THE TEN THINGS THIS BATCH'S OWN FIRST WRITING GOT WRONG, ALL CAUGHT BY THE PROJECT'S OWN INSTRUMENTS, ALL CORRECTED IN THE PROSE BEFORE DELIVERY
+
+1. **The recurring figure of the settlement wrong at £171 16s 8d, the first year wrong at £188 10s 8d and the excess wrong at £17 10s 8d, all three from adding the whole wage to the roofs and reaching a total with an 88d wages figure in it that is not a wages figure. The working won in the outline and in the prose.** This is the fifth time in this volume that a rounder figure beat the parts.
+2. **Two intervals of eleven days where the interval is eight: `225:3` and `224:47`. The counting was at basin 165 and the refusal at basin 173.**
+3. **Two Shelf month-dates, *in March* at `221:33` and *on a day in March* at `224:17`, out in the same week they went in, and the replacements are better sentences than the originals.**
+4. **Six emphasis spans in bold, out, and two of them became their own paragraph rather than a sentence in a run of prose.**
+5. **Three meta-narration sentences, out, all three copies of the chapter-card frame.**
+6. **Two uses of the stock pause *a minute and a half*, out.**
+7. **A markdown strikethrough in a block-quoted document, out, because a project with three formatting categories may not grow a fourth.**
+8. **A new limitation invented for the protagonist — that he cannot write a fair hand — out, because a chapter may not give the lead a disability the bible has not given him, however small, and a man who already has one limit may not acquire a second by implication.**
+9. **Two wrong internal line references, one inside a block-quoted document (the word *asked* is in line six and the chapter said the fifth) and one in prose (the strike in the eleven-hand sheet is not under the first line, because the first line of that sheet is the roofs).**
+10. **Two stock numbers used as filler, *about eleven minutes* and *about eleven hours*, the second of them an echo of the eleven hands in the same paragraph.**
+
+### THE TWO THINGS THIS BATCH ADDED TO THE PROJECT'S OWN LIST OF WHAT A LATER PASS GETS WRONG IF IT DOES NOT MEASURE IT
+
+1. **THIRTY DAYS IN THE VALLEY BY CHAPTER 230, NOT NINETEEN.** 178 − 149 = **29**, and the nineteen was right for Chapter 220 and is wrong here, and the same class of error was made and repaired once already in this volume at the review of Batch 0002.
+2. **A DOCUMENT CAN ACQUIRE A LINE IN A ROAD AND NOBODY WITH A SEAT CAN DO ANYTHING ABOUT IT, AND THE REASON IS WHOSE COPY IT IS.** A clerk of forty-four has said it and nobody has answered him, and the answer is not coming in this volume, and the seventh line of the sheet exists only in a lane.
+
+**AND THE THING THIS BATCH DELIBERATELY DID NOT DO, WHICH IS THE WHOLE OF ITS MORAL POSITION: it did not turn the Shelf's grain year, did not put the four hundred and eighty-five pounds into a basin's mouth as a figure of the basin, did not name the fourth column, did not name Sable Venn, did not open anything, did not put the height on the sheet, did not put his name back, did not thank anybody, forgive anybody, redeem anybody, or resolve one of the fourteen threads, and did not write a review of itself.**
+
+---
+
+
 ## VOLUME 05 BATCH 0002 IS DELIVERED — Chapters 211–220, *The Four Pages, And The Water*. **The live block. Everything below it is archive and is not edited by this phase.**
 
 **Read `outline/volume-05.md` first, and in it the Batch 0002 section, which was written before Chapter 211 and carries the ten-row table, the day-count table, the panel line, the block-quote table and the money table. Then the Batch 0002 blocks at the top of `state/continuity.md` and `state/current.md`, then this. Chapters 1–210 are canon, Volume 04 is closed, audited and repaired, and Chapters 211 to 220 are canon. `outline/series.md` outranks the volume outline and the volume outline outranks nothing.**
