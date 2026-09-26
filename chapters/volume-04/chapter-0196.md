@@ -4,7 +4,7 @@ The harvest was in on the fifth day of the forty-ninth week and it had been in s
 
 Marda Fen put the figures on the bin-board at the second door at about the second bell, standing up, in chalk, in her own hand, the way she has done it every working day for twenty-two years, and about nine people were in the lane and none of them were there for the figures.
 
-“About eleven thousand at the start of a year and about seven thousand at the end of one,” she said. “About three thousand four hundred go out in the cut and about three thousand one hundred of those go on carts that belong to somebody else and about three hundred go on four carts that belong to this district. That has been said out loud twice in a room and once in a yard and I am saying it a third time at a door because it is the fourth of the forty-ninth week and the door is where I say things.”
+“About eleven thousand at the start of a year and about seven thousand at the end of one,” she said. “About three thousand four hundred go out in the cut and about three thousand one hundred of those go on carts that belong to somebody else and about three hundred go on four carts that belong to this district. That has been said out loud twice in a room and once in a yard and I am saying it a third time at a door because it is the fifth of the forty-ninth week and the door is where I say things.”
 
 “Three weeks,” said Nevin Hake, from the beam.
 
