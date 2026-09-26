@@ -74,7 +74,7 @@ She looked at him the way a person looks at a number they have been given twice.
 
 “I would rather have the careful one.”
 
-“Nobody ever wants the careful one. Sit under the shed if you have to.” She turned the slate about a quarter of a turn, which he understood about four seconds later to be a thing she did with her hands when she was not going to be interrupted. “I go up the towpath on Mondays. Six miles to a counter and six miles back with a basket, and I am on the road about eleven hours and I am paid three shillings a week in the cut and nothing the rest of the year, and I could put you on the end of it tomorrow if you wanted the work and had somewhere to sleep, and I am not asking you if you want it, I am telling you it is there, because you look like a man who has four shillings and no district, and there is not a third thing to be.”
+“Nobody ever wants the careful one. Sit under the shed if you have to.” She turned the slate about a quarter of a turn, which he understood about four seconds later to be a thing she did with her hands when she was not going to be interrupted. “I go up the towpath every week. Six miles to a counter and six miles back with a basket, and I am on the road about eleven hours and I am paid three shillings a week in the cut and nothing the rest of the year, and I could put you on the end of it tomorrow if you wanted the work and had somewhere to sleep, and I am not asking you if you want it, I am telling you it is there, because you look like a man who has four shillings and no district, and there is not a third thing to be.”
 
 “Why are you telling me.”
 

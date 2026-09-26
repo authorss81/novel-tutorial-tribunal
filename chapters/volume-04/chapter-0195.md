@@ -64,7 +64,7 @@ Nobody in that room filled that.
 
 He took his hands off the table.
 
-“And there is a second thing and it is mine and I am going to say it before anybody in this room works it out and says it kindly. I am the third line of this sheet. I have been in this county nine weeks and a day and there is a hole in the third line the size of a hand and the only person in this district who could be put in it has said no in a doorway, and I am a man of no district with a page torn out of a penny exercise book in his coat and I am the cheapest thing in this county to put a name on, and I have known that since a room with eleven people in it in the forty-sixth week and I have not been able to do one single thing about it.”
+“And there is a second thing and it is mine and I am going to say it before anybody in this room works it out and says it kindly. I am the third line of this sheet. I have been in this county nine weeks and three days and there is a hole in the third line the size of a hand and the only person in this district who could be put in it has said no in a doorway, and I am a man of no district with a page torn out of a penny exercise book in his coat and I am the cheapest thing in this county to put a name on, and I have known that since a room with eleven people in it in the forty-sixth week and I have not been able to do one single thing about it.”
 
 He looked round the table.
 

@@ -30,6 +30,52 @@
 
 ---
 
+## VOLUME 04 IS CLOSED, AUDITED AND REPAIRED — the repair phase's supersessions, 26 September 2026. **Read this block before the close's block below. Everything in it is a correction made by `workspace/volume-04/repair-0001/` on the authority of `reviews/volume-04/volume-audit.md`. The five repairs, the re-measured instruments and the full receipt are in `state/current.md` under `## VOLUME 04 IS CLOSED, AUDITED, AND REPAIRED`. Nothing below the top block is edited, and the archive sites named here are superseded and not rewritten.**
+
+### A. THE WEEKDAY INSTRUMENT WAS PRINTED WRONG IN ELEVEN LINES AND CANNOT SEE A MONDAY. THIS IS THE CORRECTION AND THE MOST IMPORTANT THING IN THIS BLOCK.
+
+**The pattern this project has recorded as plural-safe is `\b(monday|tuesdays?|wednesdays?|thursdays?|fridays?|saturdays?|sundays?)\b`. Its Monday alternative has no `s?`. A word boundary after `monday` cannot match the `s` in *Mondays*, so the recorded pattern cannot match a Monday at all while it can see every other day of the week. Run against `151:77` it returns nothing; run against the same line with `mondays?` it returns one. That is the whole of it, and it is why nine weekday names written into Batch 0002 were caught and repaired and the one in Chapter 151 was not.**
+
+**THE CORRECT PATTERN, AND IT IS THE ONE TO RUN:**
+
+> `\b(mondays?|tuesdays?|wednesdays?|thursdays?|fridays?|saturdays?|sundays?)\b`
+
+**AND THE RESULT, IN THIS ORDER, BOTH HALVES OF WHICH ARE TRUE AND NEITHER OF WHICH MAY BE DROPPED: with the corrected pattern the scan over Chapters 151–200 returned ONE before the repair, at `151:77` — *I go up the towpath on Mondays*, in a district woman's mouth on Shelf day one — and returns ZERO after it, because the repair phase changed that line to *I go up the towpath every week*. With the broken pattern as recorded it returned zero before and zero after, and the second zero is the dangerous one, because an instrument that cannot see one day of the seven produces a clean result and a clean result is what a guardrail is believed on.**
+
+**THE ELEVEN SITES THAT PRINT THE BROKEN PATTERN, all in archive blocks, all superseded from this block and not rewritten, and the two finished prompts are history and are not reopened:** `state/batch-summary.md` 88, 227 and 516; `state/chapter-summaries.md` 328; `state/continuity.md` 706; `state/open-threads.md` 68, 150, 207 and 261; `workspace/volume-04/batch-0003/PROMPT.md` 23; `workspace/volume-04/volume-close/PROMPT.md` 41. **TWO FURTHER LINES RECORD THE BROKEN FORM AS WHAT IT USED TO BE, and they are named with them and are superseded the same way: `state/batch-summary.md` 573 and `state/continuity.md` 763. Thirteen lines in all. Search for `monday|`, do not trust these numbers, and this file's own index rule applies — address sections by their headings.**
+
+### B. THE `158:77` WORKING REACHED ITS FIGURE THROUGH A LOAD COUNT THAT CHAPTER 158 NEVER STATES
+
+**The archive sites that print *two hundred loads* — `state/continuity.md` 832, 907 and 979 and `state/batch-summary.md` 544 — are superseded and not rewritten. What the chapter says is this. `158:77` states NO load count at all: it gives a price of fourpence a load and a total of eight shillings and eightpence and no number of loads. The words *two hundred* are in Chapter 158 five times, at lines 13, 15, 35, 41 and 63, and every one of them is a crowd of two hundred and forty people on a quay or a list of two hundred and forty names under a claim, and not a load count. The only load count near the line is *forty loads* at `158:71`, and forty at fourpence is thirteen shillings and fourpence and not eight shillings and eightpence.**
+
+**SO THE DEFECT IS NOT A MIS-STATED LOAD COUNT AND IS A PROSE FIGURE THE CHAPTER DOES NOT PRODUCE FROM ANYTHING, and the consequence for a later pass is exact: there is no figure in the chapter for the total to be wrong about, and a pass must not "repair" `158:77` on the strength of the old working, because the old working was a number the chapter never had. Chapter 158 was not touched by the repair phase. The prose figure stands, the bar on building on it stands, and this block is the correction to the record and not to the chapter.**
+
+### C. THE LEG LEDGER IN THIS FILE AND IN `state/current.md` §7 IS INCOMPLETE, AND THE CLOSE'S SENTENCE IS SUPERSEDED RATHER THAN DELETED
+
+**A scan of the fifty chapters for the ownership of the leg returns eight positive lines in six chapters: `152:113`, `154:105`, `155:5`, `155:39`, `156:71`, `173:65`, `190:87` and `190:89`, with `155:9` as the consequence line of the Chapter 155 passage and `186:87` a negative instance — *a leg that has not been his own*. The audit groups these as seven places, which is `152:113`, `154:105`, `155:5` with `155:9`, `155:39`, `156:71`, `173:65`, and `190:87` with `190:89`. `190:87` and `190:89` are cited as two lines and not as a range, because `190:88` is an empty line and this project quotes chapter-and-line exactly. The strong form stands on twenty lines in eighteen of the fifty chapters, counting Chapter 190's two lines as one site.**
+
+**Standing defect 5 in this file and the device ledger in `state/current.md` §7 both understate it, and §7's sentence that the leg goes once in the volume is kept and superseded rather than deleted. `155:7` is the line that says why, and it is the Volume 01 finding restated in full: the leg goes when he is carrying a thing that somebody else is going to have to read, and it comes back when the carrying stops.**
+
+### D. STANDING DEFECTS 24, 25 AND 26, AND THE MONTH-DATE, ARE REPAIRED IN THE PROSE AND THE DEFECT LIST STAYS
+
+**`195:67` reads *nine weeks and three days*. `200:43` reads *four miles two days before*. `200:51` counts the three things it names — three, and two of them in this district. `181:92` reads *on the thirty-fifth day*, and the Shelf month-date count over the fifty chapters is now zero.** Four line-level repairs, each inside a line that already existed, and **the number of lines in each edited chapter is identical before and after — 151 is 95, 181 is 110, 195 is 83, 200 is 65 — so no chapter-and-line citation in this file or in any other moved.** Defects 24, 25 and 26 are kept in the list as written because a record of a defect that was carried and then repaired is a record, and they are marked repaired here. **Defect 27, the form with a word at the top of it at `167:9`, is still carried and is still not this project's to decide. The eleven emphasis lines in defect 28 are still carried and are still bold. `160:96`, `167:41`, `158:77`, `158:79`, `174:53` and `173:55` are all still in the prose and all still barred from being built on.**
+
+### E. THE DAY-COUNT, THE DUPLICATE SCAN, AND WHAT DID NOT MOVE WHEN THE REPAIRS WERE MADE
+
+**The day-count is twenty-two instances and that is a count of instances; the twenty-second is `156:85`; all twenty-two figures were re-checked on 26 September 2026 against their chapter's Shelf day and twenty-two of twenty-two agree. The archive sections of this file that say the list is ten and the manuscript carries eleven — among them the Batch 0002, 0003 and 0004 sections — are superseded from this block and are not rewritten.**
+
+**The duplicate scan, printed with its threshold every time: AT SEVENTY CHARACTERS AND ABOVE, five exactly duplicated lines, all block-quoted documents, in three documents. AT FORTY CHARACTERS AND ABOVE, ten exactly duplicated lines, of which seven are those document lines and three are an italic refrain at nine sites and two short sentences of ordinary prose at `176:19`/`178:47` and `178:85`/`186:57`. The day-phrase table did not move — 16 / 41 / 52 / 54 / 42 by band and 205 volume-wide, of which 203 are of the form, two are the *last day* forms at `162:25` and `172:7`, one is illegal at `174:53`, and seventeen carry a day number of eight or more. The bold inventory did not move at twenty-one lines, ten of them panels and eleven emphasis. The panels are five, on days twenty-two, thirty-six, forty-eight, fifty-eight and sixty-eight. Every one of these was measured against the chapter files after the repairs and not read out of this file.**
+
+### F. THE COUNT OF THE PEOPLE WHO KNOW HE CANNOT READ IS NOT PRINTED IN THIS PROJECT, AND THIS BLOCK DOES NOT PRINT IT
+
+**Eight lines in this file's archive blocks carry a figure for it — among them the Batch 0001 to Batch 0005 sections and the Volume 03 close. They are superseded from this block and are not rewritten, and no figure is repeated here, deliberately, including in this sentence. The two live sites, `state/character-state.md` lines 38 and 52, were already corrected by the review pass that wrote the repair prompt and were not re-edited. The direction of the correction is the half that matters: the prose moves the count inside Volume 04 and `state/current.md` §7's *has not moved in this volume* was the false half, not the character file's figure. A file that needs to refer to this refers to `154:53` and `164:49` and to nothing else.**
+
+### G. `state/phase-ledger.json` IS THREE VOLUMES STALE AND IS CONTROLLER-OWNED
+
+**It reads `currentPhase: batch-0002`, Volume 01, Chapters 11–20, status `planned`, attempts 0. The truth is four volumes, two hundred chapters, twenty batches, four volume closes and one volume audit. The dispatcher reads that file and is therefore selecting the next phase from a record that says the project is at Chapter 11. The file is controller-owned, this project has never edited it, and the repair phase may not. It is written down here because this is a file a human reads.**
+
+---
+
 ## VOLUME 04 BATCH 0005 IS DELIVERED — Chapters 191–200, *The Repayment Draft, And A Year*. Volume 04 is COMPLETE at two hundred chapters and is not closed until `workspace/volume-04/volume-close/PROMPT.md` has been written. This section supersedes Batch 0004's as the live fact base and Batch 0004's, Batch 0003's, Batch 0002's and Batch 0001's are kept below it unchanged as the record of forty chapters.
 
 **Read this section first, then `outline/volume-04.md`, then the Batch 0004 section below it, which has not been edited. Every count in this section carries a line number, and the standing instruction is unchanged: re-run the grep against the chapter files, and do not re-read the list. Chapters 1–150 are canon and Volume 03 is closed. Chapters 151–200 are canon and Volume 04 is written.**
