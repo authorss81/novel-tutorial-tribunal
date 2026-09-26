@@ -4,7 +4,7 @@ The third of the tide, the second bell, in a net loft with the doors open on bot
 
 Pether Voke had lost a tide before he started and said so first, which nobody in the loft expected and which changed the temperature of the room more than anything that was said afterwards.
 
-“My lighter is over on the sixth with two men on her,” he said, “and I am in here, and so is the sixth tide, and that is eleven pounds of freight and two men’s day, and I have said it out loud in front of thirty-one people so that if anybody in this room decides I did it for the story of it later on, they will find I did it in the open at the first bell before I knew which way I was going.” He put his hand on the trestle. “Carry on.”
+“My lighter is over on the sixth with two men on her,” he said, “and I am in here, and so is the sixth tide, and that is eleven pounds of freight and two men’s day, and I have said it out loud in front of thirty-one people so that if anybody in this room decides I did it for the story of it later on, they will find I did it in the open, before I had said a word of it, before I knew which way I was going.” He put his hand on the trestle. “Carry on.”
 
 Then he said, “And one thing before the man says his piece, because he has not asked and I am going to answer it so he does not have to stand there and be told later.
 
@@ -20,7 +20,7 @@ He said the real thing. He had said it twice already in a loft with nine people 
 
 Then Pether Voke stood up and said no.
 
-“I am going to say it once, in the open, and then I am going to sit down, and then anybody in this room may say anything they like about it, and I will hear all of it and I will not take a word of it back, and at the end I will ask whether I am to take the answer to the next sitting or whether it dies here, and that is the whole of the procedure and it took me four years to write it down and I am not going to be improved out of it tonight.”
+“I am going to say it once, in the open, and then I am going to sit down, and then anybody in this room may say anything they like about it, and I will hear all of it and I will not take a word of it back, and at the end I will ask whether I am to take the answer to the next sitting or whether it dies here, and that is the whole of the procedure and it took me four years to write it down and I am not going to be improved out of it in this room.”
 
 “Slackwater is not in this matter.”
 

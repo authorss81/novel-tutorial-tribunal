@@ -50,13 +50,13 @@ He read the first line of it. He got the penny. He did not get the rest.
 
 She did not say it a third time. She put her thumb on the paper to keep it still against the sea coming under the door, and she looked at the top of it for about as long as a person looks at a thing they have decided not to say, and then she picked it up and gave it back and said, “Never mind. It is one penny a tide and it is the same penny on every day and you have got it.”
 
-Behind the counter a young man of about twenty-two was copying a column of figures onto a board, and he had the watercolour brush of a clerk and the ink cuffs of a tallyman and the expression of a person on his first year of a job, and he had a piece of paper with about thirty names on it, and Corrie Tallow looked at it and said, “That is the guides.”
+Behind the counter a young man of about twenty-two was copying a column of figures onto a board, and he had the watercolour brush of a clerk and the ink cuffs of a tallyman and the expression of a man who has been four years in a room and still checks everything twice, and he had a piece of paper with about thirty names on it, and Corrie Tallow looked at it and said, “That is the guides.”
 
 “No,” said the young man.
 
 “It is the guides, because I have asked for it four years.”
 
-“It is the carts that paid,” said Jory Vance, twenty-two, of the tide office, “and there is a difference, and I have been told to write the difference down and I have written it down, and you may read it, and it is a piece of paper, not a pane, and you may have a copy for nothing because it is not the guild's record, it is mine.” He pushed it across. “Eleven households, thirty-one days, and the Hask boy's name is not on there because he does not pay for a cart.”
+“It is the carts that paid,” said Jory Vance, twenty-two, of the tide office, “and there is a difference, and I have been told to write the difference down and I have written it down, and you may read it, and it is a piece of paper, not a pane, and you may have a copy for nothing because it is not the guild's record, it is mine.” He pushed it across. “Eleven households, and thirty-one tides of tolls down the side of it, and the Hask boy's name is not on there because he does not pay for a cart.”
 
 “He is the only person on this road who comes over the flat every tide in it.”
 
@@ -78,7 +78,7 @@ The other thing she wanted, the thing she had wanted for four years, she said in
 
 She put her hand flat on the awning pole.
 
-“So that is the whole of it and it is very small. The only complete record of the water on this coast is in a thing that cannot be argued with, and my thirty-one years are in a thing that cannot be argued with either, and I could put mine into theirs if I stood here a year, and standing here a year is what it costs, and I will be fifty in the spring and I have a stall.”
+“So that is all of it and it is very small. The only complete record of the water on this coast is in a thing that cannot be argued with, and my thirty-one years are in a thing that cannot be argued with either, and I could put mine into theirs if I stood here a year, and standing here a year is what it costs, and I will be fifty in the spring and I have a stall.”
 
 She turned round and got her stall's board up and did not say anything else about it, and he stood in the rain by a pole and worked out that he had walked eleven miles up a coast road to be told that a question of money on this coast is not a question of money, it is a question of what a record is made of, and that the answer had been sitting in a building he had been in for six hours with a pane on the wall of it.
 

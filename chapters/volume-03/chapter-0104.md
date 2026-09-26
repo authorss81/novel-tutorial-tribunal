@@ -46,7 +46,7 @@ Somebody at the back said, “Aye. And a man who refuses a tariff is a man you h
 
 ---
 
-It took him two days to find out that the number was the whole of it, and he found that out from a woman who came in at the back of the second telling and stood there until the end and then said one thing.
+It took him two days to find out that the number was all of it, and he found that out from a woman who came in at the back of the second telling and stood there until the end and then said one thing.
 
 Efa Lund is thirty-four and keeps the shore's own count of what crosses the flat and the creek and has kept it eleven years in a book of her own. She is not a clerk and is paid nothing and was not asked.
 

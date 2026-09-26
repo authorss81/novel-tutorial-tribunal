@@ -2,7 +2,7 @@
 
 On the sixth of the tide he walked the two miles along the coast above the crossing to the glassworks at Thornglass, which is a shed, a kiln, a long bench, an arch and a yard of cullet, and it is the only building on this stretch where nobody ever has to shout, because the fire is behind two feet of brick, and the family has been deaf in the right ear since the kiln was built in the year of the bad seventh, and nobody has ever once been asked about it.
 
-Hollis Thrale is sixty-one. He has been at the fire for forty-one years. He is right about his craft in every particular that can be tested and wrong about one thing, and the one thing is the whole of what this chapter is for.
+Hollis Thrale is sixty-one. He has been at the fire for forty-one years. He is right about his craft in every particular that can be tested and wrong about one thing, and the one thing is the whole of what a coast is like.
 
 The apprentice is Sabra Trew, twenty-four, in her third year, and she scrapes a batch off the kiln floor with an iron bar, and her back is the shape of a person who has been leaning over a low fire for three years, and she is paid nothing, and she is not unhappy, and she has not answered a letter.
 
@@ -10,7 +10,7 @@ The apprentice is Sabra Trew, twenty-four, in her third year, and she scrapes a 
 
 He had said that to about forty people in his life and he was saying it to a man with a bad leg and a wet coat who had come up the coast road in the rain with a sheet of paper in his hand.
 
-“The guild’s charter is on a wall in a frame in the tide office at the Reach,” said Ilyan Vester, “and the tide table is on the wall beside it, and you made both of those, and the guild has the only one of either and has not let either of them out of that building in nineteen years.”
+“The guild’s charter is on a wall in a frame in the tide office at the Reach,” said Ilyan Vester, “and the tide table is on the wall beside it, and you made both of those, and the guild has told me at its own counter that it has the only one of either and has not let either of them out of that building in nineteen years.”
 
 “I fired both of those.”
 
@@ -48,7 +48,7 @@ Hollis Thrale put down a bar. Sabra Trew stopped scraping.
 
 “That,” said Hollis Thrale, after a while, “is the first thing anybody has said to me about a piece of my own work in about twenty years and it is a horrible thing to hear and I do not think it is wrong.” He picked the bar up again. “Now go and stand over there, because you have gone grey, and there is a step down on your side, and I am sixty-one and I am not going to be the one that has to get you off my floor.”
 
-He got down the step with a hand under his arm from somebody he had not asked, and sat on a crate with his back against a warm wall, and the leg was entirely gone and had a thing in his nose in two layers with a third one under both, and the room with the table and the four people and the woman of about forty-four with her back to him was at the same height and the same distance and did not move and was not going to. The cold place in his hip did what it does and took about six seconds out of the hand on his left, and he could not have picked up a pencil for the length of it and would not have wanted to.
+He got down the step with a hand under his arm from somebody he had not asked, and sat on a crate with his back against a warm wall, and the leg was gone over from the hip down, all of it, the way it goes when a seam comes apart in front of him and there is a voice in it, and it had a thing in his nose in two layers with a third one under both, and the room with the table and the four people and the woman of about forty-four with her back to him was at the same height and the same distance and did not move and was not going to. The cold place in his hip did what it does and took about six seconds out of the hand on his left, and he could not have picked up a pencil for the length of it and would not have wanted to.
 
 “You will want to write that down,” said Sabra Trew, “and you are not going to be able to for a minute.”
 

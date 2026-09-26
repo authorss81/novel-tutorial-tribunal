@@ -36,7 +36,7 @@ Corrie Tallow looked at him for a while.
 
 “Yes.”
 
-“And it came back as the whole of it, in a shop, on a boat, off a man who was not in the room either.”
+“And it came back as all of it, in a shop, on a boat, off a man who was not in the room either.”
 
 “Yes.”
 

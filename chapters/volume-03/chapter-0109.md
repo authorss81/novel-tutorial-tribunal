@@ -10,7 +10,7 @@ Ilyan Vester sat down on the stool, which she offered him, and the leg went on t
 
 “What happens when the water is not on the bar and the road is not fit?” he asked.
 
-“Nothing,” said Alma Gannock. “Sixteen carts came over that week and I let them and I have done it twice in eight years and I paid the guild out of my own basket for the sixteen, and the road stayed open, and if it had shut then the next four days of that week would have come round the shore and lost a day and a half of a horse apiece, and that is about nine pounds, and I had nine pounds of eggs and knitting in a box that year and now I have a box that is not so full.”
+“Nothing,” said Alma Gannock. “Sixteen carts came over that week and I let them and I have done it twice in eight years and I paid the guild out of my own basket for the sixteen, and the road stayed open, and if it had shut then the next four days of that week would have come round the shore and lost a day and a half of a horse apiece, and that sum is sixteen households’ and not mine and I have never made it, and I know it is a great deal more than the sixteen pence. And I had nine pounds of eggs and knitting in a box that year and now I have a box that is not so full.”
 
 “Why would you pay it out of your own?”
 
@@ -54,7 +54,7 @@ The road above the crossing is one cart wide and there was a bar coming up behin
 
 “Read it to me.”
 
-“I cannot read it,” said Wend Garrow, “and that is the whole of it and that is why it has been in me for three weeks, because I could not tell anybody what was on it. I told you the words. I can tell you what a line says the way you tell a story. The bottom line is about a week when the water is not on it, and the tide office is not bearing the cost of that week, and the person at the end of the line is the person who is.”
+“I cannot read it,” said Wend Garrow, “and that is all of it, and that is why it has been in me for three weeks, because I could not tell anybody what was on it. I told you the words. I can tell you what a line says the way you tell a story. The bottom line is about a week when the water is not on it, and the tide office is not bearing the cost of that week, and the person at the end of the line is the person who is.”
 
 “The cost of a week in which the water is not on it is not borne by the guild.”
 
@@ -66,7 +66,7 @@ The road above the crossing is one cart wide and there was a bar coming up behin
 
 ---
 
-That is the whole of it, and it took the rest of that day and a good part of the next morning, and none of it is a mystery.
+That is all of it, and it took the rest of that day and a good part of the next morning, and none of it needed anybody to go looking.
 
 Wend Garrow had found the two cards. He had a guild crossing card in his apron with eight years of somebody else's pencil on it, and a tide-office card out of the same shop, and he had put them on the table in the guild house upside down to each other because that is how he had found them, stacked, and then he had turned them both over and put them back the way they were, and he did not know what he was showing and he was not able to be told.
 
@@ -84,11 +84,11 @@ Wend Garrow looked at the two cards on the table for a while.
 
 “Nine years,” he said. “The guild's own return for that crossing says it was open every week of every year and never once short. It is on the wall in the tide office. I have read it, because I read everything on those walls, which is my whole job and the only thing I am good at.”
 
-Ilyan Vester had stood in front of the charter on the second day of a tide and read the burden term off it with his own eyes, one piece at a time, at a counter, with a woman standing on the other side of it not helping him. **The sentence at the bottom of the tide-office card is that sentence.** Word for word, the same fourteen words, the same order, and the charter puts it at the head of a column where a person can find it in a room, and the card puts it at the end of a line where a man filling a card in will copy it without ever knowing what it says.
+Jory Vance read the bottom line off the tide-office card out loud, and then went and stood at the north wall and read the same fourteen words off the head of a column on the charter pane, and came back and stood over the two cards again. Word for word, the same fourteen words, the same order, and the charter puts it at the head of a column where a person can find it in a room, and the card puts it at the end of a line where a man filling a card in will copy it without ever knowing what it says. Ilyan Vester had been handed a sheet and had it read to him out loud one piece at a time two days back, with a woman standing on the other side of the counter not helping him, and he did not need any of it told to him twice, because the shape of it was in the two cards and on the wall behind them.
 
 And that sentence is standing at the end of the bottom line of a card at a bar road, with a name against it, and the name is Alma Gannock, and she is eighty-one, and she has been the person who bears the cost of a week the water is not on it for eight years, and it has cost her thirty-two pence, and it has cost her four hundred and sixteen decisions, and nobody has asked her one question about any of it.
 
-The money is nothing. That is the finding and it took the whole of a day to be sure of it. Two bad weeks in eight years, sixteen carts, a penny a cart, and thirty-two pence between them, and a woman of eighty-one has taken that out of a box that was not so full afterwards. If somebody sat down in a room and looked at the arithmetic alone they would send a letter.
+The money is nothing. It took him the better part of a day to be sure of that. Two bad weeks in eight years, sixteen carts, a penny a cart, and thirty-two pence between them, and a woman of eighty-one has taken that out of a box that was not so full afterwards. If somebody sat down in a room and looked at the arithmetic alone they would send a letter.
 
 The rest of it is not a number. It is that for eight years a woman has decided, on her own, on a bar road, in bad weather, with a boy of eight in the hut, whether four carts or sixteen go over; that nobody on this coast knows that she is deciding; that if the guild knew, it would put a second person on that road, because a second person is how you stop one person being the whole of a thing; and that she would rather be the whole of the thing, and she has never been asked why, and neither would she be able to say it in one sentence if she were asked today.
 

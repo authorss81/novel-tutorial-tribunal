@@ -6,7 +6,7 @@ The sixth day of the tide. The second bell, somewhere behind the cloud.
 
 “Forty-eight minutes,” said Danno Ray, to nobody, in the voice of a man who had been saying it to a stone for an hour and a half. “Water’s on the bar at the seventh bell, near enough, and I’ve got a load of quicklime on it that wants to be under a roof before the seventh bell, and the water’s on the bar at the seventh bell, and the bar is nine hundred yards off and I’m sat on it with a cart.”
 
-“You could go through,” said the cartter, who was about nineteen and had a coat on him that had been somebody else’s.
+“You could go through,” said the carter, who was about nineteen and had a coat on him that had been somebody else’s.
 
 Danno Ray did not look at him.
 
@@ -22,7 +22,7 @@ He was thirty-one and he had been on a cart for nine hours and he was four hundr
 
 Corrie Tallow was forty-eight and she had a stall at Wether Cross and she had sent a cart eleven miles up the road and paid four days’ hire for it out of four days she did not have, and the man in the cart had come out of it and was standing in the rain in the middle of a load of quicklime.
 
-She had seen him on the fourth of the tide and the first thing she had thought was that he did not look like a man who could be helped and the second thing was that he had not asked her anything, and the two together had taken the four days it took for the cart to come round.
+She had seen him on the second of the tide and the first thing she had thought was that he did not look like a man who could be helped and the second thing was that he had not asked her anything, and the two together had taken the four days it took for the cart to come round.
 
 The stall was an awning on four poles and a board across the front with the day’s price of rope chalked on it, and the chalk had been gone over about nine hundred times since the spring, and the price of rope was not the thing she wanted to talk about. She handed him a mug of something hot without asking whether he wanted it, which is what you do on a coast.
 
@@ -30,7 +30,7 @@ The stall was an awning on four poles and a board across the front with the day�
 
 “It isn’t,” he said.
 
-“Right,” she said, and drank her own, and then said the thing she had walked eleven miles for, and said it in one breath because she had had four days to say it and had said it out loud to a horse on the road head on the second of the tide. “I want somebody to read a thing and tell me whether it says what I think it says, and I am told you are a man who can find where a thing is bolted to what, and I have wanted it for four years, and I have got about six days of you and then the seventh day comes and after that you will go home.”
+“Right,” she said, and drank her own, and then said the thing she had walked eleven miles for, and said it in one breath because she had had four days to say it and had said it out loud to a horse on the road head on the second of the tide. “I want somebody to read a thing and tell me whether it says what I think it says, and I am told you are a man who can find where a thing is bolted to what, and I have wanted it for four years, and I have got about six days of you, and a man is not going to stand in the rain on this coast for a fortnight, and after that you will go home, and I would not say that to you if it were not true.”
 
 “I’ll go when I’ve read it,” he said.
 
@@ -56,13 +56,13 @@ Wend Garrow went through on the fourth with a season’s passage paid for on the
 
 They got him out at the far end. They got the horses out. They did not get the salt boards, which are the cargo and are paid for twice if they come back broken, and they did not get the cart, which is his own and which he built himself in the winter.
 
-The guild was right. That is the whole of it and there is no other part of it. The bar was where the table said the bar was, on the fourth day of the tide, at about the seventh bell, and the table is a pane of saltglass in a frame in the tide office at Kestrel Reach, and the guild does not let it out of the building because it is the only copy and because it is a working record of a moving thing and it goes brown in about twenty years and then it is a different record.
+The guild was right, and there is no other part of that. The bar was where the table said the bar was, on the fourth day of the tide, at about the seventh bell, and the table is a pane of saltglass in a frame in the tide office at Kestrel Reach, and the guild does not let it out of the building because it is the only copy and because it is a working record of a moving thing and it goes brown in about twenty years and then it is a different record.
 
 Wend Garrow is thirty-three. He has been on that road since he was nine. He got out. He is standing on a quay at the top of a lane with no cart and a hook in his hand and he is not a liar and he is not wrong about most of it.
 
 ---
 
-Nobody put Ilyan Vester’s name in a thing on this coast and nobody sent for him. A man in a city four hundred miles off, a counsel of nineteen years, had said to a woman with a tide table in a lane by the sea that there was a man in this city who could look at a document and find where it was bolted to what, and had said it for no reason he gave her, and she had walked eleven miles to the head of the coast road to find out whether it was worth a day, and the day was worth a day and no more than a day, and she was owed nothing and would not say so out loud.
+Nobody put Ilyan Vester’s name in a thing on this coast and nobody sent for him. A woman who sells rope had been in a city four hundred miles off and come home, and in a lane in that city a counsel of nineteen years had told her, for no reason he gave her, that there was a man in it who could look at a document and find where it was bolted to what; she had written to him at a counter and he had come down the coast road, and she had walked eleven miles up it herself to see whether it was worth a day and then sent a cart up it with a boy of nineteen on it, and it was the same eleven miles both times. The day was worth a day and no more than a day, and she was owed nothing and would not say so out loud.
 
 There is a sheet in his coat.
 

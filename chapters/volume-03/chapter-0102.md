@@ -8,7 +8,7 @@ She is fifty-one. She was the harbourmaster's clerk for nineteen years and she h
 
 The seventh day of the tide. From the first bell.
 
-Wend Garrow was at the counter before she had the second cup of anything down, with his licence in his hand and a hook in the other one, and he had not slept, and he was not a liar, and he was going to be right about most of it.
+Wend Garrow was at the counter before she had the second cup of anything down, with his licence in his hand and a hook in the other one, and he had not slept, and he was not lying to her about any of it, and in about four minutes he was going to be right about most of it in front of her.
 
 “Morning,” she said. “You have brought that licence round again, which I did notice at the second bell yesterday and did not expect twice in three days.”
 
@@ -51,7 +51,7 @@ She was still talking. She had not stopped and the room had not gone quiet, and 
 
 “I was going to ask what a passage is,” he said.
 
-“That is a real question,” she said, with a small flat sound that was not quite a laugh, “and it is the ninth one I have had off the road this season, and I will give you the answer, and the answer is a pane of glass on the north wall and it is in the guild's hand and it is the only legible copy of it, and you may read it as often as you like, and there is no charge.”
+“That is a real question,” she said, with a small flat sound that was not quite a laugh, “and it is the ninth one I have had off the road this season, and I will give you the answer, and the answer is a pane of glass on the north wall and it is in the guild's hand and it is the only legible copy of it, and you may read it as often as you like, and there is no charge. I have been reading them since I was twenty-six, which is three years before this house had me, so I have read a great many that nobody on this coast has.”
 
 He read it. He got the first line and he got about four words of the second and then the words stopped meaning anything, the way they do, and there was nothing in the world on the rest of that pane he could take hold of. He stood in front of it for a while with his hand up near it and did not touch it, and he was aware, in a way that was worse than the leg, that he was doing the thing he had done in four months in a city and had told nobody about, and had never once managed in front of a person who did not already know.
 
@@ -125,4 +125,4 @@ She looked at him for slightly longer than a person needs to.
 
 “All right,” he said.
 
-“If you want the fourth day and the sixth and the seventh, they are painted on a staff at the harbour mouth and the numbers on it are the truth and the chart is the same truth with more words on it, and the staff is two hundred yards that way and the tide is out of it until the turn tomorrow,” said Bettany Rook, “and if you can read a number on a post you can have the whole of this coast in one morning, and I would like to know what you do with it.”
+“If you want the fourth day and the sixth and the seventh, they are painted on a staff at the harbour mouth and the numbers on it are the truth and the chart is the same truth with more words on it, and the staff is two miles that way and the tide is out of it until the turn tomorrow,” said Bettany Rook, “and if you can read a number on a post you can have the whole of this coast in one morning, and I would like to know what you do with it.”
