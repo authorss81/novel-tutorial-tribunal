@@ -1,10 +1,10 @@
 # Chapter 129: The Fourth Time
 
-The quarter goes up the coast road in a cart on the second of every tide and it is read by the guild’s own office two hundred miles up this coast and by nobody else at all, and it is four weeks of passage money written in a hand that has not changed since before Bettany Rook came to that counter, and on the second of the seventh tide she was writing it out and would be four hours at it and would not be helped.
+The quarter goes up the coast road in a cart in the fourth week of a season and it is read by the guild’s own office two hundred miles up this coast and by nobody else at all, and it is four weeks of passage money written in a hand that has not changed since before Bettany Rook came to that counter, and on the second of the seventh tide she was writing it out and would be four hours at it and would not be helped.
 
 She got to about the fourth sheet and stopped.
 
-“There is a line in this quarter for a person,” she said, “and it has been in this quarter for six weeks and it has been empty for six weeks, and I am not going to write a name in it, and I am not going to ask anybody to write a name in it, and I have known that since the fourth of the fourth tide and I have said it to nobody in six weeks and Jory, put your pen down for a minute.”
+“There is a line in this quarter for a person,” she said, “and it has been in the quarter since the fourth of the fourth tide, and that is nineteen days, and it has been empty for nineteen days, and I am not going to write a name in it, and I am not going to ask anybody to write a name in it, and I have known it for nineteen days and I have said it to nobody for nineteen days, and Jory, put your pen down for a minute.”
 
 He put the pen down.
 
@@ -26,7 +26,7 @@ And nothing at the end of it.
 
 The System put the quarter in front of Ilyan Vester on the lane below the office at about the fourth bell, and what it gave him was the fifth thing on this coast that was a record of a thing nobody had entered anywhere in particular.
 
-**THE GUILD’S QUARTER CARRIES A LINE FOR A PERSON TO BE PAID TWO POUNDS A YEAR OUT OF WHAT THE CROSSING OF WETHER CROSS TAKES, VOTED FIVE TO FOUR ON THE FOURTH DAY OF THE FOURTH TIDE. THE LINE HAS NO NAME ON IT AND NOBODY HAS ASKED. THE CROSSING TOOKS NINETY POUNDS EIGHTEEN. THAT IS THE SAME FIGURE AS THE YEAR THE LAST MAN ON THAT LINE WAS PAID FOR ELEVEN MONTHS, WHICH WAS FOUR YEARS AGO, WHEN THE FIGURE WAS A HUNDRED AND SIX.**
+**THE GUILD’S QUARTER CARRIES A LINE FOR A PERSON TO BE PAID TWO POUNDS A YEAR OUT OF WHAT THE CROSSING OF WETHER CROSS TAKES, VOTED FIVE TO FOUR ON THE FOURTH DAY OF THE FOURTH TIDE. THE LINE HAS NO NAME ON IT AND NOBODY HAS ASKED. THE CROSSING TOOKS NINETY POUNDS EIGHTEEN. IT TOOK A HUNDRED AND SIX FOUR YEARS AGO, AND THE LAST MAN ON THAT LINE WAS PAID FOR ELEVEN MONTHS.**
 **WHAT IS NOT DECIDED: WHETHER A LINE WITH NO NAME ON IT IS A WAGE THAT HAS BEEN REFUSED BY EVERYBODY ON THIS COAST OR A POST NOBODY HAS APPLIED FOR.**
 
 ---
@@ -51,17 +51,17 @@ Not the guild and not the assembly and not the harbourmaster and not a clerk. If
 
 The sheet lay on the counter with the quarter under it.
 
-And it went up the coast road that afternoon, because the cart goes up the coast road that afternoon, and it went with the quarter, and Jory Vance put a piece of string round it and a loop for a hand, and the man who took the road that day was a carter who was going up for his own reasons and took a bundle from a counter the way carters take a bundle, and it came off the counter at about the sixth bell and it was on that bar road at about the eighth bell of the same day, in a hand, because a man with a bad leg was standing in that building at the time and has not been on this coast thirty-eight days and has not been asked for one thing, and did not know until the second bell on the following morning that a sheet had gone.
+And the quarter went up the coast road that afternoon in the cart that goes up the coast road that afternoon, and the sheet went with it, and Jory Vance put a piece of string round the sheet and a loop for a hand, because a sheet that carries a bar road is a person, and a person does not go in a cart with a load of oil. Nobody gave it to anybody. A man with a bad leg had been in that building since the first bell with his back to the wall and had the whole of it in his ears, the blank and the road and the woman on it and the day and the bell, said out loud twice in a room with the door open, and he had read nothing and understood all of it, and when the clerk set the sheet down on the end of the counter for a carter who was going up for his own reasons, he picked it up off the counter and put it inside his coat. He has been on this coast thirty-eight days and not one person has asked him for one thing, and there was nobody in that building to ask him whether he would like to be the one standing there.
 
-Nobody sent for him. Nobody had standing to send for him. He had been on this coast thirty-seven days and not one person had asked him for one thing, and the fourth time he was produced on this coast it was by a piece of string round a bundle.
+Nobody sent for him. Nobody had standing to send for him, and there was nobody in that building who could have told him not to, and the fourth time he has been produced on this coast it was because he picked a piece of paper up off a counter. Picking a thing up is the whole of the mechanism. It took him about a second and it is going to cost him the best part of a day and he did not know that when he did it.
 
 ---
 
-Alma Gannock is eighty-one and she keeps a crossing on a bar road four miles along the coast above the north end, and she knits, and there is a boy of eight in the hut with her because his mother is dead and his father is on the water, and nothing whatever happens to him in this book, because he is eight, and because he is not asked anything by anybody.
+Alma Gannock is eighty-one and she keeps a crossing on a bar road four miles along the coast above the north end, and she knits, and there is a boy of eight in the hut with her because his mother is dead and his father is on the water, and he has a slate and a piece of chalk and he is putting something on it and getting it wrong, and nobody in that hut is going to ask him anything about anything today.
 
 The walk is four miles up the coast road on a leg that has a gate hand of forty-four’s weight in it out of a city four hundred miles behind him, and four miles back, and there is nothing to sit on and it is about a day.
 
-He came over the top of the rise at about the third bell and she was on the stool with her back to the water and the chain round her knees and the tarpaulin folded over one arm, and she had the boy on a board with a slate and a stick of chalk and he was doing the thing children do with a slate and a stick, which is nothing, and getting it wrong, and she was not correcting him.
+He came over the top of the rise at about the sixth bell and she was on the stool with her back to the water and the chain round her knees and the tarpaulin folded over one arm, and she had the boy on a board with a slate and a stick of chalk and he was doing the thing children do with a slate and a stick, which is nothing, and getting it wrong, and she was not correcting him.
 
 “You have not brought anybody,” she said, before he had got to her.
 
@@ -77,7 +77,7 @@ He came over the top of the rise at about the third bell and she was on the stoo
 
 He said it in about four minutes and it was the shortest he had ever said anything to anybody, and it was: the guild is making its quarter and a return goes up it for that bar road, and nobody is permitted to say out loud what her road is but her, and so she is asked to come to the counter at the Reach on the third of next tide at the first bell and say, in her own words, what that road is and who keeps it, and it will be in the return in her own words, and there is no form and no seal and nothing to sign.
 
-It will cost her the best part of a day. It is five or six miles each way on a road that is a cart road and she is eighty-one and she has a boy of eight.
+It will cost her the best part of a day. It is four miles each way and eight in the day on a road that is a cart road, and she is eighty-one, and she has a boy of eight.
 
 “All right,” she said. “Say the rest of it.”
 
@@ -123,7 +123,7 @@ And there was no reason on the page, and there had been no reason on the page fo
 
 Then he said the other half of it out loud to a shed, to nobody, and it was not a thing he would have written down.
 
-“I was right,” he said. “The thing I was doing this morning was right. What I did was the custom and it is four hundred years old and nobody on this coast could have told me why and two of them could have told me exactly. And it cost her a day and it cost me a day and she has not got a return and the quarter is going up the road with a blank on it that says a road is not kept, and a man in a building two hundred miles off is going to write *abandoned* on a bar road that four carts go over every week of the year, and every single part of that is correct.”
+“I was right,” he said. “The thing I was doing this morning was right. What I did was the custom and it is four hundred years old and nobody on this coast could have told me why and two of them could have told me exactly. And it cost her a day and it cost me a day and she has not got a return and the quarter is going up the road with a blank on it that says a road is not kept, and a man in a building two hundred miles off is going to write *abandoned* on a bar road that four carts go over in a week, and every single part of that is correct.”
 
 He put the pen down on the bench.
 

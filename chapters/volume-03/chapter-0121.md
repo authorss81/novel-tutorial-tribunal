@@ -1,6 +1,6 @@
 # Chapter 121: The One Who Was Not There
 
-The first of the sixth tide is a good day and the flat takes six, and the wind is off the west and there is nothing on the water between here and the far side that wants anybody’s attention. Cleve Gannock came down into the drying yard at the second bell to sort a heap of bait for a man at the Quay, and he did not sort it, and he did it badly, and by the ninth bell he had fish in his left hand and a letter in his right and had not noticed either of them.
+The first of the sixth tide is a good day and the flat takes six, and the wind is off the west and there is nothing on the water between here and the far side that wants anybody’s attention. Cleve Gannock came down into the drying yard at the second bell to sort a heap of bait for a man at the Quay, and he did not sort it, and he did it badly, and by the ninth bell he had a letter in his right hand that he had read four times and a heap of bait he had not sorted at all.
 
 He is thirty-one. He is the third of three brothers and the only one of the three who does not go on the water, and he is a dealer in what the flat boat brings in, and he has a house up above the yard with a good roof on it that four generations of this coast have known about and none of them says anything in front of their mother.
 
@@ -24,11 +24,11 @@ She is thirty-six and she has the flat boat and the towrope, and she is the only
 
 “That is not the same thing and you know it is not.” She put the file down on the boards. “If you write him *the family* he will write *the family* on his paper and put it in front of two hundred people, and there is no family in this yard. There is a boat and a rope and me, and there are two men who will tell him a different thing each, and neither of them was on the water that morning.”
 
-“Neither of them was on the water that morning,” said Cleve, “and neither of them is going to be, and that is not going to change this week.”
+“Neither of them is going to be on the water,” said Cleve, “and that is not going to change this week.”
 
 ---
 
-Dell came up off the water about the fourth bell with the pole over his shoulder and the flat in about two feet of it, and he came up the hard in two pulls. He is forty-two and he has the wheel, and four generations of this family have gone out of this yard, and there are three of them on the water now and the third is the one on the flat boat.
+Dell came up off the water about the fourth bell with the pole over his shoulder and the flat in about two feet of it, and he came up the hard in two pulls. He is forty-two and he has the wheel, and four generations of this family have gone out of this yard, and there are three of them in the water trade and the third of those is the one on the flat boat.
 
 “Cawley wants his ways clear by the sixth,” he said, going past.
 
@@ -70,9 +70,9 @@ Because Dell had the wheel and had that crossing, and had four crossings that da
 
 Because Sorrel had the flat boat at the north end of the same nine hundred yards with the towrope on, watching the gravel go, and what she can tell you is what is over a gravel bar and what is not.
 
-And here is the whole of the thing, and not one of the three of them is lying. The shallow at the north end, where the boat is, is two hundred yards of gravel with a soft place cut through the middle of it. The flat, where the cart was, is nine hundred yards of shingle with a channel down it that moves. They are four hundred yards apart and they are not the same water and they have never been the same water. A man at the north end on a good day sees the channel lying across the shallow, because the ebb out of it drains and leaves it flat. A man at the wheel in the middle of the flat sees the channel lying along the flat, because that is where the running water from the last tide put it. Both of them are the same channel. On the morning in question it had come out of the low about three weeks back and had made a new one across the flat and had not made one at the north end at all.
+And here is the whole of the thing, and it took the three of them about a quarter of an hour to get to it without any of them noticing they were doing it, and not one of the three of them is lying. The shallow at the north end, where the boat is, is two hundred yards of gravel with a soft place cut through the middle of it. The flat, where the cart was, is nine hundred yards of shingle with a channel down it that moves. They are four hundred yards apart and they are not the same water and they have never been the same water. A man at the north end on a good day sees the channel lying across the shallow, because the ebb out of it drains and leaves it flat. A man at the wheel in the middle of the flat sees the channel lying along the flat, because that is where the running water from the last tide put it. Both of them are the same channel. On the morning in question it had left the low some weeks back and had made a new one across the flat and had not made one at the north end at all.
 
-“It was under six inches at the lowest,” said Sorrel, “the whole two hundred yards at the north end, and the channel was across it and not along it, and I was over there with the boat and the rope on for four hours doing a passage that ought to take forty minutes. And I never saw your cart, Dell. I never saw it. Not once. I looked up the flat about nine hundred yards off twice because a boy on a bicycle came past me and I thought it was somebody’s, and it was not.”
+“It was under six inches at the lowest,” said Sorrel, “the whole two hundred yards at the north end, and the channel was across it and not along it, and I was over there with the boat and the rope on for four hours doing a passage that ought to take forty minutes. And I never saw your cart, Dell. I never saw it. Not once. I looked up the flat twice, the whole length of it, because a boy on a bicycle came past me and I thought it was somebody’s, and it was not.”
 
 “Did your shallow go out at all.”
 

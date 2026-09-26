@@ -60,7 +60,7 @@ He put the fire in with the poker and asked Cleve whether there was any paper.
 
 ---
 
-He wrote the three accounts down in the order he had taken them, in full, in his own hand, with each of them under its own name, and he read each one back to the person it belonged to, which is a thing he has done all his life at counters and which nobody in that loft remarked on.
+He wrote the three accounts down in the order he had taken them, in full, in his own hand, on the last leaf of a pad of writing paper that had come out of the back of his coat, with each of them under its own name, and he read each one back to the person it belonged to, which is a thing he has done all his life at counters and which nobody in that loft remarked on.
 
 Then he wrote the one sentence at the top of the page.
 
@@ -88,7 +88,7 @@ And she sat down on the bench again and let it go, and the letting go was the wo
 
 He finished the page in nine minutes.
 
-Under the sentence he put the three accounts in full, each one under its own name, and under those he put the date, which was the third of the sixth tide, and the two questions, and the fact that the three of them had all been asked the same words. And there was no reason on the page, and there had been no reason on the page for three pages now, and the three of them were in the back of a penny exercise book in his coat with a sheet of writing paper from a city four hundred miles behind him that had two questions on it in a hand he had asked her not to write in.
+Under the sentence he put the three accounts in full, each one under its own name, and under those he put the date, which was the third of the sixth tide, and the two questions, and the fact that the three of them had all been asked the same words. And there was no reason on the page, and there had been no reason on the page for three pages now, and the pad it was on was in the inside pocket of his coat with a sheet of writing paper from a city four hundred miles behind him that had two questions on it in a hand he had asked her not to write in.
 
 Then he tore the sheet out along the perforation and gave it to Cleve Gannock, who read it standing up, in the ordinary way, and who read it twice.
 
@@ -106,6 +106,6 @@ He sat down on the bottom step of the ladder with his back against the post and 
 
 It had taken nine minutes. It had cost nothing: a page out of a book he had paid for, and nine minutes, and a leg that was no worse for standing still on a step, and nobody’s name anywhere that could be used against anybody. He had three accounts that did not agree, and one question that narrowed them, and a finding that could be carried two hundred miles up a coast road in a coat pocket and be believed, and the woman who had asked him not to had asked him to leave out one phrase and he had left out the one phrase and done the rest of it exactly as she had said.
 
-He had not sold anybody. He had not asked anybody for anything. In thirty-one days on that coast he had not once been sent for, and he had gone into a net loft at the third bell because a man he had met for two days had said *come up*, and he had come out of it with the only thing he knew how to make, and it had taken nine minutes, and it had not cost a soul a thing.
+He had not sold anybody. He had not asked anybody for anything. In thirty-two days on that coast he had not once been sent for, and he had gone into a net loft at the third bell because a man he had met for two days had said *come up*, and he had come out of it with the only thing he knew how to make, and it had taken nine minutes, and it had not cost a soul a thing.
 
 Then he got up off the step, and went down the ladder, and the leg went on him at the second rung, and he stood at the bottom of it in the cold for a minute and a half while it came back worse and did not go.

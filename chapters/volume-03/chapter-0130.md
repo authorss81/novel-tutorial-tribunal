@@ -1,10 +1,10 @@
 # Chapter 130: The One Standing There
 
-The third of the seventh tide is a good day and the flat takes six, and the guild’s own works were still on the far side of that water with nine yards of sea wall opened up to the second course and nothing laid in it, because the stone for the second course went up the coast road the long way on the second of a tide and is in a wall at the north end, and a wall does not wait for a cart.
+The third of the seventh tide is a good day and the flat takes six, and the guild’s own works were still on the far side of that water with nine yards of sea wall opened up to the second course, a course of stone and lime in the first six yards of it and nothing in the last three, because the stone for the last three yards came round the coast the long way and is stacked on the near side of that water at the head of the chain, and a wall does not wait for a cart.
 
-What came off the water on the third was the gear and the string and the two shorter posts, which went back into their sockets about forty yards below the wall, and a man of fifty-four who has done that nineteen years; and the flat was a crossing again by the second bell instead of a working flat, which is what a bar road costs a coast in days, and nobody on the coast adds it up.
+What came off the water on the third was the gear and the chain and the two shorter posts, which went back into their sockets about forty yards below the wall, and a man of fifty-four who has done that nineteen years; and the flat was a crossing again by the second bell instead of a working flat, which is what a road across a bar costs a coast in days, and nobody on the coast adds it up.
 
-The chain went up at the eighth and stayed up until the turn, which on a good day is how it works, and about forty people were on the flat, and there was more work on it than there had been any day in a fortnight, because every cart that has to come round this coast comes round it on the three days the water owns the bar and gets twelve hours of it back when it does not.
+The chain went up at the second bell and went up and came down six times before the turn, which on a good day is how it works, and about forty people were on the flat, and there was more work on it than there had been any day in a fortnight, because every cart that has to come round this coast comes round it on the three days the water owns the bar and gets twelve hours of it back when it does not.
 
 There was a cart standing at a bar of shingle at the near end at about the third bell that had been standing there since the first.
 
@@ -22,7 +22,7 @@ The cart standing at the bar had no mark on the slate.
 
 “I cannot put you on it, that is not mine to do, and there are four carts and the flat takes four.” Jory Vance looked at the slate. “You have no standing on this road this morning, that is all that is. There is a man on the chain and he has the slate and he will come round in about an hour and the tide will be going off in about two, and if he says you go then you go and the road is not shut and you have lost an hour and a bit and not a day.”
 
-The road was not shut. The chain was up. There were three other carts on nine hundred yards of shingle and a man with a bar in his hand, and no one had said that a cart might not come over the flat, and the only thing that had been said was seven words to a carter by a man of twenty-two who had not been told what the words weighed.
+The road was not shut. The chain was up. There were three other carts on nine hundred yards of shingle and a man with a bar in his hand, and no one had said that a cart might not come over the flat, and the only thing that had been said about that cart was nine words, by a man of twenty-two who had not been told what the words weighed.
 
 The man with the cart said, “All right,” and got his beasts’ heads up about a foot, and waited, because you wait.
 
@@ -30,19 +30,19 @@ The man with the cart said, “All right,” and got his beasts’ heads up abou
 
 Ilyan Vester was standing about four feet off with his weight on his good side and had been standing about four feet off for most of a month.
 
-He had heard the words. He had heard them and he had not moved, and there was a thing happening in him that he had not had since he was a child, which is the specific embarrassment of standing next to a thing that a person does not know they are doing. He had put a man off a cart once, four hundred miles from here, with a piece of paper, and it had cost that man a day and a day and a half of a cart and a hedge, and it had cost him nothing, and he had written it down afterwards and had told himself for four months that the difference between the two was that the man had a way of complaining and this one did not.
+He had heard the words. He had heard them and he had not moved, and there was a thing happening in him that he had not had since he was a child, which is the specific embarrassment of standing next to a thing that a person does not know they are doing. He had put a man off a cart, four hundred miles from here, with a piece of paper, and it had cost that man a day and a hedge once and three shillings and ninepence and a day and a half another time, and it had cost him nothing, and he had written it down afterwards and had told himself for four months that the difference between the two was that the man had a way of complaining and this one did not.
 
-It is not the difference. A man cannot ask a question unless somebody is there to answer it, and there are about nine hundred people on this water and they all come to a person, and the person has no standing either, and the word goes round this coast about nine times a year in the ordinary way and every single one of the nine is worth a day to somebody.
+It is not the difference. A man cannot ask a question unless somebody is there to answer it, and every crossing on this water comes to a person, and the person has no standing either, and the word goes round this coast about nine times a year in the ordinary way and every single one of the nine is worth a day to somebody.
 
-He said nothing. Not to the carter, and not to Jory Vance, and not to the man with the bar. He has no standing on this coast and has never had one, and the only two things he has ever been able to give a person on this coast are an argument and a piece of paper, and he gave an argument to a woman of fifty-one in a yard on the fifth of a tide and was told to go and stand at the far end of something, and he gave a piece of paper to a man on a shingle and it cost that man a day.
+He said nothing. Not to the carter, and not to Jory Vance, and not to the man with the bar. He has no standing on this coast and has never had one, and the only two things he has ever been able to give a person on this coast are an argument and a piece of paper, and he gave an argument to a woman of fifty-one in a yard on the fifth of a tide and was told to go and stand at the far end of something, and he wrote a page in a net loft, and a man on a shingle stopped a cart on the strength of it three days later, and it cost that man a day.
 
-He stood there for an hour and a bit and the cart went on the second tide, and the man with the bar did not say anything to it at all, and the chain came up, and a load of stone went over nine hundred yards of wet shingle and up the coast road at about the ninth bell and was a day later than the man who had hired it expected it to be.
+He stood there for an hour and a bit and the cart went on the second tide, and the man with the bar did not say anything to it at all, and the chain came up, and the guild’s own stone went over nine hundred yards of wet shingle and on to the far side at about the ninth bell, a day later than the man who had hired it expected it to be.
 
 ---
 
-The man who made the hold came off the flat about the fourth bell and found the man with the bad leg at the top of the lane, and the man with the bad leg had been waiting about an hour for him, which he did not say.
+The man who made the hold came off the flat about the fifth bell and found the man with the bad leg at the top of the lane, and the man with the bad leg had been waiting about two hours for him, which he did not say.
 
-“I am going to tell you something and then I am going to tell you that I am not going to take it back,” he said. “I have thought about it for two days and I have got it down to four sentences and I am not going to improve them.
+“I am going to tell you something and then I am going to tell you that I am not going to take it back,” he said. “I have thought about it for four days and I have got it down to four sentences and I am not going to improve them.
 
 “The sheet your man had is one I wrote. I was in the loft at the north end when the three of them said it and I wrote down what all three of them said and then I put one sentence at the top of it, and the sentence is made out of the three of them and nothing else, and there is no lie in it. It is three different pieces of water in one place. Your brother’s cart came off the flat in the ordinary way four hundred yards from the six inches. His six inches was a boat over a gravel bar and there was a soft place in the middle of it a cart would have gone into. And the not-in-the-low was about a shingle flat with four feet across the middle of it.” He stopped. “And the three of them are all right about the water they were in. That is the whole of it and it is why nobody can find the join.”
 
@@ -62,7 +62,7 @@ Bevan looked at the water for a while.
 
 ---
 
-The man who lost a day’s hire was at the end of the flat at about the fifth bell with a bar in his hand, waiting for nobody, and he had a load of stone up the coast road that had gone the long way and cost a day and a half and he was owed for it and had been paid for it, and he was not unhappy, which is the thing about him that nobody on that coast has ever worked out.
+The man who lost a day’s hire was a hundred yards down the flat at about the sixth bell with a bar in his hand, waiting for nobody. His own stone had gone up the coast road the long way instead of over the water and had cost a day and a half and was in a wall at the north end by the third, and another cart of his was coming up on the fourth with stone for the same wall, and he was owed for both loads and had been paid for both loads, and he was not unhappy, which is the thing about him that nobody on that coast has ever worked out.
 
 He had not been on a stone in his life.
 
@@ -82,11 +82,11 @@ Thornglass, the second bell, and the second fire let in.
 
 The order was still under the batch book with the date on it and no figure against it, and the arch was cold behind two feet of brick, and there were two records on that bench and one of them was his own.
 
-“A record is not an instrument,” said Hollis Thrale, at the bench, in the ordinary way, to nobody in particular, because there was a man on a crate by the warm wall and there was a woman at the fire and there is nobody else on this coast he says this kind of thing to. “That is the whole of forty-one years. A record is a thing a person has to stand behind. That pane on the wall of the tide office is not the charter because the guild paid for it. It is the charter because a man of forty-nine stood beside an arch on one morning in my father’s time and stood behind it, and the guild has been borrowing his standing for nineteen years and does not know it is borrowing it.
+“A record is not an instrument,” said Hollis Thrale, at the bench, in the ordinary way, to nobody in particular, because there was a man on a crate by the warm wall and there was a woman at the fire and there is nobody else on this coast he says this kind of thing to. “That is the whole of forty-one years. A record is a thing a person has to stand behind. That pane on the wall of the tide office is not the charter because the guild paid for it. It is the charter because a woman called Mare stood beside an arch on one morning nineteen years and eight months ago and stood behind it, and the guild has been borrowing her standing for nineteen years and does not know that it is borrowing it.
 
 “And that post at the crossing is not a count because a man of seventy-one cut it. It is a count for one day a year while whoever is here is the one who is here, and the moment that man puts the hammer down, it is wood.
 
-“And that stone is not a court. It is a woman with the answer, standing on a rock, in the open. The whole of it is her. Take her off it and it is four feet of flat stone and about four hundred years of people respecting a habit.”
+“And that stone is not a court. It is a woman with the answer, standing on a rock, in the open. The whole of it is her. Take her off it and it is four feet of flat stone and about a hundred years of people respecting a habit.”
 
 He put his hand flat on the bench.
 
@@ -104,7 +104,7 @@ And then Sabra Trew put the bar down in the middle of a fire, which she had done
 
 Hollis Thrale did not answer.
 
-“Not to me and not when somebody comes for oil. Say it. Once, before the batch goes in, with the two of us standing here and the fire open, say out loud what goes into a pane — the sand, the salt, the eleven months, the day, the man, the glass — say all of it, in words, in this shed, so that the next person who stands here knows it in their own ears and not off a bench. Because there is nobody on this coast who knows it except us and a man in a room four hundred miles off who learned it out of a book about a year before it was his problem, and I have been standing at this fire for three years and I am twenty-four and I am paid nothing and I have not said out loud one single time what it is that I am doing here at two in the morning.”
+“Not to me and not when somebody comes for oil. Say it. Once, before the batch goes in, with the two of us standing here and the fire open, say out loud what goes into a pane — the sand, the salt, the eleven months, the day, the man, the glass — say all of it, in words, in this shed, so that the next person who stands here knows it in their own ears and not off a bench. Because there is nobody on this coast who knows it except us and a man in an office two hundred miles up this coast who learned it out of a book about a year before it was his problem, and I have been standing at this fire for three years and I am twenty-four and I am paid nothing and I have not said out loud one single time what it is that I am doing here at two in the morning.”
 
 The fire made the noise it makes.
 
@@ -116,6 +116,6 @@ The fire made the noise it makes.
 
 “All right,” said Sabra Trew.
 
-She turned round and picked the bar up and went back to the second fire, and she was still there, and she would be there at the second bell on the fourth and on the fifth and on the sixth, and the arch behind two feet of brick was cold and the order was under the batch book with a date on it and no figure against it, and there was a pane in a room four hundred miles off that could not be touched for a year, and a post at a crossing with a board on it and nobody’s name at the end of the rule, and a man of thirty-one sitting on a crate by a warm wall with a leg that had gone to the hip twice on nine hundred yards of shingle in three days and had not cleared once in thirty-nine.
+She turned round and picked the bar up and went back to the second fire, and she was still there, and she would be there at the second bell on the fourth and on the fifth and on the sixth, and the arch behind two feet of brick was cold and the order was under the batch book with a date on it and no figure against it, and there was a pane on a wall a mile up the hill that could not be touched for a year, and a post at a crossing with a board on it and nobody’s name at the end of the rule, and a man of thirty-one sitting on a crate by a warm wall with a leg that had gone to the hip three times in six days, once of them on nine hundred yards of shingle and once of them at the top of a rise four miles up a coast road, and had been his own for four hours once, on the fourth of the third tide, and had not been his own since, and he had been on that coast thirty-nine days and not one person on it had asked him for one thing.
 
 And on the fourth of that tide, at the turn, a carter of thirty-three who had lost a day’s hire and a day’s and a half’s hire over a piece of paper he has never read was going to stand on four feet of flat stone at the head of a shingle flat and ask the one question that stone is for, and the woman standing on it has the answer, and she will give it to him in the open in front of everybody, and it will be about the water.

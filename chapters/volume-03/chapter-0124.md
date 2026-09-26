@@ -26,11 +26,11 @@ Sorrel put the bow up on the far bank and let the man out with his lime, and too
 
 The cart’s wheel came off at about the second bell on the shingle above the flat, and it came off the way a wheel comes off, suddenly and all at once and about four seconds late, and the sound of it went a long way over the shingle.
 
-There were about seventy people on the flat on a fourth and the water was up over the channel and in both bays, and nobody saw it, because the only people who saw it were the two in the water and the three men in the yard, and the man in the yard who came out first was a man of fifty-eight with hoop iron in a cart behind him and a bundle of bar steel on the top of it, and he had come up the coast road in the morning with a load and had stopped at the north end to get a collar cut, and he came out of Cawley’s shed at the second bell with a piece of ash in his hand and was across forty feet of hard before the cart had stopped.
+There were about seventy people on the flat on a fourth and the water was up over the channel and in both bays, and the man who came out first was a man of fifty-eight with hoop iron in a cart behind him and a bundle of bar steel on the top of it, and he had come up the coast road in the morning with a load and had stopped at the north end to get a collar cut, and he came out of Cawley’s shed at the second bell with a piece of ash in his hand and was across forty feet of hard before the cart had stopped.
 
 He is Ostre Brann and he is fifty-eight and he is a wheelwright and he has his yard two Reaches down this coast, which is nine miles and a bad road, and he is up here twice a season with iron.
 
-Nobody said anything for about ten seconds. The carter got down and looked at it. The rim had come off the nave at the two o’clock and three o’clock and the wheel had gone about a quarter turn and had not gone over, and the cart was standing on three corners on nine hundred yards of shingle with the sea coming in on both sides of it and a chain two hundred yards short of the water.
+Nobody said anything for about ten seconds, and about seventy people were on that shingle and not one of them looked up, because a wheel coming off makes a noise like a cart going over and everybody on a fourth has heard that noise and does not turn round for it. The carter got down and looked at it. The rim had come off the nave at the two o’clock and three o’clock and the wheel had gone about a quarter turn and had not gone over, and the cart was standing on three corners on nine hundred yards of shingle with the sea coming in on both sides of it and a chain two hundred yards short of the water.
 
 Brann got down and put the bar steel on the ground and went at it with his hands and said one word, twice, and the word was *sprung*.
 
@@ -48,7 +48,7 @@ Brann got down and put the bar steel on the ground and went at it with his hands
 
 ---
 
-He did it on a bench in Cawley’s yard in about an hour, in the wind, with the ash collar Cawley had cut for the boat on the bench beside him, and it is the smallest possible physical thing and it takes nine minutes once you know it.
+He did it on a bench in Cawley’s yard in about an hour, in the wind, with a length of ash that Cawley had cut for him on the bench beside him, and it is the smallest possible physical thing and it takes nine minutes once you know it.
 
 You take a length of line and you lay it across the rim of a wheel at four places, and you see where it touches. A sound wheel touches at four places and the four places are the same distance apart. A wheel that has been sprung and has not been mended since touches at one place and stands off at another, and you can see the gap with your thumb, and you cannot argue with a thumb.
 
@@ -82,6 +82,6 @@ The carter came up off the shingle with the wheel barrowed back into the cart an
 
 “You will not be able to say I did not tell you,” said Brann, “and I have been trying to get that sentence into carters for thirty-one years and it has never once been worth anything, and I say it every time anyway, and you may tell the man with the leg that I said it, and he can put it in whatever he is writing about, because it is the only thing in this yard that has a thing in it that nobody can check.”
 
-He went up the road with the iron and got three miles up the coast road before the rain came in off the water and turned the road, and he was two Reaches from his own yard at the turn and it cost him the rest of the afternoon.
+He went up the road with the iron and got about a mile up the coast road before the rain came in off the water and turned it, and there was still two Reaches between him and his own yard at the turn, and it cost him the rest of the afternoon to get the iron back to the north end, and not one word of that reached anybody on that coast.
 
-The cart went up the coast road at about the fifth bell with a sprung wheel and a bar of iron in it and a load of lime that was a day late, and nothing else on that coast came of it, and by the sixth bell the man who had watched a thumb find a gap in a rim was standing at the top of the lane at Wether Cross with a leg that had gone from the hip down at the second bell on a moving deck and had come back about a minute later and come back worse, and he told nobody, and is not going to.
+The cart went up the coast road at about the fifth bell with a sprung wheel and a bar of iron in it and a load of lime that was a day late, and nothing else on that coast came of it, and by the sixth bell the man who had watched a thumb find a gap in a rim was standing at the top of the lane above the north end with a leg that had gone from the hip down at the second bell on a moving deck and had come back about a minute later and come back worse, and he told nobody, and is not going to.

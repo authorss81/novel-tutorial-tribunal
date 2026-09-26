@@ -1,6 +1,6 @@
 # Chapter 126: The Tide Was Held
 
-On the sixth of the sixth tide the strait is shut and the flat takes nine, and the guild’s own works were out on it, because the sixth is the one day of the week when nine hundred yards of shingle is the only road there is and there are stone walls on the far side of that water that cannot be waited for.
+On the sixth of the sixth tide the strait is shut and the flat takes nine, and the guild’s own works were out on it, because the sixth is one of the three days of the week when nine hundred yards of shingle is the only road there is and there are stone walls on the far side of that water that cannot be waited for.
 
 The chain was down and the two shorter posts were out of their sockets and lying on the shingle in the dry, and about eight men of the guild were capping nine yards of the sea wall at the far end with a course of stone and lime, and the work had been going on since the first bell and was two days old and wanted one more day and a half.
 
@@ -20,7 +20,7 @@ He went off up the shingle to where two of his own were arguing about a line of 
 
 ---
 
-What he had in his coat, in the inside breast pocket, folded in four, was a sheet of paper in a hand that was not his and not any hand in the guild, and it had been in there since the second bell of the third of a tide, when a man of thirty-one had come down to the works’ lodging house at the north end for bait and had been shown round by Cleve Gannock, who is a dealer and cannot leave a thing alone, and who had read the whole of it out loud, twice, to about nine men in a kitchen, and had then written it out again in his own hand and given a copy to Hal Bevan because Bevan was the man who put the chain up.
+What he had in his coat, in the inside breast pocket, folded in four, was a sheet of paper in a hand that was not his and not any hand in the guild, and it had been in there since the fourth bell of the third of a tide, when a man of thirty-one had come down off the coast road at the north end with nothing in the rest of his day and had been shown round a works’ lodging-house kitchen by Cleve Gannock, who is a dealer and cannot leave a thing alone, and who had read the whole of it out loud, twice, to about nine men in that kitchen, and had then written it out again in his own hand and given a copy to Hal Bevan because Bevan was the man who put the chain up.
 
 Bevan had read it four times over two days. It said:
 
@@ -36,7 +36,7 @@ What Bevan had worked out over two days, and had said out loud to nobody, was th
 
 ---
 
-He came back down the shingle at about the third bell and looked at the load, and the load was Ren Tubb’s, and the carter was standing at the beasts with his hands in his sleeves doing what a carter does with his hands for an hour.
+He came back down the shingle at about the third bell and looked at the load, and the load was stone for a wall at the north end and it was paid for, and the carter was standing at the beasts with his hands in his sleeves doing what a carter does with his hands for an hour.
 
 “Third tide,” said Bevan. “Same as always.”
 
@@ -50,7 +50,7 @@ The carter took his hands out of his sleeves.
 
 “Not today,” said Bevan, and he said it the way he said everything, which was the way a man says a thing he has already said to himself about forty times and is not going to improve. “That load is not going over the flat this tide and that load is not going over this week, and I am not going to argue about it with you, and I will tell you why and then you will do what you like about it.
 
-“There is a table on a wall four hundred miles that says four feet at the north end on the tide before last, and there is a piece of paper in a dealer’s hand that says six inches, and I have got both of them and I cannot get one of them in front of the other, because the only place they can be put side by side is a room with a fire in it and a year’s work in it, and I am a man on a chain and not that. So I do not know which one is right. And a man who does not know which one is right does not put a loaded cart over a flat on the third tide, and I have been doing this nineteen years and I have never once not known, and I am not going to start on a sheet off a dealer.”
+“There is a table on a wall a mile up the hill that says four feet at the north end on the tide before last, and there is a piece of paper in a dealer’s hand that says six inches, and I have got both of them and I cannot get one of them in front of the other, because the only place they can be put side by side is a room with a fire in it and a year’s work in it, and I am a man on a chain and not that. So I do not know which one is right. And a man who does not know which one is right does not put a loaded cart over a flat on the third tide, and I have been doing this nineteen years and I have never once not known, and I am not going to start on a sheet off a dealer.”
 
 “It is a good sheet.”
 
@@ -58,7 +58,7 @@ The carter took his hands out of his sleeves.
 
 ---
 
-The carter wrote to his man. The carter is Wend Garrow and he has been thirty-three years old for some months and he has been on that road since he was nine, and he was not angry, and he was not loud, and he was tired in the ordinary way that a man is tired at the third bell on the sixth day of a tide with a load of stone standing on the wrong side of nine hundred yards of shingle.
+The carter wrote to his man. The carter is Wend Garrow and he is thirty-three and he has been on that road since he was nine, and he was not angry, and he was not loud, and he was tired in the ordinary way that a man is tired at the third bell on the sixth day of a tide with a load of stone standing on the wrong side of nine hundred yards of shingle.
 
 “A day,” he said. “That is a day and a day’s hire and I have got two men on this and the second man is on from the second and I pay him the day whether he is here or not, and the horses have eaten and they will eat, and the stone is paid for and the stone does not care.” He got the beasts turned round where they were, without hurry, which is what a carter does. “And I am not saying you are wrong. I want that written, because I am going to say it up the road to four people before the turn and I would like it said that a man put a chain up this morning and would not put a cart over, and gave a reason, and the reason was a piece of paper and a wall, and did not tell me to go to hell.”
 
@@ -102,7 +102,7 @@ Jory Vance made the entry at the fifth bell, standing up, at the chain, with the
 
 The System put it in front of Ilyan Vester on the far side of nine hundred yards of wet shingle at about the ninth bell, and what it gave him was the fourth thing on this coast that was a record of a thing nobody had entered anywhere in particular.
 
-**A TIDE WAS HELD AT THE NEAR END OF THE FLAT. A LOAD OF STONE WAS NOT CARRIED OVER. THE REASON ENTERED IS THAT AN ACCOUNT OF THE NORTH END AND THE GUILD’S OWN TIDE TABLE DO NOT AGREE ABOUT IT, THAT THE TWO CANNOT BE PUT SIDE BY SIDE ON THIS COAST, AND THAT NO CART IS TO GO OVER ON ONE OF THEM. THE ACCOUNT WAS WRITTEN BY A MAN OFF A ROAD. IT IS TRUE OF THREE SEPARATE PIECES OF WATER AND IT IS IN ONE PLACE. NOBODY ON THIS COAST HAS CHECKED IT AND NOBODY CAN.**
+**A TIDE WAS HELD AT THE NEAR END OF THE FLAT. A LOAD OF STONE WAS NOT CARRIED OVER. THE REASON ENTERED IS THAT AN ACCOUNT OF THE NORTH END AND THE GUILD’S OWN TIDE TABLE DO NOT AGREE ABOUT IT, THAT THE TWO CANNOT BE PUT SIDE BY SIDE ON THIS COAST, AND THAT NO CART IS TO GO OVER ON ONE OF THEM.**
 **WHAT IS NOT DECIDED: WHETHER THE TABLE IS WRONG ABOUT THE MORNING IN QUESTION OR THE ACCOUNT IS, AND BOTH WERE MADE BY PERSONS WHO WERE ON THE WATER, AND THE MAN WHO HELD THE TIDE WAS RIGHT EITHER WAY, AND THE COST OF BEING RIGHT IS A CARTER OF THIRTY-THREE WITH TWO MEN ON IT.**
 
-The water came off the flat and went away again and left nine hundred yards of it darker than the rest, and the chain stayed down, because the chain stays down when the works are on, and the stone was still on the near side at the turn, and the seventh was a bar day, and there was going to be a carter standing on that shingle in the morning with the same load and the same question.
+The water came off the flat and went away again and left nine hundred yards of it darker than the rest, and the chain came up and went down eight more times before the turn and was down at the end of it, because the chain is down when the works are on it and the stone for the last of it is on the near side, and the stone was still on the near side at the turn, and the seventh was a bar day, and there was going to be a carter standing on that shingle in the morning with the same load and the same question.

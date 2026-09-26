@@ -4,7 +4,7 @@ The flat boat is up above the tide line on her bilge with the garboard up and a 
 
 There is no keel. There is a flat bottom of two and a half inches of larch with a plate of hard wood let into it along the middle line and riveted through, and the plate is a foot and a half wide and about nine feet long, and the wood of it is what has been in the gravel of a bar for eleven years, and it is the part of the boat that the sea has. The garboard is up off the stones and the plate is in the light and you could put your thumb in the grain of it and feel where the sand has got into the wood and stopped being wood.
 
-Sorrel had a file and a block of grease and the collar in her apron, and she was doing the work with her back to the water the way a person does eleven thousand hours of something.
+Sorrel had a file and a block of grease and the collar in her apron, and she was doing the work with her back to the water the way a person does eleven years of something.
 
 Pell Cawley came down the hard at the third bell with his own cart behind him and a hand bar under his arm, and he is fifty-two and he has a slip at the north end and two boats under him and he has been building and mending flat-bottomed boats on this coast for thirty-one years.
 
@@ -56,7 +56,7 @@ A carter came up the hard about the fourth bell with an empty cart and a chain o
 
 “How much is it.”
 
-“There is a penny a cart at the crossing four hundred yards south of here and the crossing counts what crosses it and not what floats over the top of it, and I have never taken a penny of that penny and I am not going to start, and you may tell your man with the lime.” She got the file up again. “If he wants to know whether the shallow is a road, the answer is yes, on the fourth, and on no other day of the seven, and that is not a thing I can write on anything for you, and it is not a thing anybody can write on anything, and that is the whole of why I say it out loud to you and not in a letter.”
+“There is a penny a tide at the crossing four hundred yards south of here, and a tide is a crossing, and the crossing counts what crosses it and not what floats over the top of it, and I have never taken a penny of that penny and I am not going to start, and you may tell your man with the lime.” She got the file up again. “If he wants to know whether the shallow is a road, the answer is yes, on the fourth, and on no other day of the seven, and that is not a thing I can write on anything for you, and it is not a thing anybody can write on anything, and that is the whole of why I say it out loud to you and not in a letter.”
 
 ---
 

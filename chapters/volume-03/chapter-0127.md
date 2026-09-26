@@ -6,7 +6,7 @@ Gell Roke was at the harbour mouth at about the eighth bell with a pot of paint 
 
 “You will hold that pot up and not down,” he told the boy. “Up. A man that holds a pot down has no arm in it.”
 
-The paint was thick and it was on the brush and the mark under the water was the same width as the mark above it, and it had been the same width for nineteen years, and it was short by four hundred yards, and about two hundred people on that coast had worked that out at some time in their lives and not one of them had ever said it to anybody.
+The paint was thick and it was on the brush and the mark under the water was the same width as the mark above it, and it had been the same width for nineteen years, and it is a long way from where the thing it marks now is, and about two hundred people on that coast had worked that out at some time in their lives and not one of them had ever said it to anybody.
 
 ---
 
@@ -22,17 +22,17 @@ The tally post was there with its chain across the path and its two shorter ones
 
 ---
 
-Wend Garrow came over the flat at the ninth with an empty cart, which is not a thing a carter does on a seventh, and the reason he was doing it is four hundred yards of it.
+Wend Garrow came over the flat at the ninth with an empty cart, which is not a thing a carter does on a seventh, and the reason he was doing it is two hundred yards of it.
 
-He had a load of stone standing on the near side that he had paid for and that was going up the coast road to a wall, and it was not going up the coast road, because the man on the chain had held the tide on the sixth and had told him in plain words that the flat would not take a cart on the seventh either, and had been right about that in front of about forty people before the turn.
+He had a load of stone standing on the near side that he had paid for and that was going up the coast road to a wall, and it was not going up the coast road, because the man on the chain had held the tide on the sixth and had told him in plain words that the flat would not take a cart on the seventh either, and had said it to him in plain words on the sixth with nobody else standing there.
 
 So Wend Garrow was on that shingle with nothing to do on the one day of the week when there is the most work on the coast for a man who will do any at all, and he had come over because there was a carter’s lodging up the lane at the head of it and he was going to sleep there, and he came over the flat because the far end is quicker from the middle.
 
-He was thirty-three and he had been on that road since he was nine and he had lost a cart in the water on the fourth three weeks ago with salt boards in it and had never told anybody what it had cost him, and he was not a mystery and nobody was going to tell him anything and nobody was going to try.
+He was thirty-three and he had been on that road since he was nine and he had lost a cart in the water on the fourth of the fifth tide with salt boards in it and had never told anybody what it had cost him, and he was not a mystery and nobody was going to tell him anything and nobody was going to try.
 
 He got the cart up the two hundred yards from the far stones to the top of the lane at about the fourth bell and stood at the top of it, and a man of thirty came out of a lamp-oil shed and shut a door behind him and said the whole thing to him in about four sentences without being asked.
 
-“The flat took six on the sixth and nine today and there is a chain on it and a man who puts it up, and on the sixth at the third bell the tide was held at the near end and your stone is still on the near side of the water, and that is the man who is called the ward of that road. He gave a reason and the reason was a piece of paper off a dealer at the north end against a table on a wall four hundred miles off, and neither of them can be put in front of the other, and he is not wrong either way and that is what I am telling you.”
+“The flat took six on the sixth and nine today and there is a chain on it and a man who puts it up, and on the sixth at the third bell the tide was held at the near end and your stone is still on the near side of the water, and that is the man who holds that chain, and he has held it nineteen years. He gave a reason and the reason was a piece of paper off a dealer at the north end against a table on a wall a mile up the hill, and neither of them can be put in front of the other, and he is not wrong either way and that is what I am telling you.”
 
 “I did not say I wanted to know,” said Wend Garrow.
 
@@ -40,13 +40,13 @@ He got the cart up the two hundred yards from the far stones to the top of the l
 
 ---
 
-They sat on the bench he lets anybody sit on, at the head of the lane, with the water going off the flat and about nine people within twenty feet who had no business there and every one of whom was pretending to be going somewhere.
+They sat on the bench he lets anybody sit on, at the head of the lane, with the water going off the flat and about nine people within twenty feet who had no business there and every one of whom was pretending to be going somewhere, and about forty yards off there was a man with a bad leg who had come up the lane off the hard and had been going to say something for about an hour and had not said it.
 
 “You can say the rest of it or you can not,” said Wend Garrow, “but if you have got a way of getting my stone up that coast road inside two days then say it and I will buy it, and if you have not then do not sit there looking like a man with a way.”
 
 “I have not got a way,” said Seth Garrick, “and I have had four years to get one and there is not one, and I will tell you the two things I have got instead and you will not like either of them and I am giving you both because it is a seventh and there is nothing to do.
 
-“The first is that the water is going to be back the way it was on the eighth of this tide and probably the ninth, because that is what a seventh does, and there is a woman in this building a mile up that hill who has been wrong about the seventh for six years and is right about everything else on this coast, and I have never once said that to a living soul and I am not going to start with you.” He got up and shut the door of the shed against the wind. “So there is no getting around the third, the fourth or the sixth for your stone, and I have said that in the open to a man with a load and I would say it to the woman up that hill and she would not put a figure on it, and both of those are true and neither of them will get your stone up the road.”
+“The first is that the water is going to be back the way it was on the eighth of this tide and probably the ninth, because that is what a seventh does, and there is a woman in this building a mile up that hill who has been wrong about the seventh for six years and is right about everything else on this coast, and I have never once said that to a living soul and I am not going to start with you.” He got up and shut the door of the shed against the wind. “So there is no getting around the fourth, the sixth or the seventh for your stone, and I have said that in the open to a man with a load and I would say it to the woman up that hill and she would not put a figure on it, and both of those are true and neither of them will get your stone up the road.”
 
 “And the other thing.”
 
@@ -68,16 +68,16 @@ Wend Garrow sat on the bench for a while.
 
 “Today is the seventh.”
 
-“Today is the seventh,” said Seth Garrick, “and it is gone, and the fourth and the sixth of next tide is six days off, and you can stand on that stone six days from now and ask one question, and I am telling you now, on this seventh, while you are here, that you already know what the answer is going to be. It is going to be about the water. It is the only thing she has got and she has got it for nineteen years and she is going to have it tomorrow. And the two of us are the only two people on this coast who would tell you that to your face and I have just done it and I would do it again.”
+“Today is the seventh,” said Seth Garrick, “and it is gone, and the fourth and the sixth of next tide is four days off, and you can stand on that stone four days from now and ask one question, and I am telling you now, on this seventh, while you are here, that you already know what the answer is going to be. It is going to be about the water. It is the only thing she has got and she has got it for nineteen years and she is going to have it tomorrow. And the two of us are the only two people on this coast who would tell you that to your face and I have just done it and I would do it again.”
 
 ---
 
 All right, then, said Wend Garrow. He got the cart round and started on it, and he did it in the ordinary way, without heat, which is the last thing a tired man has any of.
 
-“I am not going to stand on a stone about a load of lime,” he said. “I have been about twenty-four years putting things up coast roads and I have never once asked anybody a question out loud and I am not starting at thirty-three because a man in a lamp oil shed told me the truth about a stone. I have lost a day. A day is a day. I will take the long way and it will be a day and a half and I will tell the man whose wall it is that it is a day and a half because a sheet of paper and a wall did not agree and the man on the chain would not put a cart over on one of them, and he will say *that is your business* and he will be right, and I will have said it, and my two men will have been paid for two days and I will have the stone up on the fourth of next tide instead of the seventh, and that is the whole of what has happened to me and I would like it written down somewhere in the same four lines that the man in the shed has put in his own book about a rule that cannot be changed for a year.”
+“I am not going to stand on a stone about a load of stone,” he said. “I have been about twenty-four years putting things up coast roads and I have never once asked anybody a question out loud and I am not starting at thirty-three because a man in a lamp oil shed told me the truth about a stone. I have lost a day. A day is a day. I will take the long way and it will be a day and a half and I will tell the man whose wall it is that it is a day and a half because a sheet of paper and a wall did not agree and the man on the chain would not put a cart over on one of them, and he will say *that is your business* and he will be right, and I will have said it, and my two men have been paid for two days, and I am a day and a half further back than I said I would be, and that is the whole of what has happened to me and I would like it written down somewhere in the same four lines that the man in the shed has put in his own book about a rule that cannot be changed for a year.”
 
 Nobody wrote anything down. Gell Roke put a second coat on the mark under the water at the harbour mouth and came down the slip and told the boy that a man that holds a pot down has no arm in it, again, and the boy had not asked him.
 
-And at about the ninth bell the man with the bad leg got up off the bench and walked about nine hundred yards of dry shingle to the end of the flat and stood there and let the sea go off it, and the leg went in on the last of the nine hundred and it went all the way, from the hip down, the way it went, and it stayed gone for the best part of two hundred yards and came back about a minute after he stopped and came back worse.
+And at about the ninth bell the man with the bad leg got up off the end of the bench where he had been sitting for about an hour with his weight on his good side and had not once been asked for his opinion, and walked out about nine hundred yards of dry shingle to the end of the flat and stood there and let the sea go off it, and the leg went in on the last of the nine hundred and it went all the way, from the hip down, the way it went, and it stayed gone for the best part of two hundred yards and came back about a minute after he stopped and came back worse.
 
-About nine people were on that flat and not one of them said a word to him about it then or afterwards, and that is a thing four hundred miles of this coast does about a man it has no standing over, and it is the third time in a month it has done it and it is going to keep on doing it.
+Nine hundred yards of shingle and seventy people on it, and not one of them said a word to him about it then or afterwards, and that is a thing four hundred miles of this coast does about a man it has no standing over, and it is the third time in a month it has done it and it is going to keep on doing it.
