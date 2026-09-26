@@ -1,8 +1,8 @@
 # Chapter 225: A Man Who Lost A House Is Not A House
 
-Nobody asked Coll Ferren anything for eight days after the counting, and that is not a figure of speech, and the eight is eight: the counting was done at the first light on the fourth day of the week before last and this is the fifth day of this one. He was the fifth of the nineteen. He had answered a woman of about forty in his own doorway in nine words about his own house, and then he had walked every door in the bottom half of that lane twice, at his own cost, out of a week he is not paid for, and after the second walk nobody in Hollow Sallow said one word to him about anything for four days.
+Nobody asked Coll Ferren anything for eight days after the counting, and that is not a figure of speech, and the eight is eight: the counting was done at the first light on the fourth day of last week and this is the fifth day of this one. He was the fifth of the nineteen. He had answered a woman of about forty in his own doorway about his own house, and nobody has asked him a second question since, and then he had walked every door in the bottom half of that lane twice, at his own cost, out of a week he is not paid for, and after the second walk nobody in Hollow Sallow said one word to him about anything for four days.
 
-He was the one the whole paper was built on and he was the one nobody went back to, and the reason is worth about nine words and it is the whole reason anybody would give: everybody in that lane had a question about the nineteen and every one of the nineteen was a person, and a person with a question about them is a person who has to go and stand in somebody's doorway, and there is no form in this basin for standing in a doorway.
+He was the one the whole paper was built on and he was the one nobody went back to, and the reason is about as long as this and it is the whole reason anybody would give: everybody in that lane had a question about the nineteen and every one of the nineteen was a person, and a person with a question about them is a person who has to go and stand in somebody's doorway, and there is no form in this basin for standing in a doorway.
 
 They asked him the wrong question on the fifth day of that week, and they asked it in a lane and not in a room, and about four people heard it.
 
@@ -20,7 +20,7 @@ Nobody in that lane said the thing that was true, and the thing that was true is
 
 ---
 
-The question that was never asked him is the one a room four miles off had already answered, in a document, in nine words, on the sixth day of the week before last, and nobody had connected the two, and the reason nobody connected them is that nobody in that lane had been in the cart shed.
+The question that was never asked him is the one a room four miles off had already answered, in a document, in nine words, on the sixth day of last week, and nobody had connected the two, and the reason nobody connected them is that nobody in that lane had been in the cart shed.
 
 He said it himself, two days later, to a man of thirty-one who had come down to the bottom of the lane to look at a wall, and he said it without being asked and then he stopped, and the man of thirty-one did not ask him anything else about it, and did not write it down, and about four days later the whole of what he had said was on a piece of paper in eleven hands and the man of thirty-one was not one of the eleven.
 
@@ -34,7 +34,7 @@ He had. He had written it himself in his own hand on the second day of that week
 
 He said so, out loud, in a lane, in about four minutes, and it is the only time anybody in this basin has heard a man of thirty-one say anything about himself that was a defence, and he did not excuse it and he did not explain why he had done it and he did not take it back.
 
-Then Coll Ferren said the sentence that changed the shape of the paper, and he said it to a lane and not to a room, and it is eleven words and it is his and nobody in this basin has said anything like it in nine years.
+Then Coll Ferren said the sentence that changed the shape of the paper, and he said it to a lane and not to a room, and it is eighteen words and it is his and nobody in this basin has said anything like it in nine years.
 
 “A paper with a man's name on it is read out in a year when he is gone.”
 

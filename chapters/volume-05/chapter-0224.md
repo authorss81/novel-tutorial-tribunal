@@ -2,7 +2,7 @@
 
 The three years that are owed to a woman of thirty-eight were paid in one week, in an envelope, at the closing of the water, on the fourth day of the fifty-third week, and it took about ten minutes and there was nobody in the lane but the two of them and about four children and a man of thirty-one who was not asked to be there and was not asked to leave.
 
-She counted it on the sill of her own house and she counted it twice, and the sill is the third from the top and is the highest of the eleven, and her house had two feet of the Sallow in the bottom room on the third night of the week before last and has salt in the plaster in one place now and a dry floor and a bed.
+She counted it on the sill of her own house and she counted it twice, and the sill is the third from the top and is the highest of the eleven, and her house had two feet of the Sallow in the bottom room on the third night of last week and has salt in the plaster in one place now and a dry floor and a bed.
 
 “Ten pounds sixteen,” said Ilma Treen. “Three years at four and six for sixteen weeks. Sixteen times fifty-four pence is eight hundred and sixty-four pence, and three times that is two thousand five hundred and ninety-two pence, and that is ten pounds and sixteen shillings, and it is the first money anybody in this lane has handed me in eleven years and I am not going to say thank you for it in the road.”
 
@@ -32,7 +32,7 @@ The finding underneath it is not about the girl and it is not about the penny, a
 
 He put his hand flat on the table, which he does.
 
-“If four people in a room write down what a river did, and not one of them is standing at the thing, then what the book has is not what the river did. It is what those four were told. And on the third night of the week before last, at an hour nobody wrote down, the mill hand and my hand disagree about that frame by about two hours, and both of us were in the room, and neither of us went up the hill, and the book has kept both of them for eleven days and neither of us has looked at it, and the difference between those two hours is the whole of what happened in that lane.”
+“If four people in a room write down what a river did, and not one of them is standing at the thing, then what the book has is not what the river did. It is what those four were told. And on the third night of last week, at an hour nobody wrote down, the mill hand and my hand disagree about that frame by about two hours, and both of us were in the room, and neither of us went up the hill, and the book has kept both of them for eleven days and neither of us has looked at it, and the difference between those two hours is the whole of what happened in that lane.”
 
 Nobody in that room had looked at it. He was going to, and he said so, and said that he was going to do it in the ordinary way, which is that he would take the book down four miles himself and stand at the frame and write what he saw and the hour, in a fifth hand, in the middle of the page, and that this was the fourth thing in eleven days he had done that he had no authority to do and that the sentence had not got any shorter.
 

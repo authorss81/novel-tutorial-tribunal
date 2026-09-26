@@ -1,12 +1,12 @@
 # Chapter 229: What The First Year Costs
 
-The first roof came off in the first week of the fifty-fourth week's second day, and it came off the second house from the bottom of the lane, and it was the one whose door was on its hinge and whose salt had been out of the plaster in three places, and the man who took it off was fifty-six and he had a ladder on his shoulder and he did it in about four days and took four days longer than a roof on dry ground, and he did not price that and was not asked to.
+The first roof came off on the second day of the fifty-fourth week, and it came off the second house from the bottom of the lane, and it was the one whose door was on its hinge and whose salt had been out of the plaster in three places, and the man who took it off was fifty-six and he had a ladder on his shoulder and he did it in about four days and took four days longer than a roof on dry ground, and he did not price that and was not asked to.
 
 The timber came up the lane on the backs of about eleven people over two days, because a cart cannot go up that lane, and nobody wrote that down, and the only man in this basin who wrote it down wrote it in his own book at the fifth hour of the second of those days because counting things up a hill is what he is paid for, and there are about nineteen days of it in a year and none of them are paid days.
 
-The first wall to be looked at was looked at on the fourth of that week by a man of about forty who was asked to look at it because a man of thirty-four had said in a lane that somebody had to, and it took about nine minutes and the finding was that two of the houses in the bottom half of that lane are not going to stand through a winter and one of them is going to have to come down and be put up again, and nobody in Hollow Sallow knew that before the fourth of that week and about six people have been saying since the spring of last year that they thought as much.
+The first wall to be looked at was looked at on the second of that week by a man of about forty who was asked to look at it because a man of thirty-four had said in a lane that somebody had to, and it took about nine minutes and the finding was that two of the houses in the bottom half of that lane are not going to stand through a winter and one of them is going to have to come down and be put up again, and nobody in Hollow Sallow knew that before the second of that week and about six people have been saying since the spring of last year that they thought as much.
 
-There is no figure on that in the paper and there is not going to be one, and the man who looked at the wall said in about nine words that a man who comes to look at a wall is paid by the hour and that his hour is a shilling and that he has never in his life asked a village to pay his hour and is not starting with this one, and a man of fifty-two in ochre dust said that the Anner would pay the hour, and the man would not say yes, and the man of fifty-two did not press it, and about nine people in that lane noticed that he had offered and had been refused and that he had not been offended, and that this was the first time in three weeks that anybody had seen anybody refuse the Anner and the Anner let it stand.
+There is no figure on that in the paper and there is not going to be one, and the man who looked at the wall said in about nine words that a man who comes to look at a wall is paid by the hour and that his hour is a shilling and that he has never in his life asked a village to pay his hour and is not starting with this one, and a man of fifty-two in ochre dust said that the Anner would pay the hour, and the man would not say yes, and the man of fifty-two did not press it, and about nine people in that lane noticed that he had offered and had been refused and that he had not been offended, and that this was the first time in four days that anybody had seen anybody refuse the Anner and the Anner let it stand.
 
 ---
 
@@ -34,7 +34,7 @@ Nobody in that lane said anything to that either and about nine people looked at
 
 ---
 
-The one thing that did not happen that week is the whole of the last day of it.
+The one thing that did not happen that day is a piece of paper going nine days up a road, and about forty people in that lane had been told it was going, and it did not go, and the reason why is the last thing that happened in that room.
 
 Hollis Nance put it on the table in about eleven words at the end of the second of that week and it was not argued with by anybody, and what he said was this.
 

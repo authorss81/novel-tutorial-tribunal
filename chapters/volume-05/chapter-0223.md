@@ -2,17 +2,17 @@
 
 There are three bodies in this basin with money in them and about four hundred and ten people with none, and one of the three is a chamber of plenty nine days' ride away that has said in two paragraphs that it is seized of the matter and will consider it in its own time, and the other of the two is a water-seat with eleven seats above a clerk of forty-four and four hundred and eleven pounds a year in it that came out of a kitchen and cannot be produced out loud by anybody in Hollow Sallow, and the third is a pit.
 
-The under-manager put the whole of it on the table in the Anner's office on the third day of that week in about six minutes, and he did it without being asked and without any of the four of them having got as far as the door, and he said afterward that he had been waiting since the sixth day of the week before last for somebody to come up the hill and ask him a question about money, and that nobody had, and that the reason nobody had was that the four people in that valley had spent six days walking nineteen houses and had not once walked up to a mine.
+The under-manager put the whole of it on the table in the Anner's office on the third day of that week in about six minutes, and he did it without being asked and without any of the four of them having got as far as the door, and he said afterward that he had been waiting since the sixth day of last week for somebody to come up the hill and ask him a question about money, and that nobody had, and that the reason nobody had was that the four people in that valley had spent six days walking nineteen houses and had not once walked up to a mine.
 
 “Let it all be the Anner,” he said.
 
-Nobody spoke for about as long as it takes to grind ink.
+Nobody spoke for as long as it takes to drink a cup of something.
 
 “I want to say why before any of you says no, and I want to say the numbers, and then I want you to do what you like with them. About eleven hundred tons of red ochre and salt a year out of this pit. Four pounds a ton at the pit's mouth. Eleven pounds a ton in the market at Sallowby. That is the whole of what anybody in this basin has ever been arguing about and neither party has ever said it out loud and it is not the argument. The seven pounds a ton between those two figures is seven thousand seven hundred pounds a year, and it is not a profit. It is the road. It is what four miles of cart road between a pit and a market is worth, and the road is a hundred and forty days a year and the road is why there is a dam.”
 
 He turned the chain-book round on the desk and did not open it, which is a thing he does.
 
-“Nineteen roofs. A man of fifty-six has told you nine pounds and he will not split it, and I have not asked him to, because the last time a man in a good coat broke a roof into battens and thatch the man took the battens out and left the thatch. Nineteen at nine pounds. Nine pounds is two hundred and sixteen pence. Two hundred and sixteen pence times nineteen is forty-one thousand and forty pence. Forty-one thousand and forty pence is a hundred and seventy-one pounds with nothing over. That is a hundred and seventy-one pounds, and I have written it in this book in my own hand this morning before any of you were up this hill, and the clerk of the water-seat can come down and check it and it will be right.”
+“Nineteen roofs. A man of fifty-six has told you nine pounds and he will not split it, and I have not asked him to, because the last time a man in a good coat broke a roof into battens and thatch the man took the battens out and left the thatch. Nineteen at nine pounds. Nine pounds is two thousand one hundred and sixty pence. Two thousand one hundred and sixty pence times nineteen is forty-one thousand and forty pence. Forty-one thousand and forty pence is a hundred and seventy-one pounds with nothing over. That is a hundred and seventy-one pounds, and I have written it in this book in my own hand this morning before any of you were up this hill, and the clerk of the water-seat can come down and check it and it will be right.”
 
 ---
 
@@ -24,7 +24,7 @@ They checked it and it was right, and then Tarin Keel did what he does, which is
 
 “The arrears,” said Tarin Keel. “Sixteen weeks at four and six is eight hundred and sixty-four pence, which is three pounds twelve, and there are three years of that and three times eight hundred and sixty-four pence is two thousand five hundred and ninety-two pence, which is ten pounds sixteen, and it is a woman of thirty-eight's and she has never chased it and she is not going to chase it, and if it goes in this year it goes in this year.”
 
-“It goes in this year,” said the under-manager, and then he said the thing he had come up the hill to say and he said it in about nine words and then stood still while it was in the room.
+“It goes in this year,” said the under-manager, and then he said the thing he had come up the hill to say and he said it in one breath and then stood still while it was in the room.
 
 “And I am not going to pretend I do not know what I have just done. Nineteen years and I have not spent a pound of the road on this valley, not on a roof and not on a gate and not on a wage, and the reason I have not is that the road is the road and a mine does not buy a village. And a mine that pays a wage once a week is a different kind of mine than the one I have been the under-manager of since I was thirty-three, and I would like that in the book in my own hand as well, and I am not saying it is a reason to refuse.”
 

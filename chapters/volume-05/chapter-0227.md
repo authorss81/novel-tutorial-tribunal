@@ -8,7 +8,7 @@ What is on the wall of the Seat's one room this afternoon is one sheet and it is
 
 The copy that goes down the hill to Hollow Sallow is in one hand, because a copy has to be in one hand, and it is the clerk's, and it is a copy of eleven hands.
 
-The seven lines of the draft had become six, and the line that was struck on the fifth day of that week was still struck on the seventh, and there are three hands on that line and they do not agree, and the sheet says so at the foot of it in a sentence about nine words long that a clerk of forty-four wrote at somebody else's request and read out twice.
+The seven lines of the draft had become six, and the line that was struck on the fifth day of that week was still struck on the seventh, and there are three hands on that line and they do not agree, and the sheet says so at the foot of it in a sentence of four and twenty words that a clerk of forty-four wrote at somebody else's request and read out twice.
 
 The first hand on it is a man of thirty-four's and it is the strike, and under the strike, in the same hand, is the reason he gave, which is that a roof is a thing you do to a house and a house is not a thing you do.
 

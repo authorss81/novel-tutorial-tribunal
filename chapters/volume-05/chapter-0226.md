@@ -13,7 +13,7 @@ The clerk of the Seat read it out. He read it because it was his hand and becaus
 > FOUR. THAT THE WAGE OF THE KEEPER BE NINE SHILLINGS A WEEK FOR THE SIXTEEN WEEKS AND THE FIRST HALF BE PAID BY THE ANNER AND NOT BY THE SEAT, AND THE THREE YEARS THAT ARE OWED BE PAID IN ONE WEEK.
 > FIVE. THAT THE WATER-BOOK BE KEPT IN TWO HANDS, AND THE SECOND HAND BE PAID A PENNY A DAY FOR EVERY DAY THE WATER RUNS.
 > SIX. THAT THE ANNER PAY THE WHOLE OF THE ABOVE, AND BE NAMED AT THE HEAD OF IT, AND BE ASKED AGAIN IN ONE YEAR.
-> SEVEN. THAT THE SAID FOUR-PAGE ORDER OF THE FIFTY-FIFTH DAY REMAIN ON THE WALL OF THIS ROOM, AND THAT A COPY OF IT CONTINUE TO BE KEPT IN THE LANE BY A PERSON OF THE LANE.
+> SEVEN. THAT THE SAID FOUR-PAGE ORDER OF THE HUNDRED AND FIFTY-FIFTH DAY REMAIN ON THE WALL OF THIS ROOM, AND THAT A COPY OF IT CONTINUE TO BE KEPT IN THE LANE BY A PERSON OF THE LANE.
 > AT THE FOOT, IN ANOTHER HAND, AND THE NAME IS THE NAME OF A MAN OF THIRTY-ONE FROM FOUR HUNDRED MILES: ASKED FOR BY.
 
 Nobody in that room said anything for about as long as it takes to grind ink.
@@ -38,7 +38,7 @@ The third objection was to the third line, and it came from a joiner of forty-on
 
 “The frame does not want measuring again,” said Garrow Lee. “It wants a gate. There is a lath on it with five pounds eighteen on it in chalk and it has been in that frame about two years and it is going to stay in that frame until somebody buys it, and if this paper says the frame is to be measured then the frame gets measured in the spring by a man with a rule and nothing happens, and I will have measured it a third time in my life and I will be forty-two.”
 
-“It was measured four hours ago,” said a man of about forty with a ladder on his shoulder, from the doorway, and nobody had seen him come in.
+“It was measured four hours ago,” said Brann Slee, fifty-six, with a ladder on his shoulder, from the doorway, and nobody had seen him come in.
 
 The fourth objection was to the sixth line, and it was not an objection, it was the under-manager asking a question about a word, and the word was asked.
 

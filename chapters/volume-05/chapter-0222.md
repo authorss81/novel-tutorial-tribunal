@@ -20,7 +20,7 @@ The question went into the lane that morning the way questions go into lanes, wh
 
 The strongest argument for naming them was a woman of about thirty-one with two children and a house at the ninth door, and she made it without raising her voice, and her argument was that if a house is not on a paper then a house cannot be argued for, and that she has been argued with for eleven years by a man with a book about a strip of ground four miles north of here and she has never once been on a paper that anybody could produce.
 
-The strongest argument against was a man of seventy-four who was born in the second house up the lane, and he made it in about nine words while he was putting a lid on a bucket of tar, and he had a bucket of tar in his hand all of that week and nobody ever asked him about the eleven marks and nobody ever asked him this either, and the answer came out of him the way water comes out of a crack.
+The strongest argument against was a man of seventy-four who was born in the second house up the lane, and he made it in thirteen words while he was putting a lid on a bucket of tar, and he had a bucket of tar in his hand all of that week and nobody ever asked him about the eleven marks and nobody ever asked him this either, and the answer came out of him the way water comes out of a crack.
 
 “They are not houses,” he said. “They are the ones with the tar on them.”
 
@@ -48,7 +48,7 @@ And that was the whole of the case for the settlement not naming the houses, and
 
 ---
 
-It went up to Sallowby at the closing of the water on the back of a leaf and it went up the hill in the hands of a girl of seventeen who was asked to carry it and said yes before she was asked twice, and she is the grocer's daughter and she has been in that lane since she was born and she read a four-line order out to a neighbour with one eye on the second day of the fifty-first week and asked the first question anybody in the Red Basin has ever asked about a document, and she has not asked another one since and she is not going to.
+It went up to Sallowby at the closing of the water on the back of a leaf and it went up the hill in the hands of a girl of seventeen who was asked to carry it and said yes before she was asked twice, and she is the grocer's daughter and she has been in that lane since she was born and she read a four-line order out to a neighbour with one eye on the fifth day of the fifty-first week and asked the first question anybody in the Red Basin has ever asked about a document, and she has not asked another one since and she is not going to.
 
 On the table in the Seat's one room that evening there were two sheets and one of them was a hundred and seventy-one pounds of arithmetic that everybody agreed with, and the other of them was a question with no name on it.
 

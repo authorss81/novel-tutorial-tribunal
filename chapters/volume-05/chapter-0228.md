@@ -4,9 +4,9 @@ The copy came down the hill at the second light of the first day of the fifty-fo
 
 It happened at the closing of the water, in the road, in front of about forty people, and the man who read it out was thirty-four and he had four people and a house at the bottom of the lane with a door on its hinge and no roof on it, and it was read out because the sixth line of it says that a copy is to be read out in the lane, and he could not read.
 
-That is the whole of why it was read aloud, and it is worth putting down plainly, because the fourth line of the four-page order on the wall in Sallowby has said since the fifty-fifth day that a copy of it is to be kept in the lane by a person of the lane, and nobody had ever asked what happens to a copy that is kept by a person who cannot read it, and the answer had been standing in a lane for a month and nobody had looked at it.
+That is the whole of why it was read aloud, and it is worth putting down plainly, because the fourth line of the four-page order on the wall in Sallowby has said since the hundred and fifty-fifth day that a copy of it is to be kept in the lane by a person of the lane, and nobody had ever asked what happens to a copy that is kept by a person who cannot read it, and the answer had been standing in a lane for a month and nobody had looked at it.
 
-A clerk of forty-four had said the rest of it in a room the day before, which is that a paper kept in a lane by a man who has it read to him is a different paper every time it is read, and that this is not a defect, and that she did not know what to write in the clause.
+The woman of about forty had said the rest of it in a room two days before, which is that a paper kept in a lane by a man who has it read to him is a different paper every time it is read, and that this is not a defect, and that she did not know what to write in the clause.
 
 He had it in his hand and he could not read a word of it and it is in the clerk's own hand, one hand, six lines, and the copy in Sallowby is the same six lines and is the only one of the two pieces of paper in this valley that anybody in Sallowby will ever see.
 
@@ -16,7 +16,7 @@ He had it in his hand and he could not read a word of it and it is in the clerk'
 > THREE. THAT THE WAGE OF THE KEEPER BE NINE SHILLINGS A WEEK FOR THE SIXTEEN WEEKS THE SLOW RUNS, AND THAT THE THREE YEARS THAT ARE OWED BE PAID IN ONE WEEK.
 > FOUR. THAT THE WATER-BOOK BE KEPT IN TWO HANDS, AND THAT THE SECOND HAND BE PAID A PENNY A DAY FOR EVERY DAY THE WATER RUNS.
 > FIVE. THAT THE ANNER PAY THE WHOLE OF THE ABOVE, AND BE ASKED AGAIN IN ONE YEAR.
-> SIX. THAT A COPY OF THIS BE READ OUT IN THE LANE AT THE CLOSING OF THE WATER AND KEPT IN THE LANE BY A PERSON OF THE LANE, AND THAT THE FOUR-PAGE ORDER OF THE FIFTY-FIFTH DAY STAND ON THE WALL OF THE SEAT'S ROOM.
+> SIX. THAT A COPY OF THIS BE READ OUT IN THE LANE AT THE CLOSING OF THE WATER AND KEPT IN THE LANE BY A PERSON OF THE LANE, AND THAT THE FOUR-PAGE ORDER OF THE HUNDRED AND FIFTY-FIFTH DAY STAND ON THE WALL OF THE SEAT'S ROOM.
 > AND UNDER THE HEAD OF THIS SHEET, WHERE THE FIRST LINE OF THE DRAFT WAS, AND WHICH IS STRUCK, AND WHICH IS NOT ONE OF THE SIX, THREE HANDS, AND THEY DO NOT AGREE: A ROOF IS A THING YOU DO TO A HOUSE AND A HOUSE IS NOT A THING YOU DO. AND A HOUSE THAT IS NOT ON A PIECE OF PAPER IS NOT OUTSIDE A PIECE OF PAPER. AND THIS SHEET RECORDS THAT TWO PEOPLE IN THIS LANE DO NOT AGREE AND HAS NOT BEEN ASKED TO SAY WHICH OF THEM IS RIGHT.
 
 He read all of it, including the struck line and including the last sentence about the two people, and he read it slowly and he did not stop and he did not look up more than twice, and the two times he looked up were at the fifth line and at the sixth, and both times it was to find the end of a line and not to check anything.
@@ -45,7 +45,7 @@ Nobody asked him. It was the same as the column in his own index and it was not 
 
 ---
 
-A girl of seventeen took the paper back up the hill at about the seventh hour and wrote the lane version into her own book that night, at the top of a fresh page, in a hand that is the fifth hand in a hundred-year-old book, and she wrote the day at the top of it in a number that a man of thirty-one had given her on the second day of that week and had said was the day it was, and he had not told her where the number came from and she had not asked him, and neither of those two facts has ever been put in a sentence in this valley.
+A girl of seventeen took the paper back up the hill at about the seventh hour and wrote the lane version into her own book that night, at the top of a fresh page, in a hand that is the fifth hand in a hundred-year-old book, and she wrote the day at the top of it in a number that a man of thirty-one had given her on the first day of that week and had said was the day it was, and he had not told her where the number came from and she had not asked him, and neither of those two facts has ever been put in a sentence in this valley.
 
 The money on the paper did not move at all in the lane and that has to be said, because it is the finding and it is dull and it is true: two words and one sentence were added to a document in a road in front of forty people and the document cost the same afterwards as it had cost before, and the two words cost nothing and the sentence has no figure on it and will not get one, and the sheet that is on the wall in Sallowby tonight is worth a hundred and seventy-eight pounds, thirteen shillings and fourpence a year and sixteen pounds and fourteen shillings once, and the sheet in the lane tonight is worth the same money and one more thing, and the one more thing is the only part of the settlement in this basin that anybody has ever asked for and could not price.
 

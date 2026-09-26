@@ -1,6 +1,6 @@
 # Chapter 230: What The Sheet Does Not Say
 
-The oak for the gate came up the hill in the third week of the fifty-fourth week on a cart, and the cart got to the top of Hollow Sallow and no further, and about nine people carried the rest, and a man of forty-one with a rule in his hand stood at the top of the lane and watched a thing he had measured and charged for in the fourth year after the marks were cut being carried past him for the third time in his life.
+The oak for the gate came up the hill on the third day of the fifty-fourth week on a cart, and the cart got to the top of Hollow Sallow and no further, and about nine people carried the rest, and a man of forty-one with a rule in his hand stood at the top of the lane and watched a thing he had measured and charged for in the fourth year after the marks were cut being carried past him for the third time in his life.
 
 He had a lath in his coat. It had been in that frame for about two years and it had five pounds eighteen on it in chalk and no name on it, and he had asked for a number three times and been given it three times, and on the third of that week he took it out of his coat, and looked at the figure on it for about as long as it takes to drink a cup of something, and handed it to a girl of seventeen who copied papers for nothing, and she copied the figure onto the back of her own hand and then threw it away in front of him, and he did not say anything about that either, because there was nothing in this basin to say.
 
@@ -8,7 +8,7 @@ The gate was hung in one day by two men, one of whom is the joiner and one of wh
 
 The gate opened at the closing of the water on the third day of the fifty-fourth week and it did the only thing a gate in that frame has ever been able to do, and about thirty people in Hollow Sallow came down the lane to watch a gate open, which is not a thing anybody has ever done in this basin, and about nine of the thirty were children and about four of the nine had been under two feet of the Sallow in the week before last.
 
-Five pounds and eighteen shillings. A frame at four pounds ten that had been measured twice and charged for once, and an oak at one pound eight, and one thousand and eighty pence and three hundred and thirty-six pence is one thousand four hundred and sixteen pence, and the whole of what anybody in this basin has spent on that structure in three years is a gate that works, and the whole of what it cost is a figure in chalk on a lath that is in a cart shed now.
+Five pounds and eighteen shillings. A frame at four pounds ten that had been measured twice and charged for once, and an oak at one pound eight, and the whole of what anybody in this basin has spent on that structure in three years is a gate that works, and the whole of what it cost is a figure in chalk on a lath that is in a cart shed now.
 
 ---
 
