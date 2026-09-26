@@ -32,9 +32,11 @@ The form is one sheet and a shilling and fourpence, and it is the same form they
 
 ---
 
-He did it at the counter with the tray pushed to one side and it took about twenty minutes, and it is worth setting out nearly all of it because it is dull and because the dullness is the point of the chapter, and because everything that happens to a district of six hundred people in Volume 04 is going to happen in about twenty minutes to a boy with a pen.
+He did it at the counter with the tray pushed to one side and it took about twenty minutes, and he asked the questions in the order they are on the sheet and he wrote what was said and he read it back before he signed it, and the leg went on the stair behind the counter at about the half hour and stayed for about nine minutes, and nobody in that building said one word about it then or afterwards, which is the fourth time that has happened in this district and the first time it has happened in a building with a tray in it.
 
-He asked the questions in the order they are on the sheet, and he wrote what was said, and he read it back before he signed it, and the leg went on the stair behind the counter at about the half hour and stayed for about nine minutes, and nobody in that building said one word about it then or afterwards, which is the fourth time that has happened in this district and the first time it has happened in a building with a tray in it.
+And nobody in that building found the twenty minutes interesting, and that was the first thing that went in his favour, and he did not know it had until about nine days later.
+
+The form is one sheet and it has six boxes and the boxes are not numbered, and that is the whole of the trouble with it, and he worked that out in about the first minute. He could not follow a word of what was being said. He could follow the pen. He could follow the hand going down the sheet and stopping, and starting again, and going back up, and he had been reading the shape of a document for four years without ever having called it that, and he put his own finger on the paper about a finger's width below the pen and kept it there, and when the pen came to the end of a box the finger went to the next one, and when the pen came back up to the first box the finger went back, and neither of them said one word about any of it, and he was right four times out of six, and Amos Kellock said so out loud, in the ordinary way, as a boy counting a tray.
 
 At the end he read the whole thing back, and Ilyan Vester listened to about a third of it, because he had been listening to about a third of documents for four years and has never once pretended otherwise in front of a person who counts trays.
 
@@ -45,6 +47,8 @@ At the end he read the whole thing back, and Ilyan Vester listened to about a th
 “That is correct,” said Ilyan Vester.
 
 “I know it is correct,” said Amos Kellock. “I wrote it. It is nearly always correct, and I want to be honest with you about that, because in two years I have written perhaps nine hundred boxes and they are correct and I have never once had anybody read one back at me who was not paid to, and you are not paid to and you cannot read, and if I have got something wrong in here then the person it will be used on cannot tell me, and that is not a fault in you, it is the arrangement, and I have thought about it for a year and I have not found the other way round.”
+
+He put two fingers on the sheet and turned it about a quarter of a circle on the counter so that the top of it was a little nearer to the man than the bottom of it, and made no explanation of that either, and Ilyan Vester worked out inside about the time it takes to draw a line that he had done it so that it would be easier to see where a line began, and he did not thank him for it, and Kellock did not appear to want him to.
 
 He put the sheet flat on the counter and squared it with two fingers.
 

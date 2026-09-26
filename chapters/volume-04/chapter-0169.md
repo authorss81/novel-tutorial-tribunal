@@ -40,7 +40,7 @@ And this is the one she had been waiting for, and everybody in about nine feet c
 
 Somebody said, “Fifteen pounds is nothing.”
 
-“Fifteen pounds is nothing,” said Marda Fen. “It is four hundred days of that line on the board, and it is six times my wage for a year, and it is about a quarter of one cart’s season, and I have got about eleven weeks out of two pounds ten a year, which is ten shillings and sevenpence, and I have got fourpence of my own in my pocket which I spent on a copy of a minute two days ago, and the sum of what I have said to you in the last four minutes is a list, and the list does not add up to anything, and I have never in twenty-two years read a list out on that quay and I have just read one out, and I am not going to do it again for at least a month because I have four hundred carts to weigh.”
+“Fifteen pounds is nothing,” said Marda Fen. “It is four hundred days of that line on the board, and it is six times my wage for a year, and it is about a quarter of one cart’s season, and I have got about eleven weeks out of two pounds ten a year, which is ten shillings and sevenpence, and I have got fourpence of my own in my pocket which I spent on a copy of a minute three days ago, and the sum of what I have said to you in the last four minutes is a list, and the list does not add up to anything, and I have never in twenty-two years read a list out on that quay and I have just read one out, and I am not going to do it again for at least a month because I have four hundred carts to weigh.”
 
 ---
 

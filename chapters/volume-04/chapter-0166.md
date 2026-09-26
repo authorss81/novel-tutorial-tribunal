@@ -1,6 +1,6 @@
 # Chapter 166: The Words As They Were
 
-The towpath goes east from Ryefold for six miles and the second mouth is on the right for most of it, and on the second day of the forty-fifth week Ilyan Vester walked it at the first bell with an empty basket on his arm because Sena Ollet was going up it and had said, without asking him, that a man who carries on Tuesdays and Fridays and is paid for it can carry on Thursdays for nothing if he wants his legs to be worth something in ten years, and he said he would, and she said right.
+The towpath goes east from Ryefold for six miles and the second mouth is on the right for most of it, and on the second day of the forty-fifth week Ilyan Vester walked it at the first bell with an empty basket on his arm because Sena Ollet was going up it and had said, without asking him, that a man who carries on the second and the sixth days of a week and is paid for it can carry on the fourth day of a week for nothing if he wants his legs to be worth something in ten years, and he said he would, and she said right.
 
 He had not slept and it was not the leg. He had lain in a cart shed behind a granary in the dark from about the eleventh bell until about the second, and what he had done in that time was go through the four days of it in order, about nine times, looking for the place where a thing had gone wrong, and there was no such place, and he had got up at the second bell and been annoyed about it.
 
@@ -18,13 +18,13 @@ That was all. There was nothing else in it, and he had been looking for about el
 
 ---
 
-The room above the chandler's shop had about six people in it at the fourth bell and it was not a meeting. Perrin Gant had said at the second bell that the bench would sit on the twenty-eighth day of the forty-seventh week, which is when they sit, and that anybody who wanted to say anything about the thirty-fifth day could say it to him on a towpath or in a yard or in a doorway, and that he would be at all three, and that he was not going to call a meeting about a thing that had been decided in a city.
+The room above the chandler's shop had about six people in it at the fourth bell and it was not a meeting. Perrin Gant had said at the second bell that the bench would sit on the second day of the forty-seventh week, which is when they sit, and that anybody who wanted to say anything about the thirty-fifth day could say it to him on a towpath or in a yard or in a doorway, and that he would be at all three, and that he was not going to call a meeting about a thing that had been decided in a city.
 
 “That is the first time in nineteen years I have not called a meeting about something that has happened to us,” he said, “and I have thought about why, and the reason is that a meeting is for deciding a thing, and there is nothing to decide, and I would like the room to notice that the four of us have spent nineteen years being given things to decide and that this is the first month of my life as convenor in which there has not been one.”
 
 Nobody argued with him about it, which was new, and which he noticed, and wrote down that night in his own hand with the date.
 
-And then a boy of thirteen came up the lane at about the fifth bell with a shilling and fourpence in a jar and four sheets of paper under his arm, and it was the copy of the minute, and the clerk at the counter had sent it because a minute goes to the parties and the district is a party, and it had cost the district fourpence, and the fourpence had come out of an account that had nothing in it, so the fourpence came out of the reeve's own purse, and she said so, and nobody commented on it.
+And then a boy of thirteen came up the lane at about the fifth bell with a jar in one hand and four sheets of paper under his arm, and the jar had fourpence in it and had been put in his hand at the second door by a woman who told him to give it to a clerk and to nobody else, and it was the copy of the minute that the clerk at the counter had sent, because a minute goes to the parties and the district is a party, and it had cost the district fourpence, and the fourpence had come out of an account that had nothing in it, so the fourpence came out of the reeve's own purse, and she said so, and nobody commented on it.
 
 Osa Trin read it standing up, with her thumb under the line, twice.
 

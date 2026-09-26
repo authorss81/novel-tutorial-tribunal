@@ -10,7 +10,7 @@ He did not stop.
 
 “I know all four of you,” said Iven Brack, to the hub. “And the one at the back with the leg I do not know and I am not going to pretend I do. Sit on the wall. Do not touch the wheel. If you touch the wheel I will put the hub through your hand and it will be an accident and I will not be sorry about it and there will be no proof.”
 
-Eleven people came in over about four minutes and eleven of them stayed, and about six of the eleven were the bench and one was the bench’s stranger, and four were from two streets off and stood at the gate because that is what four men do at a gate.
+Eleven people came in over about four minutes and eleven of them stayed, and four of the eleven were the bench and one was the bench’s stranger, and four were from two streets off and stood at the gate because that is what four men do at a gate, and two of them were nobody’s errand at all and had come for the noise.
 
 Then Brack put the hub down, and put a folded sheet on the trestle beside it, and did not smooth it out.
 
@@ -30,7 +30,7 @@ Nobody thanked Nevin Hake.
 
 ---
 
-Then Osa Trin picked the sheet up off the trestle, and nobody asked her to, and she turned it round so it faced the yard, and she held it at the height of her apron and read it standing up, and here is the whole of it, because it is two sheets and the price is the same in a hundred and one counties and the second one is the same shape in four hundred and thirty-nine yards.
+Then Osa Trin picked the sheet up off the trestle, and nobody asked her to, and she turned it round so it faced the yard, and she held it at the height of her apron and read it standing up, and here is the whole of it, because it is two sheets and the price is the same in a hundred and one counties and the second one is the same shape in about nine hundred yards.
 
 > WHERE A FORBEARANCE IS RUNNING IN A DISTRICT, THE HOLDER OF THIS MAY CARRY GRAIN IN IT AND BE PAID OUT OF THAT DISTRICT BEFORE ANY OTHER CLAIM IS ENTERED AGAINST IT.
 >

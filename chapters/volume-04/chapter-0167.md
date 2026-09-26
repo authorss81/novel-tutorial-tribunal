@@ -24,7 +24,7 @@ Perrin Gant said the thing a convenor says, which is that the room had better fi
 
 “He is not mad,” said Marda Fen, from the doorway, and she had not come in and nobody had heard her. “Nine hundred and forty is about right. The last run of that form was four thousand and about three thousand have been taken up and the rest are in a box somewhere and the box is not in this district and I have never wanted it and I did not know until this minute that I wanted it.”
 
-Nine hundred and forty, and about three thousand and sixty taken up, out of four thousand printed. Check: 3,060 + 940 = 4,000.
+Nine hundred and forty, and about three thousand and sixty taken up, out of the four thousand the last run of that form came to, and Perrin Gant did the sum out loud twice on the back of his own hand to make sure that the woman at the doorway had got it right, and she let him, and neither of them said what the sum was for.
 
 “You have wanted it since you said that word,” said Perrin Gant.
 
@@ -32,7 +32,7 @@ Nine hundred and forty, and about three thousand and sixty taken up, out of four
 
 ---
 
-And then a man in a good coat came into that room at about the fifth bell and put a bag of forms on the bench's own table and said, “I have been in this district for three days and I have heard the word *exception* said eleven times in three different rooms and I have come to say that I sell the other one, and that the two of them are nothing to do with each other, and that anybody who tells you otherwise is selling you something.”
+And then a man in a good coat came into that room at about the fifth bell and put a bag of forms on the bench's own table and said, “I have been in this county about four weeks and I have been in this district three days and I have heard the word *exception* said eleven times in three different rooms and I have come to say that I sell the other one, and that the two of them are nothing to do with each other, and that anybody who tells you otherwise is selling you something.”
 
 Ilger Rusk is thirty-eight and he is a licensed factor and he has a good coat and about two hundred forms in a bag and he came in on the third day of the forty-fifth week because he had said in a yard on the third day of the forty-second week that he would be back, and he had come back, and he had not said he would knock and he knocked.
 
@@ -56,7 +56,7 @@ Ilger Rusk looked at the man who had asked.
 
 Nobody in that room had ever heard of the building.
 
-That is the whole of the discovery and it is worth saying how it went, because the reason nobody in that room had ever heard of it is not that a door was shut, and it is not that anybody had decided they should not know, and it is the same reason as everything else in this district and in four hundred and thirty-nine other yards in this county: a thing is only ever found by a person who has a reason to want it and no other reason at all.
+That is the whole of the discovery and it is worth saying how it went, because the reason nobody in that room had ever heard of it is not that a door was shut, and it is not that anybody had decided they should not know, and it is the same reason as everything else in this district and in about nine hundred other yards in this county: a thing is only ever found by a person who has a reason to want it and no other reason at all.
 
 Osa Trin said, “Then why has nobody in this district ever gone.”
 
@@ -72,17 +72,17 @@ And the man who was not on the bench said, “I was in it.”
 
 ---
 
-It is worth setting down what happened next exactly, because it is the whole of it, and because a man of thirty-one has spent two years in this world being the person who is nearest to a thing, and this is the first time he has been the reason a thing took four weeks to arrive.
+It is worth setting down what happened next exactly, because it is the whole of it, and because a man of thirty-one has spent two years in this world being the person who is nearest to a thing, and this is the first time he has been the reason a thing took a month to arrive.
 
-“I was in it on the seventh day of the forty-first week,” said Ilyan Vester. “At the sixth bell. I went there to look at a plate. There is a man called Corrin Vask and he is forty-one and his right hand is six years gone at the wrist and he cannot open a cold room after three hours without doing it one finger at a time, and he is nine years in that building and ninepence a day, and he cannot read what is in the shelves, and he said so to me first, before I asked him anything, and he said that a shelf is not a door.”
+“I was in it on the seventh day of the fortieth week,” said Ilyan Vester. “At the sixth bell. I went there to look at a plate. There is a man called Corrin Vask and he is forty-one and his right hand is six years gone at the wrist and he cannot open a cold room after three hours without doing it one finger at a time, and he is nine years in that building and ninepence a day, and he cannot read what is in the shelves, and he said so to me first, before I asked him anything, and he said that a shelf is not a door.”
 
 “How long have you known,” said Wil Tamworth.
 
-“Twenty-nine days.”
+“Thirty-one days.”
 
 Nobody said anything for about eleven seconds.
 
-“You knew,” said Tamworth, “that a building four miles off was open to anybody, and it was full of every printed thing anybody in this county had produced in four years, and that you had stood in it and been told so by the man who sweeps it, and you have let four weeks go by in a district of six hundred people where a bench has been trying to find out what a category is.”
+“You knew,” said Tamworth, “that a building four miles off was open to anybody, and it was full of every printed thing anybody in this county had produced in four years, and that you had stood in it and been told so by the man who sweeps it, and you have let a month go by in a district of six hundred people where a bench has been trying to find out what a category is.”
 
 “Yes.”
 
@@ -92,7 +92,7 @@ And Ilyan Vester said the true thing, and it took him about four seconds, and th
 
 “I did not know whether it would help,” he said. “And I have never in my life gone into a room with a thing before I knew whether it would help. I did it on the coast eleven times and it cost a woman a page and a man a day and a district three shillings and ninepence. And this time I had four shillings and a leg and a wage of ninepence a day and about six weeks of arithmetic in my head, and I was waiting to be useful, and being useful and being early are not the same thing and I have known that for about two years and I have been wrong about it four or five times in a way that cost other people money. And I did not say it in this room because I did not know what it was for.”
 
-“That is the honest answer,” said Nevin Hake, who had said the same words about his own hand in a room on the third day of the forty-first week, and who said them again in a yard in about eleven days, and who was not thanked for it then and was not thanked for it now.
+“That is the honest answer,” said Nevin Hake, who had said the same words about his own hand in a room on the third day of the forty-first week, and who said them again in a yard in about four weeks, and who was not thanked for it then and was not thanked for it now.
 
 ---
 

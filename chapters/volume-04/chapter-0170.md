@@ -4,7 +4,7 @@ The room above the chandler's shop had about eleven people in it at the fourth b
 
 “They are in your hand,” said Wil Tamworth, who was thirty-three and who asked what a number meant.
 
-“They are in my hand because I wrote them in my hand at four different tables in nine counties in nine days, on the ends of my own day's work, on the back of forms, on a slate, twice in a pencil that went down on a wet table,” said Ilger Rusk. “I did not write them out clean. If you want a clean copy there is a woman in a house off the Nethergill road who does copying and I have not asked her because she is fourpence a sheet and I have not got fourpence for four sheets, and that is the truth about this document and I have put it first before anybody in this room decides how much it is worth.”
+“They are in my hand because I wrote them in my hand at four different tables in nine counties in nine days, most of them before I came up this road, on the ends of my own day's work, on the back of forms, on a slate, twice in a pencil that went down on a wet table,” said Ilger Rusk. “I did not write them out clean. If you want a clean copy there is a woman in a house off the Nethergill road who does copying and I have not asked her because she is fourpence a sheet and I have not got fourpence for four sheets, and that is the truth about this document and I have put it first before anybody in this room decides how much it is worth.”
 
 “Why thirty-four.”
 
@@ -32,7 +32,7 @@ The room did a thing that is worth recording, because it is the only arithmetic 
 
 Nobody said anything for a while.
 
-“Now the part where I tell you why that is not a tragedy about anybody in this room,” he said, “and I have had nine days to get to the bottom of it and I have got to the bottom of it and the bottom of it is *because a load in one county is not a load in another county.* There is no instrument in this world that moves one. Those carts are eleven miles off and on the other side of a road that is not a towpath, and a loaded cart cannot go on a towpath in the afternoon, and I have known that since I was twenty-two and none of the thirty-four knew it when they told me, and two of them asked me afterwards how to send them here and I had to say it to their faces. Seventeen thousand loads. Wrong place. Correct capacity. The best possible number in the world, on the wrong side of a county, four days too late.”
+“Now the part where I tell you why that is not a tragedy about anybody in this room,” he said, “and I have had nine days to get to the bottom of it and I have got to the bottom of it and the bottom of it is *because a load in one county is not a load in another county.* There is no instrument in this world that moves one. Those carts are eleven miles off and on the other side of a road that is not a towpath, and a loaded cart cannot go on a towpath in the afternoon, and I have known that since I was twenty-two and none of the thirty-four knew it when they told me, and two of them asked me afterwards how to send them here and I had to say it to their faces. Seventeen thousand loads. Wrong place. Correct capacity. The best possible number in the world, on the wrong side of a county, two days too late.”
 
 He put the chalk down.
 
@@ -50,11 +50,11 @@ Nobody answered him.
 
 He put his hand on the shut book.
 
-“And I have been asking the room a question for about ten minutes and the answer is that a book is the only instrument any of us has for a sum of four hundred private things, and a book cannot go to Nethergill on one day and be a person in a lane on the next and ask a man whether he meant it. A book cannot stand in a door. A book cannot be argued with, and a book is not offended, and a book is not a person, and if I write four hundred names in this book then at the end of this year the only account of this district in the whole of Veyra is four hundred names in a room, and there is a number in a register that has got a name on it and it is not ours, and I said that in this room nine days ago and I have now said it twice.”
+“And I have been asking the room a question for about ten minutes and the answer is that a book is the only instrument any of us has for a sum of four hundred private things, and a book cannot go to Nethergill on one day and be a person in a lane on the next and ask a man whether he meant it. A book cannot stand in a door. A book cannot be argued with, and a book is not offended, and a book is not a person, and if I write four hundred names in this book then at the end of this year the only account of this district in the whole of Veyra is four hundred names in a room, and there is a number in a register that has got a name on it and it is not ours, and I have said a version of that in this room before, and neither time was one single thing done about it.”
 
 “Write them anyway,” said Nevin Hake.
 
-“I am going to write them,” said Perrin Gant. “I have not got a better idea and I have had nine days and I am sixty-one and I am not going to be a convenor who has a better idea.”
+“I am going to write them,” said Perrin Gant. “I have not got a better idea and I have had a week of it and I am sixty-one and I am not going to be a convenor who has a better idea.”
 
 He wrote them out. It took him about fifty minutes and he wrote them standing up, and Osa Trin read them back twice and did not correct one word, and when he asked her whether it was right she said, “It says what you have got,” and he said, “Then it is right, because it is all I have got,” and he shut the book.
 

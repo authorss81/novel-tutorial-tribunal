@@ -1,12 +1,12 @@
 # Chapter 168: Two Hundred And Forty Names
 
-The order in which a person of the district may take grain at the district price against the account is a list, and the list is kept in the reeve's hand, and it is about two hundred and forty names long, and it has been kept in the same hand for nine years, and there are four people in this district who can read it and three of them cannot.
+The order in which a person of the district may take grain at the district price against the account is a list, and the list is kept in the reeve's hand, and it is about two hundred and forty names long, and it has been kept in the same hand for nine years, and there are two people in this district who can read that hand.
 
-There is one. Marda Fen.
+There are two. The reeve, who wrote it. And Osa Trin, who has read that hand every week for nineteen years and has never once been asked by anybody in this district whether she can.
 
-Nobody in this district has ever asked her what the list is for, and that is not because she is difficult. It is because she has been asked about it, in effect, every week for nine years, by about two hundred and forty people who turn up at the second door and hold out a hand, and a woman holding out a hand at a door is not somebody who is about to be asked a question.
+Nobody in this district has ever asked Marda Fen what the list is for, and that is not because she is difficult. It is because she has been asked about it, in effect, every week for nine years, by about two hundred and forty people who turn up at the second door and hold out a hand, and a woman holding out a hand at a door is not somebody who is about to be asked a question.
 
-On the fourth day of the forty-fifth week there were about eleven people on that quay and the fourth door-bell of the week, and Ilyan Vester was at the second door with a basket on his arm that was empty and was not going anywhere, and he had been in that district forty days and had not once asked her anything, on purpose, because she had told him on the second day of the fortieth week that if he repeated any of what she had said to any of the four he would stop his wage and do it in chalk where they could read it.
+On the fourth day of the forty-fifth week there were about eleven people on that quay and the fourth door-bell of the week, and Ilyan Vester was at the second door with a basket on his arm that was empty and was not going anywhere, and he had been in that district thirty-eight days and had not once asked her anything, on purpose, because she had told him on the second day of the fortieth week that if he repeated any of what she had said to any of the four he would stop his wage and do it in chalk where they could read it.
 
 And then he asked her, in the open, at the second door, in a working way, with his hand on the box the chalk was in, in about nine words.
 
@@ -20,7 +20,7 @@ She put the chalk down.
 
 “Why that,” she said. “Of everything four people could have said to me this week.”
 
-“Because you are the only one who can read it,” said Ilyan Vester, “and because I have been in this district forty days and I have been paid ninepence a day and I have carried a basket up a road six miles each way and I have not done one single thing in this district that was about anybody in it, and that is on a page in a shed and it is a page about me, and I have got about an hour before the cut starts and I would like to have spent it on this.”
+“Because you are the only one of us who can read it who is not the woman who wrote it,” said Ilyan Vester, “and because I have been in this district thirty-eight days and I have been paid ninepence a day and I have carried a basket up a road six miles each way and I have not done one single thing in this district that was about anybody in it, and that is on a page in a shed and it is a page about me, and the cut is in four days and I would like to spend an hour of it on this.”
 
 She looked at him and did not hurry.
 
@@ -44,7 +44,7 @@ She put the second sheet down on the board, flat, beside the first one, and did 
 
 “Go on.”
 
-“A person who keeps a thing for other people without being asked,” said Osa Trin, “is how a district ends up with a person who cannot stop.” She took her hand off the sheet. “I have been the reader of this district since I was nineteen. I have read for four men on a bench and a reeve and about two hundred and forty households, and I have read for nothing, and nobody has ever asked me, and I have done it anyway, every week, for nineteen years, and I have got extremely good at it, and there is nobody in this district who can read this list except me, and there is no office of this district, and there has not been one for nine years, and the account is in a city six miles off and it has never sent anybody.”
+“A person who keeps a thing for other people without being asked,” said Osa Trin, “is how a district ends up with a person who cannot stop.” She took her hand off the sheet. “I have been the reader of this district since I was nineteen. I have read for four men on a bench and a reeve and about two hundred and forty households, and I have read for nothing, and nobody has ever asked me, and I have done it anyway, every week, for nineteen years, and I have got extremely good at it, and there are two people in this district who can read that hand and one of them is me and the other one is the reeve and she wrote it, and there is no office of this district, and there has not been one for nine years, and the account is in a city six miles off and it has never sent anybody.”
 
 She said the last three sentences in a completely level voice and then she said, “That is not a complaint. I want it on the record that it is not a complaint, because the last person who said that in this doorway was me, about four days ago, and I have thought about it since and I have decided that when I say a thing is not a complaint I usually am, and I have decided to stop saying it, and I have not stopped.”
 

@@ -26,7 +26,7 @@ Ormond Ketch is fifty-one and he came eleven miles and brought the same boy and 
 
 The sheet is four hundred and six loads at the county rate, and the county rate on that sheet is two shillings and eightpence a load, and it is a true sheet and the figure is four hundred and six loads because that is what the man had carried for the account in a hard season and the sheet says so and the county rate is the county rate.
 
-Four hundred and six loads at two shillings and eightpence is fifty-four pounds two shillings and eightpence. Check it however you like: four hundred and six loads at a shilling and twopence over two shillings and sixpence over the rate of three, and it comes to the same figure in three ways, and the figure is fifty-four pounds two shillings and eightpence, and it is the only number in that building that anybody is going to say twice.
+Four hundred and six loads at two shillings and eightpence a load is fifty-four pounds two shillings and eightpence, and the rate is the county's own rate off the register and not anybody's figure, and it is the only number in that building that anybody is going to have to use twice before the week is out.
 
 Dace Ferrow is fifty-seven and he has a wheelwright's shop two streets off that quay and he has been building carts in this county for forty-one years and he is the fourth cart on that list of four that the district owns, and he was in the second door at the third bell that morning because he has a wheel out of one of them and because he has waited since the twenty-second week of last year to be paid for a job and the reeve is eleven weeks out of wages and had told him so in person in a yard.
 
@@ -88,7 +88,7 @@ The board on the wall outside the second door is a wage board. It is chalk, and 
 
 Somebody said the number out loud in the second door at about the fourth bell — four hundred and six, said by Marda Fen, in the tone of a woman who has been weighed grain since she was thirty-two, and she was putting the claim sheet away while she said it and she did not know she had said it out loud.
 
-And the boy who carried the notice up the towpath, Alick Odell, thirteen, was in the doorway with the lamp-oil measure his errand, and he has a piece of chalk, because a boy in a doorway in a granary always has a piece of chalk, because there is a board on that wall and it is the only thing in that lane worth writing on.
+And the boy who carried the notice up the towpath, Alick Odell, thirteen, was in the doorway with the lamp-oil measure on his errand, and he has a piece of chalk, because a boy in a doorway in a granary always has a piece of chalk, because there is a board on that wall and it is the only thing in that lane worth writing on.
 
 And he wrote it. Four hundred and six. Under Vester's line, under Brack's line, at the bottom of a wage board, in a hand of a boy of thirteen who cannot read.
 
@@ -98,8 +98,10 @@ So he wrote, in the column where a name goes, the only word he could have put th
 
 > SIX CARTES. FOUR HUNDRED AND SIX.
 
-And the board was chalked and it was not read that day, because a wage board is read at the end of a week and it was not the end of a week, and it was wiped on the sixth of the forty-fourth week by a girl of sixteen who was told to do it, and neither of those two children has ever been told what they did and neither of them will ever be told by anybody who was in that doorway.
+Six carts was a thing he knew and could not spell, and he had had it in his mouth every working day of his two years on that towpath without ever once having had to write it down, and there were a hundred and forty people within reach of the wall and not one of them knew what was on it, and he did not ask anybody, and he has never been asked.
+
+And the board was chalked and it was not read that day, because a wage board is read at the end of a week and it was not the end of a week, and it was wiped on the third day of the forty-fourth week by a girl of sixteen who was told to do it, and neither of those two children has ever been told what they did and neither of them will ever be told by anybody who was in that doorway.
 
 Perrin Gant heard about it four days later from a carter, wrote it in the bench's own book in his own hand with the date, and did not put it on the nail, because he could not read it and had not had it read to him, and a nail in that room is for paper.
 
-And the reason that matters is this: for four days there was a number on the wall of a granary in a district of six hundred people that said four hundred loads of that district's own grain had stayed in the building because a wheelwright had said a sentence in a doorway, and there is no copy of that number anywhere in the world, and the district cannot produce it, and if anybody ever asks Ryefold what it did on the sixth day of the forty-third week, the answer is a claim and a signature and a date, and the number is gone.
+And the reason that matters is this: for four days there was a number on the wall of a granary in a district of six hundred people that said four hundred and six loads of that district's own grain had stayed in the building because a wheelwright had said a sentence in a doorway, and there is no copy of that number anywhere in the world, and the district cannot produce it, and if anybody ever asks Ryefold what it did on the sixth day of the forty-third week, the answer is a claim and a signature and a date, and the number is gone.

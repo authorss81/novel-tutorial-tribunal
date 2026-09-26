@@ -96,7 +96,7 @@ And Perrin Gant, who was sixty-one and who had been convenor for nineteen years 
 
 The lease came up at about the half hour after the sixth bell and it came up because the bench had nothing else to do with the last half hour, and it came up as a thing that had already been decided by nobody.
 
-The tenancy ended on the seventh day of the forty-second week. Nobody had said so. The notice on the nail said the renewal was at the discretion of the account, and a discretion is not a date and it is not a refusal, and the district has been holding a granary and a bank of the second mouth for thirteen days on a thing nobody has exercised.
+The tenancy ended on the seventh day of the forty-second week. Nobody had said so. The notice on the nail said the renewal was at the discretion of the account, and a discretion is not a date and it is not a refusal, and the district has been holding a granary and a bank of the second mouth for four days on a thing nobody has exercised.
 
 “How long is the discretion for,” said Tamworth.
 
