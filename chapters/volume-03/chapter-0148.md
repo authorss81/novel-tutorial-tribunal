@@ -16,7 +16,7 @@ So the answer to what it costs to pull it had to be worked out by people who wou
 
 ---
 
-It started at the hard at about the third bell, because a boat’s carpenter of fifty was planing a garboard and had a hull on his ways and a slip of his own a long way inside the gravel.
+It started at the hard at about the third bell, because a boat’s carpenter of fifty-two was planing a garboard and had a hull on his ways and a slip of his own a long way inside the gravel.
 
 “You have asked me a question and I have got nothing,” said Pell Cawley, without stopping. “I have been sitting on that since last night and I keep arriving at the same place and it is this. A man has to be able to pull it. Not the guild and not the office and not nine men in a room. A man. Any man who goes over that flat. And the minute you say any man, then it is a day, because a carter cannot pull it standing in a lane and a stall-holder cannot pull it between two customers.
 

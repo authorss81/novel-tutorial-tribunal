@@ -58,13 +58,13 @@ Halse Tarrant sat down on the bank above his own boat and did not say anything f
 
 “The toe of the seaward face is gone,” he said, “along about eleven yards of it, and it is gone in the middle, not at the ends, and it is gone to about two feet of depth. There is no bottom holding gravel under the bottom course of that wall for eleven yards. There is stone in courses and then there is the sea.
 
-”And I have got that in a book in a shed with the date on it and the number in it, and I will swear to that book in a room in front of anybody who wants me to, for as long as I am alive, and that is the whole of what it is worth, and it is worth a good deal more than a stake with a number on it, and it is worth exactly nothing at all tonight.”
+“And I have got that in a book in a shed with the date on it and the number in it, and I will swear to that book in a room in front of anybody who wants me to, for as long as I am alive, and that is the whole of what it is worth, and it is worth a good deal more than a stake with a number on it, and it is worth exactly nothing at all tonight.”
 
 He shut the book.
 
 “And here is why, and I am going to say it once and then I am going to feed the beasts, because I have not eaten since the second bell. Nobody on this coast will do anything about a number in a book. There is a table on a wall a mile up that hill that is the only instrument anybody will act on and it does not come out of that building, and there is a pane on a wall in a shed two miles along this coast that is about the same wall and is three years old and disagrees with the first one in two columns out of eleven, and the two columns are the ones that would settle this, and the man who made the second one cannot get at the first one and the first one does not come out of its room.
 
-”So I have got a number and there are two photographs that do not agree, and one of the photographs is nineteen years and eight months old and the other one is three years old, and my number is from today, and today is the best day anybody has had on that wall in about fifteen years, and none of the three of them is going to travel to meet either of the others, and I have not got anybody to carry it and I have not got a cart, because the cart went to the landing two hours late and I am not going to say that out loud twice in one day.”
+“So I have got a number and there are two photographs that do not agree, and one of the photographs is nineteen years and eight months old and the other one is three years old, and my number is from today, and today is the best day anybody has had on that wall in about fifteen years, and none of the three of them is going to travel to meet either of the others, and I have not got anybody to carry it and I have not got a cart, because the cart went to the landing two hours late and I am not going to say that out loud twice in one day.”
 
 ---
 

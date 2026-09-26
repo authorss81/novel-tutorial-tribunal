@@ -32,9 +32,9 @@ And then she answered it, out loud, in front of about seventy people, and it too
 
 “There is nothing in that paper that is wrong about the water.
 
-”The water at the north end on a good day goes out to about four inches at the lowest of the ebb, and about six on the bar, and the bar is a bar and not the channel, and the channel on a good day lies across that shallow and not along it, and a boat that wants to cross it wants the middle of the ebb and a cart that wants the flat wants the end of one and the beginning of the next. On the fourth, the sixth and the seventh the sea stands over the crown of the bar and there is no lowest at the north end at all, because there is no water left in it, and the crossing four hundred yards south of you is the road on those three days and this flat is not.
+“The water at the north end on a good day goes out to about four inches at the lowest of the ebb, and about six on the bar, and the bar is a bar and not the channel, and the channel on a good day lies across that shallow and not along it, and a boat that wants to cross it wants the middle of the ebb and a cart that wants the flat wants the end of one and the beginning of the next. On the fourth, the sixth and the seventh the sea stands over the crown of the bar and there is no lowest at the north end at all, because there is no water left in it, and the crossing four hundred yards south of you is the road on those three days and this flat is not.
 
-”That is true, and it has been true since before I came to that counter, and it is the whole of what I can put on this stone this morning. If that paper says what I have just said, then it is right, and I have not got a different figure for you.”
+“That is true, and it has been true since before I came to that counter, and it is the whole of what I can put on this stone this morning. If that paper says what I have just said, then it is right, and I have not got a different figure for you.”
 
 Somebody at the back said the word *four* to somebody else, and the somebody else said the word *feet*, and about nine people on that shingle had a number in their heads that had just been contradicted out loud in the open by the only person on this coast who is allowed to say a number about the water, and about sixty of them had understood the shape of it and not the size.
 
