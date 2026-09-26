@@ -12,7 +12,7 @@ Osa Trin came past him at about the second bell with the application in her hand
 
 The room is up nine steps and it is not a court and it is not a bench of four. It is a room with a table at the top of it, a public notice on the door, a chair for the person sitting, and a row of chairs along one wall for people who have come to watch, and about eleven people were in it including the man in the chair.
 
-The notice on the door was the four sheets, on one nail, and the four sheets had cost a district of six hundred people five shillings and fourpence, and the thing they had bought was the right to be in the room, and everybody in the room was in it because of that sheet, including the people from other counties, whose sheets cost their districts the same.
+The notice on the door was four sheets on one nail of that room’s own, and the four sheets the district had bought had cost a district of six hundred people five shillings and fourpence, and the thing they had bought was the right to be in the room, and everybody in the room was in it because of that sheet, including the people from other counties, whose sheets cost their districts the same.
 
 The chair was a person of about sixty-two called Aldis Fenner and he had sat in that chair at the fourth sitting twice a year for nineteen years and his job was to keep a list of what had been said and his clerk wrote it, and about half of what Fenner did was arithmetic in his own head about how much time was left before the sixth bell.
 
@@ -34,7 +34,7 @@ Then her part was over. That is procedure and it is not anybody's invention: a p
 
 ---
 
-And then the account's office entered a thing, and it was nineteen minutes old, and it had been read four times this morning by a man of nineteen, and it was true.
+And then the account's office entered a thing, and it had been sworn at that counter at about the second bell that morning, and it had been read four times since by a man of nineteen, and it was true.
 
 The chair asked what the account relied on. Ansel Cork said the word on the wall, and the word on the wall is what a party that does not appear is carried as, and then he said, in the ordinary way, that the account also had a deposition, and that the account's office was entitled to enter it, and that it was in the room and anybody who wished might read it.
 
@@ -56,7 +56,7 @@ Amos Kellock stood up. He had a file under his arm. He was nineteen and he had b
 >
 > AND THAT THE PERSON NAMED STATED THAT THE SENTENCE WAS HIS OWN AND NOT THE WORD OF ANY OFFICE, AND THAT HE SAID IT IN THE ABSTRACT AND NOT OF ANY DISTRICT NAMED.
 >
-> ENTERED BY A. KELLOCK, AN OFFICER OF THIS ACCOUNT, THIS DAY, FROM THE CHAMBER'S OWN WEEKLY POSTING OF ITS COUNTER MEMORANDA, WHICH IS DELIVERED TO THIS OFFICE EVERY WEEK AND IS READ BY NOBODY IN EITHER OFFICE.
+> ENTERED BY A. KELLOCK, AN OFFICER OF THIS ACCOUNT, THIS DAY, FROM THE CHAMBER’S OWN WEEKLY POSTING OF ITS COUNTER MEMORANDA, WHICH IS DELIVERED TO THIS OFFICE EVERY WEEK AND IS NOT READ AS A SET OF MEMORANDA BY ANYBODY IN EITHER OFFICE.
 
 Nobody moved for about eleven seconds. Roald Tern, twenty-six, was standing at the back of that room against the wall because it was his own counter's matter and he had come out from behind it for the first time in two years, and he had put both hands in his coat, and he did not say one word then or afterwards, and there is nobody alive who will ever ask him what he thought.
 
@@ -68,11 +68,11 @@ Aldis Fenner asked four questions, and about half of them were not questions, an
 
 “Has he said a district that does not come has refused.”
 
-“He has not used the word *refused*,” said Amos Kellock. “He has used the word *decided*, and he has said out loud that a decision is a thing a person makes, and the last three lines of the third box are his own hand and not mine, and the last two lines of the fourth box are his own hand and not mine, and I put the first half of the sentence in the third box and he put the second half, and I would like this room to know that neither of us has any power over what this room does with the whole of it.”
+“He has not used the word *refused*,” said Amos Kellock. “He has used the word *decided*, and he has said out loud that a decision is a thing a person makes, and the whole of the sentence is in my hand and not in his, and he has not asked to see it and I have not shown it to him. And I want to say the other thing about it in this room rather than in a corridor afterwards, and the other thing is that I wrote down *decided* because *decided* is the word on the memorandum in front of me and I am the person who writes the word that is in front of me, and I have never in two years written a different one, and I would like this room to understand that I did not choose between those two words this morning. I chose neither. There was one.”
 
-“Did the account direct it.”
+“Did anybody in this building direct it.”
 
-“No. The account did not direct it. I entered it in nineteen minutes this morning because I am entitled and because a party may enter a deposition, and I have thought about it for about a day and I have not slept and I have come here on purpose.”
+“No. Nobody in this building directed it and nobody in the other one did either. I swore it in nineteen minutes this morning because I am entitled and because a party may enter a deposition, and I have not slept, and I have come here on purpose.”
 
 “Was it true when you entered it.”
 
@@ -116,7 +116,7 @@ What he said, after about nine minutes, standing up, at the north end of a nine-
 
 And then neither of them said one word for about forty seconds, and the corridor was nine feet wide, and then she said, “It is the fourth sitting. There is no second one this year,” in the tone of a woman who has read a form and is reporting the date on it, and went down nine steps and out into a street in a city of about ninety thousand people and started walking home, which is four miles, and she got there at about the ninth bell.
 
-And the sentence, the one that did it, is in a deposition in a file in a yard six miles up a road north of a district of six hundred people, and in a minute in a room up nine steps, and it is in a counter's memorandum in a chamber four miles from here that gets posted once a week to a building where it is read by nobody, and here is the whole of it, word for word, as it was read out in that room at about the fourth bell on the first day of the forty-fifth week by a man of nineteen who had checked it four times and did not know what it was for:
+And the sentence, the one that did it, is in a deposition in a file in a yard six miles up a road north of a district of six hundred people, and in a minute in a room up nine steps, and it is in a counter’s memorandum in a chamber four miles from here that gets posted once a week to a building where nobody traces where it has been, and here is the whole of it, word for word, as it was read out in that room at about the fourth bell on the first day of the forty-fifth week by a man of nineteen who had checked it four times and did not know what it was for:
 
 *A district that sends nobody has decided it has nothing to say, and a decision is a thing a person makes. I will not stand in a room and call that anything else.*
 
@@ -124,4 +124,4 @@ And here is the same sentence as the minute has it, which is the sentence that s
 
 *A district which sends nobody has decided it has nothing to say.*
 
-Four words are missing and the four words are the four words he said last, and the four words he said last were the ones that made it a man's sentence instead of a rule's.
+Twenty-one words are missing and one word has been swapped, and the twenty-one are the two things he said last, and the two things he said last were the ones that made it a man's sentence and not a rule's, and nobody in that room read the difference, because a minute is a thing a clerk copies out and a clerk copies out what is in front of him.

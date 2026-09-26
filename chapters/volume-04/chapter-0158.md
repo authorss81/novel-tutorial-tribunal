@@ -10,7 +10,7 @@ Marda Fen told him the order was right. She told him the order was right in abou
 
 The carter was about fifty and he had come eleven miles and he had a boy with him and he said he would wait until the sixth bell.
 
-Which left about four hours, and about six hundred people, and a reeve with about nine days of the district’s own ration in a granary and a rule that a person of the district may take grain at the district price against the account, in an order, and the order was a list, and the list had his name at the top of it under the other claim, and there were about two hundred and forty names under it in a hand nobody could read except hers.
+Which left about four hours, and about six hundred people, and a reeve with about nine days of the district’s own ration in a granary and a rule that a person of the district may take grain at the district price against the account, in an order, and the order was a list, and the list had his name at the top of it under the other claim, and there were about two hundred and forty names under it in a hand that nobody on that quay could read.
 
 And the cart was loaded. That was the part that put a crowd on a quay. Thirty-one loads were already on it. Thirty-one loads of a district of six hundred people’s grain, standing on a cart, on a quay, at the third bell, in daylight, in front of two hundred and forty people who had been told for a year that their grain was coming.
 

@@ -30,7 +30,7 @@ That is the shape of it, and it went on for about half an hour, and the question
 
 “What's missing for the cut.”
 
-And this is the one she had been waiting for, and everybody in about nine feet could tell that she had been waiting for it, and it is the whole of the chapter.
+And this is the one she had been waiting for, and everybody in about nine feet could tell that she had been waiting for it, and it is the whole of what the half hour was for.
 
 “Three thousand one hundred loads have to go on hired carts,” said Marda Fen. “The four of this district will do about three hundred between them, and I have said *about* on both numbers and I have been saying *about* on that number for nineteen years while a man with a sledge takes a pitch off a woman on the strength of it. So: three thousand one hundred loads on hire. Three thousand loads are paid for. A hundred loads are not.”
 

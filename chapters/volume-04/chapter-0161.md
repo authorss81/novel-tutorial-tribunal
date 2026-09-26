@@ -96,7 +96,7 @@ And Perrin Gant, who was sixty-one and who had been convenor for nineteen years 
 
 The lease came up at about the half hour after the sixth bell and it came up because the bench had nothing else to do with the last half hour, and it came up as a thing that had already been decided by nobody.
 
-The tenancy ended on the seventh day of the forty-second week. Nobody had said so. The notice on the nail said the renewal was at the discretion of the account, and a discretion is not a date and it is not a refusal, and the district has been holding a granary and a bank of the second mouth for four days on a thing nobody has exercised.
+The tenancy ended on the first day of the forty-second week, which is the day that sheet came up the lane. Nobody had said so out loud in that room before. The notice on the nail said the renewal was at the discretion of the account, and a discretion is not a date and it is not a refusal, and the district has been holding a granary and a bank of the second mouth for ten days on a thing nobody has exercised.
 
 “How long is the discretion for,” said Tamworth.
 
@@ -130,7 +130,7 @@ The room looked at each other.
 
 “That is not a thing she would say,” said Nevin Hake.
 
-“It is the first thing she has said to me in about two years that I have written down,” said the boy, “and I have it here.” He took a folded paper out of his coat and gave it to him, and it was about a quarter of the size of a notice and it had a number on it and a name on it and it was the one thing Ilyan Vester had ever seen written about himself in a district he had been in for three weeks.
+“It is the first thing she has said to me in about two years that I have written down,” said the boy, “and I have it here.” He took a folded paper out of his coat and gave it to him, and it was about a quarter of the size of a notice and it had a number on it and a name on it, and it was the first thing anybody in this district had written about Ilyan Vester and put into his hand in twenty-four days.
 
 > VESTER. NINE PENCE. THE FOURTH OF THE FORTY-THIRD.
 

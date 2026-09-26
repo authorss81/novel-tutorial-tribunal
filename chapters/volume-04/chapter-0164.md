@@ -42,7 +42,7 @@ At the end he read the whole thing back, and Ilyan Vester listened to about a th
 
 “That is not what I said in the second box,” he said.
 
-“That is not the second box,” said Amos Kellock. “The second box is the date of the conversation, and we had our conversation on the sixth day of the forty-third week, and you said a thing to me at about the fourth bell on that day, and about forty people heard it and one of them was a boy with a piece of chalk, and I have written the whole of it in the second box, and you told me it was a sentence a man had said in a corridor four hundred times in four hundred years, and I have written that too, and I have not written whose corridor, because you did not say whose corridor, and because it is not a question the form asks.”
+“That is not the second box,” said Amos Kellock. “The second box is the date of the conversation, and we had our conversation on the sixth day of the forty-third week, and you said a thing to me at about the fourth bell on that day, and about forty people heard it and one of them was a boy with a piece of chalk, and I have written the whole of it in the second box, and you told me it was a sentence your reeve had said out loud in a corridor to nobody, and that about four hundred carters have said it to each other in about nine hundred yards for four hundred years, and I have written that too, and I have not written whose corridor, because you did not say whose corridor, and because it is not a question the form asks.”
 
 “That is correct,” said Ilyan Vester.
 
@@ -78,7 +78,7 @@ He read it out. Then he said, “That is the last line and it is the only line o
 
 “Your name in that box is the difference between a reeve doing a thing on her own authority in a bad year, with nothing behind it, on her word, in about eleven minutes, alone, with nobody able to check her,” said Amos Kellock, “and an account having done it, once, on a record, with a stranger’s word at the bottom of it. That is not a small thing. I have read about nine thousand returns in this tray and in about four hundred of them there is a decision that somebody in that district made on her own and there is a line under it that says *no advice was given*, and I have thought about those four hundred about as much as I have thought about anything, and I have never been able to find the thing wrong with them, and I have never been able to find the thing right with them either, and I have got about eleven years to think about it and I have not.”
 
-Ilyan Vester took out four shillings, which was all he had, and put a shilling and fourpence on the counter, and the rest of it he did not have.
+Ilyan Vester took out four shillings, which was all he had, and put a shilling and fourpence on the counter, and kept the rest of it in his hand, and did not put it back in his coat while he was standing there.
 
 Kellock took the shilling and fourpence and did not look at the four shillings and did not comment on them, and put them in a box under the tray, and gave him a receipt for the one, which was on a printed slip with a number on it and which Ilyan Vester folded and put in his coat beside a page he had sworn to hold and could not read and had no intention of reading.
 
@@ -88,6 +88,6 @@ Then Amos Kellock said, “Thank you,” and it was not about the shilling and f
 
 “For saying out loud, about nine minutes ago, that I was not to write what you told me to write.” Kellock put the tray back. “I want to tell you that I have had that instruction before, twice, from two men who pay me more than you do and who own the building, and both times I took it, and both times I put in what they said, because it is a box with six lines in it and what is the box for. And you said it in about two seconds and you did not soften it and you did not explain it, and I have thought about your two seconds for about four minutes while you were on that stair, and I would like you to know that I have taken the instruction and I am going to keep it, and that I would have taken it anyway, and that you did not have to stand on that stair to get it.”
 
-He said it at the counter, in the ordinary way, to a man he had known for about half an hour, and it was the kindest thing anybody said to Ilyan Vester in a district of six hundred people, and eight days later he sat in a room four miles from that counter and read out a sentence that a man had said in the abstract about himself, and it was his own hand, and the room did with it what rooms do.
+He said it at the counter, in the ordinary way, to a man he had known for about half an hour, and it was the kindest thing anybody said to Ilyan Vester in a district of six hundred people.
 
-He did not know that yet. He put the receipt in his coat and went down the stair, and the leg held for the four miles and then did not, and he stood at a milestone with his weight against a willow for about nine minutes at about the sixth bell, and there was nobody on that road.
+Then he put the receipt in his coat and went down the stair, and the leg held for the four miles and then did not, and he stood at a milestone with his weight against a willow for about nine minutes at about the sixth bell, and there was nobody on that road.

@@ -2,11 +2,11 @@
 
 The towpath goes east from Ryefold for six miles and the second mouth is on the right for most of it, and on the second day of the forty-fifth week Ilyan Vester walked it at the first bell with an empty basket on his arm because Sena Ollet was going up it and had said, without asking him, that a man who carries on the second and the sixth days of a week and is paid for it can carry on the fourth day of a week for nothing if he wants his legs to be worth something in ten years, and he said he would, and she said right.
 
-He had not slept and it was not the leg. He had lain in a cart shed behind a granary in the dark from about the eleventh bell until about the second, and what he had done in that time was go through the four days of it in order, about nine times, looking for the place where a thing had gone wrong, and there was no such place, and he had got up at the second bell and been annoyed about it.
+He had not slept and it was not the leg. He had lain in a cart shed behind a granary in the dark from about the seventh bell until about the second, and what he had done in that time was go through the four ways of being wrong about it in order, about nine times, looking for the place where a thing had gone wrong, and there was no such place, and he had got up at the second bell and been annoyed about it.
 
 The place where a thing had gone wrong was the second day of the forty-second week at about the second bell at a counter in a city four miles from where he was lying. That part was fine. Every part of it was fine. A clerk of twenty-six had said a rule and he had found the flaw in the rule in about a minute and the finding was right, and then he had made the rule comfortable for a man of twenty-six who had to say it to a stranger, and that was the whole of it, and he had known it at the time and had written it on a page at the time and had written on that page that he did not know why he had said it.
 
-He had four ways of being wrong about it and he went through all four between the first bell and the fourth.
+He had four ways of being wrong about it and he went through all four between the seventh bell and the second.
 
 He had not meant it. He had meant it.
 
@@ -36,7 +36,7 @@ Osa Trin read it standing up, with her thumb under the line, twice.
 
 ---
 
-Amos Kellock came up the towpath on the second day at about the third bell with a file under his arm and Osa Trin walking beside him, and he had come six miles, and he had come because a file has to be shown to the district and the only address the district has is a granary, and that is not sentiment, it is the standing instruction of the account's own office, and it is on a card on a wall in a building six miles up a road north and he could recite it and did not recite it.
+Amos Kellock came down the road that goes north out of Ryefold on the second day at about the third bell with a file under his arm and Osa Trin walking beside him, and he had come six miles, and he had come because a file has to be shown to the district and the only address the district has is a granary, and that is not sentiment, it is the standing instruction of the account's own office, and it is on a card on a wall in a building six miles up that road and he could recite it and did not recite it.
 
 He said, “You asked me for the copy. I am bringing the copy. I have not read the whole of it in the yard, I have read the deposition and the minute and the sheet the clerk gave her, and there is a fourth page and the fourth page is the account's own figures and I have not read them and I am not going to, because they are not mine and I am not the account.”
 
@@ -80,11 +80,17 @@ Then he asked the question, and it was the worst one available, and it is set do
 
 “That is four things being no.”
 
-“It is four things being no, and I want to give you the other four, and I have had them in two different sentences for two days and one of them on its own is a lie,” said Amos Kellock. “The other four are these. You could put something in. There is no rule against a party putting in a thing that says the opposite of what another party put in, and nobody in that building would stop it, and nobody in that building would do it, and both of those are true, and if you only have the first one you will build a plan on it. And I have not done anything about it, because I am nineteen and I entered a true document this morning and I am not the account and I do not have a licence for anything else. And I have not been sorry, and I would like to say why, and it is not because I do not think it is a bad thing, because I do. It is because I asked you a question first.”
+“It is four things being no, and I want to give you the other four, and I have had them in two different sentences since yesterday morning and one of them on its own is a lie,” said Amos Kellock. “The other four are these. You could put something in. There is no rule against a party putting in a thing that says the opposite of what another party put in, and nobody in that building would stop it, and nobody in that building would do it, and both of those are true, and if you only have the first one you will build a plan on it. And I have not done anything about it, because I am nineteen and I swore a true document into a matter yesterday morning and I am not the account and I do not have a licence for anything else. And I have not been sorry, and I would like to say why, and it is not because I do not think it is a bad thing, because I do. It is because I asked you a question first.”
 
-“You asked me nothing.”
+“You asked me one question and it was the one the form asks.”
 
-“I did not,” said Amos Kellock. “That is the whole of it, and I have thought about it for two days and that is the whole of it, and it is the one thing I would take back if the thing could be taken back. I did not ask you. I had about nineteen minutes and a sheet with six lines in it and the certificate in a drawer and a stranger at a counter, and I did not ask you, and if I had asked you then you would have had about ten seconds to say *do not write that*, and I have thought about whether you would have said it, and my honest answer is that I do not know, and I have had two days to think about it and I have not found a better answer, and that is what I am sorry for, and it is not that I wrote it.”
+“I asked you one thing,” said Amos Kellock, “and I have gone over it about nine times since yesterday morning and I want to give it to you exactly as it went, because it took about two seconds and I have never in two years spent two seconds on anything. The chamber posts its counter memoranda to this office once a week. About nine hundred of them come in a sack and I am the one who opens the sack because I am the junior. And in the week’s posting there was a sentence with your day on it — the fifteenth day, at their counter, about a party that does not come — and a form to go with it, and the form is one sheet at a shilling and fourpence and it has six boxes and two of the six are *what was said* and *whether any district is named in it*.
+
+“And I could not fill in the second box about a man who was not in the room. That is all. That is the whole of what happened and it took about a second and a half to work out. So I walked the six miles on the day of the sitting, before the second bell, because there is a box on that form about a man and the box has to have a man in it, and I asked you the only question the box asks, and I asked it in the ordinary way at a counter, and you gave me the true answer.”
+
+“What was it.”
+
+“*Does any district appear in it.* And you said no. You said you had said it in the abstract and about yourself and that no district was named and that you were not going to be able to say it again in a way that made it smaller. And that is the true answer, and it is the answer that made it worse, and I have not got a better explanation than this and I have looked: a sentence about a district that cannot afford a four-mile walk is a thing a person can put in front of a chair with a place on it, and a sentence about a man, said by the man, about himself, is a thing that is only about him, and that room is not about him. And I wrote what you said in the box because it was true and because the box was in front of me and because there is no second box on that form and I have looked for one. I have not been sorry. It is not that I wrote it and it is not that the answer was the true one. It is that I had a box and a true answer and no second box.”
 
 ---
 
@@ -100,7 +106,7 @@ Nobody answered that either.
 
 And the thing that came out of it, and the thing nobody in that yard will ever understand, is this. In a yard two streets off a quay in a district of six hundred people there is a man who cannot read, and there is a boy of nineteen who can, and between them there is a document.
 
-Four hundred years ago, on a coast, a man said out loud that the fee for being the man who links people is that somebody can send for the man’s own paper. He said it once, to nobody, on a day when the water owned the bar, and he did not say it again that week or the week after, and it has taken four hundred miles and eight days and a file to bring the fee back round, and he has not said the sentence again in this yard.
+Not four hundred years ago, and not on a coast he is about to go back to. On a bar day, on a coast four hundred miles behind him, a man said out loud to nobody that the fee for being the man who links people is that somebody can send for the man’s own paper. He said it once and he did not say it again that week or the week after, and it has taken four hundred miles and eight days and a file to bring the fee back round, and he has not said the sentence again in this yard.
 
 The fee has been paid.
 
@@ -114,12 +120,12 @@ It did not move. It did not explain itself. It cost him what it costs.
 
 And at the same moment, with a precision he has never been able to account for and has stopped trying to account for, the account of the district of Ryefold came into his head the way a thing comes into a head that has asked for it and got no answer, and it came in the interface's own two plain lines, and there were no lines about the deposition and there were no lines about the sentence and there were no lines about a boy of nineteen, because the interface has never once in this world translated a room.
 
-**THE ACCOUNT OF THE DISTRICT OF RYEFOLD IS NINE THOUSAND SEVEN HUNDRED POUNDS, AND ITS ANNUAL CHARGE OF FOUR HUNDRED AND EIGHTY-FIVE POUNDS IS DUE AT THE CLOSE OF EVERY GRAIN YEAR, AND THE SOURCE OF IT IS THE ACCOUNT ITSELF AND NOT ANY BODY.**
+**THE ACCOUNT OF THE DISTRICT OF RYEFOLD IS NINE THOUSAND SEVEN HUNDRED POUNDS, AND ITS ANNUAL CHARGE OF FOUR HUNDRED AND EIGHTY-FIVE POUNDS IS DUE AT THE CLOSE OF EVERY GRAIN YEAR, AND THE SOURCE OF IT IS THE ACCOUNT AND NOT THE DISTRICT AND NOT ANY PERSON IN IT.**
 **WHAT IS NOT DECIDED: WHETHER A PARTY THAT HAS BEEN CARRIED AS UNCOOPERATIVE MAY ENTER ANYTHING AGAINST THAT CARRYING, AND THE MARK FOR APPEAL IS NOT HIS TO ENTER.**
 
 He read it twice. It told him what he had known at the second bell of the day before, and it certified nothing and it joined nothing, and it was the only sentence in this world that has said *uncooperative* back to him, and the clause about the mark for appeal is the whole of what a man gets when he is not a party, and it is a sentence about a door with no handle on his side.
 
-He had wanted one line out of it for nineteen days when it gave him one in a week about a page, and it took nineteen days and four people and nine pence a day, and there is no part of him that is satisfied.
+He had wanted one line out of it for nineteen days, and it had given him one in a week about a page, and it has now been thirty-six days and it has given him two lines and it has certified nothing and joined nothing, and nineteen days and four people and nine pence a day bought the first one and there is no part of him that is satisfied.
 
 ---
 
@@ -129,7 +135,7 @@ At about the eighth bell he was in a cart shed behind a granary with a leg that 
 
 *I said a sentence at a counter on the second day of the forty-second week. It was about me. It was true. I have gone through it eleven times in a day and a night and there is nothing in it that is not mine.*
 
-*The clerk who wrote it down is nineteen. He did not ask me. He is not sorry, and he was not wrong to be sorry and he was not wrong not to be, and he has given me the reason himself, in a yard, out loud, in the ordinary way, and the reason is that he had about ten seconds and he did not use them on me, and he does not know whether I would have said stop. I have not worked out whether I would have. I have not got a third line for it and I have looked.*
+*The clerk who wrote it down is nineteen. He asked me one question and the question was the only one the form asks and he asked it in about two seconds, and the answer he got was the true one, and he has given me the reason himself, in a yard, out loud, in the ordinary way, and the reason is that he had a box and a true answer and no second box. He does not think it is a bad thing. He has not been sorry. I have not worked out what he is, and I have not got a third line for it and I have looked.*
 
 *It is mine to write down and it is not mine to decide.*
 

@@ -4,9 +4,9 @@ Wil Tamworth is thirty-three and he has a brother-in-law at a weighhouse eleven 
 
 Nobody in this district has ever asked him what the sheet is, and on the third day of the forty-fifth week Wil Tamworth brought it up the lane in his own coat and put it on the bench's own table and said, “Now ask me,” and the room asked him.
 
-“Two words at the top of it,” said Hesk Amray by way of a brother-in-law, and then Wil Tamworth said the words himself, because he had seen the sheet, and he said them the way a man says a thing he has had in his mouth for two years.
+“A word at the top of it,” said Hesk Amray by way of a brother-in-law, and then Wil Tamworth said the word himself, because he had seen the sheet, and he said it the way a man says a thing he has had in his mouth for two years.
 
-*Exception.*
+> EXCEPTION.
 
 “There is a word at the top of that sheet and the word is *exception*,” said Wil Tamworth, “and the word means that a rule is temporary. And I want the room to hear what I have worked out about it in two years, because I have worked out about four things about it and three of them are rubbish. The first is that you can put it in front of a man with a cart and he has to do the right thing. The second is that the right thing is whatever the man with the cart thinks the right thing is, and if the sheet said *the moon is made of green cheese* then that would be the right thing. The third is that the sheet does not take anything. Not the rule, not the account, not the man. It takes the paper.”
 
@@ -32,7 +32,7 @@ Nine hundred and forty, and about three thousand and sixty taken up, out of the 
 
 ---
 
-And then a man in a good coat came into that room at about the fifth bell and put a bag of forms on the bench's own table and said, “I have been in this county about four weeks and I have been in this district three days and I have heard the word *exception* said eleven times in three different rooms and I have come to say that I sell the other one, and that the two of them are nothing to do with each other, and that anybody who tells you otherwise is selling you something.”
+And then a man in a good coat came into that room at about the fifth bell and put a bag of forms on the bench's own table and said, “I have been in this county about six weeks and I have been in this district three days and I have heard the word *exception* said eleven times in three different rooms and I have come to say that I sell the other one, and that the two of them are nothing to do with each other, and that anybody who tells you otherwise is selling you something.”
 
 Ilger Rusk is thirty-eight and he is a licensed factor and he has a good coat and about two hundred forms in a bag and he came in on the third day of the forty-fifth week because he had said in a yard on the third day of the forty-second week that he would be back, and he had come back, and he had not said he would knock and he knocked.
 
@@ -74,7 +74,7 @@ And the man who was not on the bench said, “I was in it.”
 
 It is worth setting down what happened next exactly, because it is the whole of it, and because a man of thirty-one has spent two years in this world being the person who is nearest to a thing, and this is the first time he has been the reason a thing took a month to arrive.
 
-“I was in it on the seventh day of the fortieth week,” said Ilyan Vester. “At the sixth bell. I went there to look at a plate. There is a man called Corrin Vask and he is forty-one and his right hand is six years gone at the wrist and he cannot open a cold room after three hours without doing it one finger at a time, and he is nine years in that building and ninepence a day, and he cannot read what is in the shelves, and he said so to me first, before I asked him anything, and he said that a shelf is not a door.”
+“I was in it on the seventh day of the fortieth week,” said Ilyan Vester. “I went there at about the third bell to look at a plate, and I was still standing in the cold room at the sixth bell when a man of thirty-four came in with a slip in his hand. There is a man called Corrin Vask and he is forty-one and his right hand is six years gone at the wrist and he cannot open a cold room after three hours without doing it one finger at a time, and he is nine years in that building and ninepence a day, and he cannot read what is in the shelves, and he said so to me first, before I asked him anything, and he said that a shelf is not a door.”
 
 “How long have you known,” said Wil Tamworth.
 
@@ -90,9 +90,9 @@ Nobody said anything for about eleven seconds.
 
 And Ilyan Vester said the true thing, and it took him about four seconds, and the reason he has never got over it is not that it was the wrong reason.
 
-“I did not know whether it would help,” he said. “And I have never in my life gone into a room with a thing before I knew whether it would help. I did it on the coast eleven times and it cost a woman a page and a man a day and a district three shillings and ninepence. And this time I had four shillings and a leg and a wage of ninepence a day and about six weeks of arithmetic in my head, and I was waiting to be useful, and being useful and being early are not the same thing and I have known that for about two years and I have been wrong about it four or five times in a way that cost other people money. And I did not say it in this room because I did not know what it was for.”
+“I did not know whether it would help,” he said. “And I have never in my life gone into a room with a thing before I knew whether it would help. I did it on a coast eleven times and it cost a woman a page of her own work and a man a day and a district three shillings and ninepence, and every one of the eleven was a sensible thing to do on the day. And this time I had four shillings and a leg and a wage of ninepence a day and about six weeks of arithmetic in my head, and I was waiting to be useful, and being useful and being early are not the same thing and I have known that for about two years and I have been wrong about it four or five times in a way that cost other people money. And I did not say it in this room because I did not know what it was for.”
 
-“That is the honest answer,” said Nevin Hake, who had said the same words about his own hand in a room on the third day of the forty-first week, and who said them again in a yard in about four weeks, and who was not thanked for it then and was not thanked for it now.
+“That is the honest answer,” said Nevin Hake, who had said the same words about himself in a room on the third day of the forty-first week, and who said them again in a yard in about four weeks, and who was not thanked for it then and was not thanked for it now.
 
 ---
 

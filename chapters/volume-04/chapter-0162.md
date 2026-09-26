@@ -22,7 +22,7 @@ Then Brack put the hub down, and put a folded sheet on the trestle beside it, an
 
 Nobody said anything.
 
-“And about four hundred loads of ours will be standing on that quay on the last day of the fortysixth week with nobody to move them, because there is no second cart, and they will go into the ground or they will go into the river and it makes no difference which and I have not worked that out and I do not intend to. That is the price. It is not mine, it is the district’s, and I am not being brave about it and I am not being clever. I have worked it out on the back of this trestle with a nail and I would like somebody to say it back to me and then I would like nobody to say it again.”
+“And about a hundred loads of ours will be standing on that quay on the last day of the forty-sixth week with nobody to move them, because there is no second cart by then, and it makes no difference to me which of the two it goes into, the ground or the river, and I have not worked that out and I do not intend to. That is the price. It is not mine, it is the district’s, and I am not being brave about it and I am not being clever. I have worked it out on the back of this trestle with a nail and I would like somebody to say it back to me and then I would like nobody to say it again.”
 
 Nevin Hake said it back to him.
 
@@ -48,7 +48,7 @@ Iven Brack said, “I could not read it.”
 
 And the second sheet had his own hand on it, and Osa Trin turned it over and read it out loud, and it was four lines, and they were in a carter's hand, and the hand was better than anybody expected.
 
-> IVEN BRACK. RYEFOLD. THE TWENTY-EIGHTH DAY OF THE FORTY-FIRST WEEK. THE YARD, RYEFOLD.
+> IVEN BRACK. RYEFOLD. THE THIRD DAY OF THE FORTY-FIRST WEEK. THE YARD, RYEFOLD.
 
 “That is a man of thirty-four writing his own name in a lane,” said Wil Tamworth, who was thirty-three and the youngest of the four, “and he got the date right, and I say that because in this district nobody gets the date right and I have been one of the four of them for two years and I am including myself.”
 

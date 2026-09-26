@@ -28,7 +28,7 @@ The sheet is four hundred and six loads at the county rate, and the county rate 
 
 Four hundred and six loads at two shillings and eightpence a load is fifty-four pounds two shillings and eightpence, and the rate is the county's own rate off the register and not anybody's figure, and it is the only number in that building that anybody is going to have to use twice before the week is out.
 
-Dace Ferrow is fifty-seven and he has a wheelwright's shop two streets off that quay and he has been building carts in this county for forty-one years and he is the fourth cart on that list of four that the district owns, and he was in the second door at the third bell that morning because he has a wheel out of one of them and because he has waited since the twenty-second week of last year to be paid for a job and the reeve is eleven weeks out of wages and had told him so in person in a yard.
+Dace Ferrow is fifty-seven and he has a wheelwright’s shop two streets off that quay and he has been building carts in this county for forty-one years and he built the fourth of the four carts this district owns, and he was in the second door at the third bell that morning because he has a wheel out of one of them and because he has waited since the twenty-second week of last year to be paid for a job and the reeve is eleven weeks out of wages and had told him so in person in a yard.
 
 He listened to about four minutes of it and then said it, standing up, with a spoke in his hand, and about nine people heard him.
 

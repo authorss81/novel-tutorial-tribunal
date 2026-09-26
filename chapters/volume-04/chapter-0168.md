@@ -1,12 +1,12 @@
 # Chapter 168: Two Hundred And Forty Names
 
-The order in which a person of the district may take grain at the district price against the account is a list, and the list is kept in the reeve's hand, and it is about two hundred and forty names long, and it has been kept in the same hand for nine years, and there are two people in this district who can read that hand.
+The order in which a person of the district may take grain at the district price against the account is a list, and the list is kept in the reeve’s hand, and it is about two hundred and forty names long, and it has been kept in the same hand for nine years, and there is one person in this district who reads it.
 
-There are two. The reeve, who wrote it. And Osa Trin, who has read that hand every week for nineteen years and has never once been asked by anybody in this district whether she can.
+There is one. Osa Trin, who has read that hand every week for nine years and has never once been asked by anybody in this district whether she can. The reeve wrote it and cannot be asked about it, and that is not a formality: a woman who is asked about a thing she wrote is being asked to defend it, and nobody in this district has ever asked anybody to defend anything.
 
 Nobody in this district has ever asked Marda Fen what the list is for, and that is not because she is difficult. It is because she has been asked about it, in effect, every week for nine years, by about two hundred and forty people who turn up at the second door and hold out a hand, and a woman holding out a hand at a door is not somebody who is about to be asked a question.
 
-On the fourth day of the forty-fifth week there were about eleven people on that quay and the fourth door-bell of the week, and Ilyan Vester was at the second door with a basket on his arm that was empty and was not going anywhere, and he had been in that district thirty-eight days and had not once asked her anything, on purpose, because she had told him on the second day of the fortieth week that if he repeated any of what she had said to any of the four he would stop his wage and do it in chalk where they could read it.
+On the fourth day of the forty-fifth week, just after the fourth bell, there were about eleven people on that quay, and Ilyan Vester was at the second door with a basket on his arm that was empty and was not going anywhere, and he had been in that district thirty-eight days and had not once asked her anything, on purpose, because she had told him on the third day of the forty-first week that if he repeated any of what she had said to any of the four he would stop his wage and do it in chalk where they could read it.
 
 And then he asked her, in the open, at the second door, in a working way, with his hand on the box the chalk was in, in about nine words.
 
@@ -44,7 +44,7 @@ She put the second sheet down on the board, flat, beside the first one, and did 
 
 “Go on.”
 
-“A person who keeps a thing for other people without being asked,” said Osa Trin, “is how a district ends up with a person who cannot stop.” She took her hand off the sheet. “I have been the reader of this district since I was nineteen. I have read for four men on a bench and a reeve and about two hundred and forty households, and I have read for nothing, and nobody has ever asked me, and I have done it anyway, every week, for nineteen years, and I have got extremely good at it, and there are two people in this district who can read that hand and one of them is me and the other one is the reeve and she wrote it, and there is no office of this district, and there has not been one for nine years, and the account is in a city six miles off and it has never sent anybody.”
+“A person who keeps a thing for other people without being asked,” said Osa Trin, “is how a district ends up with a person who cannot stop.” She took her hand off the sheet. “I have been the reader of this district since I was nineteen. I have read for four men on a bench and a reeve and about two hundred and forty households, and I have read for nothing, and nobody has ever asked me, and I have done it anyway, every week, for nineteen years, and I have got extremely good at it, and there is one person in this district who reads that list and it is me, and the reeve wrote it and cannot be asked about it, and there is no office of this district, and there has not been one for nine years, and the account is in a city six miles off and it has never sent anybody.”
 
 She said the last three sentences in a completely level voice and then she said, “That is not a complaint. I want it on the record that it is not a complaint, because the last person who said that in this doorway was me, about four days ago, and I have thought about it since and I have decided that when I say a thing is not a complaint I usually am, and I have decided to stop saying it, and I have not stopped.”
 
@@ -74,7 +74,7 @@ And then the reeve gave the other number, because by that point there were about
 
 “Three shillings a load,” said Osa Trin, because she could do it and because nobody else in that doorway could.
 
-“Three shillings a load is what the register says a load is worth, and forty-one loads is six pounds three shillings,” said Marda Fen. “And a year of that protection was four hundred and sixty-two pounds, and I have never once in twenty-two years been told that figure by anybody who came to this door, and I have got it off a stranger’s sheet in a coat, and I would like the room to hold those two numbers side by side for as long as it can stand it and then never do it again, because a woman who does that is a woman who has stopped weighing grain.”
+“Three shillings a load is what the register says a load is worth, and forty-one loads is six pounds three shillings,” said Marda Fen. “And a year of that protection was four hundred and sixty-two pounds, and I have never once in twenty-two years been told that figure by anybody who came to this door, and I did not have it either until I worked it out myself on the back of a sheet in a cut week about four years ago, in about four minutes, and nobody has ever asked me whether it is right. And I would like the room to hold those two numbers side by side for as long as it can stand it and then never do it again, because a woman who does that is a woman who has stopped weighing grain.”
 
 About fourteen people in a doorway did that for about as long as anybody can do a thing like that, and then a carter asked about his own load, and the morning went back to being a morning.
 
