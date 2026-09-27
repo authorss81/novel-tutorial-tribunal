@@ -30,7 +30,7 @@ Four people said so. It was four. He did not write it down and he did not count 
 
 And then she said the sentence, and it is the sentence, and it took her about a second and a half to say and she had not been asked for it and she said it to the room, because he had asked a question in the room and in this city that is what a room is for.
 
-“*A person cannot be got out of a hall, and a person cannot be got out of a ward either, and the two of them are the same piece of paper, and that is the whole of what this week did.*”
+“*A person cannot be got out of a hall, and a person cannot be got out of a ward either, and the two of them are the same piece of paper, and that is the whole of what last week did.*”
 
 Then she lay back on the board.
 
@@ -42,7 +42,7 @@ He used the instrument twice in that hall, on a thing that is not his, in front 
 
 The first is that she is already a person in a record. There is a line for her in the book at the door of her own hall. Whatever he says about that hall now falls inside a thing that is already about her and cannot make the record any bigger and cannot make anybody look at it who is not already looking.
 
-The second is that he is the man who filled in the sixth part of the order, and everything he said in a room in the last four days landed on top of what he had already put in, and there is no way to ask a hall to separate the two, and a hall cannot be asked.
+The second is that he is the man who filled in the sixth part of the order, and everything he said in a room in the last five days landed on top of what he had already put in, and there is no way to ask a hall to separate the two, and a hall cannot be asked.
 
 ---
 
@@ -54,7 +54,7 @@ He was told there was a man with a bad leg in the room, and he asked him to come
 
 ---
 
-“*There is a thing happened this week,*” said Ivo Serrel, before he was asked anything, and he had been told about it by a neighbour who had been told about it by a woman at a standpipe, and that is how a thing travels in a ward, and it travels in about a day.
+“*There is a thing happened four days ago,*” said Ivo Serrel, before he was asked anything, and he had been told about it by a neighbour who had been told about it by a woman at a standpipe, and that is how a thing travels in a ward, and it travels in about a day.
 
 “*I know.*”
 
@@ -80,8 +80,8 @@ A bed in a hall is a place a person cannot be discharged from, and a discharge i
 
 A ward is not a person and cannot be asked, and a rule that moves a person from a hall in a low ward to a hall in any ward in this city does not move a person between two places. It moves a person from a place they are in to a place they are not, and a person in a hall is at no door, and a name comes into a ward's roll at a door, and there is no form in this country on which anybody could move a name from one address to another.
 
-So after the morning before yesterday, a person cannot be got out of a hall, and a person cannot be got out of a ward, and the two of those are one piece of paper, and the piece of paper is in a book in a chamber on the second floor of a building at the middle of the nine bridges, and nobody's name is on it, and there is no form anywhere on earth on which anybody could be asked to take it out.
+So since the fifth day of last week, a person cannot be got out of a hall, and a person cannot be got out of a ward, and the two of those are one piece of paper, and the piece of paper is in a book in a chamber on the second floor of a building at the middle of the nine bridges, and nobody's name is on it, and there is no form anywhere on earth on which anybody could be asked to take it out.
 
 That is not a lament and it is not a finding and nobody is relieved by it and the rule is not undone and the block in a gatepost at the end of a passage is still wrong and still gets nothing, and about a hundred and forty people are still dead in four columns in four wards that have not been added together and cannot be, and a woman of sixty-one in a hall at Weir Lane is better and is not going anywhere, and a man of forty-four at the top of nine steps has a better light and no paper, and a boy of eight is in a bed at the top of the city with two lines in two halls and one door.
 
-The four bells went and the fever did not stop, and nobody was thanked, and nobody was forgiven, and nobody had been asked for anything at all.
+The four bells went and the fever did not stop, and Bess Carrow lay on a board at Weir Lane with a line at the foot of it and a line in a book at a door, and Ivo Serrel had a better light and no paper, and neither of them was thanked and neither of them was asked for anything, and the sixth part of the order is on a wall at the foot of the hill and is not coming off.

@@ -1,6 +1,6 @@
 # Chapter 372: The Sixth Part Of An Order, And A Word In A Margin
 
-It was his hundred and twenty-second morning and the third day of the seventy-fifth week, and he had been in this city twenty-one days, and there were four people at the door of the room behind the chandler's shop, and he went in and sat down opposite the woman at the table and asked her a question about a piece of paper on a wall at the foot of a hill that he had never had read to him in full.
+It was his hundred and twenty-second morning and the third day of the seventy-fifth week, and he had been in this city twenty-one days, and there were four people at the door of the room behind the chandler's shop, and he went in and sat down opposite Fenna Rusk, who has been in that room for eleven years, and asked her a question about a piece of paper on a wall at the foot of a hill that he had never had read to him in full.
 
 “*Then we are going to do this the long way,*” said the woman with the book. “*I have four people at that door and none of them is going to stand at a door for an hour because a stranger is asking about a wall.*”
 
@@ -36,23 +36,23 @@ She turned the chair round, which is what she does when she is going to do somet
 
 “*Say the difference.*”
 
-And she said it, and it took her a moment to find it, and he understood that she had been carrying it for twelve weeks without knowing she was carrying it.
+And she said it, and it took her a moment to find it, and he understood that she had been carrying it for weeks without knowing she was carrying it.
 
 “*A refusal is a way of not being in it,*” she said. “*You are not in it. You never were. It is not yours and you do not have to get out of it. And an exit is a way out of a thing you are in, and you have to be in it first, and the way out has to be a door and the door has to be somewhere you can get to. Only one of those can be written by a magistrate in a week. The one that is written is the one where the rule says it stops, and that is a refusal in everything but the ink and there is not one of them in this city.*”
 
 “*Nobody in this city has one.*”
 
-“*Nobody in this city has one and nobody has ever asked for one in my hearing, and I have been in this room eleven years and I have read things for people in this city for thirty-one years,*” said the woman with the book, “*and when somebody asks me what a rule is for I have always been able to say the first five parts, and I have never once been able to say the sixth, and it has been sitting on a wall in this city for twelve weeks with a word in the margin and I have walked past it.*”
+“*Nobody in this city has one and nobody has ever asked for one in my hearing, and I have been in this room eleven years and I have read things for people in this city for thirty-one years,*” said the woman with the book, “*and when somebody asks me what a rule is for I have always been able to say the first five parts, and I have never once been able to say the sixth, and it has been sitting on a wall in this city since the water came with a word in the margin and I have walked past it.*”
 
 ---
 
 “*Why is that paper the only one in this city with a sixth part in it.*”
 
-“*I do not know,*” she said. “*I have not looked. I do not look at that wall. I look at a book with names in it and I do not have any business with a piece of paper on a wall and you have just told me that I have been reading it in my head for twelve weeks without knowing I was reading it, so I will tell you the honest answer, which is that I do not know, and go and ask somebody whose job it is.*”
+“*I do not know,*” she said. “*I have not looked. I do not look at that wall. I look at a book with names in it and I do not have any business with a piece of paper on a wall and you have just told me that I have been reading it in my head for as long as I can remember without knowing I was reading it, so I will tell you the honest answer, which is that I do not know, and go and ask somebody whose job it is.*”
 
 “*Whose job is it.*”
 
-“*That is the whole of the problem in your city and you have been in it twenty-one days,*” said the woman with the book. “*There is no post in this city that has the care of a piece of paper on a wall. A rule is a thing that is read out to the people it is about, and a rule that is not read out is a thing that hangs on a wall, and I have never been given it to read out and neither has the woman at this door and neither has the man of twenty-eight at the end of the row.*”
+“*That is the whole of the problem in your city and you have been in it twenty-one days,*” said the woman with the book. “*There is no post in this city that has the care of a piece of paper on a wall. A rule is a thing that is read out to the people it is about, and a rule that is not read out is a thing that hangs on a wall, and I have never been given it to read out and neither has the woman at this door and neither has the woman of twenty-eight at the end of the row.*”
 
 ---
 
@@ -114,4 +114,4 @@ He did not ask her who had bought it. He had made up his mind about that on the 
 
 And he stood in the cold at the end of a row in a low ward and did not say a price out loud, and he noticed that he had not, and he could not tell whether that was discipline or cowardice, and there was nobody in four hundred yards to ask.
 
-The four bells went. In a room at the back of a chandler's shop a woman of forty-four had told a stranger a thing about a wall that she has not said to anybody in eleven years, and in a low ward a woman of twenty-eight had a paper of chalk she had not asked for, and a boy of eight at the end of a run of boards in a hall at the end of this ward was watching a pail, and nobody in any of those three places had been asked anything at all.
+The four bells went. In a room at the back of a chandler's shop Fenna Rusk had told a stranger a thing about a wall that she has not said to anybody in eleven years, and her name is on a sheet in a building at the middle of the nine bridges because of him, and in a low ward a woman of twenty-eight had a paper of chalk she had not asked for, and a boy of eight at the end of a run of boards in a hall at the end of this ward was watching a pail, and nobody in any of those three places had been asked anything at all.

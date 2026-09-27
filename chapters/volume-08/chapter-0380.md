@@ -2,11 +2,11 @@
 
 On the fourth day of the seventy-sixth week, which was his hundred and thirtieth morning and his twenty-ninth in a city he came to on foot, the fever was thirteen weeks and six days old, and six days ago a part of an order stood. There is a bench date bought in a book in this city, and a plate that is not going to be cut, and a woman of twenty-eight at the end of a row who is out of nothing, and there is a sheet of a chandler's bill for candles folded into four in the inside pocket of a coat with four clauses and a half on it and a line struck through before the fifth.
 
-He did not file it. He is not going to file it in this city at all, and the reason was a woman of sixty with a bundle who had walked out of a room on the third day of the fourth week of this city's counting, and it is twenty-two days old now and it is untorn.
+He did not file it. He is not going to file it in this city at all, and the reason was a woman of sixty with a bundle who had walked out of a room on his fifteenth morning in this city, and it is twenty-two days old now and it is untorn.
 
 ---
 
-The room at the back of the chandler's shop at the third hour, and there were four people at the door and a lamp on, and he sat down opposite the woman at the table and asked her a money question, which is the fourth time he has asked her for one in twenty-nine days and the third time he has asked her one on purpose.
+The room at the back of the chandler's shop at the third hour, and there were four people at the door and a lamp on, and he sat down opposite Fenna Rusk and asked her a money question, which is the fourth time he has asked her for one in twenty-nine days and the third time he has asked her one on purpose.
 
 “*What did last week's thing cost.*”
 
@@ -20,7 +20,7 @@ The woman with the book put her pen down.
 
 ---
 
-“*This ward's own two hundred names are four shillings the hundred, which is eight shillings for the two hundred, which is ninety-six pence,*” she said, “*and two hundred and eighty-two less ninety-six is a hundred and eighty-six pence. The three hundred names in the fair hand on the second floor are twelve shillings, which is a hundred and forty-four pence, and two hundred and eighty-two less a hundred and forty-four is a hundred and thirty-eight pence. Three differences off one bench date. All three of them are in a book upstairs in a fair hand with the working in it, and all three of them were said out loud in a public room in this city in the last month.*”
+“*This ward's own two hundred names are four shillings the hundred, which is eight shillings for the two hundred, which is ninety-six pence,*” she said, “*and two hundred and eighty-two less ninety-six is a hundred and eighty-six pence. The three hundred names in the fair hand on the second floor are twelve shillings, which is a hundred and forty-four pence, and two hundred and eighty-two less a hundred and forty-four is a hundred and thirty-eight pence. Three differences off one bench date. All three of them have been said out loud in this city in the last month and two of them are in a book upstairs in a fair hand with the working in it, and the two are the two that are not mine.*”
 
 “*And none of them is going to be spent.*”
 
@@ -36,7 +36,7 @@ And she gave him the last of it, and it is the only money in this that is not in
 
 She turned the chair round.
 
-“*And the other unit,*” she said, “*and I am giving it to you because you will not get it anywhere else and because it is the only price in this city that is not a lie. A door costs a visit. That is the unit and it has always been the unit and there is no other price on it in this country. A visit is what one person spends on one door. And the price of what you did on the fifth day of this week is one visit, and it is not nine hundred, and it is not four hundred and twenty days, and it is not the three hundred, and it is one, and it is mine, and you cannot pay it because you are not on a door and there is no door in this ward that you can pay anything at, and I have told nobody that until now and I am telling you because you asked me a question.*”
+“*And the other unit,*” she said, “*and I am giving it to you because you will not get it anywhere else and because it is the only price in this city that is not a lie. A door costs a visit. That is the unit and it has always been the unit and there is no other price on it in this country. A visit is what one person spends on one door. And the price of what you did on the fifth day of last week is one visit, and it is not nine hundred, and it is not four hundred and twenty days, and it is not the three hundred, and it is one, and it is mine, and you cannot pay it because you are not on a door and there is no door in this ward that you can pay anything at, and I have told nobody that until now and I am telling you because you asked me a question.*”
 
 ---
 
@@ -50,7 +50,7 @@ He sat in a room with a book in it and did not say one word for about a minute, 
 
 And then she said the thing about him, and she has been carrying it since his tenth morning in this city, and it is the only opinion she has ever given him and it is not an opinion about the order.
 
-“*You are going to carry that paper in your coat for as long as you are in this city,*” she said, “*and it has four clauses and a half on it and there is a line struck through before the fifth, and the fifth names me. And on the fifth day of this week you put three sentences into an order and they have nobody at the foot of them. And the difference between the two is that the paper in your coat has my name on it and the order has nobody's, and you have spent twenty days being careful about your own name and about mine, and neither of those two things is what is going to cost you, and I am not going to tell you what is, because you will find out and I would rather not be the one who said it.*”
+“*You are going to carry that paper in your coat for as long as you are in this city,*” she said, “*and it has four clauses and a half on it and there is a line struck through before the fifth, and the fifth names me. And on the fifth day of last week you put three sentences into an order and they have nobody at the foot of them. And the difference between the two is that the paper in your coat has my name on it and the order has nobody's, and you have spent twenty days being careful about your own name and about mine, and neither of those two things is what is going to cost you, and I am not going to tell you what is, because you will find out and I would rather not be the one who said it.*”
 
 “*That is fair.*”
 
@@ -58,9 +58,9 @@ And then she said the thing about him, and she has been carrying it since his te
 
 ---
 
-He was in the row at about the sixth hour with the chalk and the strings and the slate of a woman of twenty-eight and nothing at all in his hands, and there is a bench at the end of the ninth row in Tallowgate where a man of sixty sits in the afternoon, and nine words of what that man said three days ago will still be true in a month, and there is no paper on earth on which anybody can write that a person has gone home.
+He was in the row at about the sixth hour with the chalk and the strings and the slate of a woman of twenty-eight and nothing at all in his hands, and there is a bench at the end of the ninth row where a man of sixty sits in the afternoon, and nine words of what that man said three days ago will still be true in a month, and the only thing that would make them false is a piece of paper, and the sixth part of an order is not a piece of paper about anybody, and a boy in a bed at the top of this city is not discharged by it.
 
-He did not say the price out loud. He has not said a price out loud since the third day of this week and nobody has asked him to and nobody in this city has noticed that he stopped, and the four bells went over the low end of Tallowgate at the last of the light and the fever did not stop for the counting of it or for anything else.
+He did not say the price out loud. He has not said a price out loud since the fourth day of last week and nobody has asked him to and nobody in this city has noticed that he stopped, and the four bells went over the low end of Tallowgate at the last of the light and the fever did not stop for the counting of it or for anything else.
 
 And here is the whole of what these days were, and it is short, and not one item of it is a lament and not one item of it is a resolution.
 
@@ -72,7 +72,7 @@ Three hundred names in four wards that were a gap with a price on it are not a g
 
 About a hundred and forty people are dead in four columns in four wards that have not been added together and cannot be, and they stay dead, and they are remembered as dead. The porch in a valley is gone and has no copy in four hundred miles. The corridor stands. A bell in a county four hundred miles off is unhung and is owed and nobody is buying it. The block in a gatepost is still wrong and still gets nothing.
 
-A bed in a hall is a place a person cannot be discharged from, and there is no discharge paper and no office that issues one, and after this week a ward is a place a person cannot be got out of either, and the two of them are the same piece of paper.
+A bed in a hall is a place a person cannot be discharged from, and there is no discharge paper and no office that issues one, and since the fifth day of last week a ward is a place a person cannot be got out of either, and the two of them are the same piece of paper.
 
 Nobody was thanked. Nobody was forgiven. Nobody was relieved. Nobody was asked.
 

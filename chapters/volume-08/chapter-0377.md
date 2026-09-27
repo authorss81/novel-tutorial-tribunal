@@ -74,7 +74,7 @@ Nobody said anything for a moment. At the end of the row the woman with the chil
 
 “*You are not going to give it to me.*”
 
-“*I am going to give it to you, and I have not given it to anybody in this ward in fourteen years,*” he said, “*and here is the price of it and I am saying the price out loud before I do it, because a stranger stood under a board in a room at the top of the hill earlier this week and said a price out loud before he asked for something, and four people in this city have told me about it and I have not been able to work out for a week why a stranger would do that, and I have worked out tonight.*”
+“*I am going to give it to you, and I have not given it to anybody in this ward in fourteen years,*” he said, “*and here is the price of it and I am saying the price out loud before I do it, because a stranger stood under a board in a room at the foot of the hill four days ago and said a price out loud before he asked for something, and four people in this city have told me about it and I have not been able to work out for a week why a stranger would do that, and I have worked out.*”
 
 ---
 

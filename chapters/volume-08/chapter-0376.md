@@ -20,7 +20,7 @@ Nobody said anything.
 
 The boy of sixteen had the barrow outside the door and he had not moved.
 
-“*One. It was a man with a bad leg who asked for it. He is not a magistrate and he is not in this ward. He said the price of it out loud in a room at the top of the hill on the fourth day of the week with four people in it, and a clerk wrote it down, and there is no name at the top of the paper that went up, and there is no name at the bottom of the page in the book either, and that is on purpose, and he did that on purpose, and he is not in this city on anything and there is no form in this city on which he could be asked about it.*”
+“*One. It was a man with a bad leg who asked for it. He is not a magistrate and he is not in this ward. He said the price of it out loud in a room at the foot of the hill on the fourth day of the week with four people in it, and a clerk wrote it down, and there is no name at the top of the paper that went up, and there is no name at the bottom of the page in the book either, and that is on purpose, and he did that on purpose, and he is not in this city on anything and there is no form in this city on which he could be asked about it.*”
 
 “*Two. The rule will move the worst first. The worst are the ones who are already inside, and being inside is the fever, and the fever is in the people whose names are on a roll of their own ward. So the first people it moves are people from a hall in a low ward, and the rule does not care which low ward, and it will not ask you.*”
 
@@ -74,4 +74,4 @@ The woman on the stool goes to the door and says it to her, and it is a short th
 
 ---
 
-The four bells went at the last of the light over nine hundred doors in a ward a mile and a half long, and the man with the bad ear was at the end of the beds rubbing out a number on the wall board and chalking a number that was less wrong, and the boy of sixteen had the barrow against the wall of a shed, and the woman on the stool was on the stool, and a man with a bad leg went up the row with a leg that will not clear and nothing at all in his hands, and nobody in that hall had been thanked, and nobody had been relieved, and nobody had been asked.
+The four bells went at the last of the light over nine hundred doors in a ward a mile and a half long, and the man with the bad ear was at the end of the beds rubbing out a number on the wall board and chalking a number that was less wrong, and the boy of sixteen had the barrow against the wall of a shed, and the woman on the stool was on the stool, and a man with a bad leg went up the row with a leg that will not clear and nothing at all in his hands, and not one person in that hall was thanked, and the woman on the stool will be on that stool in the morning.

@@ -34,7 +34,7 @@ He waited.
 
 Nobody said it.
 
-“*Two. It is right. I have sat on this stool for three weeks and I have worked out in my head at the rate of two doors a day that the worst thing in this city about that boy was not the fever and it was not the cold and it was not a bed, it was that he was inside, and being inside was the wall, and somebody in this city went and took a wall down this morning with three sentences and a pen, and whoever did it did not have to touch him to do it, and I have not been asked for anything and I have not been thanked and I am not going to be.*”
+“*Two. It is right. I have sat on this stool for three weeks and I have worked out in my head that the worst thing in this city about that boy was not the fever and it was not the cold and it was not a bed, it was that he was inside, and being inside was the wall, and somebody in this city went and took a wall down this morning with three sentences and a pen, and whoever did it did not have to touch him to do it, and I have not been asked for anything and I have not been thanked and I am not going to be.*”
 
 ---
 
@@ -56,11 +56,11 @@ And nobody in that hall thanked anybody, and the woman on the stool did not, and
 
 ---
 
-Tarin Keel was at the end of the row at the change with a piece of lead in his coat and chalk on the back of one hand, and he had been at the low hall at the end of this ward since the beginning of last week counting what came through the door, and nobody had asked him to and nobody had told him to stop, and both of those were the worst part of it.
+Tarin Keel was at the end of the row at the change with a piece of lead in his coat and chalk on the back of one hand, and he had been at the low hall at the end of this ward since the second week of the fever counting what came through the door, and nobody had asked him to and nobody had told him to stop, and both of those were the worst part of it.
 
 He looked at the barrow going up the row and then he looked at the man with the leg.
 
-“*You are a man who says prices,*” he said. “*I count things. It is what I have been for nineteen years and there is no form in this city that says I may stop. I have counted four of yours in three weeks, because I count them, and every one of them was a true thing and every one of them cost somebody something, and the last one was in a room at the top of the hill with a clerk in it and I was not in that room and I have not slept properly since the change.*”
+“*You are a man who says prices,*” he said. “*I count things. It is what I have been for nineteen years and there is no form in this city that says I may stop. I have counted four of yours in three weeks, because I count them, and every one of them was a true thing and every one of them cost somebody something, and the last one was in a room at the foot of the hill with a clerk in it and I was not in that room and I have not slept properly since the change.*”
 
 “*I know.*”
 
@@ -94,4 +94,4 @@ And then she said the rest of it, standing at a standpipe at the last of the lig
 
 “*I knew that before you came down the row, and I am not going to hold you to it, and it is a good bed.*”
 
-She filled the pail and went home, and the four bells went over the low end of Tallowgate, and a boy of eight was in a bed at the top of the city with a blanket round him and a line in chalk at the foot of a board at the end of a run of boards, and his mother was at the standpipe in the morning and would be at the standpipe in the morning, and nobody in this city had been asked anything, and nobody had been thanked, and nobody was relieved.
+She filled the pail and went home, and the four bells went over the low end of Tallowgate, and a boy of eight was in a bed at the top of the city with a blanket round him and a line in chalk at the foot of a board at the end of a run of boards, and his mother would be at the standpipe again in the morning, and the woman on the stool would say the same short thing at that door every morning for the rest of her life, and nobody in this city is going to thank her for that either.

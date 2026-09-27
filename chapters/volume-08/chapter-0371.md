@@ -140,4 +140,4 @@ She had been being careful about the only thing there is to be careful about in 
 
 And a rule with no name at the foot of it is the only thing on earth that can get him a bed this week.
 
-That is what he worked out at a gate, and he said the price of it out loud to nobody, because there was nobody within four hundred yards, and the four bells went over the low end of Tallowgate the way they do, and the number on the board at the end of the beds had gone up by one on the morning before this one and had not come down by one since the eighth morning of the fever, and the boy was still at the end of the run of boards, watching the pail.
+That is what he worked out at a gate, and he said the price of it out loud to nobody, because there was nobody within four hundred yards, and the four bells went over the low end of Tallowgate the way they do, and the number on the board at the end of the beds was the same number it had been on the morning he came down to it, and the boy was still at the end of the run of boards, watching the pail.

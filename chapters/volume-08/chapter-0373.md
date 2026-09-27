@@ -34,7 +34,7 @@ He stopped for a breath and went on.
 
 ---
 
-“*And I have not asked one of them,*” he said. “*Not the three hundred. Not the people in the halls. Not the woman of twenty-eight at the end of the row, who found the boy and has been going to nine hundred doors on her own account for ten days. Not the woman in the room behind the chandler's shop, who told me yesterday that she has read a wall for twelve weeks without knowing she was reading it. I have asked this room, and I am saying it in this room on purpose, and the reason I am saying it in this room is that this room is the only thing I have got and there is nothing else in four hundred miles I could have used.*”
+“*And I have not asked one of them,*” he said. “*Not the three hundred. Not the people in the halls. Not the woman of twenty-eight at the end of the row, who found the boy and has been going to nine hundred doors on her own account for thirteen days. Not the woman in the room behind the chandler's shop, who told me yesterday that she has read a wall for weeks without knowing she was reading it. I have asked this room, and I am saying it in this room on purpose, and the reason I am saying it in this room is that this room is the only thing I have got and there is nothing else in four hundred miles I could have used.*”
 
 He put his hand flat on the table, the way a man does when he has finished saying a price.
 

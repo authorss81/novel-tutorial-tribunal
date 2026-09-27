@@ -22,7 +22,7 @@ He took the wheel off the plate and set it down and washed his hands in a bucket
 
 “*Four shillings the hundred,*” he said. “*Two hundred names in this ward is eight shillings. Three hundred names is twelve shillings. I have been cutting lines for thirty-one years and there has not been a year in them that I did not cut at least one, and the two hundred that were cut in the last two years were paid for out of two women's own hands and neither of them would say what for, and there is no money in this ward and has not been for two years.*”
 
-“*That is the same as what you told me a fortnight ago.*”
+“*That is the same as what you told me on the fourteenth.*”
 
 “*It is the same because it is a price and a price does not move,*” said Bevin Tarr, “*and I am going to say the other half of it and then I am going to ask you a question and you are not going to be able to answer it, and I have thought about nothing else since the change yesterday.*”
 
@@ -60,7 +60,7 @@ And he cut. He cut for four hours with a wheel in a shed at the low end of a low
 
 ---
 
-The room at the back of the chandler's shop at the fifth hour, and there were six people at the door and a lamp on, and the woman at the table put her pen down because he had not said anything and she could tell.
+The room at the back of the chandler's shop at the fifth hour, and there were six people at the door and a lamp on, and Fenna Rusk put her pen down because he had not said anything and she could tell.
 
 “*You have come down here to tell me a thing and you have not said it,*” she said.
 
