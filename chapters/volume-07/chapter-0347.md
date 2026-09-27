@@ -1,6 +1,6 @@
 # Chapter 347: A Man With A Cart Says The Seventh Thing Out Loud And Nobody Asked Him
 
-There is no figure for this morning. The wall with the day on it is two miles up a lane at the far end of it, and a woman of forty-one was on a ladder against it at the second light, and he was a mile off at the top gate of a road with nine houses on it with a leg, and the second light is the only time that figure is on that wall.
+No figure for this morning. Two miles up a lane at the far end of it there is a wall, and the day goes on it at the second light and at no other hour, and at the second light this morning a woman of forty-one was on a ladder against it. He was a mile off at the top gate of a road with nine houses on it with a leg.
 
 The day came to four bells and a stranger, which is seven, and the stranger is him, and there has not been a stranger in that lane since he came through it with a sentence in his mouth in the middle of the last month and was stopped by a man with a cart.
 

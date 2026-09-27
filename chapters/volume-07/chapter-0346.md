@@ -1,8 +1,8 @@
 # Chapter 346: A Day On Which Nothing Is Asked Of Him
 
-There is no plank in this village and there is no figure on any wall in it, and the plank is eleven miles up a lane and off it, and he was in a lane at the end of this road at the second light and the second light is the only time a figure is on that wall and there is nothing at the end of this road that carries one.
+There is nothing at the end of this road that carries a figure, and there is no plank in this village and no figure on any wall in it. The plank is eleven miles up a lane and off it, and a figure only goes on that wall at the second light, and at the second light he was in a lane at the end of this road with a leg and his hands empty.
 
-The day came to four bells and nothing whatever on top of them, which is four, and four bells is the one weight in this county that does not belong to a county, and a day with nothing on it does not care what county a man is standing in or what he has come here for.
+Four bells and nothing whatever on top of them, which is four, and four bells is the one weight in this county that does not belong to a county, and a day with nothing on it does not care what county a man is standing in or what he has come here for.
 
 It was his ninety-sixth morning, and there was nothing in it, and he had ninety-six mornings of not writing one line down in this country to get through and he got through them.
 
@@ -22,7 +22,7 @@ He went on with it. There was no second sentence that morning and he was not ask
 
 ---
 
-The woman of about thirty-two at the standpipe at the end of the lane had a wash and a child and an hour, and she counts the water the way a person counts on a wall, which is not counting the water, it is counting the length of the queue, and it is the same arithmetic and it is the only clock she has got.
+The woman of about thirty-two at the standpipe at the end of the lane had a wash and a child and an hour, and she counted the water the way a person counts on a wall, which is not counting the water, it is counting the length of the queue, and it is the same arithmetic and it is the only clock a person in her place has got.
 
 He stood at the standpipe for forty minutes because there was nowhere else to stand.
 

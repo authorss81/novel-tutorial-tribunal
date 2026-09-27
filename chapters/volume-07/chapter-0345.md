@@ -1,6 +1,6 @@
 # Chapter 345: Four Hundred Yards Of Hedge On A Morning That Was Not One Of The Nine
 
-There is no figure for this morning. The wall with the day on it is nine miles up the lane at the far end of it, and a woman of forty-one was on a ladder against it at the second light putting a day on it, and he was at a north gate at the north end of four hundred yards of somebody else's hedge with a leg and a spade he had not asked for.
+The wall with the day on it is nine miles up this lane at the far end of it, and at the second light a woman of forty-one was on a ladder against it, and he was not nine miles up this lane. He was at a north gate at the north end of four hundred yards of somebody else's hedge, with a leg and a spade he had not asked for, and there is no figure for this morning.
 
 The day came to four bells and a boundary, which is eleven, and a boundary is a boundary in this county and there is one four hundred yards long at the end of this village, and it is not on that plank, and the market of a town four days up the lane is on nothing at all.
 

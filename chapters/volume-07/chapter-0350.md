@@ -1,6 +1,6 @@
 # Chapter 350: Nine Copies And Nobody Who Holds The Inventory
 
-There is no figure for this morning. The plank is at the far end of the lane, nine miles up it, and a woman of forty-one was on a ladder against it at the second light, and he was in a market in the tenth village with a leg, and the day she put on that wall is not available to him in any way at all.
+There is no figure for this morning, and the wall it goes on is at the far end of the lane, nine miles up it, and at the second light a woman of forty-one was on a ladder against it, and he was in a market in the tenth village with a leg. What she put on that wall this morning he is not going to have, and there is no road in this county that would bring it to him.
 
 The day came to four bells and a market, which is eight, and the market is at the end of the road in the tenth village and it is in this county and it is on that plank, and there is one market on a day however many villages are having one, and the market four days up the lane is not this one and is not on anything.
 

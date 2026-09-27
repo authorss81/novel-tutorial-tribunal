@@ -1,8 +1,8 @@
 # Chapter 349: What A Hundred And Forty People Build In Nine Weeks Because They Have To
 
-There is no figure for this morning. The plank is at the far end of the lane, nine miles down it, and a woman of forty-one was on a ladder against it at the second light, and he was at the end of a lane eleven miles off the main one with a leg, and the day she put on that wall is not available to him in any way at all.
+There is no figure for this morning. The plank is at the far end of the lane, nine miles down it, and a woman of forty-one was up a ladder against it at the second light, and he was at the end of a lane eleven miles off the main one with a leg, and the day she put on that wall is not available to him in any way at all.
 
-The day came to four bells and nothing whatever on top of them, which is four. There is no market in this village today and no stranger in it but him, and no debt called in, and no boundary walked, and no burial and no fire, and the day after a fire in this county is a day with nothing on it and that is not a mystery and nobody in it is thinking about it.
+Four bells, and nothing whatever on top of them, which is four, and that is the whole of what this morning weighs. There is no market in this village today and no stranger in it but him, and no debt called in, and no boundary walked, and no burial and no fire, and the day after a fire in this county is a day with nothing on it and that is not a mystery and nobody in it is thinking about it.
 
 It was his ninety-ninth morning. The day before, a porch in a valley of sixty people had gone out between the fourth hour and the last of the light, and nobody in four hundred miles had put it out and nobody in four hundred miles was going to.
 

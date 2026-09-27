@@ -1,6 +1,6 @@
 # Chapter 344: Six Things Laid Beside One Another And No Join Between Any Of Them
 
-There is no plank in this village and there is no figure on any wall in it, and the plank is eleven miles up a lane and off it, and the second light found a woman of forty-one on a ladder against that wall and a stranger with a bad leg in a room over a smithy with four people in it, and he was not one of them and the day she put on that wall is not available to him in any way at all.
+At the second light a woman of forty-one was on a ladder against a wall eleven miles up a lane and off it, and there is no plank in this village and no figure on any wall in it. The stranger with the bad leg was in a room over a smithy with four people in it and was not one of them, and the day she was putting on that wall is not available to him in any way at all.
 
 The day came to four bells and a debt called in, which is six, and the debt was called in at a door in this village and not at any other, and four bells is four and a debt called in is two, and a boundary is four hundred yards up a lane in another village and is not on this day.
 
