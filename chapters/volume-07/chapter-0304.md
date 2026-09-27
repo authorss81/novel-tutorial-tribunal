@@ -2,7 +2,7 @@
 
 The figure the woman of forty-one wrote on the plank on the fifth morning of the sixty-fifth week, at the second light, was sixty-three thousand eight hundred and sixty-three, and he had it from a man of about thirty-eight who had been at Coldharrow that morning on other business, who had gone up the lane afterwards in a cart because he was going this way as well, and who had stood at the foot of the ladder at the second light, because he is a man who counts other people's money and a wall with a figure on it is a thing he cannot walk past.
 
-He said the number out loud in a kitchen in Ashgill without looking at anything, in the manner of a man who has been adding things up in his head for eleven years, and then he said that it was a day old by the time anybody asked and that nobody had told him the second figure yet and that he would be back down the lane in a week to get it.
+He said the number out loud in a kitchen in Ashgill without looking at anything, in the manner of a man who has been adding things up in his head for eleven years, and then he said that it was that morning's and not yesterday's, that nobody had told him the second figure yet and that he would be back down the lane in a week to get it.
 
 It was his fifty-fourth morning in this country and he was on the fourth day of a walk to a market four days up the lane, in a country further from the Seat than this one, and the day at the bottom end of that lane was four bells and a debt called in at the fourth house, and it was a day he was not in, and he heard about it before the noon bell from a boy of seventeen who had come down to tell him something else and had stayed to tell him that as well.
 
@@ -18,7 +18,7 @@ That is the whole of what the boy said and he said it standing up and then went 
 
 The debt got up the lane faster than he did, which is a thing a lane does and which is the only real difference between a lane and a road anybody has ever found.
 
-A man of about twenty came up the track at about the ninth hour with a scythe over his shoulder, going up to cut nine days of hedge he has owed a man at the top since the spring and has not cut, and he stopped, and he said, in the voice a man uses when he has come four miles to deliver nine words and has already been asked for three of them:
+A man of about twenty came up the track at about the ninth hour with a scythe over his shoulder, going up to cut a length of hedge he has owed a man at the top since the spring and has not cut, and he stopped, and he said, in the voice a man uses when he has come four miles to deliver nine words and has already been asked for three of them:
 
 “The fourth house at the bottom. Debt called in before the middle of the day and the door shut and the man not paid. That is all of it. I have brought it up the lane and I am going back, and there is nothing else in Coldharrow this morning.”
 
@@ -26,7 +26,7 @@ He said it to a yard with four people in it, and the four of them asked him four
 
 Nobody in that yard said the word *debt* twice. About four of them had worked out in nine seconds that the man of thirty-one who went up this lane on the second morning is the reason anybody at the fourth house knows that a man of thirty-one exists at all, and about nine had not, and neither of those groups said anything.
 
-He was not there. He was four days up a lane with a leg and had not asked, and there is no form in eleven villages that says a man may ask, and so a debt was called in at a bar and a door was shut and it was nine miles back and it belonged to nobody and it was going to be all right, and the whole of what he learned from it was that a thing goes up a lane on a man's own legs faster than a man goes up a lane on his own.
+He was not there. He was four days up a lane with a leg and had not asked, and there is no form in eleven villages that says a man may ask, and so a debt was called in at a bar and a door was shut and it was eleven miles back and it belonged to nobody and it was going to be all right, and the whole of what he learned from it was that a thing goes up a lane on a man's own legs faster than a man goes up a lane on his own.
 
 ---
 

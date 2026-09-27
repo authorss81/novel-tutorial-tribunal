@@ -6,7 +6,7 @@ That is the whole of a courtesy and it is the first one anybody has done him in 
 
 ---
 
-The village he came to is called Ashgill and it is about six miles up the lane and has about a hundred and ten people in it, and nobody there has ever called it a village out loud; it is a place where people are, and it has a lane through it with a bar at the north end that is not shut for a different reason from the other bars, because the bar there is not for a levy at all, it is for a bull that is nine years old and has opinions.
+The village he came to is called Ashgill and it is about three miles up the lane and has about a hundred and ten people in it, and nobody there has ever called it a village out loud; it is a place where people are, and it has a lane through it with a bar at the north end that is not shut for a different reason from the other bars, because the bar there is not for a levy at all, it is for a bull that is nine years old and has opinions.
 
 He got there at about the fourth hour with a leg that was the leg and no reason.
 

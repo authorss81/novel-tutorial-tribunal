@@ -1,6 +1,6 @@
 # Chapter 307: The Ninth In The Line
 
-What the woman of forty-one wrote on the plank at Coldharrow on the first morning of the sixty-sixth week, at the second light, was sixty-three thousand eight hundred and seventy-four, and he had it from a man of about thirty-eight who had been at Coldharrow on the second day of the week on other business, and who had said, in a lane, without being asked, that he had gone up to the tower and looked at the wall, and then had said the number out loud in the manner of a man who has been adding things up in his head for eleven years and does not need the paper.
+What the woman of forty-one wrote on the plank at Coldharrow on the first morning of the sixty-sixth week, at the second light, was sixty-three thousand eight hundred and seventy-four, and he had it from the man of about thirty-eight, who had been at Coldharrow at the second light that same morning on other business, and who had said, in a lane, without being asked, that he had gone up to the tower and looked at the wall, and then had said the number out loud without looking at anything, in the voice of a man who has had a figure by heart for eleven years and does not need the paper.
 
 It was his fifty-seventh morning in this country and he was eleven miles down the lane and off it at a place with a name on a sign and a bar, and the stranger of that day was a woman of about thirty who was standing in a gateway not doing anything.
 

@@ -2,7 +2,7 @@
 
 He came down the lane on a cart, and the cart was a two-wheeled timber thing with the load taken off it, and the beast was a grey one about fourteen hands with feet that were bad in the wet, and it did four days of walking in a day and a half, and the man of thirty-one sat on the shafts for the last two miles because the shafts were the only thing that did not hurt.
 
-It was the last day of the sixty-fifth week and his fifty-sixth morning in this country, and the day at the bottom end of the lane, where he had been eleven days before, had come to four bells and one more that was on nobody's list.
+It was the last day of the sixty-fifth week and his fifty-sixth morning in this country, and the day at the bottom end of the lane, where he had been five days before, had come to four bells and one more that was on nobody's list.
 
 He was not going to find out what the one more was. The woman of forty-one would know by the second bell, standing on the third of the four rungs with a cloth over her shoulder, and she would not tell him, and nobody was going to ask her, and that is the correct arrangement and he was not going to be the one who broke it.
 
@@ -14,7 +14,7 @@ The morning after the offer, the town knew. He had said out loud on a bridge tha
 
 By that evening there was a version of it that was larger than what he had said, and two men had already begun the two days of riding that it was going to cost them. He heard the version from a carter on a hill and he wrote it down in his own head so that it could not grow: *he can tell you what a thing is hiding and he has not charged anybody and there is a man in a market four days up the lane that nobody has to pay.* That was the version. It was wrong in three places and it was being repeated by people who had never been in the room, and there was no instrument in four hundred miles that could put the right one back in, and he could not have corrected it if he had stood in every yard in that town at once.
 
-And on the second morning after the offer, which was the morning he left, two men had come up the lane and gone back down it again, and they were in the market street at about the first hour.
+And on the morning after the offer, which was the morning he left, two men had come up the lane and gone back down it again, and they were in the market street at about the first hour.
 
 ---
 
@@ -40,7 +40,7 @@ He did not say what the carter’s boy had said.
 
 He waited, in the way a man waits who has expected better and has got the ordinary thing and is not going to complain about it.
 
-“That is all she said. *It is a wet road.* And she said it to us in a street with about nine people in it and then she went back to the scales, and my brother here has been carrying it for two days and he is going to be honest with you, he is not the man to be honest with you, I am. He wanted to come up a third time.”
+“That is all she said. *It is a wet road.* And she said it to us in a street with about nine people in it and then she went back to the scales, and my brother here has been carrying it for two days and he is not the man to be honest with you, I am. He wanted to come up a third time.”
 
 “I did,” said the younger one.
 
@@ -50,7 +50,7 @@ He waited, in the way a man waits who has expected better and has got the ordina
 
 He touched the horse’s neck.
 
-“So there is nothing to have,” he said. “I have come two days to tell you there is nothing to have and I have said it and I am going home. I am not being kind. I have nine quarters of chalk at home that came over your bridge two days ago and I did not know whether to believe them and now I do, and that is worth two days on a horse. My brother here is going to keep saying that you can tell a man what he is hiding at a market, and and he is wrong, and I am going to tell him he is wrong for the rest of his life, and you did not cost me anything to do it.”
+“So there is nothing to have,” he said. “I have come two days to tell you there is nothing to have and I have said it and I am going home. I am not being kind. I have nine quarters of chalk at home that came over your bridge two days ago and I did not know whether to believe them and now I do, and that is worth two days on a horse. My brother here is going to keep saying that you can tell a man what he is hiding at a market, and he is wrong, and I am going to tell him he is wrong for the rest of his life, and you did not cost me anything to do it.”
 
 They rode on down the lane. The cart went on behind them. And four days up the lane, a woman of fifty-eight stood at a set of scales in a market street and put a weight on a beam she had not read for nine years, and nobody in that town ever knew she had said nine words to two men she had met once.
 

@@ -1,8 +1,8 @@
 # Chapter 308: Fifteen Pounds Fifteen
 
-There is no plank in the tenth village. What there is, is a woman of about thirty-four behind a bar at the end of this lane, eleven miles down and off it and a long way from the woman of thirty-four with a bar she cannot lift alone, four days the other way, with a board under her arm that has four letters and a stroke at the top of it, and about nine loads on a market morning, and she read every one of them off her own board and did not ask the man of thirty-one anything, because he had been in this village twice before and she counts strangers.
+There is no plank in the tenth village. What there is, is a woman of about thirty-four behind a bar at the far end of the tenth village, eleven miles down and off the lane, who is a long way from the woman of thirty-four with a bar she cannot lift alone, four days the other way, and who has a board of her own under her arm and about nine loads on a market morning, and she read every one of them off it and did not ask the man of thirty-one anything, because he had been in this village twice before and she counts strangers.
 
-And what the man of thirty-one had that morning, about the figure on a wall at the bottom end of the same lane, was a number said out loud in a lane on the first morning of this week by a man of about thirty-eight who counts other people's money for a living and who has had it by heart ever since, and who said it again in a room over a smithy at about the second hour, without looking at anything, and got it right.
+And what the man of thirty-one had that morning, about the figure on a wall at the bottom end of the same lane, was a number said out loud in a lane on the first morning of the sixty-sixth week by the man of about thirty-eight, who has had it by heart ever since and who said it again in a room over a smithy at about the second hour, without looking at anything, and got it right.
 
 Sixty-three thousand eight hundred and seventy-eight. It was his fifty-eighth morning in this country and the tenth village was running a market and the day had come to four bells and a market, and there were about nine people in the room over the smithy, and they were there because the smith's wife keeps a room over her smithy for anybody with business with the fund, and every one of them in that room had business with the fund except him and the boy.
 
@@ -10,7 +10,7 @@ Sixty-three thousand eight hundred and seventy-eight. It was his fifty-eighth mo
 
 The fund is a bar with a book on it.
 
-Three pence a load, taken at the bar of this village for as long as the bar has stood there, and the bar is the one at the head of the lane, and the woman of about thirty-four has stood at it for twenty-two years and takes about nine loads on the days the loads come, and there are a hundred and forty such days in a year in this county whatever anybody says about it.
+Three pence a load, taken at the bar of this village for as long as the bar has stood there, and the bar is the tenth village's own, eleven miles down and off the lane, and the woman of about thirty-four has stood at it for twenty-two years and takes about nine loads on the days the loads come, and there are a hundred and forty such days in a year in this county whatever anybody says about it.
 
 He said the working out loud, in the room, in about nine seconds, because that is what this country does and because he was the man who was going to be asked about it.
 
@@ -78,8 +78,8 @@ He had spent two days saying nothing on a bridge in a market town and a day and 
 
 He did not say *I will do it*, and he did not say *give it to me*, and he did not say the second thing either, which was that there must be somebody else in this country who can read a column, and he did not say that because in about four days he had met six people who can each say exactly what their side is for, and not one of them had said anything about a column, and he was not going to walk into a room and hand a man a stranger.
 
-He wrote nothing down. There is no form in this country that says a man may put a thing in front of a room, and there is no room, and a second copy of a thing in this county is the thing that gets used, and he has written nothing down in fifty-eight days and there is a figure in white chalk at the foot of a woman's wall in a village four days behind him that is his and that nobody has asked him to wipe off.
+He wrote nothing down. There is no form in this country that says a man may put a thing in front of a room, and there is not one here either, and a second copy of a thing in this county is the thing that gets used, and he has written nothing down in fifty-eight days and there is a figure in white chalk at the foot of a woman's wall in a village four days behind him that is his and that nobody has asked him to wipe off.
 
 His own name is not on the book. He checked, because he checked it in a press eleven miles off at about this time last year, and there is no name at the foot of anything, and there is no dash either, and nobody is going to put him there.
 
-He stood in a room he was going to leave in a morning, and a man of about thirty-eight went on with a column, four loads and a debt, the way a man goes on with a thing he has decided to stop doing in a month, and the bar at the head of the lane took a load, and the woman of thirty-four read it off her own board without asking anybody anything, and the book stayed on the shelf where it had been for thirty-one years with one reader in the world for it and a month of that reader's notice left in it.
+He stood in a room he was going to leave in a morning, and a man of about thirty-eight went on with a column, four loads and a debt, the way a man goes on with a thing he has decided to stop doing in a month, and the tenth village's bar took a load, and the woman of thirty-four read it off her own board without asking anybody anything, and the book stayed on the shelf where it had been for thirty-one years with one reader in the world for it and a month of that reader's notice left in it.

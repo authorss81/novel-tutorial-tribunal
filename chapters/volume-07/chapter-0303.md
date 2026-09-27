@@ -2,7 +2,7 @@
 
 What the woman of forty-one wrote on the plank on the fourth morning of the sixty-fifth week, at the second light, was sixty-three thousand eight hundred and fifty-six, and it was four bells and two strangers, and the two strangers were a man and a boy with a handcart who had come up the lane together from the fourth house and had rung at two gates because that is what you do when you come up a lane together with a cart, and a boundary, and there is no column on that plank and there never was one.
 
-It was the fifty-third morning of a man of thirty-one in this country, and he was standing in a kitchen in the third village up the lane with a cup of something he had not asked for, and the man of sixty-three was writing on the back of a flour bill.
+It was the fifty-third morning of a man of thirty-one in this country, and he was in a kitchen in the third village up the lane with a cup of something he had not asked for, and the man of sixty-three was writing on the back of a flour bill.
 
 ---
 
@@ -72,19 +72,19 @@ He thought about none of it. He went back to his drain at about the sixth hour a
 
 And then the arithmetic happened, and it happened because there was nothing else to do and because somebody said the word bell.
 
-The woman of about fifty-one produced the first figure out of her own memory, and it was a bell at four shillings the pound for the metal and eleven shillings for the frame and the rope, and it was a bell of thirty-one pounds, and she got the metal right and the frame wrong by two shillings, and she was corrected by a man of about thirty-eight who counts other people's money for a living and who was in that kitchen on his own account and had not been sent for by anybody.
+The woman of about fifty-one produced the first figure out of her own memory, and it was a bell at four shillings the pound for the metal and eleven shillings for the frame and the rope, and it was a bell of thirty-one pounds, and she got the metal right and the frame right, and the man of about thirty-eight who counts other people's money for a living and who was in that kitchen on his own account and had not been sent for by anybody had the frame wrong by two shillings and said so, out loud, in front of nine people, and she let him.
 
-“A bell, hung, with a rope, is six pounds and fifteen,” said the man of about thirty-eight, without raising his voice. “Thirty-one pounds of metal at four shillings a pound is one thousand four hundred and forty-eight pence. The frame and the rope is thirteen shillings, which is a hundred and fifty-six pence. One thousand four hundred and forty-eight and a hundred and fifty-six is one thousand six hundred and forty-four pence, and one thousand six hundred and forty-four pence is six pounds and seventeen, and she was out by two shillings on the frame and I am going to come back to the two shillings in a minute because it is the two shillings that matter and not hers.”
+“A bell, hung, with a rope, is six pounds and fifteen,” said the man of about thirty-eight, without raising his voice. “Thirty-one pounds of metal at four shillings a pound is one thousand four hundred and eighty-eight pence. The frame and the rope is thirteen shillings, which is a hundred and fifty-six pence. One thousand four hundred and eighty-eight and a hundred and fifty-six is one thousand six hundred and forty-four pence, and one thousand six hundred and forty-four pence is six pounds and seventeen, and she was out by two shillings on the frame and I am going to come back to the two shillings in a minute because it is the two shillings that matter and not hers.”
 
 “Go on,” said the woman of about fifty-one.
 
 “A keeper is ninepence a day. A hundred and forty days. Nine times a hundred and forty is one thousand two hundred and sixty pence, and one thousand two hundred and sixty pence is five pounds and five shillings a year, and that is the wage of the woman who keeps the count in the first village on this lane, and she is the only one anybody in eleven villages can ask anything of.
 
-“One thousand six hundred and forty-four less one thousand two hundred and sixty is three hundred and eighty-four pence. Three hundred and eighty-four pence is one pound and four. *And that is not a figure anybody should be saying out loud in a kitchen and I have said it and here it is, and nobody in this room is going to be able to forget it, and that is what a wrong figure costs in a country with no room and no clerk.*”
+“One thousand six hundred and forty-four less one thousand two hundred and sixty is three hundred and eighty-four pence. Three hundred and eighty-four pence is one pound and twelve. *And that is not a figure anybody should be saying out loud in a kitchen and I have said it and here it is, and nobody in this room is going to be able to forget it, and that is what a wrong figure costs in a country with no room and no clerk.*”
 
 He put his thumb on the table.
 
-“The frame and the rope is eleven shillings, which is a hundred and thirty-two pence. She was right and I was wrong, and I am a man who counts other people’s money and I have been wrong in a kitchen in front of nine people and somebody in that kitchen had better put it in the book, and nobody will. Thirty-one pounds at four shillings a pound is one thousand four hundred and forty-eight pence, and one thousand four hundred and forty-eight and a hundred and thirty-two is one thousand six hundred and twenty pence. *And one thousand six hundred and twenty pence is six pounds and fifteen.*”
+“The frame and the rope is eleven shillings, which is a hundred and thirty-two pence. She was right and I was wrong, and I am a man who counts other people’s money and I have been wrong in a kitchen in front of nine people and somebody in that kitchen had better put it in the book, and nobody will. Thirty-one pounds at four shillings a pound is one thousand four hundred and eighty-eight pence, and one thousand four hundred and eighty-eight and a hundred and thirty-two is one thousand six hundred and twenty pence. *And one thousand six hundred and twenty pence is six pounds and fifteen.*”
 
 Nobody said anything.
 

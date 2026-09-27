@@ -2,7 +2,7 @@
 
 It is a boundary. That is the whole of the arithmetic and it is the reason the day felt the way it did, and the woman of about thirty-four at the bar who counts everybody said so out loud before anybody had worked it out, and she was right, and a boundary is a thing that weighs seven and the day came to what a boundary comes to, and nobody in that lane was going to be told a second thing about it.
 
-He had been up past the tenth village and was back down, and it was his fifty-ninth morning in this country, and he had not been up that way since the sixth day of the week, and he had not asked anybody to send him a figure from a wall, and there was no figure and he was not missing anything, and the day he was in was a day with a boundary walked on it and that is the only honest reason to give for a man who stands in a lane for two hours doing nothing.
+He had been up past the tenth village and was back down, and it was his fifty-ninth morning in this country, and he had not been up past the tenth village since the last day of the sixty-fifth week, and he had not asked anybody to send him a figure from a wall, and there was no figure and he was not missing anything, and the day he was in was a day with a boundary walked on it and that is the only honest reason to give for a man who stands in a lane for two hours doing nothing.
 
 ---
 
@@ -12,7 +12,7 @@ It leaves the lane at a gate and goes down past nine houses and comes back into 
 
 Nine householders. Each one mends his own length. Unpaid. About ninety years, and nobody can say when it started, and there is no document about it anywhere and no day and no officer and no form, and a road in a country where a cart is eighteen pence a day and a keeper is nine.
 
-That is the whole of the ninth thing he came to look at, and he looked at it for about two hours standing in the middle of it, and the man who keeps it is about thirty and he has a cart and a beast and he is the third of the nine, and he came out of the third house and stood about nine feet off and did not offer to show him anything.
+That is the whole of the fifth thing he came to look at, and he looked at it for about two hours standing in the middle of it, and the man who keeps it is about thirty and he has a cart and a beast and he is the third of the nine, and he came out of the third house and stood about nine feet off and did not offer to show him anything.
 
 “I know what you are,” said the man of thirty. “You are the one who walks about asking people what things are for. My father told me about you in the spring. He said there was a man in the county with a bad leg and a good name of nobody’s.”
 
@@ -48,7 +48,7 @@ It took him about two seconds to find a thing to say, and he found one, and he s
 
 Nobody said anything.
 
-Tarin Keel did not defend himself. He did not apologise. He did not say the man of thirty was wrong, and he did not say the man of thirty was right, and he did not shift his weight or look away, and he went on standing there for another nine minutes with the name on him, and about four people in that lane understood that he had not taken it off and was not going to, and one of those four was a man of thirty-one who had watched it go on in a yard four hundred miles behind him and has never got over it.
+Tarin Keel did not defend himself. He did not apologise. He did not say the man of thirty was wrong, and he did not say the man of thirty was right, and he did not shift his weight or look away, and he went on standing there for another nine minutes with the name on him, and about four people in that lane understood that he had not taken it off and was not going to, and one of those four was the man of thirty-one, and he had watched a woman of fifty-one say a whole thing out loud in a yard four hundred miles behind him and had never got over it.
 
 ---
 
@@ -66,7 +66,7 @@ And then the woman of about thirty-four at the bar did the sum.
 
 Nobody asked her to. That is the whole of it. There were about four people in that lane, which is a great many, and the man of thirty was about to go and mow, and the man of fifty-two was standing there with a name on him, and the man of thirty-one was standing in a road.
 
-“Eighty-four,” said the woman of about thirty-four at the bar. “A carter is eighteen pence a day and I have had that off a carter of thirty-eight for twenty-two years and it has not moved once. A keeper is nine. That is Ottily Roke’s at the bottom of this lane, and she has had the nine every day of a hundred and forty for twenty-five years, and I have stood in her yard and watched her count it, and the bell in her tower has not been rung once in any of the twenty-five.”
+“Watch the two of them,” said the woman of about thirty-four at the bar. “A carter is eighteen pence a day and I have had that off a carter of thirty-eight for twenty-two years and it has not moved once. A keeper is nine. That is Ottily Roke’s at the bottom of this lane, and she has had the nine every day of a hundred and forty for twenty-five years, and I have stood in her yard and watched her count it, and the bell in her tower has not been rung once in any of the twenty-five.”
 
 She stopped, and about four people looked at her, and she did not stop.
 
@@ -78,7 +78,7 @@ She put her board under her arm.
 
 Nobody wrote it down. The man of thirty went and mowed his length.
 
-And a carter's day is eighteen pence and a keeper's day is nine, and both of them were said in a lane by two people who knew them and could be asked about them, and that is the whole of the money there is in this, and the sum itself is not on this page and she is not going to let anybody have it.
+And a carter's day is eighteen pence and a keeper's day is nine, and both of them were said in a lane by two people who knew them and could be asked about them, and that is the whole of the money there is in this, and the sum she did is in about four heads and not in a hand anywhere, and she is not going to let anybody have it in one.
 
 ---
 
