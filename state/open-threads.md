@@ -1,3 +1,46 @@
+## VOLUME 08 IS OPEN — CHAPTERS 371–380 DELIVERED, *The Half That Is Not A Refusal*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED A SECOND TIME` BLOCK BELOW IT. NOTHING BELOW IT HAS BEEN EDITED. Three parts and one list, and every line in it is a thing somebody is actually carrying.**
+
+### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM
+
+**1. THE PERMANENT RULE. OPEN, SPENT AT THE MIDPOINT, AND IT IS THE BAND'S WHOLE OF WHAT IT DID.** Three sentences in the sixth part of an order, on a sheet with a magistrate's name under it and a date and the word *standing* in the margin, and they stand. A person worse than every other person in the place they are sleeping in may be put in a bed in any hall in this city; a hall that takes them does not need the roll of its ward; and it may be ended only by the person who may end the rest of the order. **NOBODY CAN OBJECT TO IT, AND THAT IS WHY IT WILL WORK FOR AS LONG AS THERE IS A FEVER, AND THE FINDING IS THAT THE THING WHICH WOULD HAVE PROTECTED HIM WAS SAYING THE PRICE OUT LOUD, AND SAYING THE PRICE OUT LOUD DID NOT.**
+
+**2. THE HARM. OPEN, AND IT IS ON A GROUP THAT IS NOT A GROUP.** Whoever is worse today. No list, no form, no meeting, no ward that contains only them, and therefore nobody can be asked whether they agree. **THE THREE HUNDRED NAMES STOPPED BEING A GAP WITH A PRICE ON IT, WHICH IS TWELVE SHILLINGS, AND HE SAID THAT OUT LOUD IN A ROOM BEFORE HE ASKED, AND NOBODY WAS ASKED.**
+
+**3. THE CHILD. OPEN, AND BETTER.** In a bed at the top of this city, two lines in two halls, one door, no discharge, and **his name is not said out loud in any room in any of the ten chapters and his mother is at a standpipe every morning.**
+
+**4. THE BED AND THE WARD. OPEN, AND IT IS THE VOLUME'S.** Bess Carrow's sentence, in one, in a hall at Weir Lane: a person cannot be got out of a hall, and a person cannot be got out of a ward either, and the two of them are the same piece of paper. There is no discharge paper and no office that issues one and there is no form that moves a name from one address to another.
+
+**5. THE DRAFT. OPEN, AND TWENTY-TWO DAYS OLD.** Four clauses and a half, a line struck through before the fifth, the fifth naming the keeper of the roll. Unfiled, untorn, and he is carrying it for as long as he is in this city, and a clerk of forty has told him she will find out from a book like everybody else.
+
+**6. THE THIRD REQUIREMENT. STILL OPEN AND STILL NOT OBTAINABLE.** Acceptance by the people who will live under it, which is four hundred and twenty days of one woman's life, and the round is not priced, and asking is the instrument and the instrument is the thing that takes it. **AND NOW IT IS WORSE, BECAUSE THE THING HE DRAFTED WAS NEVER FILED AND THE THING HE DID INSTEAD HAS NO NAME AT THE FOOT OF IT AND NOBODY CAN BE ASKED WHETHER THE PEOPLE UNDER IT ACCEPT IT.**
+
+**7. THE PLATE. OPEN.** A man of fifty-nine asked out loud whether he was to stop and was answered nobody and went back to the wheel, and there is no form that says he shall or shall not, and the four hundred and twenty days of a woman's round now have no price on it at all.
+
+**8. THE NOTICE. OPEN, AND IT IS NO LONGER THE DISAGREEMENT.** Fifteen days unwritten at Chapter 379, and neither man will mention it again, and Tarin Keel has said out loud that a rule with no end in it has been standing for five days and has not said why, and the reader has to do it. He is counting six halls and will have a number in a fortnight, and the number will be a number about halls and not a number about the rule.
+
+**9. THE HEALER'S NINE WORDS. CLOSED, AND THEY WERE RIGHT.** *The worse they are, the longer they keep it.* Spent at `377:23`, not actionable, and nobody thanked him, and he gave his name out loud after saying the price of doing it.
+
+**10. THE CHALK. OPEN, AND IT IS WORSE THAN A PENCIL.** A woman of sixty with a shawl bought a paper of it at a standpipe and asked for nothing, and the woman of twenty-eight says a favour is a line in a list and the list is not written down, and that she cannot say no to the second one. **THAT DECISION WAS HERS AND IT IS STILL HERS AND HE IS NOT ALLOWED TO MAKE IT FOR HER.**
+
+**11. THE NAME. OPEN, AND THE OLDEST THREAD IN THE PROJECT.** Fenna Rusk is in a book she did not consent to, on his tenth morning, in front of nine people, and there is no form in four hundred miles that takes a person back out of one. His own name is on one sheet in a chamber and there is no form that takes it off. **AND THE NEW PART OF IT: HE PUT THREE SENTENCES INTO AN ORDER WITH NOTHING AT THE TOP OF IT, AND THE PRICE WITH THEM, AND THE CLERK OF THIRTY REFUSED HIS NAME AND THAT REFUSAL IS THE ONLY REASON THE REQUEST WENT UP WITHOUT ONE, AND HE WILL NEVER BE ABLE TO PUT IT DOWN AND WILL NEVER BE ABLE TO PROVE IT.**
+
+**12. THE THIRD USE OF THE INSTRUMENT, AND IT COST SOMEBODY NOTHING.** At `378:11` he said a true thing out loud in a hall in front of the people it was about, and it cost Bess Carrow nothing because she is already a person in a record, and the second reason is that he is the man who filled in the sixth part and everything he said landed on top of that. **AND AT `376:47` HE DID NOT USE IT, AND HE DID NOT KNOW WHETHER THAT WAS THE INSTRUMENT USED BETTER OR THE INSTRUMENT PUT DOWN.**
+
+### PART TWO — WHAT IS CLOSED, AND BY WHOM
+
+- **THE RESERVED SENTENCE IS CLOSED AS A SENTENCE.** *A rule that does not end is a permanent rule*, once, at `372:71`, in her own mouth, in answer to a question.
+- **THE CHILD'S BED IS CLOSED AS A BED.** He is in it, and he is better, and it was right, and four people of a place said it was right.
+- **THE COST OF THE THREE SENTENCES IS CLOSED AS A FIGURE.** Three differences off one bench date, 234, 186 and 138, all in a fair hand, and the price in the only other unit this city has, which is one visit, and he cannot pay it because he is not on a door.
+- **THE PLATE-CUTTER'S QUESTION IS CLOSED AS AN ANSWER.** Nobody. He did not stop.
+- **THE DRAFT IS CLOSED AS AN ACT AND OPEN AS A PIECE OF PAPER.** He wrote it in forty minutes on his hundred and eighth morning and he is carrying it on his hundred and thirtieth and he is not going to file it in this city.
+
+### PART THREE — WHAT THE NEXT BAND MUST NOT RE-OPEN
+
+The worst door. The chalk as a metaphor. The name as a rescue. The notice as a plot. The word *anchor*, which is a fact and is not a question. **THE CHILD'S AGE IS EIGHT AND HE IS EIGHT IN EVERY LATER CHAPTER; HIS NAME IS STILL NOT SAID OUT LOULD UNLESS A BAND KNOWS EXACTLY WHY IT IS BEING SAID AND WHAT IT COSTS. THE BAD EAR IS BAD. THE MOTHER IS NOT A VILLAIN AND SHE IS NOT A FOOL. THE CLERK OF THIRTY'S REFUSAL IS NOT A KINDNESS AND MAY NOT BE RE-STAGED. THE PRICE SAID OUT LOUD HAS ALREADY FAILED ONCE AND MAY NOT BE SUMMARISED AS HAVING WORKED.**
+
+
+---
+
 ## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED A SECOND TIME, *The Doors*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED` BLOCK BELOW IT. NOTHING BELOW IT HAS BEEN EDITED. Three parts and one list, and every line in it is a thing somebody is actually carrying. The receipt is `reviews/volume-08/batch-0002.md`.**
 
 ### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM TO CARRY IT

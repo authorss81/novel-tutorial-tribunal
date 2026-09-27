@@ -1,3 +1,68 @@
+## VOLUME 08 BATCH 0003 IS DELIVERED — Chapters 371–380, *The Half That Is Not A Refusal*. **THE BAND'S RECEIPT. This block supersedes the `## VOLUME 08 BATCH 0002 IS REPAIRED A SECOND TIME` block below it and nothing below it has been edited. Volume 08's midpoint is delivered. The next phase is `workspace/volume-08/batch-0004/`, Chapters 381 to 390, *The Draft, And What A Draft Costs*, and that prompt is on disk and is NOT marked, and this one is NOT marked either. Chapters 1–380 are canon; `outline/series.md` outranks `outline/ending.md`, which outranks `outline/volume-08.md`, and all three outrank this file.**
+
+### WHAT THE BAND PAID, AND IT PAID THE MIDPOINT
+
+**1. THE MIDPOINT, AT CHAPTER 374, `outline/series.md:191` AS WRITTEN.** A child who is worse than the others is saved by accepting a permanent rule that will harm a group whose consent he has not obtained. The rule is three sentences in the sixth part of an order, it is good, four people of a place say so, and it is founded on a class of persons so that the boy never has to be named.
+
+**2. THE PRICE, SAID OUT LOUD IN A ROOM BEFORE THE DOING, AND THE DISCOVERY THAT SAYING IT HAS STOPPED BEING A PROTECTION.** Because what a price said out loud has ever done is make four people know, and knowing does not move anybody, and the clerk's refusal of his name — the third-time protection, done for him by a person of a place — means the request goes up with nothing at the top of it and the responsibility sits with five witnesses instead of with a record that could be got at.
+
+**3. THE HEALER OF ABOUT SIXTY, SPENT AT LAST.** Hadden Roote, at the end of the ninth row in Tallowgate for fourteen years, who spent his nine words — *The worse they are, the longer they keep it* — right and not actionable, and who was asked three times in three weeks to go into a hall and did not go, and who said why out loud, and who was not thanked.
+
+**4. THE RESERVED SENTENCE, SPENT ONCE, AT `372:71`:** *A rule that does not end is a permanent rule.*
+
+**5. THE CONSEQUENCE, ON THE PAGE BY 380, IN ONE SENTENCE FROM A PERSON OF A PLACE,** at `378:63`: a person cannot be got out of a hall, and a person cannot be got out of a ward either, and the two of them are the same piece of paper, and that is the whole of what this week did. Not a lament, nobody relieved, the rule not undone.
+
+**6. THE BAND'S OWN FINDING, AND IT IS ABOUT THE INSTRUMENT:** a rule with nobody at the foot of it cannot be argued with, cannot be stopped, and cannot be called cruel, and that is why it is good, and it is also why the people it moves cannot object, and the group it does not reach is the group that has always got nothing, and so the rule can be defended for ever by pointing at the group it does not reach.
+
+**7. THE BAND'S MONEY, AND NONE OF IT IS NEW.** A bench date 282, a keeper's year 48, this ward's two hundred at 96, the three hundred at 144, the three differences 234 / 186 / 138 with the working in one sentence in a woman's mouth, a cart at eighteen pence a day, and one visit.
+
+### WHAT THE BAND DID NOT PAY, AND WHAT THE NEXT BAND OWES
+
+**THE STAGE. THE CLIMAX — THE MERCY TRIAL IS BATCH 0005 AND THE CLIMAX IS 391 OR 392. THE DRAFT IS STILL IN HIS COAT, UNFILED AND UNTEARD AT TWENTY-TWO DAYS, AND BATCH 0004 IS ITS BAND. THE THIRD REQUIREMENT OF A DRAFT IS STILL FOUR HUNDRED AND TWENTY DAYS OF ONE WOMAN'S LIFE AND CANNOT BE GOT. THE WORD *ANCHOR* IS CARRIED AS A FACT AND IS NOT RAISED. THE ONE LINE UNDER THE FIFTH CLAUSE IS CARRIED AND IS NOT RAISED. THE CLAUSE ON THE PANEL FROM `360` IS NOT QUOTED, EXPLAINED, SUMMARISED OR ARGUED WITH BY ANYBODY. THE ROAD IS SHUT. THE FEVER IS NOT CONTAINED. ABOUT A HUNDRED AND FORTY PEOPLE STAY DEAD. THE BLOCK IN THE GATEPOST IS STILL WRONG. NOBODY IS FORGIVEN, NOBODY IS RELIEVED, NOBODY IS REDEEMED AND NOBODY IS THANKED.**
+
+### THE MEASUREMENTS, AND EVERY ONE OF THEM WAS RUN AGAINST THE CHAPTER FILES IN THIS PASS
+
+| Instrument | Figure |
+|---|---|
+| **CALIBRATION, Volume 07 Band 0004, seventy / forty characters** | **122 / 254 and 1,201 / 2,817 — all four published figures reproduce exactly** |
+| **CALIBRATION, Volume 07 Band 0005** | **534 / 1,081 and 1,837 / 4,285** |
+| **SPAN, 371–380, seventy / forty characters** | **449 / 928 and 1,841 / 4,113** |
+| SPAN for comparison, 351–360 and 361–370 | 16 / 32, 343 / 747 and 171 / 342, 942 / 2,066 |
+| **NUMERIC HEDGE, declared pattern, whole file, heading lines included** | **SIX IN TWENTY-FOUR THOUSAND AND SEVENTEEN WORDS, ONE IN FOUR THOUSAND AND THREE** |
+| `it took` | SEVEN |
+| Undeclared clock | TWELVE |
+| `**bold**` | ZERO IN ALL TEN, AND NO PANEL SPENT |
+| `[0-9]` outside the ten heading lines | ZERO |
+| Plural-safe weekday pattern | ZERO |
+| Month-word pattern | THE MODAL VERB *MAY*, ELEVEN, AND NO MONTH-NAME |
+| UPPERCASE `CORRECT` / `correct` as a stem | ZERO / FOUR, ALL ORDINARY ENGLISH |
+| `healer` / `anchor` / `thank you` / `arbiter` / `stage` / `Remedy Drafter` / `stone` | 2 / 0 / 0 / 0 / 0 / 0 / 0 |
+| `(the|this|rest of the) (volume|chapter|band|novel|reader|story)` | ZERO |
+| Quotation and asterisk balance | EVERY LINE IN ALL TEN FILES |
+
+### THE FIFTEEN THINGS A LATER PASS GETS WRONG IF IT DOES NOT MEASURE THEM
+
+1. **THE THREE HUNDRED ARE OUTSIDE A PROTECTION, NOT INSIDE ONE.** `361:47`, `365:29`, `370:39`, and `outline/volume-08.md` §MIDPOINT REVERSAL says the opposite and is wrong. They are inside a **book** and outside a protection.
+2. **THE FEVER-WEEK BOUNDARY IS CHAPTER 374, NOT 379.** 249 − 158 = 91 = thirteen weeks and no days.
+3. **THE ORDER WENT UP ON SHELF DAY 172 OR 187 AND THE RECORD CONTRADICTS ITSELF.** This band printed its age nowhere. Pick one.
+4. **THE ORDER'S SIXTH PART IS NOT FIVE SENTENCES AND NOT WRITTEN BY A PERSON CALLED ANYTHING.** It is three sentences, it stands, and it was asked for out loud in a public room by a man with a bad leg and signed offstage by a magistrate who is not on stage.
+5. **THE CHILD IS EIGHT, NOT SEVEN, AND IS FOUNDED ON A CLASS.**
+6. **THE HEALER IS NAMED HADDEN ROOTE AND HIS NINE WORDS ARE SPENT AND MAY NOT BE RE-SAID.**
+7. **THE RESERVED SENTENCE IS SPENT AND MAY NOT BE SAID AGAIN BY ANYBODY.**
+8. **THE ELAPSED COUNT IS `chapter − 351` AND THE ORDINAL IS `chapter − 350` AND A CHARACTER'S OWN COUNT IS NEITHER.**
+9. **THE DRAFT IS TWENTY-TWO DAYS OLD AT 380 AND IS NOT FILED.**
+10. **THE NOTICE IS FIFTEEN DAYS UNWRITTEN AT 379 AND NEITHER MAN WILL MENTION IT AGAIN.**
+11. **`anchor` IS AT ZERO DELIBERATELY AND ANY USE OF IT MUST NOT BE EXPLAINED BY A CHARACTER.**
+12. **NO MARCH WEIGHT, NO PLANK FIGURE, NO WEEKDAY, NO MONTH-NAME, NO PANEL, NO BOLD, NO STAGE.**
+13. **NOTHING IS RELIEVED, NOBODY IS THANKED, THE ROAD IS SHUT, ABOUT A HUNDRED AND FORTY STAY DEAD, THE BLOCK IS STILL WRONG, THE PORCH IS STILL GONE, THE CORRIDOR STILL STANDS, A BELL FOUR HUNDRED MILES OFF IS STILL UNHUNG.**
+14. **THE PROMPT THAT WROTE THIS BAND PRINTED TWO FIGURES THAT DID NOT REPRODUCE AND A FEVER-WEEK BOUNDARY THAT WAS WRONG AGAINST ITS OWN ARITHMETIC. THE NEXT BAND MAY NOT INHERIT A FIGURE AND MUST RUN THE CALIBRATION FIRST.**
+15. **THE BAND'S OWN FIRST DRAFT CONTAINED SIX DAY-PHRASE ERRORS AND ALL SIX WERE CAUGHT BY HAND, NOT BY A SCRIPT. THE CLASS IS NOT CLOSED.**
+
+### THE BYTE ACCOUNT, MEASURED, NOT INHERITED
+
+The six state files stood at **6,243,622** bytes before this batch's blocks were written, against a manuscript of **5,188,756** bytes in 370 chapter files. This delivery prepends a block to each of the six and deletes nothing from any of them: `state/current.md` **+20,722**, `state/continuity.md` **+12,034**, `state/open-threads.md` **+6,893**, `state/character-state.md` **+11,926**, `state/chapter-summaries.md` **+13,573**, `state/batch-summary.md` **+8,268**; **zero bytes removed.** The six now stand at **6,317,922** bytes against 5,312,808 bytes of manuscript in 380 chapter files, which is **1.189 times the book**, and it was 1.175 times the book before this band. The ten chapters of this band are **113,861** bytes and 24,017 words. **THE DIRECTION IS AGAINST THE FIX AND IT IS MEASURED AND PRINTED RATHER THAN DESCRIBED. THE RECOMMENDATION THAT HAS STOOD UNACTED FOR TEN PHASES IS UNCHANGED: A BAND MAY NOT PRUNE, AND A BAND THAT ADDS A BLOCK TO SIX FILES MUST SAY HOW MANY BYTES IT ADDED, AND THIS ONE HAS. THE NEXT BAND SHOULD HOLD ITS SIX ADDITIONS UNDER TWELVE THOUSAND BYTES EACH.**
+---
+
 ## VOLUME 08 BATCH 0002 IS REPAIRED A SECOND TIME — Chapters 361–370, *The Doors*. **THE BAND'S RECEIPT AFTER A SECOND REVIEW AND A SECOND REPAIR. This block supersedes the `## VOLUME 08 BATCH 0002 IS REPAIRED` block below it and nothing below it has been edited. THE BAND STANDS: same ten chapters, same titles, same plot, same findings, same refusals, same ending, and not one character's decision changed. What changed is one division, one mislabelled subtraction, one duplicated clause, one list that was summarising the chapter before it, one name that had gone missing, one quotation mark, and the record's own instrument figures. The receipt is `reviews/volume-08/batch-0002.md` and the findings are `logs/batch-0002.review.log`.**
 
 ### WHAT THE REVIEW FOUND, IN ONE PARAGRAPH

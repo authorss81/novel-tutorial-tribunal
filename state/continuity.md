@@ -1,3 +1,64 @@
+## VOLUME 08 IS OPEN — CHAPTERS 371–380 DELIVERED, *The Half That Is Not A Refusal*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED A SECOND TIME` BLOCK BELOW IT AND NOTHING BELOW IT HAS BEEN EDITED. The fact base for everything after Chapter 380. Where this block and the one below differ about a figure, this block is right and the one below is the delivery record. The live record with the map in both calendars, the instruments, the money and the fifteen prohibitions is the top block of `state/current.md` under `## VOLUME 08 BATCH 0003 IS DELIVERED`.**
+
+**WHAT CHANGED IN THE CHAPTERS SINCE THE BLOCK BELOW WAS WRITTEN, AND IT IS EIGHT FACTS AND NOTHING ELSE.**
+
+**1. THE SIXTH PART OF THE ORDER NOW HAS THREE SENTENCES IN IT AND THEY STAND.** A bed in a hall is a place a person cannot be discharged from; a ward is now a place a person cannot be got out of either; the two are the same piece of paper. The rule is good and is not undone. The bench, the state and the fever are untouched.
+
+**2. THE HEALER OF ABOUT SIXTY IS SPENT AND IS NAMED.** Hadden Roote, at the end of the ninth row in Tallowgate for fourteen years, no post in this city with his job, at zero over Chapters 351 to 370 and present in 377. **HIS NINE WORDS ARE SPENT FOR THE REST OF THE BOOK: *The worse they are, the longer they keep it.*** He gave his name out loud and said the price of doing it first. Nobody thanked him.
+
+**3. THE RESERVED SENTENCE IS SPENT.** *A rule that does not end is a permanent rule*, at `372:71`, in the woman with the book's mouth, once, in answer to a question.
+
+**4. A CHILD OF EIGHT IS IN A BED AT THE TOP OF THIS CITY.** Worse than the other nine, not saved, not dead, and **his name is not said out loud in any room in any of Chapters 371 to 380.** He has two lines in two halls and one door.
+
+**5. HE IS THIRTY MORNINGS IN A CITY, WHICH IS TWENTY-NINE DAYS.** The ordinal is `chapter − 350`; the elapsed count is `chapter − 351`, and the book prints elapsed. A count a character owns is neither: Tarin Keel's *fifteen days* without a notice and the healer's *three times in three weeks* are his.
+
+**6. FENNA RUSK IS NAMED FREELY IN NARRATION AND BESIDE THE TWO PLACES WHERE THE COST IS FELT.** She is the woman with the book or the woman at the table in her own mouth. She is still never the subject of a chapter title.
+
+**7. THE THREE HUNDRED ARE INSIDE A BOOK AND OUTSIDE A PROTECTION, AND BOTH ARE BECAUSE OF HIM.** He said them out loud on his seventh morning and they went into a fair hand upstairs, and they are on a paper and not on a plate, and since the sixth part stands nobody in this city has to cut a line for anybody.
+
+**8. `BIBLE/CHARACTERS.MD` IS NOT THIS PHASE'S FILE.** The chapter files win on Tarin Keel (about fifty-two), and they now win on a new name, Hadden Roote.
+
+### 1. WHAT THE PERSON IS, AFTER CHAPTER 380
+
+**A FEVER IN FOUR LOW WARDS, NOT IN FOUR RICH ONES, AND NOBODY HAS NAMED ITS CAUSE.** It came off the water on Shelf day 158. At Chapter 371 it is twelve weeks and four days old; at 380, thirteen weeks and six days. About a hundred and forty people are dead in four columns that have not been added up and cannot be, because there are four clerks in four wards and no office for the four of them to hand anything to.
+
+**AN ORDER WITH SIX PARTS, AND THE SIXTH STANDS.** A line with a date in it and, beside the date, the word *standing*, so the date does not arrive, and now three sentences underneath it, which are the volume's central object and are printed in the top block of `state/current.md` §1. **THE MISSING HALF WAS AN EXIT AND NOT A REFUSAL, AND WHAT IS IN IT IS STILL AN EXIT AND NOT A REFUSAL: an exit that does not end is an exit somebody cannot find, and that is worse.**
+
+**A WARD'S PUBLIC RECORD IS FOUR THINGS KEPT IN AGREEMENT BY PEOPLE AND IS NOT ONE OBJECT.** A plate, a paper, a keeper, and a block in a gatepost that holds a weight. **AND AFTER THE FIFTH DAY OF THE SEVENTY-FIFTH WEEK NONE OF THE FOUR IS NEEDED ANY MORE, BECAUSE A HALL DOES NOT NEED THE ROLL OF ITS WARD, AND THAT IS THE PRICE OF THE THREE SENTENCES, GIVEN IN MONEY AT TWELVE SHILLINGS FOR THREE HUNDRED NAMES AND AT NOTHING AT ALL.**
+
+### 2. EVERY DOCUMENT THAT EXISTS IN THIS CITY, AND A STATE FILE IS WORST AT THIS LIST, SO HERE IT IS WHOLE
+
+**In the roll-room at the back of a chandler's shop in Tallowgate: the PAPER ROLL, kept eleven years by a woman of forty-four, Fenna Rusk, four shillings a year. A STACK OF NINE SLATES. A BOOK OF OTHER ROOMS' HABITS ON THE SHELVES. AND, SINCE THE FIFTH DAY OF THE SEVENTY-FIFTH WEEK, A THING SHE SAID OUT LOUD ONCE, WHICH IS A STATEMENT ABOUT THE SIXTH PART OF AN ORDER AND WHICH SHE CANNOT UNSAY IN HER OWN ROOM.**
+
+**In the plate-yard at the low end of Tallowgate: the PLATE, a hand's width, a line for each name, with a line across the face where the polish stopped two years ago. FOUR HUNDREDWEIGHT OF BLACKGLASS OFFCUTS. A WHEEL, A BENCH. A BLOCK IN A GATEPOST AT THE END OF A PASSAGE WITH A MARK ON ITS FACE THAT NOBODY IN THIS WARD CAN READ. AND, SINCE THE FIFTH DAY, A MAN OF FIFTY-NINE CUTTING LINES THAT NOBODY IN THIS CITY NEEDS, WHO ASKED OUT LOUD WHETHER HE WAS TO STOP AND WAS ANSWERED BY NOBODY.**
+
+**In a hall at the end of a low ward: A BOOK AT THE DOOR with a line for every person who comes in and no line for anybody who goes, because there is no discharge paper and no office that issues one. A BOARD ON THE WALL with the number of beds free, and it does not go up or come down. A HALL BOARD with a line for every person who has been in it, and the line stays, AND AFTER THE FIFTH DAY OF THE SEVENTY-FIFTH WEEK ONE OF THOSE LINES IS A SECOND LINE IN A BOARD AT THE TOP OF THIS CITY. A COLUMN OF NINETEEN DEAD, IN CHALK, WITH NOTHING OVER THE TOP OF IT AND NOTHING AT THE FOOT OF IT, KEPT BY A MAN OF THIRTY-ONE WITH A BAD EAR WHO IS PAID NOTHING.**
+
+**In the black building at the middle of the nine bridges: on the second floor, A CHAMBER with a table, four chairs and a press of blackglass plates, which RECORDS WHAT IT IS SENT. A COLUMN ON THE WALL for the nine things that have not been sent to it. ON A BENCH, A SHEET with two names on it, one of them a stranger's, and there is no form that takes a name off a sheet. A SLATE WITH A QUESTION ON IT. NINE LINES ENTERED AND KEPT, with a word in the middle of a sentence that a clerk read out in the ordinary way and nobody asked about. A FAIR HAND, in a book, containing a public cost, two differences off one bench date, and a number that four hundred and twenty days of one woman is the price of a draft. AND, SINCE THE FIFTH DAY OF THE SEVENTY-FIFTH WEEK, **A THIRD THING: THE THREE SENTENCES, AND THE PRICE, IN THE SAME FAIR HAND, WITH NOTHING AT THE TOP OF IT.** NOTHING PUTS A NAME ON ANY OF IT.**
+
+**On the wall of the public room at the foot of the hill: THE ORDER, six parts, and under it a blank space nine inches deep for a notice that is not the order, and the blank space is still blank.**
+
+**In a book on a second floor, IN A FAIR HAND, WRITTEN BY A CLERK OF FORTY: a thing said out loud in the public room on his seventh morning in this city, being the cost of a plate, the cost of a Bench date, the difference between them, and the difference between a bell keeper and a roll keeper; and since the fourth day of the seventy-fifth week, the three sentences and the price, with no name at the top of either.**
+
+**On the back of a chandler's bill for candles, folded into four, in his own hand, in his coat: FOUR CLAUSES AND A HALF, a line struck through before the fifth, and a fifth clause that names the keeper of the roll, and under the fifth clause ONE LINE THAT IS NOT A QUESTION. IT IS NOT FILED. IT IS NOT DASHED. IT IS NOT SIGNED. IT IS TWENTY-TWO DAYS OLD AT CHAPTER 380.**
+
+**In a room over a lock-and-ledger shop near the courts: FOUR DOCUMENTS OPEN ON A TABLE UNDER A LAMP, and a thing under a weight on a second table, which is bread.**
+
+### 3. THE PEOPLE, ONE LINE EACH, AND NONE OF THEM IS A PRODUCTION
+
+**FENNA RUSK, forty-four, eleven years keeping the paper roll, four shillings a year, has said the reserved sentence once and is spent. A woman of twenty-eight who goes to nine hundred doors on her own account, has a paper of chalk bought for her at a standpipe by a woman of sixty with a shawl, and has said that a favour is a line in a list and that the list is not written down, and has closed the subject of doors for good. A man of fifty-two named Tarin Keel, nineteen years of counting what comes through a door, who has not written a notice in fifteen days and will not mention it again, and who has undertaken to count six halls in a fortnight. A man of fifty-nine named Bevin Tarr, four thousand lines in thirty-one years, who has been told what a line is for and did not stop. A man of thirty-one with a bad ear keeping a column of nineteen dead, who has written a second line on a board and has not rubbed out the first. A woman of fifty-eight on a stool in a hall at the end of a low ward, who has been on it since the eighth morning of the fever and who told the people in that hall what was done in their name and who will tell a mother at a door the same short thing every morning for the rest of her life. A woman of thirty-four at a standpipe, head of her own house nineteen years. A woman of sixty with a shawl, fifty-eight years in that street, who holds four names she has never said out loud. **HADDEN ROOTE, about sixty, fourteen years at the end of the ninth row in Tallowgate, no post in this city with his job, his nine words spent, not thanked.** A woman of sixty-one, Bess Carrow, in a hall at Weir Lane since the eighth morning of the fever, better, and who has asked for a sheet of paper in the first week and has not asked again and who said the sentence at `378:63`. A man of forty-four, Ivo Serrel, at the top of nine steps, not on the roll, the rule does not touch him and he said so himself. A woman of sixty-eight in the row above the plate yard's, moved out on the sixth day, whose name is still at a shut door. A boy of eleven, a boy of fourteen in a public room, a boy of sixteen with a barrow. A boy of eight in a bed at the top of this city whose name is not said out loud in any room.**
+
+### 4. WHAT IS NOT IN THIS CITY AND WHAT IS NOT HAPPENING IN IT
+
+**There is no form that calls a meeting of a ward, and there has not been one in Tallowgate since the autumn before the water came. There is no form that lets anybody have a page of the roll. There is no form that says a man may ask a woman to take a name out of a roll, or to put one in. There is no discharge paper and no office that issues one. There is no form that takes a name off a sheet, or a person out of a record, or a name from one address to another, in four hundred miles. There is no money in this ward and has not been for two years. THERE IS NO NUMBER ANYWHERE OF HOW MANY PEOPLE THE SIXTH PART HAS MOVED, AND TARIN KEEL IS GOING TO PRODUCE ONE IN A FORTNIGHT. THE ROADS ARE STILL SHUT. THE PORCH IS STILL GONE. THE CORRIDOR STILL STANDS. THE BELL FOUR HUNDRED MILES OFF IS STILL UNHUNG. NOBODY IS RELIEVED.**
+
+### 5. THE RESIDUALS INHERITED FROM BATCH 0001 AND BATCH 0002, RECORDED RATHER THAN SILENTLY CORRECTED
+
+**`chapter-0353.md:9` and `chapter-0355.md:39` say *eleven weeks* where the derivation puts the fever at ten weeks and no days and ten weeks and two days on those two mornings, and `chapter-0354.md:3` says the one thing he has needed *for six days* where Chapter 354 is his fourth morning. Both are in Batch 0001 and are not this phase's to reach into. A later pass may correct them and must say in the hand-off that it has. DO NOT CITE THEM AS PRECEDENT. **`state/continuity.md`'s own §1 also gives the order as going up on Shelf day 187 while `outline/volume-08.md` gives Shelf day 172; the chapters of this band print the age of the order nowhere, which is the correct handling of a contradiction in the record rather than a choice between two wrong figures.**
+
+
+---
+
 ## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED A SECOND TIME, *The Doors*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED` BLOCK IMMEDIATELY BELOW IT AND NOTHING BELOW IT HAS BEEN EDITED. The fact base for everything after Chapter 370. Where this block and the one below differ about a figure, this block is right and the one below is the delivery record. The receipt is `reviews/volume-08/batch-0002.md`.**
 
 **WHAT CHANGED SINCE THE BLOCK BELOW WAS WRITTEN, AND IT IS SEVEN FACTS AND NOTHING ELSE.**
