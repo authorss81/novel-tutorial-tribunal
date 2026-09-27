@@ -1,3 +1,108 @@
+## VOLUME 07 BATCH 0004 IS DELIVERED — Chapters 331–340, *Delegation*. **The live block. The block below it, `## VOLUME 07 BATCH 0003 IS DELIVERED`, and everything under that, is archive and is not edited by this phase.**
+
+> **WHAT THIS BLOCK IS: the batch receipt, in one block. What the batch paid, once each. What it did not pay. The counts, with the patterns. The fifteen things a later pass gets wrong if it does not measure them. And what this band's own first writing got wrong, all of it caught by the project's own instruments or by the project's own habits, and none of it surviving to the delivery.**
+
+### WHAT THE BAND PAID, ONCE EACH
+
+**IT PAID THE BAND. `outline/volume-07.md:76` says Ilyan tries to carry one of the six himself and cannot, learns to delegate, and the price is that a person becomes a person in a record, and this time he does it to somebody deliberately and says so. HE DID ALL THREE ON THE PAGE AND THE PEAK IS CHAPTER 338 AND THE CHAPTER NAMED IT IS THE CHAPTER THAT CONTAINS IT.** `338`
+
+**IT PAID THE ARITHMETIC OF THE WHOLE BAND, OUT LOUD, IN A LANE AT THE SIDE OF A ROAD, ON HIS OWN, AND IT DID NOT CLOSE.** Four days up a lane. Eleven miles off it, three times. Three miles. A track of two miles. And two legs. **Carrying one means not carrying another, and a man who decides other people can be in two of them at once has decided that a person is a thing that can be in two places, and he has spent ninety mornings finding out that he is one too.** And then the other half: **every one of the six already has a person in it who is already doing that, so the answer is not that he carries it, it is that he gets out of the way, and there is no instrument in this country that lets a man do that to somebody on purpose.** `331`
+
+**IT PAID THE PRICE SAID OUT LOUD BEFORE THE DOING, IN A KITCHEN, IN FRONT OF NINE PEOPLE, FOR THE FIRST TIME IN THIS COUNTRY.** *A person who is handed a thing for a place becomes a person in a record, and there is no instrument in this country that takes a person back out of one, and nobody in this kitchen is going to be thanked for it, and I am going to do it anyway because the alternative is that four hundred yards of hedge are walked by a man of sixty-three on his own for another year and I cannot stop that and cannot take it over and I do not get to be sad about it in a kitchen.* `334`
+
+**IT PAID THE SECOND HALF OF THE PRICE, WHICH IS THE HALF HE HAD NO BETTER WAY OF PUTTING, AND IT IS THE FINDING OF THE WHOLE BAND: YOU CANNOT SAY NO. That is not your doing and it is not mine. There is nothing in this county that lets a person refuse a thing that costs nothing, and I have come eleven miles with nothing to offer and I have used that.** `338`
+
+**IT PAID A PERSON ACQUIRING A WANT HE DID NOT GIVE HER, IN A WOMAN'S OWN MOUTH, AND HE WAS NOT IN THE CHAPTER IT HAPPENED IN.** *I am going to say it at the cross. Not in a yard. At the cross, at about the second hour, because that is where the people are, and there will be nine of them and they will say it to two others before supper, and that is not me being cruel, that is me being the only thing at the end of a road that anybody walks up.* `338`
+
+**IT PAID THE SENTENCE HE ASKED HER TO CARRY, AND HER SENTENCE, AND THE DIFFERENCE BETWEEN THEM, AND THE DIFFERENCE IS WORSE.** His leaves out the woman whose yard it is. **Hers has the water in it, because a stranger would not have said the water, and she has never been anywhere near that town and has known all of it for a week from a bar.** `338`
+
+**IT PAID THE THING THE BOOK IS.** A foolscap book with a strap mended twice came apart at the stitching in about nine seconds in a room over a smithy, and **a book on a shelf is not a weight, it is an answer to a question somebody has to ask, and a stranger holding a book is a man holding somebody else's week**, and the man who reads things out for a living said the thing that finished it: *nobody in this room believes you are going to be here in a year, and you know it too, and it is the one thing everybody here has got the same opinion about and it is correct.* `333`
+
+**IT PAID THE FINDING THAT A THING CANNOT BE DELEGATED TO A STRANGER, TWICE, IN TWO PLACES, AND IN NEITHER OF THEM WAS IT A LEG OR A DISTANCE.** A boundary of four hundred yards of hedge in nine days is nine mornings and the fifth of them is a bridge with one rail on it. A line of nine diggers in a wet field is nine people turning up, and **he stood in it on a dry morning for the length of a load going over and the field did not know, and the stopping was not a refusal and not a door and not a form.** `334`, `336`
+
+**IT PAID A MAN OF FIFTY-TWO'S PAST, USED ONCE, IN THE MIDDLE OF A COUNT, TO A STRANGER, AND NOT RESOLVED.** *There was a gate with a levy behind it once, a levy on loads, and the loads were counted by a man who was not paid, and there is a dead man in the fourth line, and that is all I am going to say about it and you did not ask me and that is the only reason I have said it.* **HE WAS NOT ASKED TO BE THERE, HE DID NOT OFFER, HE STOPPED THERE, NOBODY ASKED HIM WHAT HE WAS THE ONLY PERSON IN, AND THE PROTAGONIST HAD THE QUESTION READY AND DID NOT ASK IT.** `332`
+
+**IT PAID A BOY OF SEVENTEEN'S BOOK READING AN ORDER THAT A DOCUMENT CANNOT, IN HIS OWN MOUTH, UNASKED, IN NINE SECONDS, IN FRONT OF ABOUT NINE PEOPLE.** *Put them in an order and let each one of them say who comes next, and it is the only thing that works, and a book can order things and cannot date them and I have never been able to make it do a date and I have stopped trying.* **THE ORDER IS A ROUND OF TURNS AND NOT A LIST OF PLACES, THE NINTH THING IN IT IS THE WOMAN OF THIRTY, AND THE TENTH IS A PERSON NOBODY IN ELEVEN VILLAGES HAS COUNTED, AND HE SAID BOTH IN NINE SECONDS AND NOBODY HAD ASKED HIM.** `335`
+
+**IT PAID THE QUESTION HE CANNOT ANSWER, ASKED OF HIM BY A MAN IN HIS OWN KITCHEN, AND IT IS THE SAME SHAPE OF QUESTION A MAN OF SEVENTY ASKED HIM ELEVEN DAYS EARLIER FOUR DAYS UP A LANE.** *How many of the nine come in a year. Not how many walk it. How many are there.* `334`
+
+**IT PAID THE FINDING THAT THE PAPER IS NOT THE DIFFICULTY, IN A MAN'S MOUTH, IN A LANE.** No form in this country says a man may set a name at the foot of a thing, and therefore every name in this country has been put there by somebody who decided to, and **a stranger with a leg has decided more of them than anybody in a valley of sixty people has in forty years.** A paper with a name on it is a thing a person can be asked about for the rest of their life. `332`, `339`
+
+**IT PAID A WOMAN OF ABOUT SEVENTY-FOUR ASKING HIM THE ONE QUESTION NOBODY HAS ASKED HIM — WHOSE NAME IS ON IT — AND TELLING HIM WHY SHE ASKED, WHICH IS THAT SHE HAS BEEN THE INSTRUMENT FOR FORTY YEARS AND NOBODY HAS EVER ASKED HER WHETHER SHE WOULD RATHER NOT BE.** `339`
+
+**IT PAID THE PORCH'S FINDING RESTATED IN A DIFFERENT SHAPE AND NOT CONCEDED, AND THE NARRATOR DID NOT RULE.** *A thing that is kept alive by one person is a thing that stops when that person stops. That is what you have been carrying about a lane for eighteen days and you have not said it to me once and I have not asked you once, and I am not going to concede it, and you are not going to be able to settle it.* `339`
+
+**IT PAID A WIDOW'S HIP, AND A BARROW GOING ROTTEN IN A LANE, AND A TENTH PERSON WHO WAS NEVER ASKED AND CANNOT NOW SAY NO.** Found by a man of about thirty-four on his own account, because he was going that way and had not got to where he was going. `337`
+
+**IT PAID THE BAND'S REAL NEW OBJECT.** A woman of about thirty-four at a bar, twenty-two years, about nine loads a day, the only board in eleven villages with a word at the top of it, **asked two questions in a month and both cost her something, who was asked a third thing on the eighty-eighth morning by a stranger who said the whole price out loud first, who was offered nothing she could refuse and therefore could not refuse, who said the word *go on*, who said the sentence in her own mouth and it was worse, and who is now a person in a record and cannot be lifted out of one.** `338`, `339`, `340`
+
+**IT PAID THE FINDING, IN THE MOUTH OF A PERSON OF A PLACE, THAT THE ARRANGEMENT IS NOW WORSE THAN THE ONE IT REPLACED.** *A thing that was kept alive by one person is now being kept alive by a person who has been asked to carry a sentence. That one cost one person, a man of seventy who was eight years old when a number was said to him in his own yard, and he is entitled to stop. This one costs a woman of thirty-four at a bar who is not going to be thanked for it and cannot put it down, and it is not yours to change and it is not hers to change.* `340`
+
+**IT PAID THE SENTENCE THAT GETS IN FRONT OF THE PERSON WHO PUT IT IN THE LANE, SAID UNASKED BY A MAN WITH A CART AND A BEAST WHO WAS NOT SENT FOR.** `340`
+
+**IT PAID A BOY OF SEVENTEEN AS THE LAST LINE OF THE BAND, GOING SOMEWHERE HE HAS NOT GOT TO YET, AT A WALK, WITHOUT SAYING ANYTHING TO ANYBODY.** `340`
+
+**IT PAID THE NINETIETH MORNING WITHOUT ANYBODY NOTICING IT, WHICH IS THE THIRD ROUND NUMBER IN TWENTY-ONE CHAPTERS AND THE ONLY CORRECT TREATMENT OF THE THREE.** `340`
+
+**IT PAID THE MONEY BEING NOTHING, AND THAT IS THE FINDING AND NOT AN OMISSION.** No table figure, no unit, no product, no difference. The levy at a bar was not named a third time, the slip's two figures were not restated, the four hundred and eighty-five pounds was not named, and the copy was not priced. `333`, `337`, `338`, `340`
+
+### WHAT THE BAND DID NOT PAY, AND IT IS EIGHT THINGS AND ALL EIGHT ARE THE VOLUME'S INHERITANCE
+
+1. **The right of refusal is not restored and nobody has one,** and the four words at the head of the plank in the March are not reprinted in any of the forty chapters of this volume.
+2. **The column of a hundred and forty-one figures has not been added up** and is not mentioned.
+3. **The corridor is not torn up** and is not mentioned. **The status is on a door** and is not mentioned. **The register did not gain a place and did not lose one.** The charter on the wall in Sallowby is revocable and is not amended. The second notice stays unpaid. The dead man in the fourth line stays dead and is not named again.
+4. **The bell in the March is not hung, and a bell in that tower was not rung on a market morning and nobody bought it.** The bell in Draymoor is not rung. **The difference of one pound ten was not said again.**
+5. **The porch's finding is not adjudicated and not settled,** and `outline/volume-07.md:92` reserves the climax for Batch 0005 where a seventh position burns.
+6. **Nobody was relieved, nobody was forgiven, nobody was redeemed and nobody was thanked, anywhere in ten chapters,** and nobody was sent for.
+7. **The stage did not move.** He is Stage 4 at the first line of Chapter 331 and at the last line of Chapter 340, `Remedy Drafter` is zero, the string `stage` is zero, and a delegation is a habit and a cost and not a promotion.
+8. **AND THREE THINGS THAT ARE BATCH 0005'S AND WERE NOT TOUCHED: the six positions are restored and a seventh burns and it is the Briar March one; the bell network a hundred and forty people build in about nine weeks because they have to; the partial map of about nine copies that nobody holds; and the question, asked once out loud by an ordinary person and not answered, why the missing positions answer in a voice that sounds like the System. NOT ONE OF THEM IS ASKED IN ANY OF THE TEN CHAPTERS AND NO POSITION SPEAKS.**
+
+### THE COUNTS, WITH THE PATTERNS, AND EVERY ONE OF THEM RUN AGAINST THE FILES
+
+- **Weekday scan: ZERO.** Pattern `\b(mondays?|tuesdays?|wednesdays?|thursdays?|fridays?|saturdays?|sundays?)\b`, case-insensitive, plural on every alternative including Monday, file level. **The first writing returned twelve across five chapters and all twelve are out.**
+- **Month-word scan: SIXTEEN RAW, FOURTEEN MODAL *may*, TWO REGION, NET ZERO month-names.** The two are *march* at `332:5` and `333:3` and the region is written in full in both.
+- **Bold scan: ZERO marks. Panels: ZERO.** **The first writing returned twenty-two marks in six chapters, all of them the narrator emphasising a finding.**
+- **Four and five digit numerals: ZERO.** `[0-9]` returns THIRTY characters, three per file, every one the chapter number in the heading. **The board figure was measured in the words: `sixty-four thousand (?:and )?[a-z]+` returns exactly THREE, in 332, 334 and 340.**
+- **Day-phrase sweep at three declared alternatives: ELEVEN**, by chapter 1/1/1/0/1/3/1/1/1/2, and the zero in 334 is a form the pattern cannot reach. **The fourth form is at ZERO** after two cuts in 340. **The third question was asked on all eleven by hand: nine are the chapter's own day, two point backwards and both are right.**
+- **Span scan, a SPAN scan and not a line scan, heading stripped, whitespace normalised, every window of exactly k characters at every position: at seventy, 142 distinct duplicated windows, 309 occurrences, 217 cross-chapter, 92 within-chapter; at forty, 1,267 distinct, 3,003 occurrences, 2,542 cross-chapter, 461 within-chapter.** **The first writing was four hundred and ten at seventy and one hundred and twenty-seven windows were cut by hand and no instrument opened a chapter file for writing.**
+- **Meta sweep at the WIDER pattern: ZERO.** **The first writing returned thirteen real leaks in seven chapters and two of them were chapter headings.**
+- **Numeric hedge: NINETY-TWO, by chapter 8/2/6/13/14/9/8/6/10/16, in 21,639 words, one in every 235, method `len(re.findall(r"[A-Za-z’'\-]+", text))` over the whole file, heading included, case-insensitive, file level. The first writing was two hundred and twenty-one and one hundred and twenty-nine were cut by hand by one declared rule. The target of under a hundred and twenty-five is met and the band is the best of the four in Volume 07 and IT IS NOT CLEAN.**
+- ***Man of thirty-one*: TWENTY-TWO.** **Italic spans: FORTY-NINE**, by chapter 6/3/5/5/5/3/5/7/5/5, and every one of them is in a mouth; the first writing was ninety-one.
+- **`**` zero, `system` zero, `panel` zero, `stage` zero, `Remedy Drafter` zero, `first witness` zero, `cannot read` zero, `vault|cave|ruin|temple|battlefield` zero, uppercase `CORRECT` zero (a case-insensitive scan returns six and all six are the ordinary English word), `anchor` zero, `would like` zero, `self-arrived class` zero.**
+
+### THE FIFTEEN THINGS A LATER PASS GETS WRONG IF IT DOES NOT MEASURE THEM
+
+1. **That the morning figure is in THREE chapters and not ten.** Seven chapters have none and each says why, and that is the carrier rule working and not a gap.
+2. **The chain, and the rule that the morning in row *N* is row *N-1* plus the OWN DAY OF CHAPTER *N-1*.** 64,022 + 69 = 64,091 and 64,083 + 8 = 64,091, checked twice before a single morning in the line was read.
+3. **The interval in Chapter 337 is EIGHTEEN DAYS** and was written as eleven and as fourteen in the first writing, and **no sweep found either.**
+4. **The numeric hedge is NINETY-TWO and the method and the per-chapter table are the ones at `state/current.md` §3.12,** and the two rates a band can print for one pattern differ.
+5. **The span scan at seventy is 142 and its cause was the age phrase and not the motifs.**
+6. **A review has not been run and is required,** and the first thing it should attack is whether the record is visible in the fiction and not only in the record about it.
+7. **The money is nothing** and the slip's two figures, the levy, the copy and the four hundred and eighty-five pounds are all unspent and all may not be printed.
+8. **The round number: nobody noticed it, and a later band that makes a person remark on it undoes the only correct treatment of the three.**
+9. **The count of people who know he cannot read is printed nowhere** and the string *cannot read* is at zero over Chapters 311 to 340.
+10. **The man of about thirty-four is one person in three counties in five chapters** and is not the dead man's son from Chapter 315, and the woman of about thirty-four is three different women, and **he must not be called the reader.**
+11. **The tenth village is in the March's county** and a market there IS a plank weight, and the only place outside the county is the market town four days up the lane.
+12. **A day's own weight printed at both ends of a chapter is a device and not a tic,** and a band that reaches for it more than three or four times in ten chapters has crossed into a tic.
+13. **The band's peak is Chapter 338 and the check found it on the page,** and a later band should name its peak before it writes.
+14. **Nobody is a villain and nobody hid anything and the false witness of Chapter 324 is not restated anywhere in these ten chapters.**
+15. **The one new person of the band is a widow of about sixty-eight with a bad hip at the fourth house on a mile of road who is not even on stage,** and she is a person of that lane and is not to be added to anything.
+
+### WHAT THIS BAND'S OWN FIRST WRITING GOT WRONG, ALL OF IT CAUGHT BY THE PROJECT'S OWN INSTRUMENTS OR BY THE PROJECT'S OWN HABITS, AND NONE OF IT SURVIVED
+
+1. **TWELVE WEEK-DAY NAMES ACROSS FIVE CHAPTERS,** two of them in one chapter twice, all out.
+2. **A MONTH-NAME TWICE IN ONE MAN'S MOUTH,** cut for the spring.
+3. **TWENTY-TWO BOLD MARKS IN SIX CHAPTERS,** all of them the narrator emphasising a finding, and **the band declares italic for a thing said in a mouth and the marks were all in the narrator.**
+4. **THIRTEEN META LEAKS IN SEVEN CHAPTERS AND TWO OF THEM IN HEADINGS,** which is the fourth time a heading has been edited in this project.
+5. **THE NUMERIC HEDGE AT TWO HUNDRED AND TWENTY-ONE,** one in every one hundred and three, which would have been the worst rate in the volume.
+6. **THE SPAN SCAN AT FOUR HUNDRED AND TEN,** with seven separate causes and not one construction.
+7. **ITALIC SPANS AT NINETY-ONE,** forty-two of them in the narrator's voice.
+8. **AND SIX INTERVALS AND DAY-NUMBERS FOUND BY READING AND NOT BY ANY SWEEP,** which is the sixth time in this project that the instruments and the prose have disagreed and the instruments have been right about nothing. **A SWEEP FINDS A PHRASE IN THE WRONG PLACE. IT DOES NOT FIND A NUMBER IN A SENTENCE.**
+
+### AND THE ONE THING A REVIEWER CANNOT BE TOLD BY THIS BLOCK
+
+**A REVIEW OF THIS BAND HAS NOT BEEN RUN. NO LOG EXISTS. AND THE THING A REVIEWER SHOULD ATTACK FIRST, WHICH NO INSTRUMENT CAN ASK, IS THIS: WHETHER THE DELEGATION ACTUALLY HAPPENED AND WHETHER IT COST ANYBODY — WHETHER A PERSON ACQUIRED A WANT SHE DID NOT HAVE, WHETHER THE RECORD IS VISIBLE IN THE FICTION AND NOT ONLY IN THE STATE FILES, WHETHER THE PRICE WAS SAID BEFORE THE DOING AND DID SAYING IT MAKE IT SMALLER, AND WHETHER THE PERSON HE ASKED SAID THE SENTENCE IN HER OWN MOUTH AND NOT HIS. The six items are at `state/current.md` §9.**
+
 ## VOLUME 07 BATCH 0003 IS DELIVERED — Chapters 321–330, *The Midpoint, And It Is A False Witness*. **The live block. The block below it, `## VOLUME 07 BATCH 0002 IS DELIVERED`, and everything under that, is archive and is not edited by this phase.**
 
 > **WHAT THIS BLOCK IS: the batch receipt, in one block. What the batch paid, once each. What it did not pay. The counts, with the patterns. The fifteen things a later pass gets wrong if it does not measure them. And what this band's own first writing got wrong, all of it caught by the project's own instruments or by the project's own habits, and none of it surviving to the delivery.**
