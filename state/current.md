@@ -1,3 +1,69 @@
+## VOLUME 08 BATCH 0004 IS DELIVERED — CHAPTERS 381–390, *The Draft, And What A Draft Costs*. **THIS BLOCK SUPERSEDES `## VOLUME 08 BATCH 0003 IS REPAIRED TWICE…` AND EVERY BLOCK UNDER IT, AND NO ARCHIVE BLOCK WAS TOUCHED. Chapters 1–390 are canon. `outline/series.md:191` outranks `outline/ending.md`, which outranks `outline/volume-08.md`; WHERE THAT FILE AND THE CHAPTERS DISAGREE THE CHAPTERS ARE RIGHT AND §6 IS THE REPAIR LIST. The next phase is `workspace/volume-08/batch-0005/`, Chapters 391 to 400, *The Mercy Trial*, and that prompt is on disk and is NOT marked, and this one is NOT marked either. THE HAND-OFF IS IN `state/continuity.md` AND `state/character-state.md` AND IS NOT REPEATED HERE.**
+
+### 1. WHAT THE BAND PAID, IN FOUR THINGS, AND WHERE EACH IS CARRIED IN FULL
+
+**1. THE DRAFT IS FILED IN THE CITY WITH HIS NAME ON IT, AND THE CLERK'S PROTECTION FAILED INSTEAD OF HIS.** He did not refuse a name for the fourth time: he said it twice at `386:29`, the second time because a clerk of forty asked him to, and neither clerk spelled it and not one of the six people in the room wrote it down. THE FULL SEQUENCE IS `state/continuity.md` §1.
+
+**2. THE FLAW WAS SAID OUT LOUD IN A ROOM BEFORE HE FILED IT, AND IT IS NOT A MISTAKE.** `385:49` — *Naming a burden does not stop the harm. It puts a person under it, so that the record shows that a person did it.* He said it once and did not say it again, and the draft solves ONE primary conflict and pays for it in the fourth and fifth clauses with a woman of forty-four and four hundred and twenty days.
+
+**3. THE FILING WEAKENED THE PEOPLE WHO HAD RELIED ON HIM AND NOBODY BETRAYED ANYBODY.** The clerk of thirty did the ordinary thing and says so at `386:51`; the man of fifty-nine at the wheel named the cost to his own yard unasked; and the woman of twenty-eight worked out that she is now the only person anybody can ask whether the doors are being gone to, and closed it at `389:51`: **SAYING NO IS DOING THE DOORS AGAIN.** `388:51` is the question that lands hardest, `388:59` is his answer, and `388:65` is her reply: *Then it worked.*
+
+**4. TARIN KEEL IS USED ONCE, ON THE COUNT, AND IS NOT RESOLVED.** `387:31` — *Two. Four. Eleven. Thirteen. Two and four is six, and six and eleven is seventeen, and seventeen and thirteen is thirty.* A number about halls, the working printed, two doors he was not let into, two crosses, neither man mentions the notice, and he is neither reconciled nor defeated.
+
+### 2. THE MAP IN BOTH CALENDARS, AND EVERY FIGURE IS ARITHMETIC
+
+| Ch | Week, day | Shelf | Morning | Ordinal `ch − 350` | Elapsed `ch − 351` | The fever `shelf − 158` |
+|---|---|---|---|---|---|---|
+| 381 | 76th, 5 | 256 | 131 | 31 | 30 | 98 = fourteen weeks and no days |
+| 382 | 76th, 6 | 257 | 132 | 32 | 31 | 99 |
+| 383 | 76th, 7 | 258 | 133 | 33 | 32 | 100 |
+| 384 | 77th, 1 | 259 | 134 | 34 | 33 | 101 |
+| 385 | 77th, 2 | 260 | 135 | 35 | 34 | 102 |
+| 386 | 77th, 3 | 261 | 136 | 36 | 35 | 103 |
+| 387 | 77th, 4 | 262 | 137 | 37 | 36 | 104 |
+| 388 | 77th, 5 | 263 | 138 | 38 | 37 | **105 = fifteen weeks and no days** |
+| 389 | 77th, 6 | 264 | 139 | 39 | 38 | 106 |
+| 390 | 77th, 7 | 265 | **140, AND NOBODY NOTICES IT** | 40 | 39 | 107 |
+
+**THE FEVER BOUNDARY THAT GOVERNS THIS BAND IS 388 AND IT IS CORRECT: 256 − 158 = 98, 263 − 158 = 105. THE ORDER'S AGE IS PRINTED NOWHERE IN 381–390 BECAUSE THE RECORD GIVES IT AS SHELF 172 IN ONE PLACE AND 187 IN ANOTHER. NO CHAPTER USES *LAST WEEK* OR *THE WEEK BEFORE LAST*: EVERY BACK-REFERENCE IS AN EVENT ANCHOR OR AN EXACT COUNT, AND §5 IS THE AUDIT.** The woman of twenty-eight began on Chapter 361 and is on her twenty-second day at 383 and her twenty-eighth at 389. The order stood on Chapter 374; the price was said on Chapter 373.
+
+### 3. THE INSTRUMENTS, THE CALIBRATION RUN FIRST
+
+**THE METHOD: whitespace runs collapsed to one space; headings and `---` kept; every sliding window of k characters counted inside each chapter file separately with no window crossing a boundary, the ten files pooled into one tally; the figure printed is DISTINCT REPEATED WINDOWS OVER OCCURRENCES OF REPEATED WINDOWS; a window occurring once is in neither number.**
+
+| Set | Seventy characters | Forty characters |
+|---|---|---|
+| **CALIBRATION, Volume 07 Band 0004, `331`–`340`** | **122 / 254** | **1,201 / 2,817** |
+| **CALIBRATION, Volume 07 Band 0005, `341`–`350`** | **534 / 1,081** | **1,837 / 4,285** |
+| Volume 08 Band 0002, `361`–`370` | 171 / 342 | 942 / 2,066 |
+| Volume 08 Band 0003, `371`–`380` | 400 / 830 | 1,712 / 3,860 |
+| **THIS BAND, `381`–`390`** | **377 / 757** | **1,507 / 3,327** |
+
+**AND HERE IS WHAT THE BAND'S PROMPT §4 ITEM 2 GOT WRONG: THE PROMPT SAID THE WRITTEN METHOD RETURNS 1,838/4,287 FOR `341`–`350`. IT DOES NOT. IT RETURNS 1,837/4,285, WHICH IS THE FIGURE FOUR DOCUMENTS SAY DOES NOT REPRODUCE. THE METHOD IS UNDER-SPECIFIED AND THE PUBLISHED FIGURES ARE WRONG, NOT THE OTHER WAY ROUND; THE PROMPT'S 1,746/3,937 FOR THE REPAIRED `371`–`380` AT FORTY IS ALSO WRONG, AND 1,712/3,860 IS WHAT IT RETURNS. A BAND MUST NOT INHERIT A FIGURE FROM A PROMPT THAT HAS NOT RUN ITS OWN INSTRUMENT.** Ratios: 757 ÷ 377 = **2.008 EXACTLY**; 3,327 ÷ 1,507 = 2.208. **AT SEVENTY CHARACTERS THREE WINDOWS OCCUR THREE OR MORE TIMES AND ALL THREE ARE THE DRAFT'S SECOND CLAUSE QUOTED VERBATIM IN THREE ROOMS — `381`, `385`, `390` — BECAUSE IT IS A DOCUMENT BEING READ OUT; NOTHING OCCURS FOUR OR MORE TIMES. AT FORTY CHARACTERS SEVENTY OCCUR FOUR OR MORE TIMES AND THE ONES AT THE TOP ARE THE VOLUME'S OWN THREE FIXED PIECES OF LANGUAGE: *there is no form in this city that…*, the chapter-opener calendar clause, and *the building at the middle of the nine bridges*. ALL THREE ARE DELIBERATE AND NO PARAGRAPH IS DUPLICATED.**
+
+**THE REST, MEASURED AND NOT INHERITED, AND THE WHOLE LIST IS IN `state/batch-summary.md`: `**bold**` ZERO AND NO PANEL SPENT; `[0-9]` ZERO OUTSIDE THE TEN HEADING LINES; THE NUMERIC HEDGE **THREE** IN 20,203 WORDS, **ONE IN 6,735**, ALL THREE GENUINE APPROXIMATIONS IN A MOUTH; THE UNDECLARED CLOCK **ONE**; `it took` **FOUR**; EVERY LINE BALANCES ITS QUOTATION MARKS; AND EVERY STANDING PROHIBITION STRING IS AT ZERO, WITH THE WHOLE LIST IN `state/batch-summary.md`. THE CHILD'S NAME IS NOT SAID OUT LOUD IN ANY ROOM, AND THE RESERVED SENTENCE, THE HEALER'S NINE WORDS AND THE PANEL AT `360` ARE NOT RAISED.**
+### 4. THE MONEY, AND WHAT THE BAND DID TO IT
+
+**NO SPENT FIGURE WAS RE-USED AS A MULTIPLICATION AND NO SPENT SUBTRACTION WAS RE-PRINTED.** As facts given by persons of a place: thirty doors a fortnight; nine hundred doors; thirty lots of fourteen days is four hundred and twenty days; a year is three hundred and sixty-four; and four hundred and twenty less three hundred and sixty-four is fifty-six, the part nobody has ever paid anybody for (`382:21`, `390:19`); a keeper's year of four shillings, forty-eight pence, about a farthing a day and not quite (`382:37`); a plate at four shillings the hundred, two hundred names at eight, three hundred in four wards at twelve (`385:35`); a penny for nine days of chalk at three marks a day (`389:61`). **THE BAND'S ONE NEW FINDING ABOUT MONEY IS THE THIRD CLAUSE: A NAME GOES IN WITHOUT A PLATE, SO THAT FIGURE STOPS BEING A PRICE AND BECOMES A HISTORICAL FACT, AND THE THREE HUNDRED ARE NOT A GAP. THE ONE NEW FIGURE IS TARIN KEEL'S, IN HIS OWN MOUTH AT `387:31` WITH THE ADDITION PRINTED.** No figure was invented by a narrator, and the four hundred and eighty-five pounds, the levy at a bar, the two numbers on the market's slip and the £57 15s of March margin are at zero.
+
+### 5. THE DAY-PHRASE AUDIT, DONE BY HAND, AND THE CLASS IT LEAVES OPEN
+
+**EVERY DAY PHRASE IN ALL TEN CHAPTERS WAS READ AGAINST THE CHAPTER IT REFERS TO, AND THE BAND AS FIRST WRITTEN HAD ELEVEN WRONG UNDER ITS OWN ARITHMETIC: TWO WEEK-RELATIVE PHRASES POINTING AT A WEEK THAT HAD NOT BEGUN, A PLATE-CUTTER DATING HIS OWN FIGURES TO THE WRONG WEEK, A PIECE OF PAPER DATED *SINCE THE MIDDLE OF LAST WEEK*, AN EVENT GIVEN TWO DIFFERENT AGES IN ONE CHAPTER, A CLERK'S PROTECTION SAID TO HAVE LASTED THIRTY-FIVE DAYS WHEN THE REFUSAL WAS IN HIS FIRST WEEK IN THE CITY, WORDS DATED TWO DAYS AGO WHEN THEY WERE THREE, A MAN OF THIRTY-ONE DATING HIS OWN NUMBER TO THE WRONG DAY OF THE WRONG WEEK AND *A FORTNIGHT* WHEN IT WAS THIRTEEN DAYS, TWO MEN WHO HAD NOT SPOKEN *FOR A WEEK* WHEN IT WAS EIGHT DAYS, A ROOM DATED TWENTY-FOUR DAYS AGO WHEN IT WAS THIRTY, A PRICE DATED THREE DAYS OLD WHEN IT WAS SEVEN, AND SEVEN THINGS SAID TO HAVE BEEN TRUE TOGETHER *SINCE THE MORNING BEFORE THE MIDDLE OF LAST WEEK*. ALL ELEVEN ARE FIXED, AND THE FIX WAS THE ONE BATCH 0003'S RECEIPT TAUGHT: REPLACE A COUNT WITH AN EVENT ANCHOR RATHER THAN WITH A DIFFERENT COUNT, AND THREE COUNTS OF THOSE THREE FIXES SURVIVED SOMEWHERE AND WERE CUT.** THE CLASS IS NOT CLOSED: A COUNT A CHARACTER OWNS IS NOT THE BOOK'S COUNT, and the woman of twenty-eight's days are hers and check. **THE THREE FIGURES A LATER PASS CANNOT CHECK AT ALL ARE THE WOMAN OF THIRTY-FOUR'S HABIT AT A STANDPIPE, THE HEALER'S THREE TIMES IN THREE WEEKS, AND TARIN KEEL'S FORTNIGHT, WHICH IS HIS OWN PROMISE AND EXPIRED EIGHT DAYS AFTER HE MADE IT AND WHICH HE BROKE DELIBERATELY AND SAID SO.**
+
+### 6. WHAT THE BAND DID NOT SPEND, AND THE REPAIRS THE OUTLINE OWES
+
+**THE MERCY TRIAL IS INTACT AND UNCONTESTED. NOTHING IN 381–390 IS A HEARING, A TRIAL, A RESCUE, A FIGHT, A MONSTER, AN ESCAPE, OR A HEARING INTO WHICH ANYTHING COMES ALIVE, AND `390` IS SEVEN THINGS ON A TABLE IN A PUBLIC ROOM WITH NINE PEOPLE IN IT, PUT DOWN ONE AT A TIME AND NOT JOINED — `390:79` is the line that says so, and the bench of four is upstairs. THE ORDER STANDS. THE SIXTH PART IS AN EXIT AND NOT A REFUSAL. NOBODY IS RELIEVED, FORGIVEN, REDEEMED OR THANKED, AND `385:89` PUTS THAT SENTENCE IN A ROOM THAT WRITES THINGS DOWN, WHICH IS A FAULT AND IS DELIBERATE.**
+
+**THE STAGE DID NOT ARRIVE. HE IS STAGE 4 AT THE FIRST LINE OF CHAPTER 381 AND AT THE LAST LINE OF CHAPTER 390, `Remedy Drafter` APPEARS IN NO CHAPTER, NO CHAPTER NAMES OR STATS A STAGE, AND THE INTERFACE AWARDS NOTHING — AND IT IS RE-RECORDED HERE SO THAT NO LATER PASS CAN READ THE OUTLINE'S "BATCH 0004 OR 0005" AS 0004.** NO PANEL. **THE PLANTED QUESTION IS NOT RAISED: NOBODY SAYS *ARBITER*, NOTHING QUOTES OR ARGUES WITH THE PANEL AT `360`, THE ONE LINE UNDER THE FIFTH CLAUSE IS CARRIED AND NOT RAISED, AND `anchor` IS AT ZERO.**
+
+**AND THE REPAIRS `outline/volume-08.md` OWES: §MIDPOINT REVERSAL AND §BATCH 0003 SAY THE THREE HUNDRED ARE INSIDE THE PROTECTION BECAUSE HE PUT THEM THERE, AND THE CHAPTERS SAY THEY ARE IN A BOOK AND OUTSIDE A PROTECTION, SO BOTH SECTIONS ARE WRONG AND THE CHAPTERS ARE RIGHT. THE FEVER-WEEK BOUNDARY IS 374 AND NOT 379, AND THE ONE THAT GOVERNS 381–390 IS 388. THE ORDER'S DATE IS SHELF 172 IN ONE PLACE AND 187 IN ANOTHER AND BOTH CANNOT BE TRUE, AND ITS AGE IS PRINTED NOWHERE IN THIS BAND. AND §POWER PROGRESSION SAYS THE STAGE ARRIVES "IN BATCH 0004 OR 0005" AND IT ARRIVES IN 0005, SO THAT SENTENCE SHOULD BE REPAIRED.**
+
+### 7. THE BYTE ACCOUNT, MEASURED, AS THE RULE REQUIRES
+
+The six state files stood at **6,364,347** bytes when this phase began, against a manuscript of **5,313,190** bytes in 380 chapter files. The ten files of this band are **95,843** bytes and **20,203** words, and the manuscript is now 390 files. This block and its five siblings prepend to the six files and delete nothing, and the per-file additions are printed in `state/batch-summary.md`, **BECAUSE A BYTE COUNT OF THE SENTENCE THAT PRINTS A BYTE COUNT IS WRONG THE MOMENT IT IS WRITTEN.** THE RATIO HAS RISEN IN EVERY PHASE OF THIS VOLUME INCLUDING BOTH REPAIRS OF BATCH 0003, AND THE RECOMMENDATION THAT HAS STOOD UNACTED FOR THIRTEEN PHASES IS UNCHANGED: **A BAND MAY NOT PRUNE; A PHASE THAT WRITES NO PROSE IS THE ONLY ONE THAT MAY.**
+
+**AND THE FIGURE AFTER THE WRITE, WHICH IS THE ONE A LATER PASS SHOULD MEASURE AGAIN RATHER THAN INHERIT: MEASURED IMMEDIATELY AFTER ALL SIX BLOCKS WERE IN PLACE AND BEFORE THIS SENTENCE WAS WRITTEN, THE SIX STATE FILES STOOD AT 6,420,008 BYTES AGAINST 5,409,033 BYTES OF MANUSCRIPT IN 390 CHAPTER FILES, WHICH IS 1.187 TIMES THE BOOK, AGAINST 6,364,347 AND 5,313,190 AND 380 FILES WHEN THIS PHASE BEGAN. THE PER-FILE ADDITIONS WERE `state/current.md` +11,926, `state/continuity.md` +10,256, `state/open-threads.md` +7,446, `state/character-state.md` +10,773, `state/chapter-summaries.md` +10,058 AND `state/batch-summary.md` +5,202, WHICH ARE +55,661, AND NOTHING WAS DELETED FROM ANY ARCHIVE BLOCK. A BYTE COUNT OF THE SENTENCE THAT PRINTS A BYTE COUNT IS WRONG THE MOMENT IT IS WRITTEN, SO THIS IS A MEASUREMENT TAKEN AT A MOMENT AND NOT A CONSTANT.**
+
 ## VOLUME 08 BATCH 0003 IS REPAIRED TWICE — CHAPTERS 371–380, *The Half That Is Not A Refusal*. **THIS BLOCK SUPERSEDES `## VOLUME 08 BATCH 0003 IS DELIVERED…` AND EVERY BLOCK UNDER IT. NOTHING BELOW THIS LINE HAS BEEN EDITED, AND THE ARCHIVE BELOW IS BYTE-FOR-BYTE WHAT WAS DELIVERED: the first pass of this repair corrected eleven line citations *inside* the block below while that block was still live, and the second pass restored every one of them, so an archive block in this project is again unedited and the corrections live here instead. Chapters 1–380 are canon. `outline/series.md:191` outranks `outline/ending.md`, which outranks `outline/volume-08.md`, and all three outrank this file. THE REVIEW IS `logs/batch-0003.review.log`; THE REVIEW OF THE REPAIR IS THE FINDINGS IN §4 BELOW; AND §11 IS WHAT THE REPAIR FOUND IN ITS OWN STATE LAYER, WHICH IS THE PART OF IT THAT MATTERS MOST.**
 
 ### 1. WHAT WAS REPAIRED, IN ONE PARAGRAPH, AND NOTHING ELSE WAS

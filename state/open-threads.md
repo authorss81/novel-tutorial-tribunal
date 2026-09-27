@@ -1,3 +1,42 @@
+## VOLUME 08 BATCH 0004 — CHAPTERS 381–390. **THIS BLOCK SUPERSEDES THE BLOCK BELOW AND EVERY BLOCK UNDER IT. NOTHING BELOW THIS LINE HAS BEEN EDITED. Chapters 1–390 are canon. THE RECEIPT IS THE TOP BLOCK OF `state/current.md`.**
+
+### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM
+
+**1. THE FILED DRAFT. OPEN, AND IT IS A DOCUMENT AND NOT A DRAFT ANY MORE.** Four clauses and a half with a name at the top of it in two hands, on the back of a chandler's bill for candles, in a tray and in a book on the second floor and in a column for things that have been sent to a chamber. Its third clause makes a name enterable without a plate and without a fee by any person of the ward. Its fourth and fifth put a round of four hundred and twenty days over nine hundred doors on a woman of forty-four, and he filed it knowing that, and he said the knowing out loud in a room that writes things down first.
+
+**2. THE FLAW. OPEN, AND IT IS NOT A DEFECT THAT CAN BE CORRECTED.** *Naming a burden does not stop the harm; it puts a person under it so that the record shows that a person did it.* A filed draft's visible flaws are his public responsibility, and the two clauses that name a woman of forty-four are visible to about nine people in a public room and to every person who can be asked about a book in a building at the middle of the nine bridges.
+
+**3. THE THIRD REQUIREMENT. STILL OPEN AND STILL NOT OBTAINABLE, AND IT IS NOW NAMED TWICE IN TWO ROOMS.** Acceptance by the people who will live under it, which is four hundred and twenty days of one woman's life, and it cannot be got, and asking is the instrument, and the instrument is the thing that takes it. **AND THE INSTRUMENT HAS NOW BEEN SHOWN, IN A WOMAN'S OWN MOUTH, TO BE THE THING THAT PUT HER IN A BOOK: A SENTENCE SAID IN A ROOM WITH A CLERK IN IT IS THE ONLY ONE OF THE THREE PLACES HE SAID IT THAT BECOMES A THING THAT IS KEPT. HE CHOSE THE ROOM ON PURPOSE AND HE CHOSE IT BECAUSE IT WAS THE ONLY PLACE A PRICE WENT.**
+
+**4. THE FOUR RECORDS. WORSE, NOT BETTER, AND A PERSON OF THIS CITY HAS SAID SO IN A SHED.** A plate, a paper, a keeper, and a block in a gatepost that nobody in the ward can read. The second clause of the draft says the four are one record and that where they differ the paper is the account and the plate is the working, and the meeting of the ward that would weigh the block again does not exist and cannot be called, and the block says what it said two years ago and gets nothing.
+
+**5. THE PLATE. CLOSED AS A PRICE AND OPEN AS A FACT.** Four shillings the hundred stops being a price and becomes a historical fact, because a name that goes in without a fee goes in without a plate. A man of fifty-nine is still cutting, has been told what a line is for, asked out loud whether he was to stop, was answered by nobody, went back to the wheel, and has now been told in a fair hand that the working is not the account.
+
+**6. THE ROUND. OPEN, AND IT HAS A PRICE ON IT FOR THE FIRST TIME IN ITS EXISTENCE AND NOBODY HAS PAID IT.** Thirty doors a fortnight, nine hundred doors, four hundred and twenty days, a year and fifty-six days over a year of three hundred and sixty-four, and the fifty-six is the part nobody has ever paid anybody for. The keeper has not been to a door since the water came. A man of fifty-nine has said out loud that the first line anybody has cut in his yard in two years that anybody might need is a line nobody will need, and that it is the only part of it he has any feeling about.
+
+**7. THE NAME. OPEN, AND IT IS THE OLDEST THREAD IN THE PROJECT AND IT HAS MOVED.** His own name is on one sheet in a chamber and is now on a page with a woman's name at the foot of it, and there is no form that takes a name off a page. Fenna Rusk is in two records instead of one and neither can be closed. **AND FOR THE FIRST TIME IN THIS VOLUME A PERSON IN THIS CITY CAN BE ASKED ABOUT A THING IN A BOOK BECAUSE OF HIM, AND HE SAID OUT LOUD THAT IT WAS GOING TO BE HIM BEFORE HE DID IT.**
+
+**8. THE THIRD USE OF THE INSTRUMENT, AND THE THIRD ONE IS THE ONE THAT WORKED.** The first was refused at a gate. The second was refused in a room by a clerk on his behalf. The third was a clerk asking him for a name in a room in front of six people. **ALL THREE OF THE FIRST TWO WERE OTHER PEOPLE'S PROTECTIONS AND THE THIRD WAS HIS OWN DECISION, AND THE DIFFERENCE IS THE WHOLE OF WHAT THE BAND DID.**
+
+**9. THE BOY OF SIXTEEN, WHO SAID IT OUT LOUD FOUR TIMES IN ONE MORNING IN A DOORWAY IN A YARD.** He was told nothing about it, nobody stopped him, and he said he would say it in the next yard and at the top of the row and that nobody had said to him not to, and that is the whole of how a thing travels in this ward.
+
+**10. THE HEADING. OPEN, AND IT IS OWED AND IT IS UNASKED.** Nineteen dead in chalk with nothing over the top of it and nothing at the foot of it, kept by a man of thirty-one who is paid nothing, who asked a room at `390` and got no answer, and who has wanted one every day since the second week.
+
+**11. THE SIX HALLS AND THE THIRTY BEDS. OPEN, AND THE COUNT IS TWO HALLS SHORT.** Four numbers off four walls out of six halls, two doors that would not open, two crosses for beds a woman on a stool says are spoken for and a man of fifty-two did not go and check, and a number that is about halls and is the best number anybody in this city has got about anything and the wrong number for what was done.
+
+**12. THE CHALK. WORSE.** A woman of twenty-eight has no chalk, has said out loud that she will run out of it in a street on her own and tell nobody, and has told him that the day she does not go is also his fault, and he has bought her nothing and said why at a door.
+
+### PART TWO — WHAT THIS BAND CLOSED, AND BY WHOM
+
+- **THE QUESTION OF WHAT FILING MEANS IN THIS CITY.** Closed by a clerk of thirty, in answer to a question, before it happened: a fair hand, a book, a line at the top of it, and a bench of four that can be asked about the book and cannot be asked to do anything with it.
+- **WHICH OF THE THREE PLACES HE SAID IT IN PUT HER IN A BOOK.** Closed by a woman of forty-four in her own room, in answer to a question, and the answer is the room with a clerk in it, and the finding is that the instrument worked.
+- **THE PRICE OF A ROUND.** Closed as a figure and open as a payment. Four hundred and twenty days, a year and fifty-six, forty-eight pence, about a farthing a day and not quite, and a penny for nine days of chalk.
+- **THE PLATE-CUTTER'S QUESTION.** Closed again, in the same way, and the answer is still nobody, and he went back to the wheel, and at `384:57` he did one thing nobody asked him for.
+
+### PART THREE — WHAT THE NEXT BAND MUST NOT RE-OPEN
+
+The worst door. The chalk as a metaphor. The name as a rescue. The notice as a plot, in either direction. The word *anchor*, which is a fact and is not a question. **THE CHILD'S AGE IS EIGHT AND HIS NAME IS STILL NOT SAID OUT LOUD UNLESS A BAND KNOWS EXACTLY WHY IT IS BEING SAID AND WHAT IT COSTS. THE BAD EAR IS BAD. THE MOTHER IS NOT A VILLAIN AND NOT A FOOL. THE CLERK OF THIRTY'S REFUSAL IS NOT A KINDNESS AND MAY NOT BE RE-STAGED — AND IT HAS NOW BEEN SPENT TWICE OVER, BECAUSE HE ASKED FOR A NAME AND WAS GIVEN ONE IN A ROOM. THE PRICE SAID OUT LOUD DID NOT WORK FOUR TIMES AND WORKED ON THE SIXTH, AND THE ONLY THING THAT CHANGED WAS A CLERK IN THE ROOM, AND NOBODY IS ALLOWED TO REWRITE THE FIRST FOUR.**
+
 ## VOLUME 08 BATCH 0003 IS REPAIRED TWICE — CHAPTERS 371–380. **THIS BLOCK SUPERSEDES THE BLOCK BELOW AND EVERY BLOCK UNDER IT. NOTHING BELOW THIS LINE HAS BEEN EDITED, AND THE ARCHIVE IS BYTE-FOR-BYTE WHAT WAS DELIVERED. THE RECEIPT IS THE TOP BLOCK OF `state/current.md`; THE FINDINGS ARE `logs/batch-0003.review.log` AND §4, §5 AND §11 OF THAT RECEIPT.**
 
 - **THREE LINE CITATIONS IN THE ARCHIVE WERE WRONG: `372:71`→`372:65` FOR THE RESERVED SENTENCE, `377:23`→`377:25` FOR THE HEALER'S NINE WORDS, `376:47`→`376:55` FOR THE MOMENT HE STOOD IN THE DOOR.**
