@@ -1,6 +1,6 @@
 # Chapter 267: Two Cases Side By Side, And The Price Of It
 
-The third day of the sixtieth week added seven to a board in a country where every day adds four, and the three on top of it were a stranger, and the stranger was a man of about forty with a handcart and a grey coat who came the other way at about the fourth hour, said his name when a woman of about fifty at the bar asked him to, and went down the lane, and a woman of forty-one rang three times, off the end of her fingers, with her eyes on the lane and not on the wall, and said nothing whatever about what the three of them were for.
+Seven went onto the board on the morning of the third day of the sixtieth week, and it had read sixty-three thousand six hundred and eighteen at the second light, and three of the seven were a stranger. The stranger was a man of about forty with a handcart and a grey coat who came the other way at about the fourth hour, said his name when a woman of about fifty at the bar asked him to, and went down the lane, and a woman of forty-one rang three times, off the end of her fingers, with her eyes on the lane and not on the wall, and said nothing whatever about what the three of them were for.
 
 The man of thirty-one had been in the country seventeen days. He had walked nine miles up the lane the evening before, said about eleven words in a doorway in Ellerby, slept about four hours in a house belonging to a woman of about sixty who had not offered it and had not been asked, and walked nine miles back in the dark with a recordwright of twenty-eight and had reached the yard at Coldharrow at about ten minutes past the second light, which is early, and had not mentioned that it is early.
 
@@ -64,7 +64,7 @@ She put the cloth over her shoulder.
 
 ---
 
-And here is the sentence the man of thirty-one did not say in the doorway and wrote down afterwards, in a hand of his own, on a leaf he tore out of a book, and did not give to anybody, and which is the true shape of the thing that happened to him in this country in the fourth week of the eighteenth day:
+And here is the sentence the man of thirty-one did not say in the doorway and wrote down afterwards, in a hand of his own, on a leaf he took out of a book, and did not give to anybody, and which is the true shape of the thing that happened to him in this country on the eighteenth day:
 
 *He was right about the mechanics. The mechanics were right, the two accounts do sit side by side, the sentence about the number and the name is true, and the woman of twenty-eight is right that it is a waste. The human meaning of it arrived late, as it always does, and it arrived on two women in a county of two hundred and ten people, and neither of them was asked, and he did not find out that he had done it until the second of the two had already said it back to him.*
 
@@ -72,4 +72,4 @@ And here is the sentence the man of thirty-one did not say in the doorway and wr
 
 He did not write any of the rest of the day down. He had learned that once, in a market town four hundred miles off, in about a month, and he had written it down then as a fact about a thing he had done and not as a rule, and the fact was that there is a place where a thing you have written in your own hand to be careful with goes, and who is holding it, and it is not him.
 
-At the last bell, a woman of about forty with a barrow came through the bar that is not shut, on her way up the lane, and stopped in the yard of the last house at Ellerby for about as long as it takes to cross a yard, and a man of about thirty-five with a barrow put a name on a wall.
+At the last bell, a woman of about forty with a barrow came through the bar that is not shut, on her way up the lane, and stopped in the yard of the last house at Ellerby for long enough to look at the two hundred and nine names on the wall of the last house, and a man of about thirty-five with a barrow put a name on a wall.

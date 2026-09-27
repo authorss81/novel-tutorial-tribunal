@@ -1,10 +1,10 @@
 # Chapter 263: A Date Bought By Somebody Else
 
-The sixth day of the fifty-ninth week was the day a boundary was walked, and it was the first one anybody in Coldharrow had walked since the twenty-second year of a board on a wall, and the man of thirty-one was in the lane at the second light for the express purpose of being told that and not of saying it.
+The sixth day of the fifty-ninth week was the day a boundary was walked, and the board had read sixty-three thousand five hundred and eighty-eight at the second light, and it was the first boundary anybody in Coldharrow had walked since the twenty-second year of a board on a wall, and the man of thirty-one was in the lane at the second light to be told that and not to say it.
 
-Nine men went out of the village, and four of them came from Ellerby, and one of the four was a woman of about sixty who was twenty-one when the last one was walked and who has a name, and her name is Wenna Skell, and it is the first time anybody in this stretch has said it out loud in a lane.
+Nine men went out of the village, and four of them came from Ellerby, and one of the four was a woman of about sixty who was twenty-one when the last one was walked and who has a name, and her name is Wenna Skell, and it is the first time anybody in this county has said it out loud in a lane.
 
-They went a mile and a half along a hedge with two elms on it, and a man of about sixty-one put the marks on the elms again because they are nine years old and the tools that made them are not, and the woman of forty-one counted, out loud, the whole way, and there were seven.
+They walked the last mile and a half of a hedge that runs nine miles from this gate to that village, which is where the two elms are, and a man of about sixty-one put fresh marks on them because the marks that are there are nine years old and the tools that made them are not, and the woman of forty-one counted out loud the whole way, and there were seven.
 
 Seven at the first elm and the corners and the end and twice coming back, and the woman of forty-one said the number out loud in the middle of it in the voice she uses, and the man of thirty-one heard the seventh one and understood that it was the same seven that had gone onto that board in the twenty-second year, in her father's hand, in the grain, and that the board could not tell him so and never would.
 
@@ -20,7 +20,7 @@ He and the man of fifty-two walked the eleven miles to Coldharrow-edge, which is
 
 “A day for the third day of that week,” he said. “For the day a sealed copy of an order was opened and read out in a yard in Coldharrow. In the grain year your clerk uses, because I have no idea what else it takes and you told me it takes that.”
 
-“That takes that,” said Nell Callow, and wrote it in about four minutes, because she is fast, and charged a pound, three shillings and sixpence, and did not ask him a single question about it, which is a thing this project has relied on four hundred times.
+“That takes that,” said Nell Callow, and wrote it in about four minutes, because she is fast, and charged a pound, three shillings and sixpence, and did not ask him a single question about it, which is a thing she has relied on four hundred times.
 
 “Who is it for?”
 
@@ -40,7 +40,7 @@ The man of fifty-two did the sum on the side of her press bench, because there w
 
 He put the lead down.
 
-“Two pounds and eighteen shillings of a woman of forty-one’s year,” he said, “and I have known her thirteen days, and I printed her whole year on a cart’s side in a yard in that village six days ago and it came out at five pounds five and I have been carrying the five pounds five round since and I have just spent two pounds and eighteen of it, and the woman was not in the room and does not know and I would like that noticed by about eleven people and by whoever is going to read this in a book in nine days.”
+“Two pounds and eighteen shillings of a woman of forty-one’s year,” he said, “and I have known her thirteen days. I printed her whole year on a cart’s side in a yard in that village six days ago and it came out at five pounds five, and I have been carrying the five pounds five round since, and this afternoon I have spent two pounds and eighteen of it. The woman was not in the room and does not know, and I would like that noticed by about eleven people, and by nobody else.”
 
 Nobody said anything. About four of them had understood that the two pounds and eighteen was not a price at all and was the entire annual wage of a woman, spent in an afternoon by three men.
 
@@ -48,7 +48,7 @@ Nobody said anything. About four of them had understood that the two pounds and 
 
 They walked the eleven miles back and the man of thirty-one did most of the walking in silence and then said, at about the seventh mile, the sentence that had cost him the most of anything he has said in this country:
 
-“I said on the first day of that week, on a hedge, in front of a boy of seventeen, that I had been in this country four days and had decided in those four days that the answer was to get a second person who can be asked, and that I never once asked myself what would happen to the first of the two when the second of them arrived. *I have had six more days since the fourth and I have got a second person, and the first one is going to know about it this afternoon, and I did not ask her either, and there was a moment on the bench at that press where I could have said it to her and I bought the day instead.*”
+“I said it on a hedge, in front of a boy of seventeen, on the fourth day of the fifty-eighth week, and I said that I had been in this country four days and had decided in those four days that the answer was to get a second person who can be asked, and that I never once asked myself what would happen to the first of the two when the second of them arrived. *That was nine days ago. I have got a second person, and the first one is going to know about it this afternoon, and I did not ask her either, and there was a moment on the bench at that press where I could have said it to her and I bought the day instead.*”
 
 He walked about a quarter of a mile.
 
@@ -70,7 +70,7 @@ He put the paper in his coat.
 
 The recordwright of twenty-eight, who had been in the country thirteen days and had said nine words in a garden on the fourth day of that week and again on the fifth, said the thing she had come to say and did not improve on it.
 
-“Two names on one thing is not two witnesses,” she said. “It is one thing with two people standing in front of it, and one of them is a man of thirty-eight who has wanted a day for a lane for nineteen years and one of them is a stranger, and a room nine days from this field will take the one it likes, and I have been in one of those rooms and I have watched it happen, and I would like it written down somewhere that is not a wall.”
+“Two names on one thing is not two witnesses,” she said. “It is one thing with two people standing in front of it, and one of them is a man of thirty-eight who has wanted a day for a lane for nineteen years and one of them is a stranger, and a room nine days from this field will take the one it likes, and I have been in one of those rooms and I have watched it happen, and I would like it written down in a place a person can be held to account in, and I have looked for one for about a week and there is not one in this county.”
 
 Nobody wrote it down anywhere. It is in four places.
 

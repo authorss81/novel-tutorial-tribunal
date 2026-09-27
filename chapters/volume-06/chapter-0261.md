@@ -2,9 +2,9 @@
 
 The fourth day of the fifty-ninth week began with a satchel going back under a seat, and nobody in the county had asked for that to happen and nobody was sorry it had, and by the time the man of thirty-one came out into the yard at the second light the timber cart was thirty yards up the lane with its load and a man of about fifty-one asleep in a shed behind it would not be for another hour.
 
-He had four days of road in front of him. He had no reason to stay. He had no reason to go either, and both of those were true, and the man of thirty-one, who had been in the country eleven days, worked out that the second of them was the one that had been arranged and the first one was the one that had not.
+He had four days of road in front of him. He had no reason to stay, and he had no reason to go either, and both of those were true. He had been in the country eleven days, and he worked out that the second of the two was the one that had been arranged and the first one was the one that had not.
 
-*It is going to be under that seat on the day it goes*, and there was nobody in two hundred and ten people who had said that out loud except a woman of forty-one on the third day of that week, and she had said it about a piece of paper and had been talking about the rest of it as well and had not told anybody she had done that.
+*It is going to be under that seat on the day it goes*, and there was nobody in two hundred and ten people who had said that out loud except a woman of forty-one on the third day of that week, and she had said it about a piece of paper and had been talking about the rest of it as well, and had not told anybody she had done that.
 
 The figure on the board at the second light that morning was sixty-three thousand five hundred and seventy-nine, and it was four bells and one more, and the one more was not a stranger and was not anything else on the list, and there was going to be a long afternoon about it.
 
@@ -16,7 +16,7 @@ Nobody had decided anything, and that was the trouble with the morning, and the 
 
 Nobody in the yard had a better version of it, and about four of them had understood what he had said and the other five had not, and the difference between those two numbers is the difference between a man who has been in a room and a man who has been in a yard.
 
-Then the man of thirty-one, who has spent two volumes learning that the only useful thing a person can do with a piece of paper is put it in front of somebody, said the thing that had actually happened.
+Then the man of thirty-one, who has spent ten weeks learning that the only useful thing a person can do with a piece of paper is put it in front of somebody, said the thing that had actually happened.
 
 “Four lines came into this county and have gone out of it in about a day and a half,” he said, “and during the time they were here, four people read them and two of those four can read at all, and the one who read them out loud in front of nine people was a woman of forty-one who said in the same breath that she was not going to have it in this village, and she was not going to have it on her board, and I have watched her since and she has not written one word of it anywhere and she is right about that and so is everybody else in this yard.”
 
@@ -76,7 +76,7 @@ The man of thirty-one had been in the country eleven days and he had watched the
 
 “That is the way of a rope,” said the man of about fifty, and went to bed.
 
-“Yes,” said the man of thirty-one. “And I can account for it, and I am the only person in this county who can account for it this evening, and I want to be careful about why, because it is not because I am clever. It is because I have been standing in this yard at the second light on ten of the ten mornings of them, and I have not been doing anything, and a man who is doing nothing watches the hands, and none of the rest of you has ever had to look at that, because you all know what a ring is for and I do not, and a person who has to ask what a ring is for is a person who ends up watching the hands.”
+“Yes,” said the man of thirty-one. “And I can account for it, and I am the only person in this county who can account for it this evening, and I want to be careful about why, because it is not because I am clever. It is because I have been standing in this yard at the second light on ten of the ten mornings of them and not doing anything, and a man who is doing nothing watches the hands, and none of the rest of you has ever had to look at that, because you all know what a ring is for and I do not, and a person who has to ask what a ring is for is a person who ends up watching the hands.”
 
 The woman of forty-one looked at him for a second, properly, the way she did on his first morning, and whatever she decided about him was decided inside that second and not in the whole of the rest of it, and she did not say what it was.
 
@@ -84,13 +84,13 @@ The woman of forty-one looked at him for a second, properly, the way she did on 
 
 ---
 
-And then the man of fifty-two said the thing that was underneath it, and said it out loud, and about four people in the lane heard it, and it is the sentence this whole stretch of days turns on and it took a woman of thirty-five with a hen out of her own head to arrive at it.
+And then the man of fifty-two said the thing that was underneath it, and said it out loud, and about four people in the lane heard it, and it is the sentence the rest of this turns on, and it took a woman of thirty-five with a hen out of her own head to arrive at it.
 
-“A number that anybody can move is not a record,” said the man of thirty-one. “And that is not a thing about bells. It is a thing about the only thing in this county that anybody has ever been able to look at. Four bells a day is four bells a day and it is the same in eleven villages and it does not matter who pulls. But the two on top of it are the board, and the board is the whole of what there is, and the two on top of it are whatever a person with a hand on a rope was doing at that moment, and there is no column, and there was never a column, and there is not going to be one.
+“A number that anybody can move is not a record,” said the man of thirty-one. “And that is not a thing about bells. It is a thing about the only thing in this county that anybody has ever been able to look at. Four bells a day is four bells a day. It is the same in eleven villages and it does not matter who pulls. The two on top of it are the board, and the board is the whole of what there is, and the two on top of it are whatever a person with a hand on a rope was doing at that moment. There is no column. There was never a column. There is not going to be one.
 
-“So the count is the easiest thing in this county for a person to move and the hardest thing in this county to argue with afterwards, and I have been here eleven days and I have been trying to work out how to make a room take this seriously, and the answer is that a room cannot take a number seriously, because a number is not a thing, and the only person in two hundred and ten people who can be asked about a number is the person who keeps it, and she is paid ninepence a day for a hundred and forty days, and I have been telling that to a recordwright since the fifth day of that week and I have just found out that I have also been telling it to a bell.”
+“So the count is the easiest thing in this county for a person to move and the hardest thing in this county to argue with afterwards, and I have been here eleven days and I have been trying to work out how to make a room take this seriously, and the answer is that a room cannot take a number seriously, because a number is not a thing, and the only person in two hundred and ten people who can be asked about a number is the person who keeps it, and she is paid ninepence a day for a hundred and forty days, and I have been saying that to a recordwright for about a week now and I have just found out that I have also been saying it to a bell.”
 
-The lane went on being a lane, and the last bell had been and about nine people went off to do whatever it is they do at the last bell, and the three who stayed were the man of thirty-one, the man of fifty-two, and a woman of forty-one on the ground at the foot of a ladder.
+The lane went on being a lane, and the last bell had been, and about nine people went off to do whatever it is they do at the last bell. The three who stayed were him, the man of fifty-two, and a woman of forty-one on the ground at the foot of a ladder.
 
 “Tomorrow will be four,” she said.
 

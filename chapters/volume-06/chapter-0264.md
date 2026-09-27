@@ -1,6 +1,6 @@
 # Chapter 264: A Thing From A Building With A Yard
 
-The seventh day of the fifty-ninth week was a market day, and a market is the only day anything at all comes up the eleven-village lane, which is a fact about this county that nobody in it had ever had cause to notice before, and the thing that came up on this one came in a barrow with a list of eggs under it and had been in a drawer for four days.
+The seventh day of the fifty-ninth week was a market day, and the board had read sixty-three thousand five hundred and ninety-nine at the second light, and a market is the only day anything at all comes up the eleven-village lane. That is a fact about this county that nobody in it had ever had cause to notice before, and the thing that came up on this one came in a barrow with a list of eggs under it and had been in a drawer for four days.
 
 The gate did nine loads between the second light and the noon bell, threepence a load, and the woman of about fifty who keeps that post had her stick and her own board out in the lane and called the count aloud as each one came past, and none of that has anything to do with the rest of this and is here because the three of them were standing in the lane at the time and could not go anywhere.
 
@@ -10,7 +10,7 @@ That is the second time in ten days, and it had become a thing in Coldharrow wit
 
 The woman of forty-one read it, because she is the only one in the yard who reads anything, and she read it twice and gave the fourth line its own beat.
 
-> WATER-SEAT OF SALLYBY. FORM 6. ACKNOWLEDGMENT OF A COPY CARRIED OUT OF THE DISTRICT.
+> WATER-SEAT OF SALLOWBY. FORM 6. ACKNOWLEDGMENT OF A COPY CARRIED OUT OF THE DISTRICT.
 >
 > A copy is not evidence. A copy is paper. An acknowledgment is evidence of one thing only, which is that a person was in a place and read a copy and is willing to say so afterwards.
 >
@@ -30,7 +30,7 @@ Nobody said no and nobody said yes, and it is worth saying that about the fourth
 
 Then the man of thirty-one said the thing that the sheet did not know, and it is worth saying how small it was, because it is a fact about a form and not about a county.
 
-“It is correct,” he said. “Every line of it is correct, and it is the most correct thing anybody has read in this country in fourteen days, and I have been in rooms where a thing like that was worth four hundred pounds to somebody. A copy is paper. An acknowledgment is a person saying they saw it. That is not a rule anybody made up. That is the only thing that makes a piece of paper worth carrying four hundred miles.”
+“It is correct,” he said. “Every line of it, and it is the most correct thing anybody has read in this country in fourteen days, and I have been in rooms where a thing like that was worth four hundred pounds to somebody. A copy is paper. An acknowledgment is a person saying they saw it. That is not a rule anybody made up. That is the only thing that makes a piece of paper worth carrying four hundred miles.”
 
 “Then what is wrong with it,” said Tarin Keel, from the end of a cart, in a voice that has counted carts on roads for nineteen years and does not like being out of a sum.
 
@@ -50,7 +50,7 @@ Then the man of thirty-one said the thing that the sheet did not know, and it is
 
 And then the woman with the board said the thing that had been underneath it since the first morning of that week and had been coming up under everything since the second day of the fifty-ninth week, and she said it standing at the foot of her own ladder in front of about eleven people, and it took her about four seconds and she had clearly had it since the noon bell.
 
-“You sent for this,” she said, to Sable Venn, and not unkindly.
+“You sent for this,” she said, not unkindly.
 
 “Yes,” said Sable Venn. “I sent for it eight weeks ago, in the same week I had a copy made, and I did not tell the man of thirty-one and I did not tell the man of fifty-one and I did not tell the woman of forty-one and I have not been in this county ten days and I have not put one thing on one board. I sent for it because I have carried about four hundred pieces of paper into several hundred people who could not lay down a pound three shillings and sixpence for a day out of a village, and I have known for nine years what the trouble with all four hundred of them is. *A copy is paper.* And I have never once been able to fix that, and I sent for a form in a city I was standing in, and it has come four hundred miles on a barrow under a cloth with a list of eggs on top of it, and I do not know yet whether it fixes it or whether it is the worst of the four hundred.”
 
@@ -64,7 +64,7 @@ Nobody thanked her. Nobody in that lane had thanked her for anything since the s
 
 “The name it wants is a person who was in a room when a copy was read out. And there is one, and there is only one, and I do not have to be told that, I have known it since the second day of that week when I read four lines out loud in a yard in front of about nine people and said I was not going to have it in this village in the same breath. *A person who was in a room.* It is a yard. It is a yard and a ladder and a wall and nine people and about half of them were not listening. And I am the one and there is nobody else.”
 
-She did not say no. She did not say yes. She wiped the foot of a board which did not need it, which is what she does, and the man of thirty-one had learned by the fourteenth day that it is not a thing she does instead of a thing she is about to say.
+She did not say no. She did not say yes. She wiped the foot of a board which did not need it, which is what she does, and he had learned by the fourteenth day that it is not a thing she does instead of a thing she is about to say.
 
 “Read the fourth line again,” she said, and Delya Craven handed her the sheet without a word and without having read it, which is worth about nine lines on its own, and the woman of forty-one read the fourth line again and gave it the same beat she had given it the first time.
 
@@ -88,6 +88,6 @@ It was not decided, and it was not going to be decided, and what had actually ha
 
 The carter wanted a road, and the reason was a gate, and the gate wanted a day.
 
-The woman of forty-one wanted the whole of it said out loud in a place that was not a wall, and the reason was that she had been holding a fact about ninety acres for nine years and nobody had ever asked her for it, and eleven families were grazing a strip and paying nothing and had never been told.
+The woman of forty-one wanted the whole of it said out loud where it could be got at, and the reason was that she had been holding a fact about ninety acres for nine years and nobody had ever asked her for it, and eleven families were grazing a strip and paying nothing and had never been told.
 
 And the woman of about sixty, nine miles off, who was twenty-one the day it was walked and had a name that had been said out loud in a lane for the first time that morning, wanted it gone, and nobody in Coldharrow knew that yet, and she had not told anybody, and she was not going to be asked.

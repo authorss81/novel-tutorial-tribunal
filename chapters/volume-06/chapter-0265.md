@@ -1,10 +1,10 @@
 # Chapter 265: The Use, And The Expose, And The Destroy
 
-The first day of the sixtieth week added six to a board in a country where every day adds four, and the two on top of it were a debt, and the whole of Coldharrow knew there was a debt before the noon bell and knew by the last bell whether it had been paid, and the man of thirty-one stood in a yard at about the ninth hour and listened to nine people not saying anything about it, and understood that this is a country where a thing that has been said out loud is finished.
+Six went onto the board on the morning of the first day of the sixtieth week, and it had read sixty-three thousand six hundred and seven at the second light, and two of the six were a debt. The whole of Coldharrow knew there was a debt before the noon bell and knew by the last bell whether it had been paid. The man of thirty-one stood in a yard at about the ninth hour and listened to nine people not saying anything about it, and understood that this is a country where a thing that has been said out loud is finished.
 
-He had been in the country fifteen days and had said out loud in a yard on the third day of that week that he was here for about a week.
+He had been in the country fifteen days and had said out loud in a yard on the third day of the fifty-ninth week that he was here for about a week.
 
-He was not asked anything that day. That is the thing to put first, because it is the finding and it is not a surprise: *he was not asked, and the reason he was not asked is a thing he established himself on the fifth day of that week and has not been able to take back, and a place with no party is a place that can be done to.* Nobody in eleven villages has a person to ask. So the four of them were told, at the last bell, in a yard, by three people, in about four minutes, and he was in it, and the four minutes were the most consequential four minutes of his year and he was a thing standing in it.
+He was not asked anything that day. That is the thing to put first, because it is the finding and it is not a surprise: *he was not asked, and the reason he was not asked is a thing he established himself on the fifth day of the fifty-ninth week and has not been able to take back, and a place with no party is a place that can be done to.* Nobody in eleven villages has a person to ask. So the four of them were told, at the last bell, in a yard, by three people, in about four minutes, and he was in it, and the four minutes were the most consequential four minutes of his year and he was a thing standing in it.
 
 ---
 
@@ -14,7 +14,7 @@ The carter said it first, and he had said most of it twice before in a yard and 
 
 “Off one gate,” said Tarin Keel, from the end of a cart, because he could not help it and it is not a fault. “And that is fifteen pounds fifteen a year. And ten pounds ten of it is what a man earns walking it, and five pounds five of it is the woman who keeps the count.”
 
-“I know what it is. I have known what it is for nineteen years and I have had it in my head every day of them. And here is the half of it that nobody in this yard has ever said out loud, and it is not me being clever, it is me having counted. *That money keeps nothing. There is no surface. A bar across a post that is not shut is not a road and three thousand seven hundred and eighty pence a year does not buy one, and the day there is a road somebody is going to want a date kept on it, and a date is a pound three shillings and sixpence, and four of them in a year is four pounds fourteen, which is a year of the woman who keeps the count less eleven shillings.* So the price of my wanting it is her wage, and I have never once said that in a yard because I have never had anybody in a yard who could do the sum.”
+“I know what it is. I have known what it is for nineteen years and I have had it in my head every day of them. Here is the half of it that nobody in this yard has ever said out loud, and it is not me being clever, it is me having counted. *That money keeps nothing. There is no surface. A bar across a post that is not shut is not a road, and three thousand seven hundred and eighty pence a year does not buy one.* And the day there is a road somebody is going to want a date kept on it, and a date is a pound three shillings and sixpence, and four of them in a year is four pounds fourteen, which is a year of the woman who keeps the count less eleven shillings. So the price of my wanting it is her wage, and I have never once said that in a yard, because I have never had anybody in a yard who could do the sum.”
 
 Everybody looked at the man of fifty-two, who had not expected to be looked at.
 
@@ -52,13 +52,13 @@ And then the woman of forty-one said the third one, and she had been carrying it
 
 And that is all of it, and it took about four minutes, and the man of thirty-one stood in the middle of a yard with the best instrument he has ever had and did not use it, and this is the honest shape of the fifteenth day of his being in this country.
 
-He was not asked. Three people in a yard said three positions in three ordinary mouths and not one of them said his name or looked at him to check, and he has no party, no bench, no office, no standing, and no name on anything in this county, and a place with no party is a place that can be done to, and the reason the three of them were telling rather than asking is that they have never once in their lives had a person to ask.
+Nobody asked him anything. Three people in a yard said three positions in three ordinary mouths, and not one of them said his name or looked at him to check. He has no party, no bench, no office, no standing and no name on anything in this county, and a place with no party is a place that can be done to, and the reason the three of them were telling rather than asking is that they have never once in their lives had a person to ask.
 
 And then, because he is a man who has been a person in a room, he did the thing he is going to be asked about in about four months, which is that he looked at the three of them and worked out that they were not three positions.
 
 “They are three prices,” he said. “And I want to say that out loud before one of you explains them to me, because in nine days I have been in nine counties and there are three ways of wanting a thing and all three of them are a price.
 
-“*Using it costs the levy, and the levy is three thousand seven hundred and eighty pence a year and it keeps nothing, and a road wants four dates a year and four dates is the woman’s year less eleven shillings.* So the price of use is Ottily Roke’s wage and everybody in this yard knows it and nobody has ever said it out loud, and Garrick Terrel said it out loud on the third day of that week in the shape of a bell and got away with it because he sells the bell.
+“*Using it costs the levy, and the levy is three thousand seven hundred and eighty pence a year and it keeps nothing, and a road wants four dates a year and four dates is the woman’s year less eleven shillings.* So the price of use is Ottily Roke’s wage and everybody in this yard knows it and nobody has ever said it out loud, and Garrick Terrel said it out loud on the third day of the fifty-ninth week in the shape of a bell and got away with it because he sells the bell.
 
 “*Exposing it costs a date.* One pound three shillings and sixpence, and fifteen days of the man who walks the road and a shilling, and a woman of twenty-nine eleven miles off who will make it true in about four minutes. And this county cannot make one. Not because it is poor, and not because anybody is waiting. Because a date is for a thing that happened on a day, and the only thing in this county that has a day is a bell, and a bell is a number that anybody can move. So the price of telling eleven families is a day that does not exist, and if you tell them without it you have given eleven families a fact in a lane with nothing to be right about, and they will be in that lane for nine years arguing about it and there will be nobody in this county who can tell any of them whether they are right.
 
@@ -70,7 +70,7 @@ Nobody argued with him and nobody thanked him, and the woman of about sixty said
 
 Then the boy of seventeen came out of a lane with his satchel and said the thing that nobody else in that yard had thought of, and he said it standing up and in about nine seconds, and then went to work.
 
-“I run a line,” said Bram Orren. “Since I was twelve. What crossed, and when, and in what order, and what did not cross. I have been five years at it and I have never once crossed that strip, and there is no lane on it, and there is nothing on it anybody uses. *And if it is a boundary, then it is a boundary that nothing has ever gone over, and I do not know what that is and I have been thinking about it since the second day of that week and I have not told anybody because nobody asked and because I did not want to be the boy who says something clever in a yard.*”
+“I run a line,” said Bram Orren. “Since I was twelve. What crossed, and when, and in what order, and what did not cross. I have been five years at it and I have never once crossed that strip, and there is no lane on it, and there is nothing on it anybody uses. *And if it is a boundary, then it is a boundary that nothing has ever gone over, and I do not know what that is, and I have been thinking about it since the second day of the fifty-ninth week, and I have not told anybody, because nobody asked, and because I did not want to be the boy who says something clever in a yard.*”
 
 He looked at the woman of about sixty.
 
@@ -78,7 +78,7 @@ He looked at the woman of about sixty.
 
 ---
 
-And then, at about the fourth hour, the man of thirty-one went up the lane to the Ellerby end of the strip to look at the two elms, and the boy of seventeen went with him because he had said so and because it is nine miles and neither of them said a word for the first two of them, and the man of fifty-two came back with the four of them to see the second elm and stopped about two hundred yards off and stood there.
+And then, at about the fourth hour, the man of thirty-one went up the lane to the Ellerby end of the strip to look at the two elms, and the boy of seventeen went with him because he had said so and because it is nine miles and neither of them said a word for the first two of them, and the man of fifty-two had gone up ahead of them with the woman of about sixty and the man of about sixty-one and came back with the four of them to see the second elm and stopped about two hundred yards off and stood there.
 
 Nobody asked him why and he did not say, and the leg is the leg and it goes with the carrying and it is not a rule and it is not a cure, and the man of thirty-one did not explain it to the boy of seventeen and the boy of seventeen did not ask him about it and has never asked anybody about anything.
 

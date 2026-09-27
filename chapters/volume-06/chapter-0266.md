@@ -1,6 +1,6 @@
 # Chapter 266: A Village With A Different Arithmetic
 
-There was a burial in Coldharrow on the second day of the sixtieth week, and that made the day a five, and the man of thirty-one stood in the yard at the second light to watch what a five looks like when a village can account for every stroke of it, because in nine days he had not once seen a day this county could account for and he wanted to see one before he left.
+There was a burial in Coldharrow on the second day of the sixtieth week, and that made the day a five, and the board had read sixty-three thousand six hundred and thirteen at the second light, and the man of thirty-one stood in the yard to watch what a five looks like when a village can account for every stroke of it. In sixteen days he had not once seen a day this county could account for, and he wanted to see one before he left.
 
 It was a woman of about seventy-six who had lived in the ninth house and had not had a name that anybody outside four houses could be got to say, and Ottily Roke rang once at the second light and said the name out loud in the yard in the voice she uses, and then they buried her.
 
@@ -24,11 +24,11 @@ It is about four hundred years, and nobody in Ellerby has ever had a reason to f
 
 And on the wall of the last house, where a person in the road can read it, there was a board.
 
-It was a different board. It was a plank and it had been painted and unpainted so many times that the grain had come up through it in the same long pale streaks, and it was about the size of a door, and it was the fourth board in eleven villages and it was the first one in this stretch that had no figure at the head of it.
+It was a different board. It was a plank and it had been painted and unpainted so many times that the grain had come up through it in the same long pale streaks, and it was about the size of a door, and it was the fourth board in eleven villages, and it was the first one of the four that had no figure at the head of it.
 
 It had names on it.
 
-There were no numbers anywhere on it. There was no total, and no date, and no stroke for the clock, and no column, and the names went from the top down in the order they had happened, and about two hundred and nine of them, and about a hundred and forty of the people in this village were on it and about seventy were not, and thirty-one of the people in this village were not on it at all.
+There were no numbers anywhere on it. There was no total, and no date, and no stroke for the clock, and no column, and the names went from the top down in the order they had happened, and about two hundred and nine of them, and about seventy of the two hundred and nine were people who live in four other villages, and every one of the rest was somebody in this one, and one of them was a man in a blue coat who came through in somebody's father's day and has not been in this village since and has not been struck out.
 
 “A woman died,” said Ottily Roke’s voice in his head, and he said it out loud, which he should not have done and did not regret.
 
@@ -40,9 +40,9 @@ Nobody in Ellerby is paid ninepence a day. There is no wage in this at all, beca
 
 They got the copy at Coldharrow-edge, on the way up, and it took about four minutes and it is worth being exact about how, because the whole of what is true in the second half of this is in the four minutes.
 
-Nell Callow had a drawer in her press. In it was a sheet in her own hand with four lines on it, and she had made that sheet on the fourth day of that week in about nine minutes while a man of fifty-one sat in her yard with a satchel on his arm and a dog at his feet, and nobody had asked her to and she had done it anyway, and the reason she had done it was that she copies for a living and a piece of paper that has been in a country for an hour is worth nothing and a piece of paper that has been in a country for a day is worth about as much, and there is no figure for that and she said so.
+Nell Callow had a drawer in her press. In it was a sheet in her own hand with four lines on it, and she had made that sheet four days before, in about nine minutes, while a man of fifty-one sat in her yard with a satchel on his arm and a dog at his feet, and nobody had asked her to and she had done it anyway, and the reason she had done it was that she copies for a living and a piece of paper that has been in a country for an hour is worth nothing and a piece of paper that has been in a country for a day is worth about as much, and there is no figure for that and she said so.
 
-A woman of about forty with a barrow came into the yard at the second house at about the ninth hour and said that a woman of about sixty at Ellerby wanted a piece of paper to hold.
+A woman of about forty with a barrow came into the yard at the second house at about the ninth hour, having walked the eleven miles up from Coldharrow with nothing in the barrow but a bundle of letters she was paid fourpence for, and said that a woman of about sixty at Ellerby wanted a piece of paper to hold. She would walk the eleven miles back after, and she said so before anybody asked her, because that is what the eleven miles are and she has been walking them for nineteen years.
 
 “There is one,” said Nell Callow, and gave her the four lines, folded, and Delya Craven put it in her coat without looking at it and said the thing she had said in Coldharrow on the market day, which is that she had not read it and did not intend to.
 
@@ -80,7 +80,7 @@ Which is the one thing he knows how to do, and the one thing he cannot make anyb
 
 ---
 
-Delya Craven put the four lines into Wenna Skell’s hand about half a mile short of the last house, and the woman of about sixty held a piece of paper for the first time in about nine years and did not open it and did not let go of it for about as long as it takes to cross a yard.
+Delya Craven put the four lines into Wenna Skell’s hand about half a mile short of the last house, and the woman of about sixty held a piece of paper for the first time in about nine years and did not open it and did not let go of it for about as long as it takes to read a line.
 
 “I asked for a thing to hold,” she said, “and not a thing to read, and you have given me a thing to read, and I am going to be difficult about it for about a minute and then I am not going to be, because I am about sixty and I have not held anything that came from outside this parish in nine years and my hands have forgotten what paper is.”
 
@@ -94,12 +94,12 @@ She opened it. She read it slowly, with her thumb under the line, in about as lo
 
 “Yes.”
 
-“There is no river in this county,” said Wenna Skell, “and there has not been one in my lifetime and my father would not have seen one either, and I have got a board on the outside wall of the last house with two hundred and nine names on it and about seventy of them are in four other villages and about thirty-one people in this village are not on it, and *every single one of those two hundred and nine is a person that somebody can go and ask.* And this piece of paper has been in this village for about a minute and there is nobody in this village named on it and nobody in this village standing near enough to have seen it, and so it is worth exactly nothing, and I have never in my life been able to say that about a thing that was handed to me.”
+“There is no river in this county,” said Wenna Skell, “and there has not been one in my lifetime and my father would not have seen one either, and I have got a board on the outside wall of the last house with two hundred and nine names on it, and *every single one of those two hundred and nine is a person that somebody can go and ask.* And this piece of paper has been in this village for about a minute and there is nobody in this village named on it and nobody in this village standing near enough to have seen it, and so it is worth exactly nothing, and I have never in my life been able to say that about a thing that was handed to me.”
 
 The recordwright of twenty-eight, who had walked nine miles behind two men in the last hour of the light and had said nothing for eight of them, said the thing that says it about herself.
 
-“Then you have the thing I have been trying to buy for six years with paper and a shilling,” she said, “and it is not a document, and you cannot produce it in a room, and you do not need to be able to produce it, and I would like it noticed that a recordwright of twenty-eight walked nine miles in the last hour of a day to be told this by a woman of about sixty holding a piece of paper she did not ask for.”
+“Then you have the thing I have been trying to buy for six years with paper and a shilling,” she said, “and it is not a document, and you cannot produce it in a room, and you do not need to be able to produce it, and a recordwright of twenty-eight has walked nine miles in the last hour of a day to be told this by a woman of about sixty holding a piece of paper she did not ask for.”
 
 She looked at the man of thirty-one.
 
-“And now go and do your trick in a doorway,” she said, “because you are going to, and I have watched you for six days, and the whole of what you do is put a thing in front of a person, and there is a person standing in a doorway in front of you and she is the only one in this county you can put anything in front of that comes back with an answer. And I am telling you now, before you do it, that I think it is a waste, and I am telling you because you did not ask me, and I would like both of those on the record somewhere that is not a wall.”
+“And now go and do your trick in a doorway,” she said, “because you are going to, and I have watched you for six days, and the whole of what you do is put a thing in front of a person, and there is a person standing in a doorway in front of you and she is the only one in this county you can put anything in front of that comes back with an answer. And I am telling you now, before you do it, that I think it is a waste, and I am telling you because you did not ask me, and I would like both of those in a place it can be got out of, and there is about one of those in this county and I have not been in it.”
