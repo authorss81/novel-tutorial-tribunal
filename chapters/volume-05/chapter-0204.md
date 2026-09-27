@@ -1,6 +1,6 @@
 # Chapter 204: The Sluice, And The Half Wage
 
-The Sallow comes into the Hollow at Hollow Sallow and it is nine feet from the sill of the sluice down to the bed, and in the sixteen weeks a year when there is anything in it, it comes down all at once and not gradually, and a man who has seen it twice does not need to be told about the third.
+The Sallow comes into the Hollow at Hollow Sallow and it is thirteen feet from the sill of the sluice down to the bed, and in the sixteen weeks a year when there is anything in it, it comes down all at once and not gradually, and a man who has seen it twice does not need to be told about the third.
 
 The frame is oak and it is about twice the height of a man and it has been in the same place since before the first shaking, and the gate in it is new, or near enough, and there is a new frame behind the new gate, and that is the whole of what anybody has spent on this structure in the last three years.
 

@@ -30,11 +30,11 @@ He said it the way a man says a thing he has been carrying and has just put down
 
 ---
 
-“A height is a height above something,” he said, and he said it standing on the bank with the rule in his hand and the wind off the dry bed coming up behind him, and it is the most useful sentence said out loud in this basin in the whole of the first seven days, and it was said by a joiner who did not know it was useful. “I have been given eleven feet twice this month by two men and both of them meant something else and neither of them was wrong, and I have been given nine feet once by a woman and she was right, and there are three different sills inside four miles and they are not the same height and nobody has ever written down what any of them is above.”
+“A height is a height above something,” he said, and he said it standing on the bank with the rule in his hand and the wind off the dry bed coming up behind him, and it is the most useful sentence said out loud in this basin in the whole of the first seven days, and it was said by a joiner who did not know it was useful. “I have been given eleven feet twice this month by two men and both of them meant something else and neither of them was wrong, and I have been given thirteen feet once by a woman and she was right, and there are three different sills inside four miles and they are not the same height and nobody has ever written down what any of them is above.”
 
 He put the rule against the top of the frame and looked along it and then took it away again.
 
-“The Anner sill is the dam’s own sill and it is the high one. This frame’s sill is nine feet below that. The bed down there is a foot and a bit below this sill, and the ground from this frame to the eleventh doorpost is the flattest piece of the Hollow and it is not flat, and the mark on the ninth doorpost is a foot higher than the mark on the fifth, and I know that because I have put my own shoulder against both of them and my shoulder has not changed since I was twenty-six.”
+“The Anner sill is the dam’s own sill and it is the one every number in this basin goes back to. The eleven feet in the bond is eleven feet above that, and this frame’s sill is nine feet below the eleven feet, which puts it two feet above the Anner sill. The bed down there is thirteen feet below this sill and is therefore four feet below the Anner’s, and the ground from this frame to the eleventh doorpost is the flattest piece of the Hollow and it is not flat, and the mark on the ninth doorpost is a foot higher than the mark on the fifth, and I know that because I have put my own shoulder against both of them and my shoulder has not changed since I was twenty-six.”
 
 “Then eleven feet is not eleven feet,” said Tarin Keel.
 
@@ -42,7 +42,7 @@ He put the rule against the top of the frame and looked along it and then took i
 
 He had not said the arithmetic out loud and Ilyan Vester did it, in his own mouth, the way he does it, and it took him no time at all, and he wrote it in the penny exercise book and then he read it back to a bank of clay with eleven roofs on it.
 
-“If the Anner’s sill is nine feet above this frame’s sill, then eleven feet above the Anner’s sill is two feet above this frame’s sill, and two feet above the sill is about the height of the floors of the houses on the upper half of that lane, and the mark on the fifth doorpost is a foot above the mark on the ninth, so the mark is not the floor and is not a level and is not a number anybody can use.”
+“If this frame’s sill is nine feet above the Anner’s sill, then eleven feet above the Anner’s sill is two feet above this frame’s sill, and two feet above the sill is about the height of the floors of the houses on the upper half of that lane, and the mark on the fifth doorpost is a foot above the mark on the ninth, so the mark is not the floor and is not a level and is not a number anybody can use.”
 
 “It is a man with a bucket of tar,” said Ewan Troke.
 

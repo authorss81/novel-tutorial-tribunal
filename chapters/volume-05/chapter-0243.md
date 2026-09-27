@@ -18,7 +18,7 @@ What changed it was that a man put his coat off.
 
 “There is no weigh-book,” said Tarin Keel. “Not at the pit and not at Sallowby and not in the seat's room and not in that shed you have chalked on. I have asked. Four of us went to four doors in half an hour. A hundredweight of salt at the pans is a pound and fourpence. A ton of red ochre at the mouth of that pit is four pounds and at Sallowby eleven. And there is not one book in this basin with a weight in it, and there never has been one, and that is not because anybody is dishonest. It is because nobody has ever had to write a weight down to be paid for it.”
 
-“Six hundred tons of nothing,” he said, “is what sixty tons looks like if you count what goes past a gate. It is what it looks like if you count a cart twice on a wet day, and there was a wet day in the sixth year and I know it was a wet day because I was on the road on it.”
+“Sixty tons of nothing,” he said, “is what it looks like when you count what goes past a gate. It is what it looks like if you count a cart twice on a wet day, and there was a wet day in the sixth year and I know it was a wet day because I was on the road on it.”
 
 ---
 
@@ -30,7 +30,7 @@ Then he did the part that is the finding, and he did it out loud and he printed 
 
 Somebody in that yard asked him what sixty tons was if it was not sixty tons.
 
-“It is a hundredweight count and not a day,” he said. “A ton is twenty hundredweights. So sixty tons is twelve hundred hundredweights, and that is a figure you can check on a gate in an afternoon, which sixty tons is not. And a hundredweight of salt at the pans is a pound and fourpence, which is a hundred and sixty-eight pence. Twelve hundred times a hundred and sixty-eight is two hundred and one thousand six hundred pence, which is eight hundred and forty pounds. And if twelve hundred hundredweights of anything had come up off a road into this valley in a year, somebody would have paid for it, and there is not one entry in this basin of a hundredweight of anything bought in, because there is no book.”
+“It is a hundredweight count and not a day,” he said. “A ton is twenty hundredweights. So sixty tons is twelve hundred hundredweights, and that is a figure you can check on a gate in an afternoon, which sixty tons is not. And a hundredweight of salt at the pans is a pound and fourpence, which is two hundred and eighty-eight pence. Twelve hundred times two hundred and eighty-eight is three hundred and forty-five thousand six hundred pence, which is one thousand four hundred and forty pounds. And if twelve hundred hundredweights of anything had come up off a road into this valley in a year, somebody would have paid for it, and there is not one entry in this basin of a hundredweight of anything bought in, because there is no book.”
 
 He put his boot in the yard and the yard did what it does.
 

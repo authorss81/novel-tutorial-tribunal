@@ -26,9 +26,9 @@ That is the whole of it. It is two sentences and a figure and it took about four
 
 Two feet and four inches.
 
-The frame's sill is nine feet below the Anner's sill. Nine feet is a hundred and eight inches and two feet four inches is twenty-eight inches, and a hundred and eight less twenty-eight is eighty inches, and eighty inches is six feet and eight inches.
+The frame's sill is nine feet above the Anner's sill. Nine feet is a hundred and eight inches and two feet four inches is twenty-eight inches, and a hundred and eight and twenty-eight is a hundred and thirty-six inches, and a hundred and thirty-six inches is eleven feet and four inches.
 
-So the highest the water has ever stood at that frame is six feet and eight inches below the sill of the Anner's own dam, and this valley has spent a month with one figure of eleven feet in it and three sills under it, and the two numbers are not the same number of feet and never were, and nobody in that lane had ever been told what the water did.
+So the highest the water has ever stood at that frame is eleven feet and four inches above the sill of the Anner's own dam, and the line in the bond is eleven feet above that same sill, and the water stood four inches above the line in the bond on three days together in the eleventh year, and this valley has spent a month with one figure of eleven feet in it and three sills under it, and nobody in that lane had ever been told what the water did.
 
 ---
 
@@ -36,7 +36,7 @@ A bench of plenty made a ruling nine years ago on the petition of a grocer at Co
 
 That is the whole of what the difference between those two things is about, and it took a man of thirty-four who cannot read a paper to arrive at it in a road, and he did it out loud, and he did it in a way that nobody in that lane could have stopped.
 
-“This is a height,” he said. “Two foot four. And it is a height above the sill of this frame, and the sill is named, and the frame is the frame. And eleven foot is a height above the sill of the Anner's own dam, and that sill is named too, and the dam is the dam. And they are both heights and both of them are true and there is not one inch of ground in this valley where the two of them meet.”
+“This is a height,” he said. “Two foot four. And it is a height above the sill of this frame, and the sill is named, and the frame is the frame. And eleven foot is a height above the sill of the Anner's own dam, and that sill is named too, and the dam is the dam. And they are both heights and both of them are true and there is not one inch of ground between this gate and the Anner's own dam, and a man with a rule could walk it in an afternoon and not one of us in this lane has ever done it.”
 
 “And that is what the nine-year-old one says,” he said. “Do not put a number down without saying what you are measuring it from. And we have had a month of a number. Eleven foot. And nobody in this valley ever asked what it was from, and it was the Anner's own sill, and everybody knew it, and everybody said the number anyway, and the number went into a lane and into a paper and into a room, and it meant two foot above this gate.”
 

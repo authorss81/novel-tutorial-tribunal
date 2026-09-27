@@ -6,9 +6,9 @@ The man of thirty-one opened a bag.
 
 ---
 
-The bag is a rider's bag and it is not the Seat's. It came up the high road on the sixth day of the fifty-fourth week with printed sheets in it, and it went on a shelf under the window beside a bundle with a knife-cut end on it, and the shelf has held it for ten days and a shelf under a window in a room like this one is not a place anybody keeps anything in that matters.
+The bag is a rider's bag and it is not the Seat's. It came up the high road on the sixth day of the fifty-fourth week with printed sheets in it, and it went on a shelf under the window beside a bundle with a knife-cut end on it, and the shelf has held it for twelve days and a shelf under a window in a room like this one is not a place anybody keeps anything in that matters.
 
-It is addressed to a chamber. The chamber does not know there is a Seat. There is nothing on the outside of it that says a man in this room may open it, and the man who opened it said so, and he said it the way he has said it every single time he has said it, and the sentence has not got any shorter, and it is the same length it has been every time and he has not made it shorter by being in a hurry, because being in a hurry is what he has instead.
+It is addressed to a chamber. The chamber does not know there is a Seat. There is nothing on the outside of it that says a man in this room may open it, and the man who opened it said so, and he said it the way he has said it every single time he has said it, and the sentence has not got any shorter, and it is the same length it has been every time, and there is nobody in that room who has come to be told a thing about the water and he did not tell them one.
 
 “I have no authority to open this,” said Ilyan Vester. “It is addressed to a body that has no seat, and I am not that body's clerk, and I am not an advocate, and I am not a person of this district, and there is nothing in this basin that makes me a person of this district. That is four sentences and none of them has got shorter since the sixth of the week before last and I am not going to shorten them today.”
 

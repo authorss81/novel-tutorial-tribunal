@@ -12,7 +12,7 @@ Hollis Nance said it out loud because a man of fifty-two asked him to, and he sa
 
 There are two good reasons that five pounds and six has not been spent in this valley in about a month. The clerk gave the first of them in a room a fortnight ago and the second one is better than the first, and neither of them is the reason, and the reason was said at about the fourth hour of this morning by a man who had come down off the hill on purpose.
 
-The first is that nobody has five pounds and six. A hundredweight of salt at the pans is a pound and fourpence. A pitman is ten shillings a week for fifty weeks, which is twenty-five pounds a year, and a week of that is a hundred and twenty pence, and one thousand two hundred and seventy-two pence is ten of those weeks and seventy-two pence over. A sluice-keeper is paid nine shillings a week for the sixteen weeks the Sallow runs, and a week of that is a hundred and eight pence, and one thousand two hundred and seventy-two pence is eleven of her weeks and eighty-four pence over, which is about two thirds of every year she works.
+The first is that nobody has five pounds and six. A hundredweight of salt at the pans is a pound and fourpence. A pitman is ten shillings a week for fifty weeks, which is twenty-five pounds a year, and a week of that is a hundred and twenty pence, and one thousand two hundred and seventy-two pence is ten of those weeks and seventy-two pence over. A sluice-keeper is paid nine shillings a week for the sixteen weeks the Sallow runs, and a week of that is a hundred and eight pence, and one thousand two hundred and seventy-two pence is eleven of her weeks and eighty-four pence over, which is about three quarters of the sixteen weeks a year she is paid for.
 
 The second is this, and it was said at about the fourth hour of the first day of this week, by a man of fifty-two who had come down off the hill on purpose and had not been asked.
 
@@ -22,7 +22,7 @@ Nobody argued with the price. It is the best arithmetic anybody in this basin ha
 
 He put his hand flat on the table, which he does, and about four people in that room had never noticed and about four had.
 
-“But you have all been sitting on the wrong figure since the sixth of the month,” he said. “The five pounds and six is the smallest thing in this room. It is the smallest thing in this room by more than thirty times over, and I will show you the thirty if anybody wants to see it. Nobody in this valley has not spent it because of the five pounds and six. Nobody in this valley has not spent it because of what a second paper does.”
+“But you have all been sitting on the wrong figure since the sixth day of the fifty-fourth week,” he said. “The five pounds and six is the smallest thing in this room. It is the smallest thing in this room by more than thirty times over, and I will show you the thirty if anybody wants to see it. Nobody in this valley has not spent it because of the five pounds and six. Nobody in this valley has not spent it because of what a second paper does.”
 
 ---
 
@@ -42,7 +42,7 @@ Here is what he wanted to say, and he said it to about seven people and it took 
 
 “A number somebody has written down is worth something,” he said. “A number nine men say in a yard is worth nothing by the second day. And this valley has been settling a village for a month on eleven hundred tons, and eleven hundred tons is what a yard in this market town has been saying since before I could count, and the chamber of plenty has had one thousand and forty tons written down in its own book for four years, and it is four years old and it is a stranger's, and it is the only figure in this basin that anybody ever put on paper about what this valley trades.”
 
-“Seventy-eight pounds less the whole of it,” he said, “is sixty tons, and sixty tons at seven pounds a ton is four hundred and twenty pounds a year, and four hundred and twenty pounds is two and a half times what that settlement costs, and I have not been able to put my hand on that in a month and I have had a man of fifty-six's four roofs to think about instead.”
+“Eleven hundred tons less a thousand and forty tons is sixty tons,” he said, “and sixty tons at seven pounds a ton is four hundred and twenty pounds a year, and four hundred and twenty pounds is two and a third times what that settlement costs, and I have not been able to put my hand on that in a month and I have had a man of fifty-six's four roofs to think about instead.”
 
 He did not say what four hundred and twenty pounds a year of difference was for. Nobody in that room asked him and this record has to say that he was asked by nobody, because he offered it to nobody.
 
@@ -62,6 +62,6 @@ The man of thirty-one did not thank him and did not stop him, and he said nothin
 
 The sheet went into the gap in the wall at about the seventh hour, and the gap is about the size of a person and it is two-fifths full, and the clerk of forty-four wrote the amount and the payer and the thing wanted on the outside of it in his own hand, and then he wrote the date on it, which is the second time since he came that he has written a date on a thing that was not a deed, and the first was a bundle with a knife-cut end on the string that is on the same shelf and has not been opened.
 
-“A man with a bag comes twice in the year,” he said, to nobody, and turned the pen upside down on a board and turned it over again. “He was in on the sixth of the last week and he will be back in about six weeks and he is paid at Orison and not by us, and whatever goes in that gap on this evening goes nine days in a cart and comes back as two paragraphs or does not come back at all.”
+“A man with a bag comes twice in the year,” he said, to nobody, and turned the pen upside down on a board and turned it over again. “He was in on the sixth day of the fifty-fourth week, which is the week before last, and he will be back in about six weeks and he is paid at Orison and not by us, and whatever goes in that gap on this evening goes nine days in a cart and comes back as two paragraphs or does not come back at all.”
 
 And a woman of thirty-three in a room over a chandler's took a sheet of good paper out of a drawer and began to copy the fair sheet of the Anner's second paper at a penny a page, and it is four pages, and it is four pence, and she is not being paid for it out of the Anner's five pounds and six and she did not offer and was not asked.

@@ -8,7 +8,7 @@ They went on doing the work.
 
 ---
 
-The seventh day of the fifty-fifth week was the last day of that week and about nine people at the salt-pans noticed it, which is two more than noticed it the week before, and about four hundred did not, and the four hundred are the whole subject of this.
+The seventh day of the fifty-fifth week was the last day of that week and about nine people at the salt-pans noticed it, which is two more than noticed it the week before, and about four hundred did not, and the four hundred are what a week in this valley is for.
 
 At the second light a woman of thirty-eight opened the gate at Hollow Sallow, which is five pounds and eighteen shillings better than it was in the fourth year, and she opened it at the closing of the water on the sixth and she will open it again tonight, and there is no column in this basin that says she is to and there has never been one.
 

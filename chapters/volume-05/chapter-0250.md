@@ -1,6 +1,6 @@
 # Chapter 250: An Exit Review, And A Position Nobody Stood In Front Of
 
-The second day of the fifty-seventh week is the last day anything is written down about the Red Basin, and it did not end with anything, and the not-ending is the point and it is not a cliff dressed up as a resolution, because a cliff is a thing that happens to somebody and what happened on the second of this week was that about four hundred and ten people in a valley went on doing what they were doing at the ordinary hour and got on with it.
+The second day of the fifty-seventh week is the last day anything is written down about the Red Basin, and it did not end with anything, and there is nobody standing in front of a stone at the end of it, and what happened on the second of that week was that about four hundred and ten people in a valley went on doing what they were doing at the ordinary hour and got on with it.
 
 Here is what is standing, and it is standing on the second of this week and it will be standing on the day anybody in four hundred and ten brings that sheet into that room.
 

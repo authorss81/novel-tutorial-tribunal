@@ -20,7 +20,7 @@ The carters put the carts at the top of the bank and walked down. The order says
 
 ---
 
-The sluice at Hollow Sallow is nine feet above the bed and the frame in it is oak and the gate is four years old, and the woman who keeps it came out of the third house from the top at the second light and did what she has done eleven times a year for eleven years, which is to come out of the Sallow at the closing of the water and put the barrow down first, and she has done it eleven times in eleven years and the order that tells her to do it is three years old and was written by a man with no name on it.
+The sluice at Hollow Sallow is thirteen feet above the bed and the frame in it is oak and the gate is four years old, and the woman who keeps it came out of the third house from the top at the second light and did what she has done eleven times a year for eleven years, which is to come out of the Sallow at the closing of the water and put the barrow down first, and she has done it eleven times in eleven years and the order that tells her to do it is three years old and was written by a man with no name on it.
 
 The order of the Seat says the gate is to be open from the day the pans are turned at Coldbeck. The pans were turned on the ninth and the gate has been open since the sixth day of the fiftieth week, and it is open now, and it is as open as it will go, and the frame behind it that a joiner measured and charged five pounds eighteen for is standing behind the open gate doing nothing whatever.
 
@@ -40,7 +40,7 @@ He was standing eight feet off with a rule in his hand and he had been in that l
 
 The number was one subtraction and it took no time at all and it had been sitting in a penny exercise book in a cart shed since the last day of the fiftieth week.
 
-The Anner's sill is the dam's own sill and it is the high one. The frame at Hollow Sallow is nine feet below it, and the joiner said so on the seventh day of the last week and put a rule against the frame to show it.
+The Anner's sill is the dam's own sill and it is the one every number in this basin goes back to. The frame at Hollow Sallow is nine feet above it, and the joiner said so on the seventh day of the last week and put a rule against the frame to show it.
 
 Eleven feet above the Anner's sill is therefore two feet above the frame's sill. Two feet above the frame's sill is about the height of the floors of the houses on the upper half of that lane.
 
