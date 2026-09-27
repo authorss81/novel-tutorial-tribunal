@@ -2,7 +2,7 @@
 
 A man of fifty-two came into the yard at Coldharrow with a fifth sheet of paper under his arm, and there were nine sheets cut out of the back of a bill in this county and he had given four of them away on the sixth day of the sixty-first week and had never given anybody one since, and the fifth was the last of them and he was holding it the way a man holds a thing he has already decided he is going to be wrong about.
 
-The day was a stranger, and the figure at the head of the board on the tower wall said sixty-three thousand seven hundred and fourteen when the woman of forty-one wiped the cloth over it, and it was the thirty-first morning of a man of thirty-one in this country. A clerk of forty-four had gone down the lane on a cart two days before to a town that keeps weeks he has never learned, and he would be four hundred miles off in about eight more days, and nobody had sent him back and nobody was going to.
+The day was going to be seven, and the figure at the head of the board on the tower wall said sixty-three thousand seven hundred and fourteen when the woman of forty-one wiped the cloth over it, and it was the thirty-first morning of a man of thirty-one in this country. A clerk of forty-four had gone down the lane on a cart two days before to a town that keeps weeks he has never learned, and he would be four hundred miles off in about eight more days, and nobody had sent him back and nobody was going to.
 
 ---
 
@@ -90,7 +90,7 @@ The woman of forty-one came down off the ladder at about the second hour and rea
 
 “Ninepence a day,” she said, “and a hundred and forty days of it in a year, and that is five pounds five shillings, and it is the whole of what a village in this lane is worth, and there are eleven of them, and the four things on that sheet are worth that much between them and I have been the only one anybody could ask about for twenty-five years. *Nobody has ever asked me which of them was going to matter.*”
 
-And she went off up the lane, and the last bell went, and the day was a day of four, and the ordinary one.
+And she went off up the lane, and the last bell went, and the day came to seven, and it was not the ordinary one.
 
 ---
 

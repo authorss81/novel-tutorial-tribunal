@@ -1,8 +1,8 @@
 # Chapter 284: The Second Price, And It Is Paid On A Recordwright
 
-Four bells and nothing on top of them, and the woman of forty-one had the cloth off that number before the sun was over the hedge and the number was sixty-three thousand seven hundred and forty-one, and it was the sixth day of the sixty-second week, and the woman of about fifty at the bar came round the eleven bars twice a week and had said, at the second hour of that morning, in front of four people who had not asked her anything, that yesterday had been the nine.
+Four bells and nothing whatever on top of them that morning, and the nine of the day before still standing on the wall above the four, and the woman of forty-one had the cloth off that number before the sun was over the hedge and the number was sixty-three thousand seven hundred and forty-one, and it was the sixth day of the sixty-second week, and the woman of about fifty at the bar came round the eleven bars twice a week and had said, at the second hour of that morning, in front of four people who had not asked her anything, that yesterday had been the thirteen.
 
-“A day of thirteen is the largest I have had in about four years and I have had two of them in eleven weeks and the other one was the day the three men came up the lane, and I can tell you what was in it because I was standing here with a board under my arm and I am paid to be here, and I am not going to be told a number by a woman with a cloth.”
+“A day of thirteen is the largest I have had in about four years and I have had one of them in eleven weeks and the other one was about four years back, and I can tell you what was in either of them because I was standing here with a board under my arm and I am paid to be here, and I have been asked about neither of them, and I am not going to be told a number by a woman with a cloth.”
 
 And she went up the lane, and the day went to four, and the four was the ordinary number, and nobody in two hundred and ten people asked her what the other nine had been either.
 

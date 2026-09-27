@@ -1,6 +1,6 @@
 # Chapter 290: Four Accounts Side By Side, And They Do Not Agree
 
-A hen got out at Trope on the fifth day of the sixty-third week and walked about two hundred yards down a lane that has not been shut since before a woman of fifty-one was born, and nobody in about a hundred and twenty people heard it happen, and the figure at the head of the board on the tower wall at Coldharrow said sixty-three thousand seven hundred and seventy-four when the cloth came off it that morning, which is four strokes and nothing whatever on top of them, and that morning was the fortieth morning of a man of thirty-one in this country.
+A hen got out at Trope on the fifth day of the sixty-third week and walked about two hundred yards down a lane that has not been shut since before a woman of fifty-one was born, and nobody in about a hundred and twenty people heard it happen, and the board on the tower wall at Coldharrow had sixty-three thousand seven hundred and seventy-four on it when the cloth came off that morning, which is four strokes and nothing whatever on top of them, and that morning was the fortieth morning of a man of thirty-one in this country.
 
 ---
 
@@ -54,7 +54,7 @@ The man of thirty-four wrote it down.
 
 He wrote it on the back of his own hand, in a hand that is not good, in about forty seconds, and about nine people in that yard watched a man who reads things out to about forty people a week write down a thing that had been said to him by a woman at a bar, and it is the only thing that man has written down in about eleven years and he did not know that was true until somebody said so, and somebody did, and it was a recordwright of twenty-eight.
 
-“That is the only thing anybody in this yard has said this month that anybody else is able to check,” she said afterwards, to nobody. “A thing that happened, and the day it happened on, and he has got both of them on the back of his own hand. I have been on this bar for twenty-two years and the only day anybody in this county can put on anything is a stranger, and I did not know that until about a minute ago and I would like it noticed that I have said so in a yard.”
+“That is the only thing anybody in this yard has said this month that anybody else is able to check,” she said afterwards, to nobody. “A thing that happened, and the day it happened on, and he has got both of them on the back of his own hand. I have been a recordwright for six years and the only day anybody in this county can put on anything is a stranger, and I did not know that until about a minute ago and I would like it noticed that I have said so in a yard.”
 
 ---
 
@@ -88,7 +88,7 @@ The column of a hundred and forty-one figures has not been added up. The door in
 
 Two dates are bought in a press eleven miles off and two names are on one thing and two names on one thing is not two witnesses and no room four hundred miles off has asked about either.
 
-And the board on the tower wall said sixty-three thousand five hundred and ten on the first morning of the fortieth day and says sixty-three thousand seven hundred and seventy-four this morning, and the difference is two hundred and sixty-four, and two hundred of it was on the board before this week began and nobody in two hundred and ten people chose that either, and the sixty-four is ten days of a village doing things, and there is no column for any of it and no heading over it and no name against it and no year at the top of it and there never was one.
+And the board on the tower wall said sixty-three thousand five hundred and ten on the first morning of the first day of his being in this country, and is two hundred and sixty-four higher this morning, and two hundred of it was on the board before this week began and nobody in two hundred and ten people chose that either, and the sixty-four is ten days of a village doing things, and there is no column for any of it and no heading over it and no name against it and no year at the top of it and there never was one.
 
 ---
 

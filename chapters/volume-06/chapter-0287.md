@@ -2,7 +2,7 @@
 
 Four bells and nothing on top of them on the second day of the sixty-third week, and the cloth came off a number on a wall in Coldharrow that was sixty-three thousand seven hundred and fifty-nine, and the woman of forty-one wiped it and left it, and the woman of forty-one put four strokes up and left it, and it is the ordinary number and it is the number that board says about most of the days in a year.
 
-There were about nine people in the yard at Nettlebed at about the fourth hour and there were not about nine people at the bar at Trope at about the ninth hour and there were not about nine people in the yard at Coldharrow at any hour at all, and all three of those facts had been arranged by two people in a lane ninety yards long who had said nothing to each other about it, and neither of them had been asked by anybody.
+There were about nine people in the yard at Nettlebed at about the fourth hour and there were not about nine people at the bar at Trope at about the ninth hour and there were not about nine people in the yard at Coldharrow at any hour before the ninth, and all three of those facts had been arranged by two people in a lane ninety yards long who had said nothing to each other about it, and neither of them had been asked by anybody.
 
 ---
 
@@ -44,11 +44,11 @@ She said it in about a second and then she said the rest of it and it took about
 
 ---
 
-And Coldharrow would not, and the woman of forty-one said that out loud in a yard at about the ninth hour to about nine people who had not asked her, and it is the finding of the thirty-seventh day and it took her about two minutes.
+And Coldharrow would not, and the woman of forty-one said that out loud in her own yard at about the ninth hour to about nine people who had not asked her, and it is the finding of the thirty-seventh day and it took her about two minutes.
 
 She is a woman of forty-one who keeps a bell and a count, and there is a bar at the end of this lane that is not shut, and eleven families grazing ninety acres that they have never been told about, and a bar that has not been shut since before she was born at a house four miles up this lane, and a wall with a figure on it and a third hand in chalk at the foot of it that a man of thirty-one put there on the first morning of his being in this country and that nobody has told him to wipe off and that he has not offered to.
 
-“A village that has said a sentence has joined a thing,” she said, “and a village that has not joined a thing cannot be asked to leave it. That is both halves and they go together and I have known them for twenty-five years and I have said them out loud in a yard about four minutes ago at a house nine miles from here and I would like it noticed that I said them in a village that has not said a sentence.
+“A village that has said a sentence has joined a thing,” she said, “and a village that has not joined a thing cannot be asked to leave it. That is both halves and they go together and I have known them for twenty-five years and I have said them out loud in this yard about four minutes ago in front of about nine people and I would like it noticed that I said them in a village that has not said a sentence.
 
 “And I am not going to say ours.
 

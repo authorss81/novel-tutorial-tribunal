@@ -2,7 +2,7 @@
 
 A debt was called in at the bar at about the third hour on the last day of the sixty-second week, and it was a load account and it was the ninth time in nineteen years that the same load had been argued over, and a carter of thirty-eight did it in about nine seconds the way he does it, and the woman of about fifty took her board out and called the count off it as the two of them finished, because that is the order those two things happen in at that gate and has been for twenty-two years.
 
-The four bells went on the plank and the two of the debt went on the plank and the day came to six, and the figure at the head of the board on the tower wall had been sixty-three thousand seven hundred and forty-five when the cloth came off it that morning, and nobody in two hundred and ten people had asked the woman of about fifty what a load was in the whole of the twenty-two years she has stood there.
+The four bells went on the plank and the two of the debt went on the plank and the day came to six, and what the cloth came off the tower wall that morning was sixty-three thousand seven hundred and forty-five, and nobody in two hundred and ten people had asked the woman of about fifty what a load was in the whole of the twenty-two years she has stood there.
 
 ---
 
