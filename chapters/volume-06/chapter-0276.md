@@ -55,7 +55,7 @@ The last bell went and the four of it went on the plank and the day went to eigh
 
 “Three at each of three gates,” said the man of thirty-one.
 
-“That is not what I said and you are not going to make it what you said.” She shifted the board. “I said three men and I said Trope and I said the miller's boy. And I have been at this bar twenty-two years and I know what a stranger is worth at a bar and a stranger is three rings, and three of them is nine, and there has not been nine in this village since a timber cart and two barrows and a man with lime came through in the fourth day of the fifty-ninth week, and about four people in this yard remember that day and they remember where they were standing, and it was about nine, and I was at this bar.”
+“That is not what I said and you are not going to make it what you said.” She shifted the board. “I said three men and I said Trope and I said the miller's boy. And I have been at this bar twenty-two years and I know what a stranger is worth at a bar and a stranger is three rings, and three of them is nine, and there has not been nine in this village since a timber cart and two men with a barrow and a man with lime came through in the fourth day of the sixtieth week, and about four people in this yard remember that day and they remember where they were standing, and it was about nine, and I was at this bar.”
 
 She looked up the lane.
 
