@@ -58,7 +58,7 @@ Not at the far end, where the road comes back into the lane, and not in the midd
 
 He could see it perfectly. It is where a favour becomes a duty, and it is the same join he has seen in a fund over a smithy and in a market street between a father and a daughter and on a rise behind a burying ground between a family and a hamlet, and it is the sixth time and it is the last one he gets for nothing. It does not tell him what to do. It is a place where two things meet and he can see the meeting and he cannot say what either side is for, and a man who can see that and cannot say it is going to be a man who stands in a lot of gates for the rest of his life.
 
-He had one thought about it and it was a bad one and he had it before he knew it was a bad one, and it is worth putting down because it is what the whole of these ten days are made of.
+He had one thought about it and it was a bad one and he had it before he knew it was a bad one, and it is worth putting down because it is what the whole of this is made of and there is not going to be another thing in a month.
 
 *A thing that nobody has been asked about is a thing that stops when the person stops. And the only way to stop a thing stopping is to put a person in it on purpose, and the only way to put a person in it on purpose is to have a place where you write the name.*
 

@@ -34,7 +34,7 @@ He picked the spade up again.
 
 She asked him a question back.
 
-That is the thing about her, and it is the thing the whole band is made of, and nobody in that field had noticed until that morning except one person. Every other person in the Briar March who a stranger has lately asked a thing of has taken the asking and used it or stood in it. She asked a question back, in the rain, in her own gateway, to a man of about fifty-one with a spade, and the question was about the only thing in the world she wants.
+That is the thing about her, and it is the thing every one of these arrangements is made of, and nobody in that field had noticed until that morning except one person. Every other person in the Briar March who a stranger has lately asked a thing of has taken the asking and used it or stood in it. She asked a question back, in the rain, in her own gateway, to a man of about fifty-one with a spade, and the question was about the only thing in the world she wants.
 
 “Then how do I stop,” she said.
 

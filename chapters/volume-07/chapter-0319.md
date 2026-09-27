@@ -48,13 +48,13 @@ A woman of about fifty-eight at a set of scales in a market four days up this la
 
 A man of about thirty-eight in a room over a smithy in the tenth village, with a month of notice left in him and a column on a shelf with one reader in the world for it.
 
-A man of thirty with a cart and a beast, at the end of a lane eleven miles down and off this one, who wants paying and has not asked.
+A woman of thirty at the end of a line of nine diggers on a rise eleven miles down the lane and off it, who does not want to be, and who has now said the thing she wants out loud twice in a week to two different men and has been given nothing by either of them.
 
-A woman of about thirty-four at a bar in that same village, who has stood at that bar for twenty-two years and has never been asked a second question about anything and has had two this month and is not going to be thanked for either.
+A man of thirty with a cart and a beast, at the end of a lane eleven miles down and off this one, whom a woman at a bar has called out loud in a lane a man who wants paying, and who told her in nine words that she was half right, and who has not been thanked for that either.
 
 And a woman of about seventy-four in a porch in a valley two miles off a track, with a day and an hour in it that she gave him and that he did not write down.
 
-He said all six out loud in four minutes, in a yard, and he did not join any two of them, and four of the nine understood every word of it and the other five heard a man in a yard.
+He said all six out loud in four minutes, in a yard, and he did not join any two of them, and four of the nine understood every word of it and the other five heard a man in a yard. And a woman of about thirty-four at a bar in that same village, who has stood at that bar for twenty-two years and had never been asked a second question about anything until this month, is not one of the six and is not on the list, and there is no arrangement in this county that keeps her, and that is the first time anybody has put six of a thing beside each other and come out with a seventh on the same morning.
 
 ---
 
@@ -120,4 +120,4 @@ The woman of forty-one put the cloth over her shoulder.
 
 “Nobody is thanked,” she said, in the voice she uses for a stranger at her bar, which is the only voice she has got for one. “*And nobody is relieved, and I would like it noticed that this is the fifth morning this week that nobody has been relieved about anything and that is the ordinary way of this place and has been for thirty-one years.*”
 
-And that was the batch, and nobody was in it, and six people had agreed to be somewhere on a day and had changed the arrangement twice and were going to change it again.
+And that was the whole of it, and nobody was in it, and six people had agreed to be somewhere on a day and had changed the arrangement twice and were going to change it again.

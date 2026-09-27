@@ -12,7 +12,7 @@ So he was at the bar, and at the smithy's yard door, and in a lane behind the sm
 
 The woman of about thirty-four said the money out loud because a market morning is the only morning in this village when nine people can be told a thing at the same time, and she said it to nobody in particular, which is how she says everything.
 
-“Three pence a load,” she said. “nine loads a day on the days the loads come. A hundred and forty days in a year in this county whatever anybody says about it. *Fifteen pounds fifteen a village a year, and that has been the figure since before I stood at this bar, and every penny of it goes out in the week it comes in, to nobody who is a person in a record.*”
+“Three pence a load,” she said. “Nine loads a day on the days the loads come. A hundred and forty days in a year in this county whatever anybody says about it. *A hundred and forty days of nine loads at three pence is fifteen pounds fifteen a village a year, and that has been the figure since before I stood at this bar, and every penny of it goes out in the week it comes in, to nobody who is a person in a record.*”
 
 Nine loads went over that morning before the sun was off the roofs and she read every one of them off her own board and asked nobody anything, and a man of thirty-one stood nine feet off and said nothing, and the whole of the money in it is the unit and the count and the figure, and the figure is the one everybody in that lane could work out for themselves and nobody has.
 
@@ -64,7 +64,7 @@ That is all of it. It is nine seconds and it is the sentence he had been carryin
 
 The book is on the shelf in a room over a smithy and it has one reader in the world for it and he is going four valleys away in a month.
 
-That is the decision nobody made and the chapter has to say the shape of it anyway, because a decision is what the day was.
+That is the decision nobody made, and it is a decision all the same, and its shape is the whole of what the day was, and it is the only thing in that lane this morning that was not about a person.
 
 Nobody has been chosen. The smith’s wife does not read a column. The woman at the bar reads loads off a board in her head and has never once said she can do anything else and would tell you she cannot, and she said so in a lane in nine words when it was suggested to her, which is twice in one day. The man of about thirty-four who reads things out cannot follow a sum that runs down a page, and everybody knows that and has known it for years. A man of about forty-one would come for the water once a week and would be frightened of a book.
 

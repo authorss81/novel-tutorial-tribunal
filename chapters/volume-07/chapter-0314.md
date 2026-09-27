@@ -14,7 +14,7 @@ He knocked. Nobody came to the door, which is not the same as nobody being in.
 
 He stood in that yard for four minutes.
 
-There is a join in that yard and it took him about a second and a half to find it, and it is in the one thing these ten days have actually been watching, which is a thing kept alive by a person. A debt at Coldharrow stops being two people in a kitchen at about the seventh hour of the previous afternoon and starts being nine other people's estimate of the two of them, and the estimate is worth more than the money, and the money is two on a plank and the estimate is a shut door and a man with a scythe standing in a yard saying nine words, and nobody in the village has ever been asked which of those two a debt actually is.
+There is a join in that yard and it took him about a second and a half to find it, and it is in the one thing he has actually been watching since the second morning of the sixty-sixth week, which is a thing kept alive by a person. A debt at Coldharrow stops being two people in a kitchen at about the seventh hour of the previous afternoon and starts being nine other people's estimate of the two of them, and the estimate is worth more than the money, and the money is two on a plank and the estimate is a shut door and a man with a scythe standing in a yard saying nine words, and nobody in the village has ever been asked which of those two a debt actually is.
 
 It told him nothing. It is a place and not a bargain and there is nothing on either side of it that anybody could be entered against, and it is the fourth time he has got one out of a thing and there is not going to be a fifth, and he stood in a yard in the rain and did not say any of it out loud, which is a decision and not a virtue, and which cost nothing at all.
 
@@ -26,11 +26,11 @@ At the second light, before any of that, he had asked her a question on the ladd
 
 “Which of the two is the debt.”
 
-“There are two strokes on here and I put them both,” said the woman of forty-one, without stopping, “and the second one is the debt, and it has been the second one since about the seventh hour yesterday, and you are asking me the wrong question and I am going to tell you what the right one is and then you can decide what to do about it.”
+“There are two strokes on here and I put them both,” said the woman of forty-one, without stopping, “and the second one is the debt, and it has been the second one since about the seventh hour yesterday, and you are asking me the wrong question. The right one is what a stroke is for. I am going to tell you that, and then you can decide what to do about it.”
 
 He waited.
 
-“A day’s figure is a weighted number,” she said. “*Four bells is four, and a stranger is three, and a market is four, and a boundary is seven, and a debt called in is two, and a fire is two.* And a weighted number cannot be turned back into what was done. *Six on that wall is a debt, or a burial and a stranger, or four bells and one other thing, and on nine of the last hundred days I could not have told you which, and I have never once been asked to, and it has never once mattered, and if anybody in this village ever wants to know what a stroke was for I am the one person in two hundred and ten who could tell them four of the six and would have to guess at the other two.*”
+“A day’s figure is a weighted number,” she said. “*Four bells is four, and a stranger is three, and a market is four, and a boundary is seven, and a debt called in is two, and a fire is two, and a burial is one.* And a weighted number cannot be turned back into what was done. *A six on that wall is four bells and a fire, or four bells and a debt called in, or two strangers, and on nine of the last hundred days I could not have told you which, and I have never once been asked to, and it has never once mattered, and if anybody in this village ever wants to know what a stroke was for I am the one person in two hundred and ten who has the seven weights, and seven weights is not a day, and a day is what a stroke was for, and there is nothing on this plank that says which of the seven a person was doing it for.*”
 
 She went down the ladder and went to do her day and left him standing at the foot of it with a leg and a morning and nothing to do with either.
 

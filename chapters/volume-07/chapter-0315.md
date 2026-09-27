@@ -18,7 +18,7 @@ The hole was in the corner of the churchyard behind the last of the good ground,
 
 There were nine people in the yard. The man of about thirty-four was the dead man's son and had come from somewhere nine miles away and had not spoken for the first half hour, and a woman of sixty who lives in the sixth house had come about a dog, and the rest of them were neighbours and a man of twenty with a scythe who mends that hedge and had been at the far end of the ground since the second hour.
 
-And the man of thirty-one stood at the back with a leg and no standing and was not asked anything by anybody, and that was the correct treatment and it was the first day in a band of ten that nobody wanted anything off him.
+And the man of thirty-one stood at the back with a leg and no standing and was not asked anything by anybody, and that was the correct treatment and it was the first morning since the fifth of the sixty-sixth week that nobody wanted anything off him.
 
 ---
 
@@ -48,7 +48,7 @@ And then she said, because she was sixty and it is what a person of sixty does a
 
 “Yes, aunt,” said the man of about thirty-four.
 
-That is the whole of it. That is a morning and it is the only morning in these ten days in which nothing was being asked of anybody, and two questions got asked and both of them were about a dog, and the man of about thirty-four said yes, and the man of about thirty-one did not say one word in a yard for an hour and forty minutes and nobody noticed that he was there, and that is the best thing that has happened to him in sixty-five days and he is not going to be able to use any of it.
+That is the whole of it. That is a morning and it is the only morning since he came up this lane in which nothing was being asked of anybody, and two questions got asked and both of them were about a dog, and the man of about thirty-four said yes, and the man of about thirty-one did not say one word in a yard for an hour and forty minutes and nobody noticed that he was there, and that is the best thing that has happened to him in sixty-five days and he is not going to be able to use any of it.
 
 ---
 

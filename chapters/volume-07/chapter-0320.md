@@ -8,7 +8,7 @@ He said it from the bottom of the ladder in the yard at Coldharrow, to nobody, b
 
 “It is a count of mornings,” said the man of thirty-one, “and mornings are not a day.”
 
-Nobody argued about it. four people in that yard heard a man of about thirty-eight say a thing and a man of thirty-one answer it, and nine people who were not in the yard will be told about it in about a week and will not repeat it, and the round number is not going to be built on by anything at all, and this is the only mention of it that there will ever be.
+Nobody argued about it. Four people in that yard heard a man of about thirty-eight say a thing and a man of thirty-one answer it, and nine people who were not in the yard will be told about it in about a week and will not repeat it, and the round number is not going to be built on by anything at all, and this is the only mention of it that there will ever be.
 
 The plank said sixty-three thousand nine hundred and fifty-five at the second light, and the man of about thirty-eight brought the number about the second hour because he brings it four times a week and has been doing it four times a week for years, and it was his seventieth morning in this country, and the day it stood for was four bells and nothing whatever on top of them.
 
@@ -34,7 +34,7 @@ Nobody said anything. He put his thumb on the shut book.
 
 ---
 
-“A man of sixty-three came to that bar eight days ago and asked her about a market four days up the lane, and she told him what she has got, and he went away. And he came back two days ago and asked her a second thing, and the second thing was this. *He asked her whether there is anybody in this county who pays a person to stand still.*”
+“A man of sixty-three came to that bar nine days ago and asked her about a market four days up the lane, and she told him what she has got, and he went away. And he came back two days ago and asked her a second thing, and the second thing was this. *He asked her whether there is anybody in this county who pays a person to stand still.*”
 
 The smith's wife put a cup down.
 
@@ -50,13 +50,15 @@ He looked up.
 
 ---
 
-Nobody in that room had put the six beside each other. That is the whole of the finding of these ten days and it is nine days old and it is not a mystery and it is not a reveal and nobody is relieved.
+Nobody in that room had put the six beside each other. That is the whole of the finding and it is nine days old and it is not a mystery and it is not a reveal and nobody is relieved.
 
 He had put six arrangements in a row in a kitchen in Ashgill and it had taken four minutes and it had produced a man of sixty-three with a knee, eleven miles, a question, and a visit to a bar. That was the instrument. That was the whole of the instrument: a man of thirty-one with a bad leg and a good name of nobody's, standing in a doorway, saying a thing out loud, and four people in a kitchen hearing it.
 
-And in nine days a man of sixty-three in a village and a man of thirty in a lane have both asked the same question at the same bar, and a man of seventy in a market town four days up the other lane had been asked it once before that by a man with a book and has said it out loud to a stranger with a bad leg, and a woman of about thirty-four has told three people three different nothings and has not been thanked for one of them, and a woman of about fifty-eight four days up a lane is at this moment doing her father's sums at one o'clock in the morning with a pencil, and a woman of thirty in a field is standing in a gateway in the rain saying that she does not want out of it, she wants it to be hers, and a woman of about seventy-four in a porch is going down a lane at about the seventh hour at the pace of a woman of seventy-four.
+And in nine days a man of sixty-three in a village and a man of thirty in a lane have both asked the same question at the same bar, and a man of seventy in a market town four days up the other lane had been asked it once before that by a man with a book and has said it out loud to a stranger with a bad leg, and a woman of about fifty-eight four days up a lane is at this moment doing her father's sums at one o'clock in the morning with a pencil, and a woman of thirty in a field is standing in a gateway in the rain saying that she does not want out of it, she wants it to be hers, and a woman of about seventy-four in a porch is going down a lane at about the seventh hour at the pace of a woman of seventy-four.
 
-None of that came from him. All of it came from the six.
+That is five of them. The man of thirty-eight is the sixth and is sitting at this table and is not going to be told by me where he sits in it. And a woman of about thirty-four at a bar at the bottom of this village has told three people three different nothings this month and has not been thanked for one of them, and she is not one of the six and is not on the list and has not asked to be on it, and she is the one it is going to.
+
+None of that came from him. Five sixths of it came from the six, and the sixth came from a bar.
 
 He stood in a room over a smithy with a leg and nothing on any paper in this county except the back of a flour bill in a kitchen three miles up a lane, where a man of sixty-three wrote a stranger's name in a hand that is not good because a stranger said he would walk a hedge, and it is the only name he has anywhere and he did not ask for it and is not going to be thanked for it and cannot get it off.
 
@@ -68,7 +70,7 @@ Then the woman of about thirty-four said the sentence, and she said it flatly, w
 
 He did not answer it, and four people in that room understood all of it and nine did not.
 
-“Six of us, and you are the seventh, and there is not one other thing in this county that is like that. *Every one of the six of us has been asked about by somebody who was not you this week, and not one of us has been asked about by you twice, and I do not know whether that is because you have nothing to give us or because you have given it away.*”
+“Six of them, and you are the seventh, and I am neither, and there is not one other thing in this county that is like that. *Every one of the six of them has been asked about by somebody who was not you this week, and not one of them has been asked about by you twice, and I have been asked twice this month by two of the six and I did not know that was what it was until this morning, and I am the one they are going to carry it to and nobody has asked me whether I would. And I do not know whether that is because you have nothing to give us or because you have given it away.*”
 
 She stopped there and she did not finish it, and she was not going to, and she went out and opened the bar and read four loads off a board that has four letters and a stroke at the top of it and has had them for twenty-two years, and the whole of the market knows what a word at the top of a thing does to the people under it.
 
