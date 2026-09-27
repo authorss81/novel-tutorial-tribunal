@@ -1,10 +1,10 @@
 # Chapter 384: A Man Of Fifty-Nine With A Wheel, And A Name That Goes In For Nothing
 
-The first day of the seventy-seventh week was his hundred and thirty-fourth morning and his thirty-third in a city he came to on foot, and the fever was fourteen weeks and three days old, and the yard at the low end of Tallowgate had a plate on the wheel at the second hour with two hundred and eleven lines in it and nobody in this city had paid for one of them in two years.
+The first day of the seventy-seventh week was his hundred and thirty-fourth morning and his thirty-third in a city he came to on foot, and the fever was fourteen weeks and three days old, and the yard at the low end of Tallowgate had a plate on the wheel at the second hour with two hundred and eleven lines in it, every one of them cut by the man who owns the wheel, and nobody in this city had paid for one of them in two years.
 
 Bevin Tarr had the candle bill in his hand before the man with the leg was ten paces into the yard, and he had had that bill three days and had not been able to get it out of his head, and he had not read it, because he can read a line and he cannot read a hand.
 
-“*You are going to read it to me again,*” he said, “*and this time you are going to read the third one twice, because I have had twenty-two hours with it and I have not been able to get anywhere with the third one and I do not send a wheel back for nothing.*”
+“*You are going to read it to me again,*” he said, “*and this time you are going to read the third one twice, because I have had it three days and I have not been able to get anywhere with the third one and I do not send a wheel back for nothing.*”
 
 So he read the third one twice.
 
@@ -14,7 +14,7 @@ So he read the third one twice.
 
 “*A name said by a person of the ward goes in without a fee. That is the third one. I have been cutting this yard's lines for thirty-one years and the money for a line has come out of a woman's own hand twice in thirty-one years and both times out of two women, and neither of them would say what for, and there has not been a year in this yard in which I did not cut at least one.*”
 
-“*That is what you told me nine days ago.*”
+“*The money for a line is the part you told me on the sixth day of the week before last. The third one is new this morning and I have not had it until you read it out.*”
 
 “*That is what I told you and it is a price and a price does not move,*” said the plate-cutter, “*and what has moved since then is that there is going to be no price, and that is the first good thing anybody has done for this yard in two years and I have not been able to be pleased with it for about an hour and a half, so I am going to tell you exactly why, and you are going to stand there and take it, because you have had that paper in a coat for twenty-six days and you have read it out in my shed once and you have not come here to give me anything.*”
 
@@ -34,7 +34,7 @@ He took a plate off the rack and put it on the wheel and set it up with his thum
 
 He looked up.
 
-“*A name may be put in by any person of the ward who can say it. So who decides whether a person of the ward is a person of the ward. Not the clerk, not the ward, not a form, not a meeting. The person who keeps the book, because the person who keeps the book is the only one anybody in this city can ask. And so every name that goes into that book now comes in free and comes in on the word of somebody in a street, and the whole of what stands behind those two hundred and eleven names in front of you is one woman and a lamp, and that was true before you wrote it and it is truer now, and she is on the same four shillings a year she was on nine days ago.*”
+“*A name may be put in by any person of the ward who can say it. So who decides whether a person of the ward is a person of the ward. Not the clerk, not the ward, not a form, not a meeting. The person who keeps the book, because the person who keeps the book is the only one anybody in this city can ask. And so every name that goes into that book now comes in free and comes in on the word of somebody in a street, and the whole of what stands behind those two hundred and eleven names in front of you is one woman and a lamp, and that was true before you wrote it and it is truer now, and she is on the same four shillings a year she was on two days ago, when you asked her what one day of a round was worth and she told you what a year of it came to.*”
 
 ---
 

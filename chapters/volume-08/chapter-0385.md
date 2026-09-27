@@ -1,6 +1,6 @@
 # Chapter 385: The Flaw, Said Out Loud, In A Room, Before The Doing
 
-There were nine people in the public room at the foot of the hill at the second hour on the second day of the seventy-seventh week, and the order was on the wall behind the long table with nine inches of blank under it for a notice that is not the order, and he stood in front of the blank and said the price out loud, and it was the fifth time he had said one in this city and the first time he had said one about a thing he was about to do.
+There were nine people in the public room at the foot of the hill at the second hour on the second day of the seventy-seventh week, and he counted them himself from the long table before he said anything, and the order was on the wall behind the long table with nine inches of blank under it for a notice that is not the order, and he stood in front of the blank and said the price out loud, and it was the fifth time he had said one in this city and the first time he had said one about a thing he was about to do.
 
 The fever was fourteen weeks and four days old. The paper in his coat was twenty-seven days old and folded in four with two holes in it where the pencil had gone through, and he put it on the long table face up, and the clerk of forty moved the book off that part of the table without being asked, and the clerk of thirty put his pen down, and the boy of fourteen stopped doing whatever he was doing with a string at the end of the room.
 
@@ -8,7 +8,7 @@ Nobody left. That is the thing about a room in this city at the second hour and 
 
 ---
 
-“*I am going to read out a piece of paper and then I am going to say what is wrong with it, and then I am going to file it, and I have written the wrong part of it down at the top of this list before I start, which is that I am the man who filled in the sixth part of the order on that wall and everybody in this room knows that, and everything I say this morning is going to land on top of that, and I would like the people who came in here to hear me say that first.*”
+“*I am going to read out a piece of paper and then I am going to say what is wrong with it, and then I am going to file it, and I have written the wrong part of it down at the top of this list before I start, which is that I am the man who filled in the sixth part of the order on that wall and everybody in this room knows that, and everything I say this morning is going to land on top of that, and I would like the people who came in here to hear me say that first. And I have counted this room, and there are nine of you in it, and I know what that is worth, which is nothing, and I would rather have said it out loud than go up a hill afterwards and find out that I did not know.*”
 
 He said: “*It is a draft. Four clauses and a half. It is the first one I have ever written and it is on the back of a bill for candles and it is twenty-seven days old and it is the only thing I have got.*”
 
@@ -64,7 +64,7 @@ The clerk of forty wrote that down too, and the clerk of thirty said, “*Do not
 
 “*Then the price,*” said the chandler.
 
-He sold candles at the end of the row in Tallowgate, and the paper on the long table was his paper, and he had not been asked what it was for, and he said so in the room, in his own mouth, and nobody had asked him.
+He sold candles at the end of the row in Tallowgate, and the paper on the long table was his paper, and he had not been asked what it was for, and he said that in the room in his own mouth, which is what a man does when somebody has said a price out loud in front of him.
 
 “*Four hundred and twenty days,*” said Ilyan, “*at thirty doors a fortnight, over nine hundred doors, and a year here is three hundred and sixty-four days, and the fifty-six days over that are the part nobody has ever paid anybody for. And it is not hers to accept, because nobody in this city has ever shown her a bill for it, and she has never been asked what it costs. The third requirement of a thing like this is that the people who will live under it say yes, and I have not got that and I cannot get it, and I have not asked, and I am going to file it anyway.*”
 

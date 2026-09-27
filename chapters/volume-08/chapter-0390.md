@@ -52,7 +52,7 @@ The clerk of thirty read the sixth part out. He did not have to be asked. He rea
 
 ---
 
-And then the man with the bad ear stood up, which he does when he is going to say the half of the objection nobody else has thought of, and he said: “*That is seven things. I have been in this ward for two months of a fever and in every room I have been in, and I have never once had two of them in the same room, and I want to say the thing that is true about that and I want to say it flat because you have asked me to and I am not going to make anything of it.*”
+And then the man with the bad ear stood up, which he does when he is going to say the half of the objection nobody else has thought of, and he said: “*That is seven things. I have been in this ward since the second week of this fever and in every room I have been in, and I have never once had two of them in the same room, and I want to say the thing that is true about that and I want to say it flat because you have asked me to and I am not going to make anything of it.*”
 
 “*Say it flat.*”
 

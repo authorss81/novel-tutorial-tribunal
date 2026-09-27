@@ -74,7 +74,7 @@ The man with the leg stood on the step in the cold for a while and then said the
 
 ---
 
-“You have your name on it now.*”“*You have your name on it now.*”
+“*You have your name on it now.*”
 
 “*I have.*”
 

@@ -60,7 +60,7 @@ She put the slate back against her hip.
 
 ---
 
-Then he said the thing he had come down the row to say, and he said it flat, and it was the sixth time he had said a price out loud in this city and the first one that had come out in a street.
+Then he said the thing he had come down the row to say, and he said it flat, and what he had come down this row to say was a price, and what came out of his mouth was a number, and he had not known that those were two different things until he was standing at the end of a row with it.
 
 “*There is a penny of chalk. Nine days of it, at three marks a day, and it is a penny. I have known what a round costs for seven days and I have had that figure in my head since a room at the back of a shop and I have not come down this row with it and I am not going to now.*”
 

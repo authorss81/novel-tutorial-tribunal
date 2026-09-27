@@ -26,7 +26,7 @@ She looked at the paper on the table for a while.
 
 “*Where you got it.*”
 
-“*A woman came to that door at the first hour yesterday morning and said it out loud on my own step while I was taking the bolt off, and I made her say it twice because I did not believe the first one, and she was the woman of thirty-four who draws water at the end of this row and who has been to this door four times since the morning she started, and she had it from the man with the bad ear, who had it from a boy of sixteen who works in the next yard, who had it out loud in a doorway from a man of fifty-nine at a wheel who has been cutting lines for thirty-one years and who does not stop.*”
+“*A woman came to that door at the first hour yesterday morning and said it out loud on my own step while I was taking the bolt off, and I made her say it twice because I did not believe the first one, and she was the woman of thirty-four who draws water at the end of this row and who has been to this door four times since the morning she started, and she had it from the man with the bad ear, who had it from a boy of sixteen who works in the next yard, who had it out loud in a doorway from a man of fifty-nine at a wheel who has been cutting lines for thirty-one years and who does not stop. And the man with the bad ear wrote five clauses and a half out on a board at the end of a run of boards, out of what he had been told in a street, and there is nobody in this city who can tell me how many of the words on that paper are his.*”
 
 “*Six people.*”
 
@@ -36,7 +36,7 @@ She looked at the paper on the table for a while.
 
 She turned the paper round and put her thumb on the fourth clause.
 
-“*Now here is the thing, and I have had it since the first hour yesterday morning and I want it in front of me before I say it.*” She did not let go of it. “*This is not what you filed. It is close. It is the same five clauses and there is a word out in the third one and the sign at the end of the fifth is not your sign, it is a man who cannot write and has made a mark instead, and there is a word out in the fourth. I have got the shape of it and I have not got the words of it, and the words of it are in a room at the middle of the nine bridges in a hand that can write, and there is nothing whatever to connect the two, and no form in this city that says a thing said at a door has to match a thing kept upstairs.*”
+“*Now here is the thing, and I have had it since the first hour yesterday morning and I want it in front of me before I say it.*” She did not let go of it. “*This is not what you filed. It is close. It is the same five clauses and there is a word out in the third one and there is no name at the top of it and nothing at the foot of the fifth that anybody could be held to, and it is in a hand that is not a clerk's hand and not a fair hand, and there is a word out in the fourth. I have got the shape of it and I have not got the words of it, and the words of it are in a room at the middle of the nine bridges in a hand that can write, and there is nothing whatever to connect the two, and no form in this city that says a thing said at a door has to match a thing kept upstairs.*”
 
 “*There is not.*”
 
@@ -66,7 +66,7 @@ The woman with the book took her hand off the paper.
 
 “*I know that it worked.*”
 
-“*Then here is the other half of it and it is the half you did not come for,*” said the woman with the book. “*You did not put me in a document. There is a piece of paper on this table that is not a document and has a mark at the end of it that a man who cannot write made instead, and it is wrong in two words, and it is in four houses in this row and a man with a wheel has it, and there is no way on earth to correct it. What you did is put me in a book, and the book is four floors above a building at the middle of the nine bridges, and there is your name at the top of the page in front of mine, and the third requirement of a thing like this is the people who will live under it, and I am one of them, and I did not consent, and I cannot be got out of it, and I have been in one record since the tenth morning of your being in this city and now I am in two and both of them are about work I have been doing for eleven years and getting nothing for.*”
+“*Then here is the other half of it and it is the half you did not come for,*” said the woman with the book. “*You did not put me in a document. There is a piece of paper on this table that is not a document, and it has no name at the top of it and nothing at the foot of it that a person can be held to, and it is wrong in two words, and it is in four houses in this row and a man with a wheel has it, and there is no way on earth to correct it. What you did is put me in a book, and the book is four floors above a building at the middle of the nine bridges, and there is your name at the top of the page in front of mine, and the third requirement of a thing like this is the people who will live under it, and I am one of them, and I did not consent, and I cannot be got out of it, and I have been in one record since the tenth morning of your being in this city and now I am in two and both of them are about work I have been doing for eleven years and getting nothing for.*”
 
 ---
 
@@ -80,7 +80,7 @@ She sat back from the table.
 
 He did not say that it was true.
 
-He said: “*She closed the subject of doors on me at the end of this row two days ago and she is not going to open it for a piece of paper, and she said so in a street, and she was right.*”
+He said: “*She closed the subject of doors on me at the end of this row five days ago and she is not going to open it for a piece of paper, and she said so at a door, and she was right.*”
 
 “*Yes,*” said the woman with the book. “*That is what I wanted to hear and I have wanted to hear it since yesterday morning and I want it in a book, and I am not going to say it twice, and you are not going to tell anybody I said it.*”
 
@@ -88,4 +88,4 @@ She pushed the paper two inches towards him.
 
 “*Do not take it back. I want you to know that I am not going to give it to you and I am not going to burn it and I am not going to ask you to do anything about it, and if you take that off my table I will get another one out of a yard by tomorrow and it will be wrong in a different word, and the whole of it is that a man with a bad leg came into my room on his thirty-seventh morning and I did not open the door for him, and that is the second time I have not opened that door for him, and I have not been thanked for either and I am not going to be.*”
 
-He left the paper on the table and shut the door on his way out, and the six people were still at it, and the four bells went over the row and the yards at the low end of the ward, and the paper in his coat had been out of it for five days, and a woman's name was at the foot of it and not in it, and the fever was fifteen weeks old and did not stop for any of that.
+He left the paper on the table and shut the door on his way out, and the six people were still at it, and the four bells went over the row and the yards at the low end of the ward, and the paper in his coat had been out of it for two days, and a woman's name was at the foot of it and not in it, and the fever was fifteen weeks old and did not stop for any of that.

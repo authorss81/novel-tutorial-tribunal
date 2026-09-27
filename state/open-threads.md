@@ -1,3 +1,25 @@
+## VOLUME 08 BATCH 0004 IS REVIEWED AND REPAIRED — CHAPTERS 381–390. **SUPERSEDES THE BLOCK BELOW AND EVERY BLOCK UNDER IT; NOTHING BELOW THIS LINE HAS BEEN EDITED. Chapters 1–390 are canon. THE RECEIPT IS THE TOP BLOCK OF `state/current.md` AND THE TWO MEASUREMENT TABLES ARE IN `state/batch-summary.md`. THE BLOCK BELOW IS STILL TRUE IN EVERY RESPECT EXCEPT THE ONE ITEM MARKED, AND A LATER PASS NEEDS NOTHING FROM THIS BLOCK BUT THE MARK.**
+
+### THE ONE THREAD THE REPAIR REWOUND
+
+**1. THE GARRLED COPY IS THE MAN WITH THE BAD EAR'S AND IT IS NOW A THREAD INSTEAD OF A LOOSE END, AND IT IS THE THREAD BATCH 0005 CAN USE.** A sheet with five clauses and a half on it, wrong in two words, with no name on it, written on a board out of what he was told in a street, in four houses and with a man at a wheel. **IT IS A THIRD DOCUMENT, AND IT IS THE ONLY DOCUMENT IN THIS CITY THAT NOBODY CAN BE ASKED ABOUT, BECAUSE THE PERSON WHO WROTE IT DOES NOT KNOW WHICH OF THE WORDS ARE HIS — AND THE MERCY TRIAL'S OWN FINDING, WHICH TARIN KEEL STATES AT `390:75`, IS THAT THERE IS NO POST IN THIS CITY WITH THE CARE OF A PIECE OF PAPER ON A WALL.** **SO THE COPY IS THE FIRST THING THAT PROVES THE FINDING FROM THE OTHER SIDE, AND A BENCH OF FOUR THAT READS SEVEN THINGS AT ONCE WILL FIND A THIRD WAY OF KEEPING A RECORD THAT IS NOT THE BOOK AND NOT THE PLATE AND NOT THE ROLL AND NOT THE BLOCK. `state/continuity.md` §1 HAS THE FACT BASE AND `state/character-state.md` HAS THE MAN.**
+
+**AND ONE PROHIBITION COMES WITH IT: NO LATER PASS MAY RE-INTRODUCE A PERSON WHO CANNOT READ OR CANNOT WRITE. `cannot write` IS AT ZERO OVER 351–390 AND IT IS ZERO FOR A REASON AND NOT BY ACCIDENT.**
+
+### WHAT ELSE THE REPAIR TOUCHED, BRIEFLY
+
+**2. TWO DAY-PHRASE THREADS CLOSE.** The count of how long the plate-cutter has had the candle bill is three days and is settled at `384:5`, `384:7` and `384:65`. How long the draft has been out of his coat is two days at 388 and is settled at `386` and `388:91`.
+
+**3. THE HEALER'S WORD FELL TO ZERO AND NOTHING IS OWED FOR IT.** `389:81` puts the man of sixty on his bench in the afternoon with a shallow tin that is not medicine and does not use the word. His nine words were spent at their own chapter and are not to be said again, and the fall is not a rise and the rule holds.
+
+**4. THE PLANTED QUESTION IS STILL PLANTED AND STILL UNRAISED.** Nobody says *arbiter*, nothing quotes or argues with the panel at `360`, and the one line under the fifth clause is carried and not raised. `anchor` is at zero and expected to rise.
+
+**5. THE THREE THINGS THAT A LATER PASS CANNOT CHECK AT ALL ARE STILL CARRIED DELIBERATELY AND ARE NOT TO BE TIGHTENED**: a habit at a standpipe, the healer's three times in three weeks, and Tarin Keel's fortnight, which is his own promise, which he broke on purpose, and which he said so.
+
+**6. THE ORDER OF WORK IS UNCHANGED: THE MERCY TRIAL, CHAPTERS 391 TO 400, THE CLIMAX AT 391 OR 392, THE RESOLUTION AT 398, 399 AND 400, AND THE STAGE ARRIVING THERE AND NOT IN 381–390.**
+
+---
+
 ## VOLUME 08 BATCH 0004 — CHAPTERS 381–390. **THIS BLOCK SUPERSEDES THE BLOCK BELOW AND EVERY BLOCK UNDER IT. NOTHING BELOW THIS LINE HAS BEEN EDITED. Chapters 1–390 are canon. THE RECEIPT IS THE TOP BLOCK OF `state/current.md`.**
 
 ### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM
