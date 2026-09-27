@@ -56,7 +56,7 @@ But the boy had said the three names and he was eleven and there was no taking t
 
 And three names went into the world at about the second hour of the fifth day of the seventy-fourth week and they went into a street and not into a book, and they cost nothing, and they cannot be spent, and there is no instrument in four hundred miles that can do one single thing with them.
 
-He stood in the street for four minutes and worked out the whole of what his one instrument is worth, in a city, in seventeen days.
+He stood in the street for four minutes and worked out the whole of what his one instrument is worth, in a city, in sixteen days.
 
 In a country it had cost a woman of about thirty-four at a bar a thing she cannot put down, and it had cost him twice, and every time it had made somebody a person in a record.
 

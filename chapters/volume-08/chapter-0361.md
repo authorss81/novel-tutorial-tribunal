@@ -76,7 +76,7 @@ He stood in the middle of a public room for eleven seconds.
 
 “*There is no way to make this hearing,*” he said.
 
-“*No.*
+“*No.*”
 
 “*Not by you and not by her and not by a bench of four and not by the magistrate.*”
 
@@ -86,7 +86,7 @@ Nobody thanked the clerk and the clerk was not thanked. He went back to his tray
 
 ---
 
-Here is the rest of it, because a chapter about a thing that cannot be done is not finished by the not-doing.
+Here is the rest of it, because a thing that cannot be done is not finished by the not-doing.
 
 He went down the hill and across the low ground and along a mile and a half of Tallowgate at about the sixth hour, and the woman of twenty-eight was at the end of it with a bundle of string and a slate and a piece of chalk, and the chalk was the whole of nine days she had bought with a penny and had not used any of it yet, and she had been in this ward before he came into it.
 

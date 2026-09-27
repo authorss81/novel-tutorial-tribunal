@@ -1,3 +1,33 @@
+## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED A SECOND TIME, *The Doors*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED` BLOCK BELOW IT. NOTHING BELOW IT HAS BEEN EDITED. Three parts and one list, and every line in it is a thing somebody is actually carrying. The receipt is `reviews/volume-08/batch-0002.md`.**
+
+### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM TO CARRY IT
+
+**1. THE WEAKEST DOOR. OPEN, SPENT ONCE, AND NOT TO BE SPENT AGAIN.** The ward's public record is only as strong as its weakest door, and the weakest door cannot be found, because finding it means asking every householder whether they have ever left somebody off, and nobody has ever asked that in four hundred years, and the asking cannot be done without the ward knowing it is being asked, and a ward that is being checked produces a list of who checked it. `366:59`, in the mouth of a woman of sixty in her own doorway, in answer to a question. **SO THE BOOK IS RIGHT AND THE STREET IS SHORT AND NEITHER OF THEM CAN BE GOT AT, AND NOBODY IS GOING TO BE RELIEVED BY THAT SENTENCE.**
+
+**2. THE CHALK. OPEN, AND IT IS AN ACCOUNT AND NOT A METAPHOR.** Nine days bought with a penny. Three marks to the day. Twenty-seven marks on a slate. Nine marks on the first morning, which is three days of chalk in one day. Nothing at all in the last three of her ten days. **SHE HAS HAD NO CHALK SINCE THE END OF HIS HUNDRED AND SEVENTEENTH MORNING, A PENNY BUYS THE NEXT NINE DAYS, NOBODY IN THIS CITY HAS IT AS A JOB TO BUY IT, AND SHE HAS SAID OUT LOUND THAT SHE IS NOT GOING TO BE ASKED FOR IT. THE DECISION IS HERS AND IT IS NOT HIS AND HE IS NOT ALLOWED TO MAKE IT FOR HER.**
+
+**3. THE THIRD REQUIREMENT. OPEN, AND IT IS THE BAND'S LOAD-BEARING UNSPENT THING.** A draft needs acceptance by the people who will live under it, and that is four hundred and twenty days of one woman's life, and it cannot be got by asking because asking is the instrument and the instrument is the thing that takes it, and it cannot be got by waiting, and it cannot be got by writing it down. He got the first two into a public record in a room with a clerk of forty on the third day and the third one is not obtainable by anybody. **THE 420-DAY FIGURE IS SPENT AND ITS WORKING IS THIRTY LOTS OF A FORTNIGHT. IT IS NEVER NINE HUNDRED DIVIDED BY TWO.**
+
+**4. THE NAME. OPEN, AND IT IS THE OLDEST THREAD IN THE PROJECT.** He put Fenna Rusk into a book on his tenth morning in front of nine people and said the price out loud first, and there is no form in four hundred miles that takes a person back out of one. Nobody has asked her to be taken out because nobody can be asked to decide that a thing in a book is not true. **HIS OWN NAME IS ON ONE SHEET IN A CHAMBER ON THE SECOND FLOOR AND THERE IS NO FORM THAT TAKES IT OFF, AND ON THE FOURTEENTH THE PRICE OF BEING ON THAT SHEET WAS SAID OUT LOUD AND THE CLERK WROTE THE PRICE DOWN AS WELL AS THE SENTENCE.**
+
+**5. THE NOTICE. OPEN, AND IT IS THE WHOLE OF THE DISAGREEMENT.** Tarin Keel said on the second day that he would go up the hill and say a thing to a magistrate in ninety seconds and she would write it. It is six days. The notice is not written. He is at a rail outside the black building counting what comes through the door. Neither man has mentioned it.
+
+**6. THE CHILD. OPEN, AND THE BAND'S NEXT BAND OWES HIM.** A child in the low hall at the end of the ward who is worse than he was the day before and worse than the other nine in that hall, and the woman on the stool says so out loud to anybody who stands there. His mother is at the standpipe and she is on the roll and she says his name at a door. His line is on the board at the end of the beds in chalk and it will be in chalk when the order ends because there is no office that issues a discharge. He is not saved and he does not die and **HIS NAME IS NOT SAID OUT LOUD IN ANY OF THE TEN CHAPTERS.**
+
+**7. THE HEALER. OPEN, AND AT ZERO OVER TWENTY CHAPTERS.** About sixty, one of the six people of this volume, and he has nine words that will be right and will not be actionable, and nobody thanked for them.
+
+### PART TWO — WHAT IS CLOSED, AND BY WHOM
+
+- **THE FOURTEENTH IS CLOSED AS A PROCEEDING.** A document was received from a county four hundred miles off and entered and kept, and the question on the slate was not answered and was not asked again.
+- **THE PLATE-CUTTER'S SENTENCE IS CLOSED AS A RECORD.** Four thousand lines in thirty-one years and he had never been told what a line is, and he had asked twice.
+- **THE PUBLIC COST IS CLOSED AS A FIGURE AND NOT AS A GRIEVANCE.** Three differences off one bench date: 138, 186, 234. All three are in a fair hand on the second floor.
+- **THE DRAFT IS CLOSED AS AN ACT AND OPEN AS A PIECE OF PAPER.** Unfiled, untorn, and he is carrying it for as long as he is in this city.
+
+### PART THREE — WHAT A NEXT BAND MUST NOT RE-OPEN
+
+- The worst door. The chalk as a metaphor. The name as a rescue. The notice as a plot. The word *anchor*, which is a fact and is not a question.
+
+
 ## VOLUME 08 IS OPEN — CHAPTERS 361–370 REPAIRED, *The Doors*. **THIS BLOCK SUPERSEDES THE `## VOLUME 08 IS OPEN` BLOCK BELOW IT. NOTHING BELOW IT HAS BEEN EDITED. Three parts and one list, and every line in it is a thing somebody is actually carrying.**
 
 ### PART ONE — WHAT IS OPEN, WHO IS CARRYING IT, AND WHAT IT COSTS THEM TO CARRY IT

@@ -26,7 +26,7 @@ The clerk of forty said: “*I am writing.*”
 
 “*Go on.*”
 
-“*I have the public cost. Twelve shillings of plate for the names that are on a paper and not on a plate in this ward, and a hundred and thirty-eight pence between that and a date at this bench, and both of those are in that book and both of those are true and a person with a duty could act on them tomorrow and will not, and that is not my business and it is the shape of the city.*”
+“*I have the public cost. Eight shillings of plate for the two hundred names in this ward that are on a paper and not on a plate, and that is the figure the man in the doorway gave me on the second day and I did not think of it. Twelve shillings of plate for the three hundred names that are in the fair hand on your second floor. And a hundred and thirty-eight pence between a date at this bench and that twelve shillings, and a hundred and eighty-six pence between a date at this bench and this ward's eight. Both of those differences are in that book and both of those are true and a person with a duty could act on them tomorrow and will not, and that is not my business and it is the shape of the city.*”
 
 He stopped there, and the clerk of forty waited, and the room waited, and a man in the room who had come about a lane put his barrow down against the wall, which is what a man does when he thinks he is going to be in a room for a while.
 
@@ -94,12 +94,12 @@ The third one was four hundred and twenty days of one woman's life and a woman a
 
 So the third requirement could not be got. Not by asking, because asking is the instrument and the instrument is the thing that takes it. Not by waiting, because she goes round her own nine hundred doors once in a year and fifty-six days, and you have four days before the fourteenth, and after the fourteenth the whole of it is a year and fifty-six days and there is nobody in this city who will pay for any of it. Not by writing it down, because writing it down is what he did on a candle bill and she told him what was wrong with it.
 
-And there was one thing left and he did it, and it cost him nothing and it is the reason there is any point to the room at all.
+And there was one thing left and he did it, and it was the only instrument he has and it costs him and it is the only one, and this was the first time in fourteen days that using it had cost him nothing at all, and he worked out why on the walk down the hill, and it was because he had not had to do anything, because a man whose job it is had already done it.
 
-A copy is a place somebody can be asked. The clerk of forty's fair hand is a copy, and it is in a book on a second floor in the black building at the middle of the nine bridges, and on the fourteenth a bench of four is going to sit in a chamber and a clerk is going to read out what it is sent, and one of the things it is going to be sent is a fair hand containing a public cost, a difference of a hundred and thirty-eight pence, and a number that four hundred and twenty days of one woman is the price of a draft.
+A copy is a place somebody can be asked. The clerk of forty's fair hand is a copy, and it is in a book on a second floor in the black building at the middle of the nine bridges, and on the fourteenth a bench of four is going to sit in a chamber and a clerk is going to read out what it is sent, and one of the things it is going to be sent is a fair hand containing a public cost, two differences off one bench date, a hundred and thirty-eight pence and a hundred and eighty-six pence, and a number that four hundred and twenty days of one woman is the price of a draft.
 
 He did not need a copy of his own. He needed the copy that was made without him, in a room he was standing in, by a man whose job it is, out of his mouth.
 
-The draft was still in his coat. He did not file it. He was not going to file it in this city at all, and the reason was a woman of sixty with a bundle who had walked out of a room and a sentence of nine words she had not been asked for, and he was going to be carrying the piece of paper for the rest of the volume.
+The draft was still in his coat. He did not file it. He was not going to file it in this city at all, and the reason was a woman of sixty with a bundle who had walked out of a room and a sentence of nine words she had not been asked for, and he was going to be carrying the piece of paper for as long as he was in this city.
 
-The four bells went. The fever did not stop. Nobody in that room was relieved, and nobody in that room was thanked, and there was a copy in a book that said the third requirement out loud, and it was there whether he liked it or not, which is the only difference between this city and a country and it is not a small one.
+The four bells went at the change and there is nothing in this city that stops for them. Nobody in that room was relieved, and nobody in that room was thanked, and there was a copy in a book that said the third requirement out loud, and it was there whether he liked it or not, which is the only difference between this city and a country and it is not a small one.

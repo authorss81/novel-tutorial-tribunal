@@ -58,15 +58,11 @@ Ilyan put his hand flat on the doorframe of somebody else's house, which is not 
 
 Here is the whole of the disagreement and it is four sentences long and neither of the four sentences is wrong.
 
-Tarin Keel's method is a thing said to the one person who can act, by morning.
+Tarin Keel's is a thing said to the one person who can act, by morning, and it is faster, and it works more often than it ought to, and it is made of one person, and when that person is gone the thing is gone with them, and the people it was for are the last to know it was ever going to happen.
 
-Ilyan's method is a thing said in a room, in front of other people, which becomes a document, and a document is a place somebody can be asked.
+Ilyan's is a thing said in a room, in front of other people, which becomes a document, and a document is a place somebody can be asked, and it is slower, and a book stays, and a book is only as good as the room it was said in, and that room was full of people who did not ask to be in it and one of them is a woman of forty-four who keeps a roll and did not consent to anything.
 
-Tarin Keel's is faster and it works more often than it ought to, and it is made of one person, and when that person is gone the thing is gone with them, and the people it was for are the last to know it was ever going to happen.
-
-Ilyan's is slower and it is made of a book, and a book stays, and a book is only as good as the room it was said in, and the room is full of people who did not ask to be in it and one of them is a woman of forty-four who keeps a roll and did not consent to anything.
-
-They both know that. They have both known it since the seventh morning, in a public room, with a clerk of forty writing one of it down in a fair hand.
+They have both known it since the seventh morning, in a public room, with a clerk of thirty writing one of it down in a fair hand.
 
 And neither of them is going to win, and this doorway is not going to say which one of them is right, because both of them are right, and the answer to it is not in this doorway and will not be.
 
@@ -88,7 +84,7 @@ And then Tarin Keel asked him a question, and he asked it the way a man asks for
 
 “*Then say the last of it.*”
 
-“*The last of it is that a corridor needs a person at the end of it and a room does not, and that is the whole of the difference and there is no third thing between the two of them,*” said Tarin Keel. “*A room in this city has a clerk at the end of it who writes down what was said in it and it goes in a book upstairs. A corridor has a person at the end of it who can do a thing by the morning. That is all of it, and I have been saying it badly for seven days because I have never before had to say it to a man who already knows what a clerk is.*”
+“*The last of it is that a corridor needs a person at the end of it and a room does not, and that is the whole of the difference and there is no third thing between the two of them,*” said Tarin Keel. “*That is all of it, and I have been saying it badly for seven days because I have never before had to say it to a man who already knows what a clerk is.*”
 
 ---
 

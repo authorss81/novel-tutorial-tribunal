@@ -4,6 +4,8 @@ It was his hundred and thirteenth morning and the first day of the seventy-fourt
 
 Then she put the pen down and told him, because he had earned it by standing still.
 
+Her name was Fenna Rusk, and he had put it in a book on his tenth morning in this city in front of nine people, and he had not been able to think of one other thing to call her since.
+
 ---
 
 “*What does one round of this ward cost.*”
@@ -16,7 +18,7 @@ Then she put the pen down and told him, because he had earned it by standing sti
 
 She turned the chair round, which is what she does when she is going to do arithmetic.
 
-“*About thirty doors a fortnight. That is what this book has always been. There are nine hundred doors in this ward. A fortnight is fourteen days, so thirty doors in fourteen days is about two doors a day, and two doors a day is the whole of it. That is the rate. Two doors a day, nine hundred doors, so two doors a day for nine hundred doors is four hundred and twenty days to go round the ward once.*”
+“*About thirty doors a fortnight. That is what this book has always been. There are nine hundred doors in this ward. A fortnight is fourteen days, so thirty doors in a fortnight is two doors a day and a seventh of a door, and that is the rate and I have never once rounded it. Thirty doors takes a fortnight. Nine hundred doors is thirty of those. Thirty times fourteen days is four hundred and twenty days to go round the ward once.*”
 
 “*Four hundred and twenty days.*”
 
@@ -34,7 +36,7 @@ He waited, because there was more of it, and she had said there was.
 
 “*That is a small thing to say.*”
 
-“*It is the whole of what I have,*” said the woman at the table. “*Two doors a day. A visit. Nine hundred doors. And the part of me that is not a wage and is not a task and is a woman of forty-four with a book, and if you write that down anywhere you will have written down the only number in this city that cannot be bought.*”
+“*It is the whole of what I have,*” said the woman at the table. “*Two doors a day and a seventh. A visit. Nine hundred doors. And the part of me that is not a wage and is not a task and is a woman of forty-four with a book, and if you write that down anywhere you will have written down the only number in this city that cannot be bought.*”
 
 She opened the door, and eight people went in, and a man she did not know stood at the back of them and did not go in and did not go away.
 
@@ -94,4 +96,4 @@ She looked at him for four seconds and then she went and knocked on the next doo
 
 He held the door.
 
-The four bells went that night at the low end of Tallowgate, and nine hundred doors in that ward had four hundred and twenty days in them and four days' worth of chalk, and the rate was two a day, and two doors a day is not a wage and is not a task and is a woman.
+The four bells went that night at the low end of Tallowgate, and nine hundred doors in that ward had four hundred and twenty days in them and four days' worth of chalk, and the rate was thirty doors in a fortnight, and thirty doors in a fortnight is not a wage and is not a task and is a woman.

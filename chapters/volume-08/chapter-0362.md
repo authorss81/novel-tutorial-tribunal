@@ -96,7 +96,7 @@ And she went back inside and shut the door, and he stood in the passage with the
 
 Here is what he had learned by the change, and he learned it in a passage, and it did not go in a book, because it was not said in a room.
 
-The roll does not say who lives in a house. He had heard that in a room nine days ago, from a chair, in a voice that had been in that room for six years. The other half of it he got at the top of a row of four from a woman who has answered a door for nineteen years, and the half is this.
+The roll does not say who lives in a house. He had heard that in a room seven days ago, from a chair, in a voice that had been in that room for six years. The other half of it he got at the top of a row of four from a woman who has answered a door for nineteen years, and the half is this.
 
 A roll is only as good as the door it was written at. Not the door of the ward, and not the door of the black building at the middle of the nine bridges. A door of a house, with a person behind it, who is a person because they answer it, and who is therefore the only person in the world who can be asked what is in their house, and who is also the only person in the world who can be asked to be wrong.
 

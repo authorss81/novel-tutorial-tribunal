@@ -30,7 +30,7 @@ Then the clerk of thirty read out the list of questions.
 
 There were more of them than the eleven she had told him about in a room at the back of a chandler's shop on his tenth morning in this city, and two of them were about her and the rest were about a book, and she was at the front of the room on her own because she would not have anybody with her, and he had not known that he had known that about her until he watched her do it.
 
-He sat four feet from her and he was on a sheet and he had said the price of it out loud in a yard in front of nine people on his tenth morning in this city, and the price was that the people who wrote the order would have a person to ask, and they had got her, and here she was, and he was going to sit in the room while it was paid.
+He sat four feet from her and he was on a sheet and he had said the price of it out loud in a yard in front of nine people on his tenth morning in this city, and the price was that the people who wrote the order would have a person to ask, and they had got her, and her name was Fenna Rusk and it was on a sheet in that building because of a stranger with a leg, and here she was, and he was going to sit in the room while it was paid.
 
 It took a whole day. That is the thing about it. It did not take an hour and it did not take a morning. Somebody came in at the first hour with a list and the bench of four worked through it, and one of them wrote, and one of them asked, and the asking was not unkind and the writing was fair and it went on over the first, the change, the noon, and the last, and at no point in the whole of that day did anybody in that room raise their voice.
 

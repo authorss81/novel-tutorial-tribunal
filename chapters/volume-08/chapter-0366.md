@@ -34,7 +34,7 @@ The fourth door came at about the fourth hour and it was a woman of sixty with a
 
 He held her door and she looked at him for three seconds and then said his business without being asked, which is a thing that happens to people who answer doors for a living.
 
-“*You have come down that row about nine times in thirteen days and this is the first time you have knocked,*” she said. “*I have watched you. I am sixty and I watch. Ask it.*”
+“*You have come down that row about nine times in fifteen days and this is the first time you have knocked,*” she said. “*I have watched you. I am sixty and I watch. Ask it.*”
 
 He asked it, and he asked it the way this city requires, which is that you ask it and then you stop talking.
 
@@ -104,4 +104,4 @@ He did not write it down. He stood in a room with a book in it and a woman of fo
 
 “*No,*” said the woman at the table. “*There is not one thing you can do with that, and you have known how to say a true thing in a room since you came into this city, and I want to say this once and then I am going to open that door. You are the only instrument in this country that makes a person into a person in a record, and the only thing that instrument can do about the worst door in this ward is turn the person who keeps it into the person who is asked about it, and she has been the person who is asked about it since your tenth morning here, and there is nobody else for it to fall on, and I am telling you that I know it and I am not going to help you put it there twice.*”
 
-She opened the door and there were six people at it and one of them was the man of forty with the bad cough who had not been at that door since the first hour of the day before, and he was let in this time, and the woman of twenty-eight's chalk went on the door after him and the four bells went and the fever did not stop, and nine hundred doors in Tallowgate had one question in them that four hundred years of the ward has never asked, and it is still in them, and the door was shut, and the worst door is still the worst door.
+She opened the door and there were six people at it and one of them was the man of forty with the bad cough who had not been at that door since the first hour of the day before, and he was let in this time, and the woman of twenty-eight's chalk went on the door after him and the four bells went over the low end of the ward the way they do, and nine hundred doors in Tallowgate had one question in them that four hundred years of the ward has never asked, and it is still in them, and the door was shut, and the worst door is still the worst door.
