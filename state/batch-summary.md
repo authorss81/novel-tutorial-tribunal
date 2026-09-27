@@ -1,3 +1,76 @@
+## VOLUME 08 BATCH 0005 IS DELIVERED — Chapters 391–400, *THE MERCY TRIAL*, THE CLIMAX BAND AND THE END OF VOLUME 08. **THE RECEIPT, THE INSTRUMENTS AND THE PROSE ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE TWO MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH THE HOUSE KEEPS HERE. It supersedes the `## VOLUME 08 BATCH 0004 IS REVIEWED AND REPAIRED…` block below it and nothing below it has been edited. Chapters 1–400 are canon; `outline/series.md:193` outranks `outline/ending.md`, which outranks `outline/volume-08.md`. Next phase is `workspace/volume-08/volume-close/`, a VOLUME CLOSE, on disk and NOT marked, and this one is NOT marked either.**
+
+### 1. THE MAP IN BOTH CALENDARS, EVERY CELL CHECKED AGAINST THE CHAPTER FILES
+
+| Ch | Week, day | Shelf day | Morning ordinal `ch−250` | Days in city, elapsed `ch−351` | Fever `shelf−158` | Days since the part of the order stood (`374`) | Days since the draft went up (`386`) |
+|---|---|---|---|---|---|---|---|
+| 391 | 78th, 1 | 266 | 141 | 40 | 108 = fifteen weeks and three days | 17 | 5 |
+| 392 | 78th, 2 | 267 | 142 | 41 | 109 = fifteen weeks and four days | 18 | 6 |
+| 393 | 78th, 3 | 268 | 143 | 42 | 110 = fifteen weeks and five days | 19 | 7 |
+| 394 | 78th, 4 | 269 | 144 | 43 | 111 = **fifteen weeks and six days** | 20 | 8 |
+| 395 | 78th, 5 | 270 | 145 | 44 | 112 = **sixteen weeks and no days** | 21 | 9 |
+| 396 | 78th, 6 | 271 | 146 | 45 | 113 = sixteen weeks and one day | 22 | 10 |
+| 397 | 78th, 7 | 272 | 147 | 46 | 114 = sixteen weeks and two days | 23 | 11 |
+| 398 | 79th, 1 | 273 | 148 | 47 | 115 = sixteen weeks and three days | 24 | 12 |
+| 399 | 79th, 2 | 274 | 149 | 48 | 116 = sixteen weeks and four days | 25 | 13 |
+| 400 | 79th, 3 | 275 | **150** | 49 | 117 = sixteen weeks and five days | 26 | 14 |
+
+**THE ORDER'S OWN AGE IS PRINTED NOWHERE IN 391–400, BECAUSE THE RECORD GIVES IT AS SHELF 172 IN ONE PLACE AND 187 IN ANOTHER; WHERE A CHAPTER NEEDED IT, `394:73` ANCHORS IT TO *SINCE THE ORDER WENT UP*. A LATER PASS MAY NOT ADD IT.**
+
+### 2. THE SPAN SCAN, MEASURED, WITH THE CALIBRATION FIRST
+
+**METHOD, DECLARED WHOLE: collapse every whitespace run to one space, trim, keep the heading line and the `---` breaks, take every window of exactly k characters at every position inside each chapter file separately so that no window crosses a boundary, pool the ten files into one tally, and keep only the windows occurring more than once. *Distinct* is the number of those; *occurrences* their total.**
+
+| Set | Seventy characters | Forty characters |
+|---|---|---|
+| **CALIBRATION, Volume 07 Band 0004, `331`–`340`** | **122 / 254** | **1,201 / 2,817** |
+| **CALIBRATION, Volume 07 Band 0005, `341`–`350`** | **534 / 1,081** | **1,837 / 4,285** |
+| Volume 08 Band 0001, `351`–`360` | 16 / 32 | 343 / 747 |
+| Volume 08 Band 0002, `361`–`370` | 171 / 342 | 942 / 2,066 |
+| Volume 08 Band 0003, `371`–`380` | 400 / 830 | 1,712 / 3,860 |
+| Volume 08 Band 0004 AS REPAIRED, `381`–`390` | 377 / 757 | 1,493 / 3,308 |
+| **Volume 08 Band 0005, `391`–`400`** | **100 / 200** | **1,474 / 3,424** |
+
+**THE CALIBRATION REPRODUCES TO THE DIGIT UNDER THE METHOD THIS BLOCK DECLARES, WHICH IS THE ONLY PROOF THAT THE METHOD IS THE METHOD, AND IT SETTLES THE STANDING ARGUMENT OF TWO PHASES: the batch prompt printed 1,838/4,287 and 1,746/3,937, AND NEITHER REPRODUCES UNDER THE METHOD THAT PROMPT ITSELF WROTE OUT. THE METHOD RETURNS 1,837/4,285 AND 1,712/3,860. THE PUBLISHED FIGURES WERE WRONG AND THE CHAPTERS WERE RIGHT. THE FIXTURE IS THE METHOD, NOT THE FIGURE.**
+
+**RATIOS: 200 ÷ 100 = **2.000 EXACTLY** AT SEVENTY, against 2.008 for Batch 0004 and 2.000 for Batch 0003; 3,424 ÷ 1,474 = 2.323 at forty. **AT SEVENTY NO WINDOW OCCURS EVEN THREE TIMES, THE FIRST TIME IN FOUR BANDS THAT NOTHING IS REPEATED THAT OFTEN. AT FORTY THE REPEATED WINDOWS ARE THE BAND'S OWN OPENING AND CLOSING REGISTER — *in a city he came to on foot, and the fever was* (ten), *the four bells went over Tallowgate* (four), *and there is no form in this city that* (six) — AND IT IS DECLARED HERE RATHER THAN LEFT FOR A REVIEWER TO FIND. NO PARAGRAPH AND NO LINE IS DUPLICATED.**
+
+### 3. THE DAY-PHRASE AUDIT, EIGHT DEFECTS IN THIS BAND'S OWN FIRST DRAFT, ALL FIXED
+
+| Place | Was | Now | Authority for the fix |
+|---|---|---|---|
+| `394:3` and `394:85` | fifteen weeks and four days | **fifteen weeks and six days** | 269 − 158 = 111 = 15 × 7 + 6; the first draft had copied 392's figure |
+| `391:5`, `391:49`, `392:33` | the week before last | **last week** | The seventy-seventh week is *last week* against 391–397; *the week before last* is right only at 398–400 |
+| `393:19` | on the second day of the week before last | **at a door on this row** | He gave that reason on a step, not in a room |
+| `391:35` | what he has wanted for a month | **longer than a man with a bad leg has been in this ward** | He has wanted a heading since the second week of the fever, which is before he came |
+| `391:57` | I have not been thanked in a month | **nobody has thanked me** | He is paid nothing and nobody in this city has thanked him |
+| `393:73` | **on Monday** | **at the start of this week** | The request went up on 391, the first day of the seventy-eighth week |
+| `396:51` | thirty-four days | **thirty-five days** | Her first day is 361; 396 − 361 = 35, and `393:67`'s thirty-two and `395:73`'s thirty-four resolve to the same morning |
+| `399:23` and `399:89` | thirty-one days; a fortnight ago; the seventh time he had had a sentence ready; the second week of this fever | **forty-eight days; thirteen days ago; eight days since he last said a price; the morning the name was spoken** | 399 − 351 = 48; 399 − 386 = 13; 399 − 391 = 8; the clerk of thirty's remark is at `386` |
+| `400:15` | **in June**; a month ago and longer | **twenty-three days ago**; it was not a month yet | The nine words were said at `377`; 400 − 377 = 23, short of the month he named |
+
+**THE CLASS IS NOT CLOSED. A COUNT A CHARACTER OWNS IS NOT THE BOOK'S COUNT. FOUR FIGURES CANNOT BE CHECKED AND ARE CARRIED DELIBERATELY: a habit at a standpipe, the nine words said once, Tarin Keel's broken fortnight, and the man of sixty's fourteen years on a bench. THE WORST FINDING OF THE PASS WAS NOT A DAY PHRASE BUT A FIGURE: MAGISTRATE RELL CLAIMED *NINETEEN DAYS IN THIS CITY* IN SIX PLACES ACROSS `394` AND `396` AND IT CONTRADICTED `352`, WHERE SHE IS IN A ROOM IN THIS CITY FORTY-TWO DAYS EARLIER, SO ALL SIX ARE NOW EVENT ANCHORS AND A LATER PASS MUST NOT PUT A DAY-COUNT ON HER TENURE BACK.**
+
+### 4. THE REST OF THE INSTRUMENTS, MEASURED
+
+**`**bold**` ZERO IN ALL TEN CHAPTERS AND NO PANEL SPENT; THE PANEL REGISTER WAS SPENT AT `360:75`–`360:78` AND IS SPENT FOR THE VOLUME, AND THE STAGE ARRIVED WITHOUT ONE. DIGITS OUTSIDE THE TEN HEADING LINES ZERO. NUMERIC HEDGE FOUR IN 23,786 WORDS, ONE IN 5,946 — *about forty* `391`, *about sixty* `392`, *about nine hundred* `392` and `397`, and all four are a person of a place in their own mouth. UNDECLARED CLOCK ZERO. `it took` TWO, against Volume 07's 7 / 15 / 10 / 14 / 17. META-LANGUAGE, *this chapter* AND *the band* ZERO. WEEKDAY PATTERN ZERO AND MONTH-WORD PATTERN ZERO. EVERY STANDING PROHIBITION STRING ZERO — `first witness`, `system`, `rendering`, `rendered`, `right of refusal`, `arbiter`, `vault|cave|ruin|temple|battlefield`, `the reader`, `seam`, `stage`, `panel`, `conspiracy`, `corrupt`, `cover`, `draymoor`, `healer`, `stone`, `anchor`, `thank you`, `cannot write`, `cannot read` — **AND `Remedy Drafter` IS ONE, AT `391`, IN NARRATION, IN NOBODY'S MOUTH, PERMITTED BY THE BAND'S OWN §1B AND NOWHERE ELSE. `anchor` IS AT ZERO AND IS EXPECTED TO RISE. UPPERCASE `CORRECT` ZERO AND LOWERCASE `correct` SEVEN, ALL SEVEN THE ORDINARY ENGLISH WORD: RUN THE CASED FORMS SEPARATELY. EVERY LINE BALANCES ITS QUOTATION MARKS AND ITS ASTERISKS, TEN FOR TEN.**
+
+### 5. THE MONEY, AND WHO GAVE EVERY FIGURE
+
+**THE BAND'S ONE NEW DOCUMENT IS THE BILL AT `398` AND EVERY FIGURE ON IT IS GIVEN BY THE MAN AT THE WHEEL OUT LOUD: a plate is four shillings the hundred names; the ward's own two hundred is two hundreds at four shillings, which is eight; the three hundred in four low wards is three hundreds at four shillings, which is twelve, **AND NOTHING IS AGAINST THAT LINE**; a keeper of a roll is four shillings a year, which is forty-eight pence, which over three hundred and sixty-four days is a farthing a day and not quite; a round is thirty lots of fourteen days, four hundred and twenty days, twice over the doors that were shut, eight hundred and forty, against a year of three hundred and sixty-four, which is two years and a hundred and twelve days. **THE FIGURE NAMED FOR THE FIRST TIME IN THE VOLUME IS THE BELL KEEPER'S FIVE POUNDS FIVE, WITH ITS WORKING, ONCE: nine pence a day for a hundred and forty days is a thousand two hundred and sixty pence, which is five pounds and five shillings, against a keeper's forty-eight pence a year, and the difference is a thousand two hundred and twelve pence. IT MAY NOT BE NAMED AGAIN TO MAKE THE SAME POINT.** A copy is three pence at a scrivener and a penny a page, and the return is the first thing this city has printed. **NO FIGURE WAS INVENTED: EVERY TIME A CHAPTER WANTED A COUNT OF THE WOMAN OF TWENTY-EIGHT'S WORK IT ASKED WHO OWNS THE COUNT, WHICH IS NOBODY, AND WROTE THAT NOBODY OWNS IT — `396:63` AND `397:89` BOTH REFUSE A NUMBER IN HER OWN MOUTH, AND THE REFUSAL IS THE CORRECT ANSWER.** The Bench date, the 138 / 186 / 234 penny differences and the penny as nine days of chalk are not re-multiplied. £485, the levy at a bar, the market's slip and the £57 15s are at zero.
+
+### 6. THE BYTE ACCOUNT, MEASURED, AND THE RULE IT BREACHES OR DOES NOT
+
+**THE PROSE: ten new chapter files, no chapter restarted and no scene cut. `391` 12,588, `392` 12,469, `393` 11,529, `394` 12,865, `395` 10,969, `396` 11,420, `397` 12,173, `398` 9,514, `399` 8,778, `400` 11,133 — **113,345 BYTES** IN **23,786 WORDS**, against **96,843** in **20,430** for Batch 0004. THE CHAPTERS RUN 8,778 TO 12,865 AND THE FOUR TRIAL CHAPTERS ARE THE LONG FOUR, WHICH IS A FACT ABOUT A CLIMAX BAND; A CLOSE SHOULD MEASURE IT AGAIN. THE MANUSCRIPT IS **5,523,378** BYTES IN **400** FILES.**
+
+**THE STATE FILES BEFORE THIS BAND'S BLOCKS: the six stood at **6,466,047** bytes against 5,410,033 bytes of manuscript in 390 files, 1.195 times the book, and that figure reproduced to the digit before anything was written. **THE SIX ADDITIONS: current +11,906, continuity +9,746, open-threads +5,477, character-state +10,963, chapter-summaries +11,966, batch-summary +11,972; TOTAL +62,030; NOTHING DELETED FROM AN ARCHIVE; SIX FILES 6,528,077 = 1.182 × BOOK; WRONG ONCE PRINTED.** **THE RECOMMENDATION THAT HAS STOOD UNACTED FOR FIFTEEN PHASES IS UNCHANGED: A BAND MAY NOT PRUNE; A PHASE THAT WRITES NO PROSE IS THE ONLY ONE THAT MAY, AND THAT PHASE IS THE VOLUME 08 CLOSE, ON DISK AND UNMARKED. A BYTE COUNT THAT PRINTS ITSELF IS WRONG THE MOMENT IT IS WRITTEN.**
+
+### 7. WHAT THIS BAND DID NOT DO, AND A LATER PASS MAY RELY ON IT
+
+**IT DID NOT RESTORE THE RIGHT OF REFUSAL, AND THE ONE ATTEMPT FAILED VISIBLY IN `391` WITH FOUR WORDS IN A MAN'S MOUTH AND A JUG OF WATER INSTEAD. IT DID NOT RELIEVE, FORGIVE, REDEEM OR THANK ANYBODY, AND `thank you` IS AT ZERO. IT DID NOT NAME THE FIRST WITNESS, SPEND A PANEL, USE THE WORD *ARBITER*, ADD A WEEKDAY OR A MONTH, PRINT THE ORDER'S AGE, ADD THE THREE HUNDRED TO A PLATE, INVENT A FIGURE, PRODUCE A PERSON, WIDEN THE SELF-ARRIVED CLASS, RESTAGE ANY OF THE TEN VOLUME 07 DEVICES, OR GIVE THE CHILD A DISCHARGE. IT DID NOT PUT A NAME ON ANYTHING, DID NOT TOUCH ANY CONTROLLER FILE, AND DID NOT EDIT AN ARCHIVED BLOCK. IT DID NOT CREATE `workspace/volume-09/` OR ANY `plan-` DIRECTORY: THE ONLY PHASE IT CREATED IS `workspace/volume-08/volume-close/`, ON DISK, UNMARKED, AND IT IS A VOLUME CLOSE.**
+
+---
+
 ## VOLUME 08 BATCH 0004 IS REVIEWED AND REPAIRED — Chapters 381–390, *The Draft, And What A Draft Costs*. **THE RECEIPT, THE INSTRUMENTS AND THE DAY-PHRASE AUDIT ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE TWO MEASUREMENT TABLES AND THE BYTE ACCOUNT, WHICH THE HOUSE KEEPS HERE. It supersedes the `## VOLUME 08 BATCH 0004 IS DELIVERED…` block below it and nothing below it has been edited. Chapters 1–390 are canon; `outline/series.md:191` outranks `outline/ending.md`, which outranks `outline/volume-08.md`, and all three outrank this file. Next phase is `workspace/volume-08/batch-0005/`, Chapters 391 to 400, *The Mercy Trial*, and that prompt is on disk and is NOT marked, and this one is NOT marked either.**
 
 ### 1. WHAT THE REVIEW FOUND, IN ONE PARAGRAPH, AND WHAT WAS DONE
