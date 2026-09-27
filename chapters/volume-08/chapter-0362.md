@@ -2,7 +2,7 @@
 
 It was his hundred and twelfth morning and the last day of the seventy-third week, and the fourteenth was seven days off, and he stood in a passage behind two houses in Tallowgate at about the second hour holding a door open because he had been asked to and because there was nothing else to do with himself.
 
-The woman of twenty-eight had a slate under her arm and she had been going two days out of the nine days of chalk she had bought with a penny, and she had seven days of it, and a mark on nine doors from the day before, and no order written down anywhere, and she said out loud before they started that he was not to ask her anything at all.
+The woman of twenty-eight had a slate under her arm and she had been going one day out of the nine days of chalk she had bought with a penny, and she had six days of it, and a mark on nine doors from the day before, and no order written down anywhere, and she said out loud before they started that he was not to ask her anything at all.
 
 He held a door open for about eleven minutes and asked her nothing at all.
 
@@ -108,4 +108,4 @@ And a man with a bad leg and no name on anything stood in a passage and worked o
 
 He held a door for four hours. He asked nothing at all. It was the hardest morning he had had since a kitchen four hundred miles off and he told nobody that and there was nobody to tell.
 
-The four bells went. The number of doors in Tallowgate is about nine hundred and he had been inside one of them and had been told, by a person who answers doors, exactly what a door is for.
+The four bells went. The number of doors in Tallowgate is nine hundred and he had been inside one of them and had been told, by a person who answers doors, exactly what a door is for.

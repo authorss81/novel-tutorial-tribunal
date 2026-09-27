@@ -1,6 +1,6 @@
 # Chapter 369: The Fourteenth, And A Woman Of Forty-Four Asked Things For A Whole Day
 
-It was his hundred and nineteenth morning and the last day of the seventy-fourth week, and the fourteenth, and he was in a chamber on the second floor of the black building at the middle of the nine bridges at about the first hour, and there were nine clerks in that room and a bench of four and about forty people in it, and he had been awake since the first bell and had not been able to think of one thing to say.
+It was his hundred and nineteenth morning and the last day of the seventy-fourth week, and the fourteenth, and he was in a chamber on the second floor of the black building at the middle of the nine bridges at about the first hour, and there were nine clerks in that room and a bench of four and forty people in it, and he had been awake since the first bell and had not been able to think of one thing to say.
 
 There was a sheet on the bench with two names on it and one of them was his, and he had not seen the sheet, and the clerk of thirty was at the end of a table with a list in front of him, and the bench of four came in at the first hour and sat down.
 
@@ -20,7 +20,7 @@ The clerk read the nine lines out loud, in the flat voice of a man reading a thi
 
 Six of the nine were standing and each of the six had a place against it, and the word the map used for all nine of them was the word *anchor*, and it came out in the middle of a sentence read aloud in the ordinary way by a clerk of thirty, and it was an ordinary word in that sentence and nobody in the room asked what it meant. Each of the six had the name of a person or a body against it and a line saying what keeps it. One was burned. Two said the two words *not found*, and one of the two had a place against it and the place was this city.
 
-Nobody remarked on the word. Four people on a bench and nine clerks and about forty people in a chamber heard it and it went into the record the way a word goes into a record, which is to say with nobody's name on it, and there is no hand in this country it could have been given to.
+Nobody remarked on the word. Four people on a bench and nine clerks and forty people in a chamber heard it and it went into the record the way a word goes into a record, which is to say with nobody's name on it, and there is no hand in this country it could have been given to.
 
 Ilyan sat at the back of a chair at the side of the room and did not write it down.
 
@@ -38,7 +38,7 @@ It took a whole day. That is the thing about it. It did not take an hour and it 
 
 Here is the whole of what he heard, and he heard it at four feet in a room with a door on it, and he is not going to give it to a reader in order, because it was not in order. He is going to give the four pieces of it that stayed.
 
-The first piece was at about the third hour, and it was a question about how the roll is made, and she answered it in eleven words and every one of them was the plainest thing in the room, and he had heard her say a longer version of it to a stranger six days ago and this was the first time he had heard her say it to people who could do something about it, and the difference between those two things was fourteen days and a name.
+The first piece was at about the third hour, and it was a question about how the roll is made, and she answered it in eleven words and every one of them was the plainest thing in the room, and he had heard her say a longer version of it to a stranger fourteen days ago, from a chair, in a room, to a man who had not asked her anything at all, and this was the first time he had heard her say it to people who could do something about it, and the difference between those two things was a name.
 
 The second piece was at about the sixth hour and it was the one of the two questions that were about her, and it was where she was born, and the bench asked it because it is on the form, and she said the name of a place that is in this county, and a clerk wrote it down, and he sat four feet away and understood that a woman of forty-four had just given the only fact about herself that she has that anybody in this city can be asked about, and that it was a form's question and not anybody's curiosity, and that this is what he had done to her in a yard.
 
@@ -52,13 +52,13 @@ They asked him what a plate is for.
 
 He stood up and he said: “*I have cut four thousand lines in thirty-one years and I have never been told what a line is, and I have asked twice, and I am not a man who has anything to offer a document from somewhere else except that.*”
 
-Nobody thanked him. Nobody relieved him. A clerk of thirty wrote it down in a fair hand, and the bench of four thanked him, because that is what a bench does at the end of a thing, and the man of fifty-nine said *not at all* and sat down, and it was in the record, and it was the truest sentence in the room and it was about a line of cut glass and it did not help anybody.
+Nobody was relieved. A clerk of thirty wrote it down in a fair hand, and the clerk said the words a clerk says at the end of a thing, and the bench of four said its own, and neither of them was a thank and the man of fifty-nine said *not at all* and sat down, and it was in the record, and it was the truest sentence in the room and it was about a line of cut glass and it did not help anybody.
 
 ---
 
 And at about the ninth hour, with the light off the river and coming in low along the edge of the table, the bench of four asked him a question, because his name was on a sheet.
 
-He said the price out loud first, in a room, in front of about forty people, which is the third time he has done that in this city and the first time the room had a clerk in it who was writing while he did it.
+He said the price out loud first, in a room, in front of about forty people, which is the fourth time he has done that in this city and the first time the room had a clerk in it who was writing while he did it.
 
 “*I am on your sheet and I cannot get off it and there is no form that takes a man off, and I am going to answer this and there is going to be a record of me in this building saying that a stranger with a bad leg saw a thing being made four hundred miles off, and I will be a person in a record about it for as long as I am in this city, and I am not saying that to stop it.*”
 
@@ -70,9 +70,9 @@ And he gave them one sentence, and it was: *I was in the room when the last of i
 
 The bench of four did not rule on anything.
 
-What it did, at about the last of the light, was that the clerk of thirty wrote out that a document had been received by the city of Orison on the first day of this month from a county four hundred miles off, that it said a thing was under this city and not found, that the Bench had no power to open anything and no form to be asked to open anything, and that the question on the slate was therefore a question the Bench could not answer, and that it was entered and kept.
+What it did, at about the last of the light, was that the clerk of thirty wrote out that a document had been received by the city of Orison from a county four hundred miles off, that it said a thing was under this city and not found, that the Bench had no power to open anything and no form to be asked to open anything, and that the question on the slate was therefore a question the Bench could not answer, and that it was entered and kept.
 
-That is all. There is no more of it than that. Nine lines went into a book in that building and a word went in with them and about forty people went out into a city of about ninety thousand people and the roads were still shut and the fever was still in four low wards and about a hundred and forty people were still dead, and not one of them was forgiven, and none of them was relieved, and none of them was thanked.
+That is all. There is no more of it than that. Nine lines went into a book in that building and a word went in with them and forty people went out into a city of ninety thousand people and the roads were still shut and the fever was still in four low wards and about a hundred and forty people were still dead, and not one of them was forgiven, and none of them was relieved, and none of them was thanked.
 
 The woman of forty-four went back down the hill at the last of the light to a room at the back of a chandler's shop, and there were four people at her door, and she opened it.
 

@@ -46,11 +46,11 @@ But the boy had said the three names and he was eleven and there was no taking t
 
 “*Why not.*”
 
-“*Because I have not got anywhere to put them,*” said Ilyan, “*and because I am not going to be the reason a boy of eleven is a person in a record about a book in this city, and there is no form in this country that takes a person back out of one once they are in it, and I have been here seventeen days and I have watched four people get into records because somebody said a true thing near them.*”
+“*Because I have not got anywhere to put them,*” said Ilyan, “*and because I am not going to be the reason a boy of eleven is a person in a record about a book in this city, and there is no form in this country that takes a person back out of one once they are in it, and I have been here sixteen days and I have watched four people get into records because somebody said a true thing near them.*”
 
 “*You are not going to tell.*”
 
-“*I am not going to tell anybody anything,*” he said, “*and I have promised a woman of twenty-eight the same thing eight days ago in a yard and I have not broken it and I am not going to start on a boy.*”
+“*I am not going to tell anybody anything,*” he said, “*and I have promised a woman of twenty-eight the same thing eight days ago at the corner of a low ward and I have not broken it and I am not going to start on a boy.*”
 
 “*Right,*” said the boy, and picked up the two pails, and went to carry water, and did not say one word more about it, and did not look back, and was gone round the end of the row.
 
@@ -60,13 +60,13 @@ He stood in the street for four minutes and worked out the whole of what his one
 
 In a country it had cost a woman of about thirty-four at a bar a thing she cannot put down, and it had cost him twice, and every time it had made somebody a person in a record.
 
-In this city it cost the same, and that is the finding and he had been seventeen days finding it.
+In this city it cost the same, and that is the finding and he had been sixteen days finding it.
 
 Used on the woman at the back of the chandler's shop it had put her name in a book she did not consent to. Used on a woman of sixty with a shawl it had cost her nothing, because she had a name in a book already and it had not made her anything new. Used on a boy of eleven at the second hour it had cost nothing at all and had got him three names that he could not use, from a person who had no way of knowing she was saying them to a man with a leg.
 
 His instrument does not ask a question. It puts a person in a room. And the answer it gets back is never the answer, because the person in the room is a different person from the one who is hurt.
 
-And that is what a man with a question and no other one has, on the fifth day of a week, in a low ward, in a cold, at seventeen days in a city of about ninety thousand.
+And that is what a man with a question and no other one has, on the fifth day of a week, in a low ward, in a cold, at sixteen days in a city of ninety thousand.
 
 ---
 
@@ -92,7 +92,7 @@ The woman at the table put both hands flat on the book and did not say anything 
 
 “*It is the difference between what this city can pay for one afternoon of a room and what it pays me for every day of a year,*” said the woman at the table, “*and it is the only money there is in this, and I have had it in my head for ten seconds and I would like you to take it and go and do something with it.*”
 
-He did not do anything with it. He stood in a room with a book in it and understood, for about the fourth time in seventeen days and the first time properly, that he was holding two numbers that did not touch.
+He did not do anything with it. He stood in a room with a book in it and understood, for about the fourth time in sixteen days and the first time properly, that he was holding two numbers that did not touch.
 
 ---
 
@@ -102,7 +102,7 @@ He did not do anything with it. He stood in a room with a book in it and underst
 
 “*Say why, because I have it in my head as a division and I want to be wrong.*”
 
-“*Because the arithmetic of a person is not a division,*” she said. “*You have got a round of four hundred and twenty days and you have got a year of forty-eight pence and you have got a date of two hundred and eighty-two pence, and if you do that division you will get a figure, and the figure will be right, and I will be a figure. And I have been in this city thirty-one years and I have watched four people be turned into figures by people who were not being cruel, and one of them is still paying for it this week. And you have come seventeen days and you have said a price out loud three times and every one of the three you have said it to a room and not to me, and I have let you, because I have been in this room since the second hour this morning and I have had a lamp on and four people at my door.*”
+“*Because the arithmetic of a person is not a division,*” she said. “*You have got a round of four hundred and twenty days and you have got a year of forty-eight pence and you have got a date of two hundred and eighty-two pence, and if you do that division you will get a figure, and the figure will be right, and I will be a figure. And I have been in this city thirty-one years and I have watched four people be turned into figures by people who were not being cruel, and one of them is still paying for it this week. And you have come sixteen days and you have said a price out loud three times and every one of the three you have said it to a room and not to me, and I have let you, because I have been in this room since the second hour this morning and I have had a lamp on and four people at my door.*”
 
 She turned the chair round and picked up her pen and then put it down again, which she does perhaps twice in a year.
 
@@ -114,4 +114,4 @@ She turned the chair round and picked up her pen and then put it down again, whi
 
 She opened the door and there were four people at it and two of them were not there before, and she did not look at them.
 
-The four bells went that night over about nine hundred doors, and the debt of four hundred and twenty days was still a debt, and the difference between a date and a year was two hundred and thirty-four pence, and nobody was relieved, and nobody was thanked, and a woman of forty-four went on doing a round she was not being paid for, at a rate of two doors a day, in a ward that is not a person and cannot be asked.
+The four bells went that night over nine hundred doors, and the debt of four hundred and twenty days was still a debt, and the difference between a date and a year was two hundred and thirty-four pence, and nobody was relieved, and nobody was thanked, and a woman of forty-four went on doing a round she was not being paid for, at a rate of two doors a day, in a ward that is not a person and cannot be asked.

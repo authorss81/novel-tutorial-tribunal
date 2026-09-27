@@ -14,7 +14,7 @@ He had come to say one fact and he said it standing up, because she was working 
 
 “*Right,*” said Sera Quill, and turned back to her table, and then turned round again, which she does perhaps twice in a year. “*That is the fourth time since you came into this city that a document has been received and put in a book and nobody has read it, and I have been in this room for all four of them, and one of them was yours, and I am not going to say anything about the other three because I do not know whose they are and I have not asked and you should not tell me.*”
 
-He put the fact down on her table and she gave him nothing back except the fact that she had noticed, and he did not stay, and neither of them mentioned bread, and there was no romance in the morning and there was not going to be one in this volume.
+He put the fact down on her table and she gave him nothing back except the fact that she had noticed, and he did not stay, and there was nothing else said in that room that morning, and neither of them mentioned bread.
 
 ---
 
@@ -22,19 +22,19 @@ Here is what came out of the fourteenth, and it is a short list and it is the wh
 
 A document had been received by the city of Orison from a county four hundred miles off, and it said that a thing was under this city and was not found, and the Bench of four had no power to open anything and no form to be asked to open anything, and the question on the slate was a question the Bench could not answer, and it was entered and kept.
 
-The word the map uses for the nine of them is *anchor*, and it went into a book in that building in the middle of a sentence read aloud by a clerk of thirty, and nobody asked what it meant, and four people on a bench and nine clerks and about forty people in a chamber heard it, and it is in the record, and it is the only one of the nine answers that any of them now has.
+The word the map uses for the nine of them is *anchor*, and it went into a book in that building in the middle of a sentence read aloud by a clerk of thirty, and nobody asked what it meant, and four people on a bench and nine clerks and forty people in a chamber heard it, and it is in the record, and it is the only one of the nine answers that any of them now has.
 
-A man of fifty-nine said four thousand lines in a room and was thanked by a bench for saying it, and it was in a fair hand, and it is the shortest thing anybody has put into the record of this city since the order went up.
+A man of fifty-nine said four thousand lines in a room and was answered by a bench with the words a bench says at the end of a thing, and he said *not at all*, and it was in a fair hand, and it is the shortest thing anybody has put into the record of this city since the order went up.
 
-A stranger with a bad leg said one sentence about a document he did not make, and a clerk wrote it down, and his name is on a sheet in that building and there is no form that takes it off, and he said the price of that out loud in the room before he answered, which is the third time he has done that in this city and the first time a clerk was writing while he did it.
+A stranger with a bad leg said one sentence about a document he did not make, and a clerk wrote it down, and his name is on a sheet in that building and there is no form that takes it off, and he said the price of that out loud in the room before he answered, which is the fourth time he has done that in this city and the first time a clerk was writing while he did it.
 
-A woman of forty-four was asked eleven questions on a sheet and then some more than were on the sheet, over a whole day, and she answered all of them, and two of them were about her, and the answer to one of the two is in a book in a city of about ninety thousand people.
+A woman of forty-four was asked eleven questions on a sheet and then some more than were on the sheet, over a whole day, and she answered all of them, and two of them were about her, and the answer to one of the two is in a book in a city of ninety thousand people.
 
 And nothing else came out of it, and nobody was relieved, nobody was forgiven, nobody was redeemed, and nobody was thanked.
 
 ---
 
-Here is what did not come out of it, and this is the longer list and nobody in this volume is going to do anything about any of it.
+Here is what did not come out of it, and this is the longer list, and nobody is going to do anything about any of it.
 
 Three hundred names across four wards are still outside a protection that a magistrate put there on purpose. Two hundred names in Tallowgate are still on a paper and not on a plate, and the plate is four shillings the hundred, and there is no money in that ward and has not been for two years. The block in the gatepost still says what it said two years ago, and no meeting has been called, and no form calls one, and there has not been a meeting of Tallowgate since the autumn before the water came.
 
@@ -48,23 +48,23 @@ A boy of eleven is the head of a house with three names in it and there are six 
 
 The order still has five parts and a half, and the sixth line is a line with a date in it, and the word in the margin is still standing, and it is an exit and not a refusal, and nobody in this city has one of either.
 
-About a hundred and forty people are dead in four wards in four columns that have not been added up and cannot be, and they stay dead, and there is no figure in this chapter that makes that smaller.
+About a hundred and forty people are dead in four wards in four columns that have not been added up and cannot be, and they stay dead, and there is no figure anybody in this city has got that makes that smaller.
 
 And a man of fifty-two said in a doorway on the second day of the seventy-fourth week that he would go up the hill and say a thing to a magistrate in ninety seconds and that she would write a notice. It is six days since. The notice is not written. The man is at a rail outside the black building counting what comes through the door. The stranger is in a low ward holding doors open. Neither of them has mentioned it, and that is the whole of the disagreement between them, and neither of them is going to win it, and both of them are right.
 
 ---
 
-And here is the count, and it is the only number in this chapter that is a count of anything, and it came out of a slate in a hand that is not his.
+And here is the count, and it is the only count in it, and it came out of a slate in a hand that is not his.
 
 He was at the low end of Tallowgate at about the sixth hour and the woman of twenty-eight was at the end of the row with a string and a slate and no chalk.
 
 “*You have run out.*”
 
-“*I have run out,*” she said. “*Yesterday. It is nine days of chalk and a day is three doors, and I have done nine days of it, and there are twenty-seven marks on this slate, and I have been going since the day you met me at a standpipe with a bundle of string, and that is eleven days, and three of them were today and yesterday and the day before, with nothing to mark with.*”
+“*I have run out,*” she said. “*The last of it went on three days ago and I did not find out until there was nothing left to make a mark with. It is nine days of chalk and a day is three doors, and I have done nine days of it, and there are twenty-seven marks on this slate, and I have been going since the day you found me at the end of a row with a bundle of string, and that is ten days, and three of them were today and yesterday and the day before, with nothing to mark with.*”
 
 “*Twenty-seven doors.*”
 
-“*Twenty-seven doors out of about nine hundred,*” she said. “*And I want to say the rest of it out loud because you are the only person in this city that has ever asked me a question about the work and I am going to say it once. Three a day is faster than the book. The woman with the book does two a day and a round is a year and fifty-six days and I am doing three and I have got a fifth of a ward in a fortnight and a penny's worth of chalk.*”
+“*Twenty-seven doors out of nine hundred,*"” she said. “*And I want to say the rest of it out loud because you are the only person in this city that has ever asked me a question about the work and I am going to say it once. Three a day is faster than the book. The woman with the book does two a day and a round is a year and fifty-six days and I am doing three and I have got a fifth of a ward in a fortnight and a penny's worth of chalk.*”
 
 “*A fifth.*”
 
@@ -92,4 +92,4 @@ She stopped, and she waited, and he did not say anything, because there was noth
 
 “*I have not said his name.*”
 
-“*Right,*” she said, and took the slate, and went down the row, and there was no chalk in her pocket and there were about nine hundred doors in that ward and four hundred and twenty days in the round and a child at the end of it who was worse than the other nine, and the four bells went, and the fever did not stop, and the door was shut.
+“*Right,*” she said, and took the slate, and went down the row, and there was no chalk in her pocket and there were nine hundred doors in that ward and four hundred and twenty days in the round and a child at the end of it who was worse than the other nine, and the four bells went, and the fever did not stop, and the door was shut.

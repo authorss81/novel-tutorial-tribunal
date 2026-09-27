@@ -34,7 +34,7 @@ They stood in the doorway because it was the one place with a door in it that a 
 
 “*Then say the rest of it and I will tell you why it does not work.*”
 
-“*It works,*” said Tarin Keel. “*That is the whole of my argument and I have had it for four days and I have been waiting for you to be in a doorway where you cannot walk away. I will go up the hill this evening and I will say it to her in ninety seconds and she will write it, and it will be on a board in this ward by the morning, and there will be a meeting on the day she names, and I have watched this exact thing happen in a place two hundred miles from here and it took nine days from the corridor to the block and nobody in the room understood what they were agreeing to.*”
+“*It works,*” said Tarin Keel. “*That is the whole of my argument and I have had it for seven days and I have been waiting for you to be in a doorway where you cannot walk away. I will go up the hill this evening and I will say it to her in ninety seconds and she will write it, and it will be on a board in this ward by the morning, and there will be a meeting on the day she names, and I have watched this exact thing happen in a place two hundred miles from here and it took nine days from the corridor to the block and nobody in the room understood what they were agreeing to.*”
 
 “*Say the last part of that sentence again.*”
 
@@ -48,7 +48,7 @@ Ilyan put his hand flat on the doorframe of somebody else's house, which is not 
 
 “*You have said that to me before in a room and I agreed with none of it.*”
 
-“*Because the document outlasts the man,*” said Ilyan. “*That is what I said in the public room on the seventh morning and I have not stopped saying it. In nineteen years you have gone to nine counties and in six of them the one person who could do the thing was gone by the time anybody had checked. A document in a book upstairs does not go anywhere. A magistrate's notice on a board in a ward does not go anywhere. And if the magistrate goes out of office in a year, the notice is still on the board and the meeting is still a meeting of a ward and nobody is going to be able to say who called it.*”
+“*Because the document outlasts the man,*” said Ilyan. “*That is what I said in the public room on the seventh morning and I have not stopped saying it, and I have not stopped hearing the other half of it either. In nineteen years you have gone to nine counties and in six of them the one person who could do the thing was gone by the time anybody had checked, and I have never been in nine counties in my life, and I learned that from a man at a rail, and I do not think it is a bad argument. A document in a book upstairs does not go anywhere. A magistrate's notice on a board in a ward does not go anywhere. And if the magistrate goes out of office in a year, the notice is still on the board and the meeting is still a meeting of a ward and nobody is going to be able to say who called it.*”
 
 “*Yes,*” said Tarin Keel. “*And the two hundred names are still on a paper.*”
 
@@ -68,7 +68,7 @@ Ilyan's is slower and it is made of a book, and a book stays, and a book is only
 
 They both know that. They have both known it since the seventh morning, in a public room, with a clerk of forty writing one of it down in a fair hand.
 
-And neither of them is going to win and the band is not going to tell you which one of them is right, because both of them are right, and the finding of this volume is not in this doorway and will not be.
+And neither of them is going to win, and this doorway is not going to say which one of them is right, because both of them are right, and the answer to it is not in this doorway and will not be.
 
 ---
 
@@ -88,7 +88,7 @@ And then Tarin Keel asked him a question, and he asked it the way a man asks for
 
 “*Then say the last of it.*”
 
-“*The last of it is that a corridor needs a person at the end of it and a room does not, and that is the whole of the difference and there is no third thing between the two of them,*” said Tarin Keel. “*A room in this city has a clerk at the end of it who writes down what was said in it and it goes in a book upstairs. A corridor has a person at the end of it who can do a thing by the morning. That is all of it, and I have been saying it badly for four days because I have never before had to say it to a man who already knows what a clerk is.*”
+“*The last of it is that a corridor needs a person at the end of it and a room does not, and that is the whole of the difference and there is no third thing between the two of them,*” said Tarin Keel. “*A room in this city has a clerk at the end of it who writes down what was said in it and it goes in a book upstairs. A corridor has a person at the end of it who can do a thing by the morning. That is all of it, and I have been saying it badly for seven days because I have never before had to say it to a man who already knows what a clerk is.*”
 
 ---
 
@@ -116,6 +116,6 @@ And that is the whole of the morning, and here is what came out of it.
 
 Neither of them changed his mind. Tarin Keel went up the hill at the change and put the lead back in his coat and stood at a rail outside the black building and counted what came in, which is what he has done every day since the first morning of this city and which he has been useful at and hates.
 
-And Ilyan went down the row and held a door open in the cold for a woman of twenty-eight who did not ask him a single question, because the argument in that doorway was that both of the things they do are correct, and he had been fourteen days in a city where the only person who could decide between them was a woman of forty-four with a book, and she was not going to be asked, and he was not going to ask her, and neither was Tarin Keel.
+And Ilyan went down the row and held a door open in the cold for a woman of twenty-eight who did not ask him a single question, because the argument in that doorway was that both of the things they do are correct, and he had been thirteen days in a city where the only person who could decide between them was a woman of forty-four with a book, and she was not going to be asked, and he was not going to ask her, and neither was Tarin Keel.
 
 The block in the gatepost was still wrong at the last of the light. The two hundred names were still on a paper. The notice was not written, and there was no notice, and no meeting, and nobody had been thanked, and the four bells went, and the fever did not stop for a doorway either.

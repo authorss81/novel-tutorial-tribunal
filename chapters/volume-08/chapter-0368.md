@@ -1,6 +1,6 @@
 # Chapter 368: The Day Before The Fourteenth, And A Man In A Room
 
-It was his hundred and eighteenth morning and the sixth day of the seventy-fourth week, and the fourteenth was tomorrow, and there were two things in the low end of Tallowgate that wanted him in the same four hours, and he could not be in both of them, and the reason was a leg, and the leg is the leg and it is not going to clear and it is not counted anywhere in this volume.
+It was his hundred and eighteenth morning and the sixth day of the seventy-fourth week, and the fourteenth was tomorrow, and there were two things in the low end of Tallowgate that wanted him in the same four hours, and he could not be in both of them, and the reason was a leg, and the leg is the leg and it is not going to clear and nobody is going to count it.
 
 He did the hall first because the hall is where the beds are and the yard is where the plates are and the yard can wait four hours and a hall cannot.
 
@@ -34,7 +34,7 @@ He put the chalk down.
 
 “*Nobody has ever asked her to put one in.*”
 
-“*Nobody has ever asked her to put one in and there is no form that says she may,*” said the man with the bad ear. “*Do you see what it is. The one thing nobody can do is the one thing we would all like done. And the reason we cannot do it is not that she is difficult. It is that the only way a name comes out of that book is somebody with a duty deciding that a person is not there, and there is no post in this city with that duty, and there has not been one since the summer.*”
+“*Nobody has ever asked her to put one in and there is no form that says she may,*” said the man with the bad ear. “*Do you see what it is. The one thing nobody can do is the one thing we would all like done. And the reason we cannot do it is not that she is difficult. It is that the only way a name comes out of that book is somebody with a duty deciding that a person is not there, and there is no post in this city with that duty, and there has not been one in the four hundred years of this ward's roll.*”
 
 ---
 
@@ -52,7 +52,7 @@ And the number of people in this roll who are not in this ward is not a number a
 
 “*The other two.*”
 
-“*It cannot say whether a person is alive and it cannot say whether a person is in the house,*” he said, “*and the third thing is that I asked for my own name to be put on a slate in a room upstairs in this building about three weeks ago, and there is a name on a slate and a name in a roll and a name in a column of dead, and three books in one ward and not one of them can take a man out of it, and I am thirty-one and I have a bad ear and I keep a column of nothing because nobody has ever asked me for a heading.*”
+“*It cannot say whether a person is alive and it cannot say whether a person is in the house,*” he said, “*and the third thing is that I asked for my own name to be put on a slate in a room upstairs in this building about a fortnight ago, and there is a name on a slate and a name in a roll and a column of dead with nothing over the top of it, and three books in one ward and not one of them can take a man out of it, and I am thirty-one and I have a bad ear and I keep a column of nothing because nobody has ever asked me for a heading.*”
 
 He picked the chalk up again and went back to the end of the beds, and a woman on a bed said the name of the woman on the stool and the woman on the stool said she was there, and the morning went on the way mornings in a hall go.
 
@@ -86,7 +86,7 @@ Then he said: “*Now you are going to ask me what a plate is for.*”
 
 ---
 
-He said it without any weight on it and then he went and washed his hands in a bucket, which took a while, and he came back and dried them on his coat and stood against the bench with his arms folded, and a man of fifty-nine in a shed at the low end of a low ward in a city of about ninety thousand, with a shed full of black offcuts, saying that he does not know what the thing he has made for thirty-one years is for.
+He said it without any weight on it and then he went and washed his hands in a bucket, which took a while, and he came back and dried them on his coat and stood against the bench with his arms folded, and a man of fifty-nine in a shed at the low end of a low ward in a city of ninety thousand, with a shed full of black offcuts, saying that he does not know what the thing he has made for thirty-one years is for.
 
 “*I have asked twice in my life,*” he said. “*Once a long time ago, and I do not remember who I asked, and I was told it was the ward's business. And once about three years ago, and I was told the same sentence by a different person, and the person who said it was right both times and I have never had any reason to think either of them was wrong. And I have asked you and you are the third, and you have come down my lane with a leg and you have asked me a question about a cold line on a plate, and I have told you the two hundred and the polish line and the gatepost, which is more than I have told anybody in two years, and I would do it again, and it does not mean I know what a plate is for.*”
 
@@ -106,12 +106,12 @@ He picked the wheel up again.
 
 ---
 
-He walked back up a mile and a half of low ground and thought about the two days in front of him and the two places in them, and this is the ordinary cruelty of a city and it is not a difficulty and it is not a hardship and it is not going to be paid for by anybody.
+He walked back up a mile and a half of low ground and thought about the day in front of him and the two places in it, and this is the ordinary cruelty of a city and it is not a difficulty and it is not a hardship and it is not going to be paid for by anybody.
 
-Tomorrow there are nine hundred doors in Tallowgate and a woman of twenty-eight whose chalk ran out yesterday, and who has a string and a slate and two days of not going to a door, and she will be at a door at the second hour because that is when doors are answered, and there is no rota and no list and no name anywhere in this city that says she is going to be there.
+Tomorrow there are nine hundred doors in Tallowgate and a woman of twenty-eight whose chalk ran out yesterday, and who has a string and a slate and three days of doors with nothing to mark them with, and she will be at a door at the second hour because that is when doors are answered, and there is no rota and no list and no name anywhere in this city that says she is going to be there.
 
-And tomorrow there is a chamber on the second floor of the black building at the middle of the nine bridges, and a bench of four, and about nine clerks, and a room of forty people, and a woman of forty-four who is going to be asked eleven questions or more for a whole day by people who have a duty to ask them, and a man of fifty-nine who does not know what a plate is for, and a man of thirty-one with a bad leg who is on a sheet in that room and cannot get off it and has said the price out loud of being in it in a yard in front of nine people.
+And tomorrow there is a chamber on the second floor of the black building at the middle of the nine bridges, and a bench of four, and nine clerks, and a room of forty people, and a woman of forty-four who is going to be asked eleven questions or more for a whole day by people who have a duty to ask them, and a man of fifty-nine who does not know what a plate is for, and a man of thirty-one with a bad leg who is on a sheet in that room and cannot get off it and has said the price out loud of being in it in a yard in front of nine people.
 
-He cannot be at a door at the second hour and in a chamber at the second hour. He cannot be in two places in a city of about ninety thousand people, and the reason is a leg, and there is nothing anybody can do about it, and nobody in this volume is going to suggest that he should try.
+He cannot be at a door at the second hour and in a chamber at the second hour. He cannot be in two places in a city of ninety thousand people, and the reason is a leg, and there is nothing anybody can do about it, and nobody in that ward is going to suggest that he should try.
 
 The four bells went. The fever did not stop. Somewhere in a low ward a boy of eleven was carrying water in the dark for a penny at the end of the week, and a woman of forty-four was doing a round at a rate of two doors a day that she was not going to be paid for, and a man of thirty-one with a bad ear was rubbing out a number on a board at the end of a hall and chalking a number that was less wrong, and not one person in that ward got anything out of the day.

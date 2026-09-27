@@ -16,7 +16,7 @@ Then she put the pen down and told him, because he had earned it by standing sti
 
 She turned the chair round, which is what she does when she is going to do arithmetic.
 
-“*About thirty doors a fortnight. That is what this book has always been. There are about nine hundred doors in this ward. A fortnight is fourteen days, so thirty doors in fourteen days is about two doors a day, and two doors a day is the whole of it. That is the rate. Two doors a day, nine hundred doors, so two doors a day for nine hundred doors is four hundred and twenty days to go round the ward once.*”
+“*About thirty doors a fortnight. That is what this book has always been. There are nine hundred doors in this ward. A fortnight is fourteen days, so thirty doors in fourteen days is about two doors a day, and two doors a day is the whole of it. That is the rate. Two doors a day, nine hundred doors, so two doors a day for nine hundred doors is four hundred and twenty days to go round the ward once.*”
 
 “*Four hundred and twenty days.*”
 
@@ -54,7 +54,7 @@ He asked her, standing in the passage behind the shop, and the man was about for
 
 And in the afternoon he walked out with her.
 
-That is the part of the day that nobody in this city is going to know about and the part of the day that is the whole of the band, and he was not useful in it and he was there for four hours.
+That is the part of the day that nobody in this city is going to know about and the part of the day that is the whole of what she is doing, and he was not useful in it and he was there for four hours.
 
 She knocked. She did not knock the way a man knocks, and he asked her about it once, on the fourth door, and she told him and that is the only instruction he has been given in this city.
 
@@ -82,7 +82,7 @@ At about the seventh hour she stopped in a doorway and turned round and looked a
 
 And he thought about it for a long time, in a doorway, with a bad leg and a cold hand.
 
-“*Because there is a book at the back of a chandler's shop that two hundred people are not in,*” he said, “*and there is a form in this city that nobody has ever filled in, and the form needs a name at the top of it, and I am not going to put a name at the top of anything, and so the only instrument I have is to say a true thing out loud in front of other people, and that makes a person into a person in a record, and I have used it three times in thirteen days and it has cost three people something and it has not put a single name into that book.*”
+“*Because there is a book at the back of a chandler's shop that two hundred people are not in,*” he said, “*and there is a form in this city that nobody has ever filled in, and the form needs a name at the top of it, and I am not going to put a name at the top of anything, and so the only instrument I have is to say a true thing out loud in front of other people, and that makes a person into a person in a record, and I have used it three times in twelve days and it has cost three people something and it has not put a single name into that book.*”
 
 “*So you are here for the book.*”
 
@@ -94,4 +94,4 @@ She looked at him for four seconds and then she went and knocked on the next doo
 
 He held the door.
 
-The four bells went that night at the low end of Tallowgate, and about nine hundred doors in that ward had four hundred and twenty days in them and about five days' worth of chalk, and the rate was two a day, and two doors a day is not a wage and is not a task and is a woman.
+The four bells went that night at the low end of Tallowgate, and nine hundred doors in that ward had four hundred and twenty days in them and four days' worth of chalk, and the rate was two a day, and two doors a day is not a wage and is not a task and is a woman.

@@ -8,7 +8,7 @@ He went up the hill at the second hour and stood under the blank nine inches on 
 
 ---
 
-The notice board under the order was still empty, and it was eight mornings since he had said twelve shillings and a pound three and sixpence out loud under it, and nothing had come of either figure, and he was going to stand under it again and say a worse thing.
+The notice board under the order was still empty, and it was seven mornings since he had said twelve shillings and a pound three and sixpence out loud under it, and nothing had come of either figure, and he was going to stand under it again and say a worse thing.
 
 There were seven people in the room. Two ward clerks. A man with a barrow who had come about a lane and not about the fever and who had been in the room on the seventh morning and had been in it on the first. A boy of fourteen. A runner in a magistrate's colour. A woman of sixty with a bundle and a child asleep against her shoulder. And a clerk of forty at the end of the table, whose job it is to write down what is said in that room, and who put his hand on the book before the stranger had got to the middle of the first sentence, because he has done this before.
 
@@ -30,7 +30,7 @@ The clerk of forty said: “*I am writing.*”
 
 He stopped there, and the clerk of forty waited, and the room waited, and a man in the room who had come about a lane put his barrow down against the wall, which is what a man does when he thinks he is going to be in a room for a while.
 
-“*That is two,*” he said. “*And the third one is the reason I am standing here and the reason I have been in this city fifteen days.*”
+“*That is two,*” he said. “*And the third one is the reason I am standing here and the reason I have been in this city fourteen days.*”
 
 ---
 
@@ -62,7 +62,7 @@ And then a woman of sixty with a bundle said the thing that was the reason he ha
 
 He said nothing, which is what the room required of a man who has just been spoken to by a person of a place.
 
-“*My sister's boy is on the roll,*” she said. “*I put him on it. I stood at our door in the autumn and I said his name out loud to the woman with the book, and I said my own name and my sister's name, and there were four of us and there are four names, and I have never once wished there were five. And nobody asked me whether I wanted to be a person in a book and I did not need to be asked, and that is the whole of the difference between me and the woman at the back of the chandler's shop and you have been in this city fifteen days and you have not seen it and I would like you to see it now because you have just said her price out loud in a room in front of seven people and it is the only thing you have said in this city that was worth saying.*”
+“*My sister's boy is on the roll,*” she said. “*I put him on it. I stood at our door in the autumn and I said his name out loud to the woman with the book, and I said my own name and my sister's name, and there were four of us and there are four names, and I have never once wished there were five. And nobody asked me whether I wanted to be a person in a book and I did not need to be asked, and that is the whole of the difference between me and the woman at the back of the chandler's shop and you have been in this city fourteen days and you have not seen it and I would like you to see it now because you have just said her price out loud in a room in front of seven people and it is the only thing you have said in this city that was worth saying.*”
 
 “*What would I have to do to see it.*”
 
@@ -78,7 +78,7 @@ And she went, and the room let her, and nobody stopped her, and she was not than
 
 The man with the barrow, who had been in this room twice and had come about a lane both times, waited until the door was shut and then said one sentence to the middle of the table.
 
-“*You have three things and two of them are about a room,*” he said, “*and the room is where you put a thing so that it lasts, and the third one is about a woman, and the woman is where you put a thing so that it is true, and you have been in this city fifteen days and you have only just worked out which of the two you are holding.*”
+“*You have three things and two of them are about a room,*” he said, “*and the room is where you put a thing so that it lasts, and the third one is about a woman, and the woman is where you put a thing so that it is true, and you have been in this city fourteen days and you have only just worked out which of the two you are holding.*”
 
 He lifted his barrow and went out.
 

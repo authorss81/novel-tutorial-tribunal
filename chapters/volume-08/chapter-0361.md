@@ -10,7 +10,7 @@ He got it out in the public room at about the fourth hour and it took him four m
 
 The room is open all day and there are four people in it at any time and two of them are clerks, and on that morning there were five, because it was the hour when the runners come in from the wards.
 
-He stood at the end of the long table and he said it plainly, because he had learned in eleven days that there is no arrangement in this city for saying a thing more than once.
+He stood at the end of the long table and he said it plainly, because he had learned in ten days that there is no arrangement in this city for saying a thing more than once.
 
 “*I would like the roll of Tallowgate read out in this room.*”
 
@@ -44,7 +44,7 @@ He came to it.
 
 “*A thing that goes up from here goes up from a person or from a body. A person goes up with a complaint. A complaint about a book is a thing that happens to a person who keeps a book and not to the book, and I will tell you why that is, because it is not the rules being unkind, it is what a complaint is. A complaint is a thing somebody is doing to somebody. You are asking me to send nine hundred people up to a room because a book is correct.*”
 
-“*The book is not correct,*” said Ilyan. “*The paper has about fifteen hundred and the plate has about thirteen hundred and the block says what it said two years ago, and two hundred people are outside a protection because of it.*”
+“*The book is not correct,*” said Ilyan. “*The paper has fifteen hundred and the plate has thirteen hundred and the block says what it said two years ago, and two hundred people are outside a protection because of it.*”
 
 “*I know that,*” said the clerk of thirty. “*I wrote a fair hand about it in the seventh morning of your being here and it took me eleven minutes and a man at a rail corrected a figure in it. It is in a book on the second floor. Nineteen people have read it in the four days since the morning of the seventh day. I am one of them and it is the correctest thing anybody has said in this room since the order went up.*”
 
@@ -88,7 +88,7 @@ Nobody thanked the clerk and the clerk was not thanked. He went back to his tray
 
 Here is the rest of it, because a chapter about a thing that cannot be done is not finished by the not-doing.
 
-He went down the hill and across the low ground and along a mile and a half of Tallowgate at about the sixth hour, and the woman of twenty-eight was at the end of it with a bundle of string and a slate and chalk in her pocket, and she had six days of the nine she had bought with a penny left in her pocket, and had been in this ward before he came into it.
+He went down the hill and across the low ground and along a mile and a half of Tallowgate at about the sixth hour, and the woman of twenty-eight was at the end of it with a bundle of string and a slate and a piece of chalk, and the chalk was the whole of nine days she had bought with a penny and had not used any of it yet, and she had been in this ward before he came into it.
 
 She did not ask him anything. He told her what the clerk of thirty had said, and she listened to the whole of it standing up, with her back to a wall.
 
@@ -120,7 +120,7 @@ They stood in a passage behind two houses and it was not warm and there was a sm
 
 They agreed about everything.
 
-The book was right. Two hundred of her names were on a paper and not on a plate. The block in the gatepost said what it had said two years ago, which was a thousand one hundred and something, and nobody in the passage could read it and nobody had read it since it was cut. Four shillings the hundred would fix two hundred names, which is eight shillings, and there is no money in this ward and has not been for two years, and the two hundred that were cut in those two years were paid for out of two women's own hands and neither of them would say what for.
+The book was right. Two hundred of her names were on a paper and not on a plate. The block in the gatepost says what it has said for two years, which is a mark cut into a face, and nobody in this ward can read it and nobody has read it since the day it was cut. Four shillings the hundred would fix two hundred names, which is eight shillings, and there is no money in this ward and has not been for two years, and the two hundred that were cut in those two years were paid for out of two women's own hands and neither of them would say what for.
 
 A meeting of a ward that is not called by a form is not a meeting.
 
@@ -140,4 +140,4 @@ At the door on the way back up the row, the woman of thirty-four asked him a que
 
 “*No,*” he said.
 
-“*Right,*” she said, and went in, and the door was shut, and that is the whole of what he had been given by eleven days in a city, and the four bells went, and the fever did not stop for the passage or for the form or for the mark on nine doors, and three hundred names were still outside a protection that a magistrate put there on purpose.
+“*Right,*” she said, and went in, and the door was shut, and that is the whole of what he had been given by ten days in a city, and the four bells went, and the fever did not stop for the passage or for the form or for the mark on nine doors, and three hundred names were still outside a protection that a magistrate put there on purpose.
