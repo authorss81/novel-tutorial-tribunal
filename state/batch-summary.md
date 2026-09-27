@@ -1,3 +1,45 @@
+## VOLUME 08 BATCH 0001 IS DELIVERED — Chapters 351–360, *The Roll*. **THE BAND'S RECEIPT, IN ONE BLOCK. `outline/volume-08.md` DID NOT EXIST AND WAS WRITTEN BY THIS PHASE, WHICH WAS ASKED FOR A VOLUME PLAN AND A FIRST BAND IN ONE RUN BY THE CONTINUATION PROMPT AT `workspace/continuation/next-0003/`. IT SUPERSEDES NOTHING AND IT ARCHIVES NOTHING: the `## VOLUME 07 IS CLOSED…` block below it is archive and is not edited by this phase. `outline/series.md` outranks `outline/ending.md`, which outranks `outline/volume-08.md`, and all three outrank this file.**
+
+### WHAT THIS BAND PAID, ONCE EACH
+
+1. **A city as a different kind of place, not a bigger one.** The first thing that happens to a stranger in Orison is a form with a line for a name in it, and a rule in a city is visible because somebody reads it out and the reading is a job, and about thirty clerks have been doing it properly for nine years.
+2. **The engine.** A person is inside the protection only if a roll has the name in it, and the roll is made at a door by the person who answers it, and the book does not say who lives in a house, it says who answers the door.
+3. **The order, and the whole of the volume in one object.** Six lines, five parts and a half, the sixth line a date that is not there, and the word standing in the margin. **The missing half is an exit and not a refusal, and the difference between those two is the whole of Volume 08.**
+4. **A finding the instrument did not expect, and it is the batch's discovery about itself.** A person in a record is not only somebody who can be asked about; a person in a record is the only thing about that record that can be asked about. **Putting a name in does not open a thing up. It closes it down to one person, and it picks which person.**
+5. **The cost, paid in a person, with the price said out loud before the doing.** A woman of forty-four who refused her name on the second morning for the exact reason he took it on the tenth, and who is now the only person in this city anybody can ask about the roll, and who was asked two questions about herself on the same afternoon.
+6. **The money, in the open, with the working.** Twelve shillings of plate, a pound three shillings and sixpence for a date, a hundred and thirty-eight pence between them, and five pounds and a shilling between a bell keeper's year and a roll keeper's. **Every one of the five figures is given by a person of a place and none is invented by a narrator.**
+7. **A first draft, written and not filed, with the reason supplied by the person who would have paid it.** And the finding that naming a burden does not stop the harm, it puts a person underneath it so the record can show a person did it.
+8. **A rule with no way to end, doing exactly nothing wrong.** A number of beds free in six halls went up by four and did not come down by one, and about half the beds in the city are empty, and a woman on a stool has been chalking a number she can stand behind for five days and knows the other one.
+9. **The volume's new question, planted and not answered.** The translated interface offered a man with a bad leg and no standing a choice of three things about a public record, and offered it to nobody else in the building, and he noticed and did not ask.
+10. **A first band, of a first volume, of the first city in two hundred chapters, and the instruments moved.**
+
+### WHAT THE BAND DID NOT PAY, AND IT IS SIX ITEMS
+
+1. **It did not write a volume audit, and Volume 07's is owed, and five audits and twenty-six batch reviews are owed, and this band has added a tenth unwritten review to that list by existing.**
+2. **It did not use the word the map uses for the things under the city.** Reserved for Batch 0002, on purpose, and the word arbiter is at zero and reserved too.
+3. **It did not restore the right of refusal, and nobody has one, and the fever is not contained and is not diagnosed and about a hundred and forty people stay dead.**
+4. **It did not open a position and did not send anybody anywhere, and it did not produce a person.**
+5. **It did not write the word *panel* or *system* in the fiction, and nothing rendered, and no character remarked that anything answered.**
+6. **It did not resolve the fourth, fifth and sixth arcs of the volume, which are Batch 0002, and it did not touch one of the eleven Briar March threads, and *Draymoor* is at zero over the ten chapters.**
+
+### THE FIFTEEN THINGS A LATER PASS GETS WRONG IF IT DOES NOT MEASURE THEM
+
+1. **The band has no weight column and no plank figure, and that is the reason, not an omission.** Shelf day = chapter − 125 and morning = chapter − 250 still hold, and the two round numbers are Chapter 355 and Chapter 360 and nobody notices either.
+2. **The span scan measures 16/32 at seventy characters and 350/761 at forty, and the instrument is calibrated: run on Volume 07 Bands 0004 and 0005 the same code returns 122/254, 534/1,081, 1,201/2,817 and 1,838/4,287, which are the published figures exactly.** **The fall from Volume 07's lowest band is two thirds and it is the absence of the frame and not a discipline, and no sentence of forty-five characters or more is printed twice in the ten chapters against seven in Volume 07's fifty.**
+3. **The numeric hedge is 16 in 21,528 words, one in 1,345, against Volume 07's last band of 48 in about eleven thousand; the sixteen are a person's estimates, an age, a room, a city, a line count and two figures of the dead.**
+4. **The panel count is one and it is at `360:75`–`360:78`, and bold is eight in Chapter 360 and zero in the other nine, and the band put five emphatic bold spans in four other chapters and took them out before delivery.**
+5. **Weekdays are zero and month-names are zero after the modal verb *may* is subtracted, and digits are thirty and all thirty are chapter numbers in headings.**
+6. **The self-arrived class is zero, and the test is to say out loud that the person was in the place before the stranger came, and the band says it about Ivo Serrel, the keeper, the plate-cutter, the man with the bad ear, the woman of twenty-eight and the woman on the stool.**
+7. **Fenna Rusk refuses her name in Chapter 355 and the whole of Chapter 360 depends on it; a repair that makes her introduce herself destroys the climax.**
+8. **Ansa Rell's age is not stated in this band and may not be inferred in a hand-off; refer to her as Magistrate Rell.**
+9. **Tarin Keel is fifty-two in the chapter files and forty-six in the bible and the chapter files win.**
+10. **The barwoman's age split, and the man of about seventy-four's two *since* dates fourteen days apart at `317:15` and `336:49`, are both still open and neither is in this band.**
+11. **`stone` is eleven and all eleven are ordinary material, and prohibition 4 held in the one place it was hardest, which is a city that genuinely has a stone in a gatepost.**
+12. **`cannot read` is at zero and the count of the people who know it is printed nowhere; the band got through thirty clerks by asking for things to be read aloud and never saying why.**
+13. **The volume's outline and its first band were written in one run, and four of the band's own figures were wrong in the first writing and were caught by running the scans on the chapter files rather than on the plan.**
+14. **Nobody is a villain, nobody hid anything, nobody is relieved, nobody is forgiven, nobody is redeemed and nobody is thanked, and `conspiracy`, `corrupt` and `cover` are all at zero.**
+15. **The byte count, in `state/current.md` §10, because a band that adds a block to six files without saying how many bytes it added and how many it removed is making the project's one unfixed problem worse.**
+
 ## VOLUME 07 IS CLOSED — CHAPTERS 301–350, *The Choir of Nine Anchors*. **THE VOLUME'S RECEIPT, IN ONE BLOCK. What the five bands each paid, once each and not repeated. What the volume as a whole paid. The two things it did not pay. The list of the things a later pass gets wrong if it does not measure them. And the byte count, because a close writes no prose and is the only phase in this project that can move the one number seven phases of writing could not.** It supersedes the `## VOLUME 07 BATCH 0005 IS DELIVERED` block below it, which is archive and is not edited by this phase. **VOLUME 07 IS WRITTEN AND CLOSED. `outline/series.md` outranks `outline/ending.md`, which outranks `outline/volume-07.md`, and all three outrank this file.**
 
 ### WHAT THE FIVE BANDS EACH PAID, ONCE EACH
