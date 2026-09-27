@@ -14,7 +14,7 @@ Then she put her pen down and turned her chair, and that is when it started.
 
 “*Say it,*” she said. “*You have come four days on a road with a leg and you have got a face on you and you are not going to be able to sit down again once you start, so say it and I will tell you the parts that are wrong before you have finished.*”
 
-“*There is an order in this city that puts its protection behind a roll, and about a third of the people in two wards are not in the roll because the roll is made by whoever answers a door, and there is a man of forty-four at the top of nine steps in Weaver's Row who has not been down them in six years and has asked twice and been told to come back with a paper, and there is no paper in this city that would do it, and nobody had noticed before a clerk said it out loud to a stranger in a room, and I have been four days in this country and I have worked out that the whole of what I have is a question and a cost, and I have come here to say it in a room to one person, and I am not going to have you fix it.*”
+“*There is an order in this city that puts its protection behind a roll, and a good many people in two wards are not in the roll because the roll is made by whoever answers a door, and there is a man of forty-four at the top of nine steps in Weaver's Row who has not been down them in six years and has asked twice and been told to come back with a paper, and there is no paper in this city that would do it, and nobody had noticed before a clerk said it out loud to a stranger in a room, and I have been four days in this country and I have worked out that the whole of what I have is a question and a cost, and I have come here to say it in a room to one person, and I am not going to have you fix it.*”
 
 She listened to all of that without moving.
 
@@ -76,7 +76,7 @@ She picked up her pen and then put it down again, which she did perhaps twice in
 
 “*The fourteenth,*” he said.
 
-“*The fourteenth,*” she said. “*Upstairs, in the chamber, and the question is on a slate and not on a paper because it is a question, and it is: what is the Bench to do with a document it did not make, that says a thing is under this city and not found, and who is to be asked about it. There are two names on the sheet for a witness and one of them is yours, and the other one is a man of forty-four who works in a yard at the low end of Tallowgate and is not a witness to anything and has never been asked to be.*”
+“*The fourteenth,*” she said. “*Upstairs, in the chamber, and the question is on a slate and not on a paper because it is a question, and it is: what is the Bench to do with a document it did not make, that says a thing is under this city and not found, and who is to be asked about it. There are two names on the sheet for a witness and one of them is yours, and the other one is a man of fifty-nine who works in a yard at the low end of Tallowgate and is not a witness to anything and has never been asked to be.*”
 
 “*They want the plate-cutter.*”
 

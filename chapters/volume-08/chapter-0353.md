@@ -6,7 +6,7 @@ He did not send for anybody. There is no form in this city that says a man may s
 
 ---
 
-Tallowgate is nine hundred doors in about a mile and a half and it is on the low side, and the low side is low because the river is a mile off and the ground was made out of what a city throws away, and there is a standpipe at the end of it with a queue at the standpipe every morning of this eleventh week, and the queue is not a queue for water, because the water is coming, it is a queue because the standpipe is the only place in four hundred yards where nine people can stand and be in the same street.
+Tallowgate is nine hundred doors in about a mile and a half and it is on the low side, and the low side is low because the river is a mile off and the ground was made out of what a city throws away, and there is a standpipe at the end of it with a queue at the standpipe every morning of these eleven weeks, and the queue is not a queue for water, because the water is coming, it is a queue because the standpipe is the only place in four hundred yards where nine people can stand and be in the same street.
 
 He asked at the standpipe. He asked carefully, in the way four hundred miles of country taught him to ask, which is a question about the order of things and not a question about a person.
 

@@ -50,13 +50,13 @@ She put her pen down and turned round in the chair, and she did it slowly, and w
 
 “*Say why. Not the reason for the draft. The reason you put it in a clause.*”
 
-“*Because a draft has to name a burden,*” he said, “*and there is no other person in this city who can be the somebody in the fourth, and I have been in nine days and I do not know eleven names in four wards and I could have learned eleven names in nine days, and I did not, because learning them would have taken the nine days I spent learning about plates.*”
+“*Because a draft has to name a burden,*” he said, “*and there is no other person in this city who can be the somebody in the fourth, and I have been in seven days and I do not know eleven names in four wards and I could have learned eleven names in seven days, and I did not, because learning them would have taken the seven days I spent learning about plates.*”
 
 “*You did not ask me,*” she said. “*That is the whole of what you have done and I am going to say it the way I would say a figure in a book and I am not going to be talking about it afterwards. You have written a document with my work at the bottom of it and you have read it to me after you wrote it, and there is no form in this country that will take me out of it, and there is no form in this country that will take you out of having done it, and both of those are true and I am the one who is in it.*”
 
 ---
 
-She was quiet for eleven seconds, and then she said the thing he has carried for eight days, and she said it because he had asked her a question, which is the only way anybody in this city says a true thing.
+She was quiet for eleven seconds, and then she said the thing he has carried for seven days, and she said it because he had asked her a question, which is the only way anybody in this city says a true thing.
 
 “*Nobody has ever shown me a bill for that,*” she said. “*That is the whole of my answer and I have been trying to get to it since you came through that door. Eleven years of going to thirty doors a fortnight and nine hundred doors, and not one single person in this city has ever said to me: here is what it costs, here is the bill, here is what you are worth. I have been paid four shillings a year, which is forty-eight pence, which is about a farthing a day and not quite, and I have never once been able to tell anybody what the work is worth, because I have never seen it written anywhere, and if you had come in here on the second morning and put that in a document then I would have known what my work was worth, and I would have said: it is worth that, and I want that, and pay me that.*”
 
@@ -78,7 +78,7 @@ He looked at it for a while.
 
 “*I am not going to file it,*” he said.
 
-“*No,*” she said. “*You are not, because you would have to put your name to it, and you are not going to put your name to anything in this city, and I have watched you not do it at a gate and I have watched you not do it in this room and I did not think anything of it until about a minute ago, when you handed me a sheet and did not put your name on it, and I understood the whole of the arrangement at once, which is that you will not be a person in this and she will, and you have found that out in nine days and I have been finding it out for thirty-one.*”
+“*No,*” she said. “*You are not, because you would have to put your name to it, and you are not going to put your name to anything in this city, and I have watched you not do it at a gate and I have watched you not do it in this room and I did not think anything of it until about a minute ago, when you handed me a sheet and did not put your name on it, and I understood the whole of the arrangement at once, which is that you will not be a person in this and she will, and you have found that out in seven days and I have been finding it out for thirty-one.*”
 
 He said: “*You are not going to be in it.*”
 

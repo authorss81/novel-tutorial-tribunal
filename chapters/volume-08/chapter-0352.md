@@ -1,6 +1,6 @@
 # Chapter 352: Five Parts And A Half, And The Half Is The One She Left Out
 
-It was his hundred and second morning and the second day of a fever in two low wards of a city he had been in for one day, and there is no figure on any wall in this city and there is going to be none for as long as he is in it, so the count that is running in his head this week is a different one and it is running in a book at a gate and in three places where a person is standing all day counting something else.
+It was his hundred and second morning and the second day of his being in a city with a fever in two low wards, and there is no figure on any wall in this city and there is going to be none for as long as he is in it, so the count that is running in his head this week is a different one and it is running in a book at a gate and in three places where a person is standing all day counting something else.
 
 He went and asked to hear the order read out.
 
@@ -78,7 +78,7 @@ She turned round and put a hand flat on the table, on the paper, on the word *st
 
 “*Then how many people does the roll have,*” he said.
 
-“*Fewer than it has,*” she said. “*And I know that, and I know it is the worst sentence in the order, and I wrote it in the fifth week when I had about nine hundred of them dead and a bench of four who wanted one legible thing by the end of the day.*”
+“*Fewer than it has,*” she said. “*And I know that, and I know it is the worst sentence in the order, and I wrote it in the third week when I had about forty of them dead and a bench of four who wanted one legible thing by the end of the day.*”
 
 ---
 
@@ -100,7 +100,7 @@ He went back to the table where the clerk was still sitting, because there was o
 
 The clerk put the pen down.
 
-“*Whoever comes and asks,*” he said. “*That is the rule. A person may come to this room and ask to hear a rule that governs them, and we read it, and it takes eleven minutes, and there are four of us and the room is open all day, and the order has been up since the second week.*”
+“*Whoever comes and asks,*” he said. “*That is the rule. A person may come to this room and ask to hear a rule that governs them, and we read it, and it takes eleven minutes, and there are four of us and the room is open all day, and the order has been up since the third week.*”
 
 “*How many people have come and asked?*”
 
@@ -110,7 +110,7 @@ The clerk was honest about it, and he was not embarrassed, and there is no reaso
 
 Then he said the thing that the whole of the next nine days of his life turned on, and he said it as a clerk saying a fact about his own work.
 
-“*It goes out to the ward by the ward clerk on the day it is signed, and the ward clerk puts it on a board, and after that it is a piece of paper on a board in a corridor. There is no part of this that says a person must be told. A rule that says a person is inside a protection when a book says so is a rule that works by the book, and the book is the doing of it. The book is in Tallowgate and it is very good work and I have read it and it is correct, and I have never once thought about what happens to somebody who is not in it, and I have thought about what happens to the order about twice a day since the second week, and those are two different things and one of them is my job.*”
+“*It goes out to the ward by the ward clerk on the day it is signed, and the ward clerk puts it on a board, and after that it is a piece of paper on a board in a corridor. There is no part of this that says a person must be told. A rule that says a person is inside a protection when a book says so is a rule that works by the book, and the book is the doing of it. The book is in Tallowgate and it is very good work and I have read it and it is correct, and I have never once thought about what happens to somebody who is not in it, and I have thought about what happens to the order about twice a day since the third week, and those are two different things and one of them is my job.*”
 
 The stranger said nothing at all for a moment.
 
@@ -118,6 +118,6 @@ The stranger said nothing at all for a moment.
 
 The clerk thought about it, and it is a fair question and it is a hard one, and the clerk answered it the way an honest man answers a hard question in a room where four people can hear it.
 
-“*Yes,*” he said. “*And I cannot tell you who, and that is not modesty. I know that there are people in this city who are not in that book, because the book is made at doors by householders and about a third of the people in this city do not sleep in a house that anybody calls theirs. I have known that since I was twenty-six. I did not know what to do about it until eleven minutes ago, and I am going to go and do my afternoon, and the afternoon is four hundred entries, and I am telling you that I am going to do my afternoon and not that I am going to do anything else.*”
+“*Yes,*” he said. “*And I cannot tell you who, and that is not modesty. I know that there are people in this city who are not in that book, because the book is made at doors by householders and a great many people in this city do not sleep in a house that anybody calls theirs. I have known that since I was twenty-six. I did not know what to do about it until eleven minutes ago, and I am going to go and do my afternoon, and the afternoon is four hundred entries, and I am telling you that I am going to do my afternoon and not that I am going to do anything else.*”
 
 Nobody thanked the clerk and the clerk was not thanked and he went and did his afternoon.

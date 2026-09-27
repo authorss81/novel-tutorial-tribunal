@@ -18,7 +18,7 @@ He did not say the name. He is careful about that for the rest of his life and h
 
 “*Who keeps the roll of this ward.*”
 
-It is the plainest question anybody asked in Tallowgate that week. He asked it in the voice of a man who has been in a city three days and has a leg, and there was nothing in it, and the woman of about twenty-eight looked at him and understood the whole of it in two seconds, which he could see her do, and then she said:
+It is the plainest question anybody asked in Tallowgate that week. He asked it in the voice of a man who has been in a city nine days and has a leg, and there was nothing in it, and the woman of about twenty-eight looked at him and understood the whole of it in two seconds, which he could see her do, and then she said:
 
 “*She is called Fenna Rusk. She is forty-four. She has been in that room behind the chandler's since before I came to this ward, and if you want me to tell you the rest of it you can ask me on a different day, because there are nine people standing here and four of them cannot get in out of a street this cold.*”
 

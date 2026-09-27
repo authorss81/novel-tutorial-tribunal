@@ -2,7 +2,7 @@
 
 It was his hundred and seventh morning, and he did the arithmetic out loud in a room with nine people in it, and he had never in his life done anything so careless and so deliberate at the same time, and both of those were true, and the reason he knew it was true is that he went in there having written it on nothing.
 
-The public room at the black building has a notice board on one wall, and on that board is the order, and under the order, at about chest height, there is a blank space nine inches deep where a notice goes that is not the order, and on the ninth day of his time in this city the blank space was still blank.
+The public room at the black building has a notice board on one wall, and on that board is the order, and under the order, at about chest height, there is a blank space nine inches deep where a notice goes that is not the order, and on the seventh day of his time in this city the blank space was still blank.
 
 He said the figures in that space.
 
