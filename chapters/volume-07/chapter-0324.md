@@ -1,14 +1,14 @@
 # Chapter 324: It Pays For The Water, And Nobody Has Ever Asked Me
 
-The number on the plank at Coldharrow at the second light on the fourth morning of the sixty-eighth week was sixty-three thousand nine hundred and seventy-eight, and the man of about thirty-eight had been at the foot of that ladder that morning and said the number out loud in a lane at the end of the main street at about the second hour. The day behind it was four bells and a debt called in, which is six, and the debt was in this market town and had nothing to do with him.
+The number on the plank at Coldharrow at the second light on the fourth morning of the sixty-eighth week was sixty-three thousand nine hundred and seventy-eight, and the man of about thirty-eight had been at the foot of that ladder that morning and said the number out loud in a lane at the end of the main street at about the second hour. The day behind it was four bells and a debt called in, which is six, and the debt in that weight was in a village four days the other way, and the debt that was called in in this market town on the same morning was on no plank at all and had nothing to do with him.
 
 It was his seventy-fourth morning. The man of about thirty-eight had come up the lane with a cart because he was going this way as well, which is what he has always said, and he is a man of about thirty-eight with a fortnight and five days of notice left in him and four days of road in front of him, and he put the cart up at the cross and did not unload anything and said he was not stopping more than a day, and then he stayed four.
 
-A woman of about forty-five with a pitch at the cross had a debt called in on her that morning for the hire of it, and a man of about twenty-two from a town nine miles off was in the street about it, and four people knew, and it was going to be settled the way those things are settled in a market town, which is by both of them being tired by the middle of the day. The stranger stood nine feet off it for about an hour and a half and could have said one sentence and did not, and a street is not a room.
+A woman of about forty-five with a pitch at the cross had a debt called in on her that morning for the hire of it, and a man of about twenty-two from a town nine miles off was in the street about it, and four people knew, and it was going to be settled the way those things are settled in a market town, which is by both of them being tired by the middle of the day. The stranger stood nine feet off it for about an hour and a half and could have said one sentence and did not, and a street is not a room, and the debt at that cross this morning is not the debt on that slip and is on no slip at all.
 
 ---
 
-He had come to ask one question, and he had said out loud on the previous afternoon, in the rain, in a lane, to nobody, that he was going to ask it in a yard and not in a street, because a man who asks a question like that in a street has asked it in front of four hundred people.
+He had come to ask one question, and he had said out loud on the previous morning, in the rain, in a lane, to nobody, that he was going to ask it in a yard and not in a street, because a man who asks a question like that in a street has asked it in front of four hundred people.
 
 The plinth is in a yard.
 
@@ -32,7 +32,7 @@ He was at that gate at about the tenth hour and she was in the yard and the man 
 
 He stood at the gate and did not go in and did not say one word.
 
-The woman of about sixty-one put a bucket down and looked at him, and she had looked at him for four hours the day before from nine feet off and had not asked him his business, and she was sixty-one and she is a person of that place and she does not need a reason to speak to a man standing in her gate.
+The woman of about sixty-one put a bucket down and looked at him, and she had looked at him for four hours the day before from across her own ground and had not asked him his business, and she was sixty-one and she is a person of that place and she does not need a reason to speak to a man standing in her gate.
 
 “You are the one that was stood at the end of the street yesterday,” she said. “In the rain. Four hours.”
 
@@ -66,21 +66,23 @@ And then it was out, and it was not a confession and it was not a discovery and 
 
 Nobody pushed him. That is the thing about it. He talked for about an hour with his hands behind his back in a rain in a yard in a market town, and four people in that street came and went in that hour and heard most of it, and not one of them said a question.
 
-“There is a share on every load,” he said. “And what is left over after the standard has been taken out of it is what the town runs on, and that is the water and the bridge and the wall and the cross, and it has run that way since before I could reach the plinth. And the share is worked out every year in the back room of this house off the number of loads in a year, and the number of loads in a year is on a slip in this market’s book, and the slip has been in that book since the year it was written.
+“There is a share on every load,” he said. “And what is left over after the standard has been taken out of it is what the town runs on, and that is the water and the bridge and the wall and the cross, and it has run that way since before I could reach the plinth. And the share is worked out every year in the back room of this house by dividing the cost of those things by the number of loads in a year, and the number of loads in a year is not written down anywhere in this town, and what is written down is one market season’s count, on a slip in this market’s book, and that season’s count has been divided into the year’s cost every year since the year it was written.
 
 “*The slip says four thousand eight hundred.*”
 
 Nobody said anything.
 
-“I have read that slip twice in forty-four years,” he said. “*The market does nine thousand.*”
+“I have read that slip twice in forty-four years,” he said. “*A season is twelve weeks and there are four hundred loads over this bridge in a week of a season, and twelve weeks of that is the four thousand eight hundred on the slip, and a year is that season and the other forty weeks, and the other forty weeks carry as much again, and the market does nine thousand six hundred.*”
 
-That is the whole of the untrue part and it is a count of loads and it is a figure and it is sixty years old and it is a number, not a meaning, and two numbers came out of a yard within four minutes of each other and nobody in that yard added them together, and there is nothing in this country that would have let them.
+“And that is out of forty-four years of standing on that stone and not out of a book,” he said, “*and it is the only number I have ever said out loud that I cannot show anybody, and I asked a stranger for it yesterday morning at about the ninth hour and he did not have it either, and I have not written it down, and nobody in this town has ever asked me for it.*”
+
+That is the whole of the untrue part and it is a count of loads and it is a figure and it is sixty years old and it is a number, not a meaning, and the two of them came out of a yard within four minutes of each other, and the only people in four counties who have ever put one against the other are the two men standing in it, and the four hundred people who drink the water out of the end of that lane have never heard either of them.
 
 ---
 
 “Then where does the over-and-above go,” said the woman of about sixty-one.
 
-“To the water,” he said. “And to the bridge, and to the wall, and to the cross. *It has gone there every year since I was eight, and it has gone there because the number on the slip is less than half of what comes over the bridge, and what comes over the bridge is a share of a cost and a share of a cost is worked out by dividing, and if you divide a cost by half the number of loads that come, then every load pays twice what it should, and there is a great deal over at the end of the year.*”
+“To the water,” he said. “And to the bridge, and to the wall, and to the cross. *It has gone there every year since I was eight, and it has gone there because the number on that slip is one market season and the share is worked out on it as though it were a year, and a year is twice a season, and a share of a cost is worked out by dividing, and if you divide the cost of a year by half the loads of a year, then every load pays twice what it should, and there is a great deal over at the end of every year.*”
 
 The man of about thirty-eight was at the gate by then and he had not said one word in a quarter of an hour, which is the longest a man who counts other people's money has gone in eleven years of anybody's memory.
 
@@ -90,7 +92,7 @@ The man of about seventy did not turn round.
 
 “Because the water is paid for,” he said.
 
-Nobody said anything for nine seconds.
+Nobody said anything for long enough that a cart went over the bridge and neither of them heard it.
 
 “That is the whole of how I have known it for sixty years,” he said. “My father told me the number on that slip was right. He told me that in the year I was eight, in this yard, and he is dead, and his father told him, and the man who wrote the slip is dead and has been dead since before my father was thirty. *I was not in the room. I was in this yard and I was eight and I asked him what the number counted and he told me what it had always counted, and I believed him, and I have been the only one who could look at the other side of it since I was nine, and I have looked every year, and it has been right every year.*”
 
@@ -106,7 +108,7 @@ The woman of about sixty-one put her hand on the side of the pail and did not pi
 
 And he said the rest of it, and it took four sentences, and it is the shape of the honest version of the arrangement, and he did not have a shape for it in him and had to build it standing up.
 
-“If the number on the slip is right, then the share is what it ought to be and there is nothing over at the end of the year. And then the water, the bridge, the wall and the cross have to be paid for by the people who drink the water and cross the bridge and are buried behind the wall. And that is done off a list that is kept at the cross. And there are ninety names on that list in the nine towns of this county, and every one of the ninety is a person you can be entered against, and there is no form in this country that says a man may ask a person on a list for a figure.”
+“If a man wrote the loads of a whole year on that slip instead of one season, the share would be half what it is now and there would be nothing over at the end of the year. And then the water, the bridge, the wall and the cross have to be paid for by the people who drink the water and cross the bridge and are buried behind the wall. And there is no form in this country that pays for the water of a town, and the nine towns keep a list at a cross, and that is the whole of the reason a standpipe at the end of a lane is on it. And there are ninety names on that list in the nine towns of this county, and every one of the ninety is a person you can be entered against, and there is no form in this country that says a man may ask a person on a list for a figure.”
 
 ---
 
@@ -126,6 +128,6 @@ Nobody stopped him. Nobody forgave him and nobody has anything to forgive him fo
 
 A man of seventy said a thing in his own yard that he had been carrying since he was eight years old, out loud, once, and he was not asked to say it again, and he is not going to be asked to say it again, and he is seventy and he is entitled to stop. Nobody is going to make him say it a second time in a room and there is no room.
 
-The honest version of that arrangement is now on the table in a yard in four sentences and ninety people in nine towns cannot pay it, and the only person in four counties who can count what that would cost is a man of about thirty-eight standing at a gate, and he said out loud that he cannot count the ninety and that he has never been in seven of the nine towns, and the ninety is on a list at a cross and not in a book, and he has cost two people something today and is going to cost a third, and he has solved nothing.
+The honest version of that arrangement is now on the table in a yard in four sentences and ninety people in nine towns cannot pay it, and the only person in four counties who can count what that would cost is a man of about thirty-eight standing at a gate who has not been in seven of the nine towns, which he has said out loud in a lane and not in that yard, and the ninety is on a list at a cross and not in a book, and he has cost two people something today and is going to cost a third, and he has solved nothing.
 
-The day came to four bells and a debt called in, which is six, and the debt at the cross was settled about the middle of the day by both of them being tired, and the beam went up and down, and there was no figure in this town on any wall and there never has been.
+The day came to four bells and a debt called in, which is six, and that debt was called in four days the other way, and the debt at the cross in this town was settled about the middle of the day by both of them being tired, and the beam went up and down, and there is no figure in this town on any wall and there never has been.

@@ -84,7 +84,7 @@ She picked her stick up.
 
 ---
 
-He stood on the bridge for about an hour with the rain coming off the one rail, and he did not follow her down, and he did not go to the porch, and he did not look at the board with the eleven names on it, and at the end of the hour he went back up the track.
+He stood on the bridge for about an hour with the rain coming off the one rail, and he did not follow her down, and he did not go to the porch, and he did not look at the board with the eleven names on it, and at the end of the hour he went back down the track.
 
 On the way back a person of that place told him something, on his own account, in a gateway, in nine words, and it is the only piece of business that valley gave him that morning.
 
@@ -94,7 +94,7 @@ On the way back a person of that place told him something, on his own account, i
 
 “You said that in a yard,” she said, “and he said it to one person after that, and a barwoman at the bottom of this county has told three people three different nothings about it, and you are the only one of the seven of you who is not talking to anybody. *That is her sentence and she did not finish it, and I am not going to finish it for her either, because it is not mine and I am seventy-four and there is a thing at the bottom of this valley.*”
 
-She went in. He went up the track.
+She went in. He went down the track.
 
 ---
 

@@ -2,7 +2,7 @@
 
 The first morning of the sixty-ninth week came on a morning when the plank at Coldharrow said sixty-four thousand and seven, and the man of about thirty-eight was at the foot of that ladder at the second light four days down that lane and said the number out loud at the plinth in this street at about the second hour on his way out of a county. The day behind it was four bells and nothing whatever on top of them, which is the ordinary number, and which is the number this market town has been on for a hundred and forty years and has never once had a figure of its own about anything.
 
-It was his seventy-eighth morning and it was the first morning of the sixty-ninth week. He had been in this market town for four days and he was going to be in it for three more mornings, and the man of about thirty-eight was at the cross with his cart still unloaded and three days of road in him and a fortnight of notice behind him.
+It was his seventy-eighth morning and it was the first morning of the sixty-ninth week. He had been in this market town for five days and he was going to be in it for two more mornings, and the man of about thirty-eight was at the cross with his cart still unloaded and three days of road in him and a fortnight of notice behind him.
 
 ---
 
@@ -12,7 +12,7 @@ That is the finding and he had come four days up a lane to get it and it took hi
 
 The plinth was where the plinth is. The beam went up and went down. Four hundred loads go over that bridge in a week in the season and the season has been running four months, and nine went over in the hour he was standing at it. The toll was being taken at the plinth, in a wooden box with a slot in it, by the man whose hands are behind his back, and the money in it went into a basket and the basket went into a room at the end of the main street on market nights and nobody counted it in front of anybody and nobody has counted it out loud in that town in nine years.
 
-The standpipe at the end of Church Lane was running. The wall behind the churchyard was standing with four feet of it put in again by a man of about forty-one with his own lime on the sixth morning of the sixty-eighth week. The cross was where the cross is. The woman of about twenty-nine was sweeping round it at about the seventh hour with a list in a church nine miles off, and she did not look at the man with the leg.
+The standpipe at the end of Church Lane was running. The wall behind the churchyard was standing with four feet of it put in again by a man of about forty-one with his own lime on the last morning of the sixty-eighth week, which is two days ago. The cross was where the cross is. The woman of about twenty-nine was sweeping round it at about the seventh hour with a list in a church nine miles off, and she did not look at the man with the leg.
 
 The market was running. Four hundred people live in this town and four hundred loads go over a bridge in a week in a season and the two numbers have never been in the same sentence in the whole of the sixty years the slip has been in that book, and they are not in the same sentence now.
 
@@ -20,7 +20,7 @@ And the woman of about fifty-eight is doing her father's sums in her head this m
 
 ---
 
-The man of about thirty-one stood at the plinth for about an hour and worked out the shape of what he had found, and it is the only thing he has got, and it took him nine minutes, and he did not say it out loud to anybody and it is in the state of his own head and nobody can check it.
+The man of about thirty-one stood at the plinth for about an hour and worked out the shape of what he had found, and it is the only thing he has got, and it took him the length of a load going over and coming back, and he did not say it out loud to anybody and it is in the state of his own head and nobody can check it.
 
 *The untruth is not the structure.*
 
@@ -52,7 +52,7 @@ They do not use a name at that plinth. There has not been a name at that plinth 
 
 He asked him what he was called.
 
-It is the first question anybody has asked him in forty-four years that was not about a figure and was not about the toll and was not about the water, and it went across a plinth in a street in nine seconds, and he was not standing nine feet off when he asked it and he did not say it in a yard and he did not say it in a room.
+It is the first question anybody has asked him in forty-four years that was not about a figure and was not about the toll and was not about the water, and it went across a plinth in a street in nine seconds, and he was not standing off the stones when he asked it and he did not say it in a yard and he did not say it in a room.
 
 The man of about seventy did not turn round for four seconds.
 
@@ -62,7 +62,7 @@ Nine words and the ninth of them was his own name and he had not said it in that
 
 ---
 
-The woman of about sixty-one heard it. She was in her own doorway with a bucket and she had been in that doorway for a year and she had never once used a name for the man on the stones in fifty years of living over the plinth, and she said it out loud afterwards, once, to nobody, in a yard, and four feet of wall had been put in three days before by a man of about forty-one who does not take anything for it.
+The woman of about sixty-one heard it. She was in her own doorway with a bucket and she had been in that doorway for a year and she had never once used a name for the man on the stones in fifty years of living over the plinth, and she said it out loud afterwards, once, to nobody, in a yard, and four feet of wall had been put in two days before by a man of about forty-one who does not take anything for it.
 
 That is the only name the man of thirty-one has that is not on the back of a bill.
 
@@ -70,4 +70,4 @@ It is not on a thing. There is no book, no shelf, no room over a smithy, no foot
 
 He is not going to be thanked for it. He has been on a bill in a kitchen for twenty-five days because a man of sixty-three did not know what he was doing, and now he has one that is not on anything at all, and the two of them together do not make a person, and he has found out in seventy-eight mornings that a person is not made out of places somebody can say their name.
 
-The day came to four bells and nothing whatever on top of them, and nine loads went over, and the toll went into a box, and the water ran at the end of Church Lane, and the wall was standing, and the number was on a slip in a foolscap book in a back room, and nobody in that market town had stopped anything and nobody was relieved and nobody was thanked.
+The day came to four bells and nothing whatever on top of them, and a load went over and the toll went into a box, and the water ran at the end of Church Lane, and the wall was standing, and the number was on a slip in a foolscap book in a back room, and nobody in that market town had stopped anything and nobody was relieved and nobody was thanked.

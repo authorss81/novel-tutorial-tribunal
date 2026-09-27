@@ -4,7 +4,7 @@ The plank at Coldharrow said sixty-three thousand nine hundred and sixty-three a
 
 It was his seventy-second morning. He came eleven miles down and off the lane to the tenth village at about the eighth hour with a leg and nine days of walking in him and one thing he had come for.
 
-Nobody sent for anybody. There is a bar at the end of this village and a room over a smithy nine minutes from it, and a man of about thirty-eight who counts other people's money for a living is in one of them and not the other, and a woman of about thirty-four is in the other one and not the one, and both of those facts are the reason this morning can happen and neither of them has anything to do with him.
+Nobody sent for anybody. There is a bar at the end of this village and a room over a smithy a short walk from it, and a man of about thirty-eight who counts other people's money for a living is in one of them and not the other, and a woman of about thirty-four is in the other one and not the one, and both of those facts are the reason this morning can happen and neither of them has anything to do with him.
 
 ---
 
@@ -64,7 +64,7 @@ The man of about thirty-eight turned round.
 
 Outside, in the lane, at about the eleventh hour, the man of thirty-one stood with his leg against a wall and worked out what he was about to do and what it would cost, and he did it in nine minutes and he did not tell anybody, and it is the most honest thing he has done in seventy-two mornings and it bought nothing at all.
 
-The woman of about fifty-eight is four days up this lane in a market town in a county nobody living has stood in. She is six months gone with a child. Her father is seventy and he has kept a bridge for forty-four years and he did a column himself with a pencil at one o'clock in the morning six days ago and was right seven times in ten instead of nine, and she was asleep and was not woken, and there is no wage for a second reader at a set of beam scales in that country and there has never been one.
+The woman of about fifty-eight is four days up this lane in a market town in a county nobody living has stood in. She is six months gone with a child. Her father is seventy and he has kept the scales on the plinth for forty-four years and he did a column himself with a pencil at one o'clock in the morning six days ago and was right seven times in ten instead of nine, and she was asleep and was not woken, and there is no wage for a second reader at a set of beam scales in that country and there has never been one.
 
 She said no to him in nine words on a bridge, and she was right, and he has not found one word that makes it less correct.
 

@@ -1,12 +1,12 @@
 # Chapter 326: A Man Of Thirty-Eight Who Is Not A Villain And Is Not Being Brave
 
-It was his seventy-sixth morning, and the sixth morning of the sixty-eighth week, and a man of about thirty-eight put sixty-three thousand nine hundred and eighty-nine out loud at the plinth at about the second hour. The day behind that figure was four bells and a market, and the market was running.
+It was his seventy-sixth morning, and the sixth morning of the sixty-eighth week, and a man of about thirty-eight put sixty-three thousand nine hundred and eighty-nine out loud at the plinth at about the second hour. The day behind that figure was four bells and a market, and that market was in a village four days the other way, and the one running in this street is a different one.
 
 The man of about thirty-eight was four days into a stay in a market town at the head of a lane, with a cart up at the cross that he had not unloaded, and a fortnight of notice left in him and four days of road in front of him, and he had not slept well on two of the four nights and had not said so.
 
 ---
 
-The man of thirty-one told him the figure at about the third hour, at the plinth, in a lane, in the rain, standing nine feet off, and he told it plainly and he told it as though the man of about thirty-eight had not been at the gate of a yard in this town on the previous morning, and the man of about thirty-eight let him get nine words into it.
+The man of thirty-one told him the figure at about the third hour, at the plinth, in a lane, in the rain, with his back to a wall, and he told it plainly and he told it as though the man of about thirty-eight had not been at the gate of a yard in this town on the previous morning, and the man of about thirty-eight let him get nine words into it.
 
 “I was at the gate,” he said.
 
@@ -16,7 +16,7 @@ The man of thirty-one told him the figure at about the third hour, at the plinth
 
 He turned the slate over and looked at the beam.
 
-“What I have not got is the rest of it,” he said. “The woman at the cross. The woman whose yard it is. I was in the gate and I was in the gate with four other people and nine people in this street and none of us asked the man one question, and he said it anyway, and that is not how a thing like that usually goes, and I have been in nine counties in two years and I have never once seen a market do that.”
+“What I have not got is the rest of it,” he said. “The woman at the cross. The woman whose yard it is. I was in the gate with four other people and nine people in this street and none of us asked the man one question, and he said it anyway, and that is not how a thing like that usually goes, and I have been in nine counties in two years and I have never once seen a market do that.”
 
 ---
 
@@ -24,13 +24,13 @@ He did the second sum at about the ninth hour, out loud, on the end of the same 
 
 “The first sum you heard me do was the market's,” he said. “This is the other one and it is mine and I have not done it before this morning and I am doing it in a lane because a lane is the only place in this country where nine people can be told a thing at the same time and I am not going to do it in a room with a door on it.”
 
-He worked for four minutes. It was the sum of what his own column in the tenth village would come to if the number of loads in the market town at the head of this lane were the real number instead of the number on the slip, which is not his column and is not in his county, and then it was the sum of what a levy of three pence a load over nine thousand loads in a market season would be as against the same levy over four thousand eight hundred, which is a figure he has known for eleven years in a different place and has never once had to put next to a market four days up a lane.
+He worked for four minutes. It was the sum of what his own column in the tenth village would come to if the number of loads in the market town at the head of this lane were the real number instead of the number on the slip, which is not his column and is not in his county, and then it was the sum of what a levy of three pence a load over nine thousand six hundred loads in a year would be as against the same levy over four thousand eight hundred, which is a figure he has known for eleven years in a different place and has never once had to put next to a market four days up a lane, and he knows while he is doing it that three pence a load is the wrong instrument in this county and there is no other instrument in it.
 
 Then he stopped and put the slate down and said the sentence that stopped him.
 
 “I have not got the number of loads in this market,” he said, “and I have not got the number of loads in nine of the eleven villages the fund runs on, and I have never been in seven of the nine towns of this county, and there is no instrument in four hundred miles that will let a man of my age be in a county for a week. *So the sum does not close, and it has not closed since about the fifth hour of the morning, and that is the first time in eleven years that a sum of mine has not closed and I have not got a worse feeling about it than I have got about the ones that did.*”
 
-The product was not printed. Nobody is going to be given it. Neither is he and neither is the stranger, and this is the second time in two days and the rule is the same both times, and it is not a rule anybody in that lane agreed to: *a number in a hand is a thing a person can be entered against, and this county has been getting on without figures on things for ninety years.*
+The product was not printed. Nobody is going to be given it. Neither is he and neither is the stranger, and this is the second time in two days and the rule is the same both times, and it is not a rule anybody in that lane agreed to, and he has had it for eleven years and has not once said it out loud in a room where it was going to be written down.
 
 ---
 
@@ -46,7 +46,7 @@ He put his hands in his pockets.
 
 ---
 
-Nobody said anything for nine seconds and nine loads went over the bridge.
+Nobody said anything for the length of a cart going over and a beam coming back down.
 
 “The price of hearing what I heard in that yard,” he said, “is not the yard. The yard was a quarter of an hour. *The price is that I have got to say it at my own hearth inside a month, and half of the people who were in that room on the market morning will be stood in front of me again, and I will say it again, and there is no form in this country that says a man may stop saying it.*”
 
@@ -80,4 +80,4 @@ The man of about thirty-eight took his hands out of his pockets.
 
 He got the slate off the wall and did not wipe it and put it under the seat of his cart.
 
-Nobody thanked him. Nobody was thanked. The man of about thirty-eight was not a villain and he was not brave and he was not relieved, and four hundred loads went over that bridge in that week and every one of them was weighed by a man of seventy whose hands were behind his back, and a woman of about fifty-eight did the sums in her head in a doorway and did not come to the bridge, and the day came to four bells and a market, which is eight, and the market ran all day, and there is still no figure in this town on any wall.
+Nobody thanked him. Nobody was thanked. The man of about thirty-eight was not a villain and he was not brave and he was not relieved, and four hundred loads went over that bridge in a week of a season and every one of them was weighed by a man of seventy whose hands were behind his back, and a woman of about fifty-eight did the sums in her head in a doorway and did not come to the bridge, and the day came to four bells and a market, which is eight, and that market was four days the other way and the one in this street ran all day, and there is still no figure in this town on any wall.

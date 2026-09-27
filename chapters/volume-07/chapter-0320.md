@@ -82,7 +82,7 @@ He said the last of it out loud at about the eleventh hour, standing by the wind
 
 He put his hand on the sill.
 
-“Six people have agreed to be somewhere on a day. Two of them have changed it twice and will change it again. And I am not going to be in it, and I said that in a yard two days ago and I am saying it here so that you have it twice from me and neither time it is an ask. *There is no form in this country that says a man may be in two places, and I cannot be in two places, and the only instrument this thing has is six people carrying it, and none of the six is me and all six are the reason it works.*”
+“Six people have agreed to be somewhere on a day. Two of them have changed it twice and will change it again. And I am not going to be in it, and I said that in a yard yesterday morning and I am saying it here so that you have it twice from me and neither time it is an ask. *There is no form in this country that says a man may be in two places, and I cannot be in two places, and the only instrument this thing has is six people carrying it, and none of the six is me and all six are the reason it works.*”
 
 The man of about thirty-eight did not argue and did not agree and did not thank him, and he opened the book and went back to a column, because he has three weeks of notice left in him and there are about nine loads a day going over a bar at the bottom of this village and every one of them has to be in a book that is on a shelf tonight.
 

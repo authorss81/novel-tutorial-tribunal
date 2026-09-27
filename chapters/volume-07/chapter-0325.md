@@ -18,9 +18,9 @@ He wrote it in his own head and it did not help and it was the only thing he had
 
 The man of about thirty-eight did the sum.
 
-He did it in a lane, out loud, on the end of a slate he had borrowed from a man at the cross, and he did it the way he has done sums for eleven years, and there were four people in that lane who heard most of it and nine who heard some of it, and he stood nine feet off and listened to all of it.
+He did it in a lane, out loud, on the end of a slate he had borrowed from a man at the cross, and he did it the way he has done sums for eleven years, and there were four people in that lane who heard most of it and nine who heard some of it, and he stood at the end of it and listened to all of it.
 
-He worked out what a share of the cost of a town comes to when it is divided by four thousand eight hundred loads, and then he worked out what the same share comes to when it is divided by nine thousand, and then he worked out what the market takes in the two cases across a season, and then he stopped and put the slate down.
+He worked out what a share of the cost of a town comes to when it is divided by four thousand eight hundred loads, and then he worked out what the same share comes to when it is divided by nine thousand six hundred, and then he worked out what the market takes in the two cases across a year, and then he stopped and put the slate down.
 
 Nobody is going to be given those figures. Neither is he and neither is the stranger, and that is not a favour to anybody. It is the thing that happened.
 
@@ -40,7 +40,7 @@ And then the person who had been in that lane since about the eighth hour, at th
 
 She was twenty-nine and she looked after the cross and she kept the list, and the list had been at the cross for longer than she had, and nobody in that market town had ever asked her what she kept or what was on it, and she had not been asked in nine years and had not mentioned it in any of them.
 
-“You are all talking about this as though it is a price,” she said. “It is not a price on ninety people,” she said. “Those ninety people are not going to be charged more. They are going to be told that the thing they have been counting on was never theirs.”
+“You are all talking about this as though it is a price,” she said. “It is not a price on ninety people. Those ninety people are not going to be charged more. They are going to be told that the thing they have been counting on was never theirs.”
 
 Nobody said anything, and nine people in that lane had stopped what they were doing, which does not happen often.
 
@@ -76,4 +76,4 @@ The man of about thirty-eight put the slate down.
 
 Nobody thanked him. Nobody stopped him. Nobody is going to thank him for the first time he went four days up a lane and nobody is going to thank him for this.
 
-The day came to four bells and a burial, which is five, and a coffin went behind a wall in the main street at the seventh hour, and nine loads went over a bridge, and a woman of twenty-nine went on sweeping at a cross with a list in a church nine miles off, and this market town has never had a figure of its own on any wall.
+The day came to four bells and a burial, which is five, and the burial that figure stands for was in a village four days the other way, and a coffin went behind a wall in the main street here at the seventh hour, and a woman of twenty-nine went on sweeping at a cross with a list in a church nine miles off, and this market town has never had a figure of its own on any wall.

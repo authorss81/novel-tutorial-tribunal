@@ -1,6 +1,6 @@
 # Chapter 329: About Ninety People, And What They Are Not
 
-Sixty-four thousand and eleven was the figure at the second light on the second morning of the sixty-ninth week, and a man of about thirty-eight who does it four times a week carried it four days up a lane and said it out loud behind the cross at about the second hour. The day behind it was four bells and a stranger, and the stranger in that market that morning was a carter from a town nine miles off who came in, stood at the cross for nine minutes, bought nothing and went out again.
+Sixty-four thousand and eleven was the figure at the second light on the second morning of the sixty-ninth week, and a man of about thirty-eight who does it four times a week carried it four days up a lane and said it out loud behind the cross at about the second hour. The day behind it was four bells and a stranger, and the stranger in that day was in a village four days the other way, and a carter from a town nine miles off came into this market, stood at the cross for a quarter of an hour, bought nothing and went out again.
 
 It was his seventy-ninth morning. The man of about thirty-eight had been in that market town for five days and had two days of road in him and about a fortnight of notice behind him, and he was going out in the morning because the road he wants is four days long and he has not got four days and is not going to pretend to a week he has not got.
 
@@ -20,7 +20,7 @@ The first one was a man of about sixty-three with eggs, and he came into the mar
 
 He had four acres nine miles off and no other water. The standpipe at the end of Church Lane has been the water for that land since before he was farming it and it runs every day and he has never once had it off and there is nobody in this town he has ever asked why.
 
-Ilyan asked him the ordinary question. He has asked it in a kitchen in Ashgill and in a lane eleven miles off a lane and in a gateway in the rain, and he asked it in a market street at about the ninth hour, standing at a table of eggs, and he had no technique for it and he used the same four words.
+He asked him the ordinary question. He has asked it in a kitchen in Ashgill and in a lane eleven miles off a lane and in a gateway in the rain, and he asked it in a market street at about the ninth hour, standing at a table of eggs, and he had no technique for it and he used the same four words.
 
 “What is it for.”
 
@@ -38,7 +38,7 @@ He put the basket on his shoulder and went out of the market and the stranger di
 
 The second one was a woman of about thirty-two with a pitch at the cross, and she has had it nine years, and she is expecting her second in the spring, and she is the fourth of the four the woman of twenty-nine can name, and she is one of the ninety.
 
-He had no reason on earth to go to that pitch. There was nothing at that pitch that a man of thirty-one with a leg could do, and he knew it at about the eighth hour and he went at about the ninth hour anyway, and he stood there for nine minutes and bought nothing.
+He had no reason on earth to go to that pitch. There was nothing at that pitch that a man of thirty-one with a leg could do, and he knew it at about the eighth hour and he went at about the ninth hour anyway, and he stood there until his leg had had enough and bought nothing.
 
 “You have been stood at my pitch for nine minutes,” she said, without stopping, “and you have not bought anything, and there is nothing at this pitch for a man with a leg, and if you have come about the list then I am on the list and everybody knows I am on the list and there is nothing to be done about that in a market street.”
 
@@ -90,7 +90,7 @@ The man of about thirty-eight put the slate down on the step.
 
 “The ninety stay as a number that a woman of twenty-nine can be asked about, and nine people heard her say it, and two of them have been stood in front of by a stranger who bought nothing, and that is all there is.” He put his leg down and got his weight onto it, which took him four seconds. “I have written nothing down in seventy-nine mornings and I am not going to start on the eightieth, and there is no hand in this county I could put a thing in, and the one name I have got is on the back of a bill in a kitchen three miles up a lane in a county four days down this road, and a man of about sixty-three wrote it there because I said I would walk a hedge, and it is the only piece of paper in this country with my name on it and it is a rota for a boundary and it is not about me.”
 
-Nobody said anything for nine seconds.
+Nobody said anything, and the slate went on resting on the step where he had put it.
 
 “Then it is the worst instrument in the world,” said the man of about thirty-eight, “and it is the only one there is, and I am going to take a book with ninety names in it four days down a road to a room over a smithy that nobody has chosen to keep, and I want you to walk me to the cross in the morning, because my leg is not the one that is bad but my back is, and the first day of four days is the day you do it on.”
 
@@ -98,4 +98,4 @@ Nobody said anything for nine seconds.
 
 “You will walk me to the cross,” he said, “and nobody is going to thank you for it and I am not going to be thanked for asking.”
 
-The day came to four bells and a stranger, which is seven, and a carter came in from a town nine miles off and bought nothing and went out again, and nine loads went over a bridge, and the toll went into a box, and the standpipe ran at the end of a lane, and nobody in that market town was relieved and nobody was thanked and nothing was joined.
+The day came to four bells and a stranger, which is seven, and that stranger was four days the other way, and a carter came in from a town nine miles off and bought nothing and went out again, and the toll went into a box, and the standpipe ran at the end of a lane, and nobody in that market town was relieved and nobody was thanked and nothing was joined.

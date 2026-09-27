@@ -8,7 +8,7 @@ He said it from the bottom of a wall at the end of the main street, to nobody, w
 
 Nobody argued about it. Neither of them was right and both of them were right, and the man of about thirty-eight got his cart up at the cross and the stranger got his leg under him, and neither of them said one word about it again that day, and nothing is going to be built on it.
 
-The plank at Coldharrow said sixty-four thousand and eighteen at the second light, and the man of about thirty-eight brought it about the second hour because he was going that morning and had been at the foot of the ladder before he was at the cross, and the day it stood for was four bells and nothing whatever on top of them, which is the ordinary number, and the whole of the last nine days has run on it.
+The plank at Coldharrow said sixty-four thousand and eighteen at the second light, and the man of about thirty-eight brought it about the second hour because he was going that morning and had been at the foot of the ladder before he was at the cross, and the day it stood for was four bells and nothing whatever on top of them, which is the ordinary number, and that number has been sitting under the whole of the last nine days.
 
 It was his eightieth morning in this country, and it was the third morning of the sixty-ninth week. He had a leg and a lane four days down it to walk and a valley two miles off a track at the end of it, and he was going to be in a porch in nine days, and six people had agreed to be somewhere on a day and the day had been changed twice and would change again, and he was not going to be in it, and he had said that in two yards and to one person and once in a lane, and none of those had been an ask.
 
@@ -26,7 +26,7 @@ He looked at the man of thirty-one.
 
 “And the only person in this county who can change any of that is a man of about seventy who was eight years old when it was said and who has been the only one who could look at the other side of it for sixty years, and he is seventy, and he said it once, in a yard, in the rain, and he is entitled to stop and he is not going to be asked again. *That is not yours to change. It is not the woman of fifty-eight's to change. It is not mine to change and I am going four valleys away this morning. It is his, and it was his before you came up the lane, and it will be his in a month after you have gone down it.*”
 
-Nobody said anything for nine seconds and nine loads went over.
+Nobody said anything for the length of a load going over and the beam coming back down.
 
 “I said it in a room over a smithy eight days ago and I was wrong one half of it,” he said. “I said the count does not stop because a count is not a man. *The count does not stop and neither does the thing, and neither of them stops because of a man, and that is a harder sentence than the one I had and I have been carrying it for eight days and there is nobody to carry it to except a stranger with a leg.*”
 
@@ -72,7 +72,7 @@ She went in with the basket. He did not follow her. He has had one sentence in n
 
 The market opened and did not stop.
 
-There is no bell in this town that anybody rings for anything. There is a man of about seventy on a stone plinth at the end of the main street with his hands behind his back, and nine loads went over the bridge in the first hour, and a toll went into a wooden box with a slot in it, and a beam went up and went down, and a standard of the load came out of a box on that plinth about once a year and went back in, and nobody in that market town has ever been asked what the number on the slip in the back room at the end of the street is for, and about nine people know it and four hundred loads a week go over a beam that is not what everybody in this town has been told it is.
+There is no bell in this town that anybody rings for anything. There is a man of about seventy on a stone plinth at the end of the main street with his hands behind his back, and nine loads went over the bridge in the first hour, and a toll went into a wooden box with a slot in it, and a beam went up and went down, and a standard of the load came out of a box on that plinth about once a year and went back in, and nobody in that market town has ever been asked what the number on the slip in the back room at the end of the street is for, and about nine people know it, and four hundred loads a week in a season go over a beam that is set by one season’s count and has been called a year’s for sixty years, and nobody in that town has been told either of those two things.
 
 A woman of about thirty-two has a pitch at the cross and is expecting her second in the spring and is counting on a standpipe at the end of a lane and does not know that there is a figure. A man of about sixty-three came in with eggs and went out and did not buy anything and is one of the four the woman of about twenty-nine can name. A man of about forty-one is in a lane with a barrow and his own lime putting four feet back into a wall. A woman of about twenty-nine is sweeping round a cross with a list in a church nine miles off.
 
@@ -80,4 +80,4 @@ And on a step at the end of the main street, in the rain, a woman of about fifty
 
 Nobody thanked him. Nobody was relieved. The number is on a slip in a foolscap book in a back room and it is not right and it has not been taken out and about ninety people cannot pay the difference, and a man of about thirty-eight is on a cart on a road four days long with a bag and a bad back, and six people have agreed to be somewhere on a day and two of them have changed it twice and he is not going to be in the room, and he knows it.
 
-The day came to four bells and nothing whatever on top of them, and that is the number most of the days in a year are.
+The day came to four bells and nothing whatever on top of them, and that is four, and it is the number most of the days in a year are.

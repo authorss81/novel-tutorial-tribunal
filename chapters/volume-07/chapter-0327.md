@@ -1,6 +1,6 @@
 # Chapter 327: A Day Nothing Is Asked On, In A County That Counts Everything
 
-Sixty-three thousand nine hundred and ninety-seven was on the plank at Coldharrow at the second light on the seventh and last morning of the sixty-eighth week, and the man of about thirty-eight brought the number up the lane in his mouth and said it out loud at the plinth at about the second hour. The day behind it was four bells and a market and a debt called in, which is ten, and both of the other two were in this market town.
+Sixty-three thousand nine hundred and ninety-seven was on the plank at Coldharrow at the second light on the seventh and last morning of the sixty-eighth week, and the man of about thirty-eight brought the number up the lane in his mouth and said it out loud at the plinth at about the second hour. The day behind it was four bells and a market and a debt called in, which is ten, and neither of the other two was in this market town, and there is a market running in this street this morning and a debt called in at a cross four feet away, and neither of them is on that plank.
 
 It was his seventy-seventh morning, and the market was the biggest it has been in the four days he has been in this town, and carts went over that bridge before the middle of the day, and he was in the middle of all of it and asked nobody anything and nobody asked him anything, and that is the reason this morning is the shape it is and it is not a pause.
 
@@ -48,7 +48,7 @@ The market went on.
 
 That is the whole of the day and it is the point of it, and he was in the middle of it from the second hour to the last of the light and he got nothing out of it and it was the best morning he has had in this country.
 
-There is no bell in this town that anybody rings for anything. There is a market cross and a woman of twenty-nine who sweeps round it and keeps a list in a church nine miles off, and a stall row that sets up before the sun is on the roofs, and four hundred loads go over a bridge in a week in a season with a man on the stones counting them with his hands behind his back, and it is the ordinary morning of a market town that has four hundred people in it and is on a lane that goes from village to village and not by the ground.
+There is no bell in this town that anybody rings for anything. There is a market cross and a woman of twenty-nine who sweeps round it and keeps a list in a church nine miles off, and a stall row that sets up before the sun is on the roofs, and four hundred loads go over a bridge in a week of a season with a man on the stones counting them with his hands behind his back, and it is the ordinary morning of a market town that has four hundred people in it and is four days up a lane that goes from village to village and not by the ground.
 
 A carter came over with nine quarters of bad chalk and would not go until his own mate moved the carriage by about a finger's width with his heel. A woman of about sixty-one came out of a doorway with a basket and put it down and went back in. Nine loads went over in the first hour and nine went over in the last hour and nobody stood about and nobody told anybody anything and nine people in that street had been told something enormous in a yard three days ago and not one of them was talking about it.
 
@@ -80,7 +80,7 @@ He had been in this market four days and he had watched every load come over, an
 
 Ninety people were on a list in a church nine miles off, and he had been treating it, for a day and a half, as a number.
 
-There was a woman with a basket who had been in that market for two minutes and had gone out again. There was a man with a hired cart who had not been in the market in the sense that anybody who lives in it is in a market, and who had been there for nine minutes and had gone out again. There was a boy of about thirteen with a goat. There was an old man who had not bought anything and had sat on the step of the cross for four minutes and had gone home. There was a woman of about thirty-two who had come in with a hired hand and had a pitch and one more mouth coming in the spring.
+There was a woman with a basket who had come into that market for a couple of minutes and had gone out again. There was a man with a hired cart who had not been in the market in the sense that anybody who lives in it is in a market, and who had been there for nine minutes and had gone out again. There was a boy of about thirteen with a goat. There was an old man who had not bought anything and had sat on the step of the cross for four minutes and had gone home. There was a woman of about thirty-two who had come in with a hired hand and had a pitch and one more mouth coming in the spring.
 
 Nine people, and eleven, and nine more behind them, and the man of thirty-one could not say how many of the ninety those were and was never going to be able to say it, and the woman of twenty-nine at the cross could not say it either and had never been asked to and had said so.
 
@@ -90,4 +90,4 @@ He stood in the rain at the cross and could not do one single thing about any of
 
 He wrote nothing down. He has written nothing down in seventy-seven mornings and there is no hand in this county he could put a thing in.
 
-The day came to four bells and a market and a debt called in, which is ten, and carts went over a bridge in a hurry and a man of about forty-one mended four feet of wall in the rain and a woman of about fifty-eight was on a step and then was not on it, and nobody was relieved and nobody was thanked and the market did not stop.
+The day came to four bells and a market and a debt called in, which is ten, and that market and that debt were both four days the other way, and carts went over a bridge in a hurry in this town and a man of about forty-one mended four feet of wall in the rain and a woman of about fifty-eight was on a step and then was not on it, and nobody was relieved and nobody was thanked and the market did not stop.
