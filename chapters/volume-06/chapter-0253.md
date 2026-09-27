@@ -1,8 +1,8 @@
 # Chapter 253: What A Burial Gets And What A Stranger Gets
 
-The third day of the fifty-eighth week was a burial, and the man of thirty-one got to the yard at the second light and found the woman of forty-one already at the board with her back to it, not doing anything, which in a yard at that hour is a thing you notice. The figure at the foot of the board that morning was fifty thousand three hundred and eighty-six, which was eleven more than the morning before, which was four bells and seven for a boundary walked, and the eleven was the largest single day's rise in the eight mornings he had been here, and he wrote it down because he wrote all of them down and had not yet worked out that the writing was the part that would matter least.
+The third day of the fifty-eighth week was a burial, and the man of thirty-one got to the yard at the second light and found the woman of forty-one already at the board with her back to it, not doing anything, which in a yard at that hour is a thing you notice. The figure at the foot of the board that morning was sixty-three thousand five hundred and twenty-six, which was eleven more than the morning before, which was four bells and seven for a boundary walked, and the eleven was the largest single day's rise in the three mornings he had been here, and he wrote it down because he wrote all of them down and had not yet worked out that the writing was the part that would matter least.
 
-The figure had gone up five in the night. Four bells and one for a woman of eighty-nine whose name he got wrong and then got right again on the third asking, which is ordinary and which he would have got wrong once, in a town, when he had not spent a month being told by a woman with a barrow that a thing you have been told twice is a thing you have been told.
+The figure went up five between the second light and the noon bell. Four bells and one for a woman of eighty-nine whose name he got wrong and then got right again on the third asking, which is ordinary and which he would have got wrong once, in a town, when he had not spent a month being told by a woman with a barrow that a thing you have been told twice is a thing you have been told.
 
 He waited until the noon bell, which is the one you can time, and then he asked her the question he had come to ask.
 
@@ -36,7 +36,7 @@ A burial is one. A boundary walked is seven. A debt called in is two. A market i
 
 And then the man of thirty-one went up the board with the cloth in his hand and a bit of lead and did the thing that the recordwright of twenty-eight watched him do and wrote nothing down about, and it is the whole of what he brought to this country.
 
-The older hand is six years of the board and it is in the grain and the newer one is twenty-five and it is not. *And both of them are the same hand, in the sense that matters, which is that whoever made the strokes had the same idea in his head, and the idea was four strokes a day and no column and no reason.*
+The older hand is six years of the board and it is in the grain and the newer one is twenty-five and it is not. *And the older one is four a day and every day of those six years, and the other ones started with me, and I have never been able to get out of a person why they started with me, and there is nobody left who was here when they did.* And both of them are the same hand, in the sense that matters, which is that whoever made the strokes had the same idea in his head, and the idea was four strokes a day and no column and no reason.
 
 He found the same week of the year before, because a board is a board and a week is about thirty strokes and he could count strokes the way he used to count state transitions, without meaning to, and in about four minutes he had it.
 

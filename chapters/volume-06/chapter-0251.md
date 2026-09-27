@@ -32,7 +32,7 @@ And on the north wall of the tower, about chest height, where a person standing 
 
 It is about as wide as a door and taller than a door, and it is a plank, and it has been painted and unpainted so many times that the grain has come up through all of it in long pale streaks, and there are two hands in it, and the older of the two has got into the grain and the newer one has not, and the newer one is the more careful.
 
-The figure at the head of it, in the older hand, is fifty thousand three hundred and seventy.
+The figure at the head of it, in the older hand, is sixty-three thousand five hundred and ten.
 
 There is nothing else on it. There is no year at the head of it. There is no column and there has never been a column. There is no mark against any individual line and there is no day, and there is no note of what any of it was for, and the board has been going thirty-one years, and the older hand is six years of it and the newer hand is twenty-five.
 
@@ -46,7 +46,7 @@ He said none of that out loud, because none of it was any of his business, and h
 
 The woman who keeps it came out at the second light with a cloth in her hand and did not ask him who he was.
 
-She was forty-one and there is a way of saying a person's age in a country like this that is not a guess and is not a courtesy, because people are counted the way bells are, and he learned it in nine days and did not know he had learned it.
+She was forty-one and there is a way of saying a person's age in a country like this that is not a guess and is not a courtesy, because people are counted the way bells are, and he learned it in about a day and a half and did not know he had learned it.
 
 She wiped the top foot of the board with the cloth, which did not need it, and looked at the figure, and then at the rest of the board, which is the part where the strokes are.
 
@@ -72,7 +72,7 @@ She put the cloth over her shoulder.
 
 And then a man of thirty-one, who had been in this country for a day and a half and who had been told nothing and asked nothing and had no party and no bench and no office and no standing in a country he had never heard of eleven days ago, went and got a piece of white chalk out of his pocket, because he had come prepared to leave something behind, because that is the entire sum of what he has ever been able to do in this world, and he put it on the board.
 
-He put it at the foot, under the last stroke, and it was a figure and not a stroke, and it was *fifty thousand three hundred and seventy*, and the figure on the head of the board was the same figure, and he had written the same number twice on one plank four inches apart which is the first thing a person learns to do with a board and the last thing anybody ought to do to one.
+He put it at the foot, under the last stroke, and it was a figure and not a stroke, and it was *sixty-three thousand five hundred and ten*, and the figure on the head of the board was the same figure, and he had written the same number twice on one plank four inches apart which is the first thing a person learns to do with a board and the last thing anybody ought to do to one.
 
 He did not put his name on it, and he did not put a date on it, and the reason he did not put a date on it is that he did not know what date to put, and the reason he did not put his name on it is a thing that happened in a valley four hundred miles off in a lane, in front of eleven people, at about the fifth hour, in a month, and it is not going to be unlearned in a yard in the March.
 

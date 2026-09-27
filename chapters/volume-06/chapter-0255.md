@@ -28,7 +28,7 @@ Sera Quill looked up at him.
 
 “Say it again.”
 
-“Your family’s. Six years. I have been in the same country as you for a week and I have not asked and I am asking because I am about to do the thing you have just told me not to do and I would rather do it having asked.”
+“Your family’s. Six years. I have been in the same country as you for five days and I have not asked and I am asking because I am about to do the thing you have just told me not to do and I would rather do it having asked.”
 
 “It is unfiled,” she said. “It has been unfiled for six years and it is going to be unfiled in six weeks and nobody knows about it but me and one clerk who could not help me and has since died. *And that is all you get, and you get it because you asked in front of a witness, and I would have said nothing at all if you had asked me in a lane.*”
 
@@ -42,7 +42,7 @@ Sera Quill looked up at him.
 
 “I have watched that happen before with a different woman and a different record and I got there about nine weeks too late and I have not been right about it since. And I am not asking you to admire that. I am telling you what I am doing in your country, which is standing at a wall trying to work out how to stop it happening twice.”
 
-“Then you are doing it in my country,” said Sera Quill, “and you have been doing it in my country for a week and you have not asked me about it once.”
+“Then you are doing it in my country,” said Sera Quill, “and you have been doing it in my country for five days and you have not asked me about it once.”
 
 “That is fair.”
 
@@ -56,7 +56,7 @@ Sera Quill looked up at him.
 
 She said it and then stopped, and the man of thirty-one waited, and she had not finished, and she knew she had not finished, and the man of fifty-two at the end cart with the rule round his neck waited as well because he has counted carts on roads for nineteen years and he can tell when a person has said the first half of a thing.
 
-“It is not that you cannot prove a boundary here,” she said. “It is that there is a form in a building about nine days from this field with a box on it, and I have copied the form, and the box is for a date, and the date has to be a Shelf date, and there is nothing on that form, and there is nothing in any form in that building, that will take fifty thousand three hundred and ninety-seven.
+“It is not that you cannot prove a boundary here,” she said. “It is that there is a form in a building about nine days from this field with a box on it, and I have copied the form, and the box is for a date, and the date has to be a Shelf date, and there is nothing on that form, and there is nothing in any form in that building, that will take sixty-three thousand five hundred and thirty-seven.
 
 “So a village in the March is not a place that cannot be argued about. *It is a place that has no name in the room where arguing happens.* A bench that is sent nothing does not write nothing down. It writes down that it was sent nothing, and ‘it was sent nothing’ is a sentence about a place and not about a person, and there is nobody inside the sentence. There is no party. There is no person to answer it, because to answer it you have to have been in it.
 
@@ -64,7 +64,7 @@ She said it and then stopped, and the man of thirty-one waited, and she had not 
 
 The man of fifty-two took the rule off his neck and looked at it and put it back.
 
-“That is the hole in the bell,” he said, after a while. “I have been in this country nine days and I have been counting the gaps between the loads and I have not counted them because there is no gap. I did not think of it as a hole because you cannot fall out of a bell.”
+“That is the hole in the bell,” he said, after a while. “I have been in this country five days and I have been counting the gaps between the loads and I have not counted them because there is no gap. I did not think of it as a hole because you cannot fall out of a bell.”
 
 “You cannot fall out of a bell,” said the man of thirty-one, “and nobody in a room nine days from this field can put a hand on this village, and I have spent about a month in another valley learning that a person who cannot be put a hand on is not free, and the woman of thirty-eight in that valley said it before she was asked and I did not have it out of her and I have not had it out of anybody since.”
 

@@ -1,10 +1,10 @@
 # Chapter 257: The Whole Of The Margin, With The Working Printed
 
-The seventh day of the fifty-eighth week was the last day of that week and about nine people in Coldharrow noticed it, and nine of them noticed it because they count in rings and not because the week meant anything, and the man of thirty-one wrote a figure in chalk at the foot of a board for the seventh morning running, and the figure at the foot was fifty thousand four hundred and ten, and it was five more than it had been at the second light the day before, which was four bells and one for a stranger, and he wrote it because that was the arrangement he had made with a woman of forty-one and she had not agreed to the arrangement and had not stopped him.
+The seventh day of the fifty-eighth week was the last day of that week and about nine people in Coldharrow noticed it, and nine of them noticed it because they count in rings and not because the week meant anything, and the man of thirty-one wrote a figure in chalk at the foot of a board for the fourth time in a week, and the figure at the foot was sixty-three thousand five hundred and fifty, and it was five more than it had been at the second light the day before, which was four bells and one for a stranger, and he wrote it because that was the arrangement he had made with a woman of forty-one and she had not agreed to the arrangement and had not stopped him.
 
-The cart yard was doing about nine loads an hour through the gate at the second light and the man of fifty-two asked for a cart's side.
+The cart yard was working and the gate had done about nine loads and the man of fifty-two asked for a cart's side.
 
-There were nine men in the yard and about half of them had been in the yard for the whole of his stay and had watched him say a number out loud on a cart's side twice and had come to a conclusion about him, which was that he was a fool, and the man of fifty-two had decided that the best use of the second hour of the fifth day was to be wrong in front of nine men who thought he was a fool.
+There were nine men in the yard and about half of them had been in the yard for the whole of his stay and had watched him say a number out loud on a cart's side twice and had come to a conclusion about him, which was that he was a fool, and the man of fifty-two had decided that the best use of the second hour of the seventh day was to be wrong in front of nine men who thought he was a fool.
 
 Ferrow Hask was thirty-eight and he had walked the eleven-village lane with a handcart for nineteen years and had never been north of Coldharrow-edge with it because there is nothing north of Coldharrow-edge with it. He was the ninth load on a market day and the woman at the gate had told him he was out by one and had been right.
 
@@ -26,11 +26,11 @@ He put the lead on the cart's side.
 
 ---
 
-“Now the other side,” he said. “And this is where I have been wrong in my own head for nine days and I want it in the yard while I say it.
+“Now the other side,” he said. “And this is where I have been wrong in my own head for seven days and I want it in the yard while I say it.
 
 “The levy is threepence a load. Not on a market day. On every day there is a load. The gate has been at that post since before I could lift a cart’s iron and the price has not moved in nineteen years and I have asked twice and been told it is a foundation and I did not know what that meant until I was about sixteen.
 
-“*How many loads a day go over that gate in an ordinary week.* I have said eight for nine days and I have been wrong and the woman at the post has been right and she told me on a market day in front of five people and I did it again in a yard this morning because I do it in my head and the road is nine loads and the road and the gate are not the same thing and I have been counting the road.
+“*How many loads a day go over that gate in an ordinary week.* I have said eight for seven days and I have been wrong and the woman at the post has been right and she told me on a market day in front of five people and I did it again in a yard this morning because I do it in my head and the road is nine loads and the road and the gate are not the same thing and I have been counting the road.
 
 “Eight times a hundred and forty is eleven hundred and twenty loads a year. Nine times a hundred and forty is twelve hundred and sixty. Twelve hundred and sixty loads at threepence a load. Threepence is a quarter of a shilling and there are twenty shillings in a pound, and so a load is a pound of eighty pence, and a shilling is twelve pence and there are four pence over.
 
@@ -38,7 +38,7 @@ He put the lead on the cart's side.
 
 He put the lead down and looked at the yard.
 
-“Now do the two together and it comes out at nothing, and that is the thing I have been not saying for nine days and I am saying it now.
+“Now do the two together and it comes out at nothing, and that is the thing I have been not saying for seven days and I am saying it now.
 
 “Three thousand seven hundred and eighty pence is what the gate takes. Two thousand five hundred and twenty pence is what a man earns. *Take one off the other. Three thousand seven hundred and eighty less two thousand five hundred and twenty is one thousand two hundred and sixty pence.*
 

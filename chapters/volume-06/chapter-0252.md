@@ -20,7 +20,7 @@ She wiped the foot of the board, which did not need it.
 
 ---
 
-A boundary is walked on the third of this week and about nine men went out of the village at the second light to do it, and the three of them were asked whether they might come and were told they might, and the reason they were told was not kindness, it was that a woman carrying a bucket said *they will ask me and I would rather have told them no on a morning than a week*.
+A boundary is walked on the second of this week and about nine men went out of the village at the second light to do it, and the three of them were asked whether they might come and were told they might, and the reason they were told was not kindness, it was that a woman carrying a bucket said *they will ask me and I would rather have told them no on a morning than a week*.
 
 So eleven of them walked a mile and a half along a hedge and a man of sixty-one put a mark on two elms and a woman of forty-one counted, and she counted out loud the whole way, which is the thing a bell-count does when the bell is out of hearing and she said why.
 
@@ -42,7 +42,7 @@ And the four of the clock.
 
 “A man in a county with a road in it asked me in about four minutes on my daughter's wedding in the ninth year whether I could tell him how many burials there had been in this village since he was born,” she said, “and I told him I could not, and he was surprised, and I told him why, and he asked me the second question, which is whether I could tell him how many strangers, and I said no, and he said *surely you can tell me how many people*, and I said no, and that is the whole of it and I have been asked it four times in twenty-five years and I have given the same answer four times.”
 
-A board that says fifty thousand three hundred and seventy-five does not know how many people died in a village of about two hundred and ten. It does not know how many men are owed money, or by whom, or whether a debt was ever paid, or whether a boundary was walked twice or once, or whether a road went in front of a field in the ninth year or the fourth. It knows how many times a bell went, and that is all it knows, and the two numbers are not the same and cannot be made the same by anybody who has ever stood in front of it.
+A board that says sixty-three thousand five hundred and fifteen does not know how many people died in a village of about two hundred and ten. It does not know how many men are owed money, or by whom, or whether a debt was ever paid, or whether a boundary was walked twice or once, or whether a road went in front of a field in the ninth year or the fourth. It knows how many times a bell went, and that is all it knows, and the two numbers are not the same and cannot be made the same by anybody who has ever stood in front of it.
 
 “Now do the thing you came to do,” she said. “You have been doing it in your head since the yard yesterday and you have got it nearly right, so I will finish it and you can check me.
 

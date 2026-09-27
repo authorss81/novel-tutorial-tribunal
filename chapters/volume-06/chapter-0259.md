@@ -1,6 +1,6 @@
 # Chapter 259: A Woman With A Board, Second Time
 
-The thirteen rings that took the figure from fifty thousand four hundred and twenty-one to fifty thousand four hundred and thirty-four were four bells and nine more, and the nine were three strangers at each of three gates, and the three of them were a man with a cartload of timber and two men with a barrow, and they had come up the lane together and had rung at three gates because that is what you do, and a woman of forty-one counted them off on her fingers without looking and did not say what any of them were, and the man of thirty-one had the whole of the sum as a figure in chalk at the foot of a board in about four seconds and did not write down one word of what had been said in a yard, because he has not written down what is said in a yard since a market town four hundred miles off and he is not going to start in this one.
+The thirteen rings that took the figure from sixty-three thousand five hundred and sixty-one to sixty-three thousand five hundred and seventy-four were four bells and nine more, and the nine were three strangers at each of three gates, and the three of them were a man with a cartload of timber and two men with a barrow, and they had come up the lane together and had rung at three gates because that is what you do, and a woman of forty-one counted them off on her fingers without looking and did not say what any of them were, and the man of thirty-one had the whole of the sum as a figure in chalk at the foot of a board in about four seconds and did not write down one word of what had been said in a yard, because he has not written down what is said in a yard since a market town four hundred miles off and he is not going to start in this one.
 
 The woman with the board was in the yard at Coldharrow by the fourth hour of that same day and about four people knew it and about thirty did not, and the man of thirty-one found out in about nine minutes that she was not a stranger in this country and had never been, and that the whole of what he had been doing for a week — standing in a yard waiting to be an outsider long enough to be told something — was the wrong shape for the room he was going to be in.
 
@@ -18,7 +18,7 @@ She had a board under her arm and it was four feet by three and it was not the R
 
 ---
 
-Nobody in that yard said anything for about as long as it takes to cross a yard, and the recordwright of twenty-eight, who had been in this country nine days and had said in a garden six days ago that a count that leaves a board is a count somebody can use, put her hand over her mouth, which is not a thing she does, and then took it away again and said:
+Nobody in that yard said anything for about as long as it takes to cross a yard, and the recordwright of twenty-eight, who had been in this country nine days and had said in a garden five days ago that a count that leaves a board is a count somebody can use, put her hand over her mouth, which is not a thing she does, and then took it away again and said:
 
 “That is a thing you have never said out loud anywhere in nine years.”
 

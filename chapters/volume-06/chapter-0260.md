@@ -62,11 +62,11 @@ The woman of forty-one folded it once along the seal and put it back in the satc
 
 “The second line of that paper says a schedule is not a river. And that is the whole of what the paper is for. A schedule is when something happens, and a river is where it goes. And a bell is a schedule. *The four bells of a Coldharrow day are four bells and they happen and they go nowhere.* The first bell is a height above nothing, and the last is a height above the first, and nobody in eleven villages has ever said what either one is above, and there is not a thing in this country that would tell you, and there is no river in this county that anybody in a market town eight days of this road has ever seen.
 
-“And the third line says a height with no sill named in it is a height above whatever the reader is standing on. And that is a true sentence. It is a completely true sentence. It is a printed rule and it is about nine years old and it is the rule a bench of four works under, and they have it in four hundred and sixty lines of a printed index under a heading, and it is the single most correct sentence any of us have read in nine days.
+“And the third line says a height with no sill named in it is a height above whatever the reader is standing on. And that is a true sentence. It is a completely true sentence. It is a printed rule and it is about nine years old and it is the rule a bench of four works under, and they have it in four hundred and sixty lines of a printed index under a heading, and the single most correct sentence any of us have read in ten days.
 
 “And it is a sentence that means that a thing four hundred miles away can be true about a man in this yard, and there is no way on this earth to hand it back.”
 
-The recordwright of twenty-eight said the thing that the man of thirty-one had not said and could not have said, because she had spent nine days on it and he had spent nine minutes on it.
+The recordwright of twenty-eight said the thing that the man of thirty-one had not said and could not have said, because she had spent ten days on it and he had spent nine minutes.
 
 “It is load-bearing here,” she said, “and that is the whole of it, and you have had it backwards and I have had it backwards and the woman with the board has had it backwards since the day she copied it.
 
@@ -78,11 +78,11 @@ And a woman of forty-one said, out loud, in a yard, to about nine people, the th
 
 “No,” she said. “It is not. I am not going to have it in this village and I am not going to have it on my board and I have not written one word of it in chalk and I am not going to, and you can go and ask the man of thirty-one whether I have, and he will tell you that the last thing he wrote in chalk on anything is a number.”
 
-“He did not write it,” said the man of thirty-one, “and he did not want to, and he had already worked out about four hours ago that he was not going to, and he had not said so out loud, and that is the only thing he has done in nine days that he would call work.”
+“He did not write it,” said the man of thirty-one, “and he did not want to, and he had already worked out about four hours ago that he was not going to, and he had not said so out loud, and that is the only thing he has done in ten days that he would call work.”
 
 ---
 
-So it ended, and nothing was decided, and here is the whole of what Coldharrow had at the last bell on the third day of the fifty-ninth week: a board with three hands in it, thirty-one years old, a figure of fifty thousand four hundred and thirty-four at the second light that morning and fifty thousand four hundred and thirty-nine going on for tomorrow, four bells, a woman of forty-one, a boy of seventeen with a book, a woman of twenty-nine at a back gate who had not moved, a woman with a board, a carter of fifty-one with a satchel under a seat that was going to be under a seat on the day it goes, and a piece of paper about a river that had come into a country where there is no river at a cost of fourpence, and which nobody in two hundred and ten people had done anything about.
+So it ended, and nothing was decided, and here is the whole of what Coldharrow had at the last bell on the third day of the fifty-ninth week: a board with three hands in it, thirty-one years old, a figure of sixty-three thousand five hundred and seventy-four at the second light that morning and sixty-three thousand five hundred and seventy-nine going on for tomorrow, four bells, a woman of forty-one, a boy of seventeen with a book, a woman of twenty-nine at a back gate who had not moved, a woman with a board, a carter of fifty-one with a satchel under a seat that was going to be under a seat on the day it goes, and a piece of paper about a river that had come into a country where there is no river at a cost of threepence, and which nobody in two hundred and ten people had done anything about.
 
 And a man of thirty-eight stood at the end of a timber cart and asked the last question of the first ten days of this country, and he asked it in a yard at the last bell, and it was twenty-five words and he had had them ready for nineteen years, and nobody in the yard answered him and he did not appear to want one.
 

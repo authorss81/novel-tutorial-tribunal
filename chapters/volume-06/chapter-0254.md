@@ -12,7 +12,7 @@ He said no again, and he said it in about nine words, and he said it before the 
 
 The man of thirty-one did not argue, and it is worth saying exactly why, because there was a great deal available to him and he had it in his own mouth in about two seconds and put all of it down.
 
-He is a man who can find the difference between a missing page and a page that was taken out on purpose. He is a man who has a cracked steel pen he insists is useful. He is the only person alive who has both, and he had worked with two people who wrote down what a thing did when a thing failed, and one of them had a book like this in his own hand, and the man of thirty-one had looked at that book once in a room four hundred and some weeks away and had thought at the time that it was the only piece of paper in the building that was honest, and had gone back to his own work.
+He is a man who can find the difference between a missing page and a page that was taken out on purpose. He is a man who has a cracked steel pen he insists is useful. He is the only person alive who has both, and he had worked with two people who wrote down what a thing did when a thing failed, and one of them had a book like this in his own hand, and the man of thirty-one had looked at that book once in a room four hundred miles away and had thought at the time that it was the only piece of paper in the building that was honest, and had gone back to his own work.
 
 He looked at this one and thought the same thing, and about eleven seconds after that he noticed what he was actually doing, which was looking for the flaw in it, and that is what a man does to a thing he has already decided about.
 

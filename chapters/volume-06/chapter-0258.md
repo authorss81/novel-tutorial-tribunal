@@ -2,7 +2,7 @@
 
 The first day of the fifty-ninth week added four to a board in a country where every day adds four, and the man of thirty-one was in a yard at the second light for the express purpose of finding out why that was a thing worth walking into, and he found out in about nine minutes that it was not a thing worth anything, and that a woman of forty-one had known that for twenty-five years and had never told anybody because there had never been anybody to tell.
 
-He had been in the country nine days. The figure he had chalked at the foot of the board that morning was the same as the figure at the head of it and he had put the two about four inches apart and had not written a word, and the sixth day of his being here was the sixth morning of the third hand.
+He had been in the country eight days. The figure he had chalked at the foot of the board on his first morning here was the same as the figure at the head of it and he had put the two about four inches apart and had not written a word, and this was the fifth morning of the third hand.
 
 Nobody in the yard was saying anything about the number, and he worked out why before the last bell, and the reason was that the number had gone up by nothing and there is no such thing as a day a village notices for being quiet.
 
@@ -97,6 +97,6 @@ He put the lead in his pocket.
 
 “Ask me again at the first bell tomorrow,” he said, “and if it is four again then you have got a week, and I will walk up the lane to the first house in it and I will ask him what day it was, and he will not know, and I will come back and put it in chalk and you can look at it.”
 
-The figure on the board at the second light on the first day of the fifty-ninth week was fifty thousand four hundred and seventeen, and at the second light on the second day of that week it was fifty thousand four hundred and twenty-one, and the rings in between were four bells and nothing else at all.
+The figure on the board at the second light on the first day of the fifty-ninth week was sixty-three thousand five hundred and fifty-seven, and at the second light on the second day of that week it was sixty-three thousand five hundred and sixty-one, and the rings in between were four bells and nothing else at all.
 
 And the next morning it went up thirteen, and three of the thirteen were a stranger at each of three gates, and the woman of forty-one counted them off on her fingers without looking at the board and did not say what any of them were.
