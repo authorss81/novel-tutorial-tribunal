@@ -2,7 +2,7 @@
 
 The number on the plank at Coldharrow that morning was sixty-three thousand seven hundred and ninety-nine, and a market was the four on top of the four, and a man of thirty-one was four hundred miles off with about a hundred and forty people in a room and neither of those facts had ever touched the other one and about nine people in the Briar March would have said the two of them had nothing to do with each other and they would have been right.
 
-The forty-fourth morning of his being in that county was the fourth of the sixty-fourth week and the day there was a market and the woman of about fifty was busy at the bar from the second hour to near noon, and nobody in two hundred and ten people asked her why there was a market, because a market is a thing that is not asked about, and four of the eight on that plank were the clock and the other four were the market, and there is no column on it and there never was one.
+The forty-fourth morning of his being in that county was the second of the sixty-fourth week and the day there was a market and the woman of about fifty was busy at the bar from the second hour to near noon, and nobody in two hundred and ten people asked her why there was a market, because a market is a thing that is not asked about, and four of the eight on that plank were the clock and the other four were the market, and there is no column on it and there never was one.
 
 ---
 

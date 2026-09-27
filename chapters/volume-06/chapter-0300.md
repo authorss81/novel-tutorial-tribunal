@@ -10,7 +10,7 @@ The difference between that figure and the figure on the plank on the first morn
 
 Three hundred and thirty-one is not a round number. It is not four bells a day for any whole number of days, and there is no column for it and there is no heading over it and there is no name against it and there was never a year at the top of that plank and there is not going to be one.
 
-Nobody in two hundred and ten people chose it. About two hundred of it was on the board before a certain week began and nobody chose that either, and the rest of it is fifty days of a village doing things, and a day's figure is a weighted number, and you cannot get back from a weighted number to the thing that was weighed, and there are now four days in the last ten that say the same figure and no way on earth to tell which was which.
+Nobody in two hundred and ten people chose it. About two hundred of it was on the board before a certain week began and nobody chose that either, and the rest of it is fifty days of a village doing things, and a day's figure is a weighted number, and you cannot get back from a weighted number to the thing that was weighed, and the last four mornings in a row have all come to eight, two of them were market days, and there is no way on earth to tell from a plank which of the four was a stranger and a burial.
 
 *There is a day of eight in this county and there are two of them, and one of them was a market and one of them was a stranger and a burial, and the plank cannot tell them apart, and there is no room in eleven villages in which anybody could ever be told.*
 
