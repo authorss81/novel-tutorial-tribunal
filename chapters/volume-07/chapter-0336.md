@@ -32,7 +32,7 @@ The woman of thirty was on the step of the fourth house with a bucket and she ha
 
 “There is a wet corner,” he said. “On the other side of it there is a dry one and I have got a leg.”
 
-“Yes,” she said. “*And a man can stand in it and there is nobody in the rest of it, and I have been in this field since I was nine and there has not been a wet morning in this month, and the last one was the eleventh morning of the sixty-seventh week and the man of about fifty-one dug and the eight and the ninth were on it and the man of about seventy-four in that house went out for the first time in about a year and came back in before the light went, and that is the ninth day and that is the only ninth day there has been in this month.*”
+“Yes,” she said. “*And a man can stand in it and there is nobody in the rest of it, and I have been in this field since I was nine and there has not been a wet morning in this month, and the last one was the last morning of the sixty-eighth week and the man of about fifty-one dug and the eight and the ninth were on it and the man of about seventy-four in that house went out for the first time in about a year and came back in before the light went, and that is the ninth day and that is the only ninth day there has been in this month.*”
 
 She put the bucket down.
 

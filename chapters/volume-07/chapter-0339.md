@@ -4,7 +4,7 @@ There is no figure for this morning and there never has been one in this valley.
 
 It was the fifth morning of the seventieth week and his eighty-ninth morning, and the day came to four bells and nothing whatever on top of them, which is four. A day with nothing on it is a day with nothing on it, in a market town or a valley or on a rise behind eleven houses.
 
-He had come up the lane in the dark and up a track of about two miles and had a leg and nine days of walking in him, and he had said out loud on the eightieth morning that he was going to be here, and he had written it down nowhere, and a person of about seventy-four had given him a day and an hour and he had never asked her to say it a second time.
+He had come up the lane in the dark and up a track of two miles and had a leg and nine days of walking in him, and he had said out loud on the eightieth morning that he was going to be here, and he had written it down nowhere, and a person of about seventy-four had given him a day and an hour and he had never asked her to say it a second time.
 
 ---
 
@@ -30,7 +30,7 @@ He had four seconds. He had eleven days of road in him and a leg and eighty-nine
 
 “Whose name is on what,” he said, which was a man buying four seconds, and she let him have all four.
 
-“On the thing you have gone off to do,” she said. “*You have not told me what it is and I have not asked you and I am seventy-four and I have got nine of these left and I am not going to spend one of them finding out what a man with a bad leg is doing in a county he came from thirty days ago. I am asking who you have made a person in a record, and I am asking it because that is the only instrument anybody has ever shown me and I have been the instrument for forty years and nobody has ever asked me whether I would rather not be.*”
+“On the thing you have gone off to do,” she said. “*You have not told me what it is and I have not asked you and I am seventy-four and I have got nine of these left and I am not going to spend one of them finding out what a man with a bad leg is doing in a county he came from thirty-eight days ago. I am asking who you have made a person in a record, and I am asking it because that is the only instrument anybody has ever shown me and I have been the instrument for forty years and nobody has ever asked me whether I would rather not be.*”
 
 She picked her stick up.
 
@@ -46,7 +46,7 @@ It took him four minutes and it was the worst four minutes of his eighty-ninth m
 
 He put his hand flat on the one rail.
 
-“I have asked her two questions in a month and both of them cost her something. This morning I asked her for a third, and I said the price out loud before I asked, and the price is that she becomes a person who said a thing, and there is no instrument in this country that takes a person out of a record, and I have known that for seventy mornings. And she cannot say no, and I used that, and I have known what I was doing for a week and I did it anyway, and I said it out loud in a lane and saying it out loud did not make it smaller.”
+“I have asked her two questions in a month and both of them cost her something. This morning I asked her for a third, and I said the price out loud before I asked, and the price is that she becomes a person who said a thing, and there is no instrument in this country that takes a person out of a record, and I have known that for five days. And she cannot say no, and I used that, and I have known what I was doing for a week and I did it anyway, and I said it out loud in a lane and saying it out loud did not make it smaller.”
 
 The woman of seventy-four did not say anything for nine seconds and the mist came off the one rail.
 
@@ -62,7 +62,7 @@ He took his hand off the rail.
 
 Nobody thanked him. Nobody was relieved. There is nothing in this country that will take a woman of about thirty-four at a bar out of a record and he has been looking for one for eighty-nine mornings and there is not one and he is not going to find one, and he has known that since a kitchen three miles up a lane and it is the oldest thing he knows and it is the thing he has just spent another person on.
 
-And he had cost a woman in a bar, who did not agree to it and cannot say no, and he was going to cost a woman of about thirty-four in a market town, who is standing in her own yard four days away and does not know he is anywhere near it, and he had just cost a woman of about seventy-four who did not ask and is going to remember the four minutes for the rest of whatever she has.
+And he had cost a woman in a bar, who did not agree to it and cannot say no, and he was going to cost a woman of about sixty-one in a market town, who is standing in her own yard four days away and does not know he is anywhere near it, and he had just cost a woman of about seventy-four who did not ask and is going to remember the four minutes for the rest of whatever she has.
 
 ---
 
@@ -88,4 +88,4 @@ She went down the lane. He did not follow her and he did not go to the porch and
 
 There is a bridge with one rail on it in this valley and four people in the hundred years of its life have asked for a second one and the answer has been that a second rail is for a bridge that somebody is going to fall off, and nobody in this valley is going to fall off it, and that is a settled thing, and there is nobody in this valley who is going to be asked about it, and there is a woman in it who is entitled to say no to being asked.
 
-What that day came to was four bells and nothing whatever on top of them, which is four, and there is no bell in this valley that anybody rings for anything either, and a woman of seventy-four went down the lane at the pace of a woman of seventy-four and a man of thirty-one went back up a track, and eleven names on a board in a porch were not touched, and nobody thanked anybody, and a woman of about thirty-four at a bar eleven miles down the lane and off it was going to open up in five hours and had a sentence in her that she was not going to be thanked for and could not put down.
+What that day came to was an ordinary morning on that plank, and there is no bell in this valley that anybody rings for anything either, and a woman of seventy-four went down the lane at the pace of a woman of seventy-four and a man of thirty-one went back up a track, and eleven names on a board in a porch were not touched, and nobody thanked anybody, and a woman of about thirty-four at a bar eleven miles down the lane and off it was going to open up at the second hour and had a sentence in her that she was not going to be thanked for and could not put down.

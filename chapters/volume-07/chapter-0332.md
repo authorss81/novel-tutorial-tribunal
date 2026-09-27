@@ -8,7 +8,7 @@ It was his eighty-second morning. He had come into the Briar March in the small 
 
 Nobody has been chosen.
 
-He got that from a woman of about fifty at a bar at the bottom end of the lane, in a lane, at about the fourth hour, and she had it out before he asked, the way she says everything, and it was not the first time she had said it and he could tell that from the way she said it.
+He got that from a woman of about thirty-four at a bar at the bottom end of the lane, in a lane, at about the fourth hour, and she had it out before he asked, the way she says everything, and it was not the first time she had said it and he could tell that from the way she said it.
 
 “Nobody,” she said. “And it is not a question anybody is asking this morning, it is a thing four people at that smithy said two days ago and I have had it off two of them on the way to work. *The man of thirty-eight went out of that market on a cart two days ago at a quarter past seven with a bag and a book he has not decided about, and there is a book on a shelf in a room over a smithy with nobody chosen to it, and the woman with the bag carries it nine times a year and has done for six years and is not going to be chosen either and is right, and I have stood behind that bar for twenty-two years and I am not going to be chosen either.*”
 
@@ -20,7 +20,7 @@ Then, at about the seventh hour, he went and found the man of fifty-two, because
 
 Tarin Keel was standing at the gate with a bit of lead in his coat and a handcart he had not unloaded, and he was counting, and he was not doing it for anybody, and nobody was standing near him.
 
-He had not been asked to be there. Nobody sent him and nobody had sent for him and nobody in this lane had ever sent for him, and he had been in this county off and on for four months and had not been asked to do one single thing while he was in it, and he has never once said so to anybody, and he was not going to say it to a stranger with a bad leg at a gate on a morning.
+He had not been asked to be there. Nobody sent him and nobody had sent for him and nobody in this lane had ever sent for him, and he had been in this county off and on for six weeks and had not been asked to do one single thing while he was in it, and he has never once said so to anybody, and he was not going to say it to a stranger with a bad leg at a gate on a morning.
 
 *He did not offer. He did not say good morning. He did not put the cart down.*
 
@@ -68,7 +68,7 @@ And there is no office in this county. There is a room over a smithy with a shel
 
 And here is where the day turned over, and it turned over in nine seconds and neither of them helped him with any of it.
 
-No form in this country says a man may set a name at the foot of a thing, and he has said so in eleven yards in five counties and it is true and it has never once been the answer to anything, because a man does not need a form to write a name. A man of sixty-three wrote one on the back of a flour bill in a kitchen in eleven days without being asked and did not know he was doing it, and that is the only time in eighty-two mornings that a name has ever come to him, and it came out of a kitchen by accident, and a name said out loud at a plinth in a street is not a name in a place, and the two of them together do not make a person.
+No form in this country says a man may set a name at the foot of a thing, and he has said so in eleven yards in five counties and it is true and it has never once been the answer to anything, because a man does not need a form to write a name. A man of sixty-three wrote one on the back of a flour bill in a kitchen in twenty-nine days without being asked and did not know he was doing it, and that is the only time in eighty-two mornings that a name has ever come to him, and it came out of a kitchen by accident, and a name said out loud at a plinth in a street is not a name in a place, and the two of them together do not make a person.
 
 So the paper is not the difficulty. The paper is a scrap of flour bill. There is no form and there will not be a form and he has been using the absence of one as a reason to do nothing for eighty-two mornings, and that is a use and it is not a good one.
 
@@ -84,4 +84,4 @@ He said that out loud at about the eleventh hour, in the lane, to the man of fif
 
 “A man can be asked about it in a kitchen and in a lane and in a room over a smithy and at a gate, and there is nobody he can go to and say it is not about me, and that is the whole of what a name at the foot of a thing is.”
 
-The day came to four bells and a stranger, which is seven, and the stranger was him, and he was the only stranger in the county that day that anybody had heard of, and a man of fifty-two counted what crossed a gate for four hours and a half and did not say one word about it again, and nobody thanked anybody and nobody was relieved and a book went on sitting on a shelf in a room in another county with nobody chosen to it.
+And the stranger was him, and he was the only stranger in that county that day that anybody had heard of, and a man of fifty-two counted what crossed a gate for four hours and a half and did not say one word about it again, and nobody thanked anybody and nobody was relieved and a book went on sitting on a shelf in a room in another county with nobody chosen to it.

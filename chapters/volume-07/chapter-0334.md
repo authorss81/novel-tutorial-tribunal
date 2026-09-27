@@ -26,7 +26,7 @@ He folded the paper and put it in his coat and went up the lane, and the man of 
 
 Three miles up the lane. There is one kitchen in the third village that anybody will let a stranger stand in and it is the kitchen at the end of the lane, and there are always nine people in it and the ninth is the smith's wife and the tenth never comes.
 
-He got there at about the eleventh hour and the man of about sixty-three was at the table with a barrow and a crowbar and his hands black to the wrist, and there is a flour bill face down in front of him and it has been face down since a stranger with a bad leg said he would walk four hundred yards of hedge on his own, in that kitchen, and nobody has turned it over in fifty-three days.
+He got there at about the eleventh hour and the man of about sixty-three was at the table with a barrow and a crowbar and his hands black to the wrist, and there is a flour bill face down in front of him and it has been face down since a stranger with a bad leg said he would walk four hundred yards of hedge on his own, in that kitchen, and nobody has turned it over in thirty-one days.
 
 “Right,” said the man of about sixty-three, and turned the bill over, and did not say a word while he did it.
 
@@ -60,7 +60,7 @@ A man who carries it is a man who has to be there on nine mornings. Not once. Ni
 
 He looked at the bill on the table.
 
-And I have said out loud in two yards in eleven days that I am going to be standing at a bridge with one rail on it in a valley of sixty people in nine days, and I did not write it down, and a person of seventy-four gave me that morning and she is entitled to stop and I cannot put her back, and I have not got a leg that gets me out of this one. The nine mornings and the ninth morning are the same week and they are four hundred miles apart and there is no road.
+And I have said out loud in two yards in eleven days that I am going to be standing at a bridge with one rail on it in a valley of sixty people in five days, and I did not write it down, and a person of seventy-four gave me that morning and she is entitled to stop and I cannot put her back, and I have not got a leg that gets me out of this one. The nine mornings and the ninth morning are the same week and they are four hundred miles apart and there is no road.
 
 ---
 
@@ -92,7 +92,7 @@ He waited for it.
 
 And the man of thirty-one, who had come up a lane eleven miles and then three miles more to ask a man of sixty-three for something, stood in a kitchen with a leg and nine people in it and could not answer it, and it took him four seconds, and nobody helped him with any of the four.
 
-Because there is no answer. Nobody has ever counted. I have been in this country eighty-four days and I have not written a line in eighty-four days and there is no hand in this county I could have put one in, and the last time anybody asked a person of a place a question about a number was a man of about seventy at a plinth in a market town four days up this lane on the seventy-third morning, and he asked me how many loads go over that bridge in a year, and I said I cannot do that, and it is the only thing I have got to give anybody and I gave it to a man of seventy and I have been carrying it for ten days.
+Because there is no answer. Nobody has ever counted. I have been in this country eighty-four days and I have not written a line in eighty-four days and there is no hand in this county I could have put one in, and the last time anybody asked a person of a place a question about a number was a man of about seventy at a plinth in a market town four days up this lane on the seventy-fourth morning, and he asked me how many loads go over that bridge in a year, and I said I cannot do that, and it is the only thing I have got to give anybody and I gave it to a man of seventy and I have been carrying it for ten days.
 
 And I am carrying it to a kitchen now. A stranger with a leg comes eleven miles and asks a question that is not a question, and gets a question, and takes it away, and that is what a delegation is before it is anything else.
 

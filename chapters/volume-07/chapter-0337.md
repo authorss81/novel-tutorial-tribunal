@@ -14,11 +14,11 @@ He was at the third length at about the seventh hour and he had a scythe out and
 
 ---
 
-“You are early,” said the man of thirty. “*And before you say anything, I am going to say the thing I have been waiting to say to you since the middle of the last three weeks, and then I am going to mow my length.*”
+“You are early,” said the man of thirty. “*And before you say anything, I am going to say the thing I have been waiting to say to you since the fifth morning of the sixty-seventh week, and then I am going to mow my length.*”
 
 He did not stop mowing.
 
-“You said there was a tenth. In this lane. In front of my gate. *And I stopped you, and I was right to, and I have thought about it every day since the middle of the last three weeks and I have not found one thing wrong with stopping you, and I have not found one thing right with saying it either, and both of those are the same thing and it is the whole of what I have got.*”
+“You said there was a tenth. In this lane. In front of my gate. *And I stopped you, and I was right to, and I have thought about it every day since that morning and I have not found one thing wrong with stopping you, and I have not found one thing right with saying it either, and both of those are the same thing and it is the whole of what I have got.*”
 
 He shifted the scythe.
 
@@ -40,9 +40,9 @@ And that is how the man of about thirty-one found out that the count had almost 
 
 It was not in a room. It was a gate and a length of a mile and nine people who live on it, and by the tenth hour there were four of them standing about and the man of thirty-one was in the middle of them with a leg and the thing he had done was this.
 
-In the middle of the last three weeks, in this lane, on a day he has counted and got wrong, he said the words there is a tenth, out loud, in the open, in front of a gate, because he was right on the facts and had the number in his head and had been told the number by a person of a place. And a man of thirty had stopped him. And a woman of about forty-one at the seventh house had heard him say it from a gate and had said nothing and had gone back in.
+On the fifth morning of the sixty-seventh week, in this lane, on a day he has counted and got wrong, he said the words there is a tenth, out loud, in the open, in front of a gate, because he was right on the facts and had the number in his head and had been told the number by a person of a place. And a man of thirty had stopped him. And a woman of about forty-one at the seventh house had heard him say it from a gate and had said nothing and had gone back in.
 
-And she has been doing two lengths in the dark ever since, and she was doing two lengths in the dark before, and neither of those is the same thing and the difference is eighteen days and eleven words.
+And she has been doing two lengths in the dark ever since, and she was doing two lengths in the dark before, and neither of those is the same thing and the difference is nineteen days and eleven words.
 
 Nobody in that lane had ever mentioned it to him. He had not asked. He had walked down this mile twice in the time he has been in this country and had asked a man of thirty one question about being paid and had got an answer and had not asked one single question of anybody else on nine lengths of road.
 
@@ -56,7 +56,7 @@ He watched her do a length. Then he watched her stop, and go back, and do the ot
 
 And then he asked her one question, because asking a question is what he does for a living and he had not been asked one and he did not know there was a question about it and he did not know there was a stranger in the county with a bad leg.
 
-And she told him, because he asked it in a lane like a man asking about the weather, and because she is a woman of about forty-one and has been doing this for eleven days and had told nobody and had not done it in front of anybody.
+And she told him, because he asked it in a lane like a man asking about the weather, and because she is a woman of about forty-one and has been doing this for thirty days and had told nobody and had not done it in front of anybody.
 
 He came up the mile at about the ninth hour and found the four of them at the gate and told the man of thirty-one, in a lane, flatly, and it was not a favour and he did not want one and he did not know what he was handing over.
 
@@ -74,7 +74,7 @@ She did not tell him about the widow, because the man who reads things out had a
 
 She looked at the ground.
 
-“You wanted to know if I had stopped,” she said, and she said it in the voice of a person checking a thing she has been checking for about a fortnight. “*And I have not, and I am not going to, and I did not start, and I cannot now say no, and I have known that since a fortnight and there is nobody to put it to and there is no form and there is not going to be one.*”
+“You wanted to know if I had stopped,” she said, and she said it in the voice of a person checking a thing she has been checking for nineteen days. “*And I have not, and I am not going to, and I did not start, and I cannot now say no, and I have known that since nineteen days and there is nobody to put it to and there is no form and there is not going to be one.*”
 
 “Who put you on this road.”
 
@@ -88,7 +88,7 @@ And there is nothing I can do about that and there never has been and that is no
 
 He had said the price of that out loud in five places in eleven days and had improved on it in none of them, and the price was always the same shape: a person of a place finds out about themselves, and nobody asked, and there is no instrument anywhere that takes a knowing back.
 
-Except that this is not a person finding out about themselves. This is a person finding out about somebody else because of me, and there is a widow at the fourth house who will find out about it in about a year, and there is a man of thirty who has been standing in a lane for eleven days with a thing he has not been able to put down either, and there is me, and none of the three of them is going to be thanked and two of them cannot get out of it.
+Except that this is not a person finding out about themselves. This is a person finding out about somebody else because of me, and there is a widow at the fourth house who will find out about it in about a year, and there is a man of thirty who has been standing in a lane for nineteen days with a thing he has not been able to put down either, and there is me, and none of the three of them is going to be thanked and two of them cannot get out of it.
 
 ---
 
@@ -102,4 +102,4 @@ Nobody said anything. The man of thirty-four read him off his own board in about
 
 “I know what it is,” said the man of thirty-one. “I said it in a kitchen yesterday before I asked a man of sixty-three for something, and I have said the price out loud six times in twelve days and it has got smaller every time and never gone, and I am not going to do it because it is the right thing. I am going to do it because the man of thirty-eight is four days up a road and the ninety are on a list and I am on a mile of road with a leg and a fortnight, and if I do not do it this week it does not get done at all, and that is a reason and it is not a good one.”
 
-Four bells and a stranger, and the stranger was a woman of about forty-one at the seventh house who had not been asked, and a barrow went rotten in a lane and a hip went in a house and nobody in that lane was relieved and nobody was thanked and the tenth person got up at the fifth hour again the next morning.
+And the stranger was a woman of about forty-one at the seventh house who had not been asked, and a barrow went rotten in a lane and a hip went in a house and nobody in that lane was relieved and nobody was thanked and the tenth person got up at the fifth hour again the next morning.

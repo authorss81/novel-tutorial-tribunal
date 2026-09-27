@@ -22,7 +22,7 @@ The arrangement he most wanted to carry was four days behind him and it was goin
 
 That is the whole of it and there is no more to it than that. There is a set of beam scales on a stone plinth at the end of a main street with a man of seventy on it and a woman of about fifty-eight doing his sums in her head, and a man of about thirty-eight knows that the number on a slip in that woman's back room is half what it has been called for sixty years, and he is four days of road away with a bag, and he does not know what is going to happen in that street now and neither does anybody else, and there is nobody in the world who can be told.
 
-And he had stood at that plinth in the rain for four hours on the seventy-third morning and had watched nine loads go over in an hour, and the woman of about thirty-two at the cross had told him in a market street that she was counting on a standpipe at the end of a lane the way a person counts on a wall, and the woman of about sixty-one had said in her own yard that she was not going to be the person who says the water stops, and none of those three women is going to be asked to choose and he cannot ask them and must not.
+And he had stood at that plinth in the rain for four hours on the seventy-fourth morning and had watched nine loads go over in an hour, and the woman of about thirty-two at the cross had told him in a market street that she was counting on a standpipe at the end of a lane the way a person counts on a wall, and the woman of about sixty-one had said in her own yard that she was not going to be the person who says the water stops, and none of those three women is going to be asked to choose and he cannot ask them and must not.
 
 ---
 
@@ -42,13 +42,13 @@ He did the count at the side of the road at about the fifth hour, in the open, o
 
 Then he stopped, because that is where the count stops, and it has always stopped there, and it did not stop today either.
 
-Four days up a lane. Eleven miles down and off it, and eleven miles down and off it again, and eleven miles down and off it a third time. Three miles. A track of two miles and a bridge with one rail on it. And two legs.
+Four days up a lane. Eleven miles down and off it, and eleven miles down and off it again, and eleven miles the other way. Three miles. A track of two miles and a bridge with one rail on it. And two legs.
 
 ---
 
 Here is the arithmetic of it, and it is arithmetic and not a mystery, and it took him four seconds and it had been true for eighty-one mornings.
 
-Carrying one of them means not carrying another one. That is not a rule anybody made. It is what a man with a leg is, in the sense that a man with two arms is a man with two arms. He has spent ninety mornings learning that a person is not an instrument, and he has spent them in five counties, and the sentence he is standing in the middle of a road saying to himself at about the fourth hour of a morning on a lane is that he is not one either, and that a man who decides that other people can be in two of them at once is a man who has decided that a person is a thing that can be in two places.
+Carrying one of them means not carrying another one. That is not a rule anybody made. It is what a man with a leg is, in the sense that a man with two arms is a man with two arms. He has spent eighty-one mornings learning that a person is not an instrument, and he has spent them in five counties, and the sentence he is standing in the middle of a road saying to himself at about the fourth hour of a morning on a lane is that he is not one either, and that a man who decides that other people can be in two of them at once is a man who has decided that a person is a thing that can be in two places.
 
 And then the other half, which is the half the count is actually for.
 
@@ -86,4 +86,4 @@ Nobody argued with him. There was nobody there to.
 
 ---
 
-The road went on down. There is nothing at the side of it in this county that anybody has ever written a figure on, and the day came to four bells and nothing whatever on top of them, which is four, and that is the number most of the days in a year are, and a stranger on a road is not a weight on a plank in another county four days away.
+The road went on down. There is nothing at the side of it in this county that anybody has ever written a figure on, and a stranger on a road is not a weight on a plank in another county four days away, and the man of thirty-eight had a cart and a bad back and four days of road in front of him, and there is nothing in this country that puts a day's road back on a man on foot.

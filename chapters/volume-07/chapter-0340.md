@@ -14,7 +14,13 @@ The sixth is a woman of about fifty-eight at a set of beam scales on a stone pli
 
 On the eighty-eighth morning he had decided to go and tell her a figure, and on the eightieth morning he had decided not to, and on the eighty-ninth morning at a bridge with one rail on it he had been told by a person of seventy-four that a man cannot be in two places and there is no form that says a man may send anybody.
 
-And this morning he was in a lane with a leg and a market on the green and a woman of about fifty-eight four days away, and he stood in the lane and worked out which of those two things he was going to do and it took him longer than nine minutes and it came out the same both times.
+And the sixth is four days up this lane, so the sixth was not going to happen this morning whatever he decided about it. What he did instead was the nearest one, which is a mile of road nine men keep and a man of about thirty with a cart and a beast who is the third of the nine, and that mile is nine miles from the bar at the end of the tenth village and two from this green, and he walked out to the top gate at about the sixth hour with the leg and got his leg over the rut.
+
+There was nobody on the length. The scythe was not out and the beast was not in the second field and the barrow marks were still in the wet at the second gate and no rain had come at them, and the third house was shut, and a man who is going somewhere this morning shuts his door and does not shut it for a stranger, and there is nobody in nine houses to ask about it.
+
+He stood at the top gate a while and there was nothing to be done there either, and it is not a different finding from a kitchen with a bill face up on a table, it is the same finding standing on a road, and what a road wants is nine men on nine lengths and not a tenth pair of boots at the top gate because a stranger with a leg came down it.
+
+And that was the one he did not expect, because he had gone out to it with a sentence in his mouth and there was nobody in nine houses to hand it to, and he came back up the mile to the green in about the seventh hour and sat down on the step of the cross, because there is a market on this green one day in a fortnight and he was in the county for it, and he had not been told one thing in two miles.
 
 ---
 
@@ -22,7 +28,7 @@ The man of about thirty came up the lane at about the eighth hour with the cart 
 
 He did not say good morning and he had not said good morning for a fortnight and he was not going to.
 
-“I have been up the road and back and I am going to say one sentence and it is not about you,” he said. “*On the fourth morning of the seventieth week, at about the second hour, a woman of about thirty-four at a bar at the end of the road said a thing in the open at a cross about a town four days up this lane, and I was at the third house when I heard it, and I have had a cart and a beast and a pair of ears and I have had it four days.*”
+“I have been up the road and back and I am going to say one sentence and it is not about you,” he said. “*On the sixth morning of the seventieth week, at about the second hour, a woman of about thirty-four at a bar at the end of the road said a thing in the open at a cross about a town four days up this lane, and I was at the third house when I heard it, and I have had a cart and a beast and a pair of ears and I have had it six hours. She had it the morning before as well and she did not say it, and there were not nine of them at that cross until this morning, and that is her business and not mine and I am not going to ask her about it.*”
 
 He put the beast's head round.
 
@@ -62,7 +68,9 @@ He took the beast's head again.
 
 Nobody thanked him. Nobody was relieved. Nobody said that it had been worth it and nobody said that it had not, and he was not going to say either, and the six were still standing, and the slip was still on a shelf in a foolscap book four days up the lane, and the beam was still on the plinth, and four hundred loads a week went over that bridge in a season and would go over next week, and a woman of about thirty-two with a pitch at a cross in that town was counting on a standpipe for a child coming in the spring and did not know that there was a figure, and ninety people in nine towns could not pay the difference and nobody at any of those tables wanted it, and the man of about thirty-eight was somewhere on a four-day road with a bag and a bad back and a book he had not decided about, and a woman of about thirty-four at a bar was a person in a record because of a stranger.
 
-And six people had agreed to be somewhere on a day. The day had been changed twice and a person of that valley had said on the seventy-first morning, at a bridge with one rail on it, that the day was three days off as of that morning and that it would change again. He was not going to be in it, and he had said so in a yard and to one person and in a lane and twice at a bridge with one rail on it, and none of those had been an ask and none of them was going to become one now, and he knew it, and he had known it for a long time, and saying it out loud had never once made it smaller.
+And six people had agreed to be somewhere on a day. It was said out loud in a market street four days up this lane ten days ago, it has not been said again by anybody since, the day has been changed twice and it will change again, and neither change has been told to him.
+
+He is not going to be in it either, and that is not news this morning and it has not been news for nine days, and what is new this morning is the reason. A week ago the reason was a leg. The reason now is a woman of about thirty-four at a bar who cannot say no and is not going to be thanked, and if he is in that room then it is a man who put her in it in order to be somewhere himself, and there is no form in four hundred miles that stops a man from doing that and there is not going to be one. He said that out loud to himself on the step of the cross in four seconds and it did not make it smaller, and he had said the price out loud in a lane behind a bar two mornings ago and that had not made it smaller either, and both of those are the same sentence and he has had it since a kitchen three miles up a lane.
 
 He was not going to be able to undo it. He was not going to pretend the price was worth paying and he was not going to pretend it was not, and nothing in this country lifts a person out of a record and he has looked for a way to do it in ninety mornings.
 
