@@ -138,7 +138,7 @@ The woman said it out loud.
 
 About thirty people waited, and Ilyan had an answer in about four seconds, and it was wrong, and then he had a better one in about another four seconds and it was also wrong, and he said both of them out loud, because a room had taught him in six weeks that a man who stops in the middle of a sentence is a man managing somebody.
 
-“*A form asks for a name,*” he said. “*And a name is a line of ink, and any form in this county can ask for a name in a line. The office has five hundred forms in it and every one of them asks for a name. Not one of them asks for a person, and that is not a fault of the forms. That is what a form is.*”
+“*A form asks for a name,*” he said. “*And a name is a line of ink, and any form in this county can ask for a name in a line. The office has a form for everything it does and every one of them I have seen asks for a name. Not one of them asks for a person, and that is not a fault of the forms. That is what a form is.*”
 
 “*Say the second one,*” said Skell.
 
@@ -184,4 +184,4 @@ About thirty people were in a room at the foot of a hill, and eleven of them, ro
 
 And a man not of this place sat on the window seat with a bad leg, and he had wanted something out of that room since the second hour and had not said the price of it. There was an exception on the table at the foot of the room with a way out of this country in the fourth of its five lines, and he had still not answered it, and the office would not check a number and would not require a person to be asked.
 
-The fever was twenty-two weeks and five days old, and a bar of four hurdles, nine links of chain and a plate with nothing cut in the corner of it stood two miles out on the north side of a road. The first of thirty-one answers to a question about the roads was a man of fifty-two who had been called a function in a room, twice, and had not been struck out of anything.
+The fever was twenty-two weeks and five days old, and a sheet had gone out to thirty-one halls with one line in it, and a man who counts doors was in the first answer, and a person was on it before anybody had asked for one. The first of thirty-one answers to a question about the roads was a man of fifty-two who had been called a function in a room, twice, and had not been struck out of anything.

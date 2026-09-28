@@ -34,7 +34,7 @@ Skell put one hand down and kept the other on the table.
 
 “*There are twenty-two names in the second lines as well, and two of those are the same man in two different wards. Darrin Skell, counting hall and doors, once for the ward at the end of the plate yard, and once for the ward at the middle of the nine bridges. So that is twenty-one persons in the second lines.*”
 
-“*And now take the first lines back,*” said Nell Fisk, who had read the office's request aloud on the flat on the Thursday it came down, and had read four ward sheets aloud in a street on the Saturday, “*Say how many of the twenty-five are people.*”
+“*And now take the first lines back,*” said Nell Fisk, who had read the office's request aloud on the flat on the Thursday it came down, and who had read all six pages of the form in the rain on the Friday, and who is in the first line of one ward's own sheet and in the second line of nothing, “*Say how many of the twenty-five are people.*”
 
 “*Twenty-four,*” said Skell. “*One of the twenty-five is not a person. It is the keeper of the box at the ninth marker, which is a thing with a roof on it and a shutter and a bench in it, and a woman in it at the hour a cart comes in. That ward has sent the keeping of it and not the woman, and there is no name on the sheet, only a number.*”
 
@@ -80,7 +80,17 @@ Nobody answered him, and about four people agreed with him out loud, and he wrot
 
 The second foot line had been filled in.
 
-It said, in a fair hand that was not Ilyan's and not a clerk's, on the fifth of six pages, in a room off the low ground on the evening of Saturday. The word *placed* had been struck through and the word *put* had been written over it, and under the word *put* the clerk had drawn a line and left it.
+It said, in a hand that was not Ilyan's and not a clerk's, on the fifth of six pages, in a room off the low ground on the evening of Saturday. The word *beside* had been struck through, and the word *under* had been written over it, and under the word *under* a man with a pencil had drawn a line and left it there.
+
+“*Say what is different about that line,*” said Skell.
+
+“*One word,*” said Ferrow. “*It said beside on Friday and it says under now, and the strike is through the whole of the old word and not through a letter of it.*”
+
+“*Say the line as it stands and do not tidy it.*”
+
+“*The person who stands under the name above, of this place.*”
+
+Nobody in that room said a word for about three seconds, and about nine people in it had worked out the same thing at the same moment and about nine of them had got there by different roads.
 
 “*Say the name in it,*” said Skell, and about nine people in the room had already looked at it and had not said it.
 
@@ -104,7 +114,7 @@ She put her hands flat on the wood.
 
 She did not turn her head, and Ilyan was eight feet from her at the second chair along.
 
-“*He wrote that line and left it empty in a window, and he has not filled it in, and he is not going to. And the office asked at the top of a hill, and I have answered at the top of a hill and in this room, and there is a fair hand in a form with a name in it and it is mine.*”
+“*He wrote that line and left it empty in a window, and he has not filled it in, and he is not going to. And the office asked at the top of a hill, and I have answered at the top of a hill and in this room, and there is a hand in a form with a name in it and it is mine.*”
 
 “*Say the last of that and go on to the end of it,*” said Skell.
 

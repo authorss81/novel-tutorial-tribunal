@@ -26,7 +26,7 @@ She turned the slate round.
 
 Skell was not there.
 
-Skell had come out to the end of the plate yard at about an hour before the light on most mornings since the second day of the eighty-fourth week, and had not come on this one. A man who has gone to a room at the foot of a hill is not a man who comes out to a road.
+Skell had come out to the end of the plate yard at about an hour before the light on most mornings since the day the writ came down in the tray, and had not come on this one. A man who has gone to a room at the foot of a hill is not a man who comes out to a road.
 
 So it was Ilyan who did the working, standing on a ledge with the water going under it, and he had a bad leg, and he had done a great many divisions in six weeks, and he got it right the first time and said so out loud.
 
@@ -42,7 +42,7 @@ He put his hand flat on the concrete drum of the marker.
 
 “*Say the rest of that and do not stop half way through it,*” said Calloway.
 
-“*And the office keeps a book of the visits to that box, and the book has nine visits in it in fifteen days, because nine people have gone into it and sat down. And a crossing is not a visit.*”
+“*And the office keeps a book of the visits to that box, and the book has nine visits in it in fifteen days, because nine people have gone into it and sat down, and a visit is a farthing at the first row, and nine of them is two pence and a quarter of a penny. And a crossing is not a visit, and there is no column in that book for two hundred and six.*”
 
 ---
 
@@ -92,9 +92,9 @@ They stood on the south side, in the mud, at about the fifth hour, because the s
 
 It was the same barrow, the same two feet of mud in the wheels, and the same man, and he came on up past the two of them the way he came up past four hurdles that had not been in his road for six weeks.
 
-He had gone up four yards of mud every morning for nine years, and forty days before the rail came down, and on the night of the sixth day of the eighty-fifth week he had gone past nine men with a bar of ash and a written authority while about forty people and two carts came up behind him in the dark.
+He had gone up four yards of mud every morning for nine years, and for the forty days before the rail came down, and on the night of the sixth day of the eighty-fifth week he had gone past nine men with a bar of ash and a written authority while about forty people and two carts came up behind him in the dark.
 
-He did not know that anybody had ever written any of it down, and nobody in this city had ever asked him, and he had not been in a room in this city in forty days, and there is no form in this county that says a person going to work in the morning has to be in a book.
+He did not know that anybody had ever written any of it down, and nobody in this city had ever asked him, and he had not been in a room in this city since the rail came down, and there is no form in this county that says a person going to work in the morning has to be in a book.
 
 “*Say his name,*” said Ilyan.
 

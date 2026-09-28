@@ -1,4 +1,4 @@
-# Chapter 444: Four Wards Answer, And Every One Of Them Names Two People, And Two Of Them Name The Same Person Twice, And An Answer To One Sentence Comes Down The Hill On The Fifth Day
+# Chapter 444: Four Wards Answer, And Every One Of Them Fills In Two Lines, And Two Of Them Name The Same Person Twice, And An Answer To One Sentence Comes Down The Hill On The Fifth Day
 
 Fifth day of the eighty-fifth week. Shelf day three hundred and nineteen, his hundred and ninety-fourth morning, forty-four days after the settlement, the fever twenty-three weeks and no days, the rail down thirty-four days.
 
@@ -50,7 +50,7 @@ He put his hands flat on the table.
 
 “*Say the rest of it and do not do a division on it.*”
 
-“*Four wards have produced eight names, and eight names are eight people, because the two names that are the same person are the same person in a ward's first line and in that same ward's second line, and nobody in this room has been asked which of the two lines means it. And about twenty-seven wards have not answered at all.*”
+“*Four wards have produced eight names, and eight names are five people, and it is five because the ward at the end of the low row has the same name in both of its lines, and the ward by the rail has the same name in both of its lines, and I am the third of those three, and I read four sheets out loud in this room this morning and I did not see my own name on two of them. And about twenty-seven wards have not answered at all.*”
 
 He took his hands off the table.
 
@@ -68,7 +68,7 @@ It came down in the tray on the fifth day of the eighty-fifth week with wax on i
 
 “*Say how long it took,*” said Skell, before the man with the pencil had it open.
 
-“*It went up on the first day of this week at the end of the day, in an envelope with no seal on it,*” said Ferrow. “*It came down on the fifth day, and that is five days.*”
+“*It went up on the first day of this week at the end of the day, in an envelope with no seal on it,*” said Ferrow. “*It came down on the fifth day, and that is four days.*”
 
 “*Say the sentence that went up.*”
 
@@ -80,11 +80,11 @@ It came down in the tray on the fifth day of the eighty-fifth week with wax on i
 
 “*Say the second one.*”
 
-“*Two. The office has been sent a form of a city which has lines in it that no form of the office has, and the office does not require a city to use the forms of the office, and does not check a second line, and does not require one.*”
+“*Two. The office has a return of this city in which one column carries two names, and no form of the office carries two names in one column, and the office does not require a city to use the forms of the office, and does not check a second name in a column, and does not require one.*”
 
 “*Say the third one and go slowly,*” said Ilyan.
 
-“*Three. The office has asked the person named in the second line at the seat, in a room there, who placed the name of the person not of this city in the line beside their own, and requires an answer within five days.*”
+“*Three. The office has asked the person named beside the name of the person not of this city, at the seat, in a room there, who placed that name in the line beside their own, and requires an answer within five days.*”
 
 “*Say the last one.*”
 
@@ -114,7 +114,7 @@ Ilyan wanted something out of that room and it was a bad thing to want, and he h
 
 He put his hands flat on the table.
 
-“*And a clerk four hundred miles off read the third line and asked a woman at a town four hundred miles off who put you there, and the answer went up a hill, and it is going to come down in five days with her name in it.*”
+“*And a clerk four hundred miles off did not read it out of a window either,*” said Skell. “*He read a column of a return that has been in a book since the second day of the eighty-third week with two names in it, and he asked a woman at a town four hundred miles off who put you there, and the answer went up a hill, and it is going to come down in five days with her name in it.*”
 
 ---
 
@@ -164,6 +164,6 @@ Then Ferrow read out what he had written, and it was four sentences, and one of 
 
 The answer went up the hill on the evening of the fifth day of the eighty-fifth week in an envelope with no seal on it, and it was one line, and the line was a name.
 
-And the form stood in the window of the press with a fair hand in the second foot line of the fifth page and a name in it, and about nine people a day read that page in the rain outside a shop and did not have anybody to say it to.
+And the form stood in the window of the press with a hand in the second foot line of the fifth page that was not the compositor's, and a name in it, and about nine people a day read that page in the rain outside a shop and did not have anybody to say it to.
 
 The fever was twenty-three weeks and no days old, and it did not stop for four answers or for a fifth sheet in a tray, and nobody in that room thanked anybody, and there is no form in this county that says a person may be thanked.

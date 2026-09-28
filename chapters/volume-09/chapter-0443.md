@@ -38,6 +38,8 @@ It did not say what a ward would do with a second line. It did not say that a wa
 
 He chose nothing out of it, then or afterwards, and he has never chosen anything out of one. He did not tell anybody, and nobody asked him.
 
+---
+
 Then Nell Fisk read all six pages of it out on the flat outside the press, in the open, in the rain, twice.
 
 She read the first three on the first going and the last three on the second, and about nine people stood on the flags with their hoods down and heard both readings, and nobody interrupted her, and she did not apologise for any of it.
@@ -156,4 +158,4 @@ Nobody answered her, and about nine people did not look at her, and she went hom
 
 The form stood in the window of the press with the second foot line empty until the evening of the next day, and about nine people had read that line out loud in a street and nobody had filled it in.
 
-The fever was twenty-two weeks and six days old, and it did not stop for a form, and the bar of four hurdles, nine links and a plate was still up two miles out on the north side of a road, and a woman who could not say no was in a box on that side of it at the hour a cart came in, counting crossings on a slate that no office in four hundred miles has a book for.
+The fever was twenty-two weeks and six days old, and it did not stop for a form, and there was a form in a window of a press with his own name at the foot of the fifth page and a line under it with nothing in it, and six pence had been paid for the six pages out of a wage that has never been paid, and the office was four hundred miles off and had not been asked about any of it.

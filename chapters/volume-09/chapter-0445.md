@@ -16,7 +16,7 @@ Tam Ferrow was on the ledge at the same time with his book under his coat and hi
 
 “*Say how many,*” he said, to nobody in particular, because he says what he sees.
 
-“*Eleven with me,*” said a voice behind him. “*And I counted them twice, because it is dark and because I am fifty-eight. Two of them are children, and I would like that written down by somebody who was not in a hurry.*”
+“*Eleven with me,*” said a voice behind him. “*And I counted them twice, because it is dark and because I am fifty-eight. Two of the eleven are children, and I would like that written down by somebody who was not in a hurry.*”
 
 “*Say how many men on the road.*”
 
@@ -136,10 +136,10 @@ Ilyan Vester put his hand flat on the long table and said the only sentence he h
 
 He put his hand flat on the table and left it there.
 
-“*And there is a woman in this room who is named in a line in my own hand, written into a form on Friday, and a clerk asked her at a town four hundred miles off on the same day, and she got my name out of herself in front of about thirty people.*”
+“*And there is a woman in this room who is named in a line in my own hand, written into a form on Friday, and a clerk at a town four hundred miles off asked her on the Friday about a column with my name in it that is six weeks older than that form, and she got my name out of herself in front of about thirty people.*”
 
 “*Say the rest of that and do not stop in the middle of it,*” said Fenna Rusk.
 
 “*I have held four hundred miles of country since the fourth hour, and I have not held anything at all, and there is not one form in this county that a person in my position can be asked to fill in.*”
 
-The fever was twenty-three weeks and one day old. The bar of four hurdles and nine links and a plate was still up on the north side of the ninth marker at the change of the light, and the south side of that crossing still had no name in any document in the world, and about two hundred crossings went up it every day in the mud.
+The fever was twenty-three weeks and one day old, and an office four hundred miles off had passed to a man in this city at the fourth hour of the night with no vacancy in it, and the man it had passed to had not sent the nine men and had not known they were on that road, and the four hurdles and the nine links and the plate were still up on the north side of the ninth marker at the change of the light, and nobody had come back to take them down.

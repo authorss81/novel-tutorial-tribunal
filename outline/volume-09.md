@@ -65,6 +65,8 @@ Shelf day = `chapter − 125`. Week = `40 + shelf ÷ 7`, day of week = `shelf mo
 | **Kerwin Dace** | 38 | Of the seat. Prints the sheets. Left the city in `422` with a schedule, a return and no name in either |
 | **Tarin Keel** | 46 | Walking north after the office's man. Said the sentence against that wall |
 | **Sera Quill** | 28 | Four hundred miles off. Wrote a paper that is right about the work and wrong about the plan. Her family's claim of six years is unfiled |
+| **Wray Cope** | 34 | Person appointed in the register of disputes, of the seat, in this city since the fifth day of the eighty-second week. Keeps a book with a line for what he has asked and a line for what he has been told, and **no line for a person who is named and declines**, or for a declaration of continuity. Enters both in the ordinary way. **Added in the batch-0005 second repair: he speaks in 442, 446, 448 and 449 and the table had left him off** |
+| **Iven Marrow** | 61 | Regent of the Shelf nineteen years. Wrote the third line of the writ. Right about the roads and wrong about the remedy, and not a villain. Die-cut into the foot of his own exception. Lodged an instrument naming Ilyan and ceased at the fourth hour of the night, so the office passed with no vacancy in it. **Added in the batch-0005 second repair: about sixty lines across 441, 445, 446, 447, 448 and 449, and the table had left him off** |
 
 **Also standing and not to be used as a device:** Ansa Rell, 68, in a bed at the top of the city, not in any register. The boy of eight, better and cannot be discharged, never named aloud in a room. About a hundred and forty people dead, not partitioned, not summed. Three hundred names blank on a crooked bill, and the blank is the correct figure.
 

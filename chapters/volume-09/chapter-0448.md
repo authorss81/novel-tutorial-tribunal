@@ -76,7 +76,7 @@ The other three clauses were shorter, and Ferrow read them out at the same pace,
 
 “*Say the list out loud, and say the whole of it, because there is a man with a pencil and I would rather he wrote it than that I said it.*”
 
-“*The twelve shillings, unpaid, noted.*”
+“*Twelve shillings, which is four shillings the hundred on the plate for three hundred names, and the blank line on that bill is the correct figure and is not filled in, unpaid, noted.*”
 
 He went down the list in the same voice, and he did not raise it or lower it for any item in it.
 
@@ -84,7 +84,7 @@ He went down the list in the same voice, and he did not raise it or lower it for
 
 “*Say the rest of the list and do not stop in the middle of a sentence.*”
 
-“*Four shillings the hundred for a bill on a wall with three hundred names blank on it, and the blank line is the correct figure and is not filled in. One farthing a visit for a place kept at a crossing, payable to a person entered on a form with one line, and the visits are in a book and the crossings are on a slate, and a crossing is not a visit.*”
+“*One farthing a visit for a place kept at a crossing, payable to a person entered on a form with one line, and the visits are in a book and the crossings are on a slate, and a crossing is not a visit. And the porch in the valley of sixty is gone, and the corridor stands in it with a bell unpaid on it, and there is no line in any of these six clauses for a porch, or a corridor, or a bell.*”
 
 He put the sheet down.
 
@@ -104,7 +104,7 @@ Marrow had not asked to speak and he was not asked, and he stood up at about the
 
 He looked at the long table.
 
-“*And a man of about forty came down to the ninth marker in the night and would not take the chair, and I have lost, and I lost it to a refusal. And I have never in nineteen years been refused by a person, and I have never been refused by a piece of paper either.*”
+“*And a man of about thirty-five came down to the ninth marker in the night and would not take the chair, and I have lost, and I lost it to a refusal. And I have never in nineteen years been refused by a person, and I have never been refused by a piece of paper either.*”
 
 “*Then say the rest of that and say it whole,*” said Skell.
 
@@ -124,6 +124,8 @@ He looked at the long table.
 
 He sat down.
 
+It was Renn Calloway, and he had been at that wall since the second hour, and nobody in that room had said one word about it, and on Monday a man of sixty-one had stood in the middle of the floor and asked the room why a man who keeps that road does not come into rooms.
+
 “*Then say the rest of that,*” said Renn Calloway, from the wall.
 
 “*It is both,*” said Marrow. “*I have been saying so in four rooms for forty years and nobody in any of them has written it down, and it is the reason I came.*”
@@ -136,13 +138,17 @@ He sat down.
 
 Skell made him get it into one sentence, and it took most of an hour, and about four people in the room tried first and made it longer.
 
-Before he began, Ilyan said the one thing he had come into the room with, out loud, because he always says it out loud and because about thirty people had heard him say it on Monday in a different room and had not believed a word of it.
+Before he began, Ilyan said the one thing he had come into the room with, out loud, because he always says it out loud, and because he had tried to get it into one sentence on Monday in this same room and had got nine sentences out of it, and because about thirty people had heard every one of the nine and had gone home without settling any of them.
 
 “*I wanted the bar down,*” he said. “*I have wanted that bar down for five weeks and eleven days and I have said so in four rooms and in a market of two hundred people, and I have not got it down, and this morning it is still up, and the only reason it is still up is the third clause of a sheet about an office that is not held, written by a man who has never been to this city, and that is not a thing I can put in a sentence and call a result.*”
 
 “*Say the rest of it and do not stop half way through it,*” said Fenna Rusk.
 
-“*And the last three words of my sentence are the only part of it I wanted to write. A road is kept. I have wanted those three words since a man said them to me in a hut in the seventy-ninth week, and I have been writing a form about persons for two days, and I put them in because Skell told me not to put anything in that this room would want, and I broke that in the last three words and I want it entered that I broke it.*”
+“*And the last three words of my sentence are the only part of it I wanted to write. A road is kept. And I did not hear them from a man in a hut, and I have wanted them since the seventy-ninth week, and I have been carrying this country a story about a hut that happened in one, and Renn Calloway has said what he says and it is not these three words.*”
+
+He put his hand flat on the table.
+
+“*And I want it entered that I have been telling rooms a thing that never happened to me, because I could not say out loud that I wanted three words on my own. And I have been at that form about persons for six days, and I put those three words in because Skell told me not to put anything in that this room would want, and I broke that in the last three words, and I want it entered that I broke it.*”
 
 “*Say it in one sentence and say it as a fact,*” he said, “*and I do not want a settlement in it, and I do not want anything in it that anybody here would want, because a thing everybody in this room wants is a thing a room has wanted before and we have been here before.*”
 
@@ -166,7 +172,7 @@ He stopped there, and the room had it.
 
 He put his hand flat on the table.
 
-“*A road is kept is the only part of it that is true, and it is true by a man in a hut, a woman in a box, and a man with a barrow, and none of the three of them has been paid, and none of the three of them is in any of the six clauses.*”
+“*A road is kept is the only part of it that is true, and it is true by a man who is not of this city, a woman in a box, and a man with a barrow, and none of the three of them is in any of the six clauses, and none of the three of them has been paid.*”
 
 ---
 
@@ -190,4 +196,4 @@ His standing in this city was settled in the same room, at about the fifth hour,
 
 Nobody in that room said one word to him, and there is no form in this county that a man may be thanked on, and about nine people in that room had not said one word to him in five weeks.
 
-The fever was twenty-three weeks and four days old, and the office of Regent of the Shelf was not held, and the four hurdles, the nine links, the plate and the box were still on the north side of the ninth marker because nobody had the power to take them down. The south side of that crossing still had no name in any document anywhere, and about two hundred crossings a day went up four yards of mud in the weather.
+The fever was twenty-three weeks and four days old, and the office of Regent of the Shelf was not held, and the four hurdles, the nine links, the plate and the box were still on the north side of the ninth marker because nobody had the power to take them down, and a man of sixty-one had said in a room that the council will fill the office and that the roads will go back to an office, and there was not one line in six clauses that pays a person anything.

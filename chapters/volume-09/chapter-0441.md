@@ -84,11 +84,11 @@ Bevin Tarr was at the end of the long table. He had a die in his coat that he ha
 
 “*And the rest of it.*”
 
-“*I cut four thousand lines and I am paid for two dies. The office has the two, and the two are different heads. That is the third head I have cut. The other two were in the eighty-first week, and I cut it at a bench in a room over a yard that is not in this city, and nobody in this city asked me to.*”
+“*I cut four thousand lines and I am paid for two dies. The office has the two, and the two are different heads, and that is one of the two. I cut it in the eighty-first week at a bench in a room over a yard that is not in this city, and nobody in this city asked me to, and I am not going to say in a room with thirty people in it what the other one is.*”
 
 He put his hand flat on the table.
 
-“*And the name on that sheet is cut the same way as the name at the foot of the sealed sheet of the seventh day of the eighty-first week. The office has been cutting that name into brass for two years and has paid me for two dies.*”
+“*And the name on that sheet is cut with the same head as the name at the foot of the sealed sheet of the seventh day of the eighty-first week, and the office has been cutting that name into brass for two years, and it paid me for that head once and not again.*”
 
 “*Say the name,*” said Ilyan.
 

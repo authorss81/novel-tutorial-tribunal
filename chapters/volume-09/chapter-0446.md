@@ -30,6 +30,8 @@ Wray Cope had the book open before Marrow had his coat off, and he did not stand
 
 “*And the man who keeps that road has kept it for twenty-nine years, and does not come into this room, and I would like somebody to say why.*”
 
+“*Say the reason,*” said Skell. “*There is no form in this county that says a man may be sent for. That is the reason, and it has been the reason since the eighty-first week, and nobody in this city has sent a man to fetch him because there is nothing to send one with.*”
+
 “*Say the question you have actually got,*” said Ilyan.
 
 “*My question is short and I will put it once.*”
@@ -44,7 +46,7 @@ Marrow took a folded paper out of his coat and did not look at it.
 
 He put the paper away.
 
-“*And I have got a man in this city who keeps the Low Road for twenty-nine years, unpaid, at four in the morning. And he has said twice in this room that there is no form in this county that says a man may be sent for.*”
+“*And I have got a man in this city who keeps the Low Road for twenty-nine years, unpaid, at four in the morning. And he has said twice in a room in this city that there is no form in this county that says a man may be sent for.*”
 
 “*Say the half of that which is the other half,*” said Skell.
 
@@ -64,7 +66,7 @@ Nobody in that room had an answer to that, and about four people said so out lou
 
 ---
 
-Ilyan stood up with a bad leg and had the offer on the long table in front of him, five lines, six days old. He went through it in the order it was printed, in the terms it used, and about thirty people heard every word.
+Ilyan stood up with a bad leg and had the offer on the long table in front of him, five lines, and the first day of this week was six days ago. He went through it in the order it was printed, in the terms it used, and about thirty people heard every word.
 
 “*The first line says a person not of the Shelf may be named in an instrument of succession, and that the office does not require a person able to hold that office to be of a city upon a road that runs in it.*”
 
@@ -79,6 +81,12 @@ He put his hand flat on the table.
 “*Say the rest of that and do not stop half way through it.*”
 
 “*And I will not take four pounds a year out of an office while a woman in this room is owed two pounds and four shillings for eleven years of a roll and has refused it.*”
+
+“*Then say what you have just done,*” said Fenna Rusk, and she did not raise her voice. “*You have got my two pounds and four shillings and you have not asked me whether you may use them, and I have been in six rooms this week where a thing I said got used, and I have never once been asked first.*”
+
+“*And I have not asked you,*” he said.
+
+“*No. And you have still got it, and it is still true, and I am not going to take it back off you now that you have said it out loud in a room, and I would like that entered as a thing that happened and not as a thing we are going to be all right about.*”
 
 “*Say the third.*”
 
@@ -138,7 +146,7 @@ The room did what a room does. It took about four seconds, and then about nine p
 
 “*Out loud, and all of it.*” said Fenna Rusk, and nobody in the room could tell whether she was saying it to the nine people or to him.
 
-“*He has shut the crossing. There is a fever at twenty-three weeks in this city, and about a hundred and forty people are dead of it, and the nearest doctor any of us can name is four hundred miles off.*”
+“*He has shut the crossing. There is a fever at twenty-three weeks in this city, and the people dead of it are on no document any of us has ever seen, and the nearest doctor any of us can name is four hundred miles off.*”
 
 “*Say the rest of that and do not leave it in the middle,*” said Skell.
 

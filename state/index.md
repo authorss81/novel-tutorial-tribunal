@@ -13,17 +13,17 @@
 | File | Read it for |
 |---|---|
 | `state/current.md` | Live receipt: phase, volume, calendar + weekdays + the no-month rule, money with working, band payoff, panel, outstanding, hand-off |
-| `state/continuity.md` | Ground, road, **27 documents** (11 new in 441–450), clocks, what is/is-not true at 450 |
+| `state/continuity.md` | Ground, road, **27 documents** (8 new in 441–450), clocks, what is/is-not true at 450 |
 | `state/character-state.md` | Who changed in 441–450; unmoved carry |
 | `state/open-threads.md` | Running threads, held items, what the band did not do |
 | `state/chapter-summaries.md` | 441–450 paragraphs; 431–440, 421–430, 401–420 one-liners |
 | `state/batch-summary.md` | **Instruments, 441–450 outputs, and the only place measurements may appear** |
 
-**Top ≤ ~12,000 bytes; file ≤ 60,000. Replace the live block; do not prepend.** `state/continuity.md` is at 13,900 and `state/chapter-summaries.md` at 12,599 after the batch-0005 hand-off: the eight new documents and ten new chapter paragraphs are the overflow, **do not add to them, prune instead.**
+**Top ≤ ~12,000 bytes; file ≤ 60,000. Replace the live block; do not prepend.** Three files are over the soft cap after the batch-0005 second repair — `state/continuity.md` 15,697, `state/current.md` 14,368, `state/chapter-summaries.md` 14,043 — and the overflow is the eight new documents, the ten new chapter paragraphs and the second review's own findings. **Do not add to them; prune before Volume 10 writes a word.**
 
 ## Rules that cost the most
 
-1. **Measure; never inherit.** 2. **A `chapter:line` moves when a line moves.** 3. **Run the instrument on files, not lists.** 4. **Gates:** median ≤ 25, >60 ≤ 10%, para ≈ 120, `Nobody said anything` ≤ 5, Ilyan every chapter, ≤ 1 panel. 5. **Nobody relieved, forgiven, redeemed or thanked.** 6. **Right of refusal unrestored.** 7. **No final enemy.** 8. **Do not mark your prompt.** 9. **Measure the refrains too:** `do not stop in the middle of it` and the `“*Say` prompt count are per-band, and a band that doubles either will be failed on repetition. 10. **A title may not state a number the body contradicts.**
+1. **Measure; never inherit.** 2. **A `chapter:line` moves when a line moves.** 3. **Run the instrument on files, not lists.** 4. **Gates:** median ≤ 25, >60 ≤ 10%, para ≈ 120, `Nobody said anything` ≤ 5, Ilyan every chapter, ≤ 1 panel, **and a mistake that is his own in every chapter, including the refusal**. 5. **Nobody relieved, forgiven, redeemed or thanked.** 6. **Right of refusal unrestored.** 7. **No final enemy.** 8. **Do not mark your prompt.** 9. **Measure the refrains too:** `do not stop in the middle of it` and the `“*Say` prompt count are per-band, and a band that doubles either will be failed on repetition. **The batch-0005 second review failed the first pass for publishing 20 and 142 against an actual 13 and 144: a count that gates its own chapter has to be re-run after every edit, not once before the chapter is written.** 10. **A title may not state a number the body contradicts.**
 
 ## Volume and calendar
 
@@ -33,6 +33,6 @@
 
 - **Repair 401–420** (median 23/22% over-60, Ilyan 2/10). Same gates.
 - **Outline cards for Volume 10, chapters 451–500, *The House That Refused*.** No volume-10 outline file exists.
-- **`outline/volume-09.md:3` still reads that 441–450 are planned and unwritten**; correct it when the volume-10 planner runs, so the status line does not outlive the chapters.
+- **`outline/volume-09.md` §2 does not list Wray Cope or Iven Marrow** — done in the batch-0005 second repair; both carry speaking parts and both are in `state/character-state.md`.
 - **`state/phase-ledger.json` stale** (reads v1 ch 11–20; manuscript at v9 ch 450). Controller-owned; escalate.
 - **`405:43` wrong figure** (48d/364 ≈ half-farthing/day). One edit outside band; `412:55` right.

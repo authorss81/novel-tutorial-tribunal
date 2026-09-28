@@ -2,13 +2,13 @@
 
 Third day of the eighty-sixth week. Shelf day three hundred and twenty-four, his hundred and ninety-ninth morning, forty-nine days after the settlement, the fever twenty-three weeks and five days, the rail down thirty-nine days.
 
-The man of sixty-one went down the Low Road in the rain before the light, on foot, round the four hurdles on the south side through four yards of mud. There was nobody at the second hour who had been in the room the day before and who knew what an office was for, and about nine people in that room had noticed his going and had not said anything about it.
+The man of sixty-one went down the Low Road in the rain before the light, on foot, round the four hurdles on the south side through four yards of mud. There was no clerk of the office in the room at the second hour, and there never had been one, and about nine people in that room had watched him go and had not said one word about it.
 
 Then the tray came up at the second hour with two things on it. One of them was an envelope with no seal on it. The other was a sheet that had not come from the office of the Regent of the Shelf, and the man of the seat was at the end of the long table with his book open when it was put down, and had been there since the second hour, and nobody had sent for him.
 
 “*Say the envelope first and get it out of the way,*” said Fenna Rusk.
 
-“*One line,*” said Ferrow. “*That the office notes the answer of the person named in the second line, given at this city on the fifth day of the eighty-fifth week, and enters it in the book in which the form is kept, and does not press for it.*”
+“*One line,*” said Ferrow. “*That the office notes the answer of the person named beside the name of the person not of this city, given at this city on the fifth day of the eighty-fifth week, and enters it in the book in which the return is kept, and does not press for it.*”
 
 “*Read the rest of it out.*”
 
@@ -120,7 +120,7 @@ Bevin Tarr was in the room, and he had been in it four times in fifteen days, an
 
 “*Say the rest of that and do not stop in the middle of a sentence,*” said Skell.
 
-“*And whoever pressed it did it from a die, and a die has to be cut, and a person in this country has to be paid to cut one. And either this is a fourth mark I do not know about, or somebody in four hundred miles has cut a thing they have not paid me to cut, and I am the only man in this country who would know.*”
+“*And whoever pressed it did it from a die, and a die has to be cut, and a person in this country has to be paid to cut one. And either this is a third head I do not know about, or somebody in four hundred miles has cut a thing they have not paid me to cut, and I am the only man in this country who would know.*”
 
 He picked his die up and put it in his coat.
 
