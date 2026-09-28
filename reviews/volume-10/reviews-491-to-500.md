@@ -1,0 +1,73 @@
+# Reviews — Volume 10, Batch 0005, Chapters 491 to 500
+
+**The first review of this band ran and found real defects, and this file is the record of it and of the repair. It exists because the volume-close prompt requires an artifact in `reviews/volume-10/` and the previous three bands of this volume left logs without one. The prose is the canon; the findings below are the canon's history.**
+
+## 0. What the review found
+
+The review ran on commit `51bd190` with the repository's own published instrument. It found one critical defect, two false certifications, one stale certification sitting underneath a correct one, and a state file that contradicted itself on its own headline.
+
+| # | Finding | Class | Where it was |
+|---|---|---|---|
+| **R1** | **The band was a third of the length of the one before it.** 8,590 words against 28,951, with chapters between 654 and 1,299 words against 2,498–3,384. **Every length gate passed: median 11, over-60 0.0%, max paragraph 99.** | **Critical** | `chapters/volume-10/chapter-0491.md` … `chapter-0500.md` |
+| **R2** | **The chorus line was renamed, not reduced.** The certificate read *Say prompts 0 (0.0 per 10k; holds below 53.1)*. The literal string `“*Say` was indeed 0. `“*`-opening dialogue lines were 95 at 110.6 per 10k, against 444 and 153.4 in the band before, and 0 of that band's 92 `“*Go on` and 0 of its 75 `say the rest`. | **Critical** | `state/batch-summary.md` §0 |
+| **R3** | **The prose restated the cards instead of dramatising them.** `499:7` carried the card's Goal line as narration and five consecutive sentences of prompt prose; `500:7` was the prompt sentence verbatim, tense-shifted; `500:9` compressed a card into one line. Tense broke throughout, from a room in 499 that said *sat* and *is*. | Major | `499`, `500` |
+| **R4** | **`state/current.md` contradicted itself and contradicted `state/index.md`.** Only the headline line was changed. `current.md:17` still said *Not spent: the charter, the exit clause, the public review, the mutual-aid compact, and Sera's family record* — all five spent. `current.md:89` still pointed the next phase at Batch 0005. §0, §4, §5 and §7 were Batch 0004's. | Critical | `state/current.md` |
+| **R5** | **Two certifications in the new §0 were false.** *Ilyan named 10 of 10 with want, mistake, cost each* — `500` contained no instance of a mistake of his own. And the band's panel register ended empty, which is legal and is still a hole in a five-band volume. | Major | `state/batch-summary.md` §0 |
+| **R6** | **A stale certification published one paragraph below a correct one.** §1 certified 481–490 at 28,368 words, 1,165 sentences, 1.37% over-60, max paragraph 109, with a per-chapter row for `490` at 2,770/113/1.77/91. Re-running the published instrument on the committed files: **28,951 / 1,178 / 1.87% / 113, with `490` at 3,356 / 127 / 6.30% / 113.** Every other chapter matched to a word or two. | Major | `state/batch-summary.md` §1 |
+| **R7** | No artifact for this band existed in `reviews/volume-10/`, and the quality gate requires a reviewer. Two of the five prior reviews of this volume found real defects a self-review had logged as closed. | Minor | `reviews/volume-10/` |
+| **R8** | `NOVEL_SPEC.md` uncorrected at volume close, still reading *Volume 10 … is open. Chapters 451–460 are canon* and that the midpoint *is not spent*, when it landed at `476` and the volume closed at 500. | Minor | `NOVEL_SPEC.md` |
+| **R9** | `state/phase-ledger.json` stale — reads `currentPhase: batch-0002`, volume 1, chapters 11–20, while the manuscript is at volume 10 chapter 500. **Controller-owned and not edited, for the ninth phase running.** | Not ours | `state/phase-ledger.json` |
+
+### What held, and should not be re-litigated
+
+The calendar was checked against `outline/volume-10.md` §1 field by field and was clean: week and ordinal, morning `ch−250`, settlement `ch−400`, fever `ch−283`, `hall = ch−446`, days in the town, the one week boundary with both sides saying so, the bar and wheel two counts, and ten distinct closing objects. The arithmetic was right and `493` printed the working in the sentence: 1,074 at £35 16s 0d a year and £8 19s 0d a quarter, the levy of 3½d on eighty lots at 280d, £10 2s 4d a quarter on the true count, £9 18s 8d on the held roll, and 44 pence a quarter between them. Straight apostrophes 0; `arbiter`, `month`, `villain`, `upstairs` and `the volume` at 0; no month names; `Sorry` 0; the one `grateful` and the `thanked` figures were both negations. **Ilyan's own mistake and cost were genuinely his in nine of ten — and the tenth is what the repair had to build.**
+
+---
+
+## 1. What the repair did, and what it did not
+
+**The repair was a repair. It was not a restart.** No card was re-planned and no plot moved. The ten cards in `workspace/volume-10/batch-0005/PROMPT.md` stand.
+
+| Finding | What was done |
+|---|---|
+| **R1** | **All ten chapters rewritten to length as scenes: 26,373 words, every chapter between 2,342 and 3,534, against 481–490's 2,498–3,384.** What was added is physical: a woman selling bread coming out of the shop under the office where the roll was made and telling a man of thirty-one that he could stand on the step as long as he liked; a boy shutting the taproom under the room the charter was drawn up in, who worked out the answer to his own question and went down; a man of the county knocking a nail into a frame, writing three figures on the back of his hand, wiping them off and writing them again; a cup going over on oak; a shutter banged twice across a square; a broken chair carried up because there are not enough stools; a reed set square with the edge of a table before a man sits down at all. |
+| **R2** | **The stage direction was cut, not renamed.** About forty of the dialogue lines were converted to reported speech, and the remaining ones were given physical beats and varied attribution. The band is now **181 `“*` lines at 68.6 per 10k, against 444 at 153.4 in 481–490**, with `“*Say` at 8 (3.0 per 10k), `“*Go on` at 0, `say the rest` at 0, and the silence beat at 0 **swept across sixteen wordings rather than the three a gate names — three of the sixteen were found in the band on the first sweep and rewritten into what the room actually did.** **`state/batch-summary.md` §0 now prints four refrain figures instead of one, and `state/index.md` rule 1 requires all four of them from now on.** |
+| **R3** | The card prose is out of `499` and the prompt sentence is out of `500`. What replaced it is people: Sefa Lund putting her own name to a request and asking that it be written there that she had nothing to refuse with, and then reading the two lines back over a copyist's shoulder and checking the spelling of her own name with her finger on it while four people watched. **Tense is now one rule per sentence — states in the present, events in the past — and never two anchors in one sentence.** |
+| **R4** | **The whole top block of `state/current.md` was replaced, not its headline.** §0 through §8 are Batch 0005's. The line that said the charter and four other things were unspent is gone, and so is the line that pointed the next phase at Batch 0005. |
+| **R5** | **The chapter was repaired, not the certificate.** `500` now has a mistake of his own: on the hundredth day, in front of about nine people and about two hundred in the square, he asks for the second of the two names in the witness line to be read again more slowly, and a man of thirty-four with a bill of sale in his coat asks him why, and he says *because the hand matters*, which is true and is not the whole of it, and about four people in that room hear the place where the answer stops. **The band also now carries one System panel, at `497:41`–`497:49`, so the volume has one in each of its five bands.** |
+| **R6** | **§1 was re-measured and re-certified, and the paragraph that carried the figures that did not reproduce now carries the figures that do, with the discrepancy set out in full.** The old row and the new row are both printed so the difference can be seen. **`490` itself was not repaired** — it is at 6.30% over-sixty on its own against 0.83 to 2.34 for every other chapter in that band, the band still passes, and this phase wrote 491–500 — and it is named in `state/index.md` Owed. |
+| **R7** | This file. |
+| **R8** | `NOVEL_SPEC.md` is corrected at the volume close: status, chapter count at 500, the midpoint landed at `476`, the five bands spent, the five resolution lines delivered, the new question, the finding, and the certified measurements. |
+| **R9** | **Not edited.** `state/phase-ledger.json` is controller-owned. Escalated, as the previous eight phases did. |
+
+## 2. The measurements, taken last, after every edit
+
+**Published instrument, run on the files, not on a list.** Words are `[A-Za-z0-9£$’'-]+`; a sentence ends at `.`, `!`, `?` plus up to two of `”"*` and a space; the paragraph cap subtracts the title, `---` and the System lines.
+
+**491–500: 26,373 words · 1,180 sentences · median 18 (gate ≤ 25) · over-60 1.95% (gate ≤ 10%) · max paragraph 117 (gate ≈ 120) · max sentence 115.**
+
+Per chapter (words / sentences / over-60 / max paragraph / `“*`): 491 3534/159/1.26%/109/27 · 492 2465/115/0.87%/108/21 · 493 2550/103/0.97%/96/8 · 494 2673/120/2.50%/100/13 · 495 2522/113/1.77%/117/20 · 496 2487/119/3.36%/100/23 · 497 2507/112/1.79%/97/20 · 498 2342/105/2.86%/110/19 · 499 2606/118/2.54%/102/23 · 500 2687/116/1.72%/115/7. The row sums to the total, which is the check this file has got wrong before and which costs nothing.
+
+**Tics:** `do not make it a speech` 0 (gate under 25) · silence beat 0 across all three of its strings (gate under 10) · `Nobody said anything` 0 · `arbiter` 0 · `villain` 0 · `upstairs` 0 · `the volume` 0 · `in this volume` 0 · `month` 0 · straight ASCII apostrophes 0 · `the half of that which is the other half` 0 · `do not stop in the middle` 0 · `grateful` 1, a negation · `thanked` 7, all negations · `Sorry` 0.
+
+**Refrains, four of them, because the delivered band optimised the third and kept the other two:** `“*Say` **8** (3.1 per 10k) · `“*Go on` **0** · `say the rest` **0** · `“*` dialogue lines **181** (**68.6 per 10k**).
+
+**Seasons and month names:** `autumn` 4, all of it the roll for the autumn and the compact · `spring` 0 · `summer` 0 · `winter` 0 · the twelve month names 0. `may` returns 37 and every one is the modal verb; the sweep's standing false positive is still `471`'s title, *He Says She May Have Them When He Has Found Them*, and it is the only capitalised hit in the volume.
+
+**Panel:** one, at `497:41`–`497:49`. CLAIM, EVIDENCE in two paragraphs, BURDEN, CHOICE; five bold paragraphs, ten `**`, and every field closed on both sides.
+
+**Calendar, verified field by field against `outline/volume-10.md` §1 and not read off the chapter:** ten of ten date lines agree on the week and the ordinal, morning 241–250, days after the settlement 91–100, fever 29w 5d – 31w 0d, days since the division 45–54, days in the town 39–48. Ten of ten closing fevers agree with their own date lines. One week boundary crossed, all four sides saying so. Bar fifteenth to twenty-fourth, wheel fourteen slow at 491 and twenty-three at 500, the wheel one behind throughout.
+
+**Arithmetic, re-derived from the chapter:** 1,074 × 8d = 8,592d = £35 16s 0d · 1,074 × 2d = 2,148d = £8 19s 0d · 3½d × 80 = 280d = £1 3s 4d · 2,148d + 280d = 2,428d = £10 2s 4d, 268d over the £9 heel, and 268d is £1 2s 4d · 1,052 × 2d = 2,104d = £8 15s 4d, and 2,104d + 280d = 2,384d = £9 18s 8d, 224d over, and 224d is 18s 8d · 2,428d − 2,384d = 44d a quarter. **A board in this county has always counted the whole of a year's levy against the quarter it holds in its hand, and `493` now says so in a chapter. Do not divide the 280d by four; it would be tidier and `488` would be wrong.**
+
+---
+
+## 3. The three findings this band produced, for the log
+
+**FINDING TWELVE — a certified figure goes stale and a stale one looks exactly like a correct one.** §1's certification of 481–490 had been wrong since it was written and sat one paragraph below a fresh and correct §0, which is what made it look like the same kind of object. **A `chapter:line` moves when a line moves; a certified word count does not move when a chapter grows, and nothing in the workflow says so.** Re-measure every certification that describes a band before publishing a new one beside it. → `state/open-threads.md` §0.23
+
+**FINDING THIRTEEN — a band can pass every length gate because the scenes are not there.** The over-sixty gate is satisfied by short sentences, the median gate is satisfied by short sentences, and the paragraph gate is satisfied by short paragraphs. All three are satisfied by not writing. **This is finding ten from the other end: ten said a band can be arithmetically perfect and structurally unreadable, and thirteen says a band can be structurally compliant and arithmetically perfect and not be a band at all.** A band must be read for whether it is a band before its gates are read, and the cheapest test is its per-chapter word count against the band before it. → `state/open-threads.md` §0.24
+
+**FINDING FOURTEEN — optimise the number you were told to measure and you will pass your own gate and fail the book.** The delivered band had `“*Say` at 0 and the same chorus line with the words taken off it, and a state file printed the one figure that read 0 and called it the refrain. **Print every figure a gate could be read against, not the one that passes.** And a list of strings is not a reader: at the end of every band, read three consecutive scenes aloud and ask whether a person in the room would actually do that. → `state/open-threads.md` §0.25
+
+**AND ONE DEFECT THE REVIEW COULD NOT SEE, FOUND WHILE REPAIRING:** the EVIDENCE field of the panel at `486:147` opens `**` and does not close it before the blank line, so it renders as a literal pair of asterisks instead of as bold, and the `**` count in `state/batch-summary.md` read 9 for that band and was read as five bold paragraphs. A `**` count cannot see an unclosed marker. `497` was written with every field closed. `486` is owed. → `state/open-threads.md` §0.26
