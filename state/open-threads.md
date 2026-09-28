@@ -34,7 +34,7 @@
 ### 3. WHAT THE VOLUME EXPLICITLY DID NOT DO, AT TWELVE
 
 1. It did not restore the right of refusal, and it did not print the four words at the head of the plank in the March.
-2. It did not name anybody a villain and it did not say anybody hid anything; `conspirac*`, `corrupt` and `cover` are at zero over fifty chapters.
+2. It did not name anybody a villain and it did not say anybody hid anything; `conspirac*` and `corrupt` are at zero over fifty chapters, and `cover` is at zero over fifty chapters as a word under `\bcover\w*\b` and at two as a bare substring, `358:103` *a discovery* and `367:27` *discovered*, both inside the letters of *discover*.
 3. It did not answer, sum, or explain the column of a hundred and forty-one figures, and it did not partition or total the hundred and forty.
 4. It did not name a position a relic, a treasure, a stone, an object to be recovered, or a thing to be found, and it did not write a vault, a cave, a ruin, a temple, or a battlefield.
 5. It did not add a panel beyond the one at `360`, and it did not print a weekday or a month-name; the three-letter weekday scan's twenty-eight hits are the verb *sat* and the noun *sun*.
