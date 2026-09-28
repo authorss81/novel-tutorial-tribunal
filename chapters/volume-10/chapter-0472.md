@@ -122,7 +122,7 @@ It was true. A man of fifty-four had said them on the nineteenth day after the d
 
 And it was the largest lie he had told in three weeks, and he told it in a room over a taproom in front of about thirty people. He understood about twenty-five days later that he had not told it to protect anybody. He told it because the answer *yes* would have made the three sentences his, and a position that belongs to one man can be argued with, and a position that belongs to a market cannot be argued with at all.
 
-He had made it legible. He had said *a corrected roll is a corrected constituency* in a square in nine seconds on the Sunday. He had told the row in a taproom that the sale said the land and the water and that nobody had ever written a line saying it did not. He had stood in a room over a saddler’s shop four days ago and listened to a board refuse nine pounds in the words of the request that caused it.
+He had made it legible. He had said *a corrected roll is a corrected constituency* in a square in nine seconds on the Sunday. He had told the row in a taproom that the sale said the land and the water and that nobody had ever written a line saying it did not. He had stood in a room over a saddler’s shop two days ago and listened to a board refuse nine pounds in the words of the request that caused it.
 
 Nobody had asked him for any of it. Every part of it was on a table, and he was the only man in that room that nobody could be sent for, and the position that twenty people on a stair had just found was going to be used against the only people in the room who had ever lost anything.
 

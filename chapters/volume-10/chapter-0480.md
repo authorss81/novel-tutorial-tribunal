@@ -96,7 +96,7 @@ The right of refusal was taken out of the law about a hundred and forty years ag
 
 The out-of-roll book was in a drawer in a house in this town. It has never been written in in this town and it is not going to be written in this year. The nineteen houses at the Fen went off the roll on Wednesday afternoon in about four minutes in a form with a day on it, and nobody was asked to do that either.
 
-The bar at the head of the sluice is four feet long and takes two people and about an hour. It was not turned at the sixth hour on the Thursday morning, or at the twelfth hour on the Thursday, or at either hour on the Friday, or at either hour on the Saturday. The wheel at the mill had been slow for three days, and the man who has had the mill four years has a note in his own book against the name of the mill, and the note says one word.
+The bar at the head of the sluice is four feet long and takes two people and about an hour. It was not turned at the sixth hour on the Thursday morning, or at the twelfth hour on the Thursday, or at either hour on the Friday, or at either hour on the Saturday, and the sixth hour on this Sunday morning is gone past the same way. The wheel at the mill had been slow for three days, and the man who has had the mill four years has a note in his own book against the name of the mill, and the note says one word.
 
 The north heel of that frame is three-eighths of an inch down in nine years, and a season instead of two years. The fact is on the wrong side of a leaf in a press any person of this town may read, and it is also in a book twenty-two miles off at Kerby.
 
