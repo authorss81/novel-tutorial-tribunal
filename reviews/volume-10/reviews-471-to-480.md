@@ -1,0 +1,41 @@
+# Review record — Volume 10, Chapters 471–480
+
+**Moved out of `state/batch-summary.md` at the end of Batch 0003, which passed 60,000 bytes. The measurements are `state/batch-summary.md` §1 and the findings are also summarised in `state/current.md` §0 and §4. This is a SELF-review: the agent that wrote the band reviewed it, and the standing weakness of that arrangement is escalated in `state/index.md` and is not fixed here. The two external reviews of the two bands before are in `reviews-451-to-470.md` in this directory.**
+
+## 7. THE SELF-REVIEW OF 471–480, AND THE TWO THINGS IT FOUND THAT WERE NOT IN THE CHAPTERS
+
+**This is a self-review: the agent that wrote the batch reviewed it, and §6 of this file is the record of what an external review of the previous band found that a self-review of that band had logged as closed and not made. That is the standing weakness of the arrangement and it is escalated in `state/index.md`, not fixed here. What follows is therefore a list of what this pass checked, and of the two things it found that were not prose defects.**
+
+### Checked and clean, and not to be re-derived
+
+**The placement rule.** The midpoint is at `476`, which is in the second half of the band, and the machinery that made it possible is at `475`, the first day of the ninetieth week. **It did not land in 471–474 and nothing in 471–474 spends it: 471 is a day with no agenda, 472 is a market and a question nobody can answer, 473 is a kitchen with no document in it, and 474 is a steward refusing to call the House and the Book going back up the beam.** Verified by reading all four.
+
+**Nobody is a villain and nobody was made one.** The nine men of the board were right about the cause; four of them said out loud in the room that they wished it were not so and their names are in the minute; the thirty-one ratepayers were right; the man of thirty-four who paid two pounds for a lot was owed a hearing; the man of sixty-one was in the water himself; the steward was right three times; the miller was right about a hundred and seventy households; the copyist was right. **No relief, no forgiveness, no redemption and no thanks in any of the ten chapters, and the words are counted.**
+
+**The plant is not paid.** The right of refusal is unrestored, the ninth clause is given to nobody both times it is read out of the book, the four letters and a stroke are not read and the band does not say whether they can be, and the band does not say the words *refused* of the fenrow in the sense of expulsion in any chapter before `476` and does in that one because it happened.
+
+**No new final enemy.** The office at Kerby is named twice more and is named as powerless both times, in a square, in about nine sentences. **Nothing was built against the Book and the nail in the shed is a point about instruments, not a substitute for the covenant.**
+
+**The House does not scale.** The false version — the fen is nineteen more seats — is in about forty mouths in this town and is never corrected by a narrator. `475` and `479` both say the number of seats has not changed and the number of doors has.
+
+**Crowds, and the numbers hold.** 471 about nine in the square, about eleven round the awning, about thirty from a doorway · 472 about two thousand in the market and about thirty in a room and on a stair · 473 about eleven in a kitchen out of about twenty-three people in the row · 474 about nine in an office and about nine in a stone room · 475 about thirty in a stone room · 476 about thirty in a room and on a stair, about nine of them from the Fen · 477 about eleven at the sluice and about thirty in a square · 478 about nine in a shop · 479 about two hundred in a square, made of about nine plus about four plus about forty plus about a hundred and forty · 480 about nine in a room and one in a doorway. **No crowd in this band is uncounted and no two chapters use a crowd number for the same crowd.**
+
+**A document in every chapter that is read in a scene, and the scene named.** The ten things (`471`, read in a square, and again in a room in `480`), the bill of sale (`472`, read at a table), the four told accounts (`473`, spoken in a kitchen and checked), the Book and clause nine (`474`, read in a stone room, and again out of a copyist's head in `476`), the second correction (`475`, read in a stone room), the cause and the minute (`476`, read at the end of a table, and the third correction as a form), the round-hand letter and the second sheet (`477`, four lines in a square), the marks in the second book (`478`, described and argued), the eleven lines and the tin on a nail (`479`, read in a square), the ninth line (`480`, read in a room). **The form of a document is never on its own: every figure the band moves is a figure somebody says out loud in a room to other people.**
+
+### Found and repaired, in the chapters
+
+1. **A garbled sentence in `476`** — a man of fifty-four interrupted mid-clause on a year-count that no chapter supports, left in a form reading *he had been in the water in nineteen sixty-whatever—*. **Rewritten**, and the interruption re-founded: Ilyan stops him for saying *nine years ago* and makes him say *the ninth year before the division*, because a form has to be checkable. That is hazard 14 turned into a beat instead of a prohibition.
+2. **An unattributed speech in `476`.** A paragraph opened *And then he said the sentence* with no name, in the chapter that turns the band. **Named, and the reason given in the same sentence**: he said a boy of twenty-two's sentence in a room of thirty people because the boy cannot be asked about it afterwards.
+3. **A `**` pair outside the panel**, in `476`, inside a speech. The rule is that `**` across a band lives in the panel. **Cut.**
+4. **`villain` at 1 and `spring` at 1 in `480`** — *nobody in Halloway is a villain* is the volume outline's sentence and not the prose's, and *the stools were put away in the spring* is a season a town that keeps no month and no year does not use for a date. **Both cut**, and the second is now *in the warm part of the year*, which also makes the point that the House sits in this building in the winter.
+5. **A literal `\n` written into `480`** by a repair. **Removed.** This is the eighth logged-and-unmade repair in this repository's history in one form or another and it is the reason this section exists.
+
+### Found and repaired, NOT in the chapters
+
+6. **THE 1,073 DEFECT, set out in full in §2.** Four state files, three bands, and one of this file's own certified arithmetic lines. **This is the seventh logged-and-unmade repair in the repository's record and the first one that was wrong in the place a reader is told to trust most.**
+
+### Refused, and why
+
+7. **The card's *nine hundred and forty-one households* was NOT reproduced and is not a chapter defect.** It is a card error, the figure is 1,041 plus the miller's nine hundred names, and it is the same false total the first review of 451–460 cut out of `470`. The chapter says what the roll is. **Recorded in `state/current.md` §7 so that the refusal reads as a refusal and not as an omission.**
+
+8. **The two places the band reads a little like the previous band are left alone, deliberately.** `473` and `480` both open an inventory in short paragraphs and both close on one. That is the shape of a book that has been doing this for three bands and it is not a tic that can be cut without cutting the method. **The instrument does not measure it and the reviewer of the next band should look at it twice before cutting it.**
