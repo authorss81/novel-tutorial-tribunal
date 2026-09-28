@@ -22,11 +22,11 @@ Five days went. Nobody put her right in a year, and about four people in that to
 
 ---
 
-He had been carrying it since the Sunday, which was the sixth day of the ninety-fourth week, in a vestry room nine feet by seven with the door shut on purpose for the first time in nineteen years.
+He had been carrying it since the Sunday, which was the sixth day of the ninety-fourth week and the ninth day back from this one, in a vestry room nine feet by seven with the door shut on purpose for the first time in nineteen years.
 
 A person who is written back into a record is owed the thing the record carries. A person who is written back into a record is also owed the burden of the record, and the second of those is the one nobody is designing for.
 
-He had read that standing against a wall a foot above the level of a sill. He had understood the whole of it in about nine seconds. He had not said a word of it out loud in five days. He had said it to himself in a bed, on a stone bench, on a wall, and at a pump.
+He had read that standing against a wall a foot above the level of a sill. He had understood the whole of it in about nine seconds. He had not said a word of it out loud in the nine days since that Sunday. He had said it to himself in a bed, on a stone bench, on a wall, and at a pump.
 
 At about the fourth hour on the Tuesday Ilyan Vester was in the porch, and about nine people were in it, and he got as far as the first four words of it.
 
@@ -82,7 +82,7 @@ He used the nine seconds on not saying it, and he has done that twice now, in tw
 
 He had a finding. He had a thing he was good at. Somebody else had spent eleven seconds in front of about nine people, and there was nothing left for him in that porch except to agree, and agreeing loudly would have been the fourth time in a hundred and seventeen days that he had made a thing about himself in a room where a person was already saying it.
 
-“*It is right,*” he said. “*It has been right since the Sunday and I did not say it in five days, and that is not a virtue and I am not going to stand on this step and be praised for it.*”
+“*It is right,*” he said. “*It has been right since the Sunday and I did not say it in the nine days since that Sunday, and that is not a virtue and I am not going to stand on this step and be praised for it.*”
 
 He stopped there, and about nine people in that porch waited, and he had to put the second half out because he had promised himself in about ninety-four rooms that he would not leave half a sentence standing.
 
@@ -102,4 +102,4 @@ What was still not done at about the sixth hour of that Tuesday was the only thi
 
 *Neither of the two people this finding is about has been told of it.*
 
-The fever was thirty-three weeks and three days old. Three words went in at the back of a book four hundred and eleven years old on the seventeenth day of a count that is not the counting of this town, and the three words were that nothing is carried, and a woman of sixty-one said them in about eleven seconds in a porch, and a man of thirty-one had had them for five days and did not say them, and nobody was thanked for either.
+The fever was thirty-three weeks and three days old. Three words went in at the back of a book four hundred and eleven years old on the seventeenth day of a count that is not the counting of this town, and the three words were that nothing is carried, and a woman of sixty-one said them in about eleven seconds in a porch, and a man of thirty-one had had them for nine days and did not say them, and nobody was thanked for either.

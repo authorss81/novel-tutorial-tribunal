@@ -82,7 +82,7 @@ It took about nine minutes to be refused, and about nine people refused him, and
 
 “*The other answer is that a thing a body did not ask for is not carried by anybody, and that goes for a man from another county exactly as much as it goes for a woman from a barn at Kiln Row, and I have been in that room for two hours listening to a woman of sixty-one make an argument about exactly that and I will not be the second person in three weeks to hear the same thing.*”
 
-About nine people were in that porch by then, and about nine of them had said a version of it, and about four had said his name, and nobody had thanked anybody. The man of thirty-one understood it on the step in about four seconds, which is the difference between this and the thirty-eighth day of another division in another county, and it did him no good whatever. About four people in that porch saw the understanding happen. About four saw a man put his hands in his pockets.
+About nine people were in that porch by then, and about nine of them had said a version of it, and about four had said his name, and nobody had thanked anybody. The man of thirty-one understood it on the step in about four seconds, which is the difference between this and the thirty-eighth day of another division in another county, and it did him no good whatever. About four people in that porch saw the understanding happen, and about two of those four saw a man put his hands in his pockets.
 
 **ASKED: whether a person not of this town may carry a thing for a body of about sixty households that did not ask him to carry it.**
 

@@ -1,10 +1,10 @@
-# Chapter 516: The Seventh And Last Day Of The Ninety-Fifth Week, And The Morrow Is The First Of The Ninety-Sixth, And A Monday Which Is The Last Day The Ground In That County Will Carry A Barrow, And There Are Four Days Of The Work Left And Four Days To Do Them In, And The Four Days Go To The Top Of A Section And Leave The Bottom Of It With A Gap About Nine Feet Long And A Boundary Stone In A Shelf Inside It
+# Chapter 516: The Seventh And Last Day Of The Ninety-Fifth Week, And The Morrow Is The First Of The Ninety-Sixth, And A Monday Which Is The Last Day The Ground In That County Will Carry A Barrow, And There Are Three Days Of The Work Left And Three Days To Do Them In, And The Three Days Go To The Top Of A Section And Leave The Bottom Of It With A Gap About Nine Feet Long And A Boundary Stone In A Shelf Inside It
 
 Seventh and last day of the ninety-fifth week, and the morrow is the first day of the ninety-sixth. His two hundred and sixty-sixth morning. One hundred and sixteen days after the settlement. The fever thirty-three weeks and two days. Seventy days since the division. Sixteen days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The ground is the only weather there is in this book. It is a day-count and not a week-count, and nobody in that lane converts it, and the whole of the reason it is in here is that it does not convert.
 
-The making-up of a section of the common wall is sixteen days of work. There are twenty days in which the ground will take a barrow, and those twenty days were counted out from the fourth day of the ninety-third week, which is a Friday, and the crew has been on it since, and today is the seventeenth of the twenty.
+The making-up of a section of the common wall is sixteen days of work. There are twenty days in which the ground will take a barrow, and those twenty days were counted out from the fifth day of the ninety-third week, which is a Saturday, and the crew has been on it since, and today is the seventeenth of the twenty.
 
 After the twenty days the chalk takes the foot and goes soft. A barrow is not a barrow then, it is four men lifting, and there is no point in a man of fifty pretending otherwise for nine hours.
 
@@ -74,7 +74,7 @@ He wanted the wall finished. That was the whole of the wanting. It was a small w
 
 He went down and stood in the gap with his back to the lane and his hands out at his sides, in the way a man stands in a doorway.
 
-“*Then I will stand in it,*” he said. “*Until somebody comes. There are three days of weather left, and I have a bed and I have a penny, and I can stand in a nine-foot gap in a wall on a Monday afternoon and be two feet shorter than the coping on either side of me. About two thousand four hundred people in this town could see me doing it from a street.*”
+“*Then I will stand in it,*” he said. “*Until somebody comes. There are three days of weather left, and I have a bed, and I have one pound and threepence, which is eighty-one days at three pence a day, and I can stand in a nine-foot gap in a wall on a Monday afternoon and be two feet shorter than the coping on either side of me. About two thousand four hundred people in this town could see me doing it from a street.*”
 
 It took about four seconds for about nine men to tell him, and they told him all at once, and none of them was the man of forty-four.
 

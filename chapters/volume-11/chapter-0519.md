@@ -28,7 +28,7 @@ He stopped there. What was behind that was about a dog and about four seconds, a
 
 Then the recordwright said it, and she said it in pence, because she says everything in pence now and it is about a fortnight old as a habit.
 
-“*On the sixty-first day after the division, which is a Saturday, in the second column of a book four hundred and eleven years old, in the same hand as everything else in it, there is a section of the common wall made up in a fortnight.*” She put her hand out flat, the way she does for a figure. “*There is a coping on the top of it a foot wide, set on edge, and the sightline is good. At the bottom of it there is a gap of about nine feet, because the four days went to the top. There is no column in that book for a gap.*”
+“*On the sixty-first day after the division, which is a Saturday, in the second column of a book four hundred and eleven years old, in the same hand as everything else in it, there is a section of the common wall made up in a fortnight.*” She put her hand out flat, the way she does for a figure. “*There is a coping on the top of it a foot wide, set on edge, and the sightline is good. At the bottom of it there is a gap of about nine feet, because the three days went to the top. There is no column in that book for a gap.*”
 
 She looked at the square and not at anybody in it.
 
