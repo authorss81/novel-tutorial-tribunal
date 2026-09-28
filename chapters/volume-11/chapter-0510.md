@@ -86,7 +86,7 @@ She set the pen down.
 
 And then she did the other thing, and it was at the foot of the leaf and not on the entry, and it was in her hand and in a different ink.
 
-Four sentences, in a different ink, and the longest of them is about thirty words. They say that the name at the head of the space was entered at the asking of a person not of this town whose record is not findable; that he is entered at the back of that book on an unruled leaf with no column upon it, and that he came into this town on a cart road that ends at the Four Gates; that no body in this county can be asked anything about him; and that there is no form in the county of Aldwick that says he may be asked and none that says he may not.
+Four sentences, and the longest of them is about thirty words. They say that the name at the head of the space was entered at the asking of a person not of this town whose record is not findable. He is entered at the back of that book on an unruled leaf with no column upon it. He came into this town on a cart road that ends at the Four Gates, and no body in this county can be asked anything about him. And there is no form in the county of Aldwick that says he may be asked and none that says he may not.
 
 She read them out in the porch standing, in the voice she uses for minutes, and about nine people in that porch heard the whole of them. About nine in the square heard a woman reading something out of a doorway on a Tuesday morning and not one word of it.
 
