@@ -50,7 +50,7 @@ Shelf day = `chapter − 125`. Week = `40 + shelf ÷ 7`, day of week = `shelf mo
 | **Ilyan Vester** | mid-thirties | Not of this place, cannot be sent for, cannot be struck out. Bad leg, bad ear, cracked steel pen, cold bitter tea. Co-witness from `427` |
 | **Renn Calloway** | 58 | Keeps the Low Road 29 years, unpaid, bad leg, eleven chalk strokes and no figures. Says what he sees and not what it means |
 | **Hessa Marl** | 28 | Does nine doors a day; 441 doors in 49 days on a slate. Cannot say no. Entered as removed without applying. Went out past the ninth marker and came back |
-| **Fenna Rusk** | 44 | Keeps a roll of doors, 11 years, 4 shillings a year, unpaid: 4,004 days, £4 4s. Now a thing in a column and cannot be struck out |
+| **Fenna Rusk** | 44 | Keeps a roll of doors, 11 years, 4 shillings a year, unpaid: 4,004 days, £2 4s. Now a thing in a column and cannot be struck out |
 | **Darrin Skell** | 52 | Counts halls and doors, 20 years, 900 doors in the ward, four figures about halls he does not use. Did the division out loud and did not enjoy it |
 | **Tam Ferrow** | 29 | Ground-floor copyist, 3 years. Copies fair, reads out, pays the cart out of a wage he has never had. Put his own name on the first line |
 | **Sef** | 16 | At a door at that hour since the eighth morning of the fever. The only person who can put a person of a place into a book by saying a thing out loud. **Named out loud in `428` and not to be written down** |

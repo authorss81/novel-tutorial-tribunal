@@ -6,7 +6,7 @@ The sheet came down in the tray at the second hour and it had wax on it, and the
 
 “*Say the stamp first,*” said Skell.
 
-Ferrow had the sheet up at the long table in the public room at the foot of the hill, standing, because he reads things out standing up, and about thirty people were in the room because it is the sixth day of a market week and the rain has kept them in.
+Ferrow had the sheet up at the long table in the public room at the foot of the hill, standing, because he reads things out standing up, and about thirty people were in the room because it was the day after the market and the rain had kept them in.
 
 “*The stamp is not a seal,*” he said. “*It is ink on the face of the sheet, pressed with a die, and it says the name of a town. Cray Crossing. And under the town there is a day of the month on it, and the day of the month is one day after the day this city sent the thing up the hill.*”
 
@@ -94,7 +94,7 @@ Skell wrote it. He wrote it in a book with a pencil in it, standing up, in about
 
 ---
 
-The envelope went up the hill on the second day of the week and it came back down on the fourth, and the office had written four lines on the back of it in the hand it uses for everything.
+The four lines are on the back of the stamped sheet. They are in the hand the office uses for everything, and they are about the man whose name is in the fifth row, and this city did not ask for them and has not sent this office anything since Tuesday.
 
 “*Say them,*” said Skell.
 
@@ -104,7 +104,7 @@ The envelope went up the hill on the second day of the week and it came back dow
 
 “*Two. The office notes that a person who goes out of a city upon a road the office keeps, at their own charge, is not conveyed, and is not paid the year's wage at the second row's rate, and is not entered as a person removed.*”
 
-“*Then say the third one, because that is the one I have been waiting two days for.*”
+“*Then say the third one, because that is the one I wanted and did not ask for.*”
 
 “*Three. The office has entered the name of that person in the fifth row, and the entry is made on the office's own motion and from the office's own knowledge of a road, and no paper concerning the person was required from this city, and none was sent.*”
 
@@ -132,7 +132,7 @@ Skell was standing very still.
 
 “*Say that sentence,*” Ilyan said.
 
-“*I have it in a book,*” said Ferrow, “*because a clerk of twenty-nine read it out in this room on the fifth day of the eightieth week and I wrote it, and the clerk is the man who is in the return in one column, and I did not know that when I wrote it.*”
+“*I have it in a book,*” said Ferrow, “*because a clerk of twenty-nine said it out loud in this room on the fifth day of the eighty-second week and I wrote it down, and the clerk is the man who is in the return in one column, and I did not know that when I wrote it.*”
 
 “*Read it,*” said Skell.
 

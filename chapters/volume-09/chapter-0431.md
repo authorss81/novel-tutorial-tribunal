@@ -56,11 +56,11 @@ Not one of the nine of them said anything, and it went on for about a second and
 
 “*You can write that down,*” said Dray, “*if you have a hand that is any use and I would rather you did not put my name under it. I am a man on a wheel. I have been a man on a wheel for nineteen years and the only thing I am paid on is a mile.*”
 
-“*And say the other half of this morning,*” said Ilyan, “*which is the half nobody has said yet. This city has been saying for three weeks that it will come back in about three weeks, and a woman of twenty-eight said that out loud in a yard on the second day of this month in front of about nine of us, and the oilcloth is on your tail-board at the second hour on the sixth day of the week.*”
+“*And say the other half of this morning,*” said Ilyan, “*which is the half nobody has said yet. This city has been saying since the first day of this week that it will come back in about three weeks, and a woman of twenty-eight said it out loud in a yard two days ago in front of about nine of us, and the oilcloth is on your tail-board at the second hour on the sixth day of the week.*”
 
 “*It came back in the ordinary way,*” said Dray.
 
-“*Say the ordinary way again.*
+“*Say the ordinary way again.*”
 
 “*It came back the way it went. A cart, on a road, with a man on the wheel who is paid by whoever sent it, and nobody sent for this one except a man of twenty-nine who put it in a coat.*” He got his hand off the tail-board. “*I do not know what the office expected it to do for three weeks, and I have been in this country forty years, and I am going to say one thing about it and then I am not going to say anything else about it.*”
 
@@ -184,8 +184,6 @@ The cold had got into his right ear again on the flat and had been there since t
 
 He had wanted a piece of paper from the seat saying the roll had not been opened, and there was not going to be one, and he was going to spend the next week asking for it in rooms, and about thirty people were now going to hear him ask.
 
-He wrote four lines in the margin of his own page in the corridor, standing up, with the cracked steel pen, and the pen had gone through the paper on the second line and he had to turn the sheet over and go on writing on the back of it.
-
-The four lines were what had happened. The knot was not the knot. The fold was not her fold. Nobody in the room could see it, including the woman who had folded it. And the last of the four lines was a question he had no answer to and wrote down anyway, because he had noticed over four weeks that a question written at the end of a paragraph is the only kind anybody carries out of a room.
+He wrote in the corridor, standing up, with the cracked steel pen, and the pen went through the paper on the second line and he had to turn the sheet over and go on writing on the back of it. The knot was not the knot. The fold was not her fold. Nobody in that room could see it, including the woman who had folded it. And he finished with a question he had no answer to and wrote it down anyway, because it was the only thing on the sheet he could carry out of a room.
 
 Then he went down the corridor to the yard at the low end of Tallowgate and looked at the rail, which was still against the north wall with its own sheet nailed to it and the line at the top of that sheet empty, and then he went east to look at a road, and the fever was twenty-one weeks and one day old and it did not stop for a roll coming home.

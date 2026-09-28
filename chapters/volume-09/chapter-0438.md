@@ -18,7 +18,7 @@ A name in a sentence is a name in a book. A man who cannot be sent for is the on
 
 The third line was a figure.
 
-He had had it since the second day of the eighty-second week, in a row of about twenty people, with the answer in his mouth and the taste of it staying with him all afternoon. Three weeks of boards, from a man who kept them and did not want them, and a division, and a good divisor, better than a guess, and it would have filled the office's count form in ten seconds and it would have been in four books by Friday and nobody in this city would ever have found out which part of it had come from a stranger with a pen.
+He had had it since the fourth day of the eighty-second week, in a row of about twenty people, with the answer in his mouth and the taste of it staying with him all afternoon. Three weeks of boards, from a man who kept them and did not want them, and a division, and a good divisor, better than a guess, and it would have filled the office's count form in ten seconds and it would have been in four books by Friday and nobody in this city would ever have found out which part of it had come from a stranger with a pen.
 
 He wrote it in the margin of his own return on the back of a sheet of paper that nobody had sent for.
 
@@ -52,9 +52,9 @@ For a second nothing came, and then about nine people said something at once.
 
 “*There is a number on it,*” Ilyan said, “*and I am not going to say what the number is, and I want that to be a thing that is said in this room before anything else is said, because in four weeks in this city I have watched a figure go out of a mouth and into a book, and I have done it as well as anybody, and I am not going to do it again in a room.*”
 
-“*Say the rest of it,*” said Fenna Rusk, from the second chair along, where she had been sitting since the second hour with a bare table behind her.
+“*Go on,*” said Fenna Rusk, from the end of the long table, where she had been sitting since the second hour with a bare table behind her.
 
-“*I have had the number since the second day of the eighty-second week,*” he said. “*I worked it out of three weeks of boards from a man who kept them and did not want them, and it is a good one, and it is better than a guess, and it would fill the office's count form in ten seconds. And I have not said it out loud in this room once in five weeks and three days, and there are about thirty people in here who have just found out that there is one.*”
+“*I have had the number since the fourth day of the eighty-second week,*” he said. “*I worked it out of three weeks of boards from a man who kept them and did not want them, and it is a good one, and it is better than a guess, and it would fill the office's count form in ten seconds. And I have not said it out loud in this room once in five weeks and three days, and there are about thirty people in here who have just found out that there is one.*”
 
 The room changed.
 
@@ -106,7 +106,7 @@ Nobody in that room had an answer and about nine people said so out loud, and Sk
 
 The sheet was still in his coat at the last of the light.
 
-“*Say the last of it,*” said Skell, “*because there is a man with a pencil in this room and about nine of us, and I have said it every time this month and I am not going to stop now.*”
+“*Say the last of it,*” said Skell, “*because I have said it every time this month and I am not going to stop now, and the clerk is a man who has been in this room every day and I would like it written down by somebody who has heard the rest of them.*”
 
 Ferrow had the pencil out and had not looked down at it.
 
@@ -150,4 +150,4 @@ He waited.
 
 “*So the number is the only thing in this city that might have been any use to anybody, and you have taken it out of the room, and I cannot work out what a person does with a number they have made everybody want.*”
 
-He went home, and there was a bad road to walk and he walked it, and about thirty people stood in a room and did not understand a man with a leg and a sheet in his coat, and one of them said *sixteenth* under her breath, and another said *two*, and neither of them said it twice.
+He went home, and there was a bad road to walk and he walked it, and about thirty people stood in a room and did not understand a man with a leg and a sheet in his coat, and the fever was twenty-two weeks and one day old and it did not stop for a sheet in a coat.

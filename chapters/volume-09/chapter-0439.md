@@ -40,7 +40,7 @@ The working took about a minute and Skell did it standing up with his hands flat
 
 “*And the working on the line.*”
 
-“*Eleven names and eleven pence and one name to a penny, and that is correct, and I did it in about four minutes on the second day of this month with a pencil in a room and nobody checked it.*” He put his hands down. “*And the shortfall is one. And I am going to say the rest of it and then I am going to sit down, and I have said the rest of it four times in a month and this is the fifth and it is the last time in a room.*”
+“*Eleven names and eleven pence and one name to a penny, and that is correct, and I did the division on the back of a form in about four minutes with a pencil in a room on the first day of this week and nobody checked it.*” He put his hands down. “*And the shortfall is one. And I am going to say the rest of it and then I am going to sit down, and I have said the rest of it four times in a month and this is the fifth and it is the last time in a room.*”
 
 “*Say the rest of it.*”
 
@@ -60,15 +60,19 @@ Bess Low was at the edge of the table and had not put a penny in it, and there w
 
 Ferrow looked at the page and then at the room.
 
-“*I wrote it,*” he said, “*and I am going to say how, because there is a man with a pencil and about nine of us, and I have not done this five times.*”
+“*I wrote it,*” he said, “*and I am going to say how, because there is a man with a pencil in this room and I have not done this five times.*”
 
 “*Say how.*”
 
-“*I had a list of eleven people who had said in a room that they would put a penny in, and four of them were not in the street, and I wrote the eleven names first. Then I went round the row and collected the pennies, and I had a name on the line before I had a penny against it. That is the whole of how it happened and I have not got a better way of doing it and I have not tried to get one.*”
+“*I had a list of eleven people who had said in a room that they would put a penny in, and I wrote the eleven names first, at the second hour, before I had a penny off anybody. Then I went round the row and collected, and ten of the eleven were in the street and gave me a penny each.*”
+
+He put his thumb on the page.
+
+“*And the eleventh penny came off a person who is not on the page, because the bowl was to have eleven in it and I did not ask that anybody's leave. And the name on the line that has no penny behind it is not the one the spare penny came off. That is the whole of how it happened and I have not got a better way of doing it and I have not tried to get one.*”
 
 “*Say the last of it,*” said Skell.
 
-“*And I am not going to take it back off the page, and I would like the street to know that I am not going to take it back off the page, because a name in a line is a name in a book and I have said that nine times and I am not going to be the man who rubs one out at a quarter past three on a Thursday.*”
+“*And I am not going to take it back off the page, and I would like the street to know that I am not going to take it back off the page, because a name in a line is a name in a book and I have said that nine times and I am not going to be the man who rubs one out at a quarter past three on the seventh day of the week.*”
 
 Bess Low came up to the table. She was sixty and she wore a shawl over a dress that had been mended at the cuffs twice, and she put two fingers on the page next to her own name, and she did not touch the pencil.
 
@@ -80,7 +84,7 @@ Bess Low came up to the table. She was sixty and she wore a shawl over a dress t
 
 ---
 
-Ferrow read it out. He read it standing up, because he reads things out standing up, and about thirty people were in the street by the last of the light and about nine of them came in and stood in the doorway of the shop and did not come further.
+Ferrow read it out. He read it standing up, because he reads things out standing up, and the nine people at the back of the street came off the pavement and stood along the counter, and the door stayed open and the rain came in on the flags, and about thirty people were in the room off the shop by the time he had the first line done.
 
 “*Eleven pence in the bowl. Eleven names on the line, one to a penny, with the hour against each. One of the eleven names is the name of a person who has given no penny and has promised nothing, and that person has not asked to be taken off the line, and the clerk of the ground floor has not taken her off it, and neither of them is going to.*”
 
@@ -92,13 +96,13 @@ Ferrow read it out. He read it standing up, because he reads things out standing
 
 “*The difference is one penny in the bowl with no name against it, and one name on the line with no penny behind it, and the two of them are not the same one, and there is no form in this county that puts them on the same line.*”
 
-About thirty people stood in a street and listened to a woman of sixty read out a figure of one, and the shop closed behind them, and the chip in the rim of the bowl was the shape of nothing anybody could name.
+About thirty people stood in a room and listened to a woman of sixty read out a figure of one, and the chip in the rim of the bowl was the shape of nothing anybody could name.
 
 “*Then say the rest of it,*” said Skell, quietly.
 
 “*I have been in this city nine years and I have never once been counted,*” said Bess Low. “*I said that in a room a fortnight and two days ago because a form had come down a hill wanting a number of persons. I said it and I went back to the wall, and nobody has done anything about it since, and I have not expected anybody to.*”
 
-She turned round to face the street and not the table.
+She turned round to face the open door and not the table.
 
 “*And a name on a line is a count. That is the whole of it. There is one number of people in this city who have not been counted in any book and I have spent nine years being her, and this afternoon a man with a pencil wrote me on a page for a penny I did not give, and I am going to stand here and say that I would rather be a person nobody has a number for than a person on a line for a bell four hundred miles off.*”
 

@@ -4,13 +4,13 @@ Second day of the eighty-fourth week, shelf day three hundred and nine. His hund
 
 Ferrow had sent up a sheet with one sentence on it on the fourth day of the eighty-third week, and it had cost a penny a page, and nobody in this city had stopped him.
 
-The sentence was: *In the return of the fourth day of the eighty-third week there are two names in one line, and the office is asked which of them is a person and which of them is a thing.*
+The sentence was: *In the return of the second day of the eighty-third week there are two names in one line, and the office is asked which of them is a person and which of them is a thing.*
 
 The answer came down in the tray at the second hour on the second day of this week, and it had wax on it, and it was four lines, and all four of them were correct.
 
 “*Say the first,*” said Skell.
 
-“*The return of the fourth day of the eighty-third week is received, and is entered in one column under the head of persons and things reported to the office in respect of the Low Road, this city, and the bar lately upon it, and the column has room for a person and for a thing, and there are two names in that line and both of them are in the column.*”
+“*The return of the second day of the eighty-third week is received, and is entered in one column under the head of persons and things reported to the office in respect of the Low Road, this city, and the bar lately upon it, and the column has room for a person and for a thing, and there are two names in that line and both of them are in the column.*”
 
 “*Say the second one and do not stop in the middle of it.*”
 
@@ -96,7 +96,7 @@ She was standing on the ledge with her face towards the water and she said the n
 
 “*Then say what you are going to do with a register that has the mud in it.*”
 
-“*I do not know.*
+“*I do not know.*”
 
 “*Say the other half of that.*”
 

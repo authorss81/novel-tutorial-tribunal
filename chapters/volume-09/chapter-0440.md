@@ -18,7 +18,7 @@ About thirty people were in the long room. They had been in it every day for fiv
 
 “*Two. Upon the ceasing of the holder of that office, by death or otherwise, the office passes to the person named in the instrument of succession lodged with the office, and where no such instrument is lodged, to the person then holding the second seat at the council of the Shelf.*”
 
-“*Say the third one.*
+“*Say the third one.*”
 
 “*Three. The roads of the Shelf, and the keeping of them, and the bar upon any of them, and the taking down of any bar, pass with the office.*”
 
@@ -38,7 +38,7 @@ Nobody in that room could say what a writ of succession was.
 
 They gave him five. A man at the back said it was a paper about a man who was ill. A woman near the door said it was a paper about a house. Skell said he did not know and would not guess. Fenna Rusk said it was a list.
 
-Then Renn Calloway said it from the wall, where he had been standing since the second hour because nothing that has been printed lets a man be sent for.
+Then Renn Calloway said it from the wall, where he had been standing since the second hour because there is no form in this county that says a man may be sent for, and there was not one at the second hour of the first day of the month, and there has been one ever since a sheet with no head on it came down in the tray on Saturday.
 
 “*A writ of succession is a piece of paper that says who gets a thing when a man stops holding it,*” he said. “*I have kept a road for twenty-nine years and I have watched two men stop holding it, and both times a piece of paper came down inside a week and said who had it now, and neither time the paper said anything about the road, because the road was not the thing. The thing was a chair in a room four hundred miles off, and the road went with the chair because the man who held the chair had said it would.*”
 
@@ -52,7 +52,7 @@ Then Renn Calloway said it from the wall, where he had been standing since the s
 
 He shifted his weight off the bad leg.
 
-“*And I have been arguing in this room for five weeks about four hurdles of ash and a chain and a plate, and I sent the argument up a hill myself on a piece of paper at the end of the eightieth week, and it has gone down four times and every one of the four answers has been correct, and not one of the four has mentioned the bar.*”
+“*And I have been arguing in this room for five weeks about four hurdles of ash and a chain and a plate, and I sent the argument up a hill myself on a piece of paper on the third day of the eighty-second week, and it has gone down four times and every one of the four answers has been correct, and not one of the four has said whose the bar is.*”
 
 “*They have all mentioned the bar,*” Ilyan said.
 
@@ -72,9 +72,9 @@ Skell put his hands flat on the table.
 
 “*Say the half of that which is the other half.*”
 
-“*And the dispute this city sent up the hill at the end of the eightieth week is not a dispute about a bar. It never was. It is a dispute about who holds a road, and this city sent it to a register, and the register gave it to a person appointed, and that person is standing in this room with a book.*”
+“*And the dispute this city sent up the hill in the eighty-second week is not a dispute about a bar. It never was. It is a dispute about who holds a road, and this city sent it to a register, and the register gave it to a person appointed, and that person is standing in this room with a book.*”
 
-Nobody in the room had been in the room when the dispute went up. About nine of them had been in this room on the fifth day of the eighty-second week, when a man of about thirty-eight set a case on this table and said he was going anyway and was not asking anybody to stop him.
+Nobody in the room had been in the room when the dispute went up. About nine of them had been in this room on the third day of the eighty-second week, when a man of about thirty-eight set a case on this table and said he was going anyway and was not asking anybody to stop him.
 
 ---
 
@@ -122,7 +122,7 @@ Ilyan had said what he thought the office was doing, and he said it at about the
 
 “*Then it is not a thing you can say in a room in this city and call a finding, because a finding about an office that is not yours is an opinion, and an opinion said in a room of thirty people is a thing thirty people carry out of the door.*”
 
-“*And it is a thing a man of the seat can put on a sheet,*” said Skell, “*and we had a sheet on Friday with no head on it at all, and the name of a boy of sixteen at the foot of it, and a seal on it, and the office has been putting names in books from roads since the second day of this month.*”
+“*And it is a thing a man of the seat can put on a sheet,*” said Skell, “*and we had a sheet on Saturday with no head on it at all, and the name of a boy of sixteen at the foot of it, and a seal on it, and the office has been putting names in books from roads since the second day of this month.*”
 
 Cope wrote for about a minute, and then he read it out.
 
@@ -140,7 +140,7 @@ The room at the foot of the hill had a writ of succession on the long table with
 
 “*Then say yours first,*” said Ilyan.
 
-“*Mine is that this is the ninth thing the office has sent this city in five weeks, and that eight of the nine have been correct, and that the ninth is correct as well, and that I have got a bar on a road two miles out that I have been keeping the wrong end of for twenty-nine years.*” He took his hands off the table. “*A man stops holding the chair and the road goes with the chair, and the road does not stop being a road, and I am still the one who has to get up at four in the morning.*”
+“*Mine is that this is the ninth thing the office has sent this city in five weeks, and that eight of the nine came down a hill because this city asked for them, and that this one came down because nobody asked for it, and that all nine are correct, and that I have got a bar on a road two miles out that I have been keeping the wrong end of for twenty-nine years.*” He took his hands off the table. “*A man stops holding the chair and the road goes with the chair, and the road does not stop being a road, and I am still the one who has to get up at four in the morning.*”
 
 Calloway pushed himself off the wall.
 
@@ -154,7 +154,7 @@ Ilyan put his hand off the table.
 
 He waited until the room had it.
 
-“*And the second one is what you said in this room yesterday at the change of the light with about thirty people in it, and there is a woman of forty-four at the end of this table who heard it twice.*” He looked at Fenna Rusk and she nodded once. “*I am not sending it because if it goes up the hill it is a number the office has, and then this city has two numbers of persons in it and neither of them is the right one.*”
+“*And the second one is what you said in this room on Sunday at the change of the light with about thirty people in it, and there is a woman of forty-four at the end of this table who heard it twice.*” He looked at Fenna Rusk and she nodded once. “*I am not sending it because if it goes up the hill it is a number the office has, and then this city has two numbers of persons in it and neither of them is the right one.*”
 
 “*Say why those two,*” said Ilyan.
 

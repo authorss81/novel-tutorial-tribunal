@@ -1,6 +1,6 @@
-# Continuity — Volume 09, after Chapter 430
+# Continuity — Volume 09, after Chapter 440
 
-**This block supersedes every block below it. Nothing below the rule has been edited in this phase.** Chapters 1–430 are canon. The receipt and the hand-off are in `state/current.md`; the measurements are in `state/batch-summary.md`; the people are in `state/character-state.md`; the threads are in `state/open-threads.md`.
+**This block supersedes every block below it. Nothing below the rule has been edited in this phase.** Chapters 1–440 are canon. Receipt and hand-off in `state/current.md`; measures in `state/batch-summary.md`; people in `state/character-state.md`; threads in `state/open-threads.md`.
 
 ## 0. The ground
 
@@ -26,30 +26,38 @@
 | 8 | The paper in the tray, unwaxed | Four paragraphs, tired, in a hand nobody here knows. Correct about four things: a count of doors and a count of people are two different things; a person who cannot say no is not a witness; a witness in a record is a person the office can ask; a bar is a rule with a room missing out of it. **Wrong about the plan**, which is to ask the office to do it once in the right terms | Read out in a room by Bess Low. Not copied, because it was not in front of the clerk. **Sera Quill wrote it. She has not been thanked. Her family's claim of six years is unfiled.** `428:109`, `428:117` |
 | 9 | The sealed sheet with a name cut into a die at the foot | Iven Marrow, Regent of the Shelf. The name does not answer and was not asked anything | Copied fair on the first day of the month. `418:17` |
 | 10 | The bill on the wall, crooked | A line of names and a blank line for three hundred. **The blank is the correct figure** | The public room at the foot of the hill. `430:37` |
-| 11 | The schedule of payments, five rows | Went out of this city in `422` with Kerwin Dace. **Not in this city and not returned** | — |
-| 12 | The line with two names on it | Written fair by Ferrow in a room, eight people in the mud in its hearing | A person not of this city, and a person of this city. **Neither can take the other off.** `427:109` |
+| 11 | The schedule of payments, five rows | Went out in `422` with Kerwin Dace; back with a Cray Crossing stamp, fifth row entered against Tarin Keel on the office's own motion | `433` |
+| 12 | The line with two names on it | Written fair by Ferrow, eight in the mud in its hearing | Neither can take the other off. `427:109`. Answered `434`: office declines which is person/thing; notes place, date, number, prior words *because a register ought to hold that kind of thing* |
+| 13 | The roll returned | Same oilcloth, knot reversed, pages in order, folds across | Cannot be certified by its keeper. `431` |
+| 14 | The count form, third line | *Declined. The ward of this city.* No name | Skell's market no made legible. `432` |
+| 15 | The keeper's box form | One line for a person of this place; farthing a visit; book of visits, no names; nothing a finding about a road | Hessa Marl took it; counts crossings on her own slate. `435` |
+| 16 | The sum answer | Claim £4 4s noted; payable only to a person entered in a register of keepers (none exists); declining noted in the same book; printed five days before she declined | Refused before nine people. `436`. Correct sum £2 4s (11 × 364 = 4,004; 44s) |
+| 17 | The headless summons | Begins mid-sentence; wax and seal; no head; asks a boy of sixteen about a road | Answered on his own terms; gave four doorways in order. `437`. Wray Cope, 34, person appointed in the register of disputes, now in this city |
+| 18 | Ilyan's own return | His name at top; four margin lines; a number in the margin; dated, folded, in his coat, not sent | Read out as unsent before thirty people. `438` |
+| 19 | The bell line | Eleven pence, eleven names, one name without a penny, one penny without a name; difference one | Bess Low declined to be one of eleven. `439` |
+| 20 | The writ of succession | *Office of Regent one office; passes on ceasing to named instrument or second seat at the council; roads, keeping, any bar and taking down pass with it; nothing a finding.* All four correct | In the tray. `440` |
 
 ## 2. The four clocks
 
-Shelf day = `chapter − 125`. Morning in this country = `chapter − 250`. Days since the settlement = `chapter − 400`. Days since the rail came down = `chapter − 410`. Fever age = `chapter − 283` days. **The anchor is chapter 400; `chapter − 351` is retired and may not be used.** Chapter 430 is Shelf day 305, his hundred and eightieth morning, thirty days after the settlement, the fever twenty-one weeks old, the rail down twenty days. The table for 431–450 is in `outline/volume-09.md` §1.
+Shelf day = `chapter − 125`. Morning = `chapter − 250`. Settlement = `chapter − 400`. Rail = `chapter − 410`. Fever = `chapter − 283` days. **Anchor 400; `chapter − 351` retired.** Chapter 440 is shelf 315, morning 190, settlement 40, fever 22w 3d, rail 30. Table for 431–450 in `outline/volume-09.md` §1. Days of week fixed in `state/current.md` §2: 431 Sun–440 Tue; 441 Wed–450 Fri.
 
 ## 3. The money
 
 A farthing a visit on the first row. Four shillings a year for a keeper of a roll. Two hundred and forty pence a day on the second row. One year's wage at the second row's rate, in one sum, at the seat, for a person conveyed. A penny a page in the press. **All of it is in `state/current.md` §3 with the working.**
 
-## 4. What is true at the end of Chapter 430
+## 4. What is true at the end of Chapter 440
 
 1. A person of this place may be entered, removed, conveyed, counted and struck out, and **the right of refusal is unrestored and nobody in this city has one.**
-2. **The office has been right about everything it has printed in this city**, and has not changed its mind by one line, and every one of its answers is correct, and that is the difficulty rather than the comfort.
-3. A thing in a register cannot be struck out, because the form for it begins with a person who does not wish to remain entered, and a thing has no wish. **Fenna Rusk is a thing.**
-4. A person who goes out of a city and comes back the same is, in the office's column, a thing; a person who goes out and does not come back the same is a different thing; **the column has room for the first and not for the second, and the office has not asked which she is.**
-5. A bar is an admission, and the office put the bar up, and the office's own plate says so.
-6. The south side of the Low Road has no name in any office document and is the only way past the ninth marker on foot.
-7. The right of refusal is the volume's absent thing and the volume has not begun to restore it.
+2. **The office has been right about everything it has printed**, nine replies in five weeks, and that is the difficulty.
+3. A thing in a register cannot be struck out. **Fenna Rusk is a thing.**
+4. The south side has no name in any office document and is the only way past the marker; the north side now holds hurdles, plate, and a keeper's box with a woman in it.
+5. A ward has declined as a ward; a ward cannot be asked anything.
+6. A person entered in the fifth row is not to be asked about the city or the road — Tarin Keel walking north; Hessa Marl's no still in a book four hundred miles off.
+7. The volume's question is no longer a bar but who holds the roads: the writ's third line passes roads, keeping, any bar and taking down with the office, and nobody in ninety thousand can be given it.
 
 ## 5. What is not true and has not been made true
 
-The hundred and forty dead are on none of these documents and are not going to be on any of them. The twelve shillings are unpaid and were not touched. The bell, the porch and the corridor stand as they stood. The boy of eight has never been named out loud in a room. Kerwin Dace's return and Tarin Keel's walk are both still open, and the clerk of thirty's own count of his nine years is carried once, at `401:39`, and may not be resolved.
+The hundred and forty dead are on none of these documents. The twelve shillings are unpaid. The bell is not hung, the porch is gone, the corridor stands with a bell unpaid; eleven names on a line for it, one gave nothing, difference one. The boy of eight has never been named out loud in a room. Tarin Keel's walk and Kerwin Dace's stamped return are open and paid for only as pis in `433`. The clerk's nine-year count at `401:39` may not be resolved.
 
 ---
 

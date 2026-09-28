@@ -1,6 +1,6 @@
 # Chapter 437: For The First Time In Four Weeks Anything In This County Has Let Somebody Be Sent For, And It Is A Boy Of Sixteen, And The Paper Has No Head On It
 
-A sheet came down in the tray at the second hour on the fifth day of the eighty-fourth week, and it had wax on it, and it had a seal, and it had nothing at the top of it at all. Shelf day three hundred and twelve, his hundred and eighty-seventh morning, thirty-seven days after the settlement, the fever twenty-two weeks old to the day, the rail down twenty-seven days.
+The summons had no head on it. It came down in the tray at the second hour on the fifth day of the eighty-fourth week with wax on it and a seal on it, and at the top of it, where a sheet has the name of the thing it is, there was nothing at all. Shelf day three hundred and twelve, his hundred and eighty-seventh morning, thirty-seven days after the settlement, the fever twenty-two weeks old to the day, the rail down twenty-seven days.
 
 “*Say the first line of it,*” said Skell.
 
@@ -58,7 +58,7 @@ The boy looked at him.
 
 “*Say the last part of that again.*”
 
-“*Do not say anything for four minutes. I have watched two men in this city get a person to talk by waiting, and the waiting is the whole of what they do, and I am telling you about it because you are sixteen and I am forty and I would like one thing I know to be of use to somebody.*”
+“*Do not say anything for four minutes. I have watched two men in this city get a person to talk by waiting, and the waiting is the whole of what they do, and I am telling you about it because you are sixteen and I have been in this country five weeks and I would like one thing I know to be of use to somebody.*”
 
 “*And then what do I do?*” said the boy.
 

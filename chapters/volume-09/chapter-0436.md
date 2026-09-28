@@ -32,7 +32,7 @@ Nobody had asked him. He had come up the low ground from the end of the plate ya
 
 He did it standing up, with his hands flat on the table, the way he does, and it took him about ninety seconds and nobody said a word in it.
 
-“*Four thousand and four days. A keeper of a roll is paid four shillings a year. Four thousand and four days against three hundred and sixty-five to the year is ten years and three hundred and thirty-nine days, and I am going to call that eleven years, because that is what I called it on the first day of this week and I have not been able to find a better figure since.*”
+“*Four thousand and four days. A keeper of a roll is paid four shillings a year. A year in this city is three hundred and sixty-four days, the way the office counts it, and eleven times three hundred and sixty-four is four thousand and four. So it is eleven years and no days, and I have been saying about eleven years since the first day of this week because I did not want to be the man who stopped a woman from a figure in her own room.*”
 
 “*Say the next part.*”
 
@@ -96,7 +96,7 @@ So he kept the sentence, and he put his hand on the back of a chair instead of o
 
 “*I have.*”
 
-“*Say so.*
+“*Say so.*”
 
 “*I have had a sentence and I have not said it and I am not going to say it, and I am going to say why in one line, and you are not going to like it, and then I am going to go and stand outside.*”
 
@@ -116,7 +116,7 @@ He did not ask her first. That was the second thing, and it was worse than the f
 
 Skell shifted his weight.
 
-“*Say the other half of it,*” he said, “*because there is a man with a pencil and about nine of us and it is no worse now than it was.*”
+“*Say the other half of it,*” he said, “*because it is no worse now than it was, and because the clerk is going to write it down and I would rather he wrote it than that I said it.*”
 
 “*The other half is that he is right about the sentence, and I would have said no to it, and I am not going to be thanked for a thing I was never asked.*” She put both hands flat on the wood. “*And the half of that which is the whole of it: he did not ask me, and I said ask me first, and he went out of the room, and he has now said out loud that he went out of the room, and there is a man with a pencil and I do not know whether he wrote that down.*”
 
@@ -146,7 +146,7 @@ The room went on for about four seconds without a sound in it.
 
 “*Say what that is,*” Ilyan said from the door, and he had said he was going to stand outside and he had not got as far as outside.
 
-“*It is a line in a sheet that came down the hill in the tray this morning,*” said Ferrow, “*and line four of it says that where a person of this place declines a sum, the office notes the declining and does not press for the sum. And it is dated the ninth day of the eighty-third week, and she has said her declining today, which is the fourteenth day of the eighty-fourth week, and the office had it five days before she said it.*”
+“*It is a line in a sheet that came down the hill in the tray this morning,*” said Ferrow, “*and line four of it says that where a person of this place declines a sum, the office notes the declining and does not press for the sum. And it is dated the sixth day of the eighty-third week, and she has said her declining today, which is the fourth day of the eighty-fourth week, and the office had it five days before she said it.*”
 
 “*Say the half of that which is not the office's fault,*” said Fenna Rusk.
 

@@ -10,7 +10,7 @@ Bevin Tarr was there with a die in his coat. He had cut the head of the form and
 
 “*Say what you cut,*” Ilyan said.
 
-“*A head,*” said Tarr. “*Four thousand lines and four thousand one dies and they paid me for two. This is the two hundred and something of something and nobody has paid me for it and I am not going to say that again today.*”
+“*A head,*” said Tarr. “*Four thousand lines and four thousand dies and they paid me for two of them. This is one more of the four thousand and nobody has paid me for it and I am not going to say that again today.*”
 
 “*Read the head out.*”
 
@@ -40,7 +40,7 @@ Dray got the sheet out from under the stone, folded it, and put it in his coat.
 
 It was the second hour when Ilyan saw the shape of it, in the public room at the foot of the hill, with about thirty people in it and the form under a weight of stone on the long table because the room is warm and the man with the pencil did not trust paper.
 
-It was the sixth time in his life, and nine days since the last one, and he read it twice and chose nothing out of it and has never chosen anything out of one of them.
+It was the sixth time in his life and four of them have been in this city, and ten days since the last one, and he read it twice and chose nothing out of it and has never chosen anything out of one of them.
 
 **CLAIM: A place that is kept is a place somebody can be asked about, and is the cheapest anybody in four hundred miles to ask.**
 
@@ -118,7 +118,7 @@ The row was extremely quiet.
 
 She put her hand flat on her own step.
 
-“*I said in a room on the sixth day of last week that I would be at the hour a cart comes in. I said it about a table in a room behind a chandler's shop, and I did not think about which cart.*”
+“*I said in a room on the sixth day of the eighty-second week that I would be at the hour a cart comes in. I said it about a table in a room behind a chandler's shop, and I did not think about which cart.*”
 
 “*I have been standing on this step since I was fourteen. It is worn into a curve and I have never once been able to sit down at the hour a cart comes in.*”
 
@@ -130,13 +130,13 @@ She put her hand flat on her own step.
 
 Ilyan stood on a step worn into a curve in a row of about nine people and had a want that had cost him a mile and a half and three rooms and it did not happen.
 
-“*Say the rest of it,*” he said.
+“*Go on,*” he said.
 
 “*I am going to take it, and I am going to sit in it at the hour a cart comes in, and I am going to do nine doors in this ward in the morning. I am not going to stop doing nine doors. And I am going to count what goes past that crossing on this slate, in my own hand.*”
 
-“*Say the rest of it.*”
+“*And what is the count going to be of.*”
 
-“*And it is going to be a count of what goes past and it is not going to be a count of anything else.*”
+“*It is going to be a count of what goes past and it is not going to be a count of anything else.*”
 
 “*And the form has one line in it,*” said Ilyan.
 
@@ -146,17 +146,17 @@ Ilyan stood on a step worn into a curve in a row of about nine people and had a 
 
 Skell did the working on the step, out loud, with the wind off the flat, and nobody had asked him.
 
-“*Nine doors a day. Nine times three hundred and sixty-four days is three thousand two hundred and seventy-six visits. A farthing a visit is a quarter of a penny, and three thousand two hundred and seventy-six quarters of a penny is eight hundred and nineteen pence. That is sixty-eight shillings and threepence, and I said that figure in a room on the sixth day of last week in a different voice about a different door, and it is the same figure.*”
+“*Nine doors a day. Nine times three hundred and sixty-four days is three thousand two hundred and seventy-six visits. A farthing a visit is a quarter of a penny, and three thousand two hundred and seventy-six quarters of a penny is eight hundred and nineteen pence. That is sixty-eight shillings and threepence, and I said that figure in a room on the sixth day of the eighty-second week in a different voice about a different door, and it is the same figure.*”
 
 “*Say the rest of it,*” said Ilyan.
 
-“*The rest of it is that the office will pay her that figure if it counts the visits, and the office does not check a number. The pay is a thing the office decides about, once a year, out of a book it keeps itself, and what she does in that box is not in the book.*” He put his hands in his coat. “*Eight hundred and nineteen pence, twice, from two different doors, in the same year, and there is not one form in this county that will put the two of them in the same line.*”
+“*The rest of it is that the office will pay her that figure if it counts the visits, and the office does not check a number. The pay is a thing the office decides about, once a year, out of a book it keeps itself, and what she does in that box is not in the book.*” He put his hands in his coat. “*Eight hundred and nineteen pence out of one door, and eight hundred and nineteen pence out of another, in the same year, and there is not one form in this county that will put the two of them in the same line.*”
 
 “*And the rest of that,*” said Ilyan.
 
 “*And the only thing coming out of that box that is not in the office's book is her slate, and I have been looking nine days for a form for a slate.*”
 
-Calloway said *huh* out loud on the step, which was the second time in three days and the second one in this city that anybody has counted.
+Calloway said *that is the figure* out loud on the step, which was the second time in three days that anybody in this city had counted anything, and it was the first time it had been about a person.
 
 “*Say the half of it that is not about money,*” Ilyan said.
 

@@ -40,7 +40,7 @@ He had worked out over two days and two nights that a thing said in a room is co
 
 He also worked out, and he did not like working it out, that the only reason a refusal in a market is safe is that nobody is asking for it. The office was asking for it. It had sent a line down a hill in a fair hand saying that a declining has to be signed, and there is a version of a no that is a signature and a version of a no that is a market, and the office had built the first one and left the second one alone on purpose, and he could not say whether it was on purpose.
 
-“*Then here is the thing I want to say,*” Skell said, at the edge of a stall where nobody was selling anything in particular. “*I have been asked for the number of persons in this ward nine times in four weeks. By a man of the seat in a room, by a woman of sixty reading a sheet out, by a man with a bad leg four times, and once by a form.*”
+“*Then here is the thing I want to say,*” Skell said, at the edge of a stall where nobody was selling anything in particular. “*I have been asked for the number of persons in this ward seven times in four weeks. By a man of the seat in a room, by a woman of sixty reading a sheet out, by a man with a bad leg four times, and once by a form.*”
 
 “*Say the number of times you have said no,*” said Ilyan.
 
