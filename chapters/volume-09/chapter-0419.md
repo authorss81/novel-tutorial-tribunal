@@ -4,8 +4,6 @@ The first day of the eighty-second week was his hundred and sixty-ninth morning 
 
 “*The office requires a return of the persons and things reported to it in respect of any road, and the return is to be made in one column, and the office does not require the person making it to distinguish between a person and a thing, and does not pay for the distinction.*”
 
-Nobody said anything.
-
 “*Go over that once more,*” said the man of fifty-two.
 
 “*It is the whole of it and it is one line and I have read it three times in a corridor on my own before I came down,*” said the clerk of forty. “*I am twenty-nine and I write them fair and I have never read one out to anybody, and I have been standing in this room for four minutes and I have not put my hand flat on the table the way he does, and I am not going to, because I do not do that.*”
@@ -13,8 +11,6 @@ Nobody said anything.
 “*Say the rest of it,*” said the man with the bad ear.
 
 “*There is a form for it on the ground floor and the form is printed at the head and the head says persons and things, and there is one column under the head, and there is no line for a person and no line for a thing, and the office has not asked for a second column and I have been on this floor three years and I have never written a line in a form that was not in it.*”
-
-Nobody said anything.
 
 “*And if it is a thing and I fill it in as a person,*” said Tarin Keel, from the wall, “*then a thing in a register is a thing that can be asked about. And if it is a person and I fill it in as a thing, then a person in a register is a person that can be sent for by a person who has been sent for by a thing.*”
 
@@ -38,8 +34,6 @@ The second was: *The ninth marker on the same road, and two miles of the road pa
 
 He looked at the two of them for a while. Then he copied the sheet fair into a second one and put the second one in the press, and he read both of them out in the public room at the foot of the hill at the third hour, and it took him four minutes, and he did not apologise for any part of it, and about thirty people were in the room.
 
-Nobody said anything.
-
 “*Say that again,*” said the man of fifty-two, “*the first one, and then the second one, and then tell this room which of the two is a man.*”
 
 The clerk of forty read them both again.
@@ -53,8 +47,6 @@ Nobody said anything at all, and the room sat with it, and Bevin Tarr at the end
 “*Say the second half of it,*” said the man of fifty-two.
 
 “*The second half is that the office will get it on the fourth day of the eighty-second week with a man of thirty-eight and there will be a line in a register at the seat with a man of fifty-eight and a marker on it, and the office does not pay for the distinction and the office does not require it, and in eleven years somebody in that building is going to take that sheet off a shelf and ask what it is about, and there is going to be no way on the paper of telling.*”
-
-Nobody said anything.
 
 “*And the third thing and I have not said it out loud anywhere yet,*” said the clerk of forty, “*is that it is going to be me they ask, because I am the one who filled it in, and I am twenty-nine and I have been on that floor three years and I have never had my name at the top of a line, and a clerk of thirty has, out loud, in a room, and he said the price of it before he did it and he did it anyway, and I have been in this building three years and I have watched that happen and I have thought about it for nine days and I have got nothing better and I am going to do the ordinary thing and I am not going to be thanked for it.*”
 

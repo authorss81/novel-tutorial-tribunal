@@ -1,6 +1,6 @@
 # Chapter 415: Two Shillings To Go Over A Bar That Is Not Up, And A Boy Of Nineteen Who Is Given A Number Of Himself And Did Not Ask For One
 
-The fifth day of the eighty-first week was his hundred and sixty-fifth morning and the fifteenth day after the settlement, and the fever was eighteen weeks and six days old, and the rail had been down five days and was still against the north wall of a yard at the low end of Tallowgate with a sheet nailed to it and the line at the top of that sheet empty, and the man of thirty-eight read the fourth row of his schedule out in the public room at the foot of the hill at the third hour and the room was not full because the boy of sixteen had not said anything about it and had said nothing in four doorways and had not been asked to.
+The fourth day of the eighty-first week was his hundred and sixty-fifth morning and the fifteenth day after the settlement, and the fever was eighteen weeks and six days old, and the rail had been down five days and was still against the north wall of a yard at the low end of Tallowgate with a sheet nailed to it and the line at the top of that sheet empty, and the man of thirty-eight read the fourth row of his schedule out in the public room at the foot of the hill at the third hour and the room was not full because the boy of sixteen had not said anything about it and had said nothing in four doorways and had not been asked to.
 
 “*Four. A pass over any bar set up under the first clause may be had at the seat or at a place the office names, and is two shillings for a person on foot and four shillings for a cart, and the pass is good for one going and one coming, and no pass is issued over a road that is open.*”
 
@@ -13,8 +13,6 @@ It was read again.
 “*Say the last of it,*” said the man of fifty-two, “*because I have counted halls and doors for twenty years and that is the sentence in a rule of a government that I have not seen before.*”
 
 “*No pass is issued over a road that is open,*” said Kerwin Dace.
-
-Nobody said anything.
 
 “*Then say what that is doing on that sheet in this city,*” said the man with the bad ear.
 
@@ -30,25 +28,19 @@ It was the carter's boy of nineteen who said it, and his arm was out of the spli
 
 “*A pass on foot is two shillings,*” he said. “*Two shillings is twenty-four pence. A cart in this city is eighteen pence a day, and twenty-four over eighteen is one and a bit, and that is a whole day of my cart and a bit for the right to take it over a bar that is not up.*”
 
-Nobody said anything.
-
 “*And the cart pass is four shillings, which is forty-eight pence, and forty-eight over eighteen is two and a bit, so a cart pass is two days of the cart and a bit.*”
 
 “*Say it against a keeper of a roll,*” said Bevin Tarr, from the end of the table, where he had come up a mile and a half with a plate under his arm.
 
 “*A keeper of a roll is four shillings a year,*” said the carter's boy. “*Forty-eight pence. So a cart pass on that sheet is one whole year of what the only person anybody can be asked about a roll in this city is paid, and I know that figure out loud because it was said in this room ten days ago by him and by her and I have carried it since. And two on-foot passes is a year of her. And a pass is twenty-four weeks of what a boy of eleven earns in a week carrying other people's water, and every person in this room knows that, because he lives at the end of this row.*”
 
-Nobody said anything.
-
 “*And I did the sums wrong the first time and I am not going to be shy about it,*” said the carter's boy, “*because I am nineteen and I was in a cart in a hole eleven days ago and I have been going round that road since the seventh morning of the seventy-ninth week, and I want to say the road.*”
 
 “*Say the road,*” said Kerwin Dace, and he had the book open and the pencil out and nobody had told him to, and the carter's boy looked at the pencil and went on anyway, which is the whole of this chapter and it is not the boy's doing.
 
-“*Eighteen times,*” said the carter's boy of nineteen. “*That is eighteen times off the seventh morning of the seventy-ninth week to this morning, and it is eight miles round from this row, and it is sixteen miles a run with the cart out and back. A cart is eighteen pence a day and I have paid the cart and not the man, and eighteen times eighteen is three hundred and twenty-four pence, and I have got a loaf for four of the days out of my own hand and I have not counted that and it is not anybody's business.*”
+“*Eleven times,*” said the carter's boy of nineteen. “*That is eleven times off the seventh morning of the seventy-ninth week to this morning, and it is eight miles round from this row, and it is sixteen miles a run with the cart out and back. A cart is eighteen pence a day and I have paid the cart and not the man, and eleven times eighteen is one hundred and ninety-eight pence, and I have got a loaf for four of the days out of my own hand and I have not counted that and it is not anybody's business.*”
 
-Nobody said anything.
-
-“*So a pass costs two shillings,*” he said, “*and the road cost me three hundred and twenty-four pence of cart and a loaf I am not going to put a figure on, and the two shillings is a fourteenth of what it has already cost me and the two shillings is the cheapest part of that sentence, and I would like somebody in this room to tell me why the cheapest part is the part you have printed.*”
+“*So a pass costs two shillings,*” he said, “*and the road cost me one hundred and ninety-eight pence of cart and a loaf I am not going to put a figure on, and one hundred and ninety-eight over twenty-four is eight and a quarter, so the two shillings is an eighth of what it has already cost me and a quarter, and the two shillings is the cheapest part of that sentence, and I would like somebody in this room to tell me why the cheapest part is the part you have printed.*”
 
 Nobody said anything, and Kerwin Dace wrote, and did not look down at it.
 
@@ -56,7 +48,7 @@ Nobody said anything, and Kerwin Dace wrote, and did not look down at it.
 
 “*I asked what the bar cost,*” said the man of fifty-two. “*There is a rate on a table for going over a bar and there is no rate on that table for not being able to, and I have counted halls and doors for twenty years and that is a thing I have had to notice in four rooms in a fortnight and I have noticed it again.*”
 
-“*And you have just got an answer to it from a person of this ward in front of a man from four hundred miles off,*” said the man with the bad ear, “*and I want it said in this room that the answer is thirteen times the price on the sheet, and that the answer came from one carter, and that there are four hundred people on that road and not one of them is a carter with a cart that costs eighteen pence a day.*”
+“*And you have just got an answer to it from a person of this ward in front of a man from four hundred miles off,*” said the man with the bad ear, “*and I want it said in this room that the answer is eight and a quarter times the price on the sheet, and that the answer came from one carter, and that there are four hundred people on that road and not one of them is a carter with a cart that costs eighteen pence a day.*”
 
 Nobody said anything.
 
@@ -87,7 +79,7 @@ Nobody thanked her for it.
 And at about the fifth hour, with the schedule lying flat on the long table in front of him and about thirty people in a room, four lines came into his sight and hung there clean and useless, and it was the fifth time in his life and it was nine days since the last one, and he read it twice and did not choose anything out of it and he has never chosen anything out of one of them and is not going to start.
 
 **CLAIM: A pass has a price and not having one has a cost, and the two are not the same size, and the sheet has a column for one of them and not for the other.**
-**EVIDENCE: The fourth row is two shillings on foot and four for a cart. A cart is eighteen pence a day and a keeper of a roll is four shillings a year and a boy of eleven carries water for a penny at the end of the week. A bar cost a carter's boy of nineteen eighteen runs and three hundred and twenty-four pence of cart, and he gave that figure in this room this afternoon, and there is no column on any sheet in four hundred miles for a run.**
+**EVIDENCE: The fourth row is two shillings on foot and four for a cart. A cart is eighteen pence a day and a keeper of a roll is four shillings a year and a boy of eleven carries water for a penny at the end of the week. A bar cost a carter's boy of nineteen eleven runs and one hundred and ninety-eight pence of cart, and he gave that figure in this room this afternoon, and there is no column on any sheet in four hundred miles for a run.**
 **BURDEN: Somebody must be the person the office can ask what a bar costs, and that person is a person of this ward standing on that road, and once the office has asked that person once it has a figure, and the figure is about a road, and the person is inside it.**
 **CHOICE: Name the column and put a name in it, or leave that road with no rate and no column and no person in it.**
 

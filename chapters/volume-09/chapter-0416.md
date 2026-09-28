@@ -1,8 +1,8 @@
 # Chapter 416: A Magistrate Who Cannot Be Sent For, And The Third Line At The Foot Of A Sheet Which Is Asking The Office For The Wrong Thing
 
-The sixth day of the eighty-first week was his hundred and sixty-sixth morning and the sixteenth day after the settlement, and the fever was nineteen weeks and no days old, and the rail had been down six days, and a sheet came down the hill at the second hour with a seal on it and the head of it was not a name but a room, and the room was hers, and there was a line at the top of it and the line was not for the name of the person asking.
+The fifth day of the eighty-first week was his hundred and sixty-sixth morning and the sixteenth day after the settlement, and the fever was nineteen weeks and no days old, and the rail had been down six days, and a sheet came down the hill at the second hour with a seal on it and the head of it was not a name but a room, and the room was hers, and there was a line at the top of it and the line was not for the name of the person asking.
 
-The chamber is a room with a long table in it and a rail at the far end and four chairs, and three of the four were empty, and the fourth had a woman of fifty-four in it who had not been in this city since the second return went up the hill, and she had come in on her own account, and there is no form in four hundred miles that says a person may be sent for and so nobody sent for her and there was not a clerk in a corridor with a tray.
+The chamber is a room with a long table in it and a rail at the far end and four chairs, and three of the four were empty, and the fourth had a woman of sixty-eight in it who had not been in this city since the second return went up the hill, and she had come in on her own account, and there is no form in four hundred miles that says a person may be sent for and so nobody sent for her and there was not a clerk in a corridor with a tray.
 
 Kerwin Dace had the sheet and did not read it standing up.
 
@@ -11,8 +11,6 @@ Kerwin Dace had the sheet and did not read it standing up.
 “*Read it.*”
 
 “*The office has the name of the person who read the return of the Mercy Trial into the public room at the foot of the hill, and the name of the person who wrote it fair, and the office notes that both were given without a question being asked. And the third line at the foot of the sheet of the second day of the eightieth week requires the name of the magistrate against whom that return was written, and the office has not got it, and the office is at the end of its ten days, and the office asks you for it.*”
-
-Nobody said anything.
 
 “*Say the third line,*” said the man of fifty-two, who had come four hundred yards and had not been let into two of the four rooms in this city where a board was read out, and had been let into this one, and had said so in a road in the last fortnight.
 
@@ -25,8 +23,6 @@ Nobody said anything.
 He put his hand flat on the table.
 
 “*So the line at the foot of that sheet is asking this office for the name of the person the return was written against, and the person the return was written against is the person who wrote it. That is not a difficulty in the law. That is a difficulty in the sentence, and it is four hundred miles old, and it has been sitting on that sheet in a press since the first day of this week, and I have counted halls and doors for twenty years and I have never wanted to say less about a piece of paper than I want to say about that line.*”
-
-Nobody said anything.
 
 “*Then here is the whole of it,*” said Ansa Rell, “*and I have been sitting in this chair for eleven minutes waiting for a clerk with a tray and none of you is a clerk with a tray, and I would like to say one thing in this room and I would like it said once.*”
 
@@ -48,19 +44,13 @@ Nobody said anything.
 
 “*The second is the reason I am not going to give you my name for a register, and I am going to say it to a man of the seat and I am going to say it in a room, and I have thought about it for two days and I have not said it out loud and I am aware that I am saying it out loud now.*”
 
-Nobody said anything.
-
 “*Your third clause says that a dispute about a road may be given to a person appointed by the office, and that the person is named in a register kept at the seat, and that a dispute given to that person is a dispute given and is not a dispute that is lost.*” She turned her head and looked at the sheet on the table without touching it. “*That is a good clause. I have read it four times this week and I have not found a hole in it and I am not going to put one there for you. And the person appointed has to be a person of the place, and a person of the place in this city is a person who cannot be sent for, because there is no form anywhere that says a person may be sent for, and that has been the shape of this city since before the fever and it is the only thing about this city that your office cannot get round by printing on a good sheet at a penny a page.*”
 
 “*Say the rest of it.*”
 
 “*So you have gone looking for the one person in this city who is a person of the place and cannot be sent for, and you have found that I am the one, and you have wanted me for a register for about a fortnight and you have not wanted my name.*”
 
-Nobody said anything.
-
 “*You have wanted what my name has been for nine weeks. A magistrate is a person a thing is held against. It is the whole of the office and it is the whole of me and there is exactly one of it in this city and you have run out of room. And if I put my name in that register then there is a magistrate in it, and the register is kept at the seat, and a person in a register is a person your office can ask about a road. And a magistrate who can be asked about a road is not a magistrate. She is a post.*”
-
-Nobody said anything.
 
 “*And I will not be one,*” said Ansa Rell. “*That is the whole of it and it is not clever and it is not new and I have not been able to think of a second reason in two days, and I would like somebody in this room to tell me a better one.*”
 
@@ -77,8 +67,6 @@ Kerwin Dace looked at the sheet for a while.
 “*Somebody of whom.*”
 
 “*Somebody of the seat,*” said Kerwin Dace, “*because that is the only pool the office has, and I have been in this city five days and I have found that out by asking a boy of sixteen and a woman of twenty-eight and a carter and a clerk who is on a cart, and every single one of them told me, and not one of them told me it as a warning, and I would like somebody in this room to tell me what I am supposed to have done differently when I got here.*”
-
-Nobody said anything.
 
 “*You were not supposed to do anything differently,*” said Ansa Rell. “*That is what I have come here to find out and you have told me in one sentence what I came to find out, and I am not going to say a word of thanks for it and I am not going to be relieved and I am not going to be told by anybody that I was right to come. I have come because a thing I wrote is going into a book in a city four hundred miles off and I am the only person who can say what it means, and I would have come for that, and there is no threat in it and you should know there is no threat in it because you have spent five days looking for one and I have watched you look.*”
 

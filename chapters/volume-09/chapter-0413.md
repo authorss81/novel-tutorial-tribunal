@@ -1,6 +1,6 @@
 # Chapter 413: A Form With One Line In It For The Name Of The Person Who Signs, And A Boy Of Sixteen Who Is Tired Of Being Asked
 
-The third day of the eighty-first week was his hundred and sixty-third morning and the thirteenth day after the settlement, and the fever was eighteen weeks and four days old, and the rail had been down three days, and the man of thirty-eight went down the low row at the third hour with a form in his coat and did not have to knock on any doors, because the boy of sixteen was at a door on that row on his own account at the third hour on the ninth day of every week and had been since the eighth morning of a fever, and there is no form in this city that says a person may be at a door instead of in it.
+The second day of the eighty-first week was his hundred and sixty-third morning and the thirteenth day after the settlement, and the fever was eighteen weeks and four days old, and the rail had been down three days, and the man of thirty-eight went down the low row at the third hour with a form in his coat and did not have to knock on any doors, because the boy of sixteen was at a door on that row on his own account at the third hour and had been at a door at that hour since the eighth morning of a fever, and there is no form in this city that says a person may be at a door instead of in it.
 
 The boy saw him coming up the row and did not go in, and the man of fifty-two was not there and the man with the bad ear was not there, and there were a woman of thirty with a head on her knee at a gate and a man of twenty-three who was a person of the ninth row and a man of sixty-eight who was her father, and none of them had been sent for and none of them were there for this.
 
@@ -9,8 +9,6 @@ The boy saw him coming up the row and did not go in, and the man of fifty-two wa
 “*Say it.*”
 
 “*And under the note at the foot of the sheet. A person entered in a book of the office who does not wish to remain entered may apply to be struck out. The form is at the seat and is a single sheet. It asks one question and the question is whether the person wishes to be struck out, and the answer to that question is a signature at the foot, and there is a line at the top of it for the name of the person who signs. The striking out is done by the office and not by the person.*”
-
-Nobody said anything.
 
 “*Say that again for me,*” said the boy of sixteen.
 
@@ -28,7 +26,7 @@ The man of thirty-eight read it again, and he read it in the same voice, and nob
 
 “*Ask it.*”
 
-Nobody said anything, and the woman of thirty with a head on her knee said, “*You are not going to ask it at ours,*” and the man of thirty-eight said, “*I am not going to ask it at yours, and I will tell you why at the end of this row and not now, and it is not because you have a father at this door.*”
+The woman of thirty with a head on her knee said, “*You are not going to ask it at ours,*” and the man of thirty-eight said, “*I am not going to ask it at yours, and I will tell you why at the end of this row and not now, and it is not because you have a father at this door.*”
 
 “*You are going to,*” said the boy of sixteen.
 
@@ -47,8 +45,6 @@ Nobody said anything, and then the man with the bad ear came up the row, and he 
 The boy of sixteen stood on the step with his hands behind him and he did not say it for a while.
 
 “*There are four of what I said and one of me,*” he said. “*I said it at four doors on the fifth day of last week because a man asked me in a row not to write it on a board, and I have not written it on a board, and I said it four times because that is what I do and nobody stopped me. And a man of this ward heard one of the four and carried a paper about it into a building. And the office has that one. And if I sign that paper, then the office has struck out the one of me, and the four of what I said are still in this ward in four mouths, and it can ask the four of them about the one of me, and I will be the only one of the five who cannot say anything about the other four, and that is what I would be.*”
-
-Nobody said anything.
 
 “*And the other thing,*” said the boy, “*and I am saying it because a man has asked me for the second half and he has asked me for it in a row and not in a room, which is the first time anybody has asked me for the second half in a row, and I would like it noticed that I have noticed.*”
 
@@ -80,8 +76,8 @@ Nobody said anything.
 
 “*Say what the other one was.*”
 
-“*The other one was a woman of nineteen with an arm in a splint who has said no eleven times and I asked her a twelfth thing and she said a word at me that I am not going to repeat in a row,*” said Kerwin Dace, “*and that is in the book too.*”
+“*The other one was a carter of nineteen with an arm in a splint who has said no eleven times and I asked him a twelfth thing and he said a word at me that I am not going to repeat in a row,*” said Kerwin Dace, “*and that is in the book too.*”
 
 He went down the row. The boy of sixteen said it in three doorways before the light went off the flat, and the man of thirty-eight went with him and did not tell him to stop, and the woman of thirty with a head on her knee said it in one doorway herself, and the man of twenty-three said it in none.
 
-Nobody thanked the boy of sixteen. He went home at the change and he had not been asked a question about himself by anybody, and a man with a bad leg stood in a row for a while afterwards and did not go and find him, and the four bells went over Tallowgate, and the rail was in a yard at the low end, and the fever was eighteen weeks and four days old, and it did not stop for a form with one line in it, and nobody on that row was thanked.
+Nobody thanked the boy of sixteen. He went home at the change and he had not been asked a question about himself by anybody, and a man with a bad leg stood in a row for a while afterwards and did not go and find him, and the rail was in a yard at the low end, and the fever was eighteen weeks and four days old, and it did not stop for a form with one line in it, and nobody on that row was thanked.

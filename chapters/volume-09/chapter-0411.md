@@ -26,8 +26,6 @@ It was read again.
 
 “*A copy is a page in a press on the ground floor of this building,*” said the clerk of thirty. “*It is in the fair hand. It costs a penny a page. It is legible, which is a thing I said out loud in this room on the second day of this week and I am not going to say the whole of it again, because I have said it and a man in this room was in it. And any person in this city can be shown it for a penny.*”
 
-Nobody said anything.
-
 “*So the office is asking me to carry the original of it up four hundred miles on my own two legs,*” he said, “*and the second half of the third line is the half that is going to cost somebody in this city who is not me, and I have been in this building nine years and I know exactly which page it is and I am not going to say it in this room at the second hour with forty people in it, and I am going to go and take it out of the press, and I am going to come back down and say it at that door instead, and I would like the people who want to be in this room at that to be at that.*”
 
 ---
@@ -91,8 +89,6 @@ He said it again. A man of this ward brought a paper into the building. He fille
 “*And nobody asked me.*”
 
 “*Nobody asked you,*” said Bern Raye, “*and I have said it twice because you asked me to and because I have been on this floor nine years and I fill lines off papers in front of me and I have never once in nine years asked a paper where it came from, and I told a man with a bad leg the whole of what that would cost on the first day of this week in a room, and I have said the cost out loud twice this week and I am not going to say it a third time in a doorway, because it is the same cost and you have heard it and hearing it twice has not helped.*”
-
-Nobody said anything.
 
 “*Then what is at the other end of it.*”
 

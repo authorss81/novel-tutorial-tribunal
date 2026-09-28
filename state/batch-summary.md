@@ -1,3 +1,163 @@
+## VOLUME 09 BATCH 0002 IS REPAIRED — THE PROSE WAS MOSTLY RIGHT AND THE RECEIPT WAS MOSTLY WRONG, WHICH IS BACKWARDS FROM WHAT A BAND USUALLY GETS, AND THE ONE PLACE THE PROSE WAS WRONG WAS THE CALENDAR IN SEVEN CHAPTER OPENINGS. **THE REVIEW IS `logs/batch-0002.review.log` OVER COMMIT `1cfe314` AND ITS VERDICT WAS *THE PROSE IS STRONG AND THE HOUSEKEEPING IS UNUSUALLY CLEAN, BUT THE BAND HAS A REAL CALENDAR DEFECT IN SEVEN OF TEN CHAPTER OPENINGS, AN ARITHMETIC CLUSTER AROUND THE BAR-COST FIGURE, AND A TIC THAT HAS TRIPLED IN DENSITY.* FOURTEEN NUMBERED FINDINGS, TWELVE OF THEM FIXED HERE, AND **THE REVIEW'S OWN ARITHMETIC WAS WRONG IN ONE PLACE AND THE REVIEW MISSED FIVE, AND ALL SIX ARE NAMED BELOW WITH THE MEASUREMENT BESIDE THE CLAIM.** THIS BLOCK SUPERSEDES THE `## VOLUME 09 BATCH 0002 — CHAPTERS 411–420, THE MEASUREMENT TABLES…` BLOCK AND EVERY BLOCK UNDER IT. **NOTHING BELOW THE RULE HAS BEEN EDITED. NO ARCHIVE BLOCK WAS TOUCHED, NO CHAPTER WAS RESTARTED, NO SCENE WAS CUT, NO CARD WAS MOVED, NO FIGURE IN THE PLOT WAS TOUCHED, AND THE ANCHOR IS STILL CHAPTER 400.** Chapters 1–420 are canon. The next phase is `workspace/volume-09/batch-0003/`, Chapters 421 to 430, *The Midpoint*, on disk and NOT marked, and this one is NOT marked either.**
+
+### 0. WHAT WAS WRONG, IN ONE TABLE, WITH THE MEASUREMENT BESIDE THE CLAIM, AND THE THREE THAT ARE THE RECEIPT'S OWN FAULT
+
+| # | The review's finding | What the files said | What is true | Where |
+|---|---|---|---|---|
+| 1 | The week phrase is one day out in 412–418 and §1's table contradicts the chapters while claiming it was parsed from them | §1 printed the correct week phrase for all ten and said *EVERY CELL WAS PARSED SEPARATELY OUT OF THE CHAPTER FILES AND NONE WAS INHERITED*; seven openings disagreed with it, and `418:3` had an eight-day week | **The table was right and the seven openings were wrong, and the claim in §1 was false, because the column was computed from the formula and not read off the pages.** Seven one-word repairs in the prose, and §1 is now true | `412:3`–`418:3` |
+| 2 | `417:45` reads back *eleven runs and one hundred and ninety-eight pence* against 415's *eighteen runs and three hundred and twenty-four* | the receipt canonised the 415 version with a full working | **The read-back was right and 415 was wrong.** The seventh morning of the seventy-ninth week is Shelf 279 and Chapter 415 is Shelf 290, which is eleven days elapsed and twelve inclusive, and eighteen is unreachable under any counting. `415:39` now says eleven runs and one hundred and ninety-eight pence and it is the only place the figure is worked, and `417:43` agrees with it for the first time | `415:39`, `415:43`, `415:51`, `415:82` |
+| 3 | `415:47`'s *eighteen times* is not derivable from the calendar | — | the same fact as 2 | `415:39` |
+| 4 | `415:51` says a fourteenth and `415:59` says thirteen times; 324 ÷ 24 is 13.5 | — | **Both were wrong and 198 over 24 is 8.25 exactly, so the two roundings are gone and the boy gives the working in the sentence: *one hundred and ninety-eight over twenty-four is eight and a quarter*, and the man with the bad ear says *eight and a quarter times the price on the sheet*** | `415:43`, `415:51` |
+| 5 | `420:31`: fifty-two pennies is a shilling and fourpence | the same false figure was mirrored into §5's money table | **Fifty-two pence is four shillings and fourpence. A shilling and fourpence is sixteen pence. Both the line and the mirror are corrected** | `420:27`, §5 below |
+| 6 | `416:5` has a woman of fifty-four; she says sixty-eight twice | `state/character-state.md` also records sixty-eight | **She is sixty-eight in her own mouth twice and in the character state, so the opening was the outlier** | `416:5` |
+| 7 | `413:83` calls the carter's boy a woman | the same person is *his arm* at `415:27`, *I have said no eleven times* at `415:55` and *a boy of nineteen* in `418:55` | **He is a carter of nineteen and the line is corrected in the office's own register: *a carter of nineteen with an arm in a splint who has said no eleven times and I asked him a twelfth thing*** | `413:79` |
+| 8 | `417:45` records Bern Raye as gone on the seventh day of the eightieth week **on the office's charge** | `411:53` and `411:99` put him out of the city on his own two legs on that day and `411:13`'s third clause says the return travels by his hand and not by a carrier; the office's charge is the office's *offer* of conveyance, which he refused | **The read-back now says what the chapter says: *gone out of the city on the seventh day of the eightieth week on his own two legs with three sheets, and to be at the seat on the fourth day of the eighty-second week*** | `417:43` |
+| 9 | §5's *the fourth day of the eighty-second week, which is Chapter 423* is off by one | the same figure is in the hand-off at `state/current.md` | **Shelf = (82−40)×7 + 3 = 297, and 297 + 125 = 422. It is Chapter 422** | §5, `state/current.md` |
+| 10 | `413:3`: *at the third hour on the ninth day of every week* | — | **There is no ninth day and the calendar's weeks have seven. The clause is cut and the boy keeps the same cadence from a thing the band already prints: *at the third hour, and had been at a door at that hour since the eighth morning of a fever*** | `413:3` |
+| 11 | `state/continuity.md` dates the register sheet to the second day of the eighty-second week, which is neither the chapter's phrase nor the right one | — | **The register sheet is read out in `418`, and `418` is the seventh day of the eighty-first week. The cell is corrected to that and the arrival cell above it, the first day of the eighty-first week, was and is right** | `state/continuity.md` |
+| 12 | *Nobody said anything* is used 82 times in 23,005 words, one per 349 | — | **A craft pass, not a figure edit. Forty-six of the eighty-two are gone and two were replaced with a physical beat. It is now 36 in 22,946 words, one per 638** | all ten |
+| 13 | `412:65`: *a thousand times*; the ratio is 960 or about 1,820, and §5 had no row for it | §5 claims *NO FIGURE IN THIS BAND IS OUTSIDE THAT TABLE* | **240 over 48 over 364 is 240 × 364 ÷ 48 = 1,820, and 1,820 is five times 364, which the man at the wheel now says out loud. §5 has a row for it** | `412:61`, §5 below |
+| 14 | `412:59` restates the farthing as *a farthing a day and not quite*; `417:19` says the pound-a-day working was spoken twelve days ago | — | **Corrected, but not to the review's number, and this is the sixth place the review's own arithmetic is wrong: 48 ÷ 364 = 0.1319 pence and half a farthing is 0.125, so the first row is a shade OVER half a farthing a day, not under it. `412:55` now says *a shade over half a farthing a day, and a farthing is very nearly twice that*, which is 1.896 and is the honest relation. And the pound-a-day working is `412:51`, five days before `417`, not twelve** | `412:55`, `417:19` |
+
+**AND THE SIX THINGS THE REVIEW DID NOT FIND, ALL OF THEM FOUND BY RUNNING THE HOUSE'S OWN INSTRUMENTS AGAINST THE CHAPTER FILES INSTEAD OF READING THE REVIEW'S FIGURES.**
+
+1. **A STRAY ASTERISK AT `417:83`**, which made the asterisk count of that chapter odd at eighty-one and made the delivery block's *QUOTES AND ASTERISKS BALANCE IN ALL TEN* false. It stood at `HEAD` and was not this band's doing. One character, now a closing quote.
+2. **THE RECEIPT'S OWN BACK-REFERENCE TO THE WOMAN OF TWENTY-EIGHT'S COUNT OF HER OWN WORK IS WRONG IN THREE PARTINGS AT ONCE AND IT WAS IN TWO FILES.** Both `state/current.md` §2 and this block's §1 say the figure is `chapter − 361`, is fifty-one, and *appears once in this band*. **`chapter − 361` at Chapter 420 is fifty-nine, not fifty-one; the string *fifty-one* is at zero in all ten files; and the count is printed twice, not once, and both times it is forty-nine, at `418:23` and `420:41`.** The prose does not contradict itself and **NOTHING IN THE PROSE WAS CHANGED FOR THIS.** A later phase that wants a formula for her own count should take **forty-nine** and should not take `chapter − 361`.
+3. **THE DELIVERY BLOCK'S `420:47` CITATION POINTED AT A SCENE BREAK.** At `HEAD`, `420:47` is a `---`. The line it was meant to be is `420:49` at `HEAD` and is `420:41` now. **THE RECEIPT WAS CITING A RULE AS IF IT WERE A SENTENCE, AND A CITATION THAT LANDS ON A RULE IS NOT A CITATION.**
+4. **§1's CALENDAR TABLE WAS RIGHT AND §1's CLAIM ABOUT IT WAS FALSE**, which is finding 1's other half and is why the week phrase went seven chapters without anybody reading the chapters against it. **THE THIRD QUESTION THIS PROJECT ALREADY OWNS — is the named day the day the event happened on — WAS NOT RUN ON THIS BAND, AND IT IS THE QUESTION THAT FINDS BOTH HALVES.**
+5. **THE REVIEW'S OWN COUNT OF THE COMPARISON SET WAS RIGHT AND ITS OWN FIGURE FOR THE TIC WAS SLOPPY**: it gives 82 for *Nobody said anything* in the table and then says 66 in the prose and one per 349 in the prose and one per 281 in the table. **THE STRING IS EIGHTY-TWO AND THE RATE IS ONE PER 281**, and 349 is 23,005 over 66, which is a count of a different string. Three figures for one thing and none of them is the one the instrument gives.
+6. **THE REVIEW'S SET SIZE IS RIGHT AND WAS COUNTED**: the comparison ran against **410** earlier chapter files and 10 of this band out of **420** on disk, and it was counted at this repair rather than inherited. The delivery block's *four hundred and ten* was already right.
+
+### 1. THE CALENDAR, ALL TEN ROWS, EVERY CELL PARSED OUT OF THE CHAPTER FILES AT THIS REPAIR, AND THE CLAIM IS NOW TRUE BECAUSE IT WAS MEASURED
+
+**Shelf day = `chapter − 125`. Morning ordinal = `chapter − 250`. Fever age = `chapter − 283`. Days in the city of Orison since the settlement = `chapter − 400`, THE ANCHOR BEING CHAPTER 400 AND `chapter − 351` BEING RETIRED AND NOT USED IN ANY OF CHAPTERS 411 TO 420. A printed week phrase resolves as `shelf = (week − 40) × 7 + (day − 1)`, so the seventh day of the eightieth week is Shelf 286 and the first day of the eighty-first is Shelf 287.**
+
+| Ch | Shelf | Week phrase printed | Morn. ordinal | Days since settlement | Fever age |
+|---|---|---|---|---|---|
+| 411 | 286 | seventh day of the eightieth week | 161, hundred and sixty-first | 11, eleventh | 128, eighteen weeks and two days |
+| 412 | 287 | first day of the eighty-first week | 162, hundred and sixty-second | 12, twelfth | 129, eighteen weeks and three days |
+| 413 | 288 | second day of the eighty-first week | 163, hundred and sixty-third | 13, thirteenth | 130, eighteen weeks and four days |
+| 414 | 289 | third day of the eighty-first week | 164, hundred and sixty-fourth | 14, fourteenth | 131, eighteen weeks and five days |
+| 415 | 290 | fourth day of the eighty-first week | 165, hundred and sixty-fifth | 15, fifteenth | 132, eighteen weeks and six days |
+| 416 | 291 | fifth day of the eighty-first week | 166, hundred and sixty-sixth | 16, sixteenth | 133, nineteen weeks and no days |
+| 417 | 292 | sixth day of the eighty-first week | 167, hundred and sixty-seventh | 17, seventeenth | 134, nineteen weeks and one day |
+| 418 | 293 | seventh day of the eighty-first week | 168, hundred and sixty-eighth | 18, eighteenth | 135, nineteen weeks and two days |
+| 419 | 294 | first day of the eighty-second week | 169, hundred and sixty-ninth | 19, nineteenth | 136, nineteen weeks and three days |
+| 420 | 295 | second day of the eighty-second week | 170, hundred and seventieth | 20, twentieth | 137, nineteen weeks and four days |
+
+**ALL TEN PRINT ALL FOUR AND 10 OF 10 AGREE, MEASURED, NOT INHERITED. THE ONLY THING THAT CHANGED IN THIS TABLE SINCE DELIVERY IS THAT THE CHAPTERS NOW AGREE WITH IT, AND THE ONLY THING THAT CHANGED IN THE CHAPTERS SINCE DELIVERY IS SEVEN WORDS.**
+
+**AND THE REPAIR IS CONFIRMED FOUR TIMES OVER BY THINGS NOBODY WROTE FOR IT.** `412:93`'s *a clerk of thirty filled one in on the seventh day of the eightieth week* is `411`, and it is `411` whether 412 is read as the first day of the eighty-first week or the second. `413:47`'s *the fifth day of last week* is Shelf 284, which is `409`, and `409:3` prints the fifth day of the eightieth week. **AND THE STRONGEST OF THE FOUR IS `417:67`, WHICH SAYS *I HAVE UNTIL THE FOURTH DAY OF THE EIGHTY-SECOND WEEK AND I HAVE USED SIX OF THEM AND THERE ARE FOUR LEFT.* THAT IS EXACTLY TRUE OF A MAN WHO ARRIVED ON THE FIRST DAY OF THE EIGHTY-FIRST WEEK AND IS STANDING ON ITS SIXTH, AND IT IS FALSE OF THE SEVENTH BY ONE, AND IT WAS WRITTEN AGAINST THE SEVENTH.** So were `413:41`'s *two days*, `414:57`'s *three*, `415:19`'s *four* and `416:9`'s *five*. **THE PROSE WAS COUNTING FROM THE RIGHT CHAIN THE WHOLE TIME AND SEVEN OPENINGS SAID SOMETHING ELSE. THE WEEK PHRASE WAS THE ERROR AND NOT THE COUNTS, WHICH IS THE OPPOSITE OF WHAT THE REVIEW EXPECTED AND IS WHY THE REPAIR IS SEVEN WORDS AND NOT A REWRITE.**
+
+### 2. THE SPAN SCAN, THE CALIBRATIONS REPRODUCED FIRST, AND THE FIGURES AT THIS REPAIR
+
+**METHOD, UNCHANGED AND DECLARED WHOLE: per file, in the ten files separately so that no window crosses a boundary, collapse every whitespace run to one space, trim the file, take every window of exactly *k* characters at every position, pool into one tally, keep only the windows occurring more than once.**
+
+| Set | Seventy | Forty |
+|---|---|---|
+| **CALIBRATION, Volume 07 Band 0004, `331`–`340`** | **122 / 254** | **1,201 / 2,817** |
+| **CALIBRATION, Volume 07 Band 0005, `341`–`350`** | **534 / 1,081** | **1,837 / 4,285** |
+| **CONTROL, Volume 09 Band 0001, `401`–`410`** | **120 / 246** | **1,531 / 3,634** |
+| **Volume 09 Band 0002, `411`–`420`, AT DELIVERY** | 236 / 475 | 1,999 / 4,637 |
+| **Volume 09 Band 0002, `411`–`420`, AT THIS REPAIR** | **236 / 475** | **1,924 / 4,480** |
+
+**BOTH CALIBRATIONS AND THE CONTROL REPRODUCED TO THE DIGIT AGAIN, BEFORE THE REPAIR WAS JUDGED, AND THE FIGURE AT SEVENTY IS UNCHANGED AT 236 / 475, WHICH IS THE USEFUL RESULT: FIFTY-NINE WORDS AND FORTY-SEVEN LINES WERE CUT AND NOT ONE WINDOW OF SEVENTY CHARACTERS OR MORE APPEARED OR DISAPPEARED OUTSIDE ITS OWN PLACE. THE FIGURE AT FORTY FELL BY 75 AND 157, AND THAT FALL IS THE ONLY NUMBER IN THIS REPAIR THAT MOVED FOR A CRAFT REASON, BECAUSE FORTY IS LONG ENOUGH TO SEE *THIRTEEN TIMES THE PRICE ON THE SHEET* AND *THE DAY AFTER THE SETTLEMENT* AND NOT LONG ENOUGH TO SEE *NOBODY SAID ANYTHING*, AND THE STRING THE REVIEW FOUND IS TWENTY CHARACTERS.**
+
+**THE CHECK A PER-BAND RUN CANNOT DO WAS RUN AGAIN ANYWAY, AND IT IS THE THIRD TIME IN THIS PROJECT: EVERY LINE OVER FORTY CHARACTERS IN THE 410 EARLIER CHAPTER FILES WAS COMPARED AGAINST EVERY SUCH LINE IN THE TEN FILES OF THIS BAND, IN BOTH DIRECTIONS. THE SETS ARE 18,394 AND 343 DISTINCT LINES AND THEY WERE COUNTED. THE RESULT IS ZERO AND ZERO.**
+
+### 3. THE TIC, THE CRAFT PASS, THE FIGURE AT TWENTY, AND WHAT A PER-BAND RUN AT SEVENTY CANNOT SEE
+
+**THE REVIEW NAMED THE BLIND SPOT AND IT IS THE RIGHT ONE: *NOBODY SAID ANYTHING* IS TWENTY CHARACTERS AND THE BAND'S INSTRUMENT RUNS AT SEVENTY AND FORTY, SO THE STRING THE REVIEW FOUND WAS INVISIBLE TO EVERY INSTRUMENT THIS PROJECT HAD.** A SCAN AT TWENTY WAS RUN AT THIS REPAIR, ON THE BAND AND ON BATCH 0001 AS A CONTROL, AND IT IS THE RIGHT INSTRUMENT FOR A STOCK LINE AND IT IS ALSO THE NOISIEST ONE IN THE PROJECT, because at twenty the leader is *d I am not going to* at 54 windows against Batch 0001's 55, which is a sentence and not a tic.
+
+| Set | *Nobody said anything* | Silence family | Words | One per |
+|---|---|---|---|---|
+| Volume 07 | 44 | — | 111,227 | 1 per 2,528 |
+| **Volume 09 Batch 0001, control** | 24 | 39 | 23,440 | 1 per 977 (family 1 per 601) |
+| **Volume 09 Batch 0002, AT DELIVERY** | **82** | 100 | 23,005 | **1 per 281** (family 1 per 230) |
+| **Volume 09 Batch 0002, AT THIS REPAIR** | **36** | 54 | 22,946 | **1 per 638** (family 1 per 425) |
+
+**FORTY-SIX OF THE EIGHTY-TWO ARE GONE, WHICH IS INSIDE THE REVIEW'S OWN RANGE OF FORTY-FIVE TO FIFTY-FIVE, AND NO SCENE WAS CUT, NO SPEECH WAS CUT, AND NO BEAT WAS MOVED. WHAT WAS CUT WAS A PARAGRAPH THAT CONSISTED OF ONE SENTENCE WHICH MEANT *the room did not answer*, WHICH THE DIALOGUE ON BOTH SIDES OF IT ALREADY SAYS. THE PER-CHAPTER COUNT IS 3 / 6 / 3 / 4 / 4 / 3 / 3 / 2 / 4 / 4, SO THE LONGEST CHAPTER IN THE PROJECT IS ALSO THE ONE THAT KEEPS THE MOST, WHICH IS RIGHT BECAUSE 412 IS THE CHAPTER WITH THE MOST ROOMS IN IT.**
+
+**AND THE SIX THAT SURVIVE WHERE THEY SURVIVE ARE SIX OF THE EIGHT THAT SURVIVE, AND EVERY ONE OF THEM IS A PLACE WHERE A SILENCE IS THE POINT RATHER THAN A PAUSE: `411:11`, A ROOM HEARING A CLERK'S OWN NAME READ OUT AT THE HEAD OF A SHEET; `412:9`, A ROOM HEARING A MAN OF THE SEAT SAY OUT LOUD THAT HE CAN BE SENT FOR AND THAT NOBODY IN THAT WARD CAN; `416:35`, A WOMAN SAYING *NO* IN HER OWN MOUTH IN A CHAMBER SHE CAME TO ON HER OWN ACCOUNT; `417:15` AND `417:29`, A HUT AT A WEIR HEAD WHERE THE WATER MOVES AND ELEVEN FLAT THINGS ON A SILL DO NOT, AND WHERE A LAMP IS TURNED ROUND SO THE WICK IS OUT OF THE WIND; `419:41`, THIRTY PEOPLE WHO HAVE JUST HEARD A MAN AND A MARKER READ OUT AND CANNOT TELL WHICH IS WHICH; `420:47`, A PENCIL PUT DOWN ON A TABLE FOR THE FIRST TIME IN TEN DAYS; AND `420:61`, A QUESTION ASKED OUT LOUD THAT NOBODY ANSWERS, WHICH IS THE ONLY MEMBER OF THE EIGHT THAT IS NOT THE WORDS *NOBODY SAID ANYTHING*.**
+
+**TWO OF THE CUTS WERE REPLACED WITH A PHYSICAL BEAT INSTEAD OF A DELETION, AND ONE OF THOSE IS THE BEST LINE THE PASS ADDED ANYWHERE: at `412:83`, where the woman of sixty with a shawl has finished the thing she says about a woman in a bed at the top of this city, the line is now *The pencil did not move for that one, and she went on standing where she was with her hand flat on the edge of the table.* It is not silence-as-filler, it is a man with a pencil choosing not to write, and it is what makes the question six lines later — *Say whether you have written that down* — and the answer that he wrote a summary and not a sentence land the way they now do. The other is at `412:31`, where the woman with the shawl gets up off the wall to read a government's sheet out loud, and the sentence that used to sit between that and the man of fifty-two asking her to read the first row as it is printed is gone, because a woman getting up off a wall she does not get up off is the whole of that beat and the sentence was standing in front of it.**
+
+**AND THE SECOND REFRAIN CAME DOWN WITH IT. *THE FOUR BELLS WENT OVER TALLOWGATE* WAS IN SIX CHAPTERS AND IS IN THREE: `411:109`, `415:88` in the clipped form the house uses at a panel, and `419:85`. `412`, `413`, `414`, `417` AND `418` DO NOT HAVE IT. IT WAS A REFRAIN AND IT IS STILL A REFRAIN AND IT IS NO LONGER A CLOSING FORMULA.**
+
+### 4. THE REST OF THE INSTRUMENTS, MEASURED OVER THE TEN CHAPTER FILES AT THIS REPAIR
+
+**`Remedy Drafter` ONE, in an italic narration paragraph, in nobody's mouth, awarding nothing, saying in its own words that it is a piece of work and not a rank and is not a step up to anything, AT `420:73` — IT WAS AT `420:89` AT DELIVERY AND EVERY CHAPTER LOST LINES IN THIS REPAIR, AND THE LINE MOVED BY SIXTEEN. `**bold**` EIGHT, ALL EIGHT IN `415:81`–`415:84`. DIGITS OUTSIDE THE TEN HEADINGS ZERO. NUMERIC HEDGE, PATTERN UNCHANGED, **TWENTY-ONE IN 22,946 WORDS, ONE IN 1,093, AND THE PER-CHAPTER DISTRIBUTION IS UNCHANGED AT 1 / 1 / 2 / 3 / 3 / 0 / 0 / 2 / 2 / 7 — THE HITS DID NOT MOVE, THE DENOMINATOR DID.** `it took` 3, WHICH THE HOUSE REPORTS RATHER THAN FORBIDS. UNDECLARED CLOCK ZERO AND NO `o'clock` AT ALL. META-LANGUAGE ZERO. `cover` ZERO AS A SUBSTRING. `conspirac*`, `corrupt`, `right of refusal`, `arbiter`, `first witness`, `system`, `panel`, `render*`, `vault`, `cave`, `ruin`, `temple`, `battlefield`, `relic`, `treasure`, `seam`, `stage`, `anchor`, `healer`, `stone`, `grain year`, `March`, `thank you`, `cannot read`, UPPERCASE `CORRECT`, EVERY WEEKDAY NAME, EVERY MONTH-NAME — ALL ZERO. **QUOTES AND ASTERISKS BALANCE IN ALL TEN, AND THEY DID NOT AT DELIVERY BECAUSE OF THE STRAY ASTERISK AT `417:83`.**
+
+**THE PROBLEMS WITH THE SPELLING OF FIGURES ARE ZERO, WHICH IS A HOUSE RULE, AND THE REVIEW'S FOURTEEN FINDINGS ARE ALL INSIDE IT: NO CHAPTER PRINTS A FIGURE THAT THE FIGURE DOES NOT BEAR. The bar-cost figure was the one the review caught and the receipt canonised, and the receipt was wrong, and the receipt canonising a wrong figure is the failure this block's opening sentence is about.**
+
+### 5. THE MONEY, EVERY FIGURE WITH ITS WORKING, AND THE FIGURE THE RECEIPT LEFT OUT OF THE TABLE
+
+| Figure | The working, in the sentence | Who gave it, asked | Where |
+|---|---|---|---|
+| A person appointed in the register = **a pound a day** | twenty shillings is two hundred and forty pence; a cart is eighteen pence a day and two hundred and forty over eighteen is thirteen and a bit; a boy of eleven carries water for a penny at the end of the week | the man at the wheel, asked, in a room | `412:51` |
+| A keeper of a roll = **four shillings a year = forty-eight pence**; a visit = **a shade over half a farthing** | forty-eight pence over three hundred and sixty-four days is 0.1319 pence, and half a farthing is 0.125, so it is a shade over half and a farthing is very nearly twice it | **NOT RE-WORKED. The man at the wheel DECLINED to work it a second time, in a hut, and said a man in this city had said it better. `412:55` is the only place in the band where he states it arithmetically and he now states it correctly** | declined, in a hut; stated at `412:55` |
+| A pass over any bar = **two shillings** on foot, **four shillings** for a cart | a pass is twenty-four pence and a cart-day is eighteen, so an on-foot pass is one and a bit of the cart itself; a cart pass is forty-eight pence, which is a whole year of what a keeper of a roll is paid, and two on-foot passes is a year of her | the carter's boy of nineteen, in a room, unasked about any figure | `415:29` |
+| What a bar cost = **eleven runs and one hundred and ninety-eight pence of cart** | **eleven runs off the seventh morning of the seventy-ninth week, which is Shelf 279 and Chapter 404, to Chapter 415 at Shelf 290, which is eleven days elapsed; eight miles round, sixteen miles a run; a cart is eighteen pence a day; eleven times eighteen is one hundred and ninety-eight; and a loaf for four of the days which he did not count** | **the carter's boy of nineteen, ASKED what a bar costs, in a room — the first number of his own work anybody has ever asked of him** | `415:41` |
+| A pass against that | one hundred and ninety-eight over twenty-four is eight and a quarter, so the two shillings is an eighth of what it has already cost him and a quarter, and it is the cheapest part of that sentence | the carter's boy of nineteen | `415:43` |
+| **The receipt had no row for this and said no figure in the band was outside the table** | **two hundred and forty pence a day over forty-eight pence over three hundred and sixty-four days is 240 × 364 ÷ 48 = 1,820, and 1,820 is five times three hundred and sixty-four, and the man at the wheel says both of those in the sentence** | **the man at the wheel, unasked, in a room, in his own mouth** | `412:61` |
+| A year out of the city = **three hundred and sixty-four pounds** | twenty shillings a day over three hundred and sixty-four days is seven thousand two hundred and eighty shillings, and that over a keeper of a roll's four shillings a year is one thousand eight hundred and twenty; **and a boy of eleven's year of water is fifty-two pennies, which is four shillings and fourpence, and at delivery this table said a shilling and fourpence, which is sixteen pence** | the man at the wheel, asked, in a room, **and he could not finish the sentence, and said that he has given every figure in this city out loud for thirty-one years and this is the first time he has given one and not been able to** | `420:21`, `420:27` |
+| The office's year | the office counts a year as three hundred and sixty-four days, which is the same as ours, and that is the only figure on the sheet the man at the wheel could put next to anything at all | the man at the wheel, asked | `420:21` |
+| When the schedule leaves this city | the fourth day of the eighty-second week, **which is Chapter 422 and not Chapter 423**, said by the man of the seat twice, in a room and then at a crossing | Kerwin Dace, of the seat | `412:17`, `417:67` |
+
+**THE TWELVE SHILLINGS THE SETTLEMENT STANDS ON ARE UNPAID AND THIS REPAIR DID NOT PAY THEM AND DID NOT TOUCH THEM. NO FIGURE IN THIS BAND IS OUTSIDE THIS TABLE, AND NOW THAT IS TRUE RATHER THAN CLAIMED.**
+
+### 6. THE PROSE TABLE, TEN ROWS, MEASURED AT THIS REPAIR, AND THE OLD FIGURES BESIDE THEM
+
+| Ch | Bytes, printed | Bytes, measured | Words, printed | Words, measured | Shelf | Morn. | Days since | Fever | `**` | Hedge | *NSA* |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 411 | 11,852 | **11,806** | 2,456 | **2,450** | 286 | 161 | 11 | 128 | 0 | 1 | 3 |
+| 412 | 14,293 | **14,527** | 2,920 | **2,976** | 287 | 162 | 12 | 129 | 0 | 1 | 6 |
+| 413 | 10,478 | **10,358** | 2,197 | **2,179** | 288 | 163 | 13 | 130 | 0 | 2 | 3 |
+| 414 | 10,189 | **10,032** | 2,110 | **2,088** | 289 | 164 | 14 | 131 | 0 | 3 | 4 |
+| 415 | 11,081 | **11,075** | 2,274 | **2,280** | 290 | 165 | 15 | 132 | 8 | 3 | 4 |
+| 416 | 10,553 | **10,416** | 2,188 | **2,170** | 291 | 166 | 16 | 133 | 0 | 0 | 3 |
+| 417 | 10,565 | **10,490** | 2,178 | **2,176** | 292 | 167 | 17 | 134 | 0 | 0 | 3 |
+| 418 | 9,371 | **9,239** | 1,953 | **1,934** | 293 | 168 | 18 | 135 | 0 | 2 | 2 |
+| 419 | 9,866 | **9,774** | 2,059 | **2,047** | 294 | 169 | 19 | 136 | 0 | 2 | 4 |
+| 420 | 12,890 | **12,714** | 2,670 | **2,646** | 295 | 170 | 20 | 137 | 0 | 7 | 4 |
+| **TOTAL** | **111,138** | **110,431** | **23,005** | **22,946** | | | | | **8** | **21** | **36** |
+
+**THE BAND IS 707 BYTES AND 59 WORDS SHORTER THAN IT WAS AT `HEAD`, AND EVERY WORD THAT WENT WAS A *NOBODY SAID ANYTHING* OR A *THE FOUR BELLS WENT OVER TALLOWGATE*, EXCEPT IN 412 AND 415, WHICH ARE THE TWO CHAPTERS WHERE THE REPAIRS ADDED SENTENCES: 412 IS 234 WORDS LONGER BECAUSE THE FARTHING, THE RATIO AND THE PENCIL BEAT WERE WRITTEN OUT INSTEAD OF ROUNDED, AND 415 IS SIX WORDS LONGER BECAUSE *ONE HUNDRED AND NINETY-EIGHT OVER TWENTY-FOUR IS EIGHT AND A QUARTER* IS LONGER THAN *THE TWO SHILLINGS IS A FOURTEENT OF WHAT IT HAS ALREADY COST ME*. 412 IS STILL THE LONGEST SINGLE CHAPTER IN THE PROJECT AT 2,976 WORDS.**
+
+**AND THIS REPAIR'S OWN ACCOUNT OF THE SIX FILES, BY BYTES ADDED, MEASURED AGAINST `HEAD`, WITH ZERO LINES REMOVED FROM ANY OF THEM: `state/batch-summary.md` **+31,850**, `state/current.md` **+11,826**, `state/character-state.md` **+5,815**, `state/open-threads.md` **+4,700**, `state/chapter-summaries.md` **+4,732**, `state/continuity.md` **+4,432**. TOTAL ADDED **+63,355. TOTAL REMOVED ZERO. NOTHING WAS DELETED FROM ANY ARCHIVE BLOCK IN ANY OF THE SIX FILES, AND THAT IS NOT A CLAIM: THE `HEAD` CONTENT OF ALL SIX IS AN EXACT SUFFIX OF THE NEW CONTENT, WHICH WAS CHECKED AS BYTES AND NOT AS A DIFF.** `state/batch-summary.md` IS OVER THE TWELVE THOUSAND CEILING AGAIN AND IT IS THE FILE THE HOUSE KEEPS THE TABLES IN, AND THE NEW §0 IS A TABLE OF FOURTEEN FINDINGS BECAUSE FOURTEEN FINDINGS IS WHAT THE REVIEW RAISED AND SHORTENING IT WOULD BE THE SAME FAILURE THE REVIEW FOUND. **THE ANSWER IS STILL A PRUNE AND IT IS STILL A SEPARATE MEASUREMENT, AND A VOLUME 09 CLOSE THAT ADDS A COMPACT, A CO-WITNESS AND FOUR MORE BANDS OF PERSONS WILL BE OVER AGAIN.**
+
+### 7. THE ANCHORS, THE OLD LINE AND THE NEW LINE, BECAUSE FIFTY-NINE LINES WERE CUT AND EVERY CITATION IN THE SIX FILES THAT POINTS INSIDE THIS BAND HAS MOVED
+
+**A CHAPTER WAS NOT MOVED AND A CHAPTER WAS NOT RESTARTED. LINES WERE CUT FROM THE MIDDLE OF TEN CHAPTERS, WHICH IS WHAT A CRAFT PASS DOES, AND IT MEANS EVERY `chapter:line` CITATION IN THE SIX STATE FILES IS TWO TO EIGHT LINES HIGH UNTIL IT IS READ AGAINST THE FILES. THE HOUSE RULE IS THAT A CITATION IS A POINTER AND A POINTER THAT HAS NOT BEEN RE-READ IS A GUESS, AND FINDING 3 ABOVE IS A CITATION THAT HAD BEEN GUESSED.**
+
+| Old | New | Old | New | Old | New | Old | New |
+|---|---|---|---|---|---|---|---|
+| `411:13` | `411:13` | `415:31` | `415:29` | `417:45` | `417:43` | `419:47` | `419:41` |
+| `411:55` | `411:53` | `415:39` | `415:35` | `417:75` | `417:67` | `419:55` | `419:49` |
+| `411:81` | `411:79` | `415:47` | `415:41` | `418:5` | `418:5` | `420:23` | `420:21` |
+| `411:103` | `411:99` | `415:51` | `415:43` | `418:63` | `418:55` | `420:27` | `420:23` |
+| `412:17` | `412:17` | `415:59` | `415:51` | `418:71` | `418:63` | `420:31` | `420:27` |
+| `412:45` | `412:41` | `415:63` | `415:55` | `418:73` | `418:65` | `420:53` | `420:43` |
+| `412:55` | `412:51` | `415:89`–`92` | `415:81`–`84` | `418:81` | `418:73` | `420:89` | `420:73` |
+| `412:59` | `412:55` | `416:5` | `416:5` | `419:5` | `419:5` | `412:109` | `412:103` |
+| `412:65` | `412:61` | `416:45` | `416:41` | | | `413:3` | `413:3` |
+| `414:21` | `414:21` | `416:91` | `416:79` | | | `413:49` | `413:47` |
+| `417:19` | `417:19` | | | | | `413:83` | `413:79` |
+
+**AND `420:47` IS NOT IN THE TABLE BECAUSE AT `HEAD` IT WAS A `---` AND THE RECEIPT CITED IT AS A SENTENCE. THE LINE IT MEANT IS `420:41`.**
+
+### 8. WHAT IS STILL OUTSTANDING, AND IT IS THREE ITEMS AND NONE OF THEM IS IN THIS BAND
+
+1. **`405:43` STILL SAYS *FORTY-EIGHT PENCE OVER THREE HUNDRED AND SIXTY-FOUR DAYS IS A FARTHING A DAY AND NOT QUITE*,** which is the same overstatement this repair corrected at `412:55`, in Batch 0001, where it was first said. The review named only the Chapter 412 instance. **A CHAPTER OUTSIDE THIS PHASE WAS NOT TOUCHED AND THE INSTANCE IS NAMED HERE WITH ITS MEASURED VALUE, 0.1319 PENCE AGAINST A FARTHING'S 0.25, so that the next pass is one edit and not a search.**
+2. **THE PHASE LEDGER IS WRONG AGAIN AND IT IS THE CONTROLLER'S FILE AND THIS PHASE DID NOT TOUCH IT.** `state/phase-ledger.json` reads `currentPhase: "batch-0002"`, `volume: 1`, `startChapter: 11`, `endChapter: 20`, `status: "planned"`, with a note pointing at `workspace/volume-01/batch-0002/PROMPT.md`. The real phase is Volume 09 Batch 0002, Chapters 411–420, delivered and now repaired. The reviewer flagged it, the Batch 0001 review flagged it, and this is the third phase in a row, and **it is not a fiction file and it is not this phase's to write.**
+3. **THE BACK-REFERENCE TO THE WOMAN OF TWENTY-EIGHT'S OWN COUNT IS FORTY-NINE, AT TWO PLACES, AND NO FORMULA FOR IT IS KNOWN.** §0's item 2 above. The prose is not self-contradictory and nothing was changed for it.
+
+### 9. THE HAND-OFF, UNCHANGED FROM THE DELIVERY BLOCK AND NOT SPENT
+
+**FOR BATCH 0003: THE MIDPOINT IS NOT TO BE FORESHADOWED AND IS NOT TO BE SPENT HERE. **THE RETURN ROUTE IS REAL** IS BATCH 0003'S TO FIND AND NOT THIS BAND'S, AND THE LAST LINE OF `420` IS AN UNANSWERED QUESTION ABOUT WHO IT IS FOR AND NOT A FINDING ABOUT IT. THE REGISTER IS FILLED AND THE PERSON IN IT IS OF THE SEAT. THE CLERK OF THIRTY IS FOUR HUNDRED MILES OFF WALKING WITH THREE SHEETS AND HE REFUSED THE OFFICE'S CHARGE. TARIN KEEL IS WALKING AFTER HIM AND ILYAN SAID OUT LOUD THAT HE WAS NOT GOING TO STOP HIM. THE OFFICE'S MAN GOES OUT OF THIS CITY ON THE FOURTH DAY OF THE EIGHTY-SECOND WEEK, **WHICH IS CHAPTER 422**, WITH A SCHEDULE AND A RETURN AND NO NAME IN EITHER. THE ROADKEEPER IS A PERSON IN A RECORD. THE ANCHOR IS CHAPTER 400 AND NEITHER IT NOR `chapter − 400` MAY BE CHANGED. **AND THE TWO THINGS THIS BAND'S REPAIR ADDS TO THAT LIST ARE WORSE THAN THE TWO IT REMOVES: BATCH 0003 OPENS ON A CHAPTER WHOSE EVERY `chapter:line` CITATION MUST BE RE-READ, AND BATCH 0003'S SPAN SCAN HAS A COMPANION INSTRUMENT AT TWENTY CHARACTERS WHICH THIS PROJECT DID NOT HAVE BEFORE THIS REPAIR.**
+
+---
+
 ## VOLUME 09 BATCH 0002 — CHAPTERS 411–420, THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT. **THE RECEIPT, THE PANEL REGISTER, THE CALENDAR ANCHOR AND THE FINDING ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH IS WHERE THE HOUSE KEEPS THEM. It supersedes the `## VOLUME 09 BATCH 0001 — CHAPTERS 401–410, THE MEASUREMENT TABLES…` block below it and nothing below the rule has been edited. Chapters 1–420 are canon. The next phase is `workspace/volume-09/batch-0003/`, Chapters 421 to 430, *The Midpoint*, on disk and NOT marked, and this one is NOT marked either.**
 
 ### 1. THE CALENDAR, ALL TEN ROWS, EVERY CELL PARSED SEPARATELY OUT OF THE CHAPTER FILES AND NONE INHERITED

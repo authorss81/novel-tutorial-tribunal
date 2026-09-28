@@ -4,8 +4,6 @@ The second day of the eighty-second week was his hundred and seventieth morning 
 
 “*Five. A person of the place who is removed from a city, or who applies to be removed from a city, may be conveyed at the charge of the office beyond the Shelf, and the office will pay that person one year's wage at the rate of the second row, in one sum, at the seat, on the giving of a name. A place is kept. A person so conveyed is not to be asked about the city afterwards.*”
 
-Nobody said anything.
-
 “*Have that again,*” said the man with the bad leg.
 
 The man of thirty-eight said it again, in the same voice, and about forty people heard it the second time, and a man of fifty-two at the end of the table said the second half, and nobody stopped him, and the man of thirty-eight said it a third time because a man asked him to and because a clerk reads a thing three times when a room is full and that is the ordinary practice in every building in this country.
@@ -22,13 +20,11 @@ It was the man at the wheel who said it and he had come up the mile and a half w
 
 “*A pound is twenty shillings,*” said Bevin Tarr. “*A year in this city is three hundred and sixty-four days and the days are counted as the office counts them, and the office counts a year as three hundred and sixty-four days, which is the same as ours, and that is the only figure in that sheet that I have been able to put next to anything at all. So twenty times three hundred and sixty-four is seven thousand two hundred and eighty shillings, and there is no coin in this country of that size and no plate in my yard that long, and the sum is three hundred and sixty-four pounds.*”
 
-Nobody said anything.
-
 “*And against a keeper of a roll,*” he said, “*which is four shillings a year, forty-eight pence, three hundred and sixty-four days: seven thousand two hundred and eighty over four is one thousand eight hundred and twenty. So it is one thousand eight hundred and twenty years of what the only person anybody can be asked about a roll in this city is paid.*”
 
 Nobody said anything.
 
-“*And against the boy of eleven at the end of this row,*” said the man at the wheel, “*who carries water for a penny at the end of the week, and a year of that is fifty-two pennies, and fifty-two pennies is a shilling and fourpence, and a shilling and fourpence is what he earns in a year of carrying other people's water, and I have got the two figures in my head and I have looked for about a minute for a thing in this city to put the first one next to and there is not one, and I have given every figure in this city out loud with the working in the sentence for thirty-one years and this is the first time I have given one and not been able to finish the sentence.*”
+“*And against the boy of eleven at the end of this row,*” said the man at the wheel, “*who carries water for a penny at the end of the week, and a year of that is fifty-two pennies, and fifty-two pennies is four shillings and fourpence, and four shillings and fourpence is what he earns in a year of carrying other people's water, and I have got the two figures in my head and I have looked for about a minute for a thing in this city to put the first one next to and there is not one, and I have given every figure in this city out loud with the working in the sentence for thirty-one years and this is the first time I have given one and not been able to finish the sentence.*”
 
 He stopped.
 
@@ -36,23 +32,15 @@ He stopped.
 
 “*The rest of it is that the office is counting in days and this city is counting in rounds. A round is four hundred and twenty days and a year is three hundred and sixty-four, and a round is a year and fifty-six days, and that is the keeper's figure and it is hers and she gave it out loud in a room a fortnight ago. And there is no column in this city that takes a day. Every figure anybody in this room has ever said out loud is a figure about a round or a year or a fortnight, and a pound a day is not one of those and I cannot make it one.*”
 
-Nobody said anything.
-
 “*Then say the finding of it in your own mouth,*” said the man with the bad ear, “*because you are the man who gives the figures and you have given it four times and you have not said what it is.*”
 
 “*I am the man who gives the figures and I have not got a finding, I have got a sum,*” said the man at the wheel. “*And I will say the one thing I have and it is not a finding. The farthing in the first row and the pound in the second row and the three hundred and sixty-four pounds in the fifth row are all the same office and there is one ruled line between each of them and I have read all three in a room this week. And a man of thirty-eight from four hundred miles has told this room that he does not know what the money is for, and he has told us that he has not asked. So I have got three figures off one sheet and a man who prints them saying he does not know, and I have been giving figures out loud for thirty-one years and I have never had three off one sheet before and I have never had a man from the seat stand in a room and say he does not know.*”
-
-Nobody said anything.
 
 ---
 
 “*Then here is what is wrong with it,*” said the woman of twenty-eight, from the wall, and she had her slate under her arm and she had forty-nine days of doors behind her and nine hundred doors in this ward and about four miles of road on the other side of a rail that was up for thirteen days, and she had been asked nothing.
 
-Nobody said anything.
-
 “*You cannot compare it,*” she said. “*That is all. That is the whole of what I have got and I have been standing there since he said three hundred and sixty-four and I have been waiting for one of the men at this table to say it and none of them did, because a man of fifty-two counts halls and doors and a man at the wheel gives sums, and neither of them will say a thing that is not a number, and I will, because I have said four things in ten days that were not numbers and every one of them went into a book, and this one will go into a book too and I would like there to be a book in this city with my reason in it for once and not my whole face.*”
-
-Nobody said anything.
 
 “*A pass costs two shillings and a farthing costs a farthing and a pound costs a pound and I can say which of those I can do. Three hundred and sixty-four pounds is not one of those. It is not a rate and it is not a price. It is a number of days counted by a man four hundred miles off at a pound a day, and the days are his days and not ours, and there is nothing in this city I could put it against, and that is not because three hundred and sixty-four pounds is a great deal of money. It is because the half of that sheet which is money is the half that is about me, and the half that is not money is the half about where I go, and I have no figure for the second half and there is no column for it and there is not going to be one.*”
 
@@ -64,11 +52,7 @@ Kerwin Dace wrote it down.
 
 “*Then ask the question,*” said the man with the bad leg.
 
-Nobody said anything.
-
 “*Ask the question,*” he said, “*because there is one thing left in that schedule and no one in this room has said it out loud and about forty people are here and they are all going to go out of that door in about a quarter of an hour and take it with them, and the office has a place kept and a year of money and has not said who the place is for, and if nobody asks it in this room then it will be asked in a room in a city four hundred miles off by people who have never been to a road in their lives.*”
-
-Nobody said anything.
 
 “*Then who is it for,*” said the woman of twenty-eight.
 
