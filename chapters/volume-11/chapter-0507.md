@@ -40,7 +40,7 @@ He did it well. About nine men on a bank did not stop for him and did not start 
 
 He had come to a town of two thousand four hundred people on a chalk slope two days off — a night at a lodging at the end of a lane and a day in a cart that stops four miles short — from a market town of four thousand people where he had spent forty-eight days making sentences. He had been in this town five days. He had asked a woman with a key for a place in a room, and he had been entered on a leaf at the back of a four-hundred-and-eleven-year-old book, and he had been refused a thank-you on a step.
 
-He had not in five days been told one single thing about a bar and a coping and a footing course. On a Saturday morning on a chalk bank in England a hundred and forty years ago somebody was doing exactly this and would have done it exactly as badly, and there was no form in this county that said he had to be good at it, and there was no form that said he did not have to be.
+He had not in five days been told one single thing about a bar and a coping and a footing course. On a Saturday morning on a chalk bank in this country a hundred and forty years ago somebody was doing exactly this and would have done it exactly as badly, and there was no form in this county that said he had to be good at it, and there was no form that said he did not have to be.
 
 At about the half hour after the eleventh the woman of thirty-four came down the bank past him, going to the bottom end, and stopped, and did not say anything about the barrow.
 

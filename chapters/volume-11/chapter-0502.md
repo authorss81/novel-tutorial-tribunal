@@ -78,7 +78,7 @@ He came into Bramblefold down past the smithy and the saddler’s shop and along
 
 He had one pound and fourpence. He said that to himself in a lane and made it add up twice, because a man who has been in a town of four thousand people for forty-eight days without once paying for a bed is not a man who should be loose with arithmetic.
 
-A penny a night at the smith’s, which is a room over a shop with a bed in it and a fire in the grate. Bread is a penny, and a man’s day-work on the making-up of a wall is eightpence. At three pence a day he has eighty-one days and a penny over, and eighty-one days is about ten weeks and three days.
+A penny a night at the smith’s, which is a room over a shop with a bed in it and a fire in the grate. Bread is a penny, and a man’s day-work on the making-up of a wall is eightpence. At three pence a day he has eighty-one days and a penny over, and eighty-one days is eleven weeks and four days.
 
 He worked that out on the edge of the pond. There is no mill at Bramblefold; there is a pond, and the wheel came off in his grandfather’s time, and the pond is where the town’s water is. The water is not the business of this town. The book is.
 

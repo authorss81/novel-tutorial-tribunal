@@ -20,7 +20,7 @@ A book four hundred and eleven years old, in calf, with four hands in it and fou
 
 She read it out in the porch standing, in the voice she uses for minutes, and it took about ninety seconds.
 
-About nine people were in that porch and about nine were in the square, the square on a Tuesday being a place with the bars of last Thursday’s stalls still lying in the mud. A market town of about two thousand four hundred people had found out by Tuesday that something was going to happen in a room on Saturday, and about a hundred and ninety of them would be in that square on the market day, and the other hundred and ten would not, and a place of that size finds out a thing like that in a day and a half.
+About nine people were in that porch and about nine were in the square, the square on a Tuesday being a place with the bars of last Thursday’s stalls still lying in the mud. About three hundred people in a town of about two thousand four hundred had found out by Tuesday that something was going to happen in a room on Saturday, and about a hundred and ninety of them would be in that square on the market day, and the other hundred and ten would not, and a place of that size finds out a thing like that in a day and a half.
 
 “*Nothing is carried,*” she said, when she had finished. “*Say that back to me, please, because it is the load-bearing three words and I want to hear somebody else say it in the open air.*”
 
@@ -86,9 +86,9 @@ She set the pen down.
 
 And then she did the other thing, and it was at the foot of the leaf and not on the entry, and it was in her hand and in a different ink.
 
-Two lines. They say that the name at the head of the space was entered at the asking of a person not of this town whose record is not findable; and that he is entered at the back of that book on an unruled leaf with no column upon it; and that he came into this town on a cart road that ends at the Four Gates; and that no body in this county can be asked anything about him; and that there is no form in the county of Aldwick that says he may be asked and none that says he may not.
+Four sentences, in a different ink, and the longest of them is about thirty words. They say that the name at the head of the space was entered at the asking of a person not of this town whose record is not findable; that he is entered at the back of that book on an unruled leaf with no column upon it, and that he came into this town on a cart road that ends at the Four Gates; that no body in this county can be asked anything about him; and that there is no form in the county of Aldwick that says he may be asked and none that says he may not.
 
-Four sentences, and about eleven words each. She read them out in the porch standing, in the voice she uses for minutes, and about nine people in that porch heard the whole of them. About nine in the square heard a woman reading something out of a doorway on a Tuesday morning and not one word of it.
+She read them out in the porch standing, in the voice she uses for minutes, and about nine people in that porch heard the whole of them. About nine in the square heard a woman reading something out of a doorway on a Tuesday morning and not one word of it.
 
 “*That is the ninth of the nine,*” she said afterwards, when a man of about nineteen asked her what the nine was. “*It is a man who came to see the book and is not a descent and holds nothing and has no line but a space with a name in it. It is the only one of the nine that anybody in this town can read out and understand in about four seconds, and I expect it will be the one of the nine that is read out in a hundred years.*”
 

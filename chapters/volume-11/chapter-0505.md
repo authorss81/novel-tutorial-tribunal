@@ -72,7 +72,7 @@ The woman of sixty-one said that four people could read the hand on the front of
 
 ---
 
-A man of thirty-one was thirty feet away with a piece of paper nowhere in sight, and his want that morning was the plainest want he has had in ten volumes, which was that the answer to this turn out to be the right one. He got about nine seconds of it before it turned into a sentence he had not meant to say.
+A man of thirty-one was thirty feet away with a piece of paper nowhere in sight, and his want that morning was the plainest want he has had since he came to this country, which was that the answer to this turn out to be the right one. He got about nine seconds of it before it turned into a sentence he had not meant to say.
 
 “*Then put it back,*” he said. “*Put the names back. A name restored is a name restored, and if there is no order named then there is nothing to weigh against it, and forty-three families get their page and this is finished.*”
 
@@ -116,7 +116,7 @@ A man of about forty-four six feet back said his name.
 
 And then the old man came.
 
-He came down the lane on a stick at about the ninth hour and stopped at the end of the wool bench, and the square made about four feet of room for him and took it back again, which is the whole of what a market square does for anybody.
+He came down the lane on a stick at about the twelfth hour and stopped at the end of the wool bench, and the square made about four feet of room for him and took it back again, which is the whole of what a market square does for anybody.
 
 He is Barnaby Rill. He kept the book before his daughter and he cannot read it now and says so, and he has come out on a Thursday for the first time in about nine years, and he did not come for the eggs.
 
@@ -188,6 +188,6 @@ The looms were still.
 
 “*My father was told that in a room with about nine people in it, and I am sixty-two, and that is the only time anybody has ever told me anything about it.*”
 
-He did not ask the man of thirty-one for anything at all. That was the thing about it. He had said the whole of what he wanted, and it was in a market square at eleven o’clock in the morning, and it was a half-acre. About nine people heard the words and about two hundred heard the word *struck*, and neither of those numbers is a number anybody can be sent for.
+He did not ask the man of thirty-one for anything at all. That was the thing about it. He had said the whole of what he wanted, and it was in a market square at about half past eleven in the morning, and it was a half-acre. About nine people heard the words and about two hundred heard the word *struck*, and neither of those numbers is a number anybody can be sent for.
 
 The fever was thirty-one weeks and five days old. About two hundred people were in a market square in a town of about two thousand four hundred people, and a hundred and ninety of them now knew a thing that nine people in a room knew in a different shape, and a man of sixty-two had stood in a market square and said that a name is not a word, and had been answered by a man holding a bill of sale in a coat who had not touched it.

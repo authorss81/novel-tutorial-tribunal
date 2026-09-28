@@ -1,4 +1,4 @@
-# Chapter 509: The Seventh And Last Day Of The Ninety-Fourth Week, And A Monday On Which The Frost Comes Down In The Lower Corner Of An Orchard And Takes About Four Weeks Of Fruit Off About Ninety Half-Size Trees, And A Boundary Stone Comes Up Out Of The Footing Of A Wall In Kiln Lane With A Date Cut Into The Top Of It That Is A Hundred And Forty-One Years Old And A Day Of A Week On It That Is A Tuesday, And A Man Of Thirty-One Asks Nine Men Where They Were And Is Told By A Man Of Forty-Four That He Is Asking Nine Men To Be Found With
+# Chapter 509: The Seventh And Last Day Of The Ninety-Fourth Week, And A Monday On Which The Frost Comes Down In The Lower Corner Of An Orchard And Takes About Four Weeks Of Fruit Off About Forty Half-Size Trees, And A Boundary Stone Comes Up Out Of The Footing Of A Wall In Kiln Lane With A Date Cut Into The Top Of It That Is A Hundred And Forty-One Years Old And A Day Of A Week On It That Is A Tuesday, And A Man Of Thirty-One Asks Nine Men Where They Were And Is Told By A Man Of Forty-Four That He Is Asking Nine Men To Be Found With
 
 Seventh and last day of the ninety-fourth week, and the morrow is the first day of the ninety-fifth. His two hundred and fifty-ninth morning. One hundred and nine days after the settlement. The fever thirty-two weeks and two days. Sixty-three days since the division. Nine days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
@@ -10,7 +10,7 @@ The lower corner of the orchard is a frost pocket. It is about a quarter of an a
 
 It is a fortnight later than the rest of the orchard, and about twice as good if it comes at all, and the trees in it are about half the size of the other about nine hundred, because they were planted about ninety years later and they are on about thirty feet of rows between about forty trees.
 
-It had fruit on it on the Sunday. A man of sixty-two had said so at the fourth hour on the Saturday in a market square, and had come down off the wall at the fifth hour to prove it. There is a canvas sack, a hook, and about four weeks left on the branch.
+It had fruit on it on the Sunday. A man of sixty-two had been in the lower corner of it at the fourth hour on the Saturday with a hook and a canvas bag, doing the half-size trees, and about four weeks of the fruit was still on the branch then.
 
 At about the seventh hour a man of fifty came down Kiln Lane and stopped in the middle of it and stood there a while, and then a woman came, and then about nine people came out of about nine houses.
 
@@ -136,7 +136,7 @@ They got nine feet of wall up again by about the second hour of the afternoon, i
 
 The stone with the word on it was put in a shelf inside the wall by a man of forty-four with his own hand, and nobody asked where, and about four people watched him choose the spot.
 
-About a hundred and ninety people will be in that square on Thursday, and the frost has taken the whole of a fortnight off a quarter of an acre that a man of sixty-two works for nothing, and there is no column in that book or in any other instrument in this county for what a week of weather takes off a man who is owed nothing for what he does to it.
+About a hundred and ninety people will be in that square on Thursday, and the frost has taken the whole of four weeks off a quarter of an acre that a man of sixty-two works for nothing, and there is no column in that book or in any other instrument in this county for what a week of weather takes off a man who is owed nothing for what he does to it.
 
 The reading of the book in the chancel did not happen on the Saturday, because the only person who reads it was up on a bank from the seventh hour. It will be done on the next Saturday with the door open, and the leaf that is to be read out is that same Saturday and not the one after it, and about nine people will be in the room and about a hundred and ninety in the square.
 

@@ -1,4 +1,4 @@
-# Chapter 508: The Sixth Day Of The Ninety-Fourth Week, And A Sunday On Which A Room In This Town Is Shut On Purpose For The First Time In Two Volumes, And A Woman Of Sixty-Eight On The Upper Row Is Asked Whether She Will Have Her Own Family Put Back Into A Book At The Cost Of A Claim On The Four Rooms And A Yard She Has Paid For Twenty-Two Years, And Says No In About Four Sentences, And A Man Of Thirty-One Offers To Be The Instrument Of A Line And Is Refused For A Reason He Understands In The Room
+# Chapter 508: The Sixth Day Of The Ninety-Fourth Week, And A Sunday On Which A Room In This Town Is Shut On Purpose For The First Time In Nineteen Years, And A Woman Of Sixty-Eight On The Upper Row Is Asked Whether She Will Have Her Own Family Put Back Into A Book At The Cost Of A Claim On The Four Rooms And A Yard She Has Paid For Twenty-Two Years, And Says No In About Four Sentences, And A Man Of Thirty-One Offers To Be The Instrument Of A Line And Is Refused For A Reason He Understands In The Room
 
 Sixth day of the ninety-fourth week. His two hundred and fifty-eighth morning. One hundred and eight days after the settlement. The fever thirty-two weeks and one day. Sixty-two days since the division. Eight days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
@@ -12,7 +12,7 @@ There were nine people in it. There are about nine in a room in this town when s
 
 The first thing that happened was not about a name.
 
-A man of thirty-one had been in this town six days, and he had come into the room with a sheet squared for headings, which he has done in about nine rooms in two volumes. The woman of thirty-four took the sheet off him at the door and put it outside the door on the sill, and did not explain.
+A man of thirty-one had been in this town six days, and he had come into the room with a sheet squared for headings, which he has done in about nine rooms in a hundred and eight days. The woman of thirty-four took the sheet off him at the door and put it outside the door on the sill, and did not explain.
 
 The sheet went out on the sill and every person in that room watched it go out, and not one of them asked her what it was for, and she did not offer.
 
@@ -82,7 +82,7 @@ The panel went when he chose it. It does not stay, and there is no form in this 
 
 ---
 
-And about two minutes after that, before anybody had said a word about the panel or about what he had just done, he offered to be the instrument, which he has now offered four times in two volumes. Two people in that room had been in a room when he offered it before.
+And about two minutes after that, before anybody had said a word about the panel or about what he had just done, he offered to be the instrument, which he has now offered four times in a hundred and eight days. Two people in that room had been in a room when he offered it before.
 
 “*I will carry it,*” Ilyan Vester said. “*I will write the line. I will take it up to Aldwick with the return on the Wednesday, and I will stand in that office and ask the one question nobody in this county can ask, which is who ordered the page struck. And I will come back with the answer, or I will come back with the fact that there is no answer, and both of those are worth more than anything said in this room today.*”
 

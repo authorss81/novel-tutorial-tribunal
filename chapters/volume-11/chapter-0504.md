@@ -48,7 +48,7 @@ She put her thumb on the edge of the page.
 
 “*So I carry it forward, and every time the week is made I write it forward, and the book has four hundred years in it and about four hundred men in it a year, and every one of them is alive in the book.*”
 
-He looked at the columns for a while. He was a man who had spent ten volumes reading instruments in order to find the thing a rule does not say, and he found it, and it took him about nine seconds, and he said it out loud, in a porch, to about nine people, before he had decided whether to say it.
+He looked at the columns for a while. He was a man who had spent a hundred days reading instruments in order to find the thing a rule does not say, and he found it, and it took him about nine seconds, and he said it out loud, in a porch, to about nine people, before he had decided whether to say it.
 
 “*Then it has never lost anybody.*”
 
@@ -116,7 +116,7 @@ And there is a single stroke from about an inch below the top rule to about an i
 
 It is not a cancellation. It is not a struck-out entry, corrected and left legible. It is a line through the whole leaf, done in one movement, and after it somebody has written a heading on the inner margin near the top in the same heavy ink, four words.
 
-**struck by order**
+*struck by order*
 
 and nothing else. No day on it. No name of the person who struck it. No name of the person who ordered it. No seal, no counter, no office, no county, and no number of any kind, and the four words are the entire account this town has ever had of the largest thing that has ever happened in it.
 

@@ -4,7 +4,7 @@ Fourth day of the ninety-fourth week. His two hundred and fifty-sixth morning. O
 
 The week of a country town is made on the Friday night. The descent, the births, the deaths, the fold coming in and going out, and whose ground it is under the wall. It is written on one sheet, in chalk, on a board, and it goes up on the end wall of the smithy, where about nine people read it going in and out and about two hundred read it on the market day, and nobody has ever written down a rule that says it has to be there.
 
-Toby Henshaw was fourteen and he wrote it in chalk on a board, because a man of sixty-one had done it in chalk for eleven years, and before that a woman had done it in chalk, and before that it was a slate. He can count and he cannot yet add, and he is paid a penny for the week, and the penny comes out of a hundred and forty pounds.
+Toby Henshaw was fourteen and he wrote it in chalk on a board, because a man of sixty-one had done it in chalk for eleven years, and before that a woman had done it in chalk, and before that it was a slate. He can count and he cannot yet add, and he is paid a penny for the week, and the penny comes out of the twenty-eight pounds a year that the fold brings in at four shillings the acre.
 
 He had got as far as the second column on the Friday morning and had got the deaths wrong.
 

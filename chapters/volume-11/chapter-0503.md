@@ -2,7 +2,7 @@
 
 First day of the ninety-fourth week. His two hundred and fifty-third morning. One hundred and three days after the settlement. The fever thirty-one weeks and three days. Fifty-seven days since the division. Three days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
-The market of Bramblefold is on a Thursday. That is written on a slate outside the chandler’s and it has been written there about forty years, and the chalk is always a week ahead of the day. This was a Tuesday, and the square was empty, with the bars of last Thursday’s stalls still lying in the mud and the sweep in the middle not done yet, because the sweep is done on a Wednesday night by two men who are paid a penny each out of a hundred and forty pounds that a hundred and forty acres of sheep bring in a year.
+The market of Bramblefold is on a Thursday. That is written on a slate outside the chandler’s and it has been written there about forty years, and the chalk is always a week ahead of the day. This was a Tuesday, and the square was empty, with the bars of last Thursday’s stalls still lying in the mud and the sweep in the middle not done yet, because the sweep is done on a Wednesday night by two men who are paid a penny each out of the twenty-eight pounds a year that a hundred and forty acres of sheep bring in at four shillings the acre.
 
 A woman of thirty-four came down the lane at about the seventh hour with a basket on her hip, slept two hours, and came into the town again at about the tenth with her sleeves rolled and no basket. She went straight to the meeting-house and unlocked the chancel door with a key that is on a string round her neck.
 
@@ -88,7 +88,7 @@ She took it back and did not fold it.
 
 ---
 
-He had it in his hand for about eleven seconds, and then he did the thing that was in him, which is that a man who has been a stranger everywhere for ten volumes will produce a paper if you give him a piece of paper and eleven seconds.
+He had it in his hand for about eleven seconds, and then he did the thing that was in him, which is that a man who has been a stranger everywhere will produce a paper if you give him a piece of paper and eleven seconds.
 
 He put his hand into the inside pocket of his coat. It went past the copy of the roll and the copy of the six lines and the copy of the request with the open witness line on it, and came out with the page.
 
