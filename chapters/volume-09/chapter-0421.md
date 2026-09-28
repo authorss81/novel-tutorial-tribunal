@@ -1,69 +1,107 @@
-# Chapter 421: A Cart That Comes Back Up The Road With Four Hurdles On It, And A Plate With No Seal On It Two Miles Out
+# Chapter 421: Four Hurdles And A Plate With No Seal On It
 
-The third day of the eighty-second week was his hundred and seventy-first morning and the twenty-first day after the settlement, and the fever was nineteen weeks and five days old, and the rail had been down eleven days and was standing against the north wall of a yard at the low end of Tallowgate with the sheet still nailed to it and the line at the top of that sheet still empty, and a cart came up the Low Road from the east at the second hour with four hurdles and a length of chain lashed across the tail-board, and the man on the wheel was fifty-four and had slept in a stable in this city on his last trip, and the boy of sixteen was at a door on the low row at that hour because he is at a door at that hour, and he said nothing about the cart and said nothing in four doorways and was not asked to.
+Third day of the eighty-second week. Shelf day two hundred and ninety-six, his hundred and seventy-first morning in this country, twenty-one days after the settlement, the fever nineteen weeks and five days old. The rail had been down eleven days and still stood against the north wall of a yard at the low end of Tallowgate with its own sheet nailed to it and the line at the top of that sheet empty.
 
-“*Say what is on that cart.*”
+At the second hour a cart came up the Low Road from the east.
 
-It was the man of fifty-two who asked it, from the end of the low row where he had come up from the end of the plate yard's and had not been sent for, and he asked it standing on his own step, and he asked it in the way he asks for a sentence read twice, which is that he says the request out loud before anybody has decided whether to grant it.
+Ilyan was on the step of the low row with his tea gone cold in his hand when it turned in off the weir head. He counted the hurdles first, because counting is what he does with a thing he does not understand, and then the length of chain, and then the driver, and then the two windows of the low row that emptied while he was looking.
 
-The man on the wheel pulled up. He was fifty-four and he had carried thirty-one of the office's sheets in nineteen years and had never once been asked what was in one, and he had been asked twice this month, once by a boy of sixteen in a doorway on the sixth day of this month and once by a man with a bad leg in a cart, and he had said *I have never once been asked what was in one* both times, and he had been asked again, and this time the question came from a man of fifty-two on a step and there were nine people at that end of the row.
+Four hurdles. Sawn ash, the bark off one end, lashed across the tail-board with a length of chain. Nine links in the chain and no rust in the crotch of it. A man of about fifty-four on the wheel, in a coat that had been rained on twice and dried once.
 
-“*It is not a fold,*” he said.
+A boy of sixteen was at a door on the row, doing what he has done at a door at that hour since the eighth morning of the fever. He watched the cart come and said nothing about it, and went on saying nothing in three more doorways before the light got up.
 
-Nobody said anything.
+“*Say what is on that cart,*” Darrin Skell called from the end of the row.
 
-“*Say that again,*” said the man with the bad ear, who had come a mile and a half and had not been let into two of the four rooms in this city where a board is read out.
+He had come up from the end of the plate yard and had not been sent for. He asked it the way he asks for a sentence read twice, which is that he says the request out loud before anybody has decided whether to grant it. There were nine people at that end of the row, and they all turned.
 
-“*It is not a fold,*” said the man on the wheel, “*and I know it is not a fold, and that is the whole of what I have to say about it and I have been trying to say it since the second gate. It is four hurdles and a chain and a plate. Four hurdles are sawn ash with the bark off one end. The chain is nine links and it is new and there is no rust in the crotch of it, and I have carried a seal for nineteen years and a seal does not weigh anything and you feel it in the coat. That weighs a cart.*”
+The driver pulled up the horses. “*It is not a fold,*” he said.
 
-He got down off the wheel and stood beside the tail-board with his hand flat on the top rail of the near hurdle, and nine people at the end of a low row looked at his hand on it.
+The row waited for the rest of it.
 
-“*A plate,*” said the man of fifty-two.
+“*Say that again,*” said Ilyan.
 
-“*A plate with no wax on it and no name at the foot of it and nothing cut in the bottom corner, and I have carried a sheet with a seal on it thirty-one times and I could tell you in the dark which side of a coat it was on.*” He put his hand on the plate. “*It is a plate off a board. It has two nail holes in the top of it and the nails are in it still and one of them is bent, and somebody in a room four hundred miles off has printed a thing and nailed it to a thing and sent it out on a cart to be put up in a road, and that is a thing I have never once done in nineteen years and I have carried thirty-one things that were a room in a building going to a room in a building, and I would like it noticed that I have noticed the difference.*”
+He had come a mile and a half and had not been let into two of the four rooms in this city where a board is read out. The cold had got into his right ear on the flat and had been there since the weir head, and he had stopped pretending it was not there two days ago.
 
-Nobody thanked him for noticing it, and he had not said anything about being thanked, and there are nine hundred doors in this ward and about forty of them have somebody under twenty in them and none of them has a form in it.
+“*It is not a fold,*” said the driver, “*and I know it is not a fold, and that is the whole of what I have to say about it, and I have been trying to say it since the second gate. Four hurdles and a chain and a plate. The hurdles are sawn ash with the bark off one end. The chain is nine links and it is new. I have carried a seal for nineteen years and a seal weighs nothing, and you feel it in the coat. That weighs a cart.*”
+
+He got down and stood at the tail-board with his palm flat on the top rail of the near hurdle, and nine people watched his hand on it.
+
+“*A plate,*” said Skell.
+
+“*A plate with no wax on it and no name at the foot of it, and nothing cut in the bottom corner.*” The driver turned it over as he said it, so they could see the wood.
+
+“*Two nail holes at the top, nails still in, one of them bent. Somebody in a room four hundred miles off has printed a thing, nailed it to a thing, and sent it out on a cart to be nailed to a post in a road.*”
+
+“*Say the rest of that,*” said Ilyan.
+
+“*I have carried thirty-one sheets in nineteen years and every one of them went from a room to a room.*” The driver laid his palm on the plate. “*That is the first one I have ever seen standing in a road, and I would like it noticed that I have noticed the difference.*”
+
+Nobody thanked him. He had not asked to be thanked. About forty doors in this ward have somebody under twenty behind them, and there is no form in the county that says what may be asked of one of them.
 
 ---
 
-The hurdles went up at the ninth marker, which is two miles east of the weir head, and the ninth marker is a post of iron in a drum of concrete with a plate on the face of it and a sill three courses high laid across the bottom of it, and it has been there longer than anybody in this city, and the north side of it is the side with the ledge and the south side of it is the side the water is on when the water is up.
+The plate went up at the ninth marker, two miles east of the weir head: a post of iron in a drum of concrete, a plate on the face of it, and a sill of three courses laid across the bottom. It has been there longer than anybody in this city can remember. The north side of the marker is the side with the ledge. The south side is the side the water is on when the water is up.
 
-Nobody sent for anybody. The man of fifty-eight had walked out to it two miles in the morning and come back, and he had told the man with the bad leg at the crossing at the fourth hour on the day before, and the man with the bad leg had come up the row and said it out loud at the end of the plate yard's, and that is the only reason anybody in this city knows it is there.
+Nobody sent anybody. The roadkeeper had walked out to it two miles in the morning and come back, and had told the man with the bad leg at his crossing at the fourth hour the day before, and that was the whole of the chain of hands. Ilyan went out himself in the afternoon, because he is the only man in this ward anybody can be asked whether anybody had sent for anybody, and nobody had.
 
-The man with the bad leg went out to it himself, because he is the only man in this ward who can be asked whether anybody had sent for anybody, and nobody had sent for anybody, and it is eleven days now since the rail came down and he has not been out of this city in eleven days.
-
-The plate was on the north side. It was wired to the post through two holes and the wax was not on it and there was nothing cut in the bottom corner of it and there was no name at the foot of it, and he had it read to him by a woman of thirty who had walked out with him, standing on the flat, in the open, with the wind off the flat, and nobody remarked on that either and he did not say why he had asked.
+Nell Fisk walked out with him because she was going that way anyway, and she read it out loud on the flat, standing in the open with the wind off the flat coming through her coat. Nobody remarked on that, and he did not say why he had asked for it.
 
 “*A bar upon the Low Road at the ninth marker in this city is put up, the report being made by this office in respect of that road, and the persons and the premises on the north side of the crossing are to be given notice, and nothing in this plate is a finding about the road.*”
 
-He stood there for a while after it had been read.
+He stood and let it go by once.
 
-“*Say the last of it again,*” he said, and it was read again, in the same voice, in the open, on the flat, and the woman of thirty read it twice and the man with the bad leg listened to it twice and he has been in this city twenty-one days and he has asked for a second reading of a thing in the open on a flat two miles from a post more often than he has in a room, and he did not say why.
+“*Again,*” he said.
 
-“*It is the same words,*” he said. “*That plate and the one that came down the hill on the sixth day of the eightieth week are the same words with four letters changed. The one that came down said taken down. This one says put up. And both of them say the north side and neither of them has ever once said the other side.*”
+She read it again in the same voice. He had been in this city twenty-one days and he had asked for a second reading of a thing in the open on a flat twice as often as he had asked for one in a room, and he still could not have said why.
 
-The two of them stood out on the flat with it, and a woman of thirty who had walked two miles to read a plate out loud on the flat did not say anything either, and there were two men in this city who had noticed that and one of them was a clerk four hundred miles off and was not here and the other one was standing in a field with his leg bad and had noticed it on the first day of this month at the weir head, and had stood at it long enough to work out which of two things was true and could not.
+“*It is the same words,*” he said when she had finished. “*The plate that came down the hill on the sixth day of the eightieth week said taken down. This one says put up. Four letters.*”
 
----
+He put his hand flat on the concrete drum, and the concrete was cold through his glove.
 
-At the change of the light the man of fifty-two said the working, in a room, to about thirty people, because there is no form in this city that says a man may not count, and he counts, and it is the only thing he does in a room.
-
-“*Four hurdles, a chain and a plate, put up two miles out, on the north side, and not one door between that and nine hundred doors in this ward.*” He had four figures about halls in his head and he had not used one of them. “*I have counted halls and doors for twenty years and I am going to say the whole of it in one sentence and I have not got a hall in it. That is a bar with nothing behind it. The bar at the weir head in the first week of this month had four hundred yards of houses behind it and forty people standing on the south side of it and a carter's boy in a hole. This one has two miles of flat and a post that was here before the fever and nobody on it. And I have been trying for an hour to work out what it is for and I cannot, and I am not going to make up a reason for a government in a room, because if I do that then I am the man who said the office knows what it is doing, and I do not know that and neither does anybody in this room.*”
-
-The man of fifty-two sat down, and about thirty people who had come up the hill did not thank him, and he did not expect to be thanked and had said so in four rooms in a fortnight.
-
-“*And I will say the other half of it because a man in this ward has been asking for the second half in rooms for ten days and I am not going to be the one who keeps it.*” He had his hands flat on the table. “*A bar is a rule with no room in it. That is a sentence a woman said in this room on the first day of this month and it went into four books and I have carried it since. And this is a bar with no room in it and no road in it either, and the difference between the two is that a rule with no room in it is a rule somebody will come and stand at, and this one has nothing to stand at. And I am not saying that is good. I am saying that a thing in this city that costs nothing and can be put up in an afternoon and taken down in an afternoon is the cheapest thing a government has ever done in front of me, and I have counted halls and doors for twenty years and I have never seen one cheaper.*”
-
-The clerk of forty copied the plate fair into a second one, and put the second one in the press on the ground floor, where it is a penny a page and it can be read standing up and anybody in this city can be shown it for a penny, and neither of the two copies is the plate and the plate is on a post two miles out where a person could put his hand on it if he went that way, and about forty of them could not see it standing up and would not be able to tell which of the two copies was the plate if they did.
+“*And both of them say the north side. In two months, on two plates, with a seal on one of them and nothing on this one, the office has not once named the south side of anything.*”
 
 ---
 
-And at the last of the light a man of thirty-eight came down the hill with a case and a book and said what he was before anybody asked him, and about nine people were in the room and the boy of sixteen was one of them and had not asked to be.
+At the change of the light the long room at the foot of the hill filled up, because when a plate goes up in a ward people go and stand somewhere, and this is where they stood. Skell had counted halls and doors for twenty years. He had four figures about halls in his head and used none of them.
 
-“*I go out of this city in the morning,*” said Kerwin Dace, “*and I have said on three days in a row that I go out in the morning, and I am saying it a fourth time because a plate went up on a road in this city this afternoon and I would like the room to have it in front of me before I go, and I am going to go anyway and I am not asking anybody to stop me, and I have not been asked to say what it is I am carrying and I am going to say it in my own words because there is nobody here who is entitled to ask.*”
+“*Four hurdles, a chain and a plate, two miles out, on the north side, and not one door between that and nine hundred doors in this ward.*” He put his hands flat on the long table. “*I have been trying for an hour to work out what it is for and I cannot. I am not going to make up a reason for a government in a room. If I do that, I am the man who said the office knows what it is doing, and I do not know that, and nobody in this room does either.*”
 
-“*Say it.*”
+About thirty people came up that hill and did not thank him, and he said in four rooms last month that he would not expect it.
 
-“*I am carrying a schedule of payments, and I am carrying a return with one column in it, and I am not carrying a name in either, and I have not got a name in either and I have looked.*” He had the book shut and the pencil in his hand and the case at his feet. “*I have been in this city twelve days and I have filled a line off a paper four times and I have asked about the numbers in this city in two rooms at the seat and I have not been asked whether any of it is true and I am not going to be the one who asks, because I print the sheets and I told this room that on the third day of this week and I am not going to say it twice. And I am going out of this city in the morning on the Low Road with these two things and no name in either, and it is the Low Road that the plate is on, and I am going to walk past my own plate at the ninth marker, and I would like somebody in this room to say what a man of the seat is supposed to do when he is sent for and there is a bar in front of him and the bar is his.*”
+“*I will say the other half, because a man in this ward has been asking rooms for the other half for ten days and I am not going to be the one holding it back.*” He took his hands off the table.
 
-Nobody said anything. The man of fifty-two was not in the room and the man with the bad ear was not in the room and the woman of twenty-eight was at a door at the end of the low row and did not come over, and the clerk of forty copied nothing down, and the boy of sixteen did not ask him, and the fever was nineteen weeks and five days old, and it did not stop for a plate, and nobody in that room was thanked.
+“*A bar is a rule with no room in it. A woman said that sentence in this room on the first day of this month and it has been in four books since. This is a bar with no room in it and no road in it either.*”
+
+“*And the difference?*” said Ilyan.
+
+“*A rule with no room in it is a rule somebody will come and stand at. This one has nothing to stand at.*” He waited until the room had got to the end of that. “*I am not saying it is good. I am saying that a thing in this city which costs nothing, and can go up in an afternoon and come down in an afternoon, is the cheapest thing a government has ever done in front of me, and I have never seen one cheaper.*”
+
+Ilyan wrote it down with the cracked steel pen, the whole of it, in the margin of his own page, and did not offer the page to anybody. It was a page he had written nothing on in eleven days, and it had four lines on it now, and every one of them was another man's mouth.
+
+A clerk of the press on the ground floor copied the plate fair into a second one, and set the copy in the press at a penny a page with a window in the room, where anybody in this city can be shown it standing up. Neither copy is the plate. The plate is on a post two miles out, where a person can put his hand on it if he goes that way, and about forty of the people in this room could not tell you which of the two they had read.
+
+The clerk's name was Tam Ferrow and he was twenty-nine and he had been on that floor three years and he had not read anything out of it until last week. He squared the copy to the edge of the case and did not say what he had done it for.
+
+---
+
+At the last of the light Kerwin Dace came down the hill with a case in one hand and a book under his arm, and said who he was before anybody asked him.
+
+About nine people were in the room. The boy of sixteen was one of them and had not asked to be.
+
+“*I go out of this city in the morning,*” Dace said. “*I have said it on three days running and I am saying it a fourth time, and I would like the room to have it in front of me before I go. I am going anyway and I am not asking anybody to stop me.*”
+
+“*Say the rest of it,*” said Ilyan.
+
+Dace set the case down at the end of the long table. “*A schedule of payments, and a return with one column in it, and no name in either. I have looked.*”
+
+He put two fingers on the book and did not open it. “*I have been in this city twelve days and I have filled a line off a paper four times, and I have not been asked once whether any of it is true. I am not going to be the one who asks, because I print the sheets and I told this room that on the third day of this week and I am not going to say it twice.*”
+
+He looked up the row until he found Ilyan, and it took him a moment.
+
+“*I am going out on the Low Road in the morning with no name in either of these, and it is the Low Road that plate is on, and I am going to walk past my own plate at the ninth marker.*” His voice did not change. “*I would like somebody in this room to say what a man of the seat does when he is sent for and there is a bar in front of him, and the bar is his own.*”
+
+Ilyan had the answer. He had a great many answers, and every one of them would have cost this room something they had not agreed to pay, and the boy at the door would have heard all of it by morning.
+
+He said: “*I heard you.*”
+
+Dace nodded as if that had been a full sentence and went to find somewhere to sleep. Skell was not in the room, Renn Callow was at his crossing, and the tea was cold in Ilyan's hand, and the fever was nineteen weeks and five days old, and it had not stopped for a plate, and nobody in that room was thanked.

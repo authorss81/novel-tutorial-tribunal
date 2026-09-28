@@ -1,77 +1,89 @@
-# Chapter 422: A Cart Stops Two Miles Out At Four Hurdles Of Its Own Office, And A Man Of Fifty-Eight Comes Down A Row To Ask The Only Person Who Cannot Say No
+# Chapter 422: A Man Walks Down A Row To Ask One Question, And A Woman Puts A Slate Out For Twenty People To Read
 
-The fourth day of the eighty-second week was his hundred and seventy-second morning and the twenty-second day after the settlement, and the fever was nineteen weeks and six days old, and the rail had been down twelve days, and a cart went out of this city on the Low Road at the second hour with a man of thirty-eight in it and a schedule of payments and a return with one column in it and no name in either, and about nine people at the end of Tallowgate stood in the road and watched it go and were not asked to and did not go with it, and the man on the wheel was the same man who had brought four hurdles in yesterday and had slept in a stable in this city twice in four days.
+Fourth day of the eighty-second week. Shelf day two hundred and ninety-seven, his hundred and seventy-second morning, twenty-two days after the settlement, the fever nineteen weeks and six days old, the rail down twelve days and standing in a yard at the low end of Tallowgate with a sheet nailed to it and the line at the top of that sheet empty.
 
-The cart went a mile and a half along the head of the ninth weir and then out east across the flat, and it went on the north side of the road the whole way, because the north side is the side with the ledge and a cart belongs on the ledge, and it stopped two miles out.
+The cart went out of the city at the second hour. Kerwin Dace rode in it with his case and his book, and the man on the wheel was the same man who had brought the hurdles in the day before, and he had slept in a stable in this city twice in four days.
 
-Nobody said anything about that at the time, because there was nobody there.
+It went a mile and a half along the head of the ninth weir, where the road has a ledge on the north side, and a cart belongs on the ledge. Then it went east across the flat, and it stopped two miles out.
 
-Kerwin Dace got down off the cart with the case in his hand and the book under his arm and walked up the road on foot, and the four hurdles were across the north side of it at knee height with a length of chain between the two outer ones, and the plate was on the post above them, and the man of thirty-eight read it standing up, on his own, in the open, on the flat, and it took him about as long as it takes a man to read a thing he has read before.
+There was nobody there to see it stop.
 
-“*A bar upon the Low Road at the ninth marker in this city is put up, the report being made by this office in respect of that road, and the persons and the premises on the north side of the crossing are to be given notice, and nothing in this plate is a finding about the road.*”
+Dace got down with the case in his hand and walked up to the plate. The hurdles were across the north side at knee height, the chain between the two outer ones, the plate on the post above. He read it standing up, on his own, in the open. Then he read it a second time, because a man in this city had asked him to read a thing twice about a month ago and neither of them has forgotten it, and there was nobody there to ask him.
 
-He read it a second time because a man in this city had asked him to read a thing twice about a month ago and neither of them has forgotten it, and there was nobody there to ask him and he read it anyway.
+Then he went round on foot, on the south side. Four yards of mud, a ledge of a foot and a half with the water underneath it, and a barrow that goes up that side every morning and has gone up it every morning since the rail came down.
 
-Then he went round on foot, on the south side, which is four yards of mud and a ledge of a foot and a half with the water under it and a barrow going up it, and he stood on the east side of his own timber for about as long as a man stands looking at a road, and the road went east across the flat and the flat is flat for about a mile and then it is not, and the next town is two days on a cart.
+“*Get round on the south side,*” said the driver from the tail-board. “*I can get round on the south side. I would go up it four times a day.*”
 
-“*Get round on the south side,*” said the man on the wheel, from the tail-board. “*I can get round on the south side. A barrow goes up it every morning and has gone up it every morning since the rail went down, and I have been up it once this week and I would go up it four times a day.*”
+Dace came back round and got on the cart and said nothing for a quarter of a mile.
 
-Kerwin Dace came back round and got on the cart and did not say anything for about a quarter of a mile.
+“*I have been in this city thirteen days,*” he said. “*I have four things to leave in this ward and I have left three. I came out here to leave the last one and I cannot get there, and there is no line on any form I have for what a man of the seat does when his own office has put timber across a road he is standing on.*”
 
-“*I have been in this city thirteen days,*” said Kerwin Dace. “*And I have had four things to leave in this ward and I have left three of them and I have got a schedule and a return and no name in either, and I came out here to leave the last one and I cannot get there, and there is no line in any form I have for what a man of the seat does when his own office has put timber across a road he is on. And I have walked round it, because a barrow goes round it, and the road is open on the south side and it has been open on the south side since the seventh day of the eightieth week, and neither of the two plates this office has put on this road has ever named the south side of anything.*”
+“*I have carried thirty-one sheets in nineteen years,*” said the driver, “*and every one of them went to a room in a building. This is the first one I have seen standing on a road. I have been thinking about that for two miles and here is where I got to.*”
 
-The man on the wheel said the rest of it, which is what a man on a wheel does.
+He took the rein before he said the rest of it.
 
-“*I have carried thirty-one sheets in nineteen years and every one of them went to a room in a building,*” he said. “*And this is the first one I have seen standing on a road, and I have been thinking about that for two miles and I have got to the end of it and it is this: a sheet in a room is a thing you can be shown for a penny, and this is a thing you can walk round in a minute, and somebody has spent a cart and four lengths of ash and a chain of nine links and a plate off a board to say that a road cannot be walked round, and it can, and I have been round it.*”
-
-He took the rein.
-
-“*I have not been thanked for thirty-one,*” he said, “*and I am not asking.*”
+“*A sheet in a room is a thing you can be shown for a penny. This is a thing you can walk round in a minute. Somebody has spent a cart, four lengths of ash, nine links of chain and a plate off a board to say that a road cannot be walked round. It can. I have been round it.*” He glanced back. “*I have not been thanked for thirty-one and I am not asking.*”
 
 ---
 
-The roadkeeper came down the Low Road at the fourth hour with his lamp out and his leg bad and the weather on his side, and it is a mile and a half from the crossing to the end of the low row and he had not asked anybody to come with him and he had not asked anybody to meet him and he had not sent for anybody, and about twenty people at that end of the row watched him come up it and none of them had been told and none of them said anything.
+The roadkeeper came down the Low Road at the fourth hour with his lamp out and the weather on his side.
 
-“*I have been asked how many doors are on my road three times in four days,*” said Renn Callow. “*Twice by a man with a book and once by a woman of sixty who read a sheet out in a room, and all three of them were from four hundred miles off or standing near somebody who is, and I have said the same thing three times and it has been written down twice, and I am not going to say it a fourth time to any of them. So I have come to say it to the one person in this city who can be asked about a door, and I said on the sixth day of this week that I was going to have to come down this row and ask her, and it has taken me nine days to do it and I have not hurried and I was not asked to hurry.*”
+Renn Calloway had kept that road twenty-nine years. He was fifty-eight and his leg had been bad since the summer and about twenty people at that end of the low row watched him come up it, and none of them had been told he was coming, and none of them asked him why he had come a mile and a half at the fourth hour on a bad leg to ask a question he had already asked three times this week.
 
-The woman of twenty-eight was on her own step with her slate under her arm and she had been at six doors that day and had four she had not been to, and the man of fifty-eight came up the row to the step and stopped at the bottom of it and did not come up.
+“*I have been asked how many doors are on my road three times in four days,*” he said. “*Twice by a man with a book and once by a woman of sixty who read a sheet out in a room. All three of them were from four hundred miles off or standing next to somebody who is. I have said the same thing three times and it has been written down twice, and I am not going to say it a fourth time to any of them.*”
+
+Hessa Marl was on her own step with her slate under her arm. She had been at six doors that day and had four she had not been to, and the house she was at had a step worn into a curve by thirty years of somebody standing on it.
 
 “*Then ask me,*” she said.
 
 “*How many doors are on the Low Road.*”
 
-About twenty people at that end of a low row stood in the road and listened to a question they had all heard asked before, and the man with the bad leg was not in that row and the man of fifty-two was at the end of the plate yard's and the boy of sixteen was at the fourth door up and did not come over.
+About twenty people stood in the road and listened to a question they had all heard asked before.
 
-“*No,*” said the woman of twenty-eight.
+“*No,*” said Hessa Marl.
 
-Nobody said anything, and she stood on her own step and did not go on, and the man of fifty-eight waited, because he had walked a mile and a half and he was in no hurry and had said so.
+Callow waited. He had walked a mile and a half and he was in no hurry and had said so on the road.
 
-“*Say the second half,*” said the man with the bad ear, from four doors along, where he had come and had not been asked to.
+Ilyan was at the fourth door up. He had a hand on the frame and he had the answer in his mouth, and the answer was a division: nine hundred doors in this ward, an average of somewhere between one and five people to a door, and if the office wanted a number of persons the one thing he could have done in that row was supply the divisor nobody in this city had. It would have been a good guess. It would have been in four books by Friday and no one would ever have been able to tell which part of it had come from a man with a leg and a pen.
 
-“*There is no second half and I have said no three times about this and I said it in a room on the second day of this week and I said it in a row and I said it in a room again and the words are the same words.*”
+He kept it behind his teeth, and the taste of it stayed with him all afternoon.
 
-“*There is a second half and I have walked a mile and a half for it,*” said Renn Callow. “*Say why, and say it in your own mouth, and I will not write it down, because a thing that is written down is a thing somebody can be asked about, and I said that in a hut to a man with a bad leg on the fifth day of the seventy-ninth week and I have not stopped saying it in eleven days.*”
+“*Say the second half,*” Ilyan said from the doorway. “*There is one. Say why.*”
 
-“*Then hear it and do not write it.*” She had her hand flat on the slate. “*A number of doors is a roll. There is a roll in this city and it is a mile and a half the other way, past a chandler's shop, with a lamp on it, and there is one woman in this city that anybody can be asked about a roll and she is not me. A number out of my mouth is not a roll. It is a number a person said in a row, and the office keeps a book of the visits and does not enter the names in it, and the day I say a number of doors in a row is the day there are two numbers of doors in this city instead of one, and neither of them will be the right one, and one of them will have come out of a mouth that cannot say no, and that is a number nobody in four hundred miles can tell the difference of, and I have been at the top of a page for ten days and I know exactly what that does to a person.*”
+“*There is a second half and I have walked a mile and a half for it.*” Callow did not raise his voice. “*Say it in your own mouth, and I will not write it down, because a thing that is written down is a thing somebody can be asked about. I said that to a man with a bad leg in a hut on the fifth day of the seventy-ninth week and I have not stopped saying it in eleven days.*”
 
-“*Then say what you will give me,*” said Renn Callow, “*because I have come a mile and a half and I am not going to stand at the bottom of a step in a row for twenty minutes and be thanked for it afterwards, because I have said out loud that I am not going to be thanked and I meant it in a hut with a fire in it.*”
+Hessa Marl took the slate out from under her arm. She held it flat against her coat for a moment, and then she turned it round and held it up at the bottom of her own step, where a man of fifty-eight standing in the road could read it, and so could the twenty people behind him.
 
-“*Then you will have the figure that is mine and it is not the figure you asked for, and I am going to give it to you in a row, and I am not going to pretend to you that giving it was a decision, because it was not, and you are a person of this place and you cannot be sent for and that is the whole of why I am doing it.*”
+“*Then hear it and do not write it.*” Her voice carried further than it needed to and she let it. “*A number of doors is a roll. There is a roll in this city and it is a mile and a half the other way, past a chandler's shop, with a lamp on it, and there is one woman anybody can be asked about a roll and she is not me. A number out of my mouth is not a roll. It is a number a person said in a row.*”
 
-She took the slate out from under her arm and turned it round and held it up so that a man of fifty-eight at the bottom of a step could see it, standing up, in the open, at the end of a low row with about twenty people looking at it.
+“*And what does that do,*” said Callow.
 
-“*Nine a day,*” she said. “*And forty-nine days. And nine times forty-nine is four hundred and forty-one. And it is on this slate in my own hand and I have never shown it to anybody and it is not a record and it is not a roll and it is not a form and there is no office in four hundred miles that has ever been sent it, and I have said no three times in ten days to three different men about how many doors are on this road and this is the fourth time I have been asked something about a number of doors and it is the first time I have said one out loud in a row, and you are welcome to look at it, and I am going to read it out as well because you are a man who keeps a road and you asked me standing at the bottom of my own step and not from a gate.*”
+“*The office keeps a book of the visits and does not enter the names in it. The day I say a number of doors in a row is the day there are two numbers of doors in this city instead of one, and neither of them is the right one, and one of them came out of a mouth that cannot say no.*” She still had the slate up. “*And I have been at the top of a page for ten days. I know exactly what that does to a person.*”
 
-“*Say the whole of it,*” said Renn Callow.
+“*Then say what you will give me,*” said Callow, “*because I have come a mile and a half and I am not going to stand at the bottom of a step for twenty minutes and be thanked for it afterwards.*”
 
-“*Four hundred and forty-one doors in forty-nine days, on a slate, in a hand nobody can ask me to produce, in a city where a thing that is written down is a thing somebody can be asked about and a thing that is not written down is a thing nobody can check. That is the whole of my work. It is on here. It has been on here for seven weeks and it is going to be on here when I am not.*”
+She read it out. She read it out in a row, at the last of the light, in front of about twenty people, which is not what anybody in this city does with a number.
 
-The man of fifty-eight looked at the slate for a long time and did not touch it, and about twenty people at the end of a low row did not leave, and the man with the bad ear at four doors along had asked for the second half and got two of them.
+“*Nine a day. Forty-nine days. Nine times forty-nine is four hundred and forty-one. It is on this slate in my own hand and I have never shown it to anybody, and it is not a record, and it is not a roll, and it is not a form, and no office has ever been sent it.*”
 
-“*Then that is not the number of doors on my road,*” said Renn Callow, “*and I am not going to write it as the number of doors on my road, and I am not going to write it down at all, and I want this row to hear me say that I have been asked and have been given a number that is about a woman's work and not about my road, and that I know the difference and that I am the one who has to know it.*”
+She took a breath.
 
-He took a piece of chalk out of his coat. He had a line of eleven chalk strokes on a bench at a crossing and none of them was a name and none of them was a figure, and he did not put this one on the bench and he did not put it in the hut.
+“*That is the whole of my work. It is on here. It has been on here for seven weeks and it will be on here when I am not.*”
 
-“*I am going to say the rest of it in the road and then I am going to go home,*” said the woman of twenty-eight. “*I have kept that road twenty-nine years and I cannot tell you how many doors are on it and I have told you that three times this week and you have written it down twice. And this morning I was told by the only person in this city that can be asked about a door that a number of doors is a roll, and that the roll is a mile and a half down this row, and that she is the one who keeps it. And I am not going to say that I will go and ask her, because I have been asked a thing by a woman on a step and I am not going to answer a woman on a step with a figure in the same hour, and I will go when I have not been given anything for a day. And when I go I am going to be the second person from four hundred miles off who has asked her about a thing in six days, and I am going to be the first one who has asked her standing in her own room with the lamp on, and I would like somebody in this row to notice that those are not the same thing and that I have noticed it.*”
+Callow looked at the slate for a long time and did not touch it. The twenty people at the end of the row did not go home.
 
-The woman of twenty-eight put the slate back under her arm, and the man of fifty-eight went back down the row, and the boy of sixteen heard all of it from the fourth door up and said it in three doorways before the light went off the flat, and what he said was that a man of fifty-eight had come down the row and asked a question and a woman of twenty-eight had said no and had then given him a number, and nobody stopped him, and there is no form in this city that says a person may be stopped in a doorway, and the fever was nineteen weeks and six days old, and it did not stop for a count, and nobody on that row was thanked.
+“*Then that is not the number of doors on my road,*” he said, out loud, so that the row had it. “*And I am not going to write it as the number of doors on my road. I am not going to write it down at all. I want this row to hear me say that I have been asked and have been given a number that is about a woman's work and not about my road, and that I know the difference, and that I am the one who has to know it.*”
+
+He took a piece of chalk out of his coat. He kept eleven chalk strokes on a bench at a crossing and not one of them was a name or a figure. He put this in his pocket instead.
+
+“*One more thing and then I am going home,*” said Hessa Marl. She put the slate back under her arm. “*I have kept that road twenty-nine years and I cannot tell you how many doors are on it, and I have told you three times this week. This morning I was told by the only person in this city that can be asked about a door that a number of doors is a roll, and that the roll is a mile and a half down this row and she keeps it.*”
+
+“*You will go and ask her,*” said Callow.
+
+“*Not today.*” She said it to the row, not to him. “*I have been asked a thing by a woman on a step and I am not going to answer a woman on a step with a figure in the same hour. I will go when I have not been given anything for a day. And when I go I will be the second person from four hundred miles off who has asked her about a thing in six days, and I will be the first one who has asked her standing in her own room with the lamp on, and those are not the same thing.*”
+
+She went in. Callow went back down the row, and the boy of sixteen heard all of it from the fourth door up and had it in three doorways before the light went off the flat.
+
+What he said was that a man of fifty-eight had come down the row and asked a question, and a woman of twenty-eight had said no, and had then given him a number, and that nobody had stopped him.
+
+There is no form in this county that says a person may be stopped in a doorway, and the fever was nineteen weeks and six days old, and it did not stop for a count, and nobody on that row was thanked.
