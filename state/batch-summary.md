@@ -1,3 +1,101 @@
+## VOLUME 09 BATCH 0001 — CHAPTERS 401–410, THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT. **THE RECEIPT, THE PANEL REGISTER, THE CALENDAR ANCHOR AND THE FINDING ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH IS WHERE THE HOUSE KEEPS THEM. It supersedes the `## VOLUME 08 IS CLOSED — CHAPTERS 351–400, THE MEASUREMENT TABLES…` block below it and nothing below the rule has been edited. Chapters 1–400 are canon. The next phase is `workspace/volume-09/batch-0002/`, Chapters 411 to 420, *The Offer*, on disk and NOT marked, and this one is NOT marked either.**
+
+### 1. THE CALENDAR, ALL TEN ROWS, EVERY CELL PARSED SEPARATELY AND NONE INHERITED
+
+**Shelf day = `chapter − 125`. Morning ordinal = `chapter − 250`. Fever age = `chapter − 283`. Days in the city of Orison since the settlement = `chapter − 400`, THE ANCHOR BEING CHAPTER 400 AND `chapter − 351` BEING RETIRED FOR VOLUME 09. A printed week phrase resolves as `shelf = (week − 40) × 7 + (day − 1)`.**
+
+| Ch | Shelf | Week phrase printed | Morn. ordinal | Days since settlement | Fever age |
+|---|---|---|---|---|---|
+| 401 | 276 | fourth day of the seventy-ninth week | 151, hundred and fifty-first | 1, first | 118, sixteen weeks and six days |
+| 402 | 277 | fifth day of the seventy-ninth week | 152, hundred and fifty-second | 2, second | 119, seventeen weeks and no days |
+| 403 | 278 | sixth day of the seventy-ninth week | 153, hundred and fifty-third | 3, third | 120, seventeen weeks and one day |
+| 404 | 279 | seventh day of the seventy-ninth week | 154, hundred and fifty-fourth | 4, fourth | 121, seventeen weeks and two days |
+| 405 | 280 | first day of the eightieth week | 155, hundred and fifty-fifth | 5, fifth | 122, seventeen weeks and three days |
+| 406 | 281 | second day of the eightieth week | 156, hundred and fifty-sixth | 6, sixth | 123, seventeen weeks and four days |
+| 407 | 282 | third day of the eightieth week | 157, hundred and fifty-seventh | 7, seventh | 124, seventeen weeks and five days |
+| 408 | 283 | fourth day of the eightieth week | 158, hundred and fifty-eighth | 8, eighth | 125, seventeen weeks and six days |
+| 409 | 284 | fifth day of the eightieth week | 159, hundred and fifty-ninth | 9, ninth | 126, eighteen weeks and no days |
+| 410 | 285 | sixth day of the eightieth week | 160, hundred and sixtieth | 10, tenth | 127, eighteen weeks and one day |
+
+**ALL TEN PRINT ALL FOUR. 10 OF 10 AGREE ON SHELF DAY, 10 OF 10 ON THE MORNING ORDINAL, 10 OF 10 ON THE COUNT, 10 OF 10 ON THE FEVER AGE, WITH THE SEVENTEEN-WEEK BOUNDARY AT 402 AND THE EIGHTEEN-WEEK BOUNDARY AT 409. ZERO MISMATCHES. THE CHAIN IS CONTINUOUS FROM CHAPTER 400, WHICH IS SHELF DAY 275, THE THIRD DAY OF THE SEVENTY-NINTH WEEK, AND EVERY FIGURE IS ONE MORE THAN THE CHAPTER BEFORE IT.**
+
+**THE BACK-REFERENCE, AND ITS ANCHOR, IN THE FICTION AND NOT ONLY HERE. `401:39` IS WHERE THE CLERK OF THIRTY GIVES THE COUNT WITH THE WORKING AND NAMES THE AMBIGUITY: A RETURN IS DATED THE DAY IT IS READ INTO A ROOM, AND THE DAY A PRESS DATED A SHEET IS IN NO BUILDING ANYWHERE, SO HE IS COUNTING FROM THE THIRD DAY OF THE SEVENTY-NINTH WEEK, WHICH IS CHAPTER 400, AND IF HE IS ASKED AGAIN IN A MONTH HE WILL GIVE THE OTHER DAY BECAUSE ONE OF THE TWO IS GOING TO END UP IN A RETURN SOMEWHERE. A LATER BAND MAY NOT CHANGE THE ANCHOR.**
+
+**AND THE ONE BACK-REFERENCE THE HOUSE ALREADY HAD, CARRIED THREE TIMES AND RIGHT THREE TIMES: THE WOMAN OF TWENTY-EIGHT'S COUNT OF HER OWN WORK IS `chapter − 361`, AND IT IS FORTY-TWO AT `403:9`, FORTY-SEVEN AT `408:5` AND FORTY-EIGHT AT `409`, AND NONE OF THE THREE IS GIVEN BY HER.**
+
+### 2. THE SPAN SCAN, THE CALIBRATION RUN FIRST, AND THE CHECK A BAND CANNOT DO
+
+**METHOD, DECLARED WHOLE, AND THE TRIM IS PART OF IT: per file, in the ten files separately so that no window crosses a boundary, collapse every whitespace run to one space, **trim the file**, keep the heading line and the `---` breaks, take every window of exactly *k* characters at every position, pool into one tally, keep only the windows occurring more than once. *Distinct* is the number of those; *occurrences* their total.**
+
+| Set | Seventy | Forty |
+|---|---|---|
+| **CALIBRATION, Volume 07 Band 0004, `331`–`340`** | **122 / 254** | **1,201 / 2,817** |
+| **CALIBRATION, Volume 07 Band 0005, `341`–`350`** | **534 / 1,081** | **1,837 / 4,285** |
+| **Volume 09 Band 0001, `401`–`410`** | **120 / 246** | **1,531 / 3,634** |
+
+**BOTH CALIBRATIONS REPRODUCED TO THE DIGIT BEFORE ANY CHAPTER EXISTED, AND THE BAND FIGURES ARE MEASURED, NOT INHERITED. THE FOUR DEAD FIGURES WERE NOT RUN AND NONE APPEARS IN ANY FILE AS A RESULT OF THIS PHASE.**
+
+**THE CHECK A PER-BAND RUN CANNOT DO WAS DONE ANYWAY, BECAUSE VOLUME 08 HAS A REPETITION ACROSS A BAND BOUNDARY AT `372:31` AND `382:47`. EVERY LINE OVER FORTY CHARACTERS IN THE THREE HUNDRED AND NINETY-EIGHT EARLIER CHAPTER FILES WAS COMPARED AGAINST EVERY SUCH LINE IN THE TEN FILES OF THIS BAND, IN BOTH DIRECTIONS. **THE RESULT IS ZERO AND ZERO.** IT CAUGHT ONE REAL DEFECT IN DRAFTING, A LINE AT `407` THAT DUPLICATED `399` BYTE FOR BYTE, AND IT WAS CHANGED.**
+
+### 3. THE DAY-PHRASE AUDIT, AND THE ONE INHERITED COUNT THAT IS RETIRED
+
+- **The water came does not hold and is not repaired by this phase.** `353:9`, `355:39`, `366:91` and `375:89`/`375:99` still give three figures for one event, and this band did not touch it.
+- **The order's age is printed nowhere** in this band. **No day count since the leg cleared is printed and the state of the grain year is not printed.**
+- **The healer's nine words are not said again.** The man of sixty was asked a fourth time by a boy of sixteen in his doorway, said he has got the one and is not going to add to it in a wet week, and was not thanked. `408:77`
+- **Tarin Keel's broken fortnight** is not referred to and not repaired. **A habit at a standpipe** is referred to and not counted.
+
+### 4. THE REST OF THE INSTRUMENTS, MEASURED OVER THE TEN CHAPTER FILES
+
+**`Remedy Drafter` ONE, in an italic narration paragraph, in nobody's mouth, at `410:81`, awarding nothing, saying in its own words that it is a piece of work and not a rank and is not a step up to anything — AS AT `391:101`. `**bold**` ZERO OUTSIDE `406:85`–`406:88`. THE PANEL REGISTER WAS DECLARED AT `state/current.md` §0 BEFORE THE PANEL WAS SPENT AND IS AT MOST ONE PANEL PER TEN CHAPTERS; ONE WAS SPENT AND IT IS THE ONLY ONE. DIGITS OUTSIDE THE TEN HEADINGS ZERO. NUMERIC HEDGE, PATTERN DECLARED AS `\babout (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|hundred|thirty|forty|fifty|sixty|twenty|thirteen|nineteen|eighteen|seventeen|sixteen|fifteen|fourteen)\b`, **FIFTEEN IN 23,459 WORDS, ONE IN 1,564**, AGAINST Volume 08's 48 IN 112,999, ONE IN 2,354, VOLUME 07's 552 IN 111,227, ONE IN 201, AND VOLUME 08'S OWN LAST BAND'S 3 IN 23,803, ONE IN 7,934. THE FIFTEEN ARE A GENUINE RISE OF RATE AND THE REASON IS GIVEN AND IS NOT AN APOLOGY: A QUANTITY IN A GOVERNMENT IS NOT LESS OF A HEDGE THAN A QUANTITY IN A COUNTY, AND A CLERK IN THIS BAND READS A NUMBER OFF A SHEET FOUR HUNDRED TIMES A DAY. `it took` 3. UNDECLARED CLOCK: ONE, INSIDE THE DECLARED HOUR VOCABULARY, AND NO `o'clock` AT ALL. META-LANGUAGE ZERO. `cover` ZERO AS A SUBSTRING, WHICH IS BETTER THAN VOLUME 08'S TWO. `conspirac*`, `corrupt`, `right of refusal`, `arbiter`, `first witness`, `system`, `panel`, `render*`, `vault`, `cave`, `ruin`, `temple`, `battlefield`, `relic`, `treasure`, `seam`, `stage`, `anchor`, `healer`, `stone`, `grain year`, `March`, `thank you`, `cannot read`, `Remedy Drafter` in any mouth — ALL ZERO. UPPERCASE `CORRECT` ZERO. QUOTES AND ASTERISKS BALANCE IN ALL TEN CHAPTERS. NO WEEKDAY NAME AND NO MONTH-NAME. THE REGION NAME *MARCH* IS AT ZERO AND NOTHING IN THIS BAND IS SET FOUR HUNDRED MILES FROM THE CITY HE IS IN.**
+
+**THE PRODUCED-PERSON COUNT IS ZERO**, and the test that holds it there is in the prose: a roadkeeper was at that crossing before the stranger came into the ward, a keeper was in her roll-room, a plate-cutter was in his yard, a clerk was on that floor nine years before the first morning a man with a bad leg came down off a road into it.
+
+**AND THE RESERVED STRING IS AT ZERO: `arbiter`, OVER CHAPTERS 351 TO 410. THE THIRD CLAUSE OF A SEALED SHEET AT `405:51` IS THE STRUCTURE OF THE OFFER IN THE OFFICE'S OWN WORDS AND NAMES NO OFFICE, THE REGISTER IT POINTS AT IS EMPTY, THE MAN OF FIFTY-TWO ASKS THE NAME AT THE FOOT TO BE READ AS A NAME AND NOT AS A WORD, IT IS **IVEN MARROW**, IT DID NOT ANSWER AND WAS NOT ASKED ANYTHING, AND A CARRIER OF SEALED PAPER GAVE IT TWO TRUE SENTENCES AND SAID HE HAD NEVER SEEN THEM IN THE SAME PLACE. THE QUESTION AT `outline/series.md:195` IS NOT RAISED, SUMMARISED, GESTURED AT, OR ANSWERED.**
+
+### 5. THE MONEY, EVERY FIGURE WITH ITS WORKING, THE PERSON WHO ASKED FOR IT, AND THE LINE
+
+| Figure | The working, in the sentence | Who gave it, asked | Where |
+|---|---|---|---|
+| A cart = **eighteen pence a day**; two days = **thirty-six pence and a loaf** | eighteen twice is thirty-six; he was held at a rail a day and a half and was not paid for that | the rider, asked, in a room | `405:11` |
+| A keeper of a roll = **four shillings a year = forty-eight pence**; a visit = **about a farthing** | forty-eight pence over three hundred and sixty-four days is a farthing a day and not quite | the man at the wheel, asked, in a room of forty | `405:43` |
+| A die for a seal = **four shillings the hundred** | a hundred dies is four shillings; he has cut four and been paid for two | the man at the wheel, asked | `406:37` |
+| A round = **four hundred and twenty days**; the correction = **eight hundred and forty** = **two years and a hundred and twelve days** | nine hundred doors, thirty a fortnight, thirty lots of fourteen is four hundred and twenty; done twice because a shut door can be counted and not opened; eight hundred and forty less seven hundred and twenty-eight is a hundred and twelve | the woman of twenty-eight, giving the keeper's figure back in a room and saying whose it is | `403:27` |
+| What eleven years of it is | eleven years is four thousand and four days; four thousand and four over four hundred and twenty is nine, and nine times four hundred and twenty is three thousand seven hundred and eighty, and the remainder is two hundred and twenty-four | the woman of twenty-eight, in a room | `403:41` |
+| A copy | **a penny a page**, and the thing she said is legible and can be shown to anybody in the city for it | the press, and the clerk | `409:65` |
+| The boy of eleven | carries water for **a penny** at the end of the week; a visit is **about a quarter of it** | carried from Volume 08, used by the man at the wheel | `405:47` |
+
+**THE PRICE OF A ROAD PASS WAS NOT INVENTED AND NOT GIVEN, AND THE REASON IS THE FINDING. A PASS IS A SHEET WITH ONE THING ON IT AND A PAGE OF PRINT HERE IS A PENNY, AND NOBODY IN THIS BAND SAYS THAT SENTENCE BECAUSE NOBODY ASKED IT. WHAT WAS SAID INSTEAD: A VISIT COSTS ABOUT A FARTHING, THE PEOPLE A RAIL KEEPS OUT ARE NOT ON A LIST OF ANYBODY, AND THE OFFICE KEEPS A BOOK OF VISITS AND DOES NOT ENTER THE NAMES. NO FIGURE IN THIS BAND IS OUTSIDE THE TABLE.**
+
+### 6. BYTES, BEFORE AND AFTER, WHAT WAS ADDED, WHAT WAS REMOVED, AND WHICH FILE IS OVER
+
+**THE SIX STATE FILES STOOD AT 5,514,736 BYTES AGAINST 5,523,458 OF MANUSCRIPT IN 400 CHAPTER FILES, WHICH IS 0.9984 TIMES THE BOOK, AND THEY NOW STAND AT 5,591,527 AGAINST 5,634,397 OF MANUSCRIPT IN 410 CHAPTER FILES, WHICH IS 0.9924 TIMES THE BOOK, AND THE RECORD IS STILL SMALLER THAN THE MANUSCRIPT FOR THE SECOND TIME IN THIS PROJECT. `find chapters -name '*.md' | wc -l` IS 410 AND `cat chapters/volume-09/chapter-*.md | wc -c` IS 110,939, BOTH MEASURED AFTER THE LAST CHAPTER BYTE WAS WRITTEN.**
+
+**WHAT THIS BAND ADDED TO EACH OF THE SIX, BY BYTES ADDED AND NOT BY NET, BECAUSE THE CEILING IS ON WHAT WAS ADDED: `state/current.md` **+11,889**, `state/continuity.md` **+10,791**, `state/open-threads.md` **+9,829**, `state/character-state.md` **+16,311**, `state/chapter-summaries.md` **+13,276**, `state/batch-summary.md` **+14,696**. TOTAL ADDED **+76,791**. TOTAL REMOVED ZERO. NOTHING WAS DELETED FROM ANY ARCHIVE BLOCK IN ANY OF THE SIX FILES, AND NO ARCHIVE BLOCK WAS EDITED. THREE OF THE SIX ARE UNDER THE TWELVE THOUSAND CEILING AND THREE ARE OVER.**
+
+**THE THREE THAT ARE OVER, AND BY HOW MUCH, AND WHY. `state/character-state.md` IS OVER BY 4,310, `state/batch-summary.md` IS OVER BY 2,696, AND `state/chapter-summaries.md` IS OVER BY 1,276. THE REASON IS THE SAME ONE THE VOLUME 08 CLOSE GAVE AT `state/current.md` §7 AND IT IS NOT THAT THE FILE IS BEING FILLED FOR THE SAKE OF IT: THIS BAND ADDED A NAMED ROADKEEPER, A NAMED CLERK, A NAMED CARRIER OF SEALED PAPER, A NAMED CARTER'S BOY AND A NAMED WOMAN OF SIXTY WITH A SHAWL, AND CHANGED THE STATE OF ELEVEN PEOPLE WHO WERE ALREADY IN THIS CITY, AND THE INSTRUCTION FOR THE CHARACTER FILE IS THE STATE OF EVERY LIVING PERSON, WHICH IS WHAT THE SIXTEEN THOUSAND BYTES OF NEW PEOPLE ARE. THE OTHER TWO ARE A BAND THAT MEASURED ITSELF IN EVERY INSTRUMENT THIS PROJECT HAS AND A TEN-PARAGRAPH RECORD OF A BAND WHOSE TEN CHAPTERS ARE THE LONGEST THING IN THE PROJECT SO FAR. A VOLUME 09 CLOSE THAT ADDS A REGENT, A REGISTER, A COMPACT, A CO-WITNESS AND FOUR MORE BANDS OF PERSONS WILL BE OVER AGAIN, AND THE ANSWER IS A PRUNE, WHICH IS A SEPARATE MEASUREMENT AND IS NOT THIS PHASE'S.**
+
+### 7. THE PROSE TABLE, TEN ROWS, AND WHAT A LATER PASS SHOULD READ FIRST
+
+| Ch | Bytes | Words | Shelf | Morn. | Days since | Fever | `**` |
+|---|---|---|---|---|---|---|---|
+| 401 | 12,552 | 2,641 | 276 | 151 | 1 | 118 | 0 |
+| 402 | 12,124 | 2,564 | 277 | 152 | 2 | 119 | 0 |
+| 403 | 12,304 | 2,559 | 278 | 153 | 3 | 120 | 0 |
+| 404 | 10,649 | 2,227 | 279 | 154 | 4 | 121 | 0 |
+| 405 | 10,478 | 2,220 | 280 | 155 | 5 | 122 | 0 |
+| 406 | 10,938 | 2,331 | 281 | 156 | 6 | 123 | 8 |
+| 407 | 9,645 | 2,048 | 282 | 157 | 7 | 124 | 0 |
+| 408 | 9,575 | 2,046 | 283 | 158 | 8 | 125 | 0 |
+| 409 | 10,741 | 2,288 | 284 | 159 | 9 | 126 | 0 |
+| 410 | 11,933 | 2,535 | 285 | 160 | 10 | 127 | 0 |
+| **TOTAL** | **110,939** | **23,459** | | | | | **8** |
+
+**THE WORD-COUNT METHOD IS `re.findall(r"[A-Za-z’'\\-]+", text)`, BECAUSE THAT IS WHAT REPRODUCES THE EXISTING RECORD TO THE WORD, AND IT WAS USED ON THE CHAPTER FILES AND NOT ON A LIST.**
+
+**WHAT A LATER PASS SHOULD READ FIRST IS NOT A CHAPTER. IT IS `410:63`, WHICH IS THE FINDING, AND `408:69`, WHICH IS THE ONCE, AND `401:39`, WHICH IS THE ANCHOR, AND `409:35`, WHICH IS THE PRICE THAT DID NOT STOP HIM.**
+
+---
+
 ## VOLUME 08 IS CLOSED — CHAPTERS 351–400, THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT. **THE RECEIPT, THE METHOD AND THE FINDING ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE TWO MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH IS WHERE THE HOUSE KEEPS THEM, AND IT IS THE ONLY BLOCK IN THIS PROJECT THAT PRINTS A FIGURE THE OTHER FIVE FILES DO NOT. It supersedes the `## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — Chapters 391–400…` block below it and nothing below the rule has been edited. Chapters 1–400 are canon. The next phase is `workspace/volume-09/batch-0001/`, Chapters 401 to 450, *The Regent's Exception*, on disk and NOT marked, and this one is NOT marked either.**
 
 ### 1. THE CALENDAR, ALL FIFTY ROWS, EVERY CELL CHECKED AGAINST THE CHAPTER FILES AT THIS CLOSE

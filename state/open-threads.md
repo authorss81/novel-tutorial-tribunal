@@ -1,3 +1,62 @@
+## VOLUME 09 BATCH 0001 — CHAPTERS 401–410, WHAT IS STILL RUNNING, WHAT THIS BAND OPENED, AND WHAT IT DID NOT DO. **SUPERSEDES THE `## VOLUME 08 IS CLOSED — CHAPTERS 351–400, WHAT IS STILL RUNNING, AND THE FOUR COUNTS NOBODY MAY TIGHTEN…` BLOCK AND EVERY BLOCK UNDER IT. NOTHING BELOW THE RULE HAS BEEN EDITED. Chapters 1–400 are canon. A THREAD IS A THING A PERSON IS STILL DOING; A PROSE DEFECT IS A SENTENCE THAT SAID A WRONG THING; CONFUSING THE TWO IS HOW A REPAIR BECOMES A REVISION. THE TWELVE THREADS IN §1 BELOW ALL CARRY. THIS BAND OPENED FIVE AND CLOSED NONE.**
+
+### 0. THE FIVE THIS BAND OPENED, AND THEY ARE THREADS
+
+1. **THE RAIL IS DOWN AND NOBODY WAS ASKED.** A man of fifty-eight has kept the Low Road for twenty-nine years, is the only person in this ward who can be asked whether the road is fit, has no form behind him, cannot be sent for, and did not get to answer. An office four hundred miles off took the rail down in a morning over his head. `402:99`, `410:25`
+2. **THE REGISTER AT THE SEAT IS EMPTY.** The third clause of the sealed sheet says a dispute about a road may be given to a person appointed by the office and that the person is named in a register. **The register is empty. The clerk of thirty left one line in it empty on purpose and would not say why. The rail has already come down without it, which means the office does not need the register for a bar, and the sheet does not say what it does need it for.** `405:51`, `407:73`
+3. **THE SEALED SHEET IS LEGIBLE AND THE CITY IS NOT.** A good sheet with straight ruling and good ink that a clerk can read standing up, at a penny a page, in a city where a form has to be held close to. It has been read out in one room once and it will be read out four hundred times a day in a room four hundred miles off, and this band is the first time anybody in this city has met a rule they can read at arm's length. `406:5`
+4. **A FARTHING A DAY IS ON A POST AND NOBODY HAS GONE ON IT.** The woman of twenty-eight refused it on a step and in a room and said the reason out loud four times in four doorways, and the reason is now in this ward. **Nobody in this ward has said they will, and nobody in this ward has said they will not, and the office has not asked twice.** `408:9`
+5. **THE ROUND HAS NO FIGURE ANY MORE.** A door behind a rail is a door that is shut, and a shut door is not on a list and not off a list, and the keeper went over the rail and came back, and two years and a hundred and twelve days is now a figure for a round that somebody has not finished counting. **NOBODY HAS PUBLISHED A REPLACEMENT FIGURE AND NONE IS TO BE INVENTED BY A LATER BAND.** `403:51`, `410:51`
+
+### 1. WHAT IS STILL RUNNING, AT TWELVE
+
+1. **The right of refusal.** Unrestored, and nobody has one. **This band had the chance three times over and did not take it:** the office will answer a road, it will pay a farthing for a visit, and it will name a person to give a dispute to. All three were refused in this ward. **An exit granted by the one hand that can take it back is not a right and not a refusal, and it was said once, in a room, to a boy of sixteen in a doorway, and it is not to be said again in this volume.** `408:69`
+2. **The order's review.** It exists and it is reached by being in a room at the second hour. Unchanged, and now sitting under a bill that is under a rail that is not on the wall.
+3. **The roll.** Nine hundred doors, thirty a fortnight, four hundred and twenty days, the correction over the doors that were shut, and **eleven years of it is nine rounds and two hundred and twenty-four days of a tenth.**
+4. **Magistrate Rell's list of nine hundred doors**, on the back of her own hand, and her name is not at the top of anything yet, **and the sealed sheet asks for the name of the magistrate the second return was written against.** `405:55`
+5. **The three hundred names.** Not on a plate, the line on the bill blank, the blank the correct figure.
+6. **The two names that cannot be put right.** Unchanged and untouched in this band.
+7. **The block in the gatepost.** Untouched in this band and no meeting of a ward exists to weigh it.
+8. **The nineteen dead**, and the two lines of chalk over them, and the man who wrote them is still going to ask at the end of that row in a year and in two years.
+9. **The bell in the county four hundred miles off.** Unhung, a hundred and forty days of a keeper's wages, and the heading of a bill on a wall in this city, and it is not in this band's sheets and the office has not been asked about it.
+10. **The corridor in the valley of about a hundred and forty people**, Corvin Hale alive in his own field, the porch in the valley of sixty gone. Untouched, and nothing in this band is set there.
+11. **The two questions this series asked and did not answer**, in their stated form, unraised and unsummarised.
+12. **The question `outline/series.md:195` planted**, why the System asks Ilyan to become its arbiter rather than simply accept the ruling. **`arbiter` is at zero over chapters 351 to 410 and is reserved. The third clause of a sealed sheet at `405:51` is the structure of that offer in the office's own words and the register it points at is empty, and the word is not said, and the question is not raised, and it is Volume 13, 14 and 15 work.**
+
+### 2. WHAT THE BAND RESOLVED, AT SIX
+
+1. **A rail is a rule with no room in it**, said by a person of twenty-eight from a wall in a room, unasked, and it is the volume's first line and it was in the first chapter.
+2. **A road in this city is now a thing that can be shut and a thing that can be opened, and neither is a finding about the road.** `410:63`
+3. **A form for a road has a line at the top of it for a person, and the line was empty, and the rail was up for thirteen days anyway, and the clerk of thirty would not fill it and said so in a room.** `401:63`
+4. **A seal is the reason one paper in two rooms is one paper, and a man on a cart is the reason it is not, and the man on the cart is paid by whoever sent him.** Said by a person of a place, asked, in a room. `406:19`
+5. **A visit that is paid for is a visit that can be sent from somewhere else.** `408:31`
+6. **The difference between a door with a man standing at it and no door at all.** Said once, to a boy of sixteen in a doorway, in answer to a question, in a room, and not said again. `408:69`
+
+### 3. WHAT THE BAND EXPLICITLY DID NOT DO, AT TWELVE
+
+1. It did not restore the right of refusal and did not print the four words at the head of the plank in the March.
+2. It did not name anybody a villain. Marrow is a name at the foot of a sheet and a carrier's two true sentences, and **he is right about most of it: the sheet says nothing in it is a finding about the road, and the thing he offers is legible.** `conspirac*` and `corrupt` are at zero, and `cover` is at zero as a substring.
+3. It did not say anybody hid anything, and nobody in this band said so.
+4. It did not answer, sum or partition the hundred and forty.
+5. It did not name a position a relic, a treasure, a stone, an object to be recovered, or a thing to be found, and it wrote no vault, cave, ruin, temple or battlefield. **`stone` is at zero and the sockets in a road are the hard ground.**
+6. It did not add a panel beyond the one at `406`, and it printed no weekday and no month-name, and the region name *March* is at zero.
+7. It did not print a count of days since the leg cleared and did not state the state of the grain year.
+8. It did not print, in any file, for any reason, including this one and including any hand-off, the count of the people who know he cannot read, and no device became a disclosure. **He asks for things to be read aloud and does not say why and nobody asks, and in this band a clerk and a man at a wheel and a road and a rail and a man at the wheel's die all get read out to him without a single one of them remarking that they have done it.**
+9. It did not put his name on anything and did not fill or dash anything of his own, **and a whole volume band is about the fact that in a city which gives forms out, a claimant is a name and the whole of a case is whether a name goes on the paper.**
+10. It did not promote him. He asked one question in one room and it cost somebody else a name, and the paragraph at `410:81` says in its own words that the stage is a piece of work and not a rank and is not a step up to anything.
+11. It did not produce a person.
+12. It did not undo anything and it did not relieve, forgive, redeem or thank anybody — **including the office, which fixed a road, and the two men with a barrow who were not thanked, and the man in the hut, who did not get thanked and did not ask.**
+
+### 4. THE FOUR COUNTS NOBODY MAY TIGHTEN, AND ONE NEW ONE
+
+- **A habit at a standpipe.** Unchanged.
+- **The nine words said once** at `377:23`, refused a second time, still true, not actionable, and **the man of sixty was asked a fourth time this band, by a boy of sixteen in his doorway, and said he has got the one and is not going to add to it in a wet week, and he was not thanked.** `408:77`
+- **Tarin Keel's broken fortnight.** Unchanged.
+- **The water came, at four places and three figures.** Unchanged and not repaired.
+- **AND THE NEW ONE, WHICH IS THIS BAND'S: THE DAY THE SETTLEMENT IS DATED IS AMBIGUOUS AND THE CLERK OF THIRTY SAID SO OUT LOUD BEFORE HE GAVE A FIGURE. `401:39`. He counts from the third day of the seventy-ninth week, which is Chapter 400, and he says that asked again in a month he will give the other day, because one of the two is going to end up in a return somewhere and he does not know which. NO LATER BAND MAY RESOLVE THIS, AND NO LATER BAND MAY CHANGE THE ANCHOR, AND A LATER BAND THAT RE-USES THE COUNT MUST USE `chapter − 400` AND NOT `chapter − 351` AND NOT A NEW ONE.**
+
+---
+
 ## VOLUME 08 IS CLOSED — CHAPTERS 351–400, WHAT IS STILL RUNNING, AND THE FOUR COUNTS NOBODY MAY TIGHTEN. **SUPERSEDES THE `## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — CHAPTERS 391–400, AND NOTHING THE REPAIR DID OPENED OR CLOSED A THREAD…` BLOCK AND EVERY BLOCK UNDER IT. NOTHING BELOW THE RULE HAS BEEN EDITED. Chapters 1–400 are canon and Volume 08 is closed in prose. A THREAD IS A THING A PERSON IS STILL DOING; A PROSE DEFECT IS A SENTENCE THAT SAID A WRONG THING; CONFUSING THE TWO IS HOW A REPAIR BECOMES A REVISION. This close added one thread and closed none.**
 
 ### 0. THE ONE THREAD THIS CLOSE OPENED, AND IT IS A THREAD
