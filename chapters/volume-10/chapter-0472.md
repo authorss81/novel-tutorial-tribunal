@@ -1,4 +1,4 @@
-# Chapter 472: A Market On A Saturday For The Fifth Time In Nine Years, Because For Three Weeks Nothing In Halloway Has Happened On A Tuesday, And A Man Of Thirty-Four With A Bill Of Sale In His Coat Walks Four Hundred Yards Up A Lane Into A Room Over A Taproom And Says He Has Heard The Whole Of It And Would Like To Know Whether The Water Belongs To Him, And The Majority Of That Room Discovers That It Has A Position, And Does Not Know That The Three Sentences Are Word For Word The Three Sentences Of A Minute Of The Thirteenth Day
+# Chapter 472: A Market On A Saturday For The Fifth Time In Nine Years, Because For Three Weeks Nothing In Halloway Has Happened On A Tuesday, And A Man Of Thirty-Four With A Bill Of Sale In His Coat Walks Four Hundred Yards Up A Lane Into A Room Over A Taproom And Says He Has Heard The Whole Of It And Would Like To Know Whether The Water Belongs To Him, And The Majority Of That Room Discovers That It Has A Position, And Does Not Know That The Three Sentences Are Word For Word The Three Sentences Of A Minute Of The Nineteenth Day
 
 Fifth day of the eighty-ninth week. His two hundred and twenty-second morning. Seventy-two days after the settlement. The fever twenty-seven weeks and no days. Twenty-six days since the division. Twenty days in this town.
 
@@ -84,13 +84,13 @@ And then the three sentences came out of that room, and they came out of the sta
 
 *And the fenrow have not asked.*
 
-The second of those is out of date by eleven pounds and eight pence and nobody in that room knew it. The third of them had not been true since the nineteenth day after the division. A woman of thirty-four who had been in that row since she was nine years old was sitting on the second chair and knew both.
+The second of those is out of date by twelve shillings and eightpence a year and nobody in that room knew it. The third of them had not been true since the nineteenth day after the division. A woman of thirty-four who had been in that row since she was nine years old was sitting on the second chair and knew both.
 
 “*Say the three of them again, and say them slowly,*” said Wenna Crale.
 
 A man of about fifty-four came down the stair into the room, and he had a lot on the Four Hundred and had paid two pounds for it in the week of the division, and he was the second of the three against the scouring on the tenth day, and his name has been in two minutes since that day.
 
-“*Three things, and I have said two of them twice in this room and I am saying all three now, and four of us have them in the same words,*” said Gault Rieve.
+“*Three things, and I said all three of them in that room on the Saturday, and four of us had them in the same words then, and I am saying them again over a taproom because there are twenty people on that stair,*” said Gault Rieve.
 
 “*Go on.*”
 
@@ -100,7 +100,7 @@ A man of about fifty-four came down the stair into the room, and he had a lot on
 
 “*Say the day,*” said Ilyan.
 
-“*The tenth day after the division,*” said Wenna Crale. “*Six to three, and the three were named, and it is in the minute, and any person of this town may read the copy of it in a press in the Stone House.*”
+“*The nineteenth day after the division,*” said Wenna Crale. “*Nine to nothing, and the three of them were named, and it is in the minute, and any person of this town may read the copy of it in a press in the Stone House.*”
 
 “*Say the rest of that and do not make it a speech.*”
 
@@ -108,7 +108,7 @@ A man of about fifty-four came down the stair into the room, and he had a lot on
 
 About thirty people were standing in a lane four hundred yards long in a town of four thousand people. The majority of them had come up that lane to hear whether the water belonged to a man.
 
-They had found out instead that they had a position, and the position was that they had paid for it, and it was three sentences long and thirteen days old, and not one person in that room knew they were standing in it.
+They had found out instead that they had a position, and the position was that they had paid for it, and it was three sentences long and seven days old, and not one person in that room knew they were standing in it.
 
 And a girl of nineteen in the doorway asked Ilyan Vester whether he had written the three sentences.
 
@@ -118,7 +118,7 @@ And a girl of nineteen in the doorway asked Ilyan Vester whether he had written 
 
 “*No,*” said Ilyan Vester.
 
-It was true. A man of fifty-four had said them on the tenth day after the division in a room over a saddler’s shop, and three of nine had them in the same words, and none of those three had ever spoken to him.
+It was true. A man of fifty-four had said them on the nineteenth day after the division in a room over a saddler’s shop, and four of the nine had them in the same words, and none of those four had ever spoken to him.
 
 And it was the largest lie he had told in three weeks, and he told it in a room over a taproom in front of about thirty people. He understood about twenty-five days later that he had not told it to protect anybody. He told it because the answer *yes* would have made the three sentences his, and a position that belongs to one man can be argued with, and a position that belongs to a market cannot be argued with at all.
 

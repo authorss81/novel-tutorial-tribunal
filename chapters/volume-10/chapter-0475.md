@@ -16,7 +16,7 @@ Nobody had called anybody together. About thirty people had walked into a stone 
 
 The eleven lines were read out by the copyist, standing at the end of the table, in the voice she uses for the minutes, and it took her about a minute and a half, and about nine people in that room heard every word of it and about twenty heard it from the doorway.
 
-*Second correction. Eleven houses in this town, entered in this year’s roll as land in some year and not as households, are households of this town from this day. Corrected the twenty-eighth day after the division, upon the account of a miller of this town and a woman of thirty-four of this town, and of the finding of nineteen doors on the fifteenth day after the division, and no request. A.T., steward. Nothing else has been altered.*
+*Second correction. Eleven houses in this town, entered in this year’s roll as land in some year and not as households, are households of this town from this day. Corrected the twenty-eighth day after the division, upon the account of a miller of this town and a woman of thirty-four of this town, and of the finding of nineteen doors on the twenty-first day after the division, and no request. A.T., steward. Nothing else has been altered.*
 
 “*Do not make that a speech,*” said Perdy Sallow, from the fourth stool.
 
@@ -118,7 +118,7 @@ And the woman of thirty-eight who keeps the sluice had not said anything for for
 
 “*Say the number out loud, and say what it is a number of.*”
 
-“*It is a number of what the roll would be if the whole of what we found on the Monday were in it, and it is a number of nothing else, and it is twenty-two pence a year away from the figure on the wall, and that is the whole of what a correction does to the people who were not the subject of it.*”
+“*It is a number of what the roll would be if the whole of what we found on the Monday were in it, and it is a number of nothing else, and it is three households and twenty-four pence a year away from the figure on the wall, and that is the whole of what a correction does to the people who were not the subject of it.*”
 
 Nobody in that stone room said anything for about nine seconds.
 

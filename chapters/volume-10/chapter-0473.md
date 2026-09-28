@@ -66,13 +66,13 @@ The third was Ordwin Cape, who is sixty-one and has a county pension of eleven s
 
 “*Say the rest of that and go on to the end of the sentence.*”
 
-“*And he said: I have had it in a drawer for forty years and I told a stranger about it in this square nine days ago and I did not open it. And I stood in that square and I understood that he was telling me there was a door and that the door was not locked, and I have not been able to put it down since, and I did not tell the row about it because I did not want to be the man who came in with a thing.*”
+“*And he said: I have had it in a drawer for forty years and I told a stranger about it in this square nineteen days ago and I did not open it. And I stood in that square and I understood that he was telling me there was a door and that the door was not locked, and I have not been able to put it down since, and I did not tell the row about it because I did not want to be the man who came in with a thing.*”
 
 The fourth was Renn Selby, who is forty-seven and is of the eleventh house of nineteen and has been in that row all his life.
 
 “*Say who told you and say what they told you,*” said Sefa Lund.
 
-“*The man of the county. At the eleventh hour of a Thursday in the rain, at the head of the sluice, with about twenty people standing in it.*”
+“*The man of the county. At the eleventh hour of a Friday in the rain, at the head of the sluice, with about twenty people standing in it.*”
 
 “*Go on and say the rest of it.*”
 
@@ -112,7 +112,7 @@ It was Coll Sarn who put it there, and he put it there because he was the only m
 
 “*Say the number out loud, and say what it is a number of,*” said a voice at the door, and Ilyan Vester was in it, and he has said that sentence in nine rooms in this town and had not said it in one of them until that moment.
 
-“*Twenty-two. Nineteen doors and twenty-two households, and that is the whole of the row and it has been in that bill since the fifteenth day after the division.*”
+“*Twenty-two. Nineteen doors and twenty-two households, and that is the whole of the row and it has been in that bill since the twenty-first day after the division.*”
 
 “*Go on,*” said Sefa Lund.
 

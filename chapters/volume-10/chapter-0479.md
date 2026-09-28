@@ -8,7 +8,7 @@ There was no market on the Saturday of the thirty-third day after the division. 
 
 About nine of them had come because they had heard that a sheet of ten things was going to be read out in the square at the ninth hour. The other hundred and ninety-one had come because of the water.
 
-The wheel at the mill had been slow for three days.
+The wheel at the mill had been slow for two days.
 
 ---
 
@@ -24,7 +24,7 @@ The first thing was the ninth clause and the second was the north heel, and the 
 
 “*Go on and say the ninth and the tenth and do not make them smaller than they are.*”
 
-“*The ninth is that a man of thirty-one read a notice out in a market square in this town on the fourth day after the division and nobody asked him to.*”
+“*The ninth is that a man of thirty-one read a notice out in a market square in this town on the sixth day after the division and nobody asked him to.*”
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
@@ -46,7 +46,7 @@ And then the finding came, and it came the way a thing comes in a town of four t
 
 Nobody in that square had to be told that.
 
-About two hundred people in that square had heard a version of it in a rainstorm on the Sunday morning nine days ago. About four of them had heard it correctly the first time, about forty had it wrong, and about a hundred and forty had it in a shape nobody had said it in.
+About two hundred people in that square had heard a version of it in a rainstorm on the Sunday morning thirteen days ago. About four of them had heard it correctly the first time, about forty had it wrong, and about a hundred and forty had it in a shape nobody had said it in.
 
 “*Say the rest of that and do not stop in the middle of a sentence,*” said Ivo Cray.
 
@@ -64,7 +64,7 @@ About two hundred people in a market square in a town of four thousand people di
 
 ---
 
-And then somebody asked the question that two hundred people in a town of four thousand people have been carrying since Wednesday afternoon, and it was asked by a boy of about fifteen who had been in that square on the Sunday morning nine days ago with his sister holding wool.
+And then somebody asked the question that two hundred people in a town of four thousand people have been carrying since Wednesday afternoon, and it was asked by a boy of about fifteen who had been in that square on the Sunday morning thirteen days ago with his sister holding wool.
 
 “*Say the rest of that and do not make it a speech,*” said Ilyan Vester, because somebody always said it.
 
@@ -106,7 +106,7 @@ There is a nail in a shed at the bottom of that square, in a board, driven in by
 
 In a piece of tin on the nail it says that the roll is a list of doors.
 
-A carter of about thirty said it in a square nine days ago, in the rain, and he had it right, and he had got it off that nail, and he had said that he did not know who had driven it in.
+A carter of about thirty said it in a square thirteen days ago, in the rain, and he had it right, and he had got it off that nail, and he had said that he did not know who had driven it in.
 
 “*Say the rest of that and do not make it a speech,*” said Ordwin Cape.
 
@@ -114,15 +114,15 @@ A carter of about thirty said it in a square nine days ago, in the rain, and he 
 
 “*Say the rest of that and do not make it a speech.*”
 
-“*I am the only person in this square who has ever said that sentence out loud. I said it nine days ago, about four of you heard me, and I have not slept since.*”
+“*I am the only person in this square who has ever said that sentence out loud. I said it thirteen days ago, about four of you heard me, and I have not slept since.*”
 
 ---
 
-And a man of thirty-one who had said a true sentence in that square on the Sunday morning nine days ago stood in it for four hours on the Saturday and said almost nothing.
+And a man of thirty-one who had said a true sentence in that square on the Sunday morning thirteen days ago stood in it for four hours on the Saturday and said almost nothing.
 
 About nine people in that square noticed, and one of them said it out loud at about the fourth hour, which was a thing that had not happened in this town before.
 
-He wanted the sentence to be his. It was the first want of his that had a shape, and he had had it since the Sunday morning nine days ago, and he had spent three weeks teaching a town of four thousand people to carry sentences, and about nine people in that square had noticed on the Saturday that the man in the coat had not said one word for four hours, and one of them had said it out loud.
+He wanted the sentence to be his. It was the first want of his that had a shape, and he had had it since the Sunday morning thirteen days ago, and he had spent three weeks teaching a town of four thousand people to carry sentences, and about nine people in that square had noticed on the Saturday that the man in the coat had not said one word for four hours, and one of them had said it out loud.
 
 Ilyan Vester had been asked for his view three times in twenty-seven days: in a square with about two hundred people in it on the fourteenth day after the division, in a room over a shop with about nine people in it on the twenty-eighth, and on the Friday in this shop by a woman of thirty-four. He had said nothing in the first and everything in the second and a number in the third.
 

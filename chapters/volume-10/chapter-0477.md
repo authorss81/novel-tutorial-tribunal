@@ -1,12 +1,12 @@
-# Chapter 477: The Answer Of A Woman Of Twenty-Eight Four Hundred Miles Off Comes Back In A Round Hand And Is Addressed To A Water Board And Not To A Man, And There Is A Second Sheet Folded In Four With No Name On It, And The Whole Of What She Said Eight Days Ago Is Demonstrable In A Town Of Four Thousand People In Four Days, And She Is Right, And The Answer To Right Or Privilege Is Not A Sentence
+# Chapter 477: The Answer Of A Woman Of Twenty-Eight Four Hundred Miles Off Comes Back In A Round Hand And Is Addressed To A Water Board And Not To A Man, And There Is A Second Sheet Folded In Four With No Name On It, And The Whole Of What She Said Nine Days Ago Is Demonstrable In A Town Of Four Thousand People In Ten Days, And She Is Right, And The Answer To Right Or Privilege Is Not A Sentence
 
 Third day of the ninetieth week. His two hundred and twenty-seventh morning. Seventy-seven days after the settlement. The fever twenty-seven weeks and five days. Thirty-one days since the division. Twenty-five days in this town.
 
 The bar at the head of the sluice is four feet long and takes two people and about an hour, and it is wound at the sixth hour and at the twelfth hour, and it has been wound at both on every day for nine years whether the gates were shut or open.
 
-It was not wound at the sixth hour on the Thursday morning of the thirty-first day after the division, and it was not wound at the twelfth hour, and it was not wound at the sixth hour on the Friday.
+It was not wound at the sixth hour on the Thursday morning of the thirty-first day after the division, and it was not wound at the twelfth hour, and by the ninth hour of that same morning nobody out of that row of nineteen had put a hand to it.
 
-There were about eleven people at the head of it on the Friday morning and about twenty came up the lane in the half hour after, because the sound of a bar carries four hundred yards in this town and everybody in it knows what the bar sounds like.
+There were about eleven people at the head of it on the Thursday morning and about twenty came up the lane in the half hour after, because the sound of a bar carries four hundred yards in this town and everybody in it knows what the bar sounds like.
 
 Nobody turned it. Nobody was asked to turn it. The board had put nineteen houses out of the water at about the sixth hour on the Wednesday. The houses are not households, and a household is the only thing in this town that anybody has ever been able to require anything of.
 
@@ -26,7 +26,7 @@ It was not addressed to him.
 
 ---
 
-“*Say what you have got there and say who it is from,*” said Wenna Crale, at about the ninth hour on the Friday, in the Stone House, with about nine people in it and the door open.
+“*Say what you have got there and say who it is from,*” said Wenna Crale, at about the ninth hour on the Thursday, in the Stone House, with about nine people in it and the door open.
 
 “*Go on, and do not stop in the middle of a sentence,*” said Ilyan.
 
@@ -54,7 +54,7 @@ About nine people in a stone room with a hearth in it did not make a sound.
 
 ---
 
-He read it out in the square at about the eleventh hour on the Friday, standing under the awning of the mill, to about thirty people, and he read out four lines of it and then stopped, and the four lines were these.
+He read it out in the square at about the eleventh hour on the Thursday, standing under the awning of the mill, to about thirty people, and he read out four lines of it and then stopped, and the four lines were these.
 
 *You asked me in your letter of the twenty-second day whether four letters and a stroke are a person. I have not opened the range and I am not going to, and I have written down again on the day I wrote to you that I have not opened it.*
 
@@ -86,15 +86,15 @@ Then he said the thing about right and privilege, and it was the first time in t
 
 “*Say the other half of that and say it in this square,*” said Ivo Cray.
 
-“*The other half is that in eight days a town of four thousand people has demonstrated every word of it, and that I have been in that town twenty-five days and I have built the demonstration.*”
+“*The other half is that in nine days a town of four thousand people has demonstrated every word of it, and that I have been in that town twenty-five days and I have built the demonstration.*”
 
 Nobody in that square made a sound.
 
 “*Say the whole of that out loud,*” said Mab Harrow, “*because there are about thirty of us here and none of us has been in a room about it, and I have been in nine rooms in three weeks and I know what a room does to a thing.*”
 
-So he said it, standing under an awning, at about the eleventh hour on the Friday, in the order it happened.
+So he said it, standing under an awning, at about the eleventh hour on the Thursday, in the order it happened.
 
-“*One. A right you have to knock on nineteen doors for is a favour and not a right. She wrote that down eight days ago.*”
+“*One. A right you have to knock on nineteen doors for is a favour and not a right. She wrote that down nine days ago.*”
 
 “*Go on.*”
 
@@ -102,7 +102,7 @@ So he said it, standing under an awning, at about the eleventh hour on the Frida
 
 “*Go on to the second one.*”
 
-“*Two. A form is a door, and a door can be opened by whoever is nearest the hinge. There are three forms in this county of Ostrey that anybody knows of and all three have been used in four days. The steward’s form has been used three times, on the nineteenth tenements on the Sunday, on eleven houses nobody asked on the Monday, and on those same nineteen tenements back again on the Wednesday afternoon in about four minutes.*”
+“*Two. A form is a door, and a door can be opened by whoever is nearest the hinge. There are three forms in this county of Ostrey that anybody knows of and all three have been used in ten days. The steward’s form has been used three times, on the nineteenth tenements on the Sunday, on eleven houses nobody asked on the Monday, and on those same nineteen tenements back again on the Wednesday afternoon in about four minutes.*”
 
 “*Say the rest of that and go on to the end of the sentence,*” said Ordwin Cape.
 
@@ -174,7 +174,7 @@ Nobody in that square said anything.
 
 “*Say the rest of that and do not stop in the middle of a sentence.*”
 
-“*She has used them the other way round, and she is right about that as well, and I have been wrong about it in a letter four hundred miles off for eight days.*”
+“*She has used them the other way round, and she is right about that as well, and I have been wrong about it in a letter four hundred miles off for nine days.*”
 
 About thirty people in a market square did not make a sound.
 
@@ -196,7 +196,7 @@ Nobody in that square said anything for about a minute.
 
 “*And I am a man who is on nobody’s book four hundred miles off, and there is no form in her building that says what may not be used.*”
 
-The fever was twenty-seven weeks and five days old. A bar four feet long was not turned for the second day at the head of a sluice in a town of four thousand people.
+The fever was twenty-seven weeks and five days old. A bar four feet long was not turned for the first day at the head of a sluice in a town of four thousand people.
 
 A sheet of paper in a round hand was lying in a room over a nail shop with the water board of Halloway written on it and no person’s name at the foot of it. A second sheet, folded in four with nothing on the outside of it, had come out of a bag in a market town and been read out in a market square in about four minutes.
 

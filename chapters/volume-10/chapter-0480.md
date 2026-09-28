@@ -70,7 +70,7 @@ Nobody said anything.
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
-“*Nineteen days in Halloway on the fourth day after the division, when he read a notice out in a market square in this town at the ninth hour that nobody had asked him to read. He gave his name, his age, his county, his lack of standing and his day-count, in that order, in the first minute, to a man he had never met, because he had watched it done on the Saturday and worked out what it was for.*”
+“*One day in Halloway on the sixth day after the division, when he came into this town at about the fourth hour and read a notice out in a market square at the ninth hour of that same day, and nobody had asked him to read it. He gave his name, his age, his county, his lack of standing and his day-count, in that order, in the first minute, to a man he had never met, because he had watched it done on the Saturday and worked out what it was for.*”
 
 Nobody in that stone room said anything for about a minute.
 
@@ -96,7 +96,7 @@ The right of refusal was taken out of the law about a hundred and forty years ag
 
 The out-of-roll book was in a drawer in a house in this town. It has never been written in in this town and it is not going to be written in this year. The nineteen houses at the Fen went off the roll on Wednesday afternoon in about four minutes in a form with a day on it, and nobody was asked to do that either.
 
-The bar at the head of the sluice is four feet long and takes two people and about an hour. It was not turned at the sixth hour on the Thursday morning, or at the twelfth hour on the Thursday, or at either hour on the Friday. The wheel at the mill had been slow for three days, and the man who has had the mill four years has a note in his own book against the name of the mill, and the note says one word.
+The bar at the head of the sluice is four feet long and takes two people and about an hour. It was not turned at the sixth hour on the Thursday morning, or at the twelfth hour on the Thursday, or at either hour on the Friday, or at either hour on the Saturday. The wheel at the mill had been slow for three days, and the man who has had the mill four years has a note in his own book against the name of the mill, and the note says one word.
 
 The north heel of that frame is three-eighths of an inch down in nine years, and a season instead of two years. The fact is on the wrong side of a leaf in a press any person of this town may read, and it is also in a book twenty-two miles off at Kerby.
 
@@ -112,18 +112,18 @@ Nobody in this town has opened it and nobody in this town is going to. It is fou
 
 And nobody in that square asked whether anybody can be sent for.
 
-That is the next question, and it was already open on the morning of the twenty-eighth day after the division, when a man of forty-four of the county put his thumb on the frame of a door on his way out of a room over a saddler’s shop and said that the page was twenty-two miles off and that any person in this county might walk and ask for it.
+That is the next question, and it was already open on the morning of the twenty-fourth day after the division, when a man of forty-four of the county put his thumb on the frame of a door on his way out of a room over a saddler’s shop and said that the page was twenty-two miles off and that any person in this county might walk and ask for it.
 
 He said that he had not got it and neither had the board and neither had that man.
 
 There is no board in the county of Ostrey with anything to say about it. The only office that has ever heard of it is twenty-two miles off, on a road, and it can make a return and put it in a book, and it cannot order a board to do a thing, and it cannot make anybody answer, and it cannot rate anybody, and it cannot put a name in a book of this town.
 
-The nine men who voted nine to nothing against nineteen houses on a Saturday were right. The thirty-one ratepayers who put a cause in writing on a table on a Wednesday were right, and the cause was a flood nine years ago, and a man of sixty-one had been in it. The man of thirty-four who paid two pounds for lot nine was owed a hearing and there was no form in this county that could give him one.
+The nine men who voted nine to nothing against nineteen houses on a Saturday were right. The cause that was set out in writing on a table on a Wednesday was right, and the cause was a flood in the ninth year before the division, and a man of sixty-one had been in it. The man of thirty-four who paid two pounds for lot nine was owed a hearing and there was no form in this county that could give him one.
 
 The steward of forty years corrected a roll three times in a form out of his own drawer, slept on none of it, and asked nobody for anything. The miller of thirty-nine kept a book of nine hundred people for four years for his own reasons and gave a better reason the second time. The copyist of thirty-four was paid two pounds a year and put a list in a press a day early and said so out loud in a market square, and read a man out of a room in which he was not standing.
 
 Nobody thanked any of them, including the man in the doorway.
 
-A bar four feet long was not turned for the third day in a town of four thousand people. About two hundred of them stood in a square on a Saturday and worked out what a book done in a morning is, and the only sentence anybody carried out of that square was in a piece of tin on a nail in a shed at the bottom of it, driven in by somebody who is not alive.
+A bar four feet long was not turned for the fourth day in a town of four thousand people. About two hundred of them stood in a square on a Saturday and worked out what a book done in a morning is, and the only sentence anybody carried out of that square was in a piece of tin on a nail in a shed at the bottom of it, driven in by somebody who is not alive.
 
 The fever was twenty-eight weeks and one day old. A man of thirty-one was standing in the doorway of a stone room in a town of four thousand people on the Sunday morning of the thirty-fourth day after the division, and about nine people were inside the room and he was outside it, and his name was in a book in the room and his name was on nothing, and the door of that building is open.
