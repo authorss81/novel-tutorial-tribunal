@@ -90,7 +90,7 @@ Ilyan had it written before Sallow was at the bottom of the stairs.
 
 It was a good piece of work. It was a form of request, with a head, and a first line that said the persons concerned asked, and a second that said at what, and a third that said on what day, and it was four hundred and thirty words and he had been building it in his head since the Sunday in the square and he had it ready in about ninety seconds on the back of a bill.
 
-“*Take it,*” he said, “*and do not take my name on it. Take the words. I wrote the fourth paragraph of a different paper nine days ago in that taproom and a woman of thirty-eight struck it out and signed across the strike, and I would like the whole of this week to be better than that.*”
+“*Take it,*” he said, “*and do not take my name on it. Take the words. I wrote the fourth paragraph of a different paper ten days ago in that taproom and a woman of thirty-eight struck it out and signed across the strike, and I would like the whole of this week to be better than that.*”
 
 Perdy Sallow read it standing on the bottom stair with about forty people in the square in front of him.
 
@@ -108,21 +108,23 @@ He folded it in four and gave it back.
 
 The row said no for about an hour.
 
-Sefa Lund said it in four sentences and it was the same four sentences she had said in a lane on the Friday of the week before last and she said them standing, and about eleven people heard them, and the door was shut.
+Before anybody said anything else the woman who keeps the sluice said how many of them there were, which is the first thing a row says when it is about to agree to something, and she said it standing, and there were nineteen of them and she had said so twice that week to a man in a lane and she said it a third time, and about eleven people heard it, and the door was shut.
+
+Sefa Lund said it in four sentences and it was the same four sentences she had said in a lane on the Friday of last week and she said them standing, and about eleven people heard them, and the door was shut.
 
 Cullen Skay said no in eleven words.
 
-Mab Harrow said no and said why, and the why was that she was not a household and had never been one and had been refused credit at a counter a fortnight ago by a man who was right.
+Mab Harrow said no and said why, and the why was that she was not a household and had never been one and had been refused credit at a counter a week ago by a man who was right.
 
 And then Ordwin Cape, who was sixty-one, and who had kept the sluice for twenty-two years before the woman who keeps it now, and who had cut reed for thirty years before that, and who had eleven shillings a year, said yes, and he said it standing up, and it took him nine sentences and about four of them were a sum he had done twice already in a lane.
 
 “*Say the rest of it and do not stop in the middle of it,*” said Sefa Lund, to him, and not to the chair.
 
-“*The rest of it is that I have eleven shillings a year and I have had it nine years and I have never once been asked to hand any of it to nineteen houses, and I said so in a lane a fortnight ago and I meant it and I still mean it. And I cannot do it. There is no form in this county that lets me hand eleven shillings to nineteen houses, and there is no form in this county that lets anybody in that row do anything at all with anything.*”
+“*The rest of it is that I have eleven shillings a year and I have had it nine years and I have never once been asked to hand any of it to nineteen houses, and I said so in a lane a week ago and I meant it and I still mean it. And I cannot do it. There is no form in this county that lets me hand eleven shillings to nineteen houses, and there is no form in this county that lets anybody in that row do anything at all with anything.*”
 
 “*Go on and finish it.*”
 
-“*And a household on the roll can be charged. I have known that since the eighth day of this month and I worked it out in the lane with a stranger in it. So I am not on the roll I am not a household and I cannot pay, and I cannot be charged, and I cannot be in the House, and I cannot be in the room where the minute is written, and I cannot be asked about any of it, ever, by anybody, and that is not a wrong. That is a word.*”
+“*And a household on the roll can be charged. I have known that since the fifth day of last week and I worked it out in the lane with a stranger in it. So I am not on the roll I am not a household and I cannot pay, and I cannot be charged, and I cannot be in the House, and I cannot be in the room where the minute is written, and I cannot be asked about any of it, ever, by anybody, and that is not a wrong. That is a word.*”
 
 He put his hand on the table of a room over a taproom.
 

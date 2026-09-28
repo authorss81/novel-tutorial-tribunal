@@ -2,7 +2,7 @@
 
 Fourth day of the eighty-eighth week. His two hundred and fourteenth morning. Sixty-four days after the settlement. The fever twenty-five weeks and six days. Eighteen days since the division. Twelve days in this town.
 
-The market in Halloway is on a Tuesday and it has been on a Tuesday for longer than anybody in that square can remember, and on the Tuesday of this week it rained so hard that about a third of it stood, and the carts that could not get into the square came on the Friday instead.
+The market in Halloway is on a Tuesday and it has been on a Tuesday for longer than anybody in that square can remember, and on the Tuesday of this week it rained so hard that about a fifth of it stood, and the carts that could not get into the square came on the Friday instead.
 
 So there was a market in Halloway on a Friday for the fourth time in nine years, and about four hundred people were in it, and about nine of them had been in it on the Tuesday and had come back to tell somebody what it was like.
 
@@ -112,7 +112,7 @@ And then, at about the fifth hour, on the wet edge of the square, a woman of thi
 
 “*Say the whole of that and say the rest of it.*”
 
-“*The rest of it is that the Book comes down twice a year, and the last time it was down was nine days ago, and it is nine feet up over that fire, and there are two people in this town who can read the face of it, and one of them is in this square and one of them is in Ostrey or she is dead.*”
+“*The rest of it is that the Book comes down twice a year, and the last time it was down was eight days ago, and it is nine feet up over that fire, and there are two people in this town who can read the face of it, and one of them is in this square and one of them is in Ostrey or she is dead.*”
 
 “*Say the reason I am saying no and do not stop in the middle of it,*” said Ilyan.
 

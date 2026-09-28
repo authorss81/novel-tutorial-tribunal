@@ -36,11 +36,11 @@ He put the straight edge across the top of the beam and ran his thumb down it. T
 
 “*The north side of that frame has dropped three-eighths of an inch since I was here nine years ago and the south side has not moved at all, because the south side is bedded on stone and the north side is bedded on wood, and the wood is in the ground and the ground is the Fen.*”
 
-The bar stopped for about four seconds and then went on.
+The bar stopped and then went on.
 
 “*Say how long,*” said Ordwin Cape, from the rail.
 
-“*On the Friday before last I told you it was two years. I am not standing in that lane to un-say a number in front of twenty people. I am telling you that I have measured it and the number was two years and it is a season, and the reason I am able to say that out loud tonight is a nail and a straight edge and no arguing at all.*”
+“*On the Friday I told you it was two years. I am not standing in that lane to un-say a number in front of twenty people. I am telling you that I have measured it and the number was two years and it is a season, and the reason I am able to say that out loud tonight is a nail and a straight edge and no arguing at all.*”
 
 ---
 
@@ -52,11 +52,11 @@ Then Ilyan did the thing he does, and about twenty people in that lane heard him
 
 “*Say the other half of that and say it now, because I have been turning the bar for fifty minutes.*”
 
-“*The other half is that you have been turning a bar for fifty minutes in the rain on a frame that has dropped three-eighths of an inch in nine years, and there is no minute in this county that can make anybody mend it, and I have known that since a lane nine days ago and I have said it once in a lane and not twice.*”
+“*The other half is that you have been turning a bar for fifty minutes in the rain on a frame that has dropped three-eighths of an inch in nine years, and there is no minute in this county that can make anybody mend it, and I have known that since a lane six days ago and I have said it once in a lane and not twice.*”
 
 Ordwin Cape said the rest of it, and he said it without stopping, and it was the sentence the man from the county had said in that same lane nine days before.
 
-“*The board does not take paper from the county. And the only person who can get a thing into a minute is a clerk, and she is paid two pounds a year, and she does not want it. He said that in this lane on the Friday before last and he has not said it since and that is the one thing in this row he has done right.*”
+“*And the reason I cannot get it into a book is the reason I have not got it into a book, and you know the reason and you have known it since the Friday, and I am not going to say it out loud in a lane at midnight because a man of the county saying it out loud in a lane at midnight is a man of the county asking a woman of thirty-eight to do something with it.*”
 
 ---
 
@@ -72,7 +72,7 @@ She put her wet hat on her head and took it off again.
 
 “*Say the reason and say it in your own mouth and not in mine.*”
 
-“*Because a thing said in a square belongs to whoever is standing in the square, and I have watched three of them go out of that square with my sentence in it and not my mouth on it, and I have had enough of that this month to last me a year.*”
+“*Because a thing said in a square belongs to whoever is standing in the square, and I have watched three of them go out of that square with my sentence in it and not my mouth on it, and I have had enough of that in one week to last me a year.*”
 
 She was about four feet from him and she was not loud, and about twenty people in that lane could hear both of them.
 

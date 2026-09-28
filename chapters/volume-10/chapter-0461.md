@@ -1,4 +1,4 @@
-# Chapter 461: The Roll Of This Town Is Made In The Autumn, And A Man Of Thirty-Nine At The Mill Has Been Keeping A Second Book Since The Saturday Before Last, And In It There Are Eighteen Dashes And One Blank, And He Will Not Let Either Of Them Out Of His Shop
+# Chapter 461: The Roll Of This Town Is Made In The Autumn, And A Man Of Thirty-Nine At The Mill Has Been Keeping A Second Book For Four Years And Wrote Nineteen Lines Into It On The Saturday After Last, And In Those Lines There Are Eighteen Dashes And One Blank, And He Will Not Let Any Of It Out Of His Shop
 
 First day of the eighty-eighth week. His two hundred and eleventh morning. Sixty-one days after the settlement. The fever twenty-five weeks and three days. Fifteen days since the division. Nine days in this town.
 
@@ -6,7 +6,7 @@ The rain came in on the Tuesday about the fourth hour and it was still going at 
 
 The mill is at the bottom of that square. It sells meal and oil and nails and a great deal of credit, and the credit is against a name and a house and a rent, and the man who sells it is thirty-nine and has had the mill four years.
 
-He had refused credit to a woman on the Saturday before last in a shop with nine people in it, and had said why out loud, and the reason had gone round this town faster than the rain.
+He had refused credit to a woman on the Saturday after last in a shop with nine people in it, and had said why out loud, and the reason had gone round this town faster than the rain.
 
 “*Say the rest of it,*” said Ilyan, at the ninth hour, on the wrong side of that counter, with the water coming under the door. “*You stopped her because she is not on the roll. Say what you did about the other eighteen.*”
 
@@ -76,7 +76,7 @@ He shut it to a hand’s width and kept his hand on it.
 
 ---
 
-And here is the panel, and it is the only one in this stretch of the year, and it stood about a foot above a book on a mill counter in the rain.
+And it stood about a foot above a book on a mill counter in the rain.
 
 **CLAIM: A household that is not on the roll is not a household that has gone away. It is a household that was never counted, and the counting is done once a year by a man who counts houses, and a house is not a person and a person is not a rate.**
 
@@ -88,7 +88,7 @@ And here is the panel, and it is the only one in this stretch of the year, and i
 
 It did not say what a book in a shop is worth. It did not say whose it would be, and it did not say that a person can be found by it in any other way than by asking a man who has said no.
 
-He did not choose anything out of it that day, and he has not told anybody that it stood there.
+He stood in a shop with the rain under the door and did not choose anything out of it, and he has not told anybody since that it stood there, and there is no minute in this town in which it appears.
 
 ---
 
@@ -124,7 +124,7 @@ He put two hands flat on the counter, which is the thing a miller does.
 
 “*Say the other half of that and say it to yourself, not to me.*”
 
-“*The other half is that you have been in this town nine days and you have already asked me for mine. In about four months there will be a clerk with your number in it and a board behind her, and then she will ask me for it, and I will not be able to say no to her the way I can say no to you, because you are nobody and she is the office.*”
+“*The other half is that you have been in this town nine days and you have already asked me for mine. In about a year there will be a clerk with your number in it and a board behind her, and then she will ask me for it, and I will not be able to say no to her the way I can say no to you, because you are nobody and she is the office.*”
 
 Two men at the counter had stopped choosing nails.
 
@@ -142,10 +142,16 @@ What he wanted was a paper in this town that said something about the Fen that t
 
 He had been in the shop for forty minutes. He asked for the one thing that would have made the hand lift, and he asked for it in nine seconds, and he asked for it into a book he had been in nine days.
 
-The word *blank* stayed in his mouth all the way up the square and it was not the fact of the blank that stayed there. It was that a man of thirty-nine had said *I have seen the hand of one man only on it* about a piece of paper ninety years ago, in a margin, in a hand, and a man of thirty-nine had said it again this morning about a book four years old, standing up, to a woman he was stopping paying credit to, in a shop with nine people in it.
+The word *blank* stayed in his mouth all the way up the square and it was not the fact of the blank that stayed there.
+
+It was that ninety years ago a woman of twenty-four was handed a paper that was not of her town, and copied it because she was a copyist, and wrote on the back of the fourth leaf that the paper was not of this town and that she had seen the hand of one man only on it.
+
+And then wrote underneath it that she had not been able to learn whether the striking was of that clause alone.
+
+And this morning a man of thirty-nine stood up in a shop with nine people in it and told a woman of thirty-four to his face that he could not find her, and said why, and had carried her for seven years without knowing it.
 
 He did not write it down. There was nowhere in Halloway to write it down that would not have made it a thing a person could be asked about, and he had learned that in nine days from a woman with a press.
 
 The fever was twenty-five weeks and three days old, and the rain was coming under the door of a shop at the bottom of a market square, and a second book with nine hundred names in it was shut to a hand’s width and belonged to a man with a counter.
 
-In four hundred yards of churned lane above the sluice there were two tin pails standing in a doorway that nobody had come back for, because the water had come back on the Monday and the race was full, and nobody in that row had thought to say that the pails were theirs again.
+The count of the row, and the reason it was being made, and the name of the man who could have said either, were in a shop that shut at the seventh hour, and there was no place in the county of Ostrey that a person could carry any of the three of them.

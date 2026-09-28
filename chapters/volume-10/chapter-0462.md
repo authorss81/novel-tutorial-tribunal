@@ -12,11 +12,11 @@ The chair of the board was forty-seven and was called Perdy Sallow, and he had m
 
 “*I have brought nine men of a water board into a room over a taproom to be asked a question I could answer in nine seconds at a table in my own kitchen,*” said Sallow. “*And I would like it written down that I said that sentence first, before I said anything else, because in about four years the only thing anybody in this room will remember is that the water board went down to the Fenrow on a Wednesday and asked to be let in.*”
 
-Nobody wrote it down, because there is no minute in that room, and he had said the reason for that in the same breath without noticing he had.
+Nobody wrote it down, because there is no minute in that room yet, and he had said the reason for that in the same breath without noticing he had.
 
 ---
 
-The asking was done by a man of sixty-one who had kept the sluice for twenty-two years before the woman who keeps it now and who had a county pension of eleven shillings a year and who had done a sum out loud in a lane a week ago and been thirty-nine pence short.
+The asking was done by a man of sixty-one who had kept the sluice for twenty-two years before the woman who keeps it now and who had a county pension of eleven shillings a year and who had done a sum out loud in a lane four days ago and been thirty-nine pence short.
 
 “*Chair,*” said Ordwin Cape. “*I have got no speech and I have not written one. I have one question and it is the question of the man at Ostrey and it is the question of a tap four hundred yards above my head. The roll is made in the autumn. Anything not on it in the autumn and not in your book is not a household of this town in the year after. You said that in a lane and you would not put it in a minute. I am asking you to put the other half in.*”
 
@@ -56,7 +56,7 @@ He said it in about four words and he said it before anybody had finished, and t
 
 Sefa Lund turned the hat over in her hands, which is what she does.
 
-“*Chair. I refused your book in a lane on the Friday before last in front of about nine people and I said that I did not want to be a person with a claim. Have you come down this lane to argue me out of it.*”
+“*Chair. I refused your book in a lane on the Friday in front of about nine people and I said that I did not want to be a person with a claim. Have you come down this lane to argue me out of it.*”
 
 “*No,*” said Sallow. “*I have come down it because a man of sixty-one asked me a question in the plainest words anybody has used on me in nine years and because I said yes in four words and I have not been able to un-say it since I got to the top of the lane.*”
 
@@ -90,7 +90,7 @@ Nine of the room looked at a man of thirty-one against the wall.
 
 ---
 
-So Ilyan did the thing he does, and he did it in a room of about thirty people, and he did it because a woman of thirty-four had struck his fourth paragraph out nine days earlier and he had never found a better shape.
+So Ilyan did the thing he does, and he did it in a room of about thirty people, and he did it because a woman of thirty-four had struck his fourth paragraph out seven days earlier and he had never found a better shape.
 
 “*Chair. Write the line. Do not make it a request and do not make it a favour. Write it as the board doing a thing it may do at any time, at its own sitting, in its own minute, and let the roll catch up in the autumn and not before.*”
 
@@ -114,9 +114,9 @@ And then one more line, which is the line that has been argued about since.
 
 “*The twenty-fifth day after the division.*”
 
-“*Chair. That is six days off and not nine.*”
+“*Chair. Say the whole of that again and tell me what you have done to it since you wrote it.*”
 
-“*It is six days off. I wrote nine into a copy of it on the Friday in my own kitchen, before anybody had asked me for anything, and I have taken three off it since this morning and I have not told anybody that I have taken three off it until this second.*”
+“*I have not done anything to it. I wrote nine days into a copy of it on the Friday in my own kitchen, before anybody had asked me for anything, and I have left the nine on it, and I have not told anybody that the nine is a number I chose myself until this second.*”
 
 “*Then say why,*” said Ilyan, “*because a day is either a courtesy or a wall and I have been in this town ten days and I cannot tell which one I am looking at.*”
 
@@ -124,8 +124,8 @@ Perdy Sallow did not answer that, and the room did not make him, and about twent
 
 He said, at the end, standing up, with the rain going on the roof:
 
-“*It is a courtesy. I wrote it to be a courtesy. And I would like it entered that a man of forty-seven who has sat in this chair nine years said out loud in a room over a taproom that he wrote a day down to be a courtesy, and that nine days is long enough for a man to think of everything he wants to say and not say it, and that on the sixth day somebody is going to come and use me.*”
+“*It is a courtesy. I wrote it to be a courtesy. And I would like it entered that a man of forty-seven who has sat in this chair nine years said out loud in a room over a taproom that he wrote a day down to be a courtesy, and that nine days is long enough for a man to think of everything he wants to say and not say it, and that on the ninth day somebody is going to come and use me.*”
 
-The fever was twenty-five weeks and four days old, and there were about thirty people in a room and on a stair above a taproom, and a man of forty-seven had put a day on a piece of paper and had shortened it by three and had not known he was going to.
+The fever was twenty-five weeks and four days old, and there were about thirty people in a room and on a stair above a taproom, and a man of forty-seven had put a day on a piece of paper in his own kitchen on the Friday, and the day on the paper was nine, and the day on the paper was a thing he had chosen before anybody had asked him anything.
 
-The rain had been going two days. In the lane above, about four hundred yards from that taproom, there were two tin pails in a doorway that had been standing there since the Monday, and on the Wednesday morning one of them was gone.
+The rain had been going two days. In four hundred yards of lane above that taproom there were two tin pails in a doorway that had been standing there since the Monday, and on the Wednesday morning one of them was gone, and about nine people saw that and about nine people did not.

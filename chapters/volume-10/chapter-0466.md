@@ -2,13 +2,13 @@
 
 Sixth day of the eighty-eighth week. His two hundred and sixteenth morning. Sixty-six days after the settlement. The fever twenty-six weeks and one day. Twenty days since the division. Fourteen days in this town.
 
-The rate roll of Halloway is made once a year, in the autumn, and it is made out of a day, and the day is a day in the week the common was divided and sold in, and this year’s was made in that week and has not moved since and is two weeks old.
+The rate roll of Halloway is made once a year, in the autumn, and it is made out of a day, and the day is a day in the week the common was divided and sold in, and this year’s was made in that week and has not moved since and is twenty days old.
 
 On the Sunday morning the steward of Halloway took out a form.
 
 It is kept in an office over a shop at the south end of the square and it is a sheet of printed paper with a head on it, and the head says that a roll may be corrected in respect of a household entered as land, and that the correction is the steward’s and not the board’s, and that the reason and the day and the hand shall be entered.
 
-Amos Trill had had that form in a drawer for forty years and had told a stranger about it in a market square on the eighth day of this month and had not opened it.
+Amos Trill had had that form in a drawer for forty years and had told a stranger about it in a market square on the eighth day after the division and had not opened it.
 
 He opened it on the Sunday at about the seventh hour, and he wrote on it in about four minutes, and the whole of what he wrote is here.
 
@@ -26,7 +26,7 @@ The copy hangs in the Stone House against the west wall and any person of the to
 
 “*Say what that is in shillings.*”
 
-“*Twelve shillings and eightpence,*” said Ilyan, “*and the whole of it is nineteen houses, and four of them are the four that are not a rate on a water list because a house that is not a household could not be charged.*”
+“*Twelve shillings and eightpence,*” said Ilyan, “*and the whole of it is nineteen houses at eight pence each, and every one of the nineteen is a house with a roof on it, and a house is not a household and a household is not a house, and that is the whole of what the two words have done to each other in four hundred years.*”
 
 Nobody in that square asked him the next question, which was the one that mattered, and he did not have the next question, and the four lines in the form were already nine feet away from him being wrong about anything.
 
@@ -40,7 +40,7 @@ The next question was asked at about the eleventh hour in a room with a press in
 
 “*Say the rest of that and do not stop in the middle of it.*”
 
-“*Which is forty-three, and about two thirds of one more, and the fortieth and forty-first stools are the ninth ward’s second and third, so a fifth ward seat is about nine months off.*”
+“*Which is forty-three, and about two thirds of one more, and the ninth ward is the one the Fen is in, so a fifth ward seat is about nine weeks off at the rate this town does things.*”
 
 “*No,*” said Wenna Crale, and she said it the way she says a thing she has checked.
 
@@ -62,13 +62,13 @@ She took a sheet out of the press. It is a list of forty-one names in the order 
 
 ---
 
-And then she said the sentence, and it took her about four minutes to find and about nine seconds to say, and it is in the minute of nothing at all and it is the sentence the whole of the rest of this volume is standing on.
+And then she said the sentence, and it took her about four minutes to find and about nine seconds to say, and it is in the minute of nothing at all and it is the sentence that the rest of this year is standing on.
 
 “*A corrected roll is a corrected constituency. Not a corrected count. A constituency. And a constituency is the whole of who is in the room where the minute is written. And a body of forty-one men elected for a year by the households of nine wards is not a number, it is a set of doors, and somebody can go round and open a different one every autumn for about four hundred years and there is not one form in this county that would show anybody they had done it.*”
 
 “*Say the rest of that and say what should be done about it this morning.*”
 
-“*Nothing should be done about it this morning,*” said Wenna Crale, “*because this morning is the twenty-first day after a common was sold, and about nine people have read those four lines, and the fifth head of the ninth ward is not elected until the autumn, and there is nothing anybody can do in a morning, and I have never in eleven years seen a thing come out of a morning.*”
+“*Nothing should be done about it this morning,*” said Wenna Crale, “*because this morning is the twentieth day after a common was sold, and about nine people have read those four lines, and the fifth head of the ninth ward is not elected until the autumn, and there is nothing anybody can do in a morning, and I have never in eleven years seen a thing come out of a morning.*”
 
 ---
 
@@ -110,7 +110,7 @@ And Ilyan said the true sentence, out loud, on a Sunday, at the top of his voice
 
 “*Nobody in this square knows yet what they have done. The fourth head of the ninth ward is elected in the autumn, and the fifth, and they are elected by the households of that ward, and there are nineteen more of the households of that ward today than there were yesterday.*”
 
-He had it in a square at about a hundred people and he had said it in nine seconds and it was the right sentence and it was the worst thing he has done in this town, because in thirteen days he has learned that a sentence said in a square belongs to whoever is standing in the square, and there were about a hundred of them and he was the one standing in the rain.
+He had it in a square at about a hundred people and he had said it in nine seconds and it was the right sentence and it was the worst thing he has done in this town, because in fourteen days he has learned that a sentence said in a square belongs to whoever is standing in the square, and there were about a hundred of them and he was the one standing in the rain.
 
 Amos Trill answered it, and he was right, and it was not an answer to the thing that had been asked.
 
@@ -126,7 +126,7 @@ Amos Trill answered it, and he was right, and it was not an answer to the thing 
 
 “*Say the rest of that and say what it is not.*”
 
-“*It is not an answer to your question. It is not an answer to the question that will be asked in about four months by somebody who has just worked out that a book can be a door. I have four true things and none of them is that.*”
+“*It is not an answer to your question. It is not an answer to the question that will be asked in the autumn by somebody who has just worked out that a book can be a door. I have four true things and none of them is that.*”
 
 “*Say the rest of it and do not make it a speech.*”
 
