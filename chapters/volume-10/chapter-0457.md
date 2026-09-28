@@ -1,6 +1,6 @@
 # Chapter 457: The Gates Are Shut On A Friday Morning And There Is No Water Below The Sluice For Nine Days, And The Rot At The North Heel Of The Frame Is Put A Hand On And Called To By A Man From The County, And A Chair Of The Water Board Offers Nineteen Households A Line In A Book That Has Not Been Written In For Eleven Years, And The Woman It Is Offered To Says No In Front Of Everybody, And The Man Who Was Going To Carry It For Her Is Told By Her What A Witness Is
 
-Fifth day of the eighty-seventh week. His two hundred and seventh morning. Fifty-seven days after the settlement. The fever twenty-four weeks and six days. Eleven days since the division.
+Fourth day of the eighty-seventh week. His two hundred and seventh morning. Fifty-seven days after the settlement. The fever twenty-four weeks and six days. Eleven days since the division.
 
 The gates were shut at about the sixth hour on the Friday morning and it took nine people half an hour, and about two hundred of the town came up the lane to watch it, and the fenrow watched it from their own doors.
 
@@ -38,7 +38,7 @@ Perdy Sallow got her aside and said it in about four sentences, and he was not u
 
 “*Say it and say it to them and not to me.*”
 
-“*Because on Wednesday I said in a room over a taproom that I want to be a woman who keeps a sluice who is not a household. I said it in front of a man from the county, a woman in a doorway, and a stranger with a bill. I meant it. Two days have passed and I have not found out that I meant a different thing.*”
+“*Because on Wednesday I said in a room over a taproom that I want to be a woman who keeps a sluice who is not a household. I said it in front of a man from the county, a woman in a doorway, and a stranger with a bill. I meant it. Three days have passed and I have not found out that I meant a different thing.*”
 
 “*Go on.*”
 
@@ -62,7 +62,7 @@ Perdy Sallow did not answer that for about nine seconds.
 
 “*Say the half of that which is the other half.*”
 
-“*The other half is that a man who links people’s accounts does not speak for a witness. Not in a room, not in a county, not anywhere. He gets them to say it and he keeps them apart. You said that to me on a Friday in a city forty-one miles off, in a room of about thirty people, and you did not tell me, you said it. I have thought about it every day since, and I have broken it inside five days in a town where I have been five days.*”
+“*The other half is that a man who links people’s accounts does not speak for a witness. Not in a room, not in a county, not anywhere. He gets them to say it and he keeps them apart. You said that to me on a Friday in a city forty-one miles off, in a room of about thirty people, and you did not tell me, you said it. I have thought about it every day since, and I have broken it inside six days in a town where I have been six days.*”
 
 “*Say that in the lane and not to me,*” said Ilyan, “*and say it out loud, and do not be gentle about it, because I am about thirty feet away and about nine people can hear both of us and two of them can write.*”
 

@@ -1,12 +1,12 @@
 # Chapter 456: The Board Comes Down Off The Beam Onto A Table In Four Minutes With A Fire Lit And Nine Men In The Room And Four People From The Fenrow In The Doorway Because They Are Not Of The Town, And A Woman Of Thirty-Four Turns The Board Over Because Nobody Told Her Not To, And On The Back Of It In A Fifth Hand Is A Date A Hundred And Thirty-Eight Years Old
 
-Fourth day of the eighty-seventh week. His two hundred and sixth morning. Fifty-six days after the settlement. The fever twenty-four weeks and five days. Ten days since the division.
+Third day of the eighty-seventh week. His two hundred and sixth morning. Fifty-six days after the settlement. The fever twenty-four weeks and five days. Ten days since the division.
 
 The Book came down off the beam at about the first hour, and it took four minutes, and two people did it, and neither of them was asked whether they wanted to.
 
 The steward took the two top nails and the clerk took the two bottom ones because the bottom ones are older and the head of that board is four hundred years old and the feet of it are about ninety. The lead tag swung on the vellum the whole way down and it made a sound nobody in that room had heard before, because nobody in that room had ever heard it before.
 
-“*Say how long it was up,*” said Wenna Crale, to nobody, and then answered herself, which she has done twice in nine years. “*Since the last audit, and that is ten days.*”
+“*Say how long it was up,*” said Wenna Crale, to nobody, and then answered herself, which she has done twice in nine years. “*Since the audit of nine years back, which is the last time there was a common to audit. There was an audit ten days ago, on the Monday the common was signed away, and it was an audit of a common, and there was no common, and so it did not come down, and the whole of it took four lines and about two minutes.*”
 
 The board was on the long table and the fire was lit and the room had nine men of the water board in it, and the steward, and the clerk, and four people from the Fenrow in the doorway, and about four hundred people in the square outside who had come because it was a Thursday.
 
@@ -72,7 +72,7 @@ It was the seventh time, and the first time outside that city, and about a minut
 
 **CLAIM: A clause in a book that has never been read out in a room is not a rule. It is a piece of writing, and the difference between the two is not in the book. It is decided by whoever gets a table, and a fire, and nine men, and says it out loud.**
 
-**EVIDENCE: The face of the board is four hundred years old in four hands and the whole of the front is about a common. The back is in a fifth hand, in a different ink, and is dated a hundred and thirty-eight years ago. The Book is opened twice a year in a hurry by two people and has not been opened in ten days. Nobody in this town has read the back.**
+**EVIDENCE: The face of the board is four hundred years old in four hands and the whole of the front is about a common. The back is in a fifth hand, in a different ink, and is dated a hundred and thirty-eight years ago. The Book is opened twice a year in a hurry by two people, and the last time was at the audit of nine years back, and it has not been read out in a room in ninety years. Nobody in this town has read the back.**
 
 **BURDEN: One woman of thirty-four in this room is the only person who can read it, and she is the copyist, and she is paid two pounds a year, and the burden of the reading falls on her and on nobody else, and there is no line anywhere in four hundred years of this town that says the reading may be done by somebody else.**
 

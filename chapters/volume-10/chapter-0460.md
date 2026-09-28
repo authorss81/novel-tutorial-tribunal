@@ -14,7 +14,7 @@ There is no form in the county of Ostrey that says a person not of this town may
 
 The question had been on the table since the Sunday, and it had a head on it, and Wenna Crale had written the head herself because nobody else in that town would write a head on it.
 
-*Upon the minute of the water sitting of the fourth day of this week: whether the nineteen tenements at the Fen, being entered in the roll of this year as land of the common and not as households, shall be entered as households of this town upon the roll to be made in the autumn, or shall not.*
+*Upon the minute of the water sitting of the third day of this week: whether the nineteen tenements at the Fen, being entered in the roll of this year as land of the common and not as households, shall be entered as households of this town upon the roll to be made in the autumn, or shall not.*
 
 “*Say the rest of the head,*” said Ilyan, from the end of the fourth stool’s row. He had asked for it four times already. He asked a fifth time because he could not stop, and she looked at him and said it a fifth time anyway.
 
@@ -44,7 +44,7 @@ Amos Trill stood up off his stool, and he stood up slowly, and he was sixty-one 
 
 ---
 
-“*The House declines,*” said Amos Trill. “*The nineteen tenements at the Fen are not entered as households of this town upon the roll to be made in the autumn. The out-of-roll book is not written in. And this is at the request of the persons concerned, made to me on the fifth day of this week in the lane at the sluice.*”
+“*The House declines,*” said Amos Trill. “*The nineteen tenements at the Fen are not entered as households of this town upon the roll to be made in the autumn. The out-of-roll book is not written in. And this is at the request of the persons concerned, made to me on the fourth day of this week in the lane at the sluice.*”
 
 About two hundred people in a market square did not make a sound.
 
@@ -56,7 +56,7 @@ He turned round on the stool and looked at the front of the square.
 
 “*And I have taken a woman of thirty-eight at her word in a public square, in her own name, about her own standing, in a town where she has never once been asked for it, and I have done it in about nine seconds.*”
 
-Sefa Lund stood up at the front of the square. She was at the fifth house of nineteen and she had come up the lane that morning with four other people and she had not been asked to come and she had not been asked to sit.
+Sefa Lund stood up at the front of the square. She was at the fourth house of nineteen and she had come up the lane that morning with four other people and she had not been asked to come and she had not been asked to sit.
 
 “*Say the whole of that again and do not stop in the middle of it,*” she said, “*and then say the next four lines, because I know what the next four lines are and I have been waiting since Saturday to be able to say so in a square.*”
 
@@ -82,11 +82,11 @@ Nobody in that square thanked him and nobody in that square agreed with him.
 
 Wenna Crale read it out standing at the head of the table, and it is four lines, and three of them are the ordinary minute of forty-one men who have run a town for a long time.
 
-“*One. That the House has heard the question and has heard the margin at the back of the fourth leaf of the copy, entered by the steward on the seventh day of this week.*”
+“*One. That the House has heard the question, and has heard both of the margins at the back of the fourth leaf of the copy, which are a strike by order upon a paper not of this town and a woman of twenty-four writing that she could not learn whether the striking was of that clause alone, and both of them entered by the steward on the sixth day of this week.*”
 
 “*Two. That the House declines to enter the nineteen tenements at the Fen as households upon the roll to be made in the autumn, and that the out-of-roll book is not written in.*”
 
-“*Three. That the declining is at the request of the persons concerned, made on the fifth day of this week; and that the persons concerned are not households of this town, have no standing in this House, and are not before it; and that the House has proceeded on a request made to the steward and not to the House.*”
+“*Three. That the declining is at the request of the persons concerned, made on the fourth day of this week; and that the persons concerned are not households of this town, have no standing in this House, and are not before it; and that the House has proceeded on a request made to the steward and not to the House.*”
 
 She stopped there and looked at Sefa Lund, and about two hundred people in a market square looked at Sefa Lund.
 

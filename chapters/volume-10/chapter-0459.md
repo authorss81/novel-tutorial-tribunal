@@ -1,6 +1,6 @@
 # Chapter 459: The Copy Of The Book Is Four Leaves In A Press In The Stone House And Was Made Ninety Years Ago By A Woman Of Twenty-Four, And On The Back Of The Fourth Leaf There Is A Strike Through The Ninth Clause And Two Margins In The Same Hand, And The Second Margin Says She Was Not Able To Learn Whether The Striking Was Of That Clause Alone, And A Man Reads Out The Best News Of His Week And Is Correct And It Does Not Help
 
-Seventh day of the eighty-seventh week. His two hundred and ninth morning. Fifty-nine days after the settlement. The fever twenty-five weeks and one day. Thirteen days since the division.
+Sixth day of the eighty-seventh week. His two hundred and ninth morning. Fifty-nine days after the settlement. The fever twenty-five weeks and one day. Thirteen days since the division.
 
 She had found it on the Friday and she had not said anything about it for two days, and on the Sunday morning she sent for him before the sixth hour, and she sent for him with a boy and a shilling, which is the way she sends for anybody.
 
@@ -64,7 +64,7 @@ Nobody answered her for about five seconds.
 
 The water of the Hallow from the sluice downward is common to all households of this town.
 
-“*The rest of that and do not stop in the middle of it,*” said Mab Harrow. “*I have washed at that sluice for eleven years. I am thirty-four. I rent the second room of the fourth house. I am not a household. I am not on the roll, I am not in the House, and I was not in the House this morning. Somebody in this room should read me the word in that clause again and tell me which half of it I am.*”
+“*The rest of that and do not stop in the middle of it,*” said Mab Harrow. “*I have washed at that sluice for eleven years. I am thirty-four. I rent the second room of the fourth house. I am not a household. I am not on the roll, I am not in the House, and I have never been in it. Somebody in this room should read me the word in that clause again and tell me which half of it I am.*”
 
 “*Say the half of that which is the other half,*” said Wenna Crale.
 
@@ -76,11 +76,11 @@ And Ilyan sat down on the stool in front of the press, with a bad leg, in a ston
 
 “*Say the whole of that and do not stop in the middle of a sentence,*” said Wenna Crale.
 
-“*On Sunday I made myself the man who reads. On Tuesday I put a figure in a market. On Wednesday I wrote a sentence for nineteen houses that they had not asked for. On Thursday I put a date in this room that nobody here can check. And on Friday I said out loud, twice, in front of about thirty people in a lane, that the objection is good and a hundred years old. It is not good. It is not a hundred years old. What is a hundred and thirty-eight years old is a clause that says the same thing in a word that shuts the door on us.*”
+“*On Sunday I made myself the man who reads. On Tuesday I put a figure in a market. On Wednesday I wrote a sentence for nineteen houses that they had not asked for. On Thursday I put a date in this room that nobody here can check. And on Friday I told a woman in a lane that I would carry her objection to the county and to Ostrey as one document, so that she need never stand in a room with it. It is not carried, and the reason is standing in this room. What is a hundred and thirty-eight years old is a clause that says the same thing in a word that shuts the door on us.*”
 
 “*Say what the right ones were,*” said Mab Harrow.
 
-“*The right one was the ninth clause on the back of the board and the date on it and the witness line with two names in it, and one of the two is not of this town and I cannot read it. And the wrong one was a clause four and a word in it, and I said that one out loud in a lane on Friday, and I was pleased with it for three days, and I have been wrong for three days, and I would like it in the book in that order.*”
+“*The right one was the ninth clause on the back of the board and the date on it and the witness line with two names in it, and one of the two is not of this town and I cannot read it. And the wrong one was the sentence I said in that lane on the Friday, and it was a sentence about carrying something for somebody else, and I said it before I had thought about it, and I have not carried it, and I would like both of those in the book in that order.*”
 
 ---
 

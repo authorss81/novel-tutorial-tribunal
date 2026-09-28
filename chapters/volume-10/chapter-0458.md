@@ -1,6 +1,6 @@
 # Chapter 458: The Water Came Up In Buckets From A Tap Four Hundred Yards Above The Sluice For Nine Days And Four Hundred People Carried It Twice A Day, And A Miller Stopped Giving Credit To A Woman Who Has Bought On Credit For Eleven Years Because He Looked Her Up In A Roll And She Was Not In It, And A Man With A Figure In His Coat Asks A Woman With A Press To Copy It And Is Refused
 
-Sixth day of the eighty-seventh week. His two hundred and eighth morning. Fifty-eight days after the settlement. The fever twenty-five weeks and no days. Twelve days since the division.
+Fifth day of the eighty-seventh week. His two hundred and eighth morning. Fifty-eight days after the settlement. The fever twenty-five weeks and no days. Twelve days since the division.
 
 The tap at the top of the lane is four hundred yards above the sluice and it is a standpipe, and it has been in that lane longer than anybody in that row can remember, and nobody in the row had used it twice in nine years.
 

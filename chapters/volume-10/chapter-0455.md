@@ -1,6 +1,6 @@
 # Chapter 455: She Asks For A Room And A Witness And Somebody To Write It Down And He Offers To Be The Somebody, And A Woman Of Thirty-Eight Reads His Own Words Back To Him And Strikes One Line Out Of Them In Her Own Hand, And Nobody In That Room Can Say Whether The Nineteen Houses Own The Water Or Are Only Keeping It
 
-Third day of the eighty-seventh week. His two hundred and fifth morning. Fifty-five days after the settlement. The fever twenty-four weeks and four days. Nine days since the division.
+Second day of the eighty-seventh week. His two hundred and fifth morning. Fifty-five days after the settlement. The fever twenty-four weeks and four days. Nine days since the division.
 
 He said on Monday morning that he was not the sort of man who comes, and he came at about the ninth hour on the Wednesday and stood at the back of a room over a taproom in a house in the Fenrow and did not say one word for fifty-one minutes.
 

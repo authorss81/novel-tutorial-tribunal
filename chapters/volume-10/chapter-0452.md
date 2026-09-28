@@ -58,7 +58,7 @@ The notice was nailed inside the door of the Stone House and had been there sinc
 
 Forty-one people were standing outside a shut door who could not read what was on it, because there was nobody there to read it. The man of sixty explained that much in about four sentences without being asked to.
 
-“*We are not stood out here because we cannot read it. Most of us can read. We are stood out here because the notice went up on the Wednesday. It says the water below the sluice is to be scoured on a Thursday nine days off. The water below the sluice is ours. And it is the first notice anybody has nailed to that door in about forty years, and the steward put it up himself.*”
+“*We are not stood out here because we cannot read it. Most of us can read. We are stood out here because the notice went up on the Wednesday. It says the water below the sluice is to be scoured on a Thursday four days off. The water below the sluice is ours. And it is the first notice anybody has nailed to that door in about forty years, and the steward put it up himself.*”
 
 “*And your objection is on a paper.*”
 

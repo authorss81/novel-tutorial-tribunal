@@ -154,7 +154,7 @@ On the Sunday morning he was on a cart going the other way, and it was not her r
 
 “*Then get on the cart,*” she said, “*and I am going to say the other half, because you will not. You will find something that is not on any paper, and you will be the only person in that town who has ever been on any paper, and you will be asked about it in nine days, and you will have brought it with you.*”
 
-The fever was twenty-four weeks and one day old. The office of Regent of the Shelf was not held and the second seat at the council of the Shelf was vacant.
+The fever was twenty-four weeks old. The office of Regent of the Shelf was not held and the second seat at the council of the Shelf was vacant.
 
 The four hurdles and the nine links of chain and the plate with nothing cut in the corner of it were still up on the north side of the ninth marker. About two hundred crossings a day went up four yards of mud on a side that had no name in any office document in the world.
 

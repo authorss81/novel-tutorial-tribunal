@@ -1,4 +1,4 @@
-# Chapter 453: The Board Is Four Feet By Two And A Half And It Hangs Over A Fire That Has Been Lit Every Winter For Four Hundred Years, And It Comes Down Twice A Year Onto A Table In A Hurry, And The Last Time It Was Due It Was Ten Days Ago And Nobody Touched It
+# Chapter 453: The Board Is Four Feet By Two And A Half And It Hangs Over A Fire That Has Been Lit Every Winter For Four Hundred Years, And It Comes Down Twice A Year Onto A Table In A Hurry, And The Last Time It Was Due It Was A Week Ago And Nobody Touched It
 
 Seventh day of the eighty-sixth week. His two hundred and third morning. Fifty-three days after the settlement. The fever twenty-four weeks and two days. Seven days since the division.
 
@@ -108,15 +108,15 @@ Then she said the other half of it, and she said it to the board and not to him,
 
 ---
 
-The audit day was in the week of the division and it had come and gone, and the Book had not come down, and there was a reason and the reason was in a book in the room and took four lines to say.
+The audit day was the Monday of last week, the same Monday the common was signed away, and it had come and gone, and the Book had not come down, and there was a reason and the reason was in a book in the room and took four lines to say.
 
 “*The audit is an audit of the common. That is what the word means. There was no common on the audit day because it had been divided and sold in the same week, and so there was nothing to audit, and so the Board was not taken down, and so the whole of the thing took four lines and about two minutes.*”
 
 “*And the next time it comes down.*”
 
-“*The water sitting. The Thursday of this week, which is the third day of the third week after the division, which is in three days.*”
+“*The water sitting. The Thursday of this week, which is the tenth day after the division, and the third day of the first week after it, which is in three days.*”
 
-“*Say what happens when it comes down in four days.*”
+“*Say what happens when it comes down on that Thursday.*”
 
 “*Two people take it off the beam and put it on that table, and the fire is lit, and there is not room in here for a fire and nine men and a board. The whole thing is done in about a quarter of an hour because it has to be done in a hurry, and then it goes back up.*”
 

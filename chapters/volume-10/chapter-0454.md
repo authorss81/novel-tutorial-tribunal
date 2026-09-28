@@ -1,6 +1,6 @@
 # Chapter 454: The Roll Of This Town Is Made Once A Year And Was Made In The Week The Common Was Sold, And The Nineteen Houses At The Fen Are On It As Land And Not As Households, And He Does A Division Out Loud In A Market Because He Cannot Leave A Figure Alone, And Then Has To Come Back And Take It Apart
 
-Second day of the eighty-seventh week. His two hundred and fourth morning. Fifty-four days after the settlement. The fever twenty-four weeks and three days. Eight days since the division.
+First day of the eighty-seventh week. His two hundred and fourth morning. Fifty-four days after the settlement. The fever twenty-four weeks and three days. Eight days since the division.
 
 The market was on a Tuesday and there were about two thousand people in a cobbled square the size of a good field, and the fenrow had come up off the low ground with reed and with baskets, which is what they have always done, and which nobody had connected to anything.
 
@@ -66,7 +66,7 @@ Somebody at the back said *go on*.
 
 He put his hand flat on the step, which is what he does.
 
-“*And here it does not work, and the reason it does not work is that the number is the protection. A household on the roll can be charged. A house that is not a household cannot be charged, and cannot be given anything, and cannot be in the House, and cannot be in this House, because a head of household is a person the roll knows about. And I have just gone round this market adding up the only number there is, and it is wrong, and the wrongness is the whole of the difficulty and not a mistake in my sum.*”
+“*And here is the other half of it. A household on the roll can be charged. A house that is not a household cannot be charged, and cannot be given anything, and cannot be in the House, and cannot be in this House, because a head of household is a person the roll knows about. And I have just gone round this market adding up the only number there is, and it is wrong, and the wrongness is the whole of the difficulty and not a mistake in my sum.*”
 
 Nobody in that square said anything at all for a while.
 
