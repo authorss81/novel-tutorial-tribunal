@@ -1,6 +1,6 @@
-# Chapter 496: The First Day Of The Ninety-Third Week, And A Tuesday On Which A Request For A Charter Is Drawn Up With A Head And Two Lines At A Copyist’s Own Table With No Body Behind It, And The Sixth Heading Is Objected To And The Objection Is Entered, And A Man Of Thirty-One Tries To Make The Seventh A Clause And Is Refused
+# Chapter 496: The First Day Of The Ninety-Third Week, And A Tuesday On Which A Request For A Charter Is Drawn Up With A Head And Two Lines At A Copyist’s Own Table With No Body Behind It, And The Fourth Heading Is Objected To And The Objection Is Entered, And A Man Of Thirty-One Tries To Make The Seventh A Clause And Is Refused
 
-First day of the ninety-third week. His two hundred and forty-sixth morning. Ninety-six days after the settlement. The fever thirty weeks and three days. Fifty days since the division. Forty-four days in this town.
+First day of the ninety-third week, and the day before was the last of the ninety-second. His two hundred and forty-sixth morning. Ninety-six days after the settlement. The fever thirty weeks and three days. Fifty days since the division. Forty-four days in this town.
 
 The room over the taproom held about nine people round a table scarred with the rings of about a hundred years of cups. The door stood open to the stair and the stair stood open to the square.
 
@@ -66,7 +66,7 @@ Mab Harrow turned round and looked at him for a moment before she answered.
 
 Nobody at that table picked up anything. A man who had been writing put his pen across the sheet to keep it from curling, a woman put both hands flat on the oak, and a man by the door stayed where he was with his hand on the frame of it, and that is what a room looks like when a sentence it had agreed with for six weeks is being argued with.
 
-“*It has been read out in a room twice in ninety years and given to nobody twice,*” she said. “*It is used once, on the forty-first day, and every person it protected was on the side of the nine, and the one it stopped was the man who would have done the compelling. It binds households. The row are not households. About nine people in this room would use it again this afternoon if it were offered, and it would be the same day and the same nine, and the row would be exactly where they are.*”
+“*It has been read out in a room twice in ninety years and given to nobody twice,*” she said. “*It is used once, on the forty-first day, when it stopped nine men of a majority and shielded the man who would have done the compelling, and not the person who would have been compelled. It binds households. The row are not households. About nine people in this room would use it again this afternoon if it were offered, and it would be the same day and the same nine, and the row would be exactly where they are.*”
 
 She came away from the window.
 

@@ -6,7 +6,7 @@ The rain had stopped by the ninth hour and left the square shining. The room ove
 
 On the table lay the list of works of the water board. It is four lines long and it is in the steward’s hand and it is nine years old, and the hand has not changed much in nine years except that the fingers are worse.
 
-A bar four feet long at the head of the sluice had not been turned at the sixth hour or at the twelfth hour for sixteen days. The wheel at the mill had been slow fifteen days completed. The roll for the autumn was made on the morrow, on the forty-seventh day after the division, in an office over a shop, by a man of sixty-one working alone. The season was about three weeks off. The money for the frame was thirteen weeks off, to be collected with the water rate four times a year.
+A bar four feet long at the head of the sluice had not been turned at the sixth hour or at the twelfth hour for sixteen days. The wheel at the mill had been slow fifteen days completed. The roll for the autumn was made on the morrow, on the forty-seventh day after the division, in an office over a shop, by a man of sixty-one working alone. The season was about two days off. The money for the frame was thirteen weeks off, to be collected with the water rate four times a year.
 
 Ilyan Vester sat on the second chair, where he had a stool brought in for him and no vote. He had a bad night of it and his leg was out to one side under the table. He wanted the morning to do something about the frame that did not cost nine pounds, and he wanted it to be his doing, and both of those wants are in a room where nine men can see them.
 
@@ -32,7 +32,7 @@ A man on the stair wrote the word tail on a scrap and held it up for the man bes
 
 A man who had come to the back of the table and had not sat asked what the second bar at the tail would actually do, in words a person could check on a Tuesday morning. He sells wool and is not a miller, and he was in the room because his brother grinds on a Tuesday and a Friday.
 
-“*It would not stop a frame going,*” Amos said. “*A bar at the tail is after the water. The frame at the head is the thing that holds the water up, and a bar at the tail of the race cannot hold up anything at the head. If the north heel goes inside three weeks then the bar at the tail will be standing in a river.*”
+“*It would not stop a frame going,*” Amos said. “*A bar at the tail is after the water. The frame at the head is the thing that holds the water up, and a bar at the tail of the race cannot hold up anything at the head. If the north heel goes before that bar is up then the bar at the tail will be standing in a river.*”
 
 Somebody said *then what is it for*, and did not say it loudly, and about four people heard it.
 
@@ -52,11 +52,11 @@ About nine men in that room had heard that sentence three times by that hour. He
 
 Ivo Cray was standing on the stair with his bill of sale in his coat. He had not said anything in that room for an hour and a half.
 
-“*Say the other half of that,*” he said, and the room turned round on the stair to hear it, which is not a thing that happens often in a building this size. “*A town that will not mend the thing it cannot afford will mend the thing it can. That is not nothing, and it is not a way of putting off the other thing, and I will tell you the difference between those two things because a man who owns nine acres is the wrong man to tell you and I am going to tell you anyway.*”
+“*Say the other half of that,*” he said, and the room turned round on the stair to hear it, which is not a thing that happens often in a building this size. “*A town that will not mend the thing it cannot afford will mend the thing it can. That is not nothing, and it is not a way of putting off the other thing, and I will tell you the difference between those two things because a man who owns five acres is the wrong man to tell you and I am going to tell you anyway.*”
 
 He came down two steps and stopped.
 
-“*A frame at the head is nine pounds. The money is thirteen weeks off and the season is three.*”
+“*A frame at the head is nine pounds. The money is thirteen weeks off and the season is two days.*”
 
 Somebody at the back said the word *season* as though it were a question, and Perdy Sallow wrote it on the slate and left it standing there.
 
@@ -78,7 +78,7 @@ Perdy wiped the slate and wrote the two figures on it and read them out.
 
 Somebody wrote the two figures on the back of their hand. A second man wrote them on the same hand and got the second one wrong, and the man who had written the first one looked at it, and did not say anything, and went on holding his hand out at an angle to look at it.
 
-A voice from the stair observed that this meant the frame was moneyed. It is not, in any sense a person in that room could act on inside a quarter: the frame is moneyed in a year, and the water does not wait for a collection, and the season is three weeks off.
+A voice from the stair observed that this meant the frame was moneyed. It is not, in any sense a person in that room could act on inside a quarter: the frame is moneyed in a year, and the water does not wait for a collection, and the season is two days off.
 
 Perdy said that he wanted both figures in the minute as two figures about two different things, and not as one.
 
@@ -96,7 +96,7 @@ Nobody was thanked. A man gathered up the scraps of paper and squared them again
 
 Ilyan came down the stair beside Ordwin Cape and out into the square, where the sun had come out on wet stone and the whole of the front of the mill was standing in it with the water lying black at the top of the race.
 
-The cost to him was plain and it stung. He had tried to make the cheap thing sound like cowardice because it was cheaper than the thing he wanted, and a man who owns nine acres had stood on a stair and shown it to be work. He had been right that the frame would go. He had been wrong about what that meant for the town, and being wrong about it in a room of nine men is not the same as being wrong about it in a lane, because in a room it goes into a minute and in a lane it goes nowhere at all.
+The cost to him was plain and it stung. He had tried to make the cheap thing sound like cowardice because it was cheaper than the thing he wanted, and a man who owns five acres had stood on a stair and shown it to be work. He had been right that the frame would go. He had been wrong about what that meant for the town, and being wrong about it in a room of nine men is not the same as being wrong about it in a lane, because in a room it goes into a minute and in a lane it goes nowhere at all.
 
 He had wanted the morning to be his doing, and the morning had done a thing, and the thing would be finished in about nine days by a carpenter and two men with a bar, and no part of it would be his.
 

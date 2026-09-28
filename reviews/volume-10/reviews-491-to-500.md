@@ -1,5 +1,8 @@
 # Reviews — Volume 10, Batch 0005, Chapters 491 to 500
 
+> **SUPERSEDED IN PART BY THE VOLUME CLOSE. Read `reviews-volume-10-close.md` first.**
+> **THE FIGURES IN §2 BELOW WERE TRUE OF THE FILES AS THEY STOOD AND NO LONGER REPRODUCE, and they are left in place rather than rewritten, because a file that shows a figure going stale is worth more than a file that shows only the figure that passes.** The close re-measured both bands and found that **nothing this review's repair touched had drifted** — the band reproduced to a word on the first run — and then repaired what was already wrong around it. The figures that moved, and only these: **491–500 is 26,391 words and not 26,373**; **481–490 is 28,944 and not 28,951**; **`490` is 0.74 per cent over sixty and not 6.30, on 135 sentences and not 127, in 3,349 words and not 3,356, on a paragraph of 112 and not 113**; **the sixteen-wording silence sweep is 5 and not 0**, of which five are physical and none is the chorus beat; and **`486`'s panel carries ten `**` and not nine**, because the close paid the owed marker. The close's own list of eleven defects, its repairs, its re-measurement and three further findings are in `reviews-volume-10-close.md`.
+
 **The first review of this band ran and found real defects, and this file is the record of it and of the repair. It exists because the volume-close prompt requires an artifact in `reviews/volume-10/` and the previous three bands of this volume left logs without one. The prose is the canon; the findings below are the canon's history.**
 
 ## 0. What the review found
@@ -41,6 +44,8 @@ The calendar was checked against `outline/volume-10.md` §1 field by field and w
 | **R9** | **Not edited.** `state/phase-ledger.json` is controller-owned. Escalated, as the previous eight phases did. |
 
 ## 2. The measurements, taken last, after every edit
+
+> **RE-MEASURED AT THE VOLUME CLOSE AND THE ONLY FIGURE THAT DID NOT REPRODUCE IS THE SILENCE BEAT.** The band, the median, the over-sixty line, the max paragraph, the per-chapter row, the four refrain figures and `state/batch-summary.md` §1's whole certification of 481–490 all reproduced on the first run at the close. The sweep for the silence beat across sixteen wordings returns **5** and not **0**: `made a noise` 2 and `said nothing` 3, all five of them a physical sound or one named person's silence and none of them the chorus beat. **The certificate was corrected and the prose was not touched.** See `reviews-volume-10-close.md`, finding C9 and finding seventeen.
 
 **Published instrument, run on the files, not on a list.** Words are `[A-Za-z0-9£$’'-]+`; a sentence ends at `.`, `!`, `?` plus up to two of `”"*` and a space; the paragraph cap subtracts the title, `---` and the System lines.
 

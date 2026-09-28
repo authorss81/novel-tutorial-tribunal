@@ -8,7 +8,7 @@ The frame at the head of the sluice is about sixty years old and its north side 
 
 The fact is on the wrong side of a leaf in a press any person of this town may read, and it is also in a book twenty-two miles off at Kerby.
 
-The season is about four weeks off. A man of thirty-four with a lot on the Four Hundred said in a market square on the thirtieth day after the division that if the bar is not turned then it is not a season, it is a year. About nine people in that square had not known until that afternoon that there was a season.
+The season is about six days off. A man of thirty-four with a lot on the Four Hundred said in a market square on the thirtieth day after the division that if the bar is not turned then it is not a season, it is a year. About nine people in that square had not known until that afternoon that there was a season.
 
 Nobody has been able to settle it since, because the only thing that would settle it is a bar turned at the sixth hour and at the twelfth hour on every day for four weeks, and there is no form in the county of Ostrey that lets anybody require that.
 
@@ -22,7 +22,7 @@ Nobody in that room said anything for about a minute.
 
 “*Say the four lines and say which of them the board can do and which of them it cannot,*” said Ivo Cray, from the stair.
 
-“*The board can do the third of them or it cannot, and nobody in this room can tell it, and the county figure is a season and the season is about four weeks off.*”
+“*The board can do the third of them or it cannot, and nobody in this room can tell it, and the county figure is a season and the season is about six days off.*”
 
 “*Go on and say the money, and say it with the units on it, and then say what is short of it.*”
 
@@ -96,7 +96,7 @@ And so it was entered, and the third line of the minute of the water board of Ha
 
 *And that the money be collected with the water rate, and that the water rate is collected four times a year, and that the first collection is thirteen weeks off.*
 
-*And that this board has asked for the money and has not found it, and that the season of the year at which the north heel of the frame of the sluice will fail is about four weeks off, and that no person in this county can be required to turn the bar at the head of that frame.*
+*And that this board has asked for the money and has not found it, and that the season of the year at which the north heel of the frame of the sluice will fail is about six days off, and that no person in this county can be required to turn the bar at the head of that frame.*
 
 ---
 
@@ -112,7 +112,7 @@ And then he was asked for his view, for the fourth time in this town, and he gav
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
-“*The money arrives with the water rate and the first collection is thirteen weeks off, and the season is about four weeks off. The only instrument in this county that could mend that frame is the office of the county surveyor at Kerby, twenty-two miles off, on a road. That office can make a return and put it in a book. It cannot order a board to do a thing, and it cannot make anybody answer, and it cannot rate anybody, and it cannot put a name in a book of this town.*”
+“*The money arrives with the water rate and the first collection is thirteen weeks off, and the season is about six days off. The only instrument in this county that could mend that frame is the office of the county surveyor at Kerby, twenty-two miles off, on a road. That office can make a return and put it in a book. It cannot order a board to do a thing, and it cannot make anybody answer, and it cannot rate anybody, and it cannot put a name in a book of this town.*”
 
 About nine men in that room did not make a sound.
 
@@ -128,4 +128,4 @@ About nine men in that room did not make a sound.
 
 The fever was twenty-nine weeks and two days old. A levy of three and a halfpence on each of the eighty lots upon the Four Hundred was asked for, by eight votes to one, on the forty-second day after the division, by a board of nine men of a market town of four thousand people. It is two hundred and eighty pence a year and it is one pound and three shillings and fourpence, and it is entered in a minute in a room over a saddler’s shop with a day on it and a hand at the foot of it.
 
-It is charged in the roll for the autumn, and the roll for the autumn is made in five days in an office over a shop by a man of sixty-one who will do it correctly and will not know what else is on it. A bar four feet long is on its twelfth day in the mud, and the season is about four weeks off.
+It is charged in the roll for the autumn, and the roll for the autumn is made in five days in an office over a shop by a man of sixty-one who will do it correctly and will not know what else is on it. A bar four feet long is on its twelfth day in the mud, and the season is about six days off.

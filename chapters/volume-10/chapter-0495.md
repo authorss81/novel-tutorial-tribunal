@@ -56,7 +56,7 @@ Perdy Sallow sat down slowly, which he does not do.
 
 The room waited, because a man who says a thing like that in a room of forty-one is not finished about half the time.
 
-“*Forty-one men can go home tonight and ask four hundred people what they think about a charter with an exit in it. They can ask it properly, because they are heads of households and there are four hundred people who will open a door to them and to nobody else. They can come back in a week and say the answers out loud where about two hundred people in the square can hear them.*”
+“*Forty-one men can go home tonight and ask a thousand people what they think about a charter with an exit in it. They can ask it properly, because they are heads of households and there are a thousand people who will open a door to them and to nobody else. They can come back in a week and say the answers out loud where about two hundred people in the square can hear them.*”
 
 He turned the list over and put it on the table face down, and put his thumb on it.
 
@@ -100,7 +100,7 @@ No decision was taken. No order was given. Nothing was resolved.
 
 The forty-one went out into the square in about the order they had come in, by wards. About four of them were given the list before they got to the door. About nine of them already had it in a coat because they had written it themselves.
 
-A man of the seventh ward said out loud that if they were going to ask four hundred people in forty-one kitchens then somebody was going to have to say what the question was, and four people in that doorway said it was the charter with the exit in it.
+A man of the seventh ward said out loud that if they were going to ask a thousand people in forty-one kitchens then somebody was going to have to say what the question was, and four people in that doorway said it was the charter with the exit in it.
 
 He said that was not a question, that was a thing to say yes or no to. About nine people in that square heard a man discover in real time that asking and telling are different, and that nobody in this town had ever asked him which of the two he had been doing for nine years. The steward entered the calling with a day on it and with his hand at the foot of it, and read it back standing.
 

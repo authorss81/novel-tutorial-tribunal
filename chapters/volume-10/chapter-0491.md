@@ -60,11 +60,11 @@ Nobody interrupted him. That is worth recording, because about nine people were 
 
 He put two fingers on the bill of sale and turned it so that the room could see the seal, and then took his hand away and put it in his coat, which is a man deciding to stop touching a thing.
 
-“*I have carried it about for six weeks on the assumption that a man would come along and tell me it was not true. No man came. And I have had six weeks to work out the answer to that, and here it is: nobody in this county is going to come and tell me that paper is untrue, because the paper being true is the whole of what a man who owns nine acres wants.*”
+“*I have carried it about for six weeks on the assumption that a man would come along and tell me it was not true. No man came. And I have had six weeks to work out the answer to that, and here it is: nobody in this county is going to come and tell me that paper is untrue, because the paper being true is the whole of what a man who owns five acres wants.*”
 
 Perdy Sallow had picked up his reed and put it down again without having written anything.
 
-“*If the water does not go with the land then my lot is worth four pounds less, and there is no man in the world who wants my lot four pounds cheaper.*”
+“*If the water does not go with the land then my lot is worth two pounds less than I gave for it, and there is no man in the world who wants my lot two pounds cheaper than that.*”
 
 A man on the third stool laughed once, and stopped, and put his hand over his mouth afterwards.
 

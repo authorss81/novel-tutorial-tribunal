@@ -4,7 +4,7 @@ Second day of the ninety-second week. His two hundred and fortieth morning. Nine
 
 The Stone House has a hearth in the corner and a press against the west wall, and the door of the building is open, and it is open all day every day. There were about nine people in that room on the Wednesday morning of the forty-fourth day after the division, and about thirty of them were in the square outside it doing nothing in particular.
 
-The day before, about two people had been in a room over a nail shop at the south end of that square and one of the two was a copyist of thirty-four, and four days before that about nine people had been at the head of a sluice in the rain and about eleven more had been in a room over a taproom, and the whole of a town of four thousand people had spent six weeks finding out that a book is a door.
+The day before, about two people had been in a room over a nail shop at the south end of that square, and one of the two was a copyist of thirty-four. Four days before that about nine people had been at the head of a sluice in the rain, and about eleven more had been in a room over a taproom. The whole of a town of four thousand people had spent six weeks finding out that a book is a door.
 
 Nobody in Halloway had called anything. A copyist of thirty-four stood at the long table under the north beam with a sheet of paper on it and said that she was going to read out everything that had been done, and that she was going to say the day on each of it, and that anybody in the room could stop her.
 
@@ -60,7 +60,7 @@ So she read it out, standing, in the voice she uses for the minutes, and it took
 
 *Five. On the twenty-fifth day, a chair of a water board did not call a sitting he had set down nine days before and called a courtesy, and said so out loud in a market square, and the out-of-roll book stayed in a drawer in a house in this town and was not written in.*
 
-*Six. On the twenty-eighth day, a man of thirty-four asked a steward of forty years to call the House of this town on the question of its own covenant, and the steward did not call it, and said out loud in a room over a shop that he had been forty years the only man in this town nobody had to wonder what he wanted and that he is no longer that man.*
+*Six. On the twenty-eighth day, a man of thirty-four asked a steward of forty years to call the House of this town on the question of its own covenant, and the steward did not call it. He said out loud in a room over a shop that he had been forty years the only man in this town nobody had to wonder what he wanted, and that he is no longer that man.*
 
 *Seven. On the thirtieth day, nineteen houses at the Fen were put out of the water of this town under clause five, cause four, upon a cause set out in writing by a man of sixty-one who was in the water himself in the ninth year before the division. The finding was correct. The word required went into a minute of this town for the first time in four hundred years, and it was struck out of the minute in the room.*
 
@@ -68,11 +68,11 @@ So she read it out, standing, in the voice she uses for the minutes, and it took
 
 *Nine. On the thirty-sixth day, a man of fifty-four asked in a stone room with about nine people in it whether anybody can be sent for, and was told in front of the room that a thing is sent for by a person with a form, and there is no office in this county that can hold one. A copyist drew up a head and two lines under it at her own table with no body behind them, and read them out standing, and it is the first two lines of anything that anybody in this town has ever drawn up for anybody else.*
 
-*Ten. On the thirty-seventh day, the board of this town sat for the first time since the thirtieth and answered those two lines in the words of the request, and both of the answers were correct, and the first of them was that the board has no power to appoint a person to hear this matter and cannot appoint and has no list from which to appoint. The number of days in that room was seven out of the water and seven that the bar has not been turned, and those are not the same seven, and the difference between them is a Wednesday, and the Wednesday is the day the board sat.*
+*Ten. On the thirty-seventh day, the board of this town sat for the first time since the thirtieth and answered those two lines in the words of the request, and both of the answers were correct. The first of them was that the board has no power to appoint a person to hear this matter, and cannot appoint, and has no list from which to appoint. The number of days in that room was seven out of the water and seven that the bar has not been turned, and those are not the same seven, and the difference between them is a Wednesday, and the Wednesday is the day the board sat.*
 
-*Eleven. On the thirty-eighth day, a nail in a board in a shed with a piece of tin on it was proposed as the fifth instrument of this town and refused in about four minutes by about nine people who were all right, on the ground that an instrument has to be able to say no, and a man of thirty-one was proposed as a sixth and refused in about nine minutes, and the list is four.*
+*Eleven. On the thirty-eighth day, a nail in a board in a shed with a piece of tin on it was proposed as the fifth instrument of this town and refused in about four minutes by about nine people who were all right, on the ground that an instrument has to be able to say no. A man of thirty-one was proposed as a sixth and refused in about nine minutes, and the list is four.*
 
-*Twelve. On the thirty-ninth day, the second sheet folded in four was read out in the same market square to about two hundred people, and a boy of fifteen asked who had witnessed the refusal in it and the man reading it out could not answer, and a woman of thirty-four told him out loud that a thing read aloud in a square is a thing a person has been said to have said. It cannot be un-read and it cannot be given back.*
+*Twelve. On the thirty-ninth day, the second sheet folded in four was read out in the same market square to about two hundred people. A boy of fifteen asked who had witnessed the refusal in it, and the man reading it out could not answer, and a woman of thirty-four told him out loud that a thing read aloud in a square is a thing a person has been said to have said. It cannot be un-read and it cannot be given back.*
 
 *Thirteen. On the fortieth day, an arbitration was held in a room over a taproom with no procedure and no standing and no rules and no chair with power, and about nine people went four hundred yards and brought eleven more, and it produced an instrument and not a decision.*
 
@@ -94,7 +94,7 @@ And then the copyist read out what had not been done, and she did it without bei
 
 “*Go on and say the rest of that, and do not make it a speech.*” said Ordwin Cape, from the rail.
 
-“*And there has been one refusal in this town in six weeks and the woman who made it did not have it. On the eleventh day after the division, in a lane, a chair of this board put the whole of the book into four sentences in front of about nine people and a woman of thirty-eight who keeps the sluice at the Fen said no, and she is a household of this town, and that is the whole of what is wrong with it.*”
+“*And there has been one refusal in this town in six weeks and the woman who made it did not have it. On the eleventh day after the division, in a lane, a chair of this board put the whole of the book into four sentences in front of about nine people, and a woman of thirty-eight who keeps the sluice at the Fen said no. She is a household of this town, and that is the whole of what is wrong with it.*”
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
@@ -112,7 +112,7 @@ Nobody in that stone room said anything for about a minute.
 
 “*Go on and say the rest of it and do not make it a speech.*”
 
-“*The north heel of the frame at the head of the sluice is a season gone and the season is about three weeks off, and the money for it is in a minute.*”
+“*The north heel of the frame at the head of the sluice is a season gone and the season is about four days off, and the money for it is in a minute.*”
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
@@ -122,7 +122,7 @@ Nobody in that stone room said anything for about a minute.
 
 And the copyist of thirty-four said the last of it.
 
-It is nine lines, and it is the only thing she put in a press in six weeks that she did not read out from a book, and it is not on the sheet of eleven lines and it is not the eleventh of them, and she has never said which of the ten lines on that sheet this one belongs to.
+It is nine lines, and it is the only thing she put in a press in six weeks that she did not read out from a book. It is not on the sheet of eleven lines and it is not the eleventh of them, and she has never said which of the ten lines on that sheet this one belongs to.
 
 “*At the foot of the ninth clause there is a witness line with two names in it. One of them is a name of this town. The other is four letters and a stroke in a hand that is not of this town and is not the old hand of the Board.*”
 

@@ -42,7 +42,7 @@ The second thing came at the eleventh hour.
 
 A carrier came into the square off the road that runs four hundred miles to a building where a woman of twenty-eight sits. He came through the open door and stood in it.
 
-It was the same carrier who had taken a folded sheet out of this square at dusk on the Friday, four days ago, for a shilling and fourpence out of the two pounds a year that a copyist of this town is paid.
+It was the same carrier who had taken a folded sheet out of this square at dusk yesterday, on the Friday, for a shilling and fourpence out of the two pounds a year that a copyist of this town is paid.
 
 He was holding a page folded in four with nothing on the outside of it.
 
@@ -92,7 +92,7 @@ That was true. It was not the whole of it, and about four people in that room he
 
 Nobody in that room can be asked why. A man not of this town is not on anybody’s book. He has said a true sentence and left a gap in it the exact width of the thing he cannot say.
 
-Wenna Crale is the only person in Halloway who can say whether a man may be asked about a sentence he said in a square. She said no on the fifty-first day and has not changed her mind in two days. She looked at him across the table for about three seconds, and then read the second name out again at the same speed as the first.
+Wenna Crale is the only person in Halloway who can say whether a man may be asked about a sentence he said in a square. She said no on the fifty-first day and has not changed her mind in three days. She looked at him across the table for about three seconds, and then read the second name out again at the same speed as the first.
 
 ---
 

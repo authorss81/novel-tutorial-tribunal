@@ -90,7 +90,7 @@ What was on the roll, and the working of every figure on it, in the order the st
 
 *Forty-four pence a quarter is the whole of what this business was about. It is twenty-two houses at eightpence a year, and it is the difference between a figure a man counted at a desk on a Saturday morning and a figure a town has been arguing with since the thirtieth day after the division.*
 
-*The levy that is on the roll to raise it is one pound three shillings and fourpence a year on the eighty lots, and nobody in Halloway will be able to feel any of it until a collection that is thirteen weeks off, on a day when the season it was for is nine weeks gone.*
+*The levy that is on the roll to raise it is one pound three shillings and fourpence a year on the eighty lots, and nobody in Halloway will be able to feel any of it until a collection that is thirteen weeks off, which is after the season it was for has come and gone.*
 
 The out-of-roll book was not opened at any point on that Saturday. It is a line, a name, a day, and the water board may at any time enter a household that is not on the roll, and it has never been written in in this town, and it was not written in on the day the roll was made, and there was nobody in that office to write it in.
 
