@@ -1,12 +1,12 @@
 # Chapter 503: The First Day Of The Ninety-Fourth Week, And A Tuesday On Which The Market Is Not And A Man Of Thirty-One Is Put In The Porch Of A Meeting-House Because A Person Not Of This Town May Not Be In A Room Where A Book Is Read, And Is Entered On A Separate Leaf In The Back Of It In A Hand That Is Not The Book’s, With His Name And The Day And The Words A Person Not Of This Town Whose Record Is Not Findable, And There Is No Column On That Leaf For Anything Else
 
-First day of the ninety-fourth week. His two hundred and fifty-third morning. One hundred and three days after the settlement. The fever thirty-one weeks and three days. Fifty-seven days since the division. Three days since a page of that book was read out in a room with the door shut.
+First day of the ninety-fourth week. His two hundred and fifty-third morning. One hundred and three days after the settlement. The fever thirty-one weeks and three days. Fifty-seven days since the division. Three days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The market of Bramblefold is on a Thursday. That is written on a slate outside the chandler’s and it has been written there about forty years, and the chalk is always a week ahead of the day. This was a Tuesday, and the square was empty, with the bars of last Thursday’s stalls still lying in the mud and the sweep in the middle not done yet, because the sweep is done on a Wednesday night by two men who are paid a penny each out of a hundred and forty pounds that a hundred and forty acres of sheep bring in a year.
 
 A woman of thirty-four came down the lane at about the seventh hour with a basket on her hip, slept two hours, and came into the town again at about the tenth with her sleeves rolled and no basket. She went straight to the meeting-house and unlocked the chancel door with a key that is on a string round her neck.
 
-About nine people on the square saw a stranger go into a building she had a key to, which in Bramblefold is a thing about nine people would have an opinion of by the second hour of the afternoon.
+About nine people on the square saw a stranger go into a building she had a key to, which in Bramblefold is a thing that four or five of them will have an opinion of by the second hour of the afternoon.
 
 The meeting-house is a long low building of flint and chalk with a square tower at the west end that has never had a bell in it. It was built about two hundred and thirty years ago by people who had left a town about ninety miles off. It has a gallery at the north side, and the ground floor is not unusual.
 
@@ -20,7 +20,7 @@ Ilyan Vester was on the step at about the eleventh hour with a square of paper i
 
 “*I have come two days to ask about the book.*”
 
-“*I know you have. I came back from four days of walking and a man at the smith’s has a stranger in a room who says the same three sentences to anybody who will stand still for them.*” She had the key in her hand and had not put it away. “*You are not of this town.*”
+“*I know you have. I came back from four days of walking myself, and there is a stranger in a room at the smith’s who says the same three sentences to anybody who will stand still for them.*” She had the key in her hand and had not put it away. “*You are not of this town.*”
 
 “*No.*”
 
@@ -130,7 +130,7 @@ Then she came out and shut the chancel door and put the key back inside her dres
 
 “*And what is on the week?*”
 
-“*Who is descended from whom, and who died, and who was born, and what came into the fold and what went out of it, and whose ground it is under the wall.*” She was walking away down the step. “*That is the week. That has been the week for four hundred years. And on the Saturday after next, which is eleven days off, I am going to read out a leaf that has not been read since the year it was struck. About nine people in this country will be in that room, and you will be in the porch.*”
+“*Who is descended from whom, and who died, and who was born, and what came into the fold and what went out of it, and whose ground it is under the wall.*” She was walking away down the step. “*That is the week. That has been the week for four hundred years. And on the Saturday after next, which is eleven days off, I am going to read out a leaf that has not been read since the year it was struck. About nine people in this town will be in that room, and you will be in the porch.*”
 
 She got four paces away and turned round.
 

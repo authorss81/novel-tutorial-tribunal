@@ -1,8 +1,8 @@
 # Chapter 504: The Second Day Of The Ninety-Fourth Week, And A Wednesday On Which A Book Four Hundred Years Old Is Open On A Table In A Chancel Eight Feet By Eleven, And A Recordwright Of Thirty-Four Puts It In Front Of About Four People And A Man Of Thirty-One Says Out Loud In The Porch Of That Meeting-House That A Book Which Cannot Record A Death Is A Book Which Has Never Lost Anybody, And A Man Of Eighty-One Says The Other Half Of It From A Bench By The Fire
 
-Second day of the ninety-fourth week. His two hundred and fifty-fourth morning. One hundred and four days after the settlement. The fever thirty-one weeks and four days. Fifty-eight days since the division. Four days since a page of that book was read out in a room with the door shut.
+Second day of the ninety-fourth week. His two hundred and fifty-fourth morning. One hundred and four days after the settlement. The fever thirty-one weeks and four days. Fifty-eight days since the division. Four days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
-There is one Wednesday in the week when the recordwright of this town reads one leaf out of that book. It is not a public day and it is not written anywhere. The reason for it is that a man of about seventy-two has walked two miles every Wednesday for about nine years to stand in a porch and hear one line read to him, and the recordwright does it because it takes four minutes and because his father did it.
+There is one Wednesday in the week when the recordwright of this town reads one leaf out of that book. It is not a public day and it is not written anywhere. The reason for it is that a man of about seventy-two has walked two miles every Wednesday for about nine years to stand in a porch and hear one line read to him, and the recordwright does it because it takes about eleven minutes and because his father did it.
 
 He came at about the ninth hour and he came in a wet coat, and it was not raining, and it has not rained in this country for four days. Everybody in that porch understood in about nine seconds that the coat is the coat he came in, and that it is not about the weather, and has not been about the weather since about nine years ago.
 
@@ -32,7 +32,7 @@ It says that the book was rebound by W. Hask, of this parish, at a charge of fou
 
 There are four hands in it. The first is on the first ninety years and is a large slow hand. The second is a small hand, and it is on the next two hundred, and it is the one that wrote the leaf that was struck. The third is a clerk’s hand, very regular, covering about sixty years in the middle, and it is the handsomest writing in the book. The fourth is the one of the man who rebound it, and it is only on the last four leaves, and it is not the hand of anybody who wrote anything anybody wanted read.
 
-The columns are four, and there have always been four. The first is the descent: who comes from whom, in a hand going down the page and then across. The second is *holdings*, with the number of the holding and what it is, four acres, a half-acre, a yard, a cottage and a yard. The second column does not say what became of the holding. The third is *of the fold*, which is the number of acres of a hundred and forty that a household may put sheep on, and it does not say what became of the acres. The fourth is *of the ground behind the meeting-house*, in feet and inches, going as far back as about two hundred and twenty years, and it is the shortest.
+The columns are four, and there have always been four. The first is the descent: who comes from whom, in a hand going down the page and then across. The second is *holdings* — four acres, a half-acre, a yard, a cottage and a yard — and it does not say what became of the holding. The third is *of the fold*, the acres of a hundred and forty a household may put sheep on, and it does not say what became of the acres. The fourth is *of the ground behind the meeting-house*, in feet and inches, going back about two hundred and twenty years, and it is the shortest.
 
 “*There is no fifth,*” she said, and turned the book round so that it was facing him and not her, which she does when she is about to say a thing twice. “*I want you to see that there is no fifth.*”
 
@@ -52,9 +52,9 @@ He looked at the columns for a while. He was a man who had spent ten volumes rea
 
 “*Then it has never lost anybody.*”
 
-About four of the people in that porch understood what he had said. About five did not.
+The man at the far end of the bench put his head on one side, the way a man does when one word in a sentence is in a language he has stopped speaking. Nobody else in that porch moved at all.
 
-“*Say that again,*” said a man at the far end of the bench.
+“*Say that again,*” said the man at the far end of the bench.
 
 “*A book that cannot record a death is a book that has never lost anybody. Four hundred years and it has lost one thing, and it is a leaf, because a leaf is the only kind of losing this book has any way of doing.*”
 
@@ -62,9 +62,9 @@ There was a fire in the chancel and the door between the porch and the chancel w
 
 And then the man of eighty-one said the other half of it.
 
-He was inside the chancel, on a chair by the fire, with a blanket over the front of him that is not a blanket and is a rug. He had not come in at the ninth hour with her, and nobody had told him the stranger was there, and he had been in that room since about the seventh hour, because it is the only warm room in the building and he is eighty-one and it is a Tuesday in the week before the picking.
+He was inside the chancel, on a chair by the fire, with a blanket over the front of him that is not a blanket and is a rug. He had not come in at the ninth hour with her, and nobody had told him the stranger was there, and he had been in that room since about the seventh hour, because it is the only warm room in the building and he is eighty-one and it is a Wednesday in the week before the picking.
 
-He is Barnaby Rill and he kept the book before his daughter, and he cannot read it now and says so. What he says about it is that he could read the whole of it, front to back, in about four hours, when he was a young man, and that he cannot read the third hand at all any more and can read the first and a half of the second, and that the fourth is his own and he wrote it in a good hand and cannot read it now either.
+He is Barnaby Rill and he kept the book before his daughter, and he cannot read it now and says so. He could read the whole of it, front to back, in about four hours, when he was a young man. He can read the first and a half of the second hand and none of the third. The fourth is not his and never was: it is the man of this town who rebound the book about ninety years back, and Barnaby Rill learned that hand off his father when he was a boy of about seven, and cannot read it now either.
 
 He says this is a thing that happens to everybody, and that he is the only one left who can say that it happens.
 
@@ -84,7 +84,27 @@ The recordwright did not look round, which is how you know in a porch that she k
 
 “*Including the man in the wet coat?*”
 
-“*Including the man in the wet coat, and he was not born when it was struck, so he is no use to you at all. He comes on Wednesdays for the holding, and he has never once asked me a question about a leaf, and I have never once offered him one, and that is between him and me. It is the two of us doing a kindness to each other every Wednesday for nine years.*”
+“*Including the man in the wet coat,*” said Barnaby Rill, “*and he was not born when it was struck, so he is no use to you at all. He comes on Wednesdays for the holding, and he has never once asked me a question about a leaf, and I have never once offered him one, and that is between him and me. It is the two of us doing a kindness to each other every Wednesday for nine years.*”
+
+“*Fifty-eight days since the division,*” the man of thirty-one said. “*What division?*”
+
+The woman of thirty-four put her pen down flat, which she does.
+
+“*He means what your fifty-eight is counted from,*” she said. “*He has been counted from something since he was nineteen and he cannot put it down.*”
+
+“*A town counts from a dated thing,*” said Barnaby Rill. “*That is all a count is. A dated thing, and then a man saying how many.*”
+
+“*Then what is the count you are keeping?*”
+
+“*A page somebody read out in a room with a shut door, in a town you walked out of on Saturday, and you have carried the number of it about with you since like a man carrying somebody else’s letter. There is no form in this county that says a man may keep a number and there is none that says he may not.*”
+
+“*And this town? What does it count from?*”
+
+Barnaby Rill turned one hand over on the arm of the chair and looked at it.
+
+“*It does not,*” he said. “*This town has not had a dated thing since a leaf was struck a hundred and forty-one years back in a week that not one of us can name, and the last thing it counted from was a frost. A year of the long frost. About thirty people in this town say the year of the long frost the way other people say a saint’s day, and it is a season and not a day, and there is nobody in this building you could ask what year it was in.*”
+
+“*Your fifty-eight,*” he said, before the man of thirty-one had got the next question out, “*is off a common at Halloway that was divided and sold to eighty lots at two pounds the lot, in a week of that year no person in this room can name, and not one of the eighty lots is on any paper in this building. I know that because your face did it twice while I was talking.*”
 
 ---
 
@@ -100,6 +120,10 @@ It is not a cancellation. It is not a struck-out entry, corrected and left legib
 
 and nothing else. No day on it. No name of the person who struck it. No name of the person who ordered it. No seal, no counter, no office, no county, and no number of any kind, and the four words are the entire account this town has ever had of the largest thing that has ever happened in it.
 
-“*A hundred and forty-one years,*” Marda Rill said. “*That is the whole of it, and it is a Tuesday, and the Tuesday is the only part anybody is sure of. I have never been sure of it and I have not asked him, and I am sixty-one years from being sure of it and I am not going to be.*”
+“*A hundred and forty-one years,*” Barnaby Rill said, from the chair, and did not look at the leaf. “*That is the whole of it, and it is a Tuesday, and the Tuesday is the only part anybody in this country is sure of.*”
 
-The fever was thirty-one weeks and four days old. A book of four hundred and eleven years lay open on a table in a chancel eight feet by eleven with a window down. It had four columns and no fifth, and forty-three names went through one stroke of a pen with four words written in the margin beside it, and in the porch a bench had a mark worn into the stone two-thirds along it where a man of about seventy-two stood a great many times.
+“*You have never asked him,*” said the man of thirty-one.
+
+“*I was born sixty years after it was struck, and there is nobody in this county older than me who was not a child when it was done. I have never been sure of it and I have not asked, and I would like it written down at the head of the sheet that I did not ask.*”
+
+The fever was thirty-one weeks and four days old. A book of four hundred and eleven years lay open on a table in a chancel eight feet by eleven with a window down, and forty-three names went through one stroke of a pen with four words written in the margin beside it, and in the porch a bench had a mark worn into the stone two-thirds along it where a man of about seventy-two stood a great many times.

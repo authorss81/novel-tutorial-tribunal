@@ -1,6 +1,6 @@
 # Chapter 501: The First Day After The Hundredth Day After The Settlement, And A Sunday On Which A Man Of Thirty-One Asks A Copyist To Enter A Line In A Minute Saying He Was Here For Forty-Eight Days, And Is Told There Is No Form In The County Of Ostrey That Says A Man May Be Entered As Having Been In A Place, And Begins A Sentence That Would Be A Thank You And Is Stopped Before The Second Word
 
-Sixth day of the ninety-third week, and the day before was the hundredth day after the settlement. His two hundred and fifty-first morning. One hundred and one days after the settlement. The fever thirty-one weeks and one day. Fifty-five days since the division. One day since a page of a book two days off was read out in a room with the door shut.
+Sixth day of the ninety-third week, and the day before was the hundredth day after the settlement. His two hundred and fifty-first morning. One hundred and one days after the settlement. The fever thirty-one weeks and one day. Fifty-five days since the division. One day since a page was read out in a room with the door shut, in a town three days from where he is standing.
 
 The bar four feet long at the head of the sluice had not been turned at the sixth hour or at the twelfth hour for twenty-five days. The wheel at the mill had been slow twenty-four days completed. The two of those are different counts, and the difference between them is a day on which the sixth hour came and was gone past, and the difference between them is now in a minute of a water board. A man leaving this town on a Sunday does not need to know either figure and carries both.
 
@@ -44,7 +44,7 @@ She put two fingers on the paper.
 
 “*There is no form in the county of Ostrey that says a man may be thanked.*”
 
-She said it in the voice she uses for minutes, which is not loud and is not slow either. About four people in that room heard the word come out of him and stop. About nine people were in that room and the rest of them were in the square. “*I have not thanked you. Nobody in this town is going to thank you. I have a sheet in that press with a line through the middle of a sentence of yours and your name at the foot of it, and that is the only record of you in this town, and it is a record of a refusal. I made it on the fifty-first day after the division and I would make it again.*”
+She said it in the voice she uses for minutes, which is not loud and is not slow either. Two people in that room looked up. The copyist did not, and that is the part of it he has kept. “*I have not thanked you. Nobody in this town is going to thank you. I have a sheet in that press with a line through the middle of a sentence of yours and your name at the foot of it, and that is the only record of you in this town, and it is a record of a refusal. I made it on the fifty-first day after the division and I would make it again.*”
 
 “*I know you would.*”
 
@@ -62,7 +62,7 @@ She had a copy of four pages in a round hand, unsigned, with a smudge on the thi
 
 “*That is fair.*”
 
-“*It is not fair. It is accurate, and I have not got time for fair.*” She shifted the basket to the other foot. “*I keep a book. It is four hundred years old and it is in a chancel that is the only locked room in our meeting-house, and about nine people in this country can read the hand on the front of it and four of those are over seventy and one of them is me.*”
+“*It is not fair. It is accurate, and I have not got time for fair.*” She shifted the basket to the other foot. “*I keep a book. It is four hundred years old and it is in a chancel that is the only locked room in our meeting-house, and four people in this country can read the hand on the front of it. One of them is me, and I am thirty-four, and the other three are over seventy.*”
 
 “*What does it do?*”
 
@@ -78,9 +78,9 @@ Ilyan Vester looked at her for a moment longer than a person does a stranger.
 
 The woman of thirty-four put the four pages out of her coat and unfolded them against the side of the basket. The four pages were the same four pages that had come into this town on the forty-third day after the division, folded in four, with nothing on the outside, out of a building of four hundred people on a road four hundred miles off, addressed to a water board and not to a man, and signed with no name at all.
 
-They were not the same four pages. They were a copy of them, and they were a generation further on, and the hand was not the hand of the woman four hundred miles off. It was a rounder hand and a quicker one, and it had made forty-one mistakes and corrected thirty-eight of them. There was a thumbprint on the third page, and at the foot of the fourth page it said, in the copy, who had written it out.
+They were not the same four pages. They were a copy of them, and they were a generation further on, and the hand was not the hand of the woman four hundred miles off. It was a rounder hand and a quicker one, and it had made forty-one mistakes and corrected thirty-eight of them. There was a thumbprint on the third page, and at the foot of the fourth page it said, in the copy, where the four pages were, and it said nothing whatever about who had written them out.
 
-A woman of this town, on the thirty-ninth day after the division, from memory, that night, because she had been in the square and had not been able to sleep and had a pen.
+A woman of a town four hundred miles off, on the thirty-ninth day after the division, from memory, that night, because she had been in the square and had not been able to sleep and had a pen.
 
 “*Page two,*” he said. “*A lane works.*”
 
@@ -112,13 +112,13 @@ The two of them ate bread at the end of the table, and the woman of thirty-four 
 
 None of the three said anything at all during it. When she came to the third page she turned it round and showed the smudge, and said that the woman who wrote it had put her thumb down on it, and had been in the square all afternoon, and had gone home, and had written it out from memory, and had told nobody she was doing it.
 
-She said that the woman had told the man of thirty-four the next day in a market, and that the man of thirty-four had said, *well, that is the record then*, and had gone off to a kiln.
+She said that the woman had told the copyist of thirty-four the next day in a market, and that the copyist had said, *well, that is the record then*, and had gone on with the sheet she had begun before the division and had not looked up.
 
 “*That is the whole of how that reached my house,*” she said. “*Not the woman four hundred miles off. A woman in a square who could not sleep.*”
 
 He got up early enough to be at Coldcombe for the first hour, with one pound and fourpence. That is eighty-one days of a bed at a penny and bread at a penny, with a penny over, and nothing at all for a day of work.
 
-He was in a town of two thousand four hundred people on a chalk slope by the time the light was on the kiln, and the kiln was burning its ninth day out of ten. The smell of it got into a coat in about a minute and stayed for a week.
+He was in Coldcombe for the first hour of the light, and the market of that town does not begin until the eighth hour, and the first cart on that road goes at the seventh, and he had about six hours to go on standing in the one town in two counties that has never been able to make a line about him.
 
 The fever was thirty-one weeks and one day old. A man of thirty-one had asked a copyist for a line and had been given the shape of the answer, and had begun a sentence and been stopped before the second word, and had walked out of a market town of four thousand people where the only record of him was a line drawn through the middle of his own sentence with his name at the foot of it.
 

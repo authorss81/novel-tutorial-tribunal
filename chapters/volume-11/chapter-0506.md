@@ -1,6 +1,6 @@
 # Chapter 506: The Fourth Day Of The Ninety-Fourth Week, And A Friday On Which A Boy Of Fourteen Writes The Week On A Sheet In Chalk At The Back Of A Smithy And A Recordwright Of Thirty-Four Does The Whole Of The Working In A Room With About Eleven People In It And Says Out Loud That A Name Is Therefore Worth Between Four Pounds Sixteen Shillings And Six Pounds This Year, And That Is The Reason Nobody In That Room Will Agree About Anything
 
-Fourth day of the ninety-fourth week. His two hundred and fifty-sixth morning. One hundred and six days after the settlement. The fever thirty-one weeks and six days. Sixty days since the division. Six days since a page of that book was read out in a room with the door shut.
+Fourth day of the ninety-fourth week. His two hundred and fifty-sixth morning. One hundred and six days after the settlement. The fever thirty-one weeks and six days. Sixty days since the division. Six days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The week of a country town is made on the Friday night. The descent, the births, the deaths, the fold coming in and going out, and whose ground it is under the wall. It is written on one sheet, in chalk, on a board, and it goes up on the end wall of the smithy, where about nine people read it going in and out and about two hundred read it on the market day, and nobody has ever written down a rule that says it has to be there.
 
@@ -20,9 +20,13 @@ A man of about eighty-four who has died has still got four acres and a number an
 
 “*Then he ought to have gone in the ground column.*” The boy put the chalk down. “*He had seven feet behind the meeting-house. He put a name on it about two years back. He has not been in it and he is not going to be, and his is not the ground, it is going to his brother’s boy, and the boy is fourteen and he is here.*”
 
-And there was a moment in a smithy at about the ninth hour on a Friday morning in which two people in a room of about eleven understood exactly what had been said, and about nine of the eleven did not.
+And there was a moment in a smithy at about the ninth hour on a Friday morning in which two people in a room of about eleven understood exactly what had been said, and the other nine went on with what they were doing.
 
-The boy of fourteen was the one who had said it, and he was not thanked, and he did not expect to be.
+The woman of thirty-four was one of the two. She said nothing to the boy for the better part of a minute, and then she said one thing, and it is the only thing she said to him that day.
+
+“*Write him in the ground column, and put the day against it, and if anybody in this smithy asks you why a dead man is in a column about ground, you say the recordwright told you, because that is true and it is the only sentence there is about it.*”
+
+He wrote him in the ground column. He was not thanked for it, and he did not expect to be.
 
 ---
 
@@ -72,7 +76,7 @@ The man of eighty-one on the chair by the fire said that it was in the wall.
 
 “*Then the orchard is worth nothing to this dispute, and that is all you are saying.*”
 
-“*I am saying the orchard is worth nothing to this dispute, and that if the forty households that lose half a fold want to be paid for it, they are going to have to be paid out of the orchard, and there are no columns for that either.*”
+“*I am saying the orchard is worth nothing to this dispute, and that if the households that keep a beast want to be paid for it, they are going to have to be paid out of the orchard, and there are no columns for that either.*”
 
 ---
 
@@ -80,25 +84,21 @@ And it was in that room, at about the fourth hour of a Friday afternoon with abo
 
 “*That is a good number,*” he said. “*Four pounds sixteen against six. That is not a large figure. Nobody can be ruined by four pounds sixteen shillings. We are going to a market about a wall.*”
 
-“*Say the last part of that again.*”
+She did not ask him to say it again. She put the chalk down on the board, and she wrote his sentence out at the foot of the sheet in her own hand, and read it back in the voice she uses for minutes, and did not change a word of it.
 
-“*We are going to a market about a wall.*”
+He read it off the board. It was longer than the sentence he had spoken, because she had put the beasts back into it.
 
-“*You have said it twice now, and both times it has been about a wall.*”
+“*I have said it once and you have written it once, and both are on this board, and both say the same two things, and neither of the two things is about a wall.*”
 
-She put the chalk down on the board, which she does when she is about to say a thing she means to be able to be asked about later, in a room, on a Saturday, by anybody.
+“*I asked about the wall.*”
+
+“*You said nobody can be ruined by four pounds sixteen shillings, and you did not say the word *ruined*, you said the word *wall*. The two of those are the same sentence to a man in a market, and they are not the same sentence to a woman who has four children and half of what her beasts are worth.*”
 
 “*And I am going to say the other half of it. You are the third person this week who has said it to me and the first one who has said it in a room.*”
 
 “*And the reason I am saying it in a room is that on Saturday I have to say it again in front of nine people, and I would rather it were a thing I had said to one man on a Friday and had got wrong and had taken back.*”
 
-“*Say it.*”
-
-“*The figure is a good one. And nobody in this room has been asked whether the forty households that lose half a fold are the same forty that gain a wall.*”
-
-“*I asked about the wall.*”
-
-“*You said nobody can be ruined by four pounds sixteen shillings, and you did not say the word *ruined*, you said the word *wall*. The two of those are the same sentence to a man in a market, and they are not the same sentence to a woman who has four children and half of what her beasts are worth.*”
+“*The figure is a good one. And nobody in this room has been asked whether the sixty households that lose half a fold are the same sixty that gain a wall.*”
 
 The room did not do the thing that rooms do. There was about nine seconds of nothing.
 
@@ -106,8 +106,8 @@ Then the man of eighty-one said *say the half out loud*, and she said that nine 
 
 “*And a name is worth between four pounds sixteen and six.*”
 
-“*And a name is worth between four pounds sixteen and six,*” she said, “*and about forty of the sixty in this town are being asked for half of what they had. I have not asked one of them, and neither has he, and neither has the woman from the barn. On Saturday we are going to read a page out in a room to nine people, and about a hundred and ninety people are going to hear it in a square, and not one of the hundred and ninety is going to be asked first.*”
+“*And a name is worth between four pounds sixteen and six,*” she said, “*and every one of the sixty households in this town is being asked for half of what they had. I have not asked one of them, and neither has he, and neither has the woman from the barn. On Saturday we are going to read a page out in a room to nine people, and about a hundred and ninety people are going to hear it in a square, and not one of the hundred and ninety is going to be asked first.*”
 
 She said that to a man of thirty-one and not to a room. Then she picked the chalk up again and wiped the back of the board off, because the back of the board was last week’s sheet and it was not sacred either.
 
-The fever was thirty-one weeks and six days old. A boy of fourteen had written a dead man of about eighty-four into a column of holdings because there was nowhere else to write him, and a recordwright of thirty-four had done the whole of the working of this town on the back of a board in pence and in pounds, and the whole of it came to four pounds sixteen shillings and no pence on one side and six pounds a year on the other, and about eleven people were in a chancel eight feet by eleven, and about four of them had understood the reason and about nine had not.
+The fever was thirty-one weeks and six days old. A boy of fourteen had written a dead man of about eighty-four into a column of holdings because there was nowhere else to write him, and a recordwright of thirty-four had done the whole of the working of this town on the back of a board in pence and in pounds, and there were about eleven people in a chancel eight feet by eleven, and the last thing said in it was a question and the question was about the wall.

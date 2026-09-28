@@ -1,20 +1,20 @@
 # Chapter 508: The Sixth Day Of The Ninety-Fourth Week, And A Sunday On Which A Room In This Town Is Shut On Purpose For The First Time In Two Volumes, And A Woman Of Sixty-Eight On The Upper Row Is Asked Whether She Will Have Her Own Family Put Back Into A Book At The Cost Of A Claim On The Four Rooms And A Yard She Has Paid For Twenty-Two Years, And Says No In About Four Sentences, And A Man Of Thirty-One Offers To Be The Instrument Of A Line And Is Refused For A Reason He Understands In The Room
 
-Sixth day of the ninety-fourth week. His two hundred and fifty-eighth morning. One hundred and eight days after the settlement. The fever thirty-two weeks and one day. Sixty-two days since the division. Eight days since a page of that book was read out in a room with the door shut.
+Sixth day of the ninety-fourth week. His two hundred and fifty-eighth morning. One hundred and eight days after the settlement. The fever thirty-two weeks and one day. Sixty-two days since the division. Eight days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The room was the vestry room off the chancel, which is about nine feet by seven and has a cupboard in it and a table and three chairs and a window that does not shut. The door was shut, and the door of that building has not been shut on purpose in the whole of the working life of the woman who shut it.
 
 “*Do not get up,*” she said to the man of eighty-one. “*You are not needed for this and I would rather you heard it from a chair.*”
 
-“*I have been not needed since about the year of the long frost,*” he said, and stayed where he was, and about four people in that room thought that was funny and about five did not.
+“*I have been not needed since about the year of the long frost,*” he said, and stayed where he was, and one woman at the end of the table laughed and put her hand over her mouth and nobody else did anything at all.
 
 There were nine people in it. There are about nine in a room in this town when something is being read, and the number is not fixed and nobody keeps it, and it is generally between four and eleven.
 
 The first thing that happened was not about a name.
 
-A man of thirty-one had been in this town five days, and he had come into the room with a sheet squared for headings, which he has done in about nine rooms in two volumes. The woman of thirty-four took the sheet off him at the door and put it outside the door on the sill, and did not explain.
+A man of thirty-one had been in this town six days, and he had come into the room with a sheet squared for headings, which he has done in about nine rooms in two volumes. The woman of thirty-four took the sheet off him at the door and put it outside the door on the sill, and did not explain.
 
-About four people in that room saw the sheet go out and understood it, and about five did not.
+The sheet went out on the sill and every person in that room watched it go out, and not one of them asked her what it was for, and she did not offer.
 
 Then she shut the door.
 
@@ -48,7 +48,7 @@ She put her two hands flat on the table in front of her.
 
 “*So the answer is no, and it is no whether the page is good or bad or whether anybody in this room means well by me. I would like it written down that I said no before anybody argued with me and not after.*”
 
-Nobody argued with her. About nine people in that room were on the side of the page and about four were not, and one of those four was the man of eighty-one and one of them was a man of thirty-one who was not of this county and had been in it five days.
+Nobody argued with her. Of the nine in that room, about five were on the side of the page and about four were not, and one of the four was the man of eighty-one and one of them was a man of thirty-one who was not of this county and had been in it six days.
 
 “*Then the descent runs through a person who is not in it,*” said a man near the door, “*and a house with no name over it is a house that is not anybody’s on the day somebody wants it.*”
 
@@ -56,7 +56,15 @@ Nobody argued with her. About nine people in that room were on the side of the p
 
 ---
 
-And then it stood against the wall at the level of the sill of the window, about a foot above the floorboards, where a person standing can see it and a person sitting down cannot. There was not one of its kind in this county. The door was shut, and about nine people in that room were looking at it, and about four of them had seen one before.
+The leaf she entered it on was a loose one out of the vestry cupboard, and it went in at the back with a line at the foot of it, and the line carries her name, the day, and the four words that a person is descended from somebody on a leaf that has been struck. It is the first of the two lines that will stand at the foot of the entry, and the only reason there are two is that she asked for the day on it, out loud, before anybody else had said a word.
+
+“*Write that I said it before and not after,*” she said. “*Not that I said no. That I said it before.*”
+
+“*It goes in as you said it,*” Marda Rill said, “*and I have written my own hand under yours and not beside it, which is a thing I have done once in nineteen years and I am doing it twice this week.*”
+
+---
+
+And then it stood against the wall at the level of the sill of the window, about a foot above the floorboards, where a person standing can see it and a person sitting down cannot. There was not one of its kind in this county. The door was shut, and every person in that room was looking at it, and the man of eighty-one in the chair had seen two.
 
 **CLAIM: A person who is written back into a record is owed the thing the record carries, and a person who is written back into a record is also owed the burden of the record, and the second of those is the one nobody is designing for.**
 
@@ -68,13 +76,13 @@ And then it stood against the wall at the level of the sill of the window, about
 
 **CHOICE: Enter the claim on the back of the leaf as a claim only, with the holding, the fold and the ground named but not carried, and put it to the about sixty households that keep a beast on the fold, in a room, on a day, with the day on it; or enter the leaf as a descent, which restores the four columns together and cannot be undone by anybody afterwards, including the person who enters it.**
 
-He chose the claim, out loud, in about nine seconds. About four people in that room heard him choose it and about five did not hear him choose it at all. Nobody thanked him for it, and there is no minute in this county in which it appears that he wanted one.
+He chose the claim, out loud, in about nine seconds. Nobody thanked him for it, and there is no minute in this county in which it appears that he wanted one.
 
 The panel went when he chose it. It does not stay, and there is no form in this county that says it does.
 
 ---
 
-And about two minutes after that, before anybody had said a word about the panel or about what he had just done, he offered to be the instrument, which he has now offered four times in two volumes. About nine people in that room had heard him offer it once before, and about four of them had been in the room when he offered it the first time.
+And about two minutes after that, before anybody had said a word about the panel or about what he had just done, he offered to be the instrument, which he has now offered four times in two volumes. Two people in that room had been in a room when he offered it before.
 
 “*I will carry it,*” Ilyan Vester said. “*I will write the line. I will take it up to Aldwick with the return on the Wednesday, and I will stand in that office and ask the one question nobody in this county can ask, which is who ordered the page struck. And I will come back with the answer, or I will come back with the fact that there is no answer, and both of those are worth more than anything said in this room today.*”
 
@@ -100,9 +108,9 @@ She put her pen down flat, which she does.
 
 “*The reason is that a question you ask on your own behalf is a thing you can be asked about, and a question you ask for somebody else is a thing that has to be handed in. If you ask it for somebody else and it is not answered, then the person it was for never finds out that it was asked, and they will go on for the rest of their lives not knowing that anybody in this town ever thought to.*”
 
-About four people in that room had understood that, and about five had not. The man of eighty-one in the chair said that it was nearly four hundred years old and it was in a column of that book, and nobody asked him which one, and he said the third, and nobody asked him how he knew.
+The man of eighty-one in the chair said that it was nearly four hundred years old and it was in a column of that book, and nobody asked him which one, and he said the third, and nobody asked him how he knew.
 
-The refusal was correct. He understood it in the room, which was the difference between this and the fortieth day in another town, and about four people in that room watched him understand it, and he said so out loud, which had not happened in any of the four times before.
+The refusal was correct. He understood it in the room, which was the difference between this and the fortieth day in another town, and three people in that room watched him understand it, and he said so out loud, which had not happened in any of the four times before.
 
 “*That is right,*” he said. “*I understand it and it does me no good whatever, and I am going to have to go on understanding things that do me no good whatever, and I would like it noticed that I have noticed.*”
 

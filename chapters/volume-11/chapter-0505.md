@@ -1,14 +1,14 @@
 # Chapter 505: The Third Day Of The Ninety-Fourth Week, And A Thursday Which Is The Market Of Bramblefold, On Which About Two Hundred People Are In The Square And A Weaver Of Sixty-Two Stands Up And Says That A Name Is Not A Word And Has His Mother’s Holding In It, And A Recordwright Of Thirty-Four Reads Four Lines Of A Return Nine Miles Off That Do Not Say What The Household Was Asked Or By Whom Or When
 
-Third day of the ninety-fourth week. His two hundred and fifty-fifth morning. One hundred and five days after the settlement. The fever thirty-one weeks and five days. Fifty-nine days since the division. Five days since a page of that book was read out in a room with the door shut.
+Third day of the ninety-fourth week. His two hundred and fifty-fifth morning. One hundred and five days after the settlement. The fever thirty-one weeks and five days. Fifty-nine days since the division. Five days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 Bramblefold market is on a Thursday. It is about two hundred people, and it is not two thousand, and there is no cattle and no cloth and no iron. It is a market of provisions and seed and a great many eggs, and about nine stalls, and a wool bench, and a man who comes down from the downs once a quarter with about forty ewes.
 
 It filled the square between about the eighth hour and the tenth. The man who sweeps it swept the middle on the Wednesday night for a penny each, and swept it again at noon on the Thursday for nothing, out of the custom, and the second sweeping is not in any minute, and about nine people every Thursday do it.
 
-The man of thirty-one had been in this town since Monday night, and about nine people in that square had seen him, and a woman of about sixty-one had told him, in a porch, that questions in this town are asked in a room. He went into the market at about the half hour after the tenth and stood at the end of the wool bench.
+The man of thirty-one had been in this town since Monday night, and a woman of about sixty-one had told him, in a porch, that questions in this town are asked in a room. He went into the market at about the half hour after the tenth and stood at the end of the wool bench.
 
-A man of about fifty asked him whether he was the one at the meeting-house, and then, without waiting for the answer, told him that he would be at the sheep tomorrow. He was buying nothing, which is a thing nine men in a market square are doing at any moment.
+A man of about fifty asked him whether he was the one at the meeting-house, and then, without waiting for the answer, told him that he would be at the sheep tomorrow.
 
 “*Will I?*” said Ilyan Vester.
 
@@ -54,7 +54,7 @@ That is the whole of how it came out. There was no drumroll and nobody had told 
 
 He came about forty feet and put the linen on a stall and came up through the crowd. A man of about forty-four came with him and stayed six feet back. That man is Harl Wenlock, and he holds Lower Halfpenny, and he has held it twenty years, and his grandfather bought it off a family that was leaving.
 
-“*Say your name to her,*” said Odalie Fenn, “*and say it loud, because there are two hundred people here and eleven of them will be in that room on Saturday, and everything that is said in this square is going to be said again in that room by people who heard it here.*”
+“*Say your name to her,*” said Odalie Fenn, “*and say it loud, because there are two hundred people here and nine of them will be in that room on Saturday, and everything that is said in this square is going to be said again in that room by people who heard it here.*”
 
 Abel Tarn said his name. He said it the way a man says a thing he has said to a weaver’s guild and a clerk of a court and his own mother, not loudly.
 
@@ -66,9 +66,9 @@ He stopped there and the square did not stop with him.
 
 “*I have been in this square eleven times over forty years, and there is nobody on that page, and there is nobody in this town of two thousand four hundred people who can say my name is not in the book. There is nobody in this town who has read the book.*”
 
-The woman of sixty-one said that nine people could read the hand on the front of it.
+The woman of sixty-one said that four people could read the hand on the front of it.
 
-“*Let the nine read it,*” he said. “*I have not come to the square to argue with a woman about a hand. I have come because the woman in the porch said they would read it on Saturday, and I have been in this town fifty-one years, and I have never once been asked to be in that room, and I am not going to be asked twice.*”
+“*Let the four read it,*” he said. “*I have not come to the square to argue with a woman about a hand. I have come because the woman in the porch said they would read it on Saturday, and I have been in this town fifty-one years, and I have never once been asked to be in that room, and I am not going to be asked twice.*”
 
 ---
 
@@ -114,9 +114,35 @@ A man of about forty-four six feet back said his name.
 
 ---
 
-The other thing that happened on that Thursday was in a lane behind the pond, and it was four lines on a sheet of paper with a county seal on the top of it. It had come out of a book at Aldwick, which is nine miles off, in the hands of a man of about fifty-four of the county who came down on the Wednesday and went back on the Thursday and would not stay the night.
+And then the old man came.
 
-It is a return. It is dated, by a day and a year, in a hand nobody at Aldwick could now read. It is a hundred and forty-one years old, and it is four lines long, and the county keeps a book of returns and a book of orders, and the office makes a return and puts it in a book.
+He came down the lane on a stick at about the ninth hour and stopped at the end of the wool bench, and the square made about four feet of room for him and took it back again, which is the whole of what a market square does for anybody.
+
+He is Barnaby Rill. He kept the book before his daughter and he cannot read it now and says so, and he has come out on a Thursday for the first time in about nine years, and he did not come for the eggs.
+
+Nobody in that square had asked him anything. About two hundred of them heard the word *struck* and about nine of them heard the rest of it.
+
+“*You want to know what the question was,*” he said. “*I am eighty-one. I have never known, and there is nobody left in this county who was told.*”
+
+“*You were not there,*” said Abel Tarn.
+
+“*I was born sixty years after it was struck,*” said Barnaby Rill, “*which I will say again if it is the only thing I have.*”
+
+He put both hands on the end of the bench, and the linen on the stall beside it was the only thing near him that was not grey.
+
+“*What I was told, in a kitchen, by my father, is that it was done on a Tuesday, and that the people of Kiln Row were asked a question and gave an answer, and that the answer was the wrong one, and that I was not to ask which question.*”
+
+“*Your father may have been told that and been wrong,*” said a man of about fifty at the end of the bench.
+
+“*He may have been, and I have had sixty years to think about it and I have not, and I am not going to now.*” Barnaby Rill did not look at Abel Tarn. “*I have not once said out loud in this town what my father called that answer, and I am not going to do it in a market, because a thing a man repeats for sixty years stops being his opinion and starts being the town’s, and then one day somebody asks me whether I was there and I have to say no twice.*”
+
+A woman at a stall said that that was the most he had ever heard him say about it, and Barnaby Rill said that she was welcome, which was not a thank and was not taken for one. The square had gone back to the eggs by then.
+
+---
+
+The other thing that happened on that Thursday was in a lane behind the pond: four lines on a sheet with a county seal on it, out of a book at Aldwick, which is nine miles off, in the hands of a man of about fifty-four of the county who came down on the Wednesday and went back on the Thursday and would not stay the night.
+
+It is a return. It is dated, by a day and a year, in a hand nobody at Aldwick could now read, and it is a hundred and forty-one years old, and the county keeps a book of returns and a book of orders, and the office makes a return and puts it in a book.
 
 *That the household of Kiln Row in Bramblefold, being asked by this office in respect of the matter of the common above the town, gave answer that the said common was not used.*
 
@@ -138,7 +164,7 @@ He said that he was not here to defend it and not here to say it was wrong eithe
 
 Ilyan Vester asked who had ordered the leaf struck.
 
-The return does not say, said Simon Verge. The return says the line is struck. Who struck it, who ordered it struck, and on what day is not in the return, and the office of that county has one book of returns and one book of orders, and he had been in both this morning and the order was in neither.
+The return does not say, said Simon Verge. It says the line is struck. Who struck it, who ordered it struck, and on what day is not in it, and he had been in both books of that office this morning and the order was in neither.
 
 He put the sheet back inside his coat.
 
@@ -152,11 +178,9 @@ He put the sheet back inside his coat.
 
 And on the Thursday night, at about the ninth hour, in a room over a joiner’s shop at the bottom of the town where there are two looms and a smell of sizing, Abel Tarn said the other half of the whole of it, to a man of thirty-one who had come to sit in the corner and had not been asked in.
 
-“*You are from a town four days off where a man read a woman’s letter out in a square to about two hundred people. I heard about that before I came here. A woman in a barn at Kiln Row heard about it from her sister who was at that market and could not get home.*”
+“*You are from a town two days off where a man read a woman’s letter out in a square to about two hundred people. I heard about that before I came here. A woman in a barn at Kiln Row heard about it from her sister who was at that market and could not get home.*”
 
-He said yes. Then, when she said *then you know what that is*, he said that he knew what that was.
-
-“*It is a thing read out where about two hundred people can hear it and none of them can be asked about it afterwards.*”
+He said yes. Then he said that he knew what that was, and that it was a thing read out where about two hundred people could hear it and none of them could be asked about it afterwards.
 
 The looms were still.
 

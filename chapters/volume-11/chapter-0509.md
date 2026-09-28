@@ -1,6 +1,6 @@
-# Chapter 509: The Seventh And Last Day Of The Ninety-Fourth Week, And A Monday On Which The Frost Comes Down In The Lower Corner Of An Orchard And Takes About Four Weeks Of Fruit Off About Ninety Half-Size Trees, And A Boundary Stone Comes Up Out Of The Footing Of A Wall In Kiln Lane With A Date Cut Into The Top Of It That Is A Hundred And Forty-One Years Old And A Day Of A Week On It That Is A Tuesday, And A Man Of Thirty-One Asks Nine Men Where They Were And Is Told By A Man Of Thirty-Four That He Is Asking Nine Men To Be Found With
+# Chapter 509: The Seventh And Last Day Of The Ninety-Fourth Week, And A Monday On Which The Frost Comes Down In The Lower Corner Of An Orchard And Takes About Four Weeks Of Fruit Off About Ninety Half-Size Trees, And A Boundary Stone Comes Up Out Of The Footing Of A Wall In Kiln Lane With A Date Cut Into The Top Of It That Is A Hundred And Forty-One Years Old And A Day Of A Week On It That Is A Tuesday, And A Man Of Thirty-One Asks Nine Men Where They Were And Is Told By A Man Of Forty-Four That He Is Asking Nine Men To Be Found With
 
-Seventh and last day of the ninety-fourth week, and the morrow is the first day of the ninety-fifth. His two hundred and fifty-ninth morning. One hundred and nine days after the settlement. The fever thirty-two weeks and two days. Sixty-three days since the division. Nine days since a page of that book was read out in a room with the door shut.
+Seventh and last day of the ninety-fourth week, and the morrow is the first day of the ninety-fifth. His two hundred and fifty-ninth morning. One hundred and nine days after the settlement. The fever thirty-two weeks and two days. Sixty-three days since the division. Nine days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The frost came down in the night, and it was the first hard one of the year, and it was about as hard as they get: four fingers of ice standing in a saucer on the sill of the room over the smithy at about the fifth hour.
 
@@ -10,7 +10,7 @@ The lower corner of the orchard is a frost pocket. It is about a quarter of an a
 
 It is a fortnight later than the rest of the orchard, and about twice as good if it comes at all, and the trees in it are about half the size of the other about nine hundred, because they were planted about ninety years later and they are on about thirty feet of rows between about forty trees.
 
-It had fruit on it on the Sunday. A man of thirty-four had said so at the fourth hour on the Saturday in a market square. There is a canvas sack, a hook, and about four weeks left on the branch.
+It had fruit on it on the Sunday. A man of sixty-two had said so at the fourth hour on the Saturday in a market square, and had come down off the wall at the fifth hour to prove it. There is a canvas sack, a hook, and about four weeks left on the branch.
 
 At about the seventh hour a man of fifty came down Kiln Lane and stopped in the middle of it and stood there a while, and then a woman came, and then about nine people came out of about nine houses.
 
@@ -24,7 +24,7 @@ Not the common wall, which is four miles of it and had nine feet four put on it 
 
 It was built by a man who is dead about forty years and whose name is on a page in a book in a chancel. It had been leaning out on the lane side for about nine years, because a white wall has no frost resistance and a wet year gets into it.
 
-It came down at about the second hour, and it came down into the lane, and it made a noise that about four households heard and about nine did not, because about four of the nine were asleep and about five were up.
+It came down at about the second hour, and it came down into the lane, and it made a noise that four people heard and the rest of the lane did not, because most of the lane was asleep and the rest of it was not.
 
 “*There is your dog,*” somebody said, about four minutes later.
 
@@ -44,7 +44,7 @@ and under that, in a much smaller cut, in a different hand and much later, four 
 
 ---
 
-He had it out and in the sun on the wall base when the others came round, and about four of the nine looked at it and about five did not, and then Harl Wenlock came round with a barrow.
+He had it out and in the sun on the wall base when the others came round, and two of the nine looked at it and went on with what they were holding, and then Harl Wenlock came round with a barrow.
 
 He looked at it for about eleven seconds.
 
@@ -62,7 +62,7 @@ He turned it over.
 
 “*Because it was a Tuesday, and because they were two men and one of them was in a hurry,*” said Harl Wenlock, “*and a man in a hurry cuts the day of the week on a thing instead of the date. My father told me that story and I have told it four times in thirty-one years, and I have never had anything in my hand to point at.*”
 
-He put the stone down on the kerb and did not pick it up again, and about four people were looking at the four letters and a stroke, and about five were looking at Harl Wenlock and not at the stone.
+He put the stone down on the kerb and did not pick it up again, and four people were looking at the four letters and a stroke, and the rest of them were looking at Harl Wenlock and not at the stone.
 
 “*You have seen those four letters before,*” said a woman of about forty.
 
@@ -94,7 +94,7 @@ About four people in that lane had not thought of it that way.
 
 “*So it will be nine men in a lane remembering a Thursday. In about eleven years there will be a man of forty-five who was told that his father was on this lane at the second hour, and there will be no page, and that will be the whole of the record of it. It will be a worse record than a page, because everybody will know there was no page.*”
 
-The lane went quiet in a way that about nine people in it noticed and about four of the nine did not.
+The lane went quiet, and the quiet in it was the sound of about nine people deciding that they were not going to say anything.
 
 “*How is a man found here?*” said Ilyan Vester.
 
@@ -108,7 +108,7 @@ The lane went quiet in a way that about nine people in it noticed and about four
 
 Barnaby Rill came down the lane at about the half hour after the nine.
 
-He came down on a stick and he came slowly, and about nine people watched him do it, and about four of them got out of the way in the lane so that he could get past, which is a thing a town does and nobody writes down.
+He came down on a stick and he came slowly, and the people nearest him got out of the way in the lane so that he could get past, which is a thing a town does and nobody writes down.
 
 He got to the kerb where the stone was lying and stopped, and did not go down into the lane, and did not pick it up.
 
@@ -124,7 +124,7 @@ He put his hand out flat above the stone without touching it, the way a man does
 
 “*That is a better record than any of the four columns, and it is the only one of the five in this town that anybody can be checked against. A day of a week comes round, and a Tuesday comes round, and somebody will be able to look at a day in four years and say what day of the week it was, and whether the wall was standing.*”
 
-He did not go down into the lane. About four people in that lane understood that he was not going to and about nine did not.
+He did not go down into the lane, and the people nearest him stepped back about a foot to give him the kerb.
 
 “*The four letters,*” said the woman of about forty, who had not gone away. “*Whose are they?*”
 
@@ -136,8 +136,10 @@ They got nine feet of wall up again by about the second hour of the afternoon, i
 
 The stone with the word on it was put in a shelf inside the wall by a man of forty-four with his own hand, and nobody asked where, and about four people watched him choose the spot.
 
-The week’s sheet went up on the end wall of the smithy on the Sunday night with a dead man of about eighty-four in the second column, because there was nowhere else to write him. The reading of the book in the chancel did not happen on the Saturday, because the only person who reads it was up on a bank from the seventh hour. It will be done on the next Saturday with the door open, and about four people are expected, and the leaf that is to be read out is the one after that.
+About a hundred and ninety people will be in that square on Thursday, and the frost has taken the whole of a fortnight off a quarter of an acre that a man of sixty-two works for nothing, and there is no column in that book or in any other instrument in this county for what a week of weather takes off a man who is owed nothing for what he does to it.
 
-About a hundred and ninety of the people who are in that square on a Thursday had, by the end of that Monday, heard the word *struck*. About nine of them had heard the word *Tuesday*, and about four had heard four letters and a stroke. There is no form in the county of Aldwick that says what a person may be asked about, and there is no form in the county of Aldwick that says what a person may not.
+The reading of the book in the chancel did not happen on the Saturday, because the only person who reads it was up on a bank from the seventh hour. It will be done on the next Saturday with the door open, and the leaf that is to be read out is that same Saturday and not the one after it, and about nine people will be in the room and about a hundred and ninety in the square.
 
-The fever was thirty-two weeks and two days old. About nine men were in a lane, and about four of them understood that a day of a week is the only record in that town which anybody can be checked against, and a stone about nine inches by five was in a shelf inside a wall at the bottom of Kiln Lane with the word *Tuesday* cut into the top of it in letters an inch and a half deep.
+A hundred and ninety of the people who stand in that square on a Thursday had, by the end of that Monday, heard the word *struck*. Nine of them had heard the word *Tuesday*. Four of them had heard four letters and a stroke. There is no form in the county of Aldwick that says what a person may be asked about, and there is no form in the county of Aldwick that says what a person may not.
+
+The fever was thirty-two weeks and two days old. About nine men were in a lane, and the oldest of them said out loud that a day of a week is the only record in that town which anybody can be checked against, and a stone about nine inches by five was in a shelf inside a wall at the bottom of Kiln Lane with the word *Tuesday* cut into the top of it in letters an inch and a half deep.

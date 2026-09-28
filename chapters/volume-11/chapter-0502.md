@@ -1,6 +1,6 @@
 # Chapter 502: The Second Day Of A Two-Day Road, And A Monday On Which A Cart Carries A Man Of Thirty-One Twenty-One Miles And Stops Four Miles Short Of Where He Is Going, And A Boy Of About Nine Tells Him At A Toll Bar That Took A Penny At Each Of Four Gates Ninety Years Back That He Is Not The First Stranger Of This Year, And Nobody In That Town Can Say Which Four The Four Gates Were
 
-Seventh day of the ninety-third week, and the last day of it. His two hundred and fifty-second morning. One hundred and two days after the settlement. The fever thirty-one weeks and two days. Fifty-six days since the division. Two days since a page of the book at Bramblefold was read out in a room with the door shut.
+Seventh day of the ninety-third week, and the last day of it. His two hundred and fifty-second morning. One hundred and two days after the settlement. The fever thirty-one weeks and two days. Fifty-six days since the division. Two days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
 The cart left Coldcombe at the seventh hour with eleven sacks of lime on it and one passenger. The carter was a man of about sixty who did not ask the passenger anything and put him on the tail-board because the shafts were full, and the tail-board of a lime cart is nine feet above a chalk road, and the going over the downs at nine feet is a thing the body finds out about.
 
@@ -72,7 +72,7 @@ The smell came up the lane, and it was not the smell of a town. It was chalk bur
 
 It was burning its ninth day out of ten. The woman of thirty-four had said so at Coldcombe without being asked and had been right, and there is a kind of question a person can be answered on in a market town by asking it of a stranger, and it is worth asking, and the answer to it on this occasion was a whole country that burnt its own ground for a living.
 
-He came into Bramblefold down past the smithy and the saddler’s shop and along a street about eleven houses long with a pump at the top of it. Nobody in that street looked at him. About four people looked at him, and a woman carrying two pails stopped and put one down.
+He came into Bramblefold down past the smithy and the saddler’s shop and along a street about eleven houses long with a pump at the top of it. Nobody in that street looked at him, and one woman carrying two pails stopped and put one of them down.
 
 “*You will be at the smith’s,*” she said, and picked the pail up again, and that was the whole of the welcome Bramblefold had for him, and it was correct.
 
