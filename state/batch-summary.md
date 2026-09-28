@@ -35,7 +35,7 @@
 
 **BOTH CALIBRATIONS REPRODUCED TO THE DIGIT BEFORE ANY CHAPTER EXISTED, AND THE BAND FIGURES ARE MEASURED, NOT INHERITED. THE FOUR DEAD FIGURES WERE NOT RUN AND NONE APPEARS IN ANY FILE AS A RESULT OF THIS PHASE.**
 
-**THE CHECK A PER-BAND RUN CANNOT DO WAS DONE ANYWAY, BECAUSE VOLUME 08 HAS A REPETITION ACROSS A BAND BOUNDARY AT `372:31` AND `382:47`. EVERY LINE OVER FORTY CHARACTERS IN THE THREE HUNDRED AND NINETY-EIGHT EARLIER CHAPTER FILES WAS COMPARED AGAINST EVERY SUCH LINE IN THE TEN FILES OF THIS BAND, IN BOTH DIRECTIONS. **THE RESULT IS ZERO AND ZERO.** IT CAUGHT ONE REAL DEFECT IN DRAFTING, A LINE AT `407` THAT DUPLICATED `399` BYTE FOR BYTE, AND IT WAS CHANGED.**
+**THE CHECK A PER-BAND RUN CANNOT DO WAS DONE ANYWAY, BECAUSE VOLUME 08 HAS A REPETITION ACROSS A BAND BOUNDARY AT `372:31` AND `382:47`. EVERY LINE OVER FORTY CHARACTERS IN THE FOUR HUNDRED EARLIER CHAPTER FILES WAS COMPARED AGAINST EVERY SUCH LINE IN THE TEN FILES OF THIS BAND, IN BOTH DIRECTIONS. **THE RESULT IS ZERO AND ZERO.** IT CAUGHT ONE REAL DEFECT IN DRAFTING, A LINE AT `407` THAT DUPLICATED `399` BYTE FOR BYTE, AND IT WAS CHANGED.**
 
 ### 3. THE DAY-PHRASE AUDIT, AND THE ONE INHERITED COUNT THAT IS RETIRED
 
@@ -46,7 +46,7 @@
 
 ### 4. THE REST OF THE INSTRUMENTS, MEASURED OVER THE TEN CHAPTER FILES
 
-**`Remedy Drafter` ONE, in an italic narration paragraph, in nobody's mouth, at `410:81`, awarding nothing, saying in its own words that it is a piece of work and not a rank and is not a step up to anything — AS AT `391:101`. `**bold**` ZERO OUTSIDE `406:85`–`406:88`. THE PANEL REGISTER WAS DECLARED AT `state/current.md` §0 BEFORE THE PANEL WAS SPENT AND IS AT MOST ONE PANEL PER TEN CHAPTERS; ONE WAS SPENT AND IT IS THE ONLY ONE. DIGITS OUTSIDE THE TEN HEADINGS ZERO. NUMERIC HEDGE, PATTERN DECLARED AS `\babout (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|hundred|thirty|forty|fifty|sixty|twenty|thirteen|nineteen|eighteen|seventeen|sixteen|fifteen|fourteen)\b`, **FIFTEEN IN 23,459 WORDS, ONE IN 1,564**, AGAINST Volume 08's 48 IN 112,999, ONE IN 2,354, VOLUME 07's 552 IN 111,227, ONE IN 201, AND VOLUME 08'S OWN LAST BAND'S 3 IN 23,803, ONE IN 7,934. THE FIFTEEN ARE A GENUINE RISE OF RATE AND THE REASON IS GIVEN AND IS NOT AN APOLOGY: A QUANTITY IN A GOVERNMENT IS NOT LESS OF A HEDGE THAN A QUANTITY IN A COUNTY, AND A CLERK IN THIS BAND READS A NUMBER OFF A SHEET FOUR HUNDRED TIMES A DAY. `it took` 3. UNDECLARED CLOCK: ONE, INSIDE THE DECLARED HOUR VOCABULARY, AND NO `o'clock` AT ALL. META-LANGUAGE ZERO. `cover` ZERO AS A SUBSTRING, WHICH IS BETTER THAN VOLUME 08'S TWO. `conspirac*`, `corrupt`, `right of refusal`, `arbiter`, `first witness`, `system`, `panel`, `render*`, `vault`, `cave`, `ruin`, `temple`, `battlefield`, `relic`, `treasure`, `seam`, `stage`, `anchor`, `healer`, `stone`, `grain year`, `March`, `thank you`, `cannot read`, `Remedy Drafter` in any mouth — ALL ZERO. UPPERCASE `CORRECT` ZERO. QUOTES AND ASTERISKS BALANCE IN ALL TEN CHAPTERS. NO WEEKDAY NAME AND NO MONTH-NAME. THE REGION NAME *MARCH* IS AT ZERO AND NOTHING IN THIS BAND IS SET FOUR HUNDRED MILES FROM THE CITY HE IS IN.**
+**`Remedy Drafter` ONE, in an italic narration paragraph, in nobody's mouth, at `410:81`, awarding nothing, saying in its own words that it is a piece of work and not a rank and is not a step up to anything — AS AT `391:101`. `**bold**` ZERO OUTSIDE `406:85`–`406:88`. THE PANEL REGISTER WAS DECLARED AT `state/current.md` §0 BEFORE THE PANEL WAS SPENT AND IS AT MOST ONE PANEL PER TEN CHAPTERS; ONE WAS SPENT AND IT IS THE ONLY ONE. DIGITS OUTSIDE THE TEN HEADINGS ZERO. NUMERIC HEDGE, PATTERN DECLARED AS `\babout (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|hundred|thirty|forty|fifty|sixty|twenty|thirteen|nineteen|eighteen|seventeen|sixteen|fifteen|fourteen)\b`, **FIFTEEN IN 23,440 WORDS, ONE IN 1,563**, AGAINST Volume 08's 48 IN 112,999, ONE IN 2,354, VOLUME 07's 552 IN 111,227, ONE IN 201, AND VOLUME 08'S OWN LAST BAND'S 3 IN 23,803, ONE IN 7,934. THE FIFTEEN ARE A GENUINE RISE OF RATE AND THE REASON IS GIVEN AND IS NOT AN APOLOGY: A QUANTITY IN A GOVERNMENT IS NOT LESS OF A HEDGE THAN A QUANTITY IN A COUNTY, AND A CLERK IN THIS BAND READS A NUMBER OFF A SHEET FOUR HUNDRED TIMES A DAY. `it took` 3. UNDECLARED CLOCK: ONE, INSIDE THE DECLARED HOUR VOCABULARY, AND NO `o'clock` AT ALL. META-LANGUAGE ZERO. `cover` ZERO AS A SUBSTRING, WHICH IS BETTER THAN VOLUME 08'S TWO. `conspirac*`, `corrupt`, `right of refusal`, `arbiter`, `first witness`, `system`, `panel`, `render*`, `vault`, `cave`, `ruin`, `temple`, `battlefield`, `relic`, `treasure`, `seam`, `stage`, `anchor`, `healer`, `stone`, `grain year`, `March`, `thank you`, `cannot read`, `Remedy Drafter` in any mouth — ALL ZERO. UPPERCASE `CORRECT` ZERO. QUOTES AND ASTERISKS BALANCE IN ALL TEN CHAPTERS. NO WEEKDAY NAME AND NO MONTH-NAME. THE REGION NAME *MARCH* IS AT ZERO AND NOTHING IN THIS BAND IS SET FOUR HUNDRED MILES FROM THE CITY HE IS IN.**
 
 **THE PRODUCED-PERSON COUNT IS ZERO**, and the test that holds it there is in the prose: a roadkeeper was at that crossing before the stranger came into the ward, a keeper was in her roll-room, a plate-cutter was in his yard, a clerk was on that floor nine years before the first morning a man with a bad leg came down off a road into it.
 
@@ -83,12 +83,12 @@
 | 403 | 12,304 | 2,559 | 278 | 153 | 3 | 120 | 0 |
 | 404 | 10,649 | 2,227 | 279 | 154 | 4 | 121 | 0 |
 | 405 | 10,478 | 2,220 | 280 | 155 | 5 | 122 | 0 |
-| 406 | 10,938 | 2,331 | 281 | 156 | 6 | 123 | 8 |
+| 406 | 10,938 | 2,312 | 281 | 156 | 6 | 123 | 8 |
 | 407 | 9,645 | 2,048 | 282 | 157 | 7 | 124 | 0 |
 | 408 | 9,575 | 2,046 | 283 | 158 | 8 | 125 | 0 |
 | 409 | 10,741 | 2,288 | 284 | 159 | 9 | 126 | 0 |
 | 410 | 11,933 | 2,535 | 285 | 160 | 10 | 127 | 0 |
-| **TOTAL** | **110,939** | **23,459** | | | | | **8** |
+| **TOTAL** | **110,939** | **23,440** | | | | | **8** |
 
 **THE WORD-COUNT METHOD IS `re.findall(r"[A-Za-z’'\\-]+", text)`, BECAUSE THAT IS WHAT REPRODUCES THE EXISTING RECORD TO THE WORD, AND IT WAS USED ON THE CHAPTER FILES AND NOT ON A LIST.**
 
