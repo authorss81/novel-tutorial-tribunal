@@ -1,16 +1,16 @@
 # Volume 09 — The Regent's Exception (Chapters 401–450)
 
-**Status.** Chapters 401–440 are canon (batches 0001–0004). Chapters 441–450 are planned here and unwritten.
+**Status. DELIVERED AND CLOSED. Chapters 401–450 are canon (batches 0001–0005), and this volume is finished. The cards below were written to and no card was moved. **Any future planner for Volume 10 should replace this status line with one for that volume.**
 **Authority order.** `outline/series.md:197` outranks `outline/ending.md`, which outranks this file, which outranks every state file and every prompt.
 **The volume's five lines, fixed at the outline stage and not to be moved by a band:**
 
 - **Central pressure.** Regent Iven Marrow offers Ilyan authority, wealth, and a return route to Earth if he backs a centralized continuity government.
 - **Starting state.** Ilyan can draft remedies but cannot safely oppose a government that controls the roads.
-- **Midpoint.** The return route is real, and Ilyan's test of it costs a living co-witness her anchor. **SPENT, in chapters 421–430.**
+- **Midpoint.** The return route is real, and Ilyan's test of it costs a living co-witness her anchor. **SPENT, in chapters 421–430. The route is named in writing in the exception at 441 and is declined at 446.**
 - **Power progression.** Remedy Drafter becomes Co-Witness. Ilyan shares power he cannot revoke. **SPENT, in chapter 427.**
-- **Climax and resolution.** In a succession coup Ilyan refuses Marrow's authority and uses a draft to let districts choose their own representatives. Marrow is defeated, and a continuity declaration signed by the First Witness remains in force. **NOT SPENT. Chapters 441–450.**
+- **Climax and resolution.** In a succession coup Ilyan refuses Marrow's authority and uses a draft to let districts choose their own representatives. Marrow is defeated, and a continuity declaration signed by the First Witness remains in force. **SPENT, chapters 441–450: the office is not held, the bar is not taken down, twenty-two of thirty-one wards have named persons, and the declaration governs everybody in a register alive or not.**
 
-**No new final enemy may be introduced.** Marrow is right about the roads and wrong about the remedy, and he is not a villain. The First Witness is not named in this volume and is not a person who speaks, answers, or is appealed to here.
+**No new final enemy may be introduced.** Marrow is right about the roads and wrong about the remedy, and he is not a villain. **AS DELIVERED: Marrow is named aloud and speaks at `446` and `448` and is right about the roads in both. The First Witness is named in the fourth batch as a signature on a declaration of continuity, is declared by that declaration to be not a person, and is never addressed, asked, or answered.**
 
 ---
 
