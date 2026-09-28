@@ -15,10 +15,10 @@
 4. **The roll back, opened, uncertifiable** — knot reversed, folds across; keeper cannot say whether right (`431`). Copy fair in press. Correct wage £2 4s, declined in writing (`436`).
 5. **Ward declined as a ward** — *Declined. The ward of this city*, no name; a ward cannot be asked anything (`432`). 900 doors, no persons.
 6. **Sef, sixteen, sent for once** on headless wax/seal sheet; answered on his terms; gave four doorways in order, putting Ferrow at one (`437`). Not on/off any list; not a power or rank.
-7. **Co-witness line** — neither can take the other off; office holds mud, day, eight, price *because a register ought to hold it*; Ilyan can no longer call it a thing he did in a room (`434`).
-8. **Ilyan's unsent return** — his name, four margin lines, a number, dated, in his coat; told to thirty people; number wanted and withheld (`438`).
+7. **Co-witness line** — neither can take the other off; office holds mud, day, eight, price *because a register ought to hold it*; Ilyan can no longer call it a thing he did in a room (`434`). The day is the second day of the eighty-third week.
+8. **Ilyan's unsent return** — his name, four margin lines, a number, **dated the morning he wrote it**, in his coat; told to thirty people; number wanted and withheld (`438:31`).
 9. **Bell line** — eleven pence, eleven names, one without penny (Bess Low, declined), one penny without name; difference one (`439`). Bell/porch/corridor unchanged.
-10. **Writ of succession in the tray** — four lines, all correct, third passing roads/keeping/bar/taking-down with the office; nobody in ninety thousand can be given it (`440`). Wray Cope, 34, person appointed, in this city with a book.
+10. **Writ of succession in the tray** — four lines, all correct, third passing roads/keeping/bar/taking-down with the office; nobody in ninety thousand can be given it (`440`). Wray Cope, 34, person appointed, in this city with a book; the dispute was given to him on the fifth day of the eighty-second week.
 11. **Office always correct** — nine replies in five weeks; bar to remain up; succession unspent (no death named, no instrument lodged, no exception offered, Marrow unnamed in the ten).
 
 ## 2. Not opened here, still held

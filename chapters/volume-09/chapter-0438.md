@@ -2,7 +2,7 @@
 
 He had a room over a saddler's at the middle of the nine bridges, and there was a bed and a table and a chair and a cup of tea that had gone cold in it about an hour before he sat down, and it was the sixth day of the eighty-fourth week. Shelf day three hundred and thirteen, his hundred and eighty-eighth morning, thirty-eight days after the settlement, the fever twenty-two weeks and one day, the rail down twenty-eight days.
 
-He slept until the fourth hour and then he could not get back to it, and the leg was on the chair and the ear was doing what it does on a wet morning, and he had a sheet of the same good paper the press sells at a penny and he had bought four of them on the last day of last month for four pence of a wage that does not exist in this country.
+He slept until the fourth hour and then he could not get back to it, and the leg was on the chair and the ear was doing what it does on a wet morning, and he had a sheet of the same good paper the press sells at a penny and he had bought four of them a fortnight ago for four pence of a wage that does not exist in this country.
 
 The head of the form is printed, and he copied it fair by hand because he could not afford to have a clerk do it: *Persons and things reported to the office in respect of the Low Road, this city, and the bar lately upon it.*
 
@@ -28,7 +28,7 @@ Then he sat with it for about ten minutes and did not tear it up.
 
 The fourth line was why he was not going to send it, and he wrote that one last, and it is the only one of the four that is about this city.
 
-He dated the sheet. The fourth day of the eighty-third week was the day it would have gone up in, and the day after that was the day it would actually have gone up in. He wrote the second of those.
+He dated the sheet. It would have gone up in the tray at the second hour that morning, and the day at the top of it was that morning, and he wrote the day in the hand he had written the other three lines in.
 
 Then he folded it in four and put it in the inside pocket of his coat, where a man who has been in this city thirty-eight days and has a name in a column four hundred miles off keeps the only paper he has that nobody has asked for.
 
@@ -38,7 +38,7 @@ About thirty people were in the long room at the foot of the hill at the change 
 
 Nine hundred doors in a ward had heard a man refuse a number on a flat, and about nine hundred had heard a woman agree to be a box.
 
-Ilyan got up off the window seat. He had a bad leg and a cold in his ear and a folded sheet in his coat, and he had been in this room nineteen times in a month, and he had asked it for a second half nine times, and he had been given one nine times.
+Ilyan got up off the window seat. He had a bad leg and a cold in his ear and a folded sheet in his coat, and he had been in this room nineteen times in three weeks, and he had asked it for a second half nine times, and he had been given one nine times.
 
 “*I want to say a thing and then I am going to sit down,*” he said, “*and I am going to say it once, and I am not going to say it twice, and I would like it noticed that I have said that about myself and not about the office.*”
 
@@ -66,7 +66,7 @@ The room changed.
 
 “*No,*” said Ilyan, “*and I said I was not going to say it twice and I have not, and that is twice I have said the word and it is going to stay at twice.*”
 
-“*Why,*” said a voice near the door that he did not know, and it was a fair question and about four people in the room agreed with it out loud, and Ilyan felt the whole of the room turn over onto his side of it in under a second, the way a room does, and he had felt a room do that three times in a month in this city and had never once been on this side of it.
+“*Why,*” said a voice near the door that he did not know, and it was a fair question and about four people in the room agreed with it out loud, and Ilyan felt the whole of the room turn over onto his side of it in under a second, the way a room does, and he had felt a room do that three times in five weeks in this city and had never once been on this side of it.
 
 He sat down.
 
@@ -76,7 +76,7 @@ He sat down with a folded sheet in his coat that had a number in the margin of i
 
 Renn Calloway was at the back, against the wall, with his lamp out in his hand, because he had walked a mile and a half to be in a room and had not been sent for.
 
-He did not ask for the number. He had asked for the number of doors on the Low Road three times in four days in the previous month and had been refused three times, and he had said on a step on the second day of the month that a roadkeeper says what he sees and not what it means, and he said now, once, in a voice the room could hear:
+He did not ask for the number. He had asked for the number of doors on the Low Road three times in four days and had been refused three times, and he had said in a hut on the fifth day of the seventy-ninth week that a roadkeeper says what he sees and not what it means, and he said now, once, in a voice the room could hear:
 
 “*I am not going to ask you for it.*”
 
@@ -106,7 +106,7 @@ Nobody in that room had an answer and about nine people said so out loud, and Sk
 
 The sheet was still in his coat at the last of the light.
 
-“*Say the last of it,*” said Skell, “*because I have said it every time this month and I am not going to stop now, and the clerk is a man who has been in this room every day and I would like it written down by somebody who has heard the rest of them.*”
+“*Say the last of it,*” said Skell, “*because I have said it every time for five weeks and I am not going to stop now, and the clerk is a man who has been in this room every day and I would like it written down by somebody who has heard the rest of them.*”
 
 Ferrow had the pencil out and had not looked down at it.
 

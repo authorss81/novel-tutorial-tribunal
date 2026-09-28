@@ -4,7 +4,7 @@ First day of the eighty-fifth week. Shelf day three hundred and fifteen, his hun
 
 A sheet came down in the tray at the second hour with wax on it and a seal on it, and the head of it was printed, and there were four lines under the head.
 
-About thirty people were in the long room. They had been in it every day for five weeks and on forty of those days they had got up off a wall and stood and then sat down again, and a man of the seat was still in the city because the dispute had been given to him and was not closed.
+About thirty people were in the long room. They had been in it every day for forty days, and on every one of those days they had got up off a wall and stood and then sat down again, and a man of the seat was still in the city because the dispute had been given to him and was not closed.
 
 “*Say the head,*” said Skell.
 
@@ -38,7 +38,7 @@ Nobody in that room could say what a writ of succession was.
 
 They gave him five. A man at the back said it was a paper about a man who was ill. A woman near the door said it was a paper about a house. Skell said he did not know and would not guess. Fenna Rusk said it was a list.
 
-Then Renn Calloway said it from the wall, where he had been standing since the second hour because there is no form in this county that says a man may be sent for, and there was not one at the second hour of the first day of the month, and there has been one ever since a sheet with no head on it came down in the tray on Saturday.
+Then Renn Calloway said it from the wall, where he had been standing since the second hour because there is no form in this county that says a man may be sent for, and there was not one at the second hour on Friday, and there has been one ever since a sheet with no head on it came down in the tray on Saturday.
 
 “*A writ of succession is a piece of paper that says who gets a thing when a man stops holding it,*” he said. “*I have kept a road for twenty-nine years and I have watched two men stop holding it, and both times a piece of paper came down inside a week and said who had it now, and neither time the paper said anything about the road, because the road was not the thing. The thing was a chair in a room four hundred miles off, and the road went with the chair because the man who held the chair had said it would.*”
 
@@ -52,7 +52,7 @@ Then Renn Calloway said it from the wall, where he had been standing since the s
 
 He shifted his weight off the bad leg.
 
-“*And I have been arguing in this room for five weeks about four hurdles of ash and a chain and a plate, and I sent the argument up a hill myself on a piece of paper on the third day of the eighty-second week, and it has gone down four times and every one of the four answers has been correct, and not one of the four has said whose the bar is.*”
+“*And I have been arguing in this room for five weeks about four hurdles of ash and a chain and a plate, and I sent the argument up a hill myself on a piece of paper on the fifth day of the eighty-second week, and it has gone down four times and every one of the four answers has been correct, and not one of the four has said whose the bar is.*”
 
 “*They have all mentioned the bar,*” Ilyan said.
 
@@ -74,7 +74,7 @@ Skell put his hands flat on the table.
 
 “*And the dispute this city sent up the hill in the eighty-second week is not a dispute about a bar. It never was. It is a dispute about who holds a road, and this city sent it to a register, and the register gave it to a person appointed, and that person is standing in this room with a book.*”
 
-Nobody in the room had been in the room when the dispute went up. About nine of them had been in this room on the third day of the eighty-second week, when a man of about thirty-eight set a case on this table and said he was going anyway and was not asking anybody to stop him.
+Nobody in the room had been in the room when the dispute went up. About nine of them had been in this room on the fifth day of the eighty-second week, when a man of about thirty-eight set a case on this table and said he was going anyway and was not asking anybody to stop him.
 
 ---
 
@@ -86,7 +86,7 @@ The man of the seat put his pen down on the table.
 
 “*Then say the half of it that you have got to do with,*” Ilyan said.
 
-“*The half of it I have got to do with is the fifth clause of the sheet of the fifth day of this month, which is correct, and which says that a person not of this city cannot be entered in a register of this city and cannot be struck out of one.*”
+“*The half of it I have got to do with is the fifth clause of the sheet of the fifth day of the eighty-third week, which is correct, and which says that a person not of this city cannot be entered in a register of this city and cannot be struck out of one.*”
 
 He turned the sheet round so that the seal was facing the room.
 
@@ -98,7 +98,7 @@ He turned the sheet round so that the seal was facing the room.
 
 “*Say the working on that,*” said Ilyan, because that is what he does to a room.
 
-“*I am not going to,*” said Cope. “*You have asked me for the working twice this month, in a corridor, about a division and about a door, and both times I gave you one, and both times I was of this city and this time I am not.*”
+“*I am not going to,*” said Cope. “*You have asked me for the working twice, in a corridor, about a division and about a door, and both times I gave you one, and both times I was of this city and this time I am not.*”
 
 “*Say why.*”
 
@@ -122,7 +122,7 @@ Ilyan had said what he thought the office was doing, and he said it at about the
 
 “*Then it is not a thing you can say in a room in this city and call a finding, because a finding about an office that is not yours is an opinion, and an opinion said in a room of thirty people is a thing thirty people carry out of the door.*”
 
-“*And it is a thing a man of the seat can put on a sheet,*” said Skell, “*and we had a sheet on Saturday with no head on it at all, and the name of a boy of sixteen at the foot of it, and a seal on it, and the office has been putting names in books from roads since the second day of this month.*”
+“*And it is a thing a man of the seat can put on a sheet,*” said Skell, “*and we had a sheet on Saturday with no head on it at all, and the name of a boy of sixteen at the foot of it, and a seal on it, and the office has been putting names in books from roads since the second day of the eighty-third week.*”
 
 Cope wrote for about a minute, and then he read it out.
 
@@ -150,7 +150,7 @@ Ilyan put his hand off the table.
 
 “*Say them.*”
 
-“*The first one is what you said in the mud on the south side of that road on the second day of this month, with eight of us standing in it and a man of twenty-nine writing.*” He said it slowly. “*It is for the road. And the office can bar the north side of it as often as it likes and neither of them will be behind the hurdles.*”
+“*The first one is what you said in the mud on the south side of that road on the second day of the eighty-third week, with eight of us standing in it and a man of twenty-nine writing.*” He said it slowly. “*It is for the road. And the office can bar the north side of it as often as it likes and neither of them will be behind the hurdles.*”
 
 He waited until the room had it.
 
@@ -186,7 +186,7 @@ Now he was asking a man of the seat to leave a sentence out of a book.
 
 “*Say why,*” said Cope.
 
-“*Because I have been asking rooms for the writing down of everything since the first day of this month. I have told nine people in this room that a thing written down is a thing somebody can be asked about, and I have said it in four rooms and in a street. I have been right every time. It has never once got anybody out of a room.*”
+“*Because I have been asking rooms for the writing down of everything since the first day of the eighty-third week. I have told nine people in this room that a thing written down is a thing somebody can be asked about, and I have said it in four rooms and in a street. I have been right every time. It has never once got anybody out of a room.*”
 
 “*Say the rest of it,*” said Skell.
 

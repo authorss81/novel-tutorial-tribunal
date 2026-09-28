@@ -66,11 +66,11 @@ He did not tell anybody, then or afterwards, and nobody asked him.
 
 “*Say the price of that in your own mouth,*” said Calloway, from the end of the row, with his hand on his bad leg. “*Out loud, and here, and before either of us moves, and then go and do whatever you are going to do.*”
 
-“*The price is that a person of this place in a line is asked about everything that goes past the line, and it is asked by an office that does not check a number, and it is asked for as long as there is a road and a form. And I cannot name one person who could stop that, and I have said in five rooms this month that I cannot name one, and I am not going to stop saying it now.*”
+“*The price is that a person of this place in a line is asked about everything that goes past the line, and it is asked by an office that does not check a number, and it is asked for as long as there is a road and a form. And I cannot name one person who could stop that, and I have said in five rooms that I cannot name one, and I am not going to stop saying it now.*”
 
 “*Go on,*” said Skell.
 
-“*And the second half of the price, which is mine. She has said out loud in three rooms this month that she cannot say no, and every one of those rooms believed her, and if I go to her now with a sentence she can repeat, then four of those rooms will be right about her in the only way that matters, and she will be doing what a person with a pen tells her to do at the hour a person with a pen is in the room.*”
+“*And the second half of the price, which is mine. She has said out loud in three rooms that she cannot say no, and every one of those rooms believed her, and if I go to her now with a sentence she can repeat, then four of those rooms will be right about her in the only way that matters, and she will be doing what a person with a pen tells her to do at the hour a person with a pen is in the room.*”
 
 Calloway looked at him for a while.
 
@@ -90,7 +90,7 @@ And Hessa Marl stood at the fourth door up with her slate under her arm and list
 
 “*Say the last of it,*” she said.
 
-“*You do not have to take it,*” Ilyan said. “*And you can say no in whatever words you want, and if you say no I will write it down and Ferrow will copy it fair and it will go up a hill and it will be a line with your no in it, and you will have said no and it will be written down, and that is what I have wanted for a person in this city for a month.*”
+“*You do not have to take it,*” Ilyan said. “*And you can say no in whatever words you want, and if you say no I will write it down and Ferrow will copy it fair and it will go up a hill and it will be a line with your no in it, and you will have said no and it will be written down, and that is what I have wanted for a person in this city for five weeks.*”
 
 “*Say the rest of that.*”
 
@@ -106,7 +106,7 @@ The row waited. About nine people were in it and there was nowhere in it for her
 
 “*I am asking you to refuse it and I have said that I want you to refuse it, and I said it out loud on the row before I came down here, so that it is on a record that is not in a book, and Skell heard it and Calloway heard it, and that is the price of it, and it did not stop me asking you.*”
 
-“*You have said the price out loud three times in a month,*” she said. “*On the second day of this month in four inches of mud. And on Friday to a room of about thirty people. And now on this row.*”
+“*You have said the price out loud three times in eight days,*” she said. “*On the second day of the eighty-third week in four inches of mud. And on Friday to a room of about thirty people. And now on this row.*”
 
 “*Yes.*”
 

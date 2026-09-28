@@ -50,7 +50,7 @@ Then he read the fifth.
 
 He stopped, and then went on, because he had decided to.
 
-“*And there is a name in the fifth line. It is written in a fair hand and it is not the office's hand. It is the name of a man of forty-six who walked out of this city on his own two legs on the second day of this month, having refused the charge of the office, and it is the first name that this office has entered against a road in this city without a paper about the person having been carried into a building by one of us in the ordinary way.*”
+“*And there is a name in the fifth line. It is written in a fair hand and it is not the office's hand. It is the name of a man of forty-six who walked out of this city on his own two legs on the fourth day of the eighty-second week, having refused the charge of the office, and it is the first name that this office has entered against a road in this city without a paper about the person having been carried into a building by one of us in the ordinary way.*”
 
 “*Say the last of that again,*” said Ilyan.
 
@@ -62,7 +62,7 @@ He stopped, and then went on, because he had decided to.
 
 “*Say the reading of it,*” Ilyan said, “*the part where it is the office's hand and not yours.*”
 
-“*Every word of lines one to five is the office's and has been since the first day of the month. The name is a name and a name is a name, and a clerk wrote it off a thing the office already had, and I am not going to say the clerk did more than write, because I do not know what the clerk had.*”
+“*Every word of lines one to five is the office's and has been since the first day of the eighty-third week. The name is a name and a name is a name, and a clerk wrote it off a thing the office already had, and I am not going to say the clerk did more than write, because I do not know what the clerk had.*”
 
 ---
 
@@ -86,7 +86,7 @@ Skell wrote it. He wrote it in a book with a pencil in it, standing up, in about
 
 “*Say what you have written,*” said Ilyan, because he asked everybody what they had written and it was the only habit he had left that was worth anything.
 
-“*That a man of forty-six of this city went out of it on the second day of this month on his own two legs, at his own charge, and refused the conveyance of the office, and said so to a person in a room in about nine people's hearing.*”
+“*That a man of forty-six of this city went out of it on the fourth day of the eighty-second week on his own two legs, at his own charge, and refused the conveyance of the office, and said so to a person in a room in about nine people's hearing.*”
 
 “*And the rest of it.*”
 
@@ -94,7 +94,7 @@ Skell wrote it. He wrote it in a book with a pencil in it, standing up, in about
 
 ---
 
-The four lines are on the back of the stamped sheet. They are in the hand the office uses for everything, and they are about the man whose name is in the fifth row, and this city did not ask for them and has not sent this office anything since Tuesday.
+The four lines are on the back of the stamped sheet. They are in the hand the office uses for everything, and they are about the man whose name is in the fifth row, and this city did not ask for them, and the last thing that went up the hill went up this evening with no seal on it.
 
 “*Say them,*” said Skell.
 
@@ -118,7 +118,7 @@ The room sat with that for a long time, and the fire in the corner, which had be
 
 Ferrow looked at the sheet for a while.
 
-“*The other half is that the sentence in the fourth line is a protection,*” he said. “*I have read it out four times this month in two rooms and it is a protection. A person so conveyed is not to be asked about the city afterwards. It is a promise. It is the only promise the office has ever printed at this table and it has printed it twice, once for a woman of twenty-eight who never left and once for a man of forty-six who walked.*”
+“*The other half is that the sentence in the fourth line is a protection,*” he said. “*I have read it out four times in two rooms and it is a protection. A person so conveyed is not to be asked about the city afterwards. It is a promise. It is the only promise the office has ever printed at this table and it has printed it twice, once for a woman of twenty-eight who never left and once for a man of forty-six who walked.*”
 
 He squared the sheet to the edge of the table.
 
@@ -126,7 +126,7 @@ He squared the sheet to the edge of the table.
 
 It went on being quiet for a long time.
 
-“*And the man who is walking on it is the one who said a sentence in a room on the first day of this month.*”
+“*And the man who is walking on it is the one who said a sentence in a room on the first day of the eighty-second week.*”
 
 Skell was standing very still.
 
@@ -142,7 +142,7 @@ The room was a room of about thirty people and a rain came off the flat against 
 
 “*Say the last of it,*” said Ilyan, “*and say it as a finding and not as a thing anybody is to feel.*”
 
-“*I have got a sheet in a book that a man wrote out of his own mouth on the first day of this month, and I have got four lines on the back of an envelope that came back down a hill. The four lines are the office agreeing with him and acting on it, and he is fourteen days up a road on his own two legs. There is nobody in this city who is permitted to ask him about any of it.*”
+“*I have got a sheet in a book that a man wrote out of his own mouth on the first day of the eighty-second week, and I have got four lines on the back of an envelope that came back down a hill. The four lines are the office agreeing with him and acting on it, and he is fourteen days up a road on his own two legs. There is nobody in this city who is permitted to ask him about any of it.*”
 
 He put the pencil down.
 

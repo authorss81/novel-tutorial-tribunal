@@ -4,7 +4,7 @@ The answer about the sum came down the hill in the tray at the second hour on th
 
 About nine people were in the room behind a chandler's shop and Fenna Rusk was at the bare table with the lamp on.
 
-“*Say the head of it,*” said Ilyan, “*and then all four lines, and I am not going to interrupt you and I am not going to ask you for the second half of anything, because I have asked for a second half nine times in a month and I have got one nine times and I would like a morning off.*”
+“*Say the head of it,*” said Ilyan, “*and then all four lines, and I am not going to interrupt you and I am not going to ask you for the second half of anything, because I have asked for a second half nine times in four weeks and I have got one nine times and I would like a morning off.*”
 
 “*One. The office has received from this city a claim of four pounds and four shillings in respect of the keeping of a roll of doors, and the sum is in a book at the seat, and it has been in that book since it was sent up on the fourth day of the eighty-third week.*”
 
@@ -42,13 +42,13 @@ He stopped.
 
 “*Say the rest of it,*” Ilyan said.
 
-“*There is no rest of it. Forty-four shillings is two pounds and four shillings, and I have been saying four pounds and four shillings in this city since the first day of this week, and I have said it in this room, and I have said it on a step, and a man of twenty-nine put it in a book, and it has gone up a hill, and it is in a book four hundred miles off at this moment.*”
+“*There is no rest of it. Forty-four shillings is two pounds and four shillings, and I have been saying four pounds and four shillings in this city since the first day of the eighty-third week, and I have said it in this room, and I have said it on a step, and a man of twenty-nine put it in a book, and it has gone up a hill, and it is in a book four hundred miles off at this moment.*”
 
 Nobody moved.
 
 “*Say where the other one came from,*” said Fenna Rusk, in her own mouth, and she had not said a word for four minutes.
 
-“*From me, in this room, out loud, with the working, on the first day of this week.*” He did not look up. “*I did not double it. I never wrote a two. I have sat down with a pencil twice since and gone through it the way I am going through it now, and I get the same figure, and it is half of what I said, and I have had nine days of knowing that and I have not said it in a room, and I would like the room to know that I knew.*”
+“*From me, in this room, out loud, with the working, on the first day of the eighty-third week.*” He did not look up. “*I did not double it. I never wrote a two. I have sat down with a pencil twice since and gone through it the way I am going through it now, and I get the same figure, and it is half of what I said, and I have had nine days of knowing that and I have not said it in a room, and I would like the room to know that I knew.*”
 
 “*Say what you want done about it,*” said Ilyan.
 
@@ -106,7 +106,7 @@ So he kept the sentence, and he put his hand on the back of a chair instead of o
 
 “*Then ask me first,*” said Fenna Rusk.
 
-He did not ask her first. That was the second thing, and it was worse than the first, and he did it in about half a second, and he was aware of the whole of it happening and he let it happen, which is the thing he has been doing all month and which he named out loud in a room a fortnight ago and which has not stopped him once.
+He did not ask her first. That was the second thing, and it was worse than the first, and he did it in about half a second, and he was aware of the whole of it happening and he let it happen, which is the thing he has been doing for five weeks and which he named out loud in a room a fortnight ago and which has not stopped him once.
 
 “*I am going outside,*” he said.
 
@@ -162,6 +162,6 @@ The four pounds and four shillings is in a book at the seat, and four pounds and
 
 The declining went up the hill on the evening of the same day in an envelope with no seal on it, and a clerk at the seat will enter it in the book in which the sum is kept, on the day after it arrives, and the woman it is owed to will not see that page, and no form in this county will send it to her.
 
-And outside a room behind a chandler's shop a man with a bad leg stood in the rain with a sentence in his mouth that would have been the right one, and the rightness of it had a price in it, and he had named that price out loud in a room four times this month and had not once named this one.
+And outside a room behind a chandler's shop a man with a bad leg stood in the rain with a sentence in his mouth that would have been the right one, and the rightness of it had a price in it, and he had named that price out loud in a room four times in a fortnight and had not once named this one.
 
 The fever was twenty-one weeks and six days old, and two pounds and four shillings of it is correct, and about nine people in a room had just watched the correct figure get said out loud by the man who had got it wrong.

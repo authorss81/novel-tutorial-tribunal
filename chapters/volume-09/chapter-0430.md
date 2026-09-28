@@ -118,7 +118,7 @@ The fever was twenty-one weeks old, and it did not stop for a sheet, and not one
 
 Ilyan got out of the room with the leg and stood in the corridor with his back against the wall until the footsteps had gone down the stairs.
 
-There was a word for what he had done on Tuesday, and nobody had given it to him. Darrin Skell had said it out loud in a room on a day of mud and had not been a co-witness himself, and Fenna Rusk had said she had never heard the word and had asked what it was for before she would have anything to do with it, and he had told her: for the road. That was all. It was a piece of work and not a rank. It was not a step up to anything, there was no form for it, and there was not going to be one.
+There was a word for what he had done on Wednesday, and nobody had given it to him. Darrin Skell had said it out loud in a room on a day of mud and had not been a co-witness himself, and Fenna Rusk had said she had never heard the word and had asked what it was for before she would have anything to do with it, and he had told her: for the road. That was all. It was a piece of work and not a rank. It was not a step up to anything, there was no form for it, and there was not going to be one.
 
 He had said the price of it before he did it, in his own mouth, to a person who had not asked, with a man in the mud who could write it down, and the price had not stopped him, and in the whole nineteen years of testing other people's rules he could not remember the last time naming a thing had not stopped him.
 

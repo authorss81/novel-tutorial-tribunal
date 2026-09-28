@@ -12,7 +12,7 @@
 
 | File | Read it for |
 |---|---|
-| `state/current.md` | Live receipt: phase, volume, calendar + weekdays, money with working, band payoff, panel, outstanding, hand-off |
+| `state/current.md` | Live receipt: phase, volume, calendar + weekdays + the no-month rule, money with working, band payoff, panel, outstanding, hand-off |
 | `state/continuity.md` | Ground, road, 20 documents, clocks, what is/is-not true at 440 |
 | `state/character-state.md` | Who changed in 431–440; unmoved carry |
 | `state/open-threads.md` | Running threads, held items, what the band did not do |
@@ -27,7 +27,7 @@
 
 ## Volume and calendar
 
-`shelf = ch − 125`; week = `40 + shelf ÷ 7`; day = `shelf mod 7 + 1`; morning = `ch − 250`; settlement = `ch − 400`; rail = `ch − 410`; fever = `ch − 283` days. **Anchor 400; `ch − 351` retired.** Table 431–450 in `outline/volume-09.md` §1. Weekdays: day 1 Tue … 7 Mon; 441 Wed–450 Fri.
+`shelf = ch − 125`; week = `40 + shelf ÷ 7`; day = `shelf mod 7 + 1`; morning = `ch − 250`; settlement = `ch − 400`; rail = `ch − 410`; fever = `ch − 283` days. **Anchor 400; `ch − 351` retired.** Table 431–450 in `outline/volume-09.md` §1. Weekdays: day 1 Tue … 7 Mon; 431 Sat–440 Tue; 441 Wed–450 Fri. **There is no month in this calendar** — a month is never a date.
 
 ## Owed
 

@@ -42,7 +42,7 @@ He read it a fifth time.
 
 Ilyan sat on the window seat with his leg out in front of him and did the arithmetic, because it was the only thing he had that did not require anybody else's permission.
 
-Thirty-four days. A sheet with one sentence on it. A penny a page. A form with a head on it that has room for a person and a thing. And an answer that came down nine days later with a place in it and a date in it and a number of persons in it and the words *said the cost out loud before the entry was made*, in a fair hand, in a register at the seat, and no paper about him carried into a building by anybody.
+Thirty-four days. A sheet with one sentence on it. A penny a page. A form with a head on it that has room for a person and a thing. And an answer that came down five days later with a place in it and a date in it and a number of persons in it and the words *said the cost out loud before the entry was made*, in a fair hand, in a register at the seat, and no paper about him carried into a building by anybody.
 
 He had spent four weeks learning that the way to find out what an office will do is to send it one question, and to be wrong in the question.
 
@@ -66,7 +66,7 @@ About thirty people sat with it and one of them shifted a chair.
 
 They went out to the ninth marker in the afternoon, and three of them went, and Renn Calloway said so out loud at the end of the row before anybody had asked.
 
-“*Three,*” he said. “*Not eight. There were eight in the mud on the second day of this month and I have been asked twice since how many people stood in it, and I have said eight both times, and it was eight. Today it is three and I am one and I am saying the number before we go and not after.*”
+“*Three,*” he said. “*Not eight. There were eight in the mud on the second day of the eighty-third week and I have been asked twice since how many people stood in it, and I have said eight both times, and it was eight. Today it is three and I am one and I am saying the number before we go and not after.*”
 
 Ilyan wanted the eight. He did not say so. He said: “*Then say the hour and say the route, and I will walk behind you.*”
 
@@ -104,9 +104,9 @@ She was standing on the ledge with her face towards the water and she said the n
 
 “*Then say why.*”
 
-“*Because a person of this place in a book is asked about the person outside it who put her there, and that is the price, and I said it in the mud on the second day of this month in front of eight people, and the price has come due on schedule and it has come due in a fair hand four hundred miles off and I would like it entered that I am not going to pretend the schedule is a surprise.*”
+“*Because a person of this place in a book is asked about the person outside it who put her there, and that is the price, and I said it in the mud on the second day of the eighty-third week in front of eight people, and the price has come due on schedule and it has come due in a fair hand four hundred miles off and I would like it entered that I am not going to pretend the schedule is a surprise.*”
 
-“*Then it is a thing with a day on it,*” said Calloway, “*and the day was the second day of this month, and I was there, and I have said so twice, and I am not going to say it a third time for a man in a book.*”
+“*Then it is a thing with a day on it,*” said Calloway, “*and the day was the second day of the eighty-third week, and I was there, and I have said so twice, and I am not going to say it a third time for a man in a book.*”
 
 “*You are not going to be asked a third time,*” Ilyan said, “*and I want that said out loud in a room with about thirty people in it, and not by me.*”
 
@@ -120,4 +120,4 @@ She got down off the ledge into the mud and started to go west, and stopped afte
 
 She went on west up the road in four inches of mud with her boots going into it, and she did not say the rest and nobody asked her to.
 
-The fever was twenty-one weeks and four days old, and a plate stood on a post two miles out with nothing cut in the corner of it, and there was a barrow on the south side, and the eight of the second day of the month were not there and could not be got back and were not written anywhere except in a line in a book that said a man said a price out loud.
+The fever was twenty-one weeks and four days old, and a plate stood on a post two miles out with nothing cut in the corner of it, and there was a barrow on the south side, and the eight of the second day of the eighty-third week were not there and could not be got back and were not written anywhere except in a line in a book that said a man said a price out loud.

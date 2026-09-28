@@ -2,7 +2,7 @@
 
 **This block supersedes every block below it. Nothing below the rule has been edited in this phase.** Chapters 1–440 are canon. **Nobody has been relieved, forgiven, redeemed or thanked, including the office, which is right about the roads.**
 
-**NAMES.** Cast table in `outline/volume-09.md` §2. A name in a record differs from a name in a mouth. Sef gave his name to Ilyan and asked it not be written down; the office had it anyway (`437`). Ground-floor clerk Tam Ferrow is **29**.
+**DATES.** No month exists in this volume's calendar; every day is printed as week and day (`outline/volume-09.md` §1). **NAMES.** Cast table in `outline/volume-09.md` §2. A name in a record differs from a name in a mouth. Sef gave his name to Ilyan and asked it not be written down; the office had it anyway (`437`). Ground-floor clerk Tam Ferrow is **29**.
 
 ## 1. What 431–440 changed
 
@@ -14,19 +14,19 @@
 
 **SEF** (16, doorway since eighth morning of fever, not on/off any list). Sent for on a headless sheet with seal (`437`); set his own terms, answered the return line, refused safe/unsafe and the name, gave four doorways in order — putting Ferrow, who wrote it, at one of them. Worse than a doorway.
 
-**DARRIN SKELL** (52, 900 doors). Said no in a market of two hundred rather than a room; office returned *Declined. The ward of this city*, no name (`432`). Did the box arithmetic (3,276 visits = 819d = 68s 3d) and the wage correction (44s = £2 4s, his error since first day of week) out loud (`435`–`436`).
+**DARRIN SKELL** (52, 900 doors). Said no in a market of two hundred rather than a room; office returned *Declined. The ward of this city*, no name (`432`). Did the box arithmetic (3,276 visits = 819d = 68s 3d) and the wage correction (44s = £2 4s, his error since the first day of the eighty-third week) out loud (`435`–`436`).
 
 **RENN CALLOWAY** (58, Low Road 29 years). Not on box, bar, plate or line. Asked Ilyan in a room which of his two sentences he stands behind — mud (*for the road*) vs margin (*will not be in a book*) — and got the first with its impossibility stated (`440`).
 
 **TAM FERROW** (29, ground floor). Read eleven pages fair; wrote market no, Keel note, declining, doorway order, unsent-return minute, bell line — always what is before him, never what it means. Wrote eleven names before eleven pence and will not rub one out (`439`).
 
-**OTT DRAY** (54, 32 sheets in 19 years). Brought roll down ordinary way, box up north side; waited, watched, said a road walked round twice in an hour (`431`, `435`).
+**OTT DRAY** (54, 32 sheets in 19 years). Brought roll down ordinary way, box up north side; three yards at the top of that hill in nineteen years, let in within a minute on the first two and not at all on the third, which is this week; waited, watched, said a road walked round twice in an hour (`431`, `435`).
 
 **BESS LOW** (60, never counted in nine years). Bowl her idea, unsaid. Refused to be one of eleven; read the shortfall of one out loud (`439`). Bell/porch/corridor unchanged.
 
-**WRAY COPE** (34, of the seat, person appointed in register of disputes, new `437:35`). Came on the road, round the south side; asked three questions, put Ilyan's opinion in the book, refused to leave a sentence out.
+**WRAY COPE** (34, of the seat, person appointed in register of disputes, new `437:35`). **The dispute was given to him in a tray on the fifth day of the eighty-second week** (`423:3`, `437:35`). Came on the road, round the south side; asked three questions, put Ilyan's opinion in the book, refused to leave a sentence out.
 
-**KERWIN DACE** (38, of the seat). Return back stamped Cray Crossing, fifth row carrying Keel's name, none of it his (`433`). Still out. **TARIN KEEL** (46) walking north, entered fifth row on office's motion, never to be asked about city or road. **SERA QUILL** (28, four hundred miles off) unthanked, family six-year claim unfiled. **NELL FISK** (30), **BEVIN TARR** (die-cutter, *huh*), unchanged.
+**KERWIN DACE** (38, of the seat). Return back stamped Cray Crossing, fifth row carrying Keel's name, none of it his (`433`). Still out. **TARIN KEEL** (46) walking north, entered fifth row on office's motion, never to be asked about city or road; he said his sentence in a room on the first day of the eighty-second week and walked out on the fourth. **SERA QUILL** (28, four hundred miles off) unthanked, family six-year claim unfiled. **NELL FISK** (30), **BEVIN TARR** (die-cutter, *huh*), unchanged.
 
 ## 2. Unmoved
 

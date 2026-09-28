@@ -66,7 +66,7 @@ Not one of the nine of them said anything, and it went on for about a second and
 
 “*Say the one thing.*”
 
-“*A thing that comes back in the ordinary way has not been anywhere. It has been to a room and come out of it, and I have been three times into a yard at the top of that hill in nineteen years and I was let in within a minute every time until this week.*”
+“*A thing that comes back in the ordinary way has not been anywhere. It has been to a room and come out of it, and I have been three times into a yard at the top of that hill in nineteen years, and I was let in within a minute on the first two of them, and this is the third.*”
 
 ---
 
@@ -88,7 +88,7 @@ Fenna Rusk had her hands flat on the bare table. There was nothing on the table 
 
 “*Then say what you can say about it and not the rest.*”
 
-“*They did not open it in front of me.*” Dray took his hands off the reins. “*And I have been in a yard at that hill three times in twenty years and I have never once been asked to say what a man did in a building, and I am not going to start by telling this room that they did not open it, because a man in a building is a building and I was on a cart.*”
+“*They did not open it in front of me.*” Dray took his hands off the reins. “*And I have been in a yard at that hill three times in nineteen years and I have never once been asked to say what a man did in a building, and I am not going to start by telling this room that they did not open it, because a man in a building is a building and I was on a cart.*”
 
 ---
 
@@ -110,7 +110,7 @@ The room had about nine people in it and the lamp and the bare table and the sme
 
 “*Say the half of that which is worse,*” said Ilyan.
 
-“*Half of it is a knot.*” Ferrow took his hand off it. “*The other half is that a knot can be retied and cannot be read, and I have said out loud in four rooms this month that I copy what is in front of me and I do not say what it means, and this morning I am saying a thing in front of me and I do not know what it means, and that is the first time in three years and it is not a thing I am going to write down.*”
+“*Half of it is a knot.*” Ferrow took his hand off it. “*The other half is that a knot can be retied and cannot be read, and I have said out loud in four rooms since the first day of the eighty-third week that I copy what is in front of me and I do not say what it means. And this morning I am saying a thing in front of me and I do not know what it means, and that is the first time in three years and it is not a thing I am going to write down.*”
 
 Fenna Rusk had not touched the oilcloth.
 
@@ -156,7 +156,7 @@ About thirty people stood in a room and looked at a piece of folded paper on a t
 
 Skell stood up at the end of the long table.
 
-“*Then I am going to say the half of it that nobody in this room is going to say,*” he said, “*and it is a half I have said a different half of twice this month, and I am not going to do a division today.*”
+“*Then I am going to say the half of it that nobody in this room is going to say,*” he said, “*and it is a half I have said a different half of twice in a fortnight, and I am not going to do a division today.*”
 
 “*Nobody has asked you for one,*” said Ilyan.
 
@@ -168,7 +168,7 @@ He looked along the table.
 
 “*And nobody has asked you to,*” said Fenna Rusk.
 
-“*Nobody has asked me,*” said Skell, “*and that has been the shape of the whole of this month.*”
+“*Nobody has asked me,*” said Skell, “*and that has been the shape of the whole of it.*”
 
 ---
 
@@ -176,7 +176,7 @@ Ilyan got out of the room last, and he stood in the corridor with his back again
 
 He had taken a document off a cart and carried it up a row.
 
-He had carried the paper about Hessa Marl into a building at the middle of the nine bridges in the third week of last month, in the ordinary way, at the ordinary hour, and he had known every day since that he had done it. He had carried a return and a schedule up a hill on the fourth day of this week. This morning he had carried the roll, and he had not been asked to, and he had done it because a woman in a room could not see and a cart was in a yard, and if he had not done it then it would have sat on a tail-board until a carter came back.
+He had carried the paper about Hessa Marl into a building at the middle of the nine bridges in the eighty-first week, in the ordinary way, at the ordinary hour, and he had known every day since that he had done it. He had carried a return and a schedule up a hill on the fourth day of this week. This morning he had carried the roll, and he had not been asked to, and he had done it because a woman in a room could not see and a cart was in a yard, and if he had not done it then it would have sat on a tail-board until a carter came back.
 
 There was no form for that either. He had looked.
 

@@ -1,6 +1,6 @@
 # Volume 09 — The Regent's Exception (Chapters 401–450)
 
-**Status.** Chapters 401–430 are canon (batches 0001, 0002, 0003). Chapters 431–450 are planned here and unwritten.
+**Status.** Chapters 401–440 are canon (batches 0001–0004). Chapters 441–450 are planned here and unwritten.
 **Authority order.** `outline/series.md:197` outranks `outline/ending.md`, which outranks this file, which outranks every state file and every prompt.
 **The volume's five lines, fixed at the outline stage and not to be moved by a band:**
 
@@ -17,6 +17,10 @@
 ## 1. The calendar, computed once so that no band has to guess
 
 Shelf day = `chapter − 125`. Week = `40 + shelf ÷ 7`, day of week = `shelf mod 7 + 1`. His morning in this country = `chapter − 250`. Days since the settlement = `chapter − 400`. Days since the rail came down = `chapter − 410`. Fever age = `chapter − 283` days, printed as weeks and days. **The anchor is chapter 400 and `chapter − 351` is retired. A band that prints a date it has not taken from this table has introduced an error.**
+
+**Weekdays are fixed to the week number and must not be worked out by hand:** day 1 Tue, 2 Wed, 3 Thu, 4 Fri, 5 Sat, 6 Sun, 7 Mon. So 441 Wed, 442 Thu, 443 Fri, 444 Sat, 445 Sun, 446 Mon, 447 Tue, 448 Wed, 449 Thu, 450 Fri.
+
+**There is no month in this calendar.** *This month*, *the second day of this month*, *the first day of the month*, *the third week of last month* and *the previous month* are not dates and may not stand for one. Where a passage needs a day, print the week and day from the table below, or a day-count the table already supports (*nine days*, *twelve days*, *a fortnight*, *in four weeks*, *for five weeks*). The loose span survives in dialogue only where no day is attached to it (*in about a month*, *for a month*), which is how Chapters 401–430 use it, and a foreign document may carry a day the reader cannot check. **Fixed at the batch-0004 review: every date-bearing month reference in 431–440 was replaced, and `433`, `436` and `440` had month references that were flatly wrong under this table.**
 
 | Ch | Shelf | Week / day | Morning | Since settlement | Rail down | Fever |
 |---|---|---|---|---|---|---|

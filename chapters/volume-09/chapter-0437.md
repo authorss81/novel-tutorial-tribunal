@@ -1,4 +1,4 @@
-# Chapter 437: For The First Time In Four Weeks Anything In This County Has Let Somebody Be Sent For, And It Is A Boy Of Sixteen, And The Paper Has No Head On It
+# Chapter 437: For The First Time In Five Weeks Anything In This County Has Let Somebody Be Sent For, And It Is A Boy Of Sixteen, And The Paper Has No Head On It
 
 The summons had no head on it. It came down in the tray at the second hour on the fifth day of the eighty-fourth week with wax on it and a seal on it, and at the top of it, where a sheet has the name of the thing it is, there was nothing at all. Shelf day three hundred and twelve, his hundred and eighty-seventh morning, thirty-seven days after the settlement, the fever twenty-two weeks old to the day, the rail down twenty-seven days.
 
@@ -20,7 +20,7 @@ Ferrow held it up.
 
 “*Nothing below the name. That is the whole of the foot of it.*”
 
-“*Then say the thing I have been waiting five weeks to hear somebody say in this room,*” said Skell, and he put his hands flat on the long table. “*For five weeks, nothing that has been printed in this county has let anybody be sent for. We have all four of us said so out loud, in rooms, more than once, and it has been true, and I have counted it as one of the few good things about this month.*”
+“*Then say the thing I have been waiting five weeks to hear somebody say in this room,*” said Skell, and he put his hands flat on the long table. “*For five weeks, nothing that has been printed in this county has let anybody be sent for. We have all four of us said so out loud, in rooms, more than once, and it has been true, and I have counted it as one of the few good things about it.*”
 
 He turned the sheet round so the room could see the wax.
 
@@ -114,7 +114,7 @@ He put the pen down.
 
 The room waited, which it had learned to do in four weeks.
 
-“*I am not going to name him. I said that on the third day of this month in this room and I have not changed and I am not going to change it because there is a man of the seat standing in here with a book.*”
+“*I am not going to name him. I said that on the third day of the eighty-third week in this room and I have not changed and I am not going to change it because there is a man of the seat standing in here with a book.*”
 
 He came two steps further into the room.
 
@@ -148,13 +148,13 @@ Ilyan had the sentence ready. It was the sentence from ten days before, the good
 
 He had it. It was a sentence that would have worked on a form and it would not have worked on a person. It would have cost the boy the thing he had built for himself in ninety seconds in front of thirty people, and Ilyan had learned in four weeks that being right about a form is not being right about a boy.
 
-He had said that out loud to a room on the second day of this month, and it had not stopped him once.
+He had said that out loud to a room on the second day of the eighty-third week, and it had not stopped him once.
 
 He did not say it.
 
 He stood in a corridor with a bad leg and let a boy of sixteen walk out of a building and go and do nine doors.
 
-The boy's name was on a sheet with a seal on it that had come from four hundred miles off with no head on it at all. He had given that name to a man in a room ten days ago and asked that it not be written down, and the office had it anyway, and had sent for him on a piece of paper that does not say what for.
+The boy's name was on a sheet with a seal on it that had come from four hundred miles off with no head on it at all. He had given that name to a man in a room nine days ago and asked that it not be written down, and the office had it anyway, and had sent for him on a piece of paper that does not say what for.
 
 At the change of the light Hessa Marl stood up in the same room with about thirty people in it and said out loud, at the top of her voice, that she had put her name in a form with one line in it because she could not say no.
 

@@ -20,7 +20,7 @@ Tam Ferrow had a book open on his knee at the end of the table with a pencil in 
 
 “*Say the rest of that and do not stop in the middle of it.*”
 
-“*And a list of people who gave a penny is a roll,*” said Ferrow. “*And I have been putting rolls into books for three years and I did not know that was what I was doing on a table outside a shop until a woman of forty-four said the word in a room last week and I have not been right since.*”
+“*And a list of people who gave a penny is a roll,*” said Ferrow. “*And I have been putting rolls into books for three years and I did not know that was what I was doing on a table outside a shop until a woman of forty-four said the word in a room in the eighty-third week and I have not been right since.*”
 
 Fenna Rusk was at the table. She had not been asked and had not been sent for and had walked a mile and a half to a bowl.
 
@@ -40,7 +40,7 @@ The working took about a minute and Skell did it standing up with his hands flat
 
 “*And the working on the line.*”
 
-“*Eleven names and eleven pence and one name to a penny, and that is correct, and I did the division on the back of a form in about four minutes with a pencil in a room on the first day of this week and nobody checked it.*” He put his hands down. “*And the shortfall is one. And I am going to say the rest of it and then I am going to sit down, and I have said the rest of it four times in a month and this is the fifth and it is the last time in a room.*”
+“*Eleven names and eleven pence and one name to a penny, and that is correct, and I did the division on the back of a form in about four minutes with a pencil in a room and nobody checked it.*” He put his hands down. “*And the shortfall is one. And I am going to say the rest of it and then I am going to sit down, and I have said the rest of it four times in nine days and this is the fifth and it is the last time in a room.*”
 
 “*Say the rest of it.*”
 
@@ -126,7 +126,7 @@ Then a woman of sixty read the shortfall out loud in a room, and the shortfall w
 
 A public figure of one penny against a bell in a county four hundred miles off is now a thing in a street with about thirty people in it. It is a thing an office can ask a man of this ward about. It is a thing a man of the seat can put on a sheet of his own with no head on it.
 
-He had wanted the names off a line and he had put a number in a room, and there is no form that takes a number out of a room once thirty people have heard it, which is the same fact he said out loud on the ninth marker in four inches of mud nine days ago, in a different voice, about a different thing.
+He had wanted the names off a line and he had put a number in a room, and there is no form that takes a number out of a room once thirty people have heard it, which is the same fact he said out loud on the ninth marker in four inches of mud twelve days ago, in a different voice, about a different thing.
 
 “*Say the rest of it,*” said Skell.
 
