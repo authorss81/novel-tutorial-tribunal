@@ -1,6 +1,6 @@
 # Chapter 487: A Sunday On Which A Chair Of Forty-Seven Who Has Never Called A Sitting Calls One, And The Ninth Clause Of A Covenant Four Hundred Years Old Is Used Once By Nine Men Of A Majority Against Nine Men Of That Same Majority, And The Word Required Is In A Minute Of This Town A Second Time And This Time It Is Good, And It Is Given To A Person Who Is Not A Household And Refused By A Person Who Is, And That Is The Shape Of The Whole Of This Business And Nobody In That Room Knows It
 
-Seventh day of the ninety-first week. His two hundred and thirty-seventh morning. Eighty-seven days after the settlement. The fever twenty-nine weeks and no days. Forty-one days since the division. Thirty-five days in this town.
+Sixth day of the ninety-first week. His two hundred and thirty-seventh morning. Eighty-seven days after the settlement. The fever twenty-nine weeks and one day. Forty-one days since the division. Thirty-five days in this town.
 
 The water board of Halloway sat on the Sunday morning of the forty-first day after the division, and the chair of it called the sitting. That was the first day that man has called in this town since he was made chair of it nine years ago.
 
@@ -126,6 +126,6 @@ He has been working on the other of the two since the sixteenth day after the di
 
 He had about eleven seconds in which to say that he was glad, and he used them on not saying it, and there is no minute in any book in this county in which it appears that he was glad.
 
-The fever was twenty-nine weeks and no days old. A minute of a water board of a town of four thousand people carries the word *required* in it a second time in six weeks, and the second time it is good, and the answer to it is one word and it is entered in the minute with the day on it.
+The fever was twenty-nine weeks and one day old. A minute of a water board of a town of four thousand people carries the word *required* in it a second time in six weeks, and the second time it is good, and the answer to it is one word and it is entered in the minute with the day on it.
 
 About twenty-two people in a row below a sluice are out of the water of this town, and are parties to an instrument, and are not parties to a household, and a bar four feet long is on its eleventh day in the mud where two people put it down on the Wednesday of the thirtieth day after the division.

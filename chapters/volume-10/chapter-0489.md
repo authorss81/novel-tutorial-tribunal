@@ -1,6 +1,6 @@
 # Chapter 489: The First Day Of The Ninety-Second Week, And A Tuesday On Which A Copyist Of Thirty-Four Comes To A Room Over A Nail Shop And Asks For The Other Three Pages Of A Letter That Is Addressed To A Water Board And Not To A Man, And They Are About A Hundred And Eighty Forms And A Shelf Eleven Inches Wide, And The First Disagreement Of This Week Is Not A Disagreement And The Second One Is, And Four Hundred Miles Off A Woman Of Twenty-Eight Has Written In The Round Hand Of The Counters That Neither Of Them Can Build The Thing The Other One Needs, And She Has Not Signed It With Any Name At All
 
-First day of the ninety-second week, and the first day of it. His two hundred and thirty-ninth morning. Eighty-nine days after the settlement. The fever twenty-nine weeks and two days. Forty-three days since the division. Thirty-seven days in this town.
+First day of the ninety-second week, and the first day of it. His two hundred and thirty-ninth morning. Eighty-nine days after the settlement. The fever twenty-nine weeks and three days. Forty-three days since the division. Thirty-seven days in this town.
 
 The room over a nail shop at the south end of the market square has a bed, a table, a chair and a fire that is lit in the cold part of the year.
 
@@ -147,7 +147,7 @@ There is no way on this earth for a person in a building of four hundred people 
 
 That was the mistake of Ilyan Vester on the forty-third day after the division, and it is the fourth one he has made in six weeks that was about being able to be asked about. The other three of them he can name. He could not name this one for about nine days.
 
-The fever was twenty-nine weeks and two days old. A room over a nail shop at the south end of a market square had about two people in it and one fire in it, and a copyist of thirty-four had read out three pages of a letter that was addressed to a water board and not to a man.
+The fever was twenty-nine weeks and three days old. A room over a nail shop at the south end of a market square had about two people in it and one fire in it, and a copyist of thirty-four had read out three pages of a letter that was addressed to a water board and not to a man.
 
 Four hundred miles off, a woman of twenty-eight had not opened a range of about nine hundred refusals and had written down eleven times that she had not, and had put neither of those facts into the round hand of the counters, and had not signed the four pages with any name at all.
 

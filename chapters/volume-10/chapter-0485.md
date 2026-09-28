@@ -1,6 +1,6 @@
 # Chapter 485: A Friday On Which About Two Hundred People Are In A Market Square In A Town Of Four Thousand People Because The Door Of The Stone House Is Open And There Is No Meeting To Go To, And A Man Who Is On Nobody’s Book Reads Out Loud In That Square A Sheet Of Paper Folded In Four With Nothing On The Outside Of It, And It Is About Six Years And A Woman Of Twenty-Eight Four Hundred Miles Off Whom Nobody In That Square Has Ever Met, And A Thing Read Aloud In A Square Is Not A Thing That Can Be Asked About, And He Had Said The Opposite In Nine Rooms
 
-Fifth day of the ninety-first week. His two hundred and thirty-fifth morning. Eighty-five days after the settlement. The fever twenty-eight weeks and six days. Thirty-nine days since the division. Thirty-three days in this town.
+Fourth day of the ninety-first week. His two hundred and thirty-fifth morning. Eighty-five days after the settlement. The fever twenty-eight weeks and six days. Thirty-nine days since the division. Thirty-three days in this town.
 
 The Stone House has a hearth in the corner and a press against the west wall and a long table under a beam nine feet up. The door of the building is open, and it is open all day every day.
 
@@ -14,7 +14,7 @@ The water was a foot above the low sill of the sluice at about the sixth hour of
 
 ---
 
-He read it out in the square, and that is the mistake. It is a mistake he had been told about on the fourth day after the division, by a copyist standing at a table in a press room in front of nine people, and had been told about again on the thirty-first day in the same square. He had heard it twice and he did it anyway.
+He read it out in the square, and that is the mistake. It is a mistake he had been told about on the sixth day after the division, by a copyist standing at a table in a press room in front of nine people, and had been told about again on the thirty-first day in the same square. He had heard it twice and he did it anyway.
 
 He stood under the awning of the mill at about the eleventh hour of the Friday morning with the sheet in his hand. The sheet was folded in four and there was nothing on the outside of it. He took it out of the fold in front of about two hundred people, and the sound of the fold going was the loudest thing in that square for a minute.
 
@@ -96,7 +96,7 @@ Nobody in that square made a sound.
 
 “*Go on and say the thing.*”
 
-“*A thing read out in a square is a thing a person has been said to have said. That is the opposite of a thing anybody can be asked about, and you have said so yourself in nine rooms in this town. You said it on the fourth day after the division to about nine people in a stone room, and you have said it four times since.*”
+“*A thing read out in a square is a thing a person has been said to have said. That is the opposite of a thing anybody can be asked about, and you have said so yourself in nine rooms in this town. You were told about that in a stone room on the sixth day after the division, in front of about nine people, and you have said it four times since.*”
 
 “*Go on and say the rest of it and do not make it a speech.*”
 

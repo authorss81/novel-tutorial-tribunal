@@ -1,6 +1,6 @@
 # Chapter 483: A Wednesday On Which The Water Board Of A Town Of Four Thousand People Sits For The First Time Since The Thirtieth Day After The Division And Answers The Two Lines Of A Request In The Words Of The Request And Is Right, And Nine Men Find Out That Being Right Is Not The Same As Being Able To Do Anything, And A Man Of Thirty-One Says A Sentence In A Room Over A Saddler’s Shop For The Third Room In This Town It Has Been Said In And It Has Become A Thing The Room Uses
 
-Third day of the ninety-first week. His two hundred and thirty-third morning. Eighty-three days after the settlement. The fever twenty-eight weeks and four days. Thirty-seven days since the division. Thirty-one days in this town.
+Second day of the ninety-first week. His two hundred and thirty-third morning. Eighty-three days after the settlement. The fever twenty-eight weeks and four days. Thirty-seven days since the division. Thirty-one days in this town.
 
 The water board of Halloway sits in a room over a saddler’s shop at the north end of the market square, and the stair outside it is the width of one man. There were about thirty people in that room and on that stair on the Wednesday morning of the thirty-seventh day after the division, and about nine of the thirty were from the Fen.
 
@@ -60,7 +60,7 @@ And the board cannot be asked about any of it, because a board is a thing a pers
 
 ---
 
-And then Ilyan Vester said the sentence, and he said it in a room over a saddler’s shop for the third time in this town since he coined it in a market square in the rain, and it is the oldest thing in this band and it was six weeks old on the Wednesday.
+And then Ilyan Vester said the sentence, and he said it in a room over a saddler’s shop for the third time in this town since he coined it in a market square in the rain, and it is the oldest thing in this band and it was seventeen days old on the Wednesday.
 
 “*A corrected roll is a corrected constituency,*” he said. “*Not a corrected count. A constituency. And a constituency is a set of doors.*”
 
@@ -74,7 +74,7 @@ About nine men on the fourth stool’s row had heard it before this morning. Abo
 
 “*Say the rest of it and do not make it a speech.*”
 
-“*The wrong version is that the fen is nineteen more seats. I put that version in about forty mouths in a square in the rain, and I knew about four minutes after I had said it, and I have had four weeks to say so in a room and I have not.*”
+“*The wrong version is that the fen is nineteen more seats. I put that version in about forty mouths in a square in the rain, and I knew about four minutes after I had said it, and I have had seventeen days to say so in a room and I have not.*”
 
 Nobody in that room said anything for about a minute.
 
@@ -104,7 +104,7 @@ Perdy Sallow stood up from the fourth stool, which he had not done in five weeks
 
 ---
 
-And then the number of days came out, and it came out because a man of fifty-four stood up on the stair and asked for it, and it is the only number anybody asked for that day and it is the number the whole of this business is made of.
+And then the number of days came out, and it came out because a man of thirty-four stood up on the stair and asked for it, and it is the only number anybody asked for that day and it is the number the whole of this business is made of.
 
 “*Say the number out loud and say what it is a number of,*” said Ilyan Vester.
 
@@ -122,7 +122,7 @@ Nobody in that room and on that stair said anything at all for about a minute.
 
 “*Say the rest of that and do not make it a speech,*” said Sefa Lund, from the back of the room, where she had been standing since the eighth hour with about eight other people of the row.
 
-“*Nine pounds is what a new heel is at the county figures. “*Eight pounds and fifteen shillings and fourpence is a quarter of the water of this town out of every household in it, and that is in the board’s own hand. The difference is fifty-six pence a quarter.*”
+“*Nine pounds is what a new heel is at the county figures. Eight pounds and fifteen shillings and fourpence is a quarter of the water of this town out of every household in it, and that is in the board’s own hand. The difference is fifty-six pence a quarter.*”
 
 “*Go on and say the rest of it and do not make it a speech.*”
 

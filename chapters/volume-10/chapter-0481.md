@@ -80,13 +80,13 @@ The whole of what he had come down here with was in about nine mouths in a shop 
 
 He went up the lane at about the ninth hour with the fact. He got as far as the sluice, and the bar was lying in the mud where two people had put it down on the Wednesday morning of the thirtieth day, and about eleven people were standing round it in the wet. He told all eleven of them the thing he had told the shop.
 
-They had it. All eleven of them had it, and it had been in that row since about the sixth hour of the morning from a boy of nineteen who had run down a lane with it. The boy said so before he said anything else, and he said it without any particular heat, the way a person says a thing they have said twice.
+They had it. All eleven of them had it, and it had been in that row since about the sixth hour of the morning from a boy of twenty-two who had run down a lane with it. The boy said so before he said anything else, and he said it without any particular heat, the way a person says a thing they have said twice.
 
 “*Say it out loud in that lane anyway,*” said Cull Sarn, “*because it has been said four times this morning and I would like to hear which of the four of you said it first.*”
 
 “*It does not matter which,*” said Ilyan Vester. “*It is the same fact in four mouths and none of the four mouths can do anything with it.*”
 
-“*Then say what we are going to do about the fact, because I am nineteen and I have been standing in the rain since the sixth hour and I would like to be told the rest of it.*”
+“*Then say what we are going to do about the fact, because I am twenty-two and I have been standing in the rain since the sixth hour and I would like to be told the rest of it.*”
 
 And that was the whole of the Monday morning, and it took the rest of it.
 
@@ -94,7 +94,7 @@ And that was the whole of the Monday morning, and it took the rest of it.
 
 Because a bar four feet long at the head of a sluice is not a thing anybody in this county can be made to turn.
 
-The water board of Halloway has a minute and a second book and a frame. It has a minute and a second book and a frame. It does not have a form in the county of Ostrey that lets it require a person to do a thing with a bar, and it has never had one.
+The water board of Halloway has a minute and a second book and a frame. It does not have a form in the county of Ostrey that lets it require a person to do a thing with a bar, and it has never had one.
 
 It had one in a minute on the thirtieth day after the division, and struck it out of that minute in the room in front of about thirty people, because the person it named was a household of this town. And there is a clause on the back of a board nailed nine feet up over a fire that says no household of this town shall be required to take water, or to be entered, or to answer, against its will.
 

@@ -1,6 +1,6 @@
 # Chapter 488: The Seventh And Last Day Of The Ninety-First Week, And A Monday On Which A Board Of Nine Men Is Asked To Mend A North Heel That Is A Season Off And The Season Is About Four Weeks Off, And The Money Is Fifty-Six Pence A Quarter Short, And A Halfpenny On Each Of Eighty Lots Is Forty Pence And Was The Whole Of The Difference On The Twenty-Sixth Day And Is Not The Whole Of It Now, And A Levy Is Asked For, And By Whom, And In What Document, And It Is Entered With A Day On It And A Hand At The Foot Of It
 
-Seventh day of the ninety-first week, and the last day of it. His two hundred and thirty-eighth morning. Eighty-eight days after the settlement. The fever twenty-nine weeks and one day. Forty-two days since the division. Thirty-six days in this town.
+Seventh day of the ninety-first week, and the last day of it. His two hundred and thirty-eighth morning. Eighty-eight days after the settlement. The fever twenty-nine weeks and two days. Forty-two days since the division. Thirty-six days in this town.
 
 The water board of Halloway sits in a room over a saddler’s shop at the north end of the market square. It sat there on the Monday morning of the forty-second day after the division, and it was the second sitting that a chair of forty-seven had called in his life, and there were about thirty people in that room and on that stair.
 
@@ -66,7 +66,7 @@ And the board did the arithmetic again in about four minutes, and about nine peo
 
 “*Say the rest of that and do not make it a speech.*”
 
-“*A levy of three and a halfpence on each of the eighty lots is two hundred and eighty pence a year. That is one pound and three shillings and fourpence. The quarter in this board’s hand is eight pounds and fifteen shillings and fourpence, and the two of them together are nine pounds and eighteen shillings and eightpence. The heel is nine pounds, and the levy is eighteen shillings and eightpence more than the heel, and I have done that sum four times since the Saturday and it is right.*”
+“*A levy of three and a halfpence on each of the eighty lots is two hundred and eighty pence a year. That is one pound and three shillings and fourpence. The quarter in this board’s hand is eight pounds and fifteen shillings and fourpence, and the two of them together are nine pounds and eighteen shillings and eightpence. The heel is nine pounds, and the whole of it is eighteen shillings and eightpence more than the heel, and I have done that sum four times since the Saturday and it is right.*”
 
 ---
 
@@ -126,6 +126,6 @@ About nine men in that room did not make a sound.
 
 ---
 
-The fever was twenty-nine weeks and one day old. A levy of three and a halfpence on each of the eighty lots upon the Four Hundred was asked for, by eight votes to one, on the forty-second day after the division, by a board of nine men of a market town of four thousand people. It is two hundred and eighty pence a year and it is one pound and three shillings and fourpence, and it is entered in a minute in a room over a saddler’s shop with a day on it and a hand at the foot of it.
+The fever was twenty-nine weeks and two days old. A levy of three and a halfpence on each of the eighty lots upon the Four Hundred was asked for, by eight votes to one, on the forty-second day after the division, by a board of nine men of a market town of four thousand people. It is two hundred and eighty pence a year and it is one pound and three shillings and fourpence, and it is entered in a minute in a room over a saddler’s shop with a day on it and a hand at the foot of it.
 
 It is charged in the roll for the autumn, and the roll for the autumn is made in five days in an office over a shop by a man of sixty-one who will do it correctly and will not know what else is on it. A bar four feet long is on its twelfth day in the mud, and the season is about four weeks off.

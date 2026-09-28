@@ -1,6 +1,6 @@
 # Chapter 486: A Saturday On Which An Arbitration Happens In A Room Over A Taproom At The Top Of Four Hundred Yards Of Mud, With No Procedure And No Standing And No Rules And No Chair With Power, And About Nine People Turn Up And Bring Eleven More, And It Produces An Instrument And Not A Decision, And About Four People In That Room Understand What Has Happened And The Rest Of Them Are Applauding A Woman Who Has Given Them Six Weeks Out Of Her Own Head
 
-Sixth day of the ninety-first week. His two hundred and thirty-sixth morning. Eighty-six days after the settlement. The fever twenty-eight weeks and seven days. Forty days since the division. Thirty-four days in this town.
+Fifth day of the ninety-first week. His two hundred and thirty-sixth morning. Eighty-six days after the settlement. The fever twenty-nine weeks and no days. Forty days since the division. Thirty-four days in this town.
 
 The bar at the head of the sluice is four feet long, and it was not turned at the sixth hour of that Saturday morning for the tenth day running. At about the seventh hour the water came over the low sill of the sluice and stood at the step of the fourth house of nineteen.
 
@@ -102,7 +102,7 @@ And the fourth was a woman of thirty-four who rents a second room in a house of 
 
 “*Say it in about four sentences and do not make it a speech,*” said Ilyan Vester.
 
-“*An instrument is a thing a person can be asked about. That is all it is, and it is the whole of it. About six weeks ago a man of thirty-one said that in a square, and about nine people had it right. About four of the four in this room understood what he meant by it, and about nine people in this town do not, and the whole of the difference between those two groups is whether they have been in a room.*”
+“*An instrument is a thing a person can be asked about. That is all it is, and it is the whole of it. On the twentieth day after the division a man of thirty-one said that in a square, and about nine people had it right. About four of the four in this room understood what he meant by it, and about nine people in this town do not, and the whole of the difference between those two groups is whether they have been in a room.*”
 
 ---
 
@@ -155,6 +155,6 @@ He chose the answer, out loud, in a room, in about eleven seconds, and it was th
 
 ---
 
-The fever was twenty-eight weeks and seven days old. A sheet of paper with a head on it and two parts under the head, a day on it and a hand at the foot of it, was in a press against a west wall in a stone room in a town of four thousand people, and any person of the town may read it.
+The fever was twenty-nine weeks and no days old. A sheet of paper with a head on it and two parts under the head, a day on it and a hand at the foot of it, was in a press against a west wall in a stone room in a town of four thousand people, and any person of the town may read it.
 
 It is the first instrument anybody in Halloway has made, and it decides nothing. About twenty-two people in the row below the sluice were parties to it by the fourth hour of the afternoon, and one of them gave away the only thing she had been keeping since the twenty-first day after the division, in a room, with a day on it, and cannot have it back, and nobody thanked her for it, including the man who asked for the only line.

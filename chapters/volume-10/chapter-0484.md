@@ -1,6 +1,6 @@
 # Chapter 484: A Thursday In A Room Over A Taproom At The Top Of Four Hundred Yards Of Mud With About Nine People In It, In Which The Instruments Of This Town Are Named Out Loud For The First Time, And A Fifth Thing Is Proposed And Refused, And A Sixth Is Named And Refused, And The Answer To Whether An Exit Is A Right Or A Privilege Stops Being A Sentence And Becomes A List Of Four Things And Who Holds Them, And A Man Of Thirty-Nine Says To A Man Of Thirty-One In Front Of Nine People The Reason He Would Not Open A Book
 
-Fourth day of the ninety-first week. His two hundred and thirty-fourth morning. Eighty-four days after the settlement. The fever twenty-eight weeks and five days. Thirty-eight days since the division. Thirty-two days in this town.
+Third day of the ninety-first week. His two hundred and thirty-fourth morning. Eighty-four days after the settlement. The fever twenty-eight weeks and five days. Thirty-eight days since the division. Thirty-two days in this town.
 
 Nobody called that room. The room is over a taproom at the top of four hundred yards of mud and it has a table in it, and the taproom underneath heard everything that was said in it.
 
@@ -106,7 +106,7 @@ About four people in that room noticed that it had stopped, and the rest of the 
 
 ---
 
-And then a woman of thirty-four who rents a second room in a house of nineteen and washes at a sluice said the sixth thing, and she said it flat, and it was the only sentence anybody said in that room on the Thursday that anybody has written down anywhere.
+And then a woman of thirty-four who rents a second room in a house of nineteen and washes at a sluice said the sixth thing, and she said it flat, and it was the only sentence anybody said in that room on the Thursday that anybody did anything about.
 
 “*Say what you have said and say it again,*” said Ilyan Vester.
 

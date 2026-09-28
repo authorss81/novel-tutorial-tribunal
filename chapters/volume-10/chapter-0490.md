@@ -1,10 +1,10 @@
-# Chapter 490: The Second Day Of The Ninety-Second Week, And A Wednesday On Which A Copyist Of Thirty-Four Reads Out In A Stone Room With The Door Open Everything That Was DONE In Six Weeks In A Town Of Four Thousand People, With The Day On Each Of It, And A Man Of Thirty-One Asks To Read It Out Himself And Is Refused In One Sentence, And Nothing Is Resolved, And The Right Of Refusal Is Unrestored And Has Been Used Once In A Lane By A Person It Was Never Written For, And The Last Thing In This Chapter Is A Gate With Hinges On It
+# Chapter 490: The Second Day Of The Ninety-Second Week, And A Wednesday On Which A Copyist Of Thirty-Four Reads Out In A Stone Room With The Door Open Everything That Was DONE In Six Weeks In A Town Of Four Thousand People, With The Day On Each Of It, And A Man Of Thirty-One Asks To Read It Out Himself And Is Refused In One Sentence, And Nothing Is Resolved, And The Right Of Refusal Is Unrestored And Has Been Used Once In A Minute, And The One Refusal In Six Weeks Was Made In A Lane By A Woman Who Was Not Given It And Has Been Given Nothing For It, And The Last Thing In This Chapter Is A Gate With Hinges On It
 
 Second day of the ninety-second week. His two hundred and fortieth morning. Ninety days after the settlement. The fever twenty-nine weeks and four days. Forty-four days since the division. Thirty-eight days in this town.
 
 The Stone House has a hearth in the corner and a press against the west wall, and the door of the building is open, and it is open all day every day. There were about nine people in that room on the Wednesday morning of the forty-fourth day after the division, and about thirty of them were in the square outside it doing nothing in particular.
 
-The day before, nine of them had been at the head of a sluice in the rain and about eleven had been in a room over a taproom, and the whole of a town of four thousand people had spent six weeks finding out that a book is a door.
+The day before, about two people had been in a room over a nail shop at the south end of that square and one of the two was a copyist of thirty-four, and four days before that about nine people had been at the head of a sluice in the rain and about eleven more had been in a room over a taproom, and the whole of a town of four thousand people had spent six weeks finding out that a book is a door.
 
 Nobody in Halloway had called anything. A copyist of thirty-four stood at the long table under the north beam with a sheet of paper on it and said that she was going to read out everything that had been done, and that she was going to say the day on each of it, and that anybody in the room could stop her.
 
@@ -48,7 +48,7 @@ Nobody in that stone room said anything at all, and he sat down at the end of th
 
 ---
 
-So she read it out, standing, in the voice she uses for the minutes, and it took about eleven minutes, and it was nine things, and it was a list of things anybody could ask about and not one of them was a resolution.
+So she read it out, standing, in the voice she uses for the minutes, and it took about fifteen minutes, and it was fifteen things, and it was a list of things anybody could ask about and not one of them was a resolution.
 
 *One. On the sixth day after the division, a man not of this town read a notice out in a market square at the ninth hour and gave his name, his age, his county, his lack of standing and his day-count to a man he had never met. He is on nothing. He is not in a room anybody can be sent for.*
 
@@ -58,19 +58,31 @@ So she read it out, standing, in the voice she uses for the minutes, and it took
 
 *Four. On the twenty-fourth day, a board of nine men refused nine pounds in the words of the request that caused it, and the refusal was correct.*
 
-*Five. On the thirtieth day, nineteen houses at the Fen were put out of the water of this town under clause five, cause four, upon a cause set out in writing by a man of sixty-one who was in the water himself in the ninth year before the division. The finding was correct. The word required went into a minute of this town for the first time in four hundred years, and it was struck out of the minute in the room.*
+*Five. On the twenty-fifth day, a chair of a water board did not call a sitting he had set down nine days before and called a courtesy, and said so out loud in a market square, and the out-of-roll book stayed in a drawer in a house in this town and was not written in.*
 
-*Six. On the thirty-first day, four lines of a letter of four pages were read out in a market square by a man who is on nobody’s book, and a second sheet folded in four with nothing on the outside of it was read out in about four minutes, and it cannot be un-read.*
+*Six. On the twenty-eighth day, a man of thirty-four asked a steward of forty years to call the House of this town on the question of its own covenant, and the steward did not call it, and said out loud in a room over a shop that he had been forty years the only man in this town nobody had to wonder what he wanted and that he is no longer that man.*
 
-*Seven. On the fortieth day, an arbitration was held in a room over a taproom with no procedure and no standing and no rules and no chair with power, and about nine people went four hundred yards and brought eleven more, and it produced an instrument and not a decision.*
+*Seven. On the thirtieth day, nineteen houses at the Fen were put out of the water of this town under clause five, cause four, upon a cause set out in writing by a man of sixty-one who was in the water himself in the ninth year before the division. The finding was correct. The word required went into a minute of this town for the first time in four hundred years, and it was struck out of the minute in the room.*
+
+*Eight. On the thirty-first day, four lines of a letter of four pages were read out in a market square by a man who is on nobody’s book, and a second sheet folded in four with nothing on the outside of it was read out in about four minutes, and it cannot be un-read.*
+
+*Nine. On the thirty-sixth day, a man of fifty-four asked in a stone room with about nine people in it whether anybody can be sent for, and was told in front of the room that a thing is sent for by a person with a form, and there is no office in this county that can hold one. A copyist drew up a head and two lines under it at her own table with no body behind them, and read them out standing, and it is the first two lines of anything that anybody in this town has ever drawn up for anybody else.*
+
+*Ten. On the thirty-seventh day, the board of this town sat for the first time since the thirtieth and answered those two lines in the words of the request, and both of the answers were correct, and the first of them was that the board has no power to appoint a person to hear this matter and cannot appoint and has no list from which to appoint. The number of days in that room was seven out of the water and seven that the bar has not been turned, and those are not the same seven, and the difference between them is a Wednesday, and the Wednesday is the day the board sat.*
+
+*Eleven. On the thirty-eighth day, a nail in a board in a shed with a piece of tin on it was proposed as the fifth instrument of this town and refused in about four minutes by about nine people who were all right, on the ground that an instrument has to be able to say no, and a man of thirty-one was proposed as a sixth and refused in about nine minutes, and the list is four.*
+
+*Twelve. On the thirty-ninth day, the second sheet folded in four was read out in the same market square to about two hundred people, and a boy of fifteen asked who had witnessed the refusal in it and the man reading it out could not answer, and a woman of thirty-four told him out loud that a thing read aloud in a square is a thing a person has been said to have said. It cannot be un-read and it cannot be given back.*
+
+*Thirteen. On the fortieth day, an arbitration was held in a room over a taproom with no procedure and no standing and no rules and no chair with power, and about nine people went four hundred yards and brought eleven more, and it produced an instrument and not a decision.*
 
 *The instrument is a sheet of paper with a head on it, a day on it, four instruments and who holds each, and an account of what a row was told and by whom and on what day, given by a woman who is not a household.*
 
-*Eight. On the forty-first day, the word required went into a minute of this town a second time, and this time it was good, and the answer to it is one word and it is entered in the minute.*
+*Fourteen. On the forty-first day, the word required went into a minute of this town a second time, and this time it was good, and the answer to it is one word and it is entered in the minute.*
 
 *The ninth clause was used once in six weeks. It was used to stop nine men of a majority, and it protected the man who would have compelled and not the person who would have been compelled.*
 
-*Nine. On the forty-second day, a levy of three and a halfpence on each of the eighty lots upon the Four Hundred was asked for by eight men to one, and it is one pound and three shillings and fourpence, and it is charged in the roll for the autumn, and the first collection is thirteen weeks off.*
+*Fifteen. On the forty-second day, a levy of three and a halfpence on each of the eighty lots upon the Four Hundred was asked for by eight men to one, and it is one pound and three shillings and fourpence, and it is charged in the roll for the autumn, and the first collection is thirteen weeks off.*
 
 About nine people in that stone room let her stop, and about thirty people in the square outside it heard about two thirds of it through the open door.
 
@@ -82,11 +94,11 @@ And then the copyist read out what had not been done, and she did it without bei
 
 “*Go on and say the rest of that, and do not make it a speech.*” said Ordwin Cape, from the rail.
 
-“*And it has been used once. On the eleventh day after the division, in a lane, by a woman of thirty-four who is not a head of household and has never been in the House of this town in eleven years.*”
+“*And there has been one refusal in this town in six weeks and the woman who made it did not have it. On the eleventh day after the division, in a lane, a chair of this board put the whole of the book into four sentences in front of about nine people and a woman of thirty-eight who keeps the sluice at the Fen said no, and she is a household of this town, and that is the whole of what is wrong with it.*”
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
-“*A form had been put in four sentences in front of about nine people and she refused it. There is no form in the county of Ostrey that says a person may be given the right of refusal, and she did not have it, and she was right, and nobody has given her anything for it since, and she is out of the water.*”
+“*There is no form in the county of Ostrey that says a person may be given the right of refusal, and she did not have it, and she was right, and nobody has given her anything for it since, and she is out of the water.*”
 
 Nobody in that stone room said anything for about a minute.
 
@@ -134,7 +146,7 @@ Sefa Lund put her hand flat on the frame of the gate and took it off again, whic
 
 “*Yes,*” said Ilyan Vester.
 
-“*And there is a thing on this sluice with hinges on it. “*It has been open for fourteen days, and about twenty-two people live in the row below it and not one of them is a household of this town, and anybody in this county can shut that gate or open it.*”
+“*And there is a thing on this sluice with hinges on it. It has been open for fourteen days, and about twenty-two people live in the row below it and not one of them is a household of this town, and anybody in this county can shut that gate or open it.*”
 
 “*Go on and say the rest of that and do not make it a speech.*”
 
