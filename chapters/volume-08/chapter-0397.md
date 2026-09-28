@@ -94,7 +94,7 @@ And then the woman at the door who had been standing in it for the whole of the 
 
 “*I am not asking you to say it again. I am asking whether the hundred and forty can go in the roll.*”
 
-“*Yes,*” she said. “*All of them. Tomorrow, and the ones after that, and the ones after that, and I will not be thanked and I have stopped waiting for it and I have told two magistrates and a bench of four and a room of forty people that I will not be thanked and I am not going to stop saying it because I have said it a lot.*”
+“*Yes,*” she said. “*All of them. Tomorrow, and the ones after that, and the ones after that, and I will not be thanked and I have stopped waiting for it and I have told a magistrate and a bench of four and a room of forty people that I will not be thanked and I am not going to stop saying it because I have said it a lot.*”
 
 Nobody thanked her.
 

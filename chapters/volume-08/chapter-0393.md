@@ -2,7 +2,7 @@
 
 The third day of the seventy-eighth week was his hundred and forty-third morning and his forty-second in a city he came to on foot, and the fever was fifteen weeks and five days old, and the part of the order had stood nineteen days, and nobody had called that room for anything, and it was full at the second hour anyway, because it is a room and the door is open and in this city that has turned out to be the whole of how a room gets used.
 
-The woman on the stool came up the row at the first hour and stood by the end of the long table and did not sit down, and she had a slate off a man who keeps a column of nineteen and a stub of chalk off the man at the wheel, and she had asked for the chalk and he had not asked her why and had put it on the table by his own hand, and she was going to give it back and neither of them was going to write it anywhere, and this was the first time in sixteen weeks that she had been in a room with a slate in it.
+The woman on the stool came up the row at the first hour and stood by the end of the long table and did not sit down, and she had a slate off a man who keeps a column of nineteen and a stub of chalk off the man at the wheel, and she had asked for the chalk and he had not asked her why and had put it on the table by his own hand, and she was going to give it back and neither of them was going to write it anywhere, and this was the first time in fifteen weeks and five days that she had been in a room with a slate in it.
 
 “*I am going to do it in front of you,*” she said, “*because I have been on a stool since the eighth morning of this fever saying one short thing every morning to everybody who comes through a door, and I have got nothing else, and a slate is the only thing in this city that anybody can be shown a number on and be argued with.*”
 
@@ -22,7 +22,7 @@ She put a mark on the slate and turned it round so that the room could see it, w
 
 ---
 
-“*Here is the arithmetic and it took me all night and it is not a feeling,*” she said. “*Nobody has been moved out of a hall in Cresset Street. Not one person, in sixteen weeks, and there are three halls up there, and I am not in them and I cannot get to them and neither can anybody in this room.*”
+“*Here is the arithmetic and it took me all night and it is not a feeling,*” she said. “*Nobody has been moved out of a hall in Cresset Street. Not one person, in fifteen weeks and five days, and there are three halls up there, and I am not in them and I cannot get to them and neither can anybody in this room.*”
 
 “*Then you have not proved it.*”
 
@@ -44,7 +44,7 @@ Nobody said anything for a while, and the man with the bad ear said it.
 
 “*And nobody can be asked,*” said Tarin Keel.
 
-“*Nobody can be asked,*” said the woman on the stool. “*That is the last part and it is the one I have been saying one sentence about every morning for sixteen weeks without knowing it. The people that rule moves are the worst today. There is no meeting of them and there is no name for them and there is nobody at the top of anything, and you cannot ask a group whether it agrees, because there is nothing to ask, and you cannot tell one of them that anything has happened, because you do not know this morning who it will be.*”
+“*Nobody can be asked,*” said the woman on the stool. “*That is the last part and it is the one I have been saying one sentence about every morning for fifteen weeks and five days without knowing it. The people that rule moves are the worst today. There is no meeting of them and there is no name for them and there is nobody at the top of anything, and you cannot ask a group whether it agrees, because there is nothing to ask, and you cannot tell one of them that anything has happened, because you do not know this morning who it will be.*”
 
 The woman of twenty-eight came in at that, and she was not asked, and she came in because the room was full and she is a person who goes to doors and a full room is a place where people are.
 

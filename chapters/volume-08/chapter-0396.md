@@ -68,7 +68,7 @@ She picked the slate up again.
 
 “*Say the last of it.*”
 
-“*Nobody can be sent for you. There is no runner and no tray and no line on any form in that building that will put a magistrate in a row, and that has been the shape of the whole time I have been writing orders in this city and it is the only good thing anybody can say about you. This ward has had one person nobody can be sent for since the eighth morning of the fever and she is fifty-eight and she is on a stool, and after this morning it has got two, and I do not know that is a good thing and I am the one who is saying it, and I am not going to be thanked for saying it and I am not going to be forgiven for it either, and I have been at this thirty-four days and I have said one short thing at a door every morning and this is the longest thing I have ever said anywhere.*”
+“*Nobody can be sent for you. There is no runner and no tray and no line on any form in that building that will put a magistrate in a row, and that has been the shape of the whole time I have been writing orders in this city and it is the only good thing anybody can say about you. This ward has had one person nobody can be sent for since the eighth morning of the fever and she is fifty-eight and she is on a stool, and after this morning it has got two, and I do not know that is a good thing and I am the one who is saying it, and I am not going to be thanked for saying it and I am not going to be forgiven for it either, and I have been at this thirty-five days and I have said one short thing at a door every morning and this is the longest thing I have ever said anywhere.*”
 
 ---
 

@@ -64,7 +64,7 @@ Nobody asked him why.
 
 And the one person in that row who the order had never touched came down his nine steps while that was going on, because he comes down them every morning, and his light is better than it was and there is nobody in this city who put anything there.
 
-He is forty-four and his head is his sister's husband and he is not on the roll of this ward and has asked twice and was told to come back when he has the paper, and he is not asking a third time. He stood at the bottom of his own steps and listened to a man be asked a question he could not answer, and he did not say anything, and then he said the only thing he had come down for.
+He is forty-four and the head of his house is his sister's husband and he is not on the roll of this ward and has asked twice and was told to come back when he has the paper, and he is not asking a third time. He stood at the bottom of his own steps and listened to a man be asked a question he could not answer, and he did not say anything, and then he said the only thing he had come down for.
 
 “*Is my door in it.*”
 

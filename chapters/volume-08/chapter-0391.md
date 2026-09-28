@@ -2,7 +2,7 @@
 
 The first day of the seventy-eighth week was his hundred and forty-first morning and his fortieth in a city he came to on foot, and the fever was fifteen weeks and three days old, and the order was on the wall of the public room at the foot of the hill with nine inches of blank under it, and he wanted seven things read out in that room in front of a bench of four, and there was nothing in this city that would let him do it.
 
-He had known that since the last day of last week, when he had put seven true things on a long table one at a time and had watched forty days of a ward look at them and join none of them to any other. The bench of four had been upstairs the whole of that morning, and it had not come down, and nobody had decided that it should not.
+He had known that since the last day of last week, when he had put seven true things on a long table one at a time and had watched the ward come and look at them and join none of them to any other. The bench of four had been upstairs the whole of that morning, and it had not come down, and nobody had decided that it should not.
 
 ---
 

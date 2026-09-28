@@ -36,7 +36,7 @@ Nobody thanked him.
 
 The dead are not a thing that gets better in a week and the clerk of thirty was the one who said so, on the second day, standing in the room at the foot of the hill with his tray, in the flat voice, because a rule that is not read out is a thing that hangs on a wall and he had spent nine years with a wall and a bench of four had gone the whole of a week without one.
 
-“*The count of the dead is in two wards and not in four, and it has not moved in the three days since it went down and is not going to move this week, and I am not going to be asked to put a number of dead in a return, because a return is a form about a thing that was asked, and nobody has asked me for it, and if somebody asks me for it I will put on it what the man with the bad ear has got on his board in chalk and the rest of it will be nobody's.*”
+“*The count of the dead is in two books and not in four, and it has not moved in the three days since it went down and is not going to move this week, and I am not going to be asked to put a number of dead in a return, because a return is a form about a thing that was asked, and nobody has asked me for it, and if somebody asks me for it I will put on it what the man with the bad ear has got on his board in chalk and the rest of it will be nobody's.*”
 
 “*What is on his board.*”
 
@@ -44,7 +44,7 @@ The dead are not a thing that gets better in a week and the clerk of thirty was 
 
 Nobody said anything.
 
-“*And the other hundred and twenty-odd are in four books in four wards and there is no office the four of them can hand a book to, and there is no column for them and there is no heading over them, and there has not been a heading in this city for a person who died of anything since before the water came, and I have looked.*”
+“*And there are four books in four wards and no office the four of them can hand a book to, and the four of them have never been added together and cannot be, and there is no column for them and there is no heading over them, and there has not been a heading in this city for a person who died of anything since before the water came, and I have looked.*”
 
 ---
 
@@ -70,7 +70,7 @@ The boy of eight was still in a bed at the top of this city on the second day an
 
 His mother was at the standpipe at the last of the light and the water was down a hand's width again and the row was quiet, and she filled the pail and she did not say anything, and she will be at that standpipe in the morning, and nobody had said his name out loud in any room in this city in his life and nobody said it in this one.
 
-And nobody in this city has one of the words that would let a person say no to the order. The order stands. It has an end in it now and a date and a review and a second pair of hands on it, and the right to refuse it has not come back to anybody, and an exit is not a refusal, and it was not a refusal on the day it went up and it is not one now, and the sixth part is a way out of a thing a person is in and not a way of not being in it, and there is no form in four hundred miles that lets a man in Orison be outside it.
+And nobody in this city has one of the words that would let a person say no to the order. The order stands. It has an end in it now and a date and a review and a second pair of hands on it, and the right to refuse it has not come back to anybody, and an exit is not a refusal, and it was not a refusal on the day it went up and it is not one now, and the sixth part is a way out of a thing a person is in and not a way of not being in it, and there is no form in four hundred miles that lets a person in Orison be outside it.
 
 And there is a bill on the wall at the foot of a hill with a heading on it about a bell keeper in a county four hundred miles off, and nobody can pay any of it, and a line on it is blank, and the fee is four shillings the hundred names, and the three hundred names that stopped being a thing anybody had to pay for are not on a plate and are not going to be on one this month or the next.
 
