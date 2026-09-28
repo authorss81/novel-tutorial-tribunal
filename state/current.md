@@ -1,6 +1,6 @@
 # State — Current
 
-## VOLUME 10 IS OPEN. BATCH 0004 IS DELIVERED, CHAPTERS 481 TO 490, AND THE ARBITRATION WAS REFUSED AND THEN HAPPENED.
+## VOLUME 10 IS CLOSED. BATCH 0005 IS DELIVERED, CHAPTERS 491 TO 500, AND THE CHARTER, THE EXIT, AND THE FAMILY RECORD ARE DONE.
 
 **This block supersedes every block below it. The Batch 0003 block and the Volume 09 block below are history, not memory, and are recoverable from git.** Chapters 1–450 are canon and *The Regent's Exception* is finished. Chapters 451–490 are canon. `outline/series.md:207` outranks `outline/ending.md`, outranks `outline/volume-10.md`, outranks any state file, outranks any prompt. **Read this file and the top block of one other; everything below a top block is history.**
 

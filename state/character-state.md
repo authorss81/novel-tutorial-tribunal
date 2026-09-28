@@ -1,4 +1,15 @@
-# Character State — end of Chapter 490, Volume 10 Batch 0004
+# Character State — end of Chapter 500, Volume 10 closed, Batch 0005
+
+**This block supersedes everything below it. The Volume 09 block below is history and is in git at `90c3efd` and `1e8801a`.** Chapters 1–450 are canon and closed. Chapters 451–500 are canon. **Nobody has been relieved, forgiven, redeemed or thanked, and a man of thirty-nine said that out loud in a room on the thirty-eighth day after the division and said there is no form in the county of Ostrey that says a man must be sorry.**
+
+## 1b. What 491–500 changed
+
+**ILYAN VESTER (thirty-one; day 48 in Halloway at 500; morning 250).** Named 10 of 10 with want, mistake, cost each: `491` wants the fortieth-day instrument to have been a mistake, refused by Ivo Cray; `492` calls the tail bar cowardice, corrected; `493` wants into the roll room, shut out, learns the deciding day was one he missed; `494` makes the heel legible, told a sound is not a sentence; `495` says his sentence a fourth time to forty-one, mostly unheard; `496` wants a form, refused for an exit; `497` wants to be the instrument, told the sentence is the room; `498` offers to be party, refused correctly, changed from the thirty-eighth day; `499` writes in her hand again; `500` sees his own hand in a witness line and tells nobody, correctly, carrying it alone.
+**SEFA LUND (38, sluice keeper, household).** Eleventh-day lane refusal stands as hers alone; named as refuser in the 499 request with the witness line open. `499`
+**WENNA CRALE (34, copyist).** Authors charter request, exit ruling on squares, compact lines, register request; sole judge of square-sentence asking; one of four who know the hand. `496`–`499`
+**MAB HARROW (34, second room, not head).** Says instrument-vs-decision and clause-vs-exit aloud; refused nothing; household distinction held. `491`, `496`
+**PERDY SALLOW (47) / AMOS TRILL (61) / ORDWIN CAPE (61) / IVO CRAY (34) / OTT VERNAY (39).** Perdy writes exit and compact refusal; Amos counts 1,074 correctly and unknowing; Ordwin asks the naming questions; Ivo gives both halves twice; Ott carries his book as his named burden. `491`–`498`
+**SERA QUILL (28, four hundred miles off).** No new letter; her six-year-eleven sentence and shelf/lane pages carry the exit; one page from her building returns with two names, unexplained. `496`–`500`
 
 **This block supersedes everything below it. The Volume 09 block below is history and is in git at `90c3efd` and `1e8801a`.** Chapters 1–450 are canon and closed. Chapters 451–490 are canon. **Nobody has been relieved, forgiven, redeemed or thanked, and a man of thirty-nine said that out loud in a room on the thirty-eighth day after the division and said there is no form in the county of Ostrey that says a man must be sorry.**
 

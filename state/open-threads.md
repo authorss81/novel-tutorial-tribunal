@@ -1,6 +1,6 @@
 # Open Threads
 
-**A thread is a thing a person is still doing. A hazard is not a thread.** This block supersedes everything below it. **Chapters 1–450 are canon and closed. Volume 10 is open and Batch 0004 is delivered to Chapter 490.** The Volume 09 block below is history and is in git at `90c3efd`.
+**A thread is a thing a person is still doing. A hazard is not a thread.** This block supersedes everything below it. **Chapters 1–450 are canon and closed. Volume 10 is CLOSED at Chapter 500.** The Volume 09 block below is history and is in git at `90c3efd`.
 
 ## 0. Hazards, not threads
 
@@ -55,6 +55,11 @@ The office of Regent of the Shelf is not held and the second seat is vacant; the
 ## 3. Held, still not opened
 
 South side unnamed and the only way past; nobody able to take the bar down; the removal of a woman who never left; the carrier's wage with no line; `co-witness` as work and not a rank; **the standing long question, in a clerk's own hand four hundred miles off: what did the First Witness sign, and which people are still governed by that signature**; about a hundred and forty dead, unanswered and unsummed; the twelve shillings and the three hundred blank names untouched, the blank correct; the bell, the porch and the corridor unchanged; **and a range of a book eleven inches from where a woman of twenty-eight sits, with about nine hundred refusals in it, one of which may be four letters and a stroke, which she has not opened and has now written down eleven times that she is not going to, and the eleventh of those is in a letter in a market town that has been read out in a market square in four minutes and again to about two hundred people, and a second letter has gone out of that town in her own hand with nothing on the outside of it.**
+
+## 5. What 491–500 closed, and what Volume 11 inherits
+
+**Closed:** instrument-vs-decision named; tail bar resolved; roll made at 1,074 (unknown a year); heel gone and entered; House called and canvassing; charter with six headings and an inside-handle exit; five-town compact with named burdens; lane-refusal entry requested with witness open. **Right of refusal unrestored; out-of-roll book unwritten; ninth clause used once (forty-first) for the compeller; lane refusal (eleventh, Sefa Lund) never merged with it.**
+**Open for Volume 11:** the returned page with two witness names, unexplained, First Witness unnamed; whether the open witness line is ever filled; the forty-one kitchens answers; the thirteen-weeks-off collection; the unturned bar and open gate; Ilyan on somebody book and not his own; Sera family record pointing at the first hidden refusal clause; why his tester hand stands beside a Veyran refusal witness.
 
 ## 4. What 481–490 did not do
 

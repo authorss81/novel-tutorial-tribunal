@@ -1,6 +1,6 @@
-# Continuity — Volume 10 open, Chapter 490
+# Continuity — Volume 10 closed, Chapter 500
 
-**This block supersedes everything below it. The Volume 09 block below is history and is in git at `90c3efd` and `1e8801a`.** Chapters 1–450 are canon and closed. Chapters 451–490 are canon. Hand-off in `state/current.md`; measures in `state/batch-summary.md`; people in `state/character-state.md`; threads in `state/open-threads.md`.
+**This block supersedes everything below it. The Volume 09 block below is history and is in git at `90c3efd` and `1e8801a`.** Chapters 1–450 are canon and closed. Chapters 451–500 are canon. **Volume 10 is CLOSED.** Hand-off in `state/current.md`; measures in `state/batch-summary.md`; people in `state/character-state.md`; threads in `state/open-threads.md`.
 
 ## 0. The ground
 
@@ -85,6 +85,15 @@ Shelf = `chapter − 125`; morning = `chapter − 250`; settlement = `chapter �
 7. **The four instruments of Halloway are named in a document for the first time: a miller's second book shut to a hand's width, a copyist paid two pounds a year, a minute of a water board, and a woman who refuses things in lanes. A fifth thing, a nail in a shed, was proposed as an instrument and refused, correctly. A sixth, a man of thirty-one, was proposed and refused in nine minutes, correctly.**
 8. **An arbitration was held in a room over a taproom on the fortieth day with no procedure, no standing, no rules and no chair with power, and it produced an instrument and not a decision, and about four people in that room understood that and about twenty-six of them were not.**
 9. **A woman of twenty-eight four hundred miles off has written four pages in a round hand addressed to a water board and not to a man, not signed with her name, which say that she can build him a shelf and he can build her a lane and neither of them can build the other one's thing, and that the range of about nine hundred refusals is on a shelf eleven inches wide eleven inches from where she sits and she has not opened it and has written down eleven times that she has not.**
+
+## 4b. What 491–500 closed, and the five new documents
+
+**30f. THE REQUEST FOR A CHARTER.** Head and two lines, copyist hand, her own table, no body behind it, forty-ninth/fiftieth day. Six headings asked: subject, condition, burden, witness, remedy, exit; exit unsuppliable in the county; objections enterable. In the press. `496`
+**30g. THE EXIT.** Seventh heading with a handle on the inside: any household or person, entered or not, may leave the water covenant on a day notice at the Stone House without forfeit of dwelling, no question of character, rate or household. Written fifty-first day, read with the door open. `497`
+**30h. THE COMPACT.** Six lines with about four towns not upon a road of the Shelf; sixth line the exit; holders named, burdens on named people. Ilyan offered and refused, correctly. `498`
+**30i. THE REQUEST TO THE REGISTER.** Head and two lines asking entry of the eleventh-day lane refusal, refuser Sefa Lund named, witness line open at about nine words. Fair copy in the small upright hand, folded in four, nothing outside, by carrier. `499`
+**30j. THE PAGE THAT CAME BACK.** One page from a register in the building four hundred miles off where a woman of twenty-eight sits: refusal by a household dead save one, witness line with TWO names, one of the town, one a hand not of the town seen before by a man of thirty-one on a form about ninety thousand people. In the press beside the charter. Unexplained; First Witness unnamed, unaddressed, unanswered. `500`
+**Roll:** made forty-seventh day at 1,074 (year £35 16s 0d, quarter £8 19s 0d, with levy £10 2s 4d; held roll 1,052 with levy £9 18s 8d; difference 44d a quarter, unknown a year). **Frame:** heel gone forty-eighth day, entered dateless of blame. **Bar:** unturned twenty-four days at close; wheel twenty-three slow. **House:** called forty-ninth day after nine years; forty-one kitchens canvassed. **Right of refusal unrestored; ninth clause used once (forty-first); lane refusal (eleventh, Sefa Lund, 38, household, form written for her) requested for entry, witness open.**
 
 ## 5. What is not true and has not been made true
 
