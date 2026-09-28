@@ -4,11 +4,11 @@ Fourth day of the eighty-eighth week. His two hundred and fourteenth morning. Si
 
 The market in Halloway is on a Tuesday and it has been on a Tuesday for longer than anybody in that square can remember, and on the Tuesday of this week it rained so hard that about a fifth of it stood, and the carts that could not get into the square came on the Friday instead.
 
-So there was a market in Halloway on a Friday for the fourth time in nine years, and about four hundred people were in it, and about nine of them had been in it on the Tuesday and had come back to tell somebody what it was like.
+So there was a market in Halloway on a Friday for the fourth time in nine years, and about two hundred people were in it, and about nine of them had been in it on the Tuesday and had come back to tell somebody what it was like.
 
 The lane above the sluice is mud to the ankle for four hundred yards.
 
-Four days ago about four hundred people had walked that lane twice a day with two tin pails, one a hand’s width narrower than the other, and the water came back into the race on the Monday morning, and the pails went back into eight or nine doorways, and the lane is now the worst four hundred yards in the county and will be until it dries or until the frost, and a carter at the top of it will not take a load down, and has said so twice.
+Four days ago about two hundred people had walked that lane twice a day with two tin pails, one a hand’s width narrower than the other, and the water came back into the race on the Monday morning, and the pails went back into eight or nine doorways, and the lane is now the worst four hundred yards in the county and will be until it dries or until the frost, and a carter at the top of it will not take a load down, and has said so twice.
 
 That is what the nine days have become. Not a hardship. An argument about mud.
 

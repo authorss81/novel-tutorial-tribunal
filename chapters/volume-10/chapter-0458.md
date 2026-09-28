@@ -12,7 +12,7 @@ The second day of the nine is the day the buckets start. Two tin pails with hand
 
 “*Say the rest of that and do not stop in the middle of it.*”
 
-“*So it is nine days of winding a shut gate, which is a thing nobody in this country has to do and which is the last thing on the frame before the heel goes. And it is nine days of about four hundred people walking four hundred yards with two pails, and there are about twenty-three of us in this row and about four hundred people in this town who come up here, and we run out of pails on the Wednesday.*”
+“*So it is nine days of winding a shut gate, which is a thing nobody in this country has to do and which is the last thing on the frame before the heel goes. And it is nine days of about two hundred people walking four hundred yards with two pails, and there are about twenty-three of us in this row and about two hundred people in this town who come up here, and we run out of pails on the Wednesday.*”
 
 ---
 
@@ -122,6 +122,6 @@ She put her hand flat on the book.
 
 He put the return back in the inside pocket of his coat.
 
-The fever was twenty-five weeks and no days old. About four hundred people were carrying water four hundred yards twice a day.
+The fever was twenty-five weeks and no days old. About two hundred people were carrying water four hundred yards twice a day.
 
 A woman of thirty-four had been refused credit in a shop by a man of thirty-nine who did not know her. A copyist had refused a number for the best reason anybody had heard in nine days. And a man of thirty-one was sitting over a cup of tea that had gone cold in it, with a figure back in the inside pocket of his coat where it had been for twenty days.

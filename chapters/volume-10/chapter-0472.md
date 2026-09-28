@@ -6,7 +6,7 @@ The market in Halloway is on a Tuesday and it has been on a Tuesday for longer t
 
 So about two thousand people were in a cobbled square the size of a good field with no hood between them, and it was the first day in three weeks that anybody in that town could remember the day of the week.
 
-He had no part in it. He had been in that square on a Tuesday in the rain with a hundred people and on a Friday with four hundred, and both of those had been about something. On the Saturday it was a market, and in the middle of it a man he had never spoken to stood at the edge of the awning of the mill with a folded paper in his coat and looked at him for about a minute and a half, and then went up the lane.
+He had no part in it. He had been in that square on a Tuesday in the rain with a hundred people and on a Friday with two hundred, and both of those had been about something. On the Saturday it was a market, and in the middle of it a man he had never spoken to stood at the edge of the awning of the mill with a folded paper in his coat and looked at him for about a minute and a half, and then went up the lane.
 
 ---
 

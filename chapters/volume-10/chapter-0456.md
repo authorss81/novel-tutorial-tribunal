@@ -8,7 +8,7 @@ The steward took the two top nails and the clerk took the two bottom ones becaus
 
 “*Say how long it was up,*” said Wenna Crale, to nobody, and then answered herself, which she has done twice in nine years. “*Since the audit of nine years back, which is the last time there was a common to audit. There was an audit ten days ago, on the Monday the common was signed away, and it was an audit of a common, and there was no common, and so it did not come down, and the whole of it took four lines and about two minutes.*”
 
-The board was on the long table and the fire was lit and the room had nine men of the water board in it, and the steward, and the clerk, and four people from the Fenrow in the doorway, and about four hundred people in the square outside who had come because it was a Thursday.
+The board was on the long table and the fire was lit and the room had nine men of the water board in it, and the steward, and the clerk, and four people from the Fenrow in the doorway, and about two hundred people in the square outside who had come because it was a Thursday.
 
 The four people in the doorway were the only ones there who could not be charged for the water.
 

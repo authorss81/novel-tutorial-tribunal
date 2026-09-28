@@ -50,7 +50,7 @@ By the middle of the day the figure in the market was one thousand and ninety-on
 
 ---
 
-He went back into the market at about the eighth hour on the same Tuesday, in the wet, and about four hundred people were still there because it had not gone dark, and he stood on the same step.
+He went back into the market at about the eighth hour on the same Tuesday, in the wet, and about two hundred people were still there because it had not gone dark, and he stood on the same step.
 
 He took it back, and he took it apart, and it took him about nine minutes, and about two hundred people heard all of it, and the two mill foremen heard it and repeated it and got it wrong again by four.
 
@@ -114,4 +114,4 @@ She stood in the mud of a market square and thought about it for a while.
 
 The fever was twenty-four weeks and three days old. The roll of Halloway was made once a year, and it had been made in the week the common was sold, and nineteen houses were on it as land.
 
-A stranger had put a wrong figure into a market on a Tuesday and had taken it apart in the same square on the same day in front of about four hundred people, and the correct figure was that he did not know it.
+A stranger had put a wrong figure into a market on a Tuesday and had taken it apart in the same square on the same day in front of about two hundred people, and the correct figure was that he did not know it.
