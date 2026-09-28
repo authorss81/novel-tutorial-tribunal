@@ -72,13 +72,17 @@ Nobody in that room said anything for about nine seconds.
 
 “*The nineteen houses put on the roll on Sunday bring in twelve shillings and eightpence between them for the whole year, at eight pence a household, and the heel is nine pounds.*”
 
-“*Say the rest of that, and do not leave the twenty-eight pence out of it, because I have had that figure wrong twice this morning.*”
+“*Say the rest of that, and do not leave the twenty-eight pence a quarter out of it, because I have had that figure wrong twice this morning.*”
 
-“*The money in the board’s hand is a year’s money divided into four. The figure a woman of thirty-four proved on Monday is wrong by a hundred and twelve pence a year, which is twenty-eight pence a quarter. So the true quarter is twenty-eight pence more than the one in my hand and is eight pounds and nineteen shillings, and the heel is nine pounds, and it is short by a shilling instead of by three and fourpence, and there is no way of writing that column in which the heel comes out of it.*”
+“*The money in the board’s hand is a year’s money divided into four, and the figure a woman of thirty-four proved on Monday is a year’s money divided into four as well, and the two of them differ by what the roll takes out and not by anything to do with the nineteen. Twenty-two households stand in that row and not nineteen, and eleven rows in this town are entered as land and are not households at all, and that is twenty-four pence on three doors and eighty-eight pence on eleven rows, which is a hundred and twelve pence a year, which is twenty-eight pence a quarter.*”
+
+“*Say the rest of it and go on to the end of it.*”
+
+“*So the true quarter is twenty-eight pence more than the one in my hand and is eight pounds and nineteen shillings, and the heel is nine pounds, and it is short by a shilling instead of by three and fourpence, and there is no way of writing that column in which the heel comes out of it.*”
 
 “*Say the other half of that,*” said Sefa Lund.
 
-“*The other half is that the heel is not for the nineteen and it is not for the row and it is not for the water, and I have said that in a room over a taproom seventeen days ago and I have not been wrong about it since. The heel is for this town, and this town has eight pounds and sixteen shillings and eightpence in its hand, and a frame that is going, and if the board does the other thing it does not do this thing.*”
+“*The other half is that the heel is not for the nineteen and it is not for the row and it is not for the water. I have stood behind that since a room over a taproom fourteen days ago, where a woman of thirty-eight said it out loud and the rest of us said nothing and let it go round the room. The heel is for this town, and this town has eight pounds and sixteen shillings and eightpence in its hand, and a frame that is going, and if the board does the other thing it does not do this thing.*”
 
 “*And if the board does this thing,*” said Perdy Sallow.
 
@@ -114,7 +118,7 @@ He put his hand flat on the stone of the table, which is the thing he does, and 
 
 “*Say why you did not, and do not make it a virtue.*”
 
-“*Because you are a man with a county, and asking a man with a county what his county has is asking him to be a second thing as well as the first one. I have spent eighteen days in this town refusing to make anybody carry a thing for me, and I have been so careful about it that I have never once said out loud, in a room, in four hundred yards of lane, ask him what he has got.*”
+“*Because you are a man with a county, and asking a man with a county what his county has is asking him to be a second thing as well as the first one. I have spent seventeen days in this town refusing to make anybody carry a thing for me, and I have been so careful about it that I have never once said out loud, in a room, in four hundred yards of lane, ask him what he has got.*”
 
 “*Say the half of that which is the other half.*”
 
