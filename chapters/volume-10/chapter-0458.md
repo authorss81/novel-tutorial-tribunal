@@ -1,4 +1,4 @@
-# Chapter 458: The Water Came Up In Buckets From A Tap Four Hundred Yards Above The Sluice For Nine Days And Four Hundred People Carried It Twice A Day, And A Miller Stopped Giving Credit To A Woman Who Has Bought On Credit For Eleven Years Because He Looked Her Up In A Roll And She Was Not In It, And A Man With A Figure In His Coat Asks A Woman With A Press To Copy It And Is Refused
+# Chapter 458: The Water Came Up In Buckets From A Tap Four Hundred Yards Above The Sluice For Nine Days And About Two Hundred People Carried It Twice A Day, And A Miller Stopped Giving Credit To A Woman Who Has Bought On Credit For Eleven Years Because He Looked Her Up In A Roll And She Was Not In It, And A Man With A Figure In His Coat Asks A Woman With A Press To Copy It And Is Refused
 
 Fifth day of the eighty-seventh week. His two hundred and eighth morning. Fifty-eight days after the settlement. The fever twenty-five weeks and no days. Twelve days since the division.
 
@@ -12,7 +12,7 @@ The second day of the nine is the day the buckets start. Two tin pails with hand
 
 “*Say the rest of that and do not stop in the middle of it.*”
 
-“*So it is nine days of winding a shut gate, which is a thing nobody in this country has to do and which is the last thing on the frame before the heel goes. And it is nine days of about two hundred people walking four hundred yards with two pails, and there are about twenty-three of us in this row and about two hundred people in this town who come up here, and we run out of pails on the Wednesday.*”
+“*So it is nine days of winding a shut gate, which is a thing nobody in this country has to do and which is the last thing on the frame before the heel goes. And it is nine days of about two hundred people walking four hundred yards with two pails, and there are about twenty-three of us in this row, and about two thousand people in this town who would come up here, and we run out of pails on the Wednesday.*”
 
 ---
 

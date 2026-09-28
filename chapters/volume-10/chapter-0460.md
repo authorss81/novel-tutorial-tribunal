@@ -6,7 +6,7 @@ The House sits on forty-one stools in the Stone House with the fire lit and the 
 
 The order of the stools is the order of the wards. There are nine wards and a head of household is elected in each of them, and a head of household is not a household, and the number of households in a ward has never been the number of seats in it, and there is no form in this county that says a ward has a number of seats at all. About two hundred people could not get into a stone room in the wet and were in the square at the door, and the door was open, and everything said inside it was said out loud into the square about four times before it was finished.
 
-About two hundred people stood at the edges of the square. There were about nine of the fenrow at the front and about forty of the four hundred who had been carrying water four hundred yards twice a day for four days, and the gates of the sluice had been shut for four days and came off at the sixth hour that morning, five days early.
+About two hundred people stood at the edges of the square. There were about nine of the fenrow at the front and about forty of the people who had been carrying water four hundred yards twice a day for four days, and the gates of the sluice had been shut for four days and came off at the sixth hour that morning, five days early.
 
 There is no form in the county of Ostrey that says a person not of this town may stand in this room. He stood at the end of the fourth stool’s row with a bad leg and was not moved and was not asked twice.
 

@@ -52,7 +52,7 @@ By the middle of the day the figure in the market was one thousand and ninety-on
 
 He went back into the market at about the eighth hour on the same Tuesday, in the wet, and about two hundred people were still there because it had not gone dark, and he stood on the same step.
 
-He took it back, and he took it apart, and it took him about nine minutes, and about two hundred people heard all of it, and the two mill foremen heard it and repeated it and got it wrong again by four.
+He took it back, and he took it apart, and it took him about nine minutes, and every person on that step heard all of it, and the two mill foremen heard it and repeated it and got it wrong again by four.
 
 “*The figure of one thousand and sixty is not right and I have said it in this square and I am going to say in this square that it is not right.*”
 
