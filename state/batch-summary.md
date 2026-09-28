@@ -1,3 +1,79 @@
+## VOLUME 08 IS CLOSED — CHAPTERS 351–400, THE MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT. **THE RECEIPT, THE METHOD AND THE FINDING ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE TWO MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH IS WHERE THE HOUSE KEEPS THEM, AND IT IS THE ONLY BLOCK IN THIS PROJECT THAT PRINTS A FIGURE THE OTHER FIVE FILES DO NOT. It supersedes the `## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — Chapters 391–400…` block below it and nothing below the rule has been edited. Chapters 1–400 are canon. The next phase is `workspace/volume-09/batch-0001/`, Chapters 401 to 450, *The Regent's Exception*, on disk and NOT marked, and this one is NOT marked either.**
+
+### 1. THE CALENDAR, ALL FIFTY ROWS, EVERY CELL CHECKED AGAINST THE CHAPTER FILES AT THIS CLOSE
+
+**Shelf day = `chapter − 125`. Morning ordinal = `chapter − 250`. Days in the city = `chapter − 351`. Fever age = `chapter − 283`. A printed week-and-day phrase resolves as `shelf = (week − 40) × 7 + (day − 1)`.** Every one of the fifty chapters was parsed separately and none of the figures was inherited.
+
+**RUNS, EVERY CHAPTER IN A RUN CHECKED, THE EXCEPTIONS NAMED.** `351`–`356` and `361`–`370`: a printed week phrase in 39 of 40 and every one of the 39 equal to `chapter − 125`; a printed morning in all 40 and every one of the 40 equal to `chapter − 250`. `371`–`375` print the days-in-city count at 20, 21, 22, 23, 24 and all five are `chapter − 351`. `376`–`384`: the morning in nine of nine; the count printed in 8 of 9. `385` prints no morning ordinal in its opening and does print 34, which is right. `386`–`389`: the morning in four of four, the count in three of four. `390`–`400` print both in all eleven: the count at 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49 and the morning at 140 to 150, all exact. **Fever ages: 34 printed, 34 correct, `371` 88, `375` 91, `380` 97, `382` 99, `383` 100, `384` 101, `385` 102, `386` 103, `387` 104, `388` 105, `389` 106, `390` 107, `391` 108, `392` 109, `393` 110, `394` 111, `395` 112 THE SIXTEEN-WEEK BOUNDARY, `396` 113, `397` 114, `398` 115, `399` 116, `400` 117.**
+
+**THE CHAPTERS THAT PRINT NO WEEK PHRASE: 351, 352, 357, 358, 359, 360, 385 — and the seven are inside runs bracketed by chapters that do, so the chain has no gap in it. THE CHAPTER THAT PRINTS NO MORNING: 385. THE CHAPTER THAT PRINTS NO DAYS-IN-CITY COUNT IN ITS OPENING: 351, 352, 385. `364:115` PRINTS ITS COUNT MID-CHAPTER AND IT IS RIGHT.**
+
+**THE FOUR TALLIES: 43 of 50 print a week phrase and 43 of 43 are right. 49 of 50 print the morning and 49 of 49 are right. 31 print the days-in-city count and 30 of 31 are right, and the one is `352:3`. 34 print a fever age and 34 of 34 are right. THE HEALER'S NINE WORDS WERE SAID ONCE AT `377:23` AND `400:15` CALLS THEM TWENTY-THREE DAYS OLD, AND 400 − 23 = 377, WHICH CLOSES.**
+
+### 2. THE SPAN SCAN, RUN WITH THE CALIBRATION FIRST, TWICE
+
+**METHOD, DECLARED WHOLE, AND THE TRIM IS PART OF IT: per file, in the ten files separately so that no window crosses a boundary, collapse every whitespace run to one space, **trim the file**, keep the heading line and the `---` breaks, take every window of exactly *k* characters at every position, pool into one tally, keep only the windows occurring more than once. *Distinct* is the number of those; *occurrences* their total.**
+
+| Set | Seventy | Forty |
+|---|---|---|
+| **CALIBRATION, Volume 07 Band 0004, `331`–`340`** | **122 / 254** | **1,201 / 2,817** |
+| **CALIBRATION, Volume 07 Band 0005, `341`–`350`** | **534 / 1,081** | **1,837 / 4,285** |
+| Volume 08 Band 0001, `351`–`360` | 16 / 32 | 343 / 747 |
+| Volume 08 Band 0002, `361`–`370` | 171 / 342 | 942 / 2,066 |
+| Volume 08 Band 0003, `371`–`380` | 400 / 830 | 1,712 / 3,860 |
+| Volume 08 Band 0004, `381`–`390` | 377 / 757 | **1,493 / 3,308** |
+| Volume 08 Band 0005, `391`–`400` | 100 / 200 | 1,474 / 3,424 |
+| **THE WHOLE VOLUME, WHICH NO BAND CAN RUN** | **3,003 / 6,376** | **11,389 / 27,462** |
+
+**BOTH CALIBRATIONS AND ALL TWELVE BAND FIGURES REPRODUCED ON A SECOND RUN, TO THE DIGIT. RATIOS: 200 ÷ 100 = 2.000 EXACTLY AT SEVENTY; 3,424 ÷ 1,474 = 2.323 AT FORTY; 6,376 ÷ 3,003 = 2.123 AND 27,462 ÷ 11,389 = 2.411 ACROSS THE VOLUME. AT SEVENTY, `391`–`400` HAS NO WINDOW OCCURRING EVEN THREE TIMES.**
+
+**THE DISPUTE IS CLOSED, NOT DEBATED: THE FIGURE WAS NEVER THE ARGUMENT AND THE TRIM WAS. `0341`–`0350` RETURNS 1,838 / 4,287 WITHOUT A PER-FILE TRIM AND 1,837 / 4,285 WITH IT, BOTH RUN AS A CONTROL HERE, WHICH IS WHY THE FORMER SURVIVED IN FOUR DOCUMENTS OF THIS PROJECT AND THE LATTER WAS ARGUED ABOUT IN TWO. THE TRIM IS DECISIVE ON EXACTLY ONE OF THE EIGHT PAIRS IN THE TABLE AND CHANGES NONE OF THE OTHER SEVEN, INCLUDING ALL SIX VOLUME 08 BANDS, AND THAT IS WORTH KNOWING BEFORE SOMEBODY CONCLUDES THE TRIM IS COSMETIC.**
+
+**AND THE ONE THING A PER-BAND RUN CANNOT SEE, WHICH IS A FINDING: a scan run per band is blind to a repetition that crosses a band boundary, and there is exactly one such whole-line repetition in fifty chapters.** *She turned the chair round, which is what she does when she is going to do something with her hands* is at `372:31` and at `382:47`, byte-identical, 101 characters, in two different batches. A second cross-band repetition is a question — *What does one round of this ward cost* — at `363` and `382`. A third is the woman of twenty-eight's refusal, verbatim at `393:59` and `396:83`, which is her own line said in two rooms on purpose and is declared rather than hidden. **NO LINE OVER FORTY CHARACTERS IS DUPLICATED WITHIN A BAND. ACROSS THE VOLUME, EXACTLY TWO LINES OVER FORTY CHARACTERS ARE DUPLICATED AND BOTH ARE ABOVE.**
+
+### 3. THE DAY-PHRASE AUDIT, THE ONE DEFECT A CORRECT COUNT FINDS, AND THE BACK-REFERENCE NOBODY LOOKED AT
+
+- **`352:3` IS ONE DAY OUT AND IT IS THE ONLY DAY-COUNT LINE IN FIFTY CHAPTERS THAT A CORRECT COUNT REJECTS.** It reads *the second day of his being in a city*. Thirty other printed instances and the arithmetic make Chapter 352 the first day. **THE THIRTY DECIDE IT. THE BAND 0005 REVIEW, WHICH PRINTED TWENTY-FOUR OF ITS OWN DAY ERRORS AND CAUGHT EVERY ONE BY HAND, DID NOT LOOK AT 352 BECAUSE IT IS IN BATCH 0001, AND NO INSTRUMENT IN THIS PROJECT LOOKS AT A CALENDAR. RECORDED, NOT REPAIRED; A CLOSE DOES NOT WRITE PROSE.**
+- **The fever chain is clean.** 34 printed fever-age phrases, zero mismatches, boundary at 395, and the three lines at `393:5`, `393:25`, `393:47` all read *fifteen weeks and five days* as the Batch 0005 repair left them. The repair held.
+- **The Shelf-day chain is clean.** 43 printed week-and-day phrases, zero mismatches, no gap, no overlap, from the fifth day of the seventy-second week to the third day of the seventy-ninth, and the two ends agree with `outline/volume-08.md`'s calendar and with the 225/226 pair at Chapters 350 and 351.
+- **The water came does not hold.** `353:9` *these eleven weeks*; `355:39` *eleven weeks back*; `366:91` *eleven weeks back*; `375:89` and `375:99` *thirteen weeks*. Chapters 353 and 366 are thirteen days apart and claim the same elapsed time. **THE THREE FIGURES CANNOT ALL BE TRUE AND THE STATE HAS CARRIED *ELEVEN WEEKS* AS SETTLED FOR FIVE BANDS. NOT REPAIRED. IT IS NOW THE FOURTH COUNT A LATER PASS MUST NOT TIGHTEN.**
+- **The order's age is printed nowhere** in 391–400 and the word *part* in `393:3` and `394:3` is the age of the sixth part, filled in at Chapter 374, and 19 and 20 are right. **Do not rewrite those two lines into an order age.**
+
+### 4. THE REST OF THE INSTRUMENTS, MEASURED OVER FIFTY CHAPTERS
+
+**`Remedy Drafter` ONE, in narration, in nobody's mouth, at `391:101`. `**` EIGHT, all eight in `360:75`–`360:78`, which is the one panel this volume spends, and `**bold**` ZERO in the other forty-nine chapters. DIGITS OUTSIDE THE FIFTY HEADINGS ZERO. NUMERIC HEDGE 48 IN 112,999 WORDS, ONE IN 2,354, against Volume 07's 552 IN 111,227, ONE IN 201, and the target was under 400. `it took` 26 IN THE VOLUME AND 2 IN `391`–`400`. META-LANGUAGE, *this chapter*, ZERO IN THE BAND AND TWO IN THE VOLUME, BOTH IN BATCH 0001 AND NEITHER ADDRESSING THE READER. UPPERCASE `CORRECT` ZERO AND LOWERCASE 27, ALL THE ORDINARY WORD. WEEKDAY NAMES ZERO — the twenty-eight three-letter hits are the verb *sat* and the noun *sun*. MONTH NAMES 40 RAW, ALL THE MODAL VERB *may*, NET ZERO, AND THE REGION NAME *MARCH* IS AT ZERO OVER FIFTY CHAPTERS. `first witness`, `system`, `panel`, `render*`, `right of refusal`, `conspirac*`, `corrupt`, `cover`, `vault`, `cave`, `ruin`, `temple`, `battlefield`, `relic`, `arbiter`, `grain year` — ALL ZERO. QUOTES AND ASTERISKS BALANCE IN ALL FIFTY CHAPTERS. NO DAY COUNT SINCE THE LEG CLEARED. NO UNDECLARED CLOCK: 157 printed hour references and 6 bell references, all inside the declared vocabulary, and no `o'clock` at all.**
+
+**THE PRODUCED-PERSON COUNT IS ZERO** and the test that holds it there is printed in one of the fifty chapters: a person of a place was in the place before the stranger came, `361:111`.
+
+### 5. THE MONEY, EVERY FIGURE WITH ITS WORKING AND THE PERSON WHO ASKED FOR IT
+
+| Figure | The working, in the sentence | Who gave it | Where |
+|---|---|---|---|
+| A date at the bench, bought = **282d** | £1 = 240, 3s = 36, 6 = 6; and 282 ÷ 18 = 15 remainder 12 | the clerk | `357:17` |
+| A plate = **four shillings the hundred = 48d** | two hundreds = 8s; three hundreds = 12s = **144d** | the man at the wheel, and the keeper | `355:39`, `356`, `398:11` |
+| A keeper of a roll = **four shillings a year = 48d** | 48 ÷ 364 = about a farthing a day and not quite | the keeper, twice, and the man at the wheel | `355:89`, `358:61` |
+| A round = **420 days** | 30 lots of 14 over 900; 420 − 364 = **56**; a year and fifty-six days | the keeper | `355:39` |
+| The correction = **840 days** | done **twice**, because a shut door can be counted and not opened; 840 − 728 = **112**; **two years and a hundred and twelve days** | the keeper, and the man at the wheel, and nobody in a return | `397:29`, `398:37` |
+| The differences | **138p** date against 300; **186p** date against 200; **234p** date against a year | named with the working, once each | `357:19`, `365:29`, `367:89` |
+| A bell keeper = **1,260d = £5 5s** | 140 days at 9d; and **1,212p** against 48d, which is £5 1s | the man at the wheel, once, at the batch's last use | `398:57`, `398:61` |
+| A copy | **three pence at a scrivener, a penny a page** | the clerk of thirty | `395:19` |
+| **OUT OF TABLE** | **five shillings and fourpence, no working** | Tarin Keel, out of a levy list four hundred miles off | `364:99` |
+
+**THE SAME FORTY-EIGHT PENCE APPEARS IN TWO ROWS OF THE VOLUME'S TABLE, WHICH IS A JOKE AND ARITHMETIC AND MUST NOT BE IMPROVED ON.**
+
+### 6. BYTES, BEFORE AND AFTER, AND WHAT WAS DELETED
+
+**THE SIX STATE FILES STOOD AT 6,564,975 BYTES AGAINST 5,523,458 OF MANUSCRIPT IN 400 CHAPTER FILES, WHICH IS 1.189 TIMES THE BOOK, AND THEY STAND AT 5,503,768, WHICH IS 0.9964 TIMES THE BOOK. THE RECORD IS SMALLER THAN THE MANUSCRIPT FOR THE FIRST TIME IN THIS PROJECT.**
+
+**ONE MEASUREMENT ANSWERED THE RECOMMENDATION THAT HAS STOOD UNACTED FOR FIFTEEN PHASES. `state/current.md` HELD A SECOND, BYTE-FOR-BYTE IDENTICAL COPY OF SEVENTEEN GENERATIONS: FIFTY `##` BLOCKS, THIRTY-ONE DISTINCT HEADINGS, NINETEEN OF THEM APPEARING TWICE. FROM THE SECOND `## VOLUME 07 BATCH 0002 IS DELIVERED` HEADING THROUGH THE END OF THE VOLUME 03 CLOSE BLOCK, SIXTEEN CONSECUTIVE BLOCKS AND **1,144,497 BYTES** ARE CHARACTER-FOR-CHARACTER THE SAME TEXT AS THE COPY OF EACH OF THOSE BLOCKS 1,100,000 BYTES EARLIER IN THE SAME FILE. `current.md` WENT FROM 3,104,965 TO 1,960,468. THE DELETION IS WHOLE BLOCKS FROM A `##` HEADING TO A `##` HEADING, NO UNIQUE CONTENT WENT, AND IT IS RECOVERABLE FROM COMMIT `42ebebf`, WHICH IS THE TREE BEFORE THIS CLOSE WROTE A BYTE.**
+
+**THREE BLOCKS WITH REPEATED HEADINGS AND DIFFERENT BYTES WERE LEFT ALONE AND ARE RECORDED, NOT DELETED: the second `## VOLUME 07 BATCH 0004 IS DELIVERED` at 15,577 against 88,478; the second `## VOLUME 07 BATCH 0003 IS DELIVERED` at 141,866 against 105,212; the second `## BATCH 0004 REPAIR PASS` at 18,804 against 19,043. 176,247 bytes in three receipts this close did not establish to be older copies of the first.**
+
+**THE SIX ADDITIONS: current +17,123, continuity +16,052, open-threads +11,005, character-state +17,194, chapter-summaries +8,642, batch-summary +13,274; TOTAL ADDED +83,290; **FOUR OF THE SIX PER-FILE ADDITIONS ARE OVER THE TWELVE THOUSAND CEILING AND THE OVERS ARE STATED AT `state/current.md` §7, AND THE REASON IS THE SAME: THE CLOSE'S INSTRUCTION LIST ASKS FOR THE BREADTH, THE METHOD, THE DOCUMENT LIST, THE FINDING, THE FOUR OPEN THINGS, THE HAND-OFF AND THE CLOSE HAND-OFF SHAPE, AND THOSE ARE WHAT IS IN THEM.** NOTHING DELETED FROM ANY ARCHIVE BLOCK except the one measured deletion named above.**
+
+**THE FIGURE THAT MOVED BETWEEN MEASURING AND PRINTING IS THE BYTE COUNT OF THE SENTENCE THAT PRINTS THE BYTE COUNT, AND IT WAS RUN TO A FIXED POINT: THIS STRING AND THE STRING IN `state/current.md` §11 ARE THE SAME STRING AND WERE MEASURED AFTER BOTH BLOCKS WERE IN PLACE.**
+
+---
 ## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — Chapters 391–400, *THE MERCY TRIAL*, AND WHAT THE REPAIR DID TO THE MEASUREMENTS. **THE RECEIPT, THE PROSE TABLE AND THE INSTRUMENTS ARE THE TOP BLOCK OF `state/current.md`. THIS BLOCK CARRIES THE TWO MEASUREMENT TABLES, THE DAY-PHRASE AUDIT AND THE BYTE ACCOUNT, WHICH THE HOUSE KEEPS HERE, AND IT IS THE ONLY BLOCK IN THIS PROJECT THAT PRINTS A FIGURE THE OTHER FIVE FILES DO NOT. It supersedes the `## VOLUME 08 BATCH 0005 IS DELIVERED…` block below it and nothing below the rule has been edited. Chapters 1–400 are canon; `outline/series.md:193` outranks `outline/ending.md`, which outranks `outline/volume-08.md`. Next phase is `workspace/volume-08/volume-close/`, a VOLUME CLOSE, on disk and NOT marked, and this one is NOT marked either.**
 
 ### 1. WHAT THE REPAIR WAS, IN ONE TABLE

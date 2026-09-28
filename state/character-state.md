@@ -1,3 +1,94 @@
+## VOLUME 08 IS CLOSED — the state of every living person at the end of Chapter 400, which is the end of the volume. **SUPERSEDES THE `## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — the state of every living person at the end of Chapter 400, and the four people the repair touched…` BLOCK AND EVERY BLOCK UNDER IT. NOTHING BELOW THE RULE HAS BEEN EDITED. It is the state at the end of fifty chapters of this volume and not the whole of anything. NOBODY IS RELIEVED, FORGIVEN, REDEEMED OR THANKED, AND THIS CLOSE RELIEVED, FORGAVE, REDEEMED AND THANKED NOBODY EITHER. THE PROSE WAS NOT TOUCHED BY THIS PHASE.**
+
+### 0. WHAT CHANGED SINCE THE BLOCK BELOW, WHICH IS ALMOST NOTHING
+
+**The Batch 0005 repair moved ten lines in six chapters and touched four people. This close touched no prose at all and moved no person. What follows is the state as it stands, and where it differs from the block below the difference is marked.**
+
+### 1. ILYAN VESTER, THIRTY-ONE, AND THE THINGS THAT ARE NOT ABOUT HIM
+
+- **He is in a city.** Four hundred miles from the plank, the porch, the corridor, the tower and the unhung bell, and **nothing in Volume 09 may be set where he is not.** He came on foot and he is still on foot.
+- **The leg is the leg.** No count of days since it cleared is printed in this volume and none may be printed in any file, and the state of the grain year is not printed and may not be.
+- **He is Stage 4, and the stage arrived.** The string `Remedy Drafter` occurs **once in fifty chapters**, in an italic narration paragraph at `391:101`, in nobody's mouth, awarding nothing, four days after his draft went up a hill. It is a work and not a rank.
+- **The year of his own memory went in Chapter 197** and is paid and is not paid again. No file states a count of days or a calendar year for it.
+- **His name is on nothing he can get back.** One page in a fair hand in a book on the second floor, with his name at the top of it and a woman of forty-four at the foot of the fourth and fifth clauses, gone up a hill on a tray thirteen days before `399`. There is no form that takes a name off a page.
+- **He said a price out loud in this city seven times** and one of them was a line at the top of a form that a man of thirty-one with a bad ear asked for himself, and one of them went into a jug of water he had not wanted.
+- **AND AT `399` HE DID NOT USE THE INSTRUMENT AT ALL**, which is the only want in this volume he did not answer, and the clerk of thirty did not use his pen either, and nobody asked either of them why.
+- **The volume's arc in the series' own four steps:** he came to a city where his instrument was more expensive than it had been in a country, used it, and learned in the third use that it does not only cost the person — it chooses which side of the record the person is on. **The change is that he stopped reaching for it, and that is the hardest thing he does in fifty chapters.**
+
+### 2. MAGISTRATE RELL, THE ONLY MAGISTRATE IN 391–400, HER AGE NOT STATED IN THIS VOLUME AND NOT TO BE INFERRED
+
+- She wrote the order. Six parts, five and a half, and the half was missing on purpose and she said so in her own mouth and did not apologise.
+- **She lost the right to write an order on her own and she was out-voted three to one by four men she is not one of and has never sat with.** She said: *four is a majority, and I have not been out-voted once in this city, and I have been out-voted in a room in a morning by three men I have met once.*
+- **She is not converted, not promoted, not thanked and not forgiven, and she did not become kind.** She told the room what she wanted in four hundred words and it was the best argument anybody made in fifty chapters of that city, and it was made by the person everybody had come to be against: one person, one rule, one hand, legible to everybody it reaches, in a hurry, every time, forever — *and I would rather have the second fault than the first.*
+- **She lost the pen and kept the work, and she took up the repair because the alternative is that nobody does.** Her last image in the volume is a woman carrying a list of nine hundred doors, which is the keeper's work, given to her as a consequence and not as an apology. She did not ask for it. Nobody thanked her and she is not going to wait for it and is not going to ask for it.
+- **Nobody can be sent for her**, and there is no runner, no tray and no line on any form in that building that will put a magistrate in a row. That is the only good thing anybody can say about her and she said it about herself first.
+- Her relationship with him is at `outline/series.md:87` and the wording is the constraint: **professional respect without trust restored.**
+
+### 3. FENNA RUSK, FORTY-FOUR, KEEPER OF THE PAPER ROLL OF TALLOWGATE, ELEVEN YEARS, THIRTY-ONE YEARS IN THE CITY, PAID FOUR SHILLINGS A YEAR
+
+- Nine hundred doors, thirty a fortnight, four hundred and twenty days to a round, a year and fifty-six days over a year of three hundred and sixty-four, **and the correction has to be done twice because a shut door can be counted and not opened, and four hundred and twenty twice is eight hundred and forty, and that is two years and a hundred and twelve days.**
+- **She is in two records and not three, and the third thing is a round, and a round is not a document, and a thing that is not written down cannot be asked about — which is the first time that has been an advantage in this city.** In two years and a hundred and twelve days there will be more names in that book than have ever been checked, and she said so in her own room and did not pretend she had a way of stopping it.
+- **She is not thanked and has stopped expecting it** and has told a room, a magistrate and a bench of four that she will not be thanked and is not going to stop saying so. If anybody thanks her she will not answer and will think about it for the rest of the day.
+- She has said the figure eleven times in thirty-one years and eight of those were to men who wrote it down and not one of them ever gave it back to her.
+- **A person of a place put her name in a record and the price was said out loud before it was done, and she had to say she would not be forgiven and would not be relieved either.** That was the woman of twenty-eight.
+
+### 4. THE WOMAN OF TWENTY-EIGHT, WHO IS NOT NAMED IN THE FICTION AND IS NOT TO BE
+
+- She goes to doors on her own account, and nobody has asked her, and **she cannot say no, because saying no is doing the doors again.**
+- She has a slate, a string, and a stub of chalk a man at a wheel put on a table without asking her why she wanted it; she is going to give it back and neither of them is going to write it anywhere.
+- **She is the only person in this ward anybody can be asked about whether the doors are being gone to, and that is the thing nobody asked her for.** She has said so out loud, in rooms, to a magistrate, to a bench of four, and to a keeper, and she has refused a number of her own work twice in her own mouth, on the grounds that *a number of mine is a number about how many doors I have been to, and a door I have been to is a visit, and a visit is the only thing in this city that is not a shilling, and a visit is not a thing a person can be held to.*
+- **She is the one who said the price out loud to Magistrate Rell before Rell took the list up**, and she said it was not going to be thanked and there was nobody in that room who could thank her and nobody in that ward who ever will. And she was right about the second fault as well as the first: *if there is a second one then one of us is a lie or one of us is a spare, and I am not going to be a spare and I cannot be a lie.*
+- **And she is the one who said out loud that a review, an end and a second hand are all reached by being in a room at the second hour, and that a person in this ward who is not in that room is counted in the answer anyway.** That sentence is the floor Volume 09 stands on.
+- Her count of days is `chapter − 361`. She is a person of a place and was in the ward before he came into it, and the chapter says so.
+
+### 5. THE MAN WITH THE BAD EAR, THIRTY-ONE, PAID NOTHING, WHO ASKED FOR THE FORM HIMSELF
+
+- **He is the first person in fifty chapters who went into a record about his own nineteen because he asked to**, and he asked out loud, and the price of it was said in a room with nine people in it before he said it, and he was told he would be the man who asked him and nobody in the room would be thanked.
+- **He is the first words over a person in this city** — two lines of chalk, small, *the room, the street and the book are three places and one of them has never been in the other two* — and he says it is a sentence about a ward and not about the nineteen, and he would rather have it and be angry about it than have nothing. He is right and it is still a finding about a ward.
+- **He asked the only question of the volume that was not answered**: *Who is going to ask you about her.* He was told *nobody*, and he called that a thing about a city and not about him, and he asked for a better one and did not get it.
+- **He has said he will ask the same question in a year and in two years and when the round is done, at the end of that row, and that he is not going to say why and it is not a threat and it is not a job.** He has had a form twice since the end of the previous week and has not asked for a third.
+- He keeps a column of nineteen dead in chalk and has been paid nothing and has wanted a heading over it every day since the second week of the fever.
+
+### 6. THE CLERK OF THIRTY, WHO HAS BEEN ON THAT FLOOR NINE YEARS AND HAS NEVER LEFT IT EARLY
+
+- He is the only instrument of his kind in the volume: **a row of things is a form, a form has a line at the top, and he fills lines from the paper in front of him and not out of a man, and there is nobody in this city he can fill one out for.** He told Magistrate Rell that on her way out of a room and it was the last thing anybody said to her.
+- **He wrote nothing down for a minute** after the man with the chair nearest the door gave the finding, and that is the only time anybody who has watched him for nine years has seen him do it.
+- **He had a pen out at the end of a row in a ward and did not use it**, and said why — *because it is not a form and there is no line for it, and I fill lines and I do not make them up* — and then would not say why he did that either, and nobody asked him again.
+- He read the bill out loud and asked the room who had seen it and counted them and wrote the number nine against the line, **because a bill that nine people have seen is a bill that nine people can be asked about**, and asked for a return that says so.
+- He said the thing that the whole city has been living in for four hundred years cannot be said to him, and he is a clerk, and a bench of four is four and not a person and a room is a room and not a person who can be asked to do anything.
+- He is not thanked and has never once been thanked and does not expect it.
+
+### 7. THE MAN OF FIFTY-NINE AT THE WHEEL, WHO CUTS LINES, THIRTY-ONE YEARS IN THIS CITY, FOUR THOUSAND LINES
+
+**He is right about the plate and nobody has ever shown him a bill for anything.** He gave every money figure in the volume out loud with the working in the sentence, put a bill on the nine inches of blank under the order, crooked, on candle paper, because the paper was candle paper and the wall was not straight, and said *there is no form in this city that puts anything at all on a wall except an order, and this goes up there and it is wrong by the rules of this room and it is on the wall.* He cut nothing this week and has not been asked to since. Nobody thanked him.
+
+### 8. THE WOMAN ON THE STOOL, FIFTY-EIGHT, AT THE LOW HALL SINCE THE EIGHTH MORNING OF THE FEVER
+
+**She has said one short thing at a door every morning since the eighth morning, to everybody who comes through it, and never as a complaint, and she has not said anybody's name and has not been asked for it.** She did the arithmetic on a slate in front of forty people, proved half of it and said she could not prove the other half: *the rule moves whoever is worse, being worse is not a person and not a group and not a ward, and the houses are here because the people are here — and the rest of it is a door, and there is no form in this city that moves a name from one place to another.* She said nobody hid anything, before anybody asked her and again into a record, and she is right. She is the second person in this ward nobody can be sent for.
+
+### 9. THE MAN OF SIXTY, FOURTEEN YEARS ON A BENCH AT THE END OF THE NINTH ROW
+
+**He named the fever in about nine words, once, at `377:23`, and would not say them again, and has not been asked for a cause a third time.** *The worst keep it longest.* He is right and it is not actionable and he has been asked three times by people who wanted a thing they could put in a book. **Nobody has ever asked him his name**, and there was a bench of four in this city for two days and not one of them asked him, and he says that is not a fault. He is not thanked.
+
+### 10. TARIN KEEL, A MAN OF ABOUT FIFTY-TWO, AND THE NOTE THE BIBLE IS STILL WRONG ABOUT
+
+**`bible/characters.md` gives his age as forty-six. THE CHAPTER FILES SAY ABOUT FIFTY-TWO, IN SEVERAL PLACES, AND THE CHAPTER FILES WIN. THE BIBLE IS STALE, THE BIBLE IS NOT THIS PHASE'S TO FIX, AND NO VOLUME 09 WRITER MAY CITE THE BIBLE'S FIGURE.** He is an ally with an incompatible method and the incompatibility was not resolved and was not a fight and was not a betrayal: his method is to say a thing to the one person who can act, Ilyan's is to say a thing in front of other people, **and both of them are right and he said so and it is the last thing they agree about in this volume.** He counted a door for nineteen years, promised a fortnight at `379:77`, and broke it at `387:53` — eight days, not fourteen — and said his four figures are a number about halls and not a number about the rule. He carried a levy list out of his own past and could not put it down: a dead man in the fourth line, no road behind that gate, eleven feet that stay where they are, and a notice of five shillings and fourpence that nobody has ever paid. **He is the only person in this city who can be sent for.**
+
+### 11. THE OTHERS, BRIEFLY, EACH ONE A PERSON OF A PLACE
+
+- **IVO SERREL, FORTY-FOUR, IN HIS OWN ROOM SIX YEARS AT THE TOP OF A STAIR.** The head of his house is his sister's husband, and that head has put himself, his wife and two children in the book twice a year for six years and never once put Ivo in it. He is not on the roll, he has asked twice, he was told to come back when he has the paper, and he is not asking a third time. **He came down nine steps on `399` on his own two legs, his light is better and nobody in this city put it there, and he said *my door is in it if you go to it and it is not in it if you do not*, and that being put in a book for being well would make him a person in a record for being well. The order never touched him.**
+- **BESS CARROW, SIXTY-ONE, WHO WENT INTO A HALL ON THE EIGHTH MORNING AND IS BETTER AND CANNOT BE DISCHARGED.** Nine days in the hall and better for six of them. No discharge paper, no post in this city that makes one.
+- **THE BOY OF EIGHT.** Worse than the other nine every morning, better now, in a bed at the top of this city since the night a boy of sixteen took him up the row on a barrow, two lines in two halls and one door, and **nobody has said his name out loud in any room in this city in his life.**
+- **THE WOMAN OF SIXTY-EIGHT AT A SHUT DOOR IN A ROW ABOVE THE PLATE YARD'S**, alive at the top of this city, and the second name in the roll that cannot be put right.
+- **THE ONE WITH THE CHAIR NEAREST THE DOOR**, twenty-two years in the chamber above the nine bridges and four times in that room in it, every one in answer to a thing that had been sent up. He said the finding, and his one was the one, and he wanted it printed that his one was the one and not hers.
+- **THE MAN OF FIFTY-TWO**, who counted halls and doors for twenty years and was not let into two of the four. **THE BOY OF SIXTEEN** with a barrow, who says things out loud in doorways and is not stopped. **THE BOY OF ELEVEN** who carries water for a penny at the end of the week and is the head of his house.
+- **SERA QUILL, NADIA, BRAM ORREN AND SABLE VENN ARE FOUR HUNDRED MILES OFF OR ON EARTH, AND SABLE VENN IS NOT IN THIS VOLUME'S ENGINE AT ALL: NOT RESCUED, THANKED, RELIEVED, REDEEMED OR MADE THE VILLAIN OF ANYTHING. NOBODY HAS THANKED HER AND NOBODY IS GOING TO.**
+
+### 12. THE SIX PEOPLE OF THIS VOLUME, AND THE TEST THAT HOLDS THE CLASS EMPTY
+
+**Nobody was produced.** Fenna Rusk was in her roll. Ivo Serrel was in his room. Bess Carrow was in her hall. The plate-cutter was at his wheel. The man of sixty was on his bench. The woman of twenty-eight was in the ward before he came into it, and the chapter says so in a sentence, `361:111`. **THE COUNT IS ZERO AND IT MUST STAY ZERO, AND THE TEST IS NOT THAT A PERSON IS OLD BUT THAT A PERSON OF A PLACE WAS IN THAT PLACE BEFORE THE STRANGER CAME.**
+
+---
 ## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — the state of every living person at the end of Chapter 400, and the four people the repair touched. **SUPERSEDES THE `## VOLUME 08 BATCH 0005 — the state of every living person at the end of Chapter 400…` BLOCK AND EVERY BLOCK UNDER IT; NOTHING BELOW THE RULE HAS BEEN EDITED. It is the state at the end of fifty chapters of this volume and not the whole of anything. NOBODY IS RELIEVED, FORGIVEN, REDEEMED OR THANKED, AND THE REPAIR RELIEVED, FORGAVE, REDEEMED AND THANKED NOBODY EITHER. THE BLOCK BELOW IS STILL TRUE IN EVERY RESPECT EXCEPT THE FOUR PEOPLE MARKED BELOW, AND A LATER PASS NEEDS NOTHING FROM IT BUT THE MARK.**
 
 ### 0. THE REPAIR WAS TEN LINES IN SIX CHAPTERS AND IT MOVED FOUR PEOPLE AND ONE INSTITUTION

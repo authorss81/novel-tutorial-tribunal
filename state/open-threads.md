@@ -1,3 +1,59 @@
+## VOLUME 08 IS CLOSED — CHAPTERS 351–400, WHAT IS STILL RUNNING, AND THE FOUR COUNTS NOBODY MAY TIGHTEN. **SUPERSEDES THE `## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — CHAPTERS 391–400, AND NOTHING THE REPAIR DID OPENED OR CLOSED A THREAD…` BLOCK AND EVERY BLOCK UNDER IT. NOTHING BELOW THE RULE HAS BEEN EDITED. Chapters 1–400 are canon and Volume 08 is closed in prose. A THREAD IS A THING A PERSON IS STILL DOING; A PROSE DEFECT IS A SENTENCE THAT SAID A WRONG THING; CONFUSING THE TWO IS HOW A REPAIR BECOMES A REVISION. This close added one thread and closed none.**
+
+### 0. THE ONE THREAD THIS CLOSE OPENED, AND IT IS A THREAD
+
+**THE WATER CAME IS GIVEN A DIFFERENT AGE IN FOUR PLACES AND THE FOUR CANNOT BE TRUE.** `353:9` says *these eleven weeks*; `355:39` says *eleven weeks back*; `366:91` says *eleven weeks back*; `375:89` and `375:99` say **thirteen weeks**. Chapters 353 and 366 are thirteen days apart and claim the same elapsed time, which puts one event on two different days, and Chapter 375 is nine days after 366 and jumps a fortnight. **THE STATE HAS CARRIED *ELEVEN WEEKS* FOR FIVE BANDS AS A SETTLED THING AND IT IS NOT SETTLED. NO INSTRUMENT IN THIS PROJECT LOOKS AT IT, WHICH IS WHY NOBODY MEASURED IT IN FIFTY CHAPTERS. A CLOSE DOES NOT REPAIR PROSE AND THIS CLOSE DID NOT; IT RECORDS THE FOUR PLACES AND THE ARITHMETIC AND LEAVES THE PROSE ALONE.** A later repair pass may correct the two that lose and must say in its receipt that it has, and the correction belongs in the block that supersedes the wrong one and not in place under a new header.
+
+### 1. WHAT IS STILL RUNNING, AT TWELVE
+
+1. **The right of refusal.** Unrestored at the end of Volume 07 and unrestored at the end of Volume 08, and **nobody has one**: not the bench of four, not the woman of twenty-eight, not the boy of eight, not the man with the bad ear. There is no form in four hundred miles that lets a person in Orison be outside the order. **The Mercy Trial was exactly where a writer would have restored it and the try did not happen, and the missing sixth part is an EXIT, which is a way out of an arrangement a person is inside, and not a refusal, which is a way of not being in it.**
+2. **The order's review.** It exists: any person of the ward may use an eight-year-old form to have the order read in a room at the foot of a hill, and a bench of four will be at the table. **A review is reached by being in a room, and a person in this ward who is not in that room is counted in the answer anyway, and the woman of twenty-eight said that out loud before the settlement was printed and was right.**
+3. **The roll.** Nine hundred doors, thirty a fortnight, four hundred and twenty days, and the same four hundred and twenty again over the doors that were shut, and two years and a hundred and twelve days, and a keeper on four shillings a year who will be the person everybody asks whether it was done properly and who will have to say she did it.
+4. **Magistrate Rell's list of nine hundred doors.** Written on the back of her own hand because there was no paper, with no form for it and none going to be, and nobody can be sent for her.
+5. **The three hundred names.** In a book on a second floor and outside the protection, and not on a plate, and the line on the bill for them is blank and **the blank is the correct figure.** A name said by a person of a ward goes in without a fee, and it does not stop a record going stale, and a claim that is out of date is worse than a blank one because a blank one can be found.
+6. **The two names that cannot be put right.** One belongs to a woman of sixty-eight who is alive at the top of this city and whose name is at a shut door above the plate yard's; one belongs to a man who died in the fourth week of the fever. Neither can be taken out and neither can be made true.
+7. **The block in the gatepost.** A mark on its face nobody in that ward can read, and no meeting of a ward exists to weigh it, and the fourth line of a return is the only new thing anybody in the ward has got and the clerk of thirty has said out loud that he is not going to be the one who says that is a settlement.
+8. **The nineteen dead.** They have a sentence over them now — *the room, the street and the book are three places and one of them has never been in the other two* — and the man who wrote it says it is about a ward and not about the dead, and he has a second line on a board at the top of this city that he did not rub out, and he is going to ask the same question at the end of that row in a year and in two years and nobody has told him why.
+9. **The bell in the county four hundred miles off.** Unhung, a hundred and forty days of a keeper's wages, a tower, two carriers and no third, unpaid, and it is the figure on the heading of a bill on a wall in this city that nobody can pay any of.
+10. **The corridor in the valley of about a hundred and forty people.** Standing, signed out loud with the working printed, a man of forty named Corvin Hale alive in his own field and owed a bell nobody has bought. The porch in the valley of about sixty is gone and there is no copy in four hundred miles and there is not going to be one.
+11. **The two new questions this series asked and did not answer.** *Why do the missing anchors answer in a voice that sounds like the System*, and *what route connects the null districts to the First Compact's original anchor network.* Neither is asked in its stated form and neither is summarised. A reader may put the map beside the fever and the four records and understand that a position is a record kept in agreement by people, and that is what the roll is, and that is enough to be frightened by.
+12. **The question this volume planted and did not answer.** *Why does the System ask Ilyan to become its arbiter rather than simply accept the ruling*, `outline/series.md:195`, planted in the one panel the volume spends, at `360:75`–`360:78`, shown to a man with a bad leg who is on no list of anybody and to nobody else in the building. **`arbiter` is at zero over fifty chapters and is reserved. IT IS NOT TO BE ANSWERED IN VOLUME 09 EITHER AND IT IS VOLUME 13, 14 AND 15 WORK. IT IS SAFE FOR FORTY MORE CHAPTERS BECAUSE A QUESTION NOBODY RAISES IS A QUESTION NOBODY HAS TO ANSWER.**
+
+### 2. WHAT THE VOLUME RESOLVED, AT NINE
+
+1. **The bench of four came down the hill**, for the first time in four hundred years, by a form under a window, and it read seven things out loud and joined none of them, and said the finding itself.
+2. **A person went into a record about his own nineteen because he asked to**, and the price of it was said out loud in a room with nine people in it before he did it, and nobody was thanked and he did not expect it.
+3. **The selective enforcement is arithmetic and not conspiracy**: the rule moves whoever is worse, being worse is not a group, the houses are here, and **the difference between two kinds of ward is a door, and no document in this city mentions a door.**
+4. **The order has an end, a date, a review and a second hand on it, and the second hand is a bench of four and not a person.**
+5. **There is a bill, on a wall, with a blank fourth line, and nine people have seen it, and nobody can pay any of it, and the clerk of thirty asked for a return that says how many people saw a thing they can be asked about, which in four hundred years nobody has been able to say.**
+6. **The stage arrived** — one string, in narration, in nobody's mouth, awarding nothing, four days after the draft went up a hill.
+7. **The fever went down because a fever goes down**, said by a man of sixty who has watched four go down in forty years and has never once known why, and who refused a cause for the third time and was not asked for his name.
+8. **He stopped reaching for his instrument**, and the evidence is that a person of a place asked him a direct question at `399` and he gave a plain answer and the clerk of thirty stood there with a pen out and did not use it, and nobody asked him why.
+9. **Nobody was relieved, forgiven, redeemed or thanked.** Not the magistrate, not the keeper, not the plate-cutter, not the man with the bad ear, not the woman of twenty-eight, and not him.
+
+### 3. WHAT THE VOLUME EXPLICITLY DID NOT DO, AT TWELVE
+
+1. It did not restore the right of refusal, and it did not print the four words at the head of the plank in the March.
+2. It did not name anybody a villain and it did not say anybody hid anything; `conspirac*`, `corrupt` and `cover` are at zero over fifty chapters.
+3. It did not answer, sum, or explain the column of a hundred and forty-one figures, and it did not partition or total the hundred and forty.
+4. It did not name a position a relic, a treasure, a stone, an object to be recovered, or a thing to be found, and it did not write a vault, a cave, a ruin, a temple, or a battlefield.
+5. It did not add a panel beyond the one at `360`, and it did not print a weekday or a month-name; the three-letter weekday scan's twenty-eight hits are the verb *sat* and the noun *sun*.
+6. It did not print a count of days since the leg cleared and it did not state the state of the grain year.
+7. It did not put his name on anything, and the one page with his name at the top of it is a draft that has been on a second floor for thirteen days and cannot be got back.
+8. It did not produce a person. The class is empty and the volume is the proof of why a city makes it hard: a person of a place is in a place before the stranger arrives, and `361:111` says so in a sentence.
+9. It did not get three hundred names onto a plate, and it did not put a heading over the hundred and forty.
+10. It did not set a scene in the March; the region name is at zero over fifty chapters and he is four hundred miles off.
+11. It did not answer the question it planted, and it did not say the word `arbiter`.
+12. It did not undo anything: the corridor stands, the status is bounded, the right of refusal is unrestored, the bell is unhung, the porch is gone, the six arrangements in the lane stand and the seventh does not come back, the child in the hall is better and about a hundred and forty people stay dead.
+
+### 4. THE FOUR COUNTS A LATER PASS CANNOT CHECK AND MUST NOT TIGHTEN
+
+- **A habit at a standpipe.** A boy of eleven carrying water for a penny at the end of the week; a queue at a standpipe every morning of the eleven weeks; a mother who will be at a standpipe in the morning at `390`, `399` and `400`.
+- **The nine words said once**, at `377:23`, and refused a second time, and still true, and not actionable.
+- **Tarin Keel's broken fortnight.** Promised at `379:77` to take a fortnight, and at `387:53` he will not wait for one, which is eight days and not fourteen, and the four figures in his hand are a number about halls and not a number about the rule.
+- **THE WATER CAME, AT FOUR PLACES AND THREE FIGURES.** See §0. This one is new at this close and it is the first of the four that anybody has ever tried to count.
+
+---
 ## VOLUME 08 BATCH 0005 IS REVIEWED AND REPAIRED — CHAPTERS 391–400, AND NOTHING THE REPAIR DID OPENED OR CLOSED A THREAD. **SUPERSEDES THE `## VOLUME 08 BATCH 0005 — CHAPTERS 391–400, THE MERCY TRIAL…` BLOCK AND EVERY BLOCK UNDER IT; NOTHING BELOW THE RULE HAS BEEN EDITED. Chapters 1–400 are canon and Volume 08 is closed in prose. THE REVIEW IS `logs/batch-0005.review.log`, GITIGNORED AND RESOLVING TO NOTHING IN THE REPO, SO THIS BLOCK IS AUTHORITY. THE RECEIPT, THE PROSE TABLE AND THE INSTRUMENTS ARE THE TOP BLOCK OF `state/current.md`; THE MEASUREMENT TABLES ARE IN `state/batch-summary.md`; THE FACT BASE IS IN `state/continuity.md`. A LATER PASS NEEDS NOTHING FROM THE BLOCKS BELOW EXCEPT WHERE MARKED.**
 
 ### 0. WHAT THE REPAIR CHANGED ABOUT THE THREADS, WHICH IS ALMOST NOTHING, AND THE TWO THINGS IT ADDED
