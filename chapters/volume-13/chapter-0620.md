@@ -8,7 +8,7 @@ There is no sitting in Hask on a Sunday. The chairs are stood up along the starb
 
 The woman who keeps the book has not come up that plank since the sixth day of the hundred and ninth week, and that is a week, and about four people in that town have said out loud that a week is a week and about nine have not, and nobody has sent for her and she has not come.
 
-Nobody on that plank thanked anybody for the sixteen days.
+Nobody on that plank thanked anybody for the nineteen days.
 
 ---
 
@@ -70,15 +70,15 @@ Then the man of thirty-one said out loud what he was going to do about it instea
 
 “*Then say it out loud and do not be sorry for me,*” said Garrin Tolley.
 
-“*I am going to be on that deck on the Tuesday, because the town sits on a Monday and a Thursday and I have been here sixteen days and have not once sat in one. On the Tuesday I am going to ask her, in the open, in front of about nine people, and if she says no, then I will have said no in front of about nine people about a chair.*”
+“*I am going to be on that deck on the Tuesday, because the town sits on a Monday and a Thursday and I have been here nineteen days and have not once sat in one. On the Tuesday I am going to ask her, in the open, in front of about nine people, and if she says no, then I will have said no in front of about nine people about a chair.*”
 
 About four seconds went past.
 
-“*And then I will find out what happens to a person who has said no in the open in this town, which is the thing a woman of thirty-four came nine miles for and did not get. I have not been asked a single question about any of it in sixteen days, and I am not going to go on not being asked one.*”
+“*And then I will find out what happens to a person who has said no in the open in this town, which is the thing a woman of thirty-four came nine miles for and did not get. I have not been asked a single question about any of it in nineteen days, and I am not going to go on not being asked one.*”
 
 About four people on that plank said something at once. About nine did not.
 
-“*And I would like it said out loud that I have just given a woman who came here to be asked a plan, and that that is the fifth thing I have done in sixteen days, and that about four of us have watched me do the other four.*”
+“*And I would like it said out loud that I have just given a woman who came here to be asked a plan, and that that is the fifth thing I have done in nineteen days, and that about four of us have watched me do the other four.*”
 
 About four seconds went past.
 
@@ -102,7 +102,7 @@ About four people on that deck counted that against each other. About nine did n
 
 “*Then say the rest of that and do not be sorry for me,*” said Wenna Callow, from the bank.
 
-“*And the count follows the chair and not the person, and it has for nineteen years. My mother was in it for two days at a crossroads and out of it for nine years, and about nine people in this town have been reading it the other way round. A man of thirty-one has said a thing out loud in this town every day for sixteen days, and about four of the things he has said have been about which of those two numbers a person meant.*”
+“*And the count follows the chair and not the person, and it has for nineteen years. My mother was in it for two days at a crossroads and out of it for nine years, and about nine people in this town have been reading it the other way round. A man of thirty-one has said a thing out loud in this town every day for nineteen days, and about four of the things he has said have been about which of those two numbers a person meant.*”
 
 About four seconds went past.
 
@@ -110,7 +110,7 @@ About four seconds went past.
 
 Then the boards went up the water, and a man of thirty-eight poled, and a man of thirty-one did not go with them, and a man of about thirty-four who had put his own name against a chair in another county sat down on the bank and did not go either.
 
-Nobody on that bank thanked anybody for the sixteen days.
+Nobody on that bank thanked anybody for the nineteen days.
 
 The fever was forty-eight weeks and one day old. He had been in that county sixty-six days and had a pound and fifteen shillings and eightpence of under two pounds left. He had a year of his own future against a block of limestone nine miles up this river, and he cannot leave the county until the water goes over, and there is no figure for it and nobody who can check it.
 

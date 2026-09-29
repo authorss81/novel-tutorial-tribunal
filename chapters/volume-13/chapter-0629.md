@@ -62,7 +62,7 @@ It was ten on the Sunday of the hundred and eleventh week, and it is nine since 
 
 About four people on that bank understood that. About nine did not.
 
-“*And I stood up out of this chair in the open on the Wednesday of the tenth week and I have not been able to stop thinking about that for six days, and about nine of you know that a no in the open is the only door out of a chair that anybody in this county has. There is no column for the no. There is a line with my name on it and nobody in it and that is what a chair is, and about nine people in four counties are going to read that line and there is a woman of forty-four in that cart who has been in a chair for fifteen years.*”
+“*And I stood up out of this chair in the open on the Wednesday of the tenth week and I have not been able to stop thinking about that for thirteen days, and about nine of you know that a no in the open is the only door out of a chair that anybody in this county has. There is no column for the no. There is a line with my name on it and nobody in it and that is what a chair is, and about nine people in four counties are going to read that line and there is a woman of forty-four in that cart who has been in a chair for fifteen years.*”
 
 About four seconds went past.
 
@@ -94,7 +94,7 @@ About four seconds went past.
 
 Nobody on that bank thanked the man of sixty-one for saying it before anybody else could.
 
-“*A woman of thirty went four days up this road on Monday morning because a rule six days old cannot be stopped by about nine people, and she was right, and nobody said a word to her. Four sheets of that sheet went nine miles up the water and were read out in a yard and about nine people there had never seen a line about him.*”
+“*A woman of thirty went four days up this road on Monday morning because a rule eleven days old cannot be stopped by about nine people, and she was right, and nobody said a word to her. Four sheets of that sheet went nine miles up the water and were read out in a yard and about nine people there had never seen a line about him.*”
 
 About four people on that bank counted that. About nine of the rest had a book of heads and carts in their heads and could not get at it.
 

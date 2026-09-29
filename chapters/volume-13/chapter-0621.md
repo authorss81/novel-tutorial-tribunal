@@ -1,4 +1,4 @@
-# Chapter 621: The Seventh And Last Day Of The Hundred And Tenth Week, And A Monday, And On Which Two Copies Of A Sheet Of Deal Are Nailed Side By Side And Read Against Each Other In The Open For The First Time In The Same Room, And On Which They Agree, And On Which A Man Of Sixty-Eight Who Gave The Rule On The Thursday Of Last Week Asks For A Thirty-First Line And Has It Put On Both Of Them About A Man Of Thirty-One Who Was At That Moment Nine Feet Off With A Withy Knife In His Hand, And On Which About Nine People In A Town Of About Eleven Hundred People Find Out That A Thing Can Be True And Be About Somebody Else
+# Chapter 621: The Seventh And Last Day Of The Hundred And Tenth Week, And A Monday, And On Which Two Copies Of A Sheet Of Deal Are Nailed Side By Side And Read Against Each Other In The Open For The First Time In The Same Room, And On Which They Agree, And On Which A Man Of Sixty-Eight Who Gave The Rule On The Thursday Of The Tenth Week Asks For A Thirty-First Line And Has It Put On Both Of Them About A Man Of Thirty-One Who Was At That Moment Nine Feet Off With A Withy Knife In His Hand, And On Which About Nine People In A Town Of About Eleven Hundred People Find Out That A Thing Can Be True And Be About Somebody Else
 
 Seventh and last day of the hundred and tenth week. His three hundred and seventy-first morning. Two hundred and twenty-one days after the settlement. The fever forty-eight weeks and two days. One hundred and seventy-five days since the division. One hundred and twenty-one days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -70,15 +70,13 @@ Nobody on that deck thanked him for it.
 
 Then the line was written, and it was written twice, once on each sheet, and the two were written by two different people in two different places, and that is the whole of why they agree.
 
-SKIP
-
 At Hask it was written on Monday at about the fourth hour by a boy of eleven on a board on a barrel, because there is no other table in Hask, and it took him about as long again as it took the man of forty-three and he was slower at it.
 
 Nobody on that deck said anything while either of them was doing it.
 
 Then the ground was said before the name, in the open, and the line was read out loud in a yard nine miles up the water and on a deck nine miles down it, and here it is.
 
-“*The ground: a building with a bad coffee machine in it, in a country that is not this one, a hundred and nine miles off and across a sea, where a mark of two letters and a number is signed at the bottom of about nine hundred records. The name: one that nobody in this county makes. The day: the seventh and last day of the hundred and eighth week, a Sunday, when a man of thirty-eight asked a man of thirty-one where he came from at about the fourth hour, in front of about nine people, and he answered in four things and none of the four of them was the answer.*”
+“*The ground: a building with a bad coffee machine in it, in a country that is not this one, a hundred and nine miles off and across a sea, where a mark of two letters and a number is signed at the bottom of about nine hundred records. The name: one that nobody in this county makes. The day: the seventh and last day of the hundred and eighth week, a Monday, when a man of thirty-eight asked a man of thirty-one where he came from at about the fourth hour, in front of about nine people, and he answered in four things and none of the four of them was the answer.*”
 
 ---
 

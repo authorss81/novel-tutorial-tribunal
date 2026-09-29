@@ -4,9 +4,9 @@ Second day of the hundred and twelfth week. His three hundred and eightieth morn
 
 ---
 
-Nobody on that plank thanked anybody for the thirty days.
+Nobody on that plank thanked anybody for the nineteen days.
 
-The case is open and it is not a case anybody can be sent for about, because there is no form in the county of Kell that makes a thing anybody can be sent for about unless it is a chair, and a chair is not what this is.A man of thirty-eight asked for a hearing about every record there is in a yard nine miles up that water on the Monday morning of the seventh and last day of the hundred and eleventh week.
+The case is open and it is not a case anybody can be sent for about, because there is no form in the county of Kell that makes a thing anybody can be sent for about unless it is a chair, and a chair is not what this is. A man of thirty-eight asked for a hearing about every record there is in a yard nine miles up that water on the Monday morning of the seventh and last day of the hundred and eleventh week.
 
 Nobody granted it and nobody refused it and nobody has written it down, and it is sitting where a man said it out loud and about nine people heard it.
 
@@ -62,7 +62,7 @@ And then the boy of thirteen asked a question, out loud, in front of about nine 
 
 About four people on that bank said something at once. About nine of the others had come up a plank to find out what the boy of thirty-one was doing with his hand.
 
-“*I am standing in front of about nine people and a sheet of deal.I wrote one on Tuesday and I am going to write one on Friday, and I have read two of them out loud to about nine people each, which is about nine people twice. There is one of the fourteen that nobody is going to read out loud to anybody, because there is nobody in this county that is going to be in the room.*”
+“*I am standing in front of about nine people and a sheet of deal. I wrote one on Tuesday and I am going to write one on Friday, and I have read two of them out loud to about nine people each, which is about nine people twice. There is one of the fourteen that nobody is going to read out loud to anybody, because there is nobody in this county that is going to be in the room.*”
 
 Nobody on that bank moved.
 
@@ -88,7 +88,7 @@ Nobody on that bank thanked her for saying no.
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*Hold it. That is all. I am not going to tell you what holding it is worth.I have been in a chair for nine years and I said yes in the open in about nine people’s hearing, and I have never been asked whether I wanted it, and I have not been able to do one single thing about it. The one thing I have learned in nine days is what a person sounds like when they are holding something and not putting it down.*”
+“*Hold it. That is all. I am not going to tell you what holding it is worth. I have been in a chair for nine years and I said yes in the open in about nine people’s hearing, and I have never been asked whether I wanted it, and I have not been able to do one single thing about it. The one thing I have learned in nine days is what a person sounds like when they are holding something and not putting it down.*”
 
 About four seconds went past and nobody filled them and he said nothing.
 

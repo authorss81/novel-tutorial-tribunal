@@ -66,7 +66,7 @@ About four people on that bank said something at once. About nine did not.
 
 Nobody on that plank thanked the man of sixty-one for saying it out loud before anybody else could work it out, and about four people in a town of about eleven hundred people went home that evening knowing one more thing about him than they had known on the Thursday, and he did not know that and was not told.
 
-Then the man of thirty-one said his own half out loud, and it was the shortest thing he had said in sixteen days, and nobody on that deck was sorry for him.
+Then the man of thirty-one said his own half out loud, and it was the shortest thing he had said in nineteen days, and nobody on that deck was sorry for him.
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 

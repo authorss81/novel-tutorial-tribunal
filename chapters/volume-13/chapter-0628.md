@@ -4,7 +4,7 @@ Seventh and last day of the hundred and eleventh week. His three hundred and sev
 
 ---
 
-They counted it out loud at about the second hour on the Monday morning at the head of the plank, and about nine people were there and about nine of the twenty-nine chairs were stood up along the starboard side of the Gull with a name against them and nobody in them, and the man of thirty-eight had four sheets of deal under the after thwart and had been up since about the fifth hour.
+They counted it out loud at about the second hour on the Monday morning at the head of the plank, and about nine people were there and ten of the twenty-nine chairs were stood up along the starboard side of the Gull with a name against them and nobody in them, and the man of thirty-eight had four sheets of deal under the after thwart and had been up since about the fifth hour.
 
 The count was about nine for and about four against, and the man of sixty-one gave it with the working and nobody in that bank had asked him to.
 
@@ -18,13 +18,13 @@ Then a woman of thirty who had been ready since Saturday and had not said so unt
 
 About four people on that bank understood that. About nine did not.
 
-“*Four are going up the water under that thwart and five are going two days down this road in a cart with a man of forty-one and a woman of thirty-four, and one is staying here, and one has no arrangement, and about nine of us have known every one of those five numbers since yesterday morning. I have been against all eleven since Wednesday afternoon and I have not said so in a room until now, and that is mine and nobody else has to do anything about it.*”
+“*Four are going up the water under that thwart and five are going two days down this road in a cart with a man of forty-one and a woman of thirty-four, and one is staying here, and one has no arrangement, and about nine of us have known every one of those four numbers since yesterday morning. I have been against all eleven since Wednesday afternoon and I have not said so in a room until now, and that is mine and nobody else has to do anything about it.*”
 
 Nobody on that bank thanked her for saying it out loud.
 
 ---
 
-Then a man of sixty-eight who is not in a chair said that the copies went over her, and he said why, and about four people on that bank had the whole of it at once and about nine did not, and it was the sixth day of a rule he had given himself.
+Then a man of sixty-eight who is not in a chair said that the copies went over her, and he said why, and about four people on that bank had the whole of it at once and about nine did not, and it was the eleventh day of a rule he had given himself.
 
 “*Say what you are standing in front of,*” said Wenna Callow. “*Because a woman of thirty has said out loud that she is against eleven copies and a man of sixty-eight who gave the rule is about to say that they go, and about four of us have been waiting for him to say it and about nine have not, and both of those are the same thing.*”
 
@@ -40,7 +40,7 @@ About four people on that bank had the whole of it. About nine had a count and a
 
 About four people on that bank said something at once. About nine did not.
 
-“*And I would like it said out loud that she knew. She said on Wednesday that a thing that gets read out in rooms is a thing people go looking with, and she has known every day since what this rule does, and she is not here because she has been outvoted by about nine people in the open on a Monday morning. She is here because a rule that nine people can stop is not a rule and is a lid, and I gave the first lid in this county six days ago by accident and I have been standing on it ever since.*”
+“*And I would like it said out loud that she knew. She said on Wednesday that a thing that gets read out in rooms is a thing people go looking with, and she has known every day since what this rule does, and she is not here because she has been outvoted by about nine people in the open on a Monday morning. She is here because a rule that nine people can stop is not a rule and is a lid, and I gave the first lid in this county eleven days ago by accident and I have been standing on it ever since.*”
 
 Nobody on that bank thanked him for the rule.
 
@@ -62,7 +62,7 @@ Nobody on that bank said anything at all as she went up it.
 
 “*I am not going after her.*”
 
-“*I want it said out loud in front of about nine people that I am not going up that road after a woman of thirty, and that a man of thirty-one said on the Friday of the tenth week that he was not going to go and ask a woman of forty-one why she had stopped coming up that plank. He has not gone after that woman either, and I have now done the same thing twice in six days about two different people. Both times I was right and both times I said it out loud in advance.*”
+“*I want it said out loud in front of about nine people that I am not going up that road after a woman of thirty, and that a man of thirty-one said on the Friday of the tenth week that he was not going to go and ask a woman of forty-one why she had stopped coming up that plank. He has not gone after that woman either, and I have now done the same thing twice in ten days about two different people. Both times I was right and both times I said it out loud in advance.*”
 
 About four people on that bank had that. About nine did not.
 
@@ -80,7 +80,7 @@ The two originals agreed when he had finished. Thirty-two lines, and the thirty-
 
 Then he started again from the first line, because he is the man who keeps that landing and nobody else in that yard had the right to read a sheet on a Monday, and he did not skip a line and he did not hurry the one that mattered.
 
-“*The ground: a building with a bad coffee machine in it, in a country that is not this one, a hundred and nine miles off and across a sea, where a mark of two letters and a number is signed at the bottom of about nine hundred records. The name: one that nobody in this county makes. The day: the seventh and last day of the hundred and eighth week, a Sunday, when a man of thirty-eight asked a man of thirty-one where he came from at about the fourth hour, in front of about nine people, and he answered in four things and none of the four of them was the answer.*”
+“*The ground: a building with a bad coffee machine in it, in a country that is not this one, a hundred and nine miles off and across a sea, where a mark of two letters and a number is signed at the bottom of about nine hundred records. The name: one that nobody in this county makes. The day: the seventh and last day of the hundred and eighth week, a Monday, when a man of thirty-eight asked a man of thirty-one where he came from at about the fourth hour, in front of about nine people, and he answered in four things and none of the four of them was the answer.*”
 
 About nine people in that yard heard a line about a man they had never seen.
 
@@ -90,7 +90,7 @@ Then a man of about fifty-two at the back of that yard said the true thing about
 
 “*Then say the rest of that and do not be sorry for me,*” said Garrin Tolley.
 
-“*That is the man who was in the weigh-house on the Monday morning six weeks ago with the four of us. I know it because I read that ground out of the boat on the Sunday and I read it on the Monday in this yard and I wrote it on a slip of board and the slip of board is in that boat, and I have been the only person in four counties who could carry it.*”
+“*That is the man who was in the weigh-house on the Monday morning three weeks ago with the four of us. I know it because I read that ground out of the boat on the Sunday and I read it on the Monday in this yard and I wrote it on a slip of board and the slip of board is in that boat, and I have been the only person in four counties who could carry it.*”
 
 About four seconds went past.
 
@@ -104,7 +104,7 @@ About four seconds went past.
 
 Then he said the four words, and he said them flat, in about nine people’s hearing, at about the fourth hour of a Monday afternoon, in a yard at a landing nine miles up the water, and he did not raise his voice and he did not say anything else afterwards.
 
-About nine people in that yard heard it and about four of them had heard it before in about nine counties and about nine of them had not.
+About nine people in that yard heard it and about four of them had heard it before in about four counties and about nine of them had not.
 
 ---
 
@@ -146,7 +146,7 @@ Nobody in that yard thanked him for asking.
 
 ---
 
-The fever was forty-nine weeks and two days old. He had been in that county seventy-four days and a woman of thirty went four days up the water on the Monday morning of the seventh and last day of the hundred and eleventh week, because a rule six days old cannot be stopped by about nine people. The woman was right, and nobody said one word to her that could have moved her.
+The fever was forty-nine weeks and two days old. He had been in that county seventy-four days and a woman of thirty went four days up the water on the Monday morning of the seventh and last day of the hundred and eleventh week, because a rule eleven days old cannot be stopped by about nine people. The woman was right, and nobody said one word to her that could have moved her.
 
 And nine miles up that water in a yard, a line about him was read out loud for the first time in front of about nine people who had never seen him, in the plain form of a line on a sheet of deal. A man of thirty-eight said a thing that was not said by a person, and a man of forty-three who keeps that landing asked in the open whether it was in that room, and nobody answered him. He is the only person in that yard anybody can be sent for about.
 

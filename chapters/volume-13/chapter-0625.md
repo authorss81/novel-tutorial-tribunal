@@ -10,7 +10,7 @@ On the Friday morning a man of sixty-eight who was not in a chair and could not 
 
 “*Say what you are standing in front of,*” said Wenna Callow. “*Because a man of thirty-one has a better hand than anybody in this town and has had it for nineteen days and has not used it on that sheet, and a man of sixty-eight has just told him why in a sentence he did not expect.*”
 
-“*I am standing in front of about nine people and a rule, and I have had a rule for six days, and I would like it said out loud that I did not think of this until about an hour ago. I have been wrong for about nine seconds of it.*”
+“*I am standing in front of about nine people and a rule, and I have had a rule for eight days, and I would like it said out loud that I did not think of this until about an hour ago. I have been wrong for about nine seconds of it.*”
 
 About four people on that deck said something at once. About nine of them waited to see whether a man of thirty-one would say it again.
 
@@ -40,7 +40,7 @@ Then he asked her the question, in the open, in front of about nine people, and 
 
 About four people on that plank understood that. About nine of them heard a man agree with a woman and took it for the end of a thing.
 
-“*Perdy Lound. I am sixty-eight years old and I have kept the last quarter mile of that cart road for twenty-two years and I have never once been in a chair and there is no form in this county that lets a man ask to be corrected in one. I gave that rule six days ago. There is a third copy of that sheet nine miles up the water and there are going to be more and every one of them is a thing that can be sent for about.*”
+“*Perdy Lound. I am sixty-eight years old and I have kept the last quarter mile of that cart road for twenty-two years and I have never once been in a chair and there is no form in this county that lets a man ask to be corrected in one. I gave that rule eight days ago. There is a third copy of that sheet nine miles up the water and there are going to be more and every one of them is a thing that can be sent for about.*”
 
 Nobody on that plank moved.
 
@@ -100,9 +100,9 @@ Nobody on that plank thanked him for the two days.
 
 ---
 
-Then the man of thirty-one wrote one, because he was asked to and because he had wanted to for nineteen days, and his was the best one, and it was not the one that went.SKIP It took him about two hours and he did it for nothing and he did it well.
+Then the man of thirty-one wrote one, because he was asked to and because he had wanted to for nineteen days, and his was the best one, and it was not the one that went.
 
-He wrote it on the deck boards at about the eighth hour on a Friday evening, in a hand nobody else in that town could do, with a cracked steel pen that he had carried into a county he cannot leave. It took him about two hours, and he did it for nothing, and he did it well. It took him about two hours and he did it for nothing and he did it well.
+He wrote it on the deck boards at about the eighth hour on a Friday evening, in a hand nobody else in that town could do, with a cracked steel pen that he had carried into a county he cannot leave. It took him about two hours, and he did it for nothing, and he did it well.
 
 “*Then say the rest of that and do not be sorry for me,*” said Wenna Callow.
 

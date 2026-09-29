@@ -162,7 +162,7 @@ About four people on that deck said nothing at all.
 
 ---
 
-The fever was forty-eight weeks and three days old. He had been in that county sixty-eight days.A third copy of that sheet went nine miles up the water on a Tuesday morning on a boat, and about four people in a town of about eleven hundred people had it by the seventh hour, and nobody had asked for it. The rule a man of sixty-eight gave on Thursday does not say that a copy may not travel, and he said so out loud before he did it.
+The fever was forty-eight weeks and three days old. He had been in that county sixty-eight days. A third copy of that sheet went nine miles up the water on a Tuesday morning on a boat, and about four people in a town of about eleven hundred people had it by the seventh hour, and nobody had asked for it. The rule a man of sixty-eight gave on Thursday does not say that a copy may not travel, and he said so out loud before he did it.
 
 And a woman of forty-four came up that plank after nine days and answered one third of a question and refused the other two thirds, and the third of it was that nobody decided, because there was nobody in a room deciding it, and she was nineteen and she had a book and she did not go and ask.
 

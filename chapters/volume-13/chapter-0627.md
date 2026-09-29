@@ -104,7 +104,7 @@ About four people in that room understood that. About nine did not.
 
 The fever was forty-nine weeks and one day old. He had been in that county seventy-three days, and eleven sheets of deal were copied in about four hours in a front room on the low side of a landing by about nine people who can write and a boy of eleven. A man of sixty-one read out loud for four hours instead of writing, and gave the count, and said what it is a figure of, which is how many pieces of wood there are and not how many people have read one of them.
 
-And all eleven of them are copies of a thing that is not true this week under a rule six days old, because the copy kept at a landing nine miles up the water has thirty-one lines on it and this one has thirty-two. It comes right on Monday if a man of thirty-eight takes a line up the water in about nine minutes of a boat.
+And all eleven of them are copies of a thing that is not true this week under a rule ten days old, because the copy kept at a landing nine miles up the water has thirty-one lines on it and this one has thirty-two. It comes right on Monday if a man of thirty-eight takes a line up the water in about nine minutes of a boat.
 
 And ten of the eleven have an arrangement, and four go up the water on Monday with the man of thirty-eight and five go two days down the water in a cart with a man of forty-one and a woman of thirty-four who has a house in that county, and one stays nailed inside the after thwart of that boat.
 
