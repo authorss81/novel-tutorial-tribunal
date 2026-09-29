@@ -16,7 +16,7 @@ About nine people were in that yard at about the fourth hour on the Tuesday, and
 
 Everybody in that yard has known that for eleven years, and his name is Simon Rook.
 
-“*Say what you are standing in front of,*” said Garrin Tolley, from the wall, with a board about nine inches long in his coat and thirty-one notches cut in the edge of it.
+“*Say what you are standing in front of,*” said Garrin Tolley, from the wall, with a board about nine inches long in his coat and thirty notches cut in the edge of it.
 
 “*Because I am going to say a thing out loud in about nine people’s hearing, and about four of you are going to agree with me before I have finished and about nine of you are not.*”
 

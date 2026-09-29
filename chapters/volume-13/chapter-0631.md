@@ -1,4 +1,4 @@
-# Chapter 631: The Third Day Of The Hundred And Twelfth Week, And A Thursday, And On Which A Cart Comes Back Up A Two-Day Road With Nobody On The Shafts And A Woman Of Forty-One Who Keeps Two Carts Driving It, And On Which That Woman Says Out Loud In Front Of About Nine People A Thing That Was Said Out Loud In A Room In A County Two Days Off On Tuesday Evening By A Woman About Thirty-Eight Who Keeps A Goat And Has Never Been Asked Anything In Her Life, And On Which The Figure Of How Many People Have Read A Copy Comes Back Into A Room And Is Still Not Answerable, And On Which A Man Of Sixty-One Gives The Number Of The Copies Again And Says What It Is A Figure Of
+# Chapter 631: The Third Day Of The Hundred And Twelfth Week, And A Thursday, And On Which A Cart Comes Back Up A Two-Day Road With Nobody On The Shafts And A Woman Of Forty-One Who Keeps Two Carts Driving It, And On Which That Woman Says Out Loud In Front Of About Nine People A Thing That Was Said Out Loud In A Room In A County Two Days Off On Tuesday Evening By A Woman About Thirty-Eight Who Keeps A Goat And Has Never Been Asked Anything In Her Life, And On Which The Figure Of How Many People Have Read A Copy Comes Back Into A Room And Is Still Not Answerable, And On Which A Man Of Sixty-One Gives The Number Of The Copies Again And Says What It Is A Figure Of And Not A Figure Of People
 
 Third day of the hundred and twelfth week. His three hundred and eighty-first morning. Two hundred and thirty-one days after the settlement. The fever forty-nine weeks and five days. One hundred and eighty-five days since the division. One hundred and thirty-one days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -54,7 +54,7 @@ Then the woman of forty-one gave the name, and she gave it in her own mouth. Abo
 
 About four people on that bank wanted the rest of it and were not going to get it in that order.
 
-“*And she is the tenth line on that sheet, and this town counts its chairs from the after end where the man of thirty-eight reads them, and that makes her the twentieth, and I would like about four of you to have done that in your heads and about nine of you not to have.*”
+“*And she is the tenth line on that sheet, and the tenth chair in that book, and this town counts its chairs from the after end, and there are twenty-nine of them, and that makes her the twentieth and not the tenth, and I would like about four of you to have done that in your heads and about nine of you not to have.*”
 
 “*She has a chair in that book in this town and she has never been in it, and she has never been sent for, and there is no form in this county that says a person may be.*”
 

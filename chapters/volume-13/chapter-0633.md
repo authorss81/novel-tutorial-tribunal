@@ -108,7 +108,7 @@ About nine people in that bank heard a name they had not known. About four heard
 
 About four people on that bank had heard her say it on the Thursday. Nobody had heard it said back.
 
-“*And a man of thirty-four in the ash on the low side of that landing, who has been in it since the second day of the hundred and twelfth week, and that is seven days, and he has not stood up once in the seven.*”
+“*And a man of thirty-four in the ash on the low side of that landing, who has been in it since the second day of the hundred and twelfth week, and that is three days, and he has not stood up once in the three.*”
 
 “*His name is Ivo Kellow, and he came from a town four days off, and he is not in a chair, and nobody in this town can be sent for about him.*”
 
@@ -180,7 +180,7 @@ A woman of twenty-nine who was in the reed caught it in about the fourth and did
 
 “*A woman of seventy-one walked up a cart road to say she does not want to be spoken for by any of them.*”
 
-“*And a man of thirty-four has been in an ash for seven days and has not stood up and nobody can be sent for about him.*”
+“*And a man of thirty-four has been in an ash for three days and has not stood up and nobody can be sent for about him.*”
 
 About four people on that bank had the whole of it. The rest of them had a name in a book and nothing else.
 
@@ -208,6 +208,6 @@ And a man of thirty-one asked out loud to be put on it and was refused in four s
 
 And a woman of seventy-one came up that cart road on her own legs for the first time in a fortnight, unasked and unsent for, and gave her reason in four sentences, and the reason is that in about four years a Crown of about nine people will want to speak for every person in that county that nobody can be sent for about, and she would rather be one of the people it does not speak for.
 
-And a man of thirty-four called Ivo Kellow has been in an ash on the low side of that landing for seven days and has not stood up, and there is a name against a chair in that book with nobody in it, and no column anywhere for where he is.
+And a man of thirty-four called Ivo Kellow has been in an ash on the low side of that landing for three days and has not stood up, and there is a name against a chair in that book with nobody in it, and no column anywhere for where he is.
 
 And a chair in a front room on the low side of that landing has a slate nailed to the frame with no name on it, and the chair itself is not one of the twenty-nine and never was, and there is nothing against it, and there is nothing in the book for it, and there is going to be nothing in the book for it.

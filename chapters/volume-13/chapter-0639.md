@@ -116,7 +116,7 @@ About four people in front of that barrel had that. About nine of them had a Cro
 
 ---
 
-Then a man of thirty-four spoke from the doorway of an ash on the low side of that landing, where he had been for thirteen days.
+Then a man of thirty-four spoke from the doorway of an ash on the low side of that landing, where he had been for nine days.
 
 He had not stood up once in any of them, and about four people in front of that barrel knew he was there, and about nine did not.
 
@@ -124,7 +124,7 @@ Nobody sent for him. Nobody asked him to come out.
 
 “*There is a Crown in this town that speaks for people who cannot be asked, and about nine people in this county cannot be asked about anything, and I am one of them.*”
 
-“*And I have been in this ash since the second day of the hundred and twelfth week and that is thirteen days, and I have not stood up in thirteen.*”
+“*And I have been in this ash since the second day of the hundred and twelfth week and that is nine days, and I have not stood up in nine.*”
 
 About four people in front of that barrel went still. About nine of them did not know where the voice was coming from.
 
@@ -158,7 +158,7 @@ And the man who gave the rule that made it said so out loud in front of about ni
 
 And a woman of twenty-nine said out loud that a thing in that town will now say what she said on a day, in four counties, without asking her, and that she has got a worse thing than not having a reason, and that there is no person in it to be cross with, and she is not standing up.
 
-And a man of thirty-four spoke from the doorway of an ash where he had been for thirteen days without standing up, and he is on no board and in no book, and a woman of twenty-six in another ash told a man of thirty-one no out loud before he had got to the end of a sentence.
+And a man of thirty-four spoke from the doorway of an ash where he had been for nine days without standing up, and he is on no board and in no book, and a woman of twenty-six in another ash told a man of thirty-one no out loud before he had got to the end of a sentence.
 
 And the cost of a Crown of about nine people four days old fell in about four places at once in about thirteen people’s hearing, and about four of them said the arithmetic out loud, and about nine of them went home carrying it.
 

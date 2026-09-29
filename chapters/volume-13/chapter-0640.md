@@ -170,6 +170,6 @@ And the woman who keeps the book has been asked three times this week and has sa
 
 And a figure was said out loud on a Saturday morning in about nine people’s hearing: about nine of about eleven people who come up that plank in a working week are on that board, and it is a figure of one week at one plank and not a figure of a county and not a figure of a year, and a year in that county is the time between one crossing of a block of limestone and the next, and nobody in that room knows when that is.
 
-And a man of thirty-four asked, out loud, once, from the doorway of an ash where he has been for fourteen days without standing up, whether a person who is spoken for is owed a copy of what it said about them.
+And a man of thirty-four asked, out loud, once, from the doorway of an ash where he has been for ten days without standing up, whether a person who is spoken for is owed a copy of what it said about them.
 
 About nine people in that room heard the question and about four of them understood all of it, and nobody in that room answered it, and a man of thirty-eight is going up the water again on Thursday with a sheet of deal in a coat.

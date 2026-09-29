@@ -50,7 +50,7 @@ About four people on that bank had that. About nine of them had not known it was
 
 “*A board about nine inches long with a notch cut in it for every line is how a record is checked. That is the whole of it.*”
 
-“*You wrote a rule that the two copies are read against each other once a week, and if they do not agree then the thing is not true, and I have cut a notch for every line every week since, and a notch is a thing I can hold in my hand and you cannot.*”
+“*You wrote a rule that the two copies are read against each other once a week, and if they do not agree then the thing is not true, and there is a notch in the edge of this for every line of it, and I have cut the edge back to the same place every week since, and a notch is a thing I can hold in my hand and you cannot.*”
 
 “*And a man of sixty-eight has been standing behind that rule since the Thursday of the tenth week.*”
 
