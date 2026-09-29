@@ -76,7 +76,7 @@ About four people in that room had that. About nine had the barrel and not the s
 
 Nobody in that room said a word to him about the standing.
 
-Then Ilyan said the true of one half of it, and it was the sixth time in about forty days, and a woman of twenty-nine in the reed let him go on to the fourth sentence and then held up a hand.
+Then Ilyan said the true of one half of it, and it was the eighth time in forty days, and a woman of twenty-nine in the reed let him go on to the fourth sentence and then held up a hand.
 
 “*A Crown that can be asked what it owes is a Crown that can be asked whether it is right, and a man of sixty-eight said on the Friday that a Crown that can be asked whether a copy is right can stop a copy.*”
 
@@ -84,11 +84,11 @@ Then Ilyan said the true of one half of it, and it was the sixth time in about f
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*And the rest is that I have been in Hask forty days, and I have been in that county eighty-seven days, and I have wanted for about fourteen days for a body to speak for me, and I said no to it on the Wednesday.*”
+“*And the rest is that I have been in Hask forty days, and I have been in that county eighty-seven days, and I have wanted for about nineteen days for a body to speak for me, and that is fourteen days on the Tuesday of last week and five days since, and I said no to it on the Wednesday.*”
 
 “*And I am not asking for a copy of anything said about me, and I would like about four of you to notice that I did not ask.*”
 
-About four people in that room understood that. Nobody else said anything.
+About four people in that room understood that. The rest of them had a coat.
 
 Then a woman of twenty-nine who has been in the reed since the Tuesday of the last week said why she had let him go on, and it was three sentences. About four people in that town had not known any of it.
 

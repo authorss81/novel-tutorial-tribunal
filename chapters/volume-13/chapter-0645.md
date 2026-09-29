@@ -36,7 +36,7 @@ Nobody in that yard thanked either of them for nine minutes.
 
 About four people in that yard counted the five. Nobody else did.
 
-Then he cut the thirty-second notch? No, the board has thirty-two notches, and he ran a thumb along the edge to show it. About four people in that yard saw a board about nine inches long with a notch for every line. About nine did not know what a notch is a figure of.
+Then he turned the board over in his hand and ran a thumb along the edge of it, and there are thirty-two notches cut in that edge, one for every line, and about four people in that yard watched a thumb go along them and about nine did not know what a notch is a figure of.
 
 “*A board about nine inches long with a notch cut in it for every line is how a record is checked, and a notch is a thing a man can hold in his hand.*”
 
@@ -90,7 +90,7 @@ Nobody in front of that barrel thanked him for the plainness.
 
 About four people in front of that barrel had the twice. About nine had the box and not the years.
 
-Then Ilyan said the true of it, and it was one half, and a woman of twenty-eight let him say it to the fourth sentence and then held up a hand, and he held it.
+Then Ilyan said the true of it, and it was one half, and a woman of twenty-eight let him say it to the fourth sentence and then held up a hand, and he held it, and it was the tenth time in forty-four days.
 
 “*A man of sixty-one has just said nobody is going to carry a shilling and sixpence four days off. About four people in front of that barrel have it as a hardness and about nine do not.*”
 
@@ -102,7 +102,7 @@ Then Ilyan said the true of it, and it was one half, and a woman of twenty-eight
 
 Nobody in front of that barrel thanked him for the watching.
 
-Then a woman of twenty-eight asked the man of sixty-one one thing about the box, and she asked it out loud. She has borne nine sentences nobody can check for three days.
+Then a woman of twenty-eight asked the man of sixty-one one thing about the box, and she asked it out loud. She has borne nine sentences nobody can check since yesterday.
 
 “*Is the box locked.*”
 
@@ -126,4 +126,4 @@ And an ordinary man of fifty-four who cannot read asked a removed witness a seco
 
 And a man of sixty-one said out loud that nobody is going to do it, and the reason is about four years, and a Crown taught to take a penny out will call a taking out a speaking.
 
-And a sheet about four feet by a foot and four inches was on a barrel in the open with about nine feet of an open boat between about nine people and about thirteen with a view on it, and ink was on the edge of a board about nine inches long where a thumb had run along thirty-two notches.
+And a sheet about four feet by a foot and four inches was on a barrel in the open with about nine feet of an open boat between about nine people and about thirteen with a view on it, and a board about nine inches long was lying on that barrel with a thumb’s width of dust gone out of the cuts of thirty-two notches.

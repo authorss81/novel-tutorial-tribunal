@@ -14,7 +14,7 @@ Ilyan Vester was thirty-one, and he had been in that county ninety-five days, an
 
 He wanted the abolition said out loud by the people who made the thing, and not by him, and he stood nine feet off with a knife, and he did not put his hand on any copy. About four people in front of that barrel noticed it and about nine did not.
 
-“*Say what you are standing in front of,*” said Wenna Callow, who is forty and is on the board.
+“*Say what you are standing in front of,*” said Wenna Callow, who is on the board.
 
 “*Because a board on a barrel has had nine names on it for seventeen days. About nine people can describe what it is for and about four cannot.*”
 
@@ -46,7 +46,7 @@ Orla Fennimore is forty-four, and she has kept that book nineteen years, and she
 
 About four people in front of that barrel had the nineteen. About nine had the no and not the years.
 
-Then Sera Quill answered who says how many people a thing has been read to, and it was asked by a boy of thirteen on the Wednesday of the last week but two, and a woman of forty-one said on the Thursday that nine heads in one room is a figure of one room and no better than his question.
+Then Sera Quill answered who says how many people a thing has been read to, and it was asked by a boy of thirteen on the Wednesday of the last week but two, and a woman of forty-one said on the Thursday of the hundred and twelfth week that nine heads in one room is a figure of one room and no better than his question.
 
 “*The only person who can say how many is the person who was in the room, one at a time.*”
 
@@ -60,7 +60,9 @@ Nobody in front of that barrel thanked her for one at a time.
 
 Then they abolished it. About nine people at a barrel did it, and it binds nobody, and everybody in that room knows that, and it was abolished anyway.
 
-Nevin Trask took the board off the barrel with his own hands, and Garrin Tolley lifted the barrel a little off, and Wenna Callow read the nine names out loud one under another a last time, and Pell Varn said the words, and Ibb Marshe and Barnaby Crove and Nell Prince and Ada Renk and Otho Pyle each said one word after him.
+Nevin Trask took the board off the barrel with his own hands, and Garrin Tolley lifted the barrel a little off, and Wenna Callow read the nine names out loud one under another a last time, and Pell Varn said the words, and Ibb Marshe and Barnaby Crove and Otho Pyle each said one word after him.
+
+A woman of twenty-nine said one word from the reed and did not stand up to say it. A woman of sixty-four was nine feet off with about thirteen people who had a view on it, and she said nothing at the barrel at all, and said why afterward.
 
 Pell Varn is sixty-eight, and he gave that town its first rule on the Thursday of the tenth week, and the rule is thirty-two days old, and thirty-two is six hundred and forty-nine less six hundred and seventeen, and he did the subtraction out loud.
 
@@ -84,7 +86,7 @@ Ada Renk stood a little off with about thirteen with a view on it. About nine fe
 
 Nobody in front of that barrel thanked her for nineteen.
 
-Then a boy of thirteen read the thirty-first line out loud a last time under no Crown, and it took him about nine minutes with the rest, and he did not hurry the last four lines. About nine people in front of that barrel heard a line about a man of thirty-one say the same thing without a board over it.
+Then a boy of thirteen read the whole sheet out loud a last time under no Crown, and he read the thirty-first line twice, and it took him about nine minutes with the rest, and he did not hurry the last four lines. About nine people in front of that barrel heard a line about a man of thirty-one say the same thing without a board over it.
 
 “*It is the same words. About four of you have heard it four times. About nine have heard it once, and that is what I have got.*”
 
@@ -120,7 +122,7 @@ Then hands were put on staves again, because a barrel with no board is still woo
 
 Nobody in front of that barrel thanked wood for holding.
 
-Then Ilyan said nothing. About four people in front of that barrel noticed that he said nothing. About nine did not know there was anything to say, and it was the eleventh time in forty-eight days.
+Then Ilyan said nothing. About four people in front of that barrel noticed that he said nothing. About nine did not know there was anything to say, and it was the fourteenth time in forty-eight days.
 
 About four seconds went past and nobody filled them. About nine feet of an open boat was still between about nine people and about thirteen with a view on it.
 

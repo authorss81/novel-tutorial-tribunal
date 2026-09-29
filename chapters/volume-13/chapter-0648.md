@@ -6,25 +6,25 @@ Sixth day of the hundred and fourteenth week. His three hundred and ninety-eight
 
 The town does not sit on a Sunday. About nine people came up that cart road anyway at about the fourth hour, because a Crown eight days old is a thing people come to look at whether it sits or not.
 
-The board was still on the barrel, and the nine names were under it, and the bench against the gunwale of the Gull was empty, and a sheet about four feet by a foot and four inches was on the board with ink on it where a boy of thirteen had mended a letter.
+The board was still on the barrel, and the nine names were under it, and the bench against the gunwale of the Gull was empty, and a sheet about four feet by a foot and four inches was on the board, and there was ink on the sill of that room where a boy of thirteen had been mending a letter on Wednesday.
 
 Nobody in that room thanked anybody for the coming.
 
 Ilyan Vester was thirty-one, and he had been in that county ninety-four days, and in Hask forty-seven days, and the forty-seven is since he came up that plank, and the ninety-four is since he came into that county, and the evening he came in is not a day he was in.
 
-He wanted the woman of seventy-one not to be asked again, and he said so out loud before anybody asked, and it was the fourth time in eleven days somebody had been about to ask her. About four people in that room heard him in time and about nine did not.
+He wanted the woman of seventy-one not to be asked again, and he said so out loud before anybody asked, and it was the fourth time somebody had been about to ask her, and the first three were in about four days in the eleventh week. About four people in that room heard him in time and about nine did not.
 
-“*She has said the shape of it three times in eleven days and will not say it a fourth, and I am saying that before anybody asks, because about nine people in this town have watched me not say it in time three times.*”
+“*She has said the shape of it three times and the last of the three was on the Monday of the hundred and eleventh week, and she will not say it a fourth, and I am saying that before anybody asks, because about nine people in this town have watched me not say it in time three times.*”
 
 About four people in that room had the three. About nine had the shape and not the count.
 
 Then a man of fifty-four who holds the gravel asked it anyway, and he is ordinary, and he cannot read, and he asked it because he had not been in the room any of the three times. About nine people in that room heard a fourth asking.
 
-“*I was not in this town any of the three times, and I hold that gravel nine years, and I am asking what the split is.*”
+“*I was not in this town for any of the three, and I hold that gravel nine years, and I am asking what the split is.*”
 
 “*And I am asking the woman of seventy-one, because she is the only person in this town who cannot be sent for about anything, and she said the shape three times.*”
 
-Nobody in that room moved.
+Nobody in that room shifted.
 
 Eliza Lark is seventy-one, and she keeps a house that is not hers and has kept it eleven years, and she came up that cart road on the Saturday of the last week but one to say she does not want to be spoken for, and the reason is about four years, and she said she would not say the shape a fourth time.
 
@@ -54,7 +54,7 @@ Then Eliza Lark put a hand on the frame of that door with no name on the slate, 
 
 Nobody in that room thanked either of them for the carrying.
 
-Then Ilyan said the true of it from where he was standing nine feet off, and it was one half, and a woman of twenty-nine in the reed let him finish it, and it was the tenth time in forty-seven days.
+Then Ilyan said the true of it from where he was standing nine feet off, and it was one half, and a woman of twenty-nine in the reed let him finish it, and it was the thirteenth time in forty-seven days.
 
 “*A woman of seventy-one was asked a fourth time. About four people in this room wanted her to say the shape and about nine did not.*”
 
@@ -62,9 +62,9 @@ Then Ilyan said the true of it from where he was standing nine feet off, and it 
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*And the rest is that I have been in Hask forty-seven days, and I asked four things in nine days and was answered about four of them, and I am not going to ask a fifth about a thing said once.*”
+“*And the rest is that I have been in Hask forty-seven days, and the thing at that barrel was asked four things in its first nine days and it got three of them right, and I am not going to ask again about a thing that has been said once.*”
 
-About four people in that room understood that. Nobody else said anything.
+About four people in that room had that. The rest of them had a door.
 
 Then night came on while about nine people were still in that room, and no lamp was lit, because a room with the door open in that county is lit by what comes through it. About four people in that room saw dusk on a slate with no name and about nine saw only dusk.
 
@@ -104,7 +104,7 @@ Then a man of sixty-eight said what answering to one person is, and the rule he 
 
 Nobody in that room thanked him for thirty-one.
 
-Then a copy was mended by lamplight, though no lamp was lit in that room. A boy of thirteen held a sheet to the doorway to catch dusk.
+Then a boy of thirteen held a sheet up in the doorway to catch the last of the light.
 
 “*The thirty-first line is about a man of thirty-one. The thirty-second is about a woman of seventy-one.*”
 
@@ -148,4 +148,4 @@ And the answer is not a comfort and not a form, and it was given to her in a doo
 
 And a man of thirty-one said he would not ask a fifth, and a man of sixty-eight gave the age of his rule as thirty-one days with the subtraction said out loud.
 
-And the slate nailed to the frame has no name on it, and the chair inside is not one of the twenty-nine and never was, and a house that is not hers has been kept eleven years by a woman of seventy-one who was carried once.
+And a house that is not hers has been kept eleven years by a woman of seventy-one who was carried once, and there is a slate nailed to the frame of that room with no name on it, and the chair inside is not one of the twenty-nine and never was.

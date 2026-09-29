@@ -30,7 +30,7 @@ Then she put it one under another in the open. About nine people were the person
 
 “*And she is right. About four of you have it as a leaving and about nine do not.*”
 
-Nobody on that bank moved.
+Nobody on that bank took the other half off her.
 
 “*The second half is the room,*” said Ibb Marshe, who is forty-one and keeps two carts, standing on the same bank, in the same hearing.
 
@@ -100,7 +100,7 @@ Then a girl of nine sitting on a settle four miles off that cart road was spoken
 
 Nobody on that bank thanked her father for the telling not yet done.
 
-Then Ilyan said nothing about either half. About four people on that bank noticed that he said nothing. About nine did not know there was anything to say, and it was the ninth time in forty-six days.
+Then Ilyan said nothing about either half. About four people on that bank noticed that he said nothing. About nine did not know there was anything to say, and it was the twelfth time in forty-six days.
 
 Sera Quill said why his silence is a shape and not a failure, and she said it out loud, and she has been in that county six days, and nobody can be sent for about her.
 
@@ -112,7 +112,7 @@ Nobody on that bank thanked her for six days.
 
 Then reeds were named, because one woman has not stood since Tuesday. About nine looked at reeds. About four looked at chairs.
 
-“*Nine years in a chair. Nine days without standing. Both are true.*”
+“*Nine years in a chair. Eighteen days without standing. Both are true.*”
 
 “*Taking back does not cut reeds. Staying does not plant them.*”
 
@@ -152,4 +152,4 @@ And both halves are still right, and the deck is right about going looking, and 
 
 And a woman of forty-four said out loud that a person may take a yes back, and taking back puts a person out of a chair and does not put a line out of a book, and it was asked once and never answered until now.
 
-And a man of thirty-one said neither half, and a woman of twenty-eight said why, and ink was on a board about nine inches long where thirty-two notches had been cut, and a boat was lying with her head to a landing nine miles up this water.
+And a man of thirty-one said neither half, and a woman of twenty-eight said why, and both halves of a town of about eleven hundred were still right on a Saturday morning, and a boat was lying with her head to a landing nine miles up this water.

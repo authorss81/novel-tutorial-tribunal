@@ -16,7 +16,7 @@ He wanted work, and he said so out loud, and it was a small want, and losing it 
 
 “*Garrin Tolley poled nine miles up and nine miles down on the Thursday with a sheet in a coat, and it took him about nine hours of a boat and a pole and about nine minutes of reading.*”
 
-“*And Thursday was the fifth time the two have agreed, and the next one is the sixth, and I am asking to take the sixth for him.*”
+“*And Thursday was the fourth time the two have agreed, and the next one is the fifth, and I am asking to take the fifth for him.*”
 
 “*I may read them out, and I may stand nine feet off with a knife, and I may carry a sheet as far as the end of that bank, and I may not carry the board.*”
 
@@ -66,7 +66,7 @@ Then Ilyan got up off the bench, and he stood on the gravel, and he said out lou
 
 Nobody on that bank said a word that could have moved him.
 
-Then he said a name, and he said it once, and he said it flat, and it was the second time in that county, and the first time in this band, and nothing whatever happened, and the first cost fell on an ordinary person.
+Then he said a name, and he said it once, and he said it flat, and it was the second time in that county, and the first time in Hask, and nothing whatever happened, and the first cost fell on an ordinary person.
 
 “*I am going to say a name out loud. It is a name and not a shout, and I am not going to say it twice and I am not going to explain it.*”
 
@@ -78,7 +78,7 @@ The nine of them were where they had been.
 
 About four seconds went past and nothing said and nothing happened, and the water went on moving past that landing.
 
-“*That is the name of the thing that said its own name in a weigh-house nine miles up this water about eighteen days ago in front of about four people.*”
+“*That is the name of the thing that said its own name in a weigh-house nine miles up this water about seventeen days ago in front of about four people.*”
 
 “*And I said it on the Wednesday of the last week in a room with the door open, and nothing happened then, and nothing has happened now.*”
 
@@ -96,7 +96,7 @@ She said it out loud herself, and she is ordinary, and she is not a side, and th
 
 Nobody on that bank thanked her for the hearing.
 
-Then Sera Quill said the true of the name, and she said it flat, and she did not make it a side, because it is sincere about one thing and wrong about another, and the band may not turn it into what it is not.
+Then Sera Quill said the true of the name, and she said it flat, and she did not make it a side, because it is sincere about one thing and wrong about another, and a name carried by about nine people is not the enemy it is not.
 
 “*It is sincere about stopping another Great Silence, and I have read enough in four hundred miles to know that silence is a real thing.*”
 
@@ -116,7 +116,7 @@ Then a man of about fifty-two who cannot see well said what carrying costs when 
 
 Nobody on that bank thanked him for eleven years.
 
-Then a woman of forty with two carts said what a bench is a figure of, and she is on the board. About nine people on that bank heard a bench counted against a pole.
+Then a woman of forty-one with two carts said what a bench is a figure of, and she is on the board. About nine people on that bank heard a bench counted against a pole.
 
 “*A bench carried up to the head of a plank for whoever is on a board to sit on is a figure of nine days of one person’s working life spent sitting.*”
 
@@ -132,6 +132,6 @@ The fever was fifty-one weeks and three days old. He had been in that county eig
 
 And the point is that he may not pole nine miles with a sheet in a coat, and he may read out and may stand nine feet off and may carry a sheet to the end of that bank, and losing the pole costs him more than losing a hearing would.
 
-And a name was said flat once in that county for the second time, and nothing happened, and the first cost in this band fell on an ordinary woman of forty-nine who did not know what a copy was on Friday.
+And a name was said flat once in that county for the second time, and nothing happened, and the first cost of the second naming fell on an ordinary woman of forty-nine who did not know what a copy was on the Friday.
 
-And the bench against the gunwale of the Gull was empty at the tenth hour with no dew on it. About four people in a town of about eleven hundred had seen a man get up off it. About nine had not.
+And the bench against the gunwale of the Gull was empty at the tenth hour with no dew on it. About four people standing about had seen a man get up off it, and about nine had not watched him do it.

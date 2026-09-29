@@ -22,7 +22,7 @@ About four people on that bank had the twenty-two. About nine had the yard and n
 
 Then a man of thirty-eight said he would do the same thing again on Thursday, and he is still doing it, and a case still open is kept open by being said out loud.
 
-Garrin Tolley is thirty-eight, and he has a child of nine, and he is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he poled nine miles up and nine miles down twice in three days with a sheet in a coat.
+Garrin Tolley is thirty-eight, and he has a child of nine, and he is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he poled nine miles up and nine miles down twice in two days with a sheet in a coat.
 
 “*Thursday is the sixth, and I am going up in the Gull at about the fifth hour with that sheet in a coat, and I am coming down at about the second hour of the afternoon.*”
 
@@ -34,11 +34,41 @@ Garrin Tolley is thirty-eight, and he has a child of nine, and he is the only pe
 
 Nobody on that bank thanked him for nine hours.
 
-Then a woman of twenty-eight who has been in that county eight days stood up off the wall she had been leaning on, and she has two letters with the seals unbroken, and one is in her bag and one is in his coat in the inside pocket, and she has borne nine sentences nobody can check for six days, and she has a reason, and she asked the new question once and not twice.
+Then a man of forty-three who keeps that landing nineteen years came up the plank on the Monday morning with a sheet of deal in his coat, and the sheet had a seal on it and about four inches of writing on the front of it, and he had not come up for it and came up for something else.
+
+He said where it was before anybody asked him.
+
+“*It was on the counter at that landing on the Thursday under a stone, with nothing on the outside of the stone and nothing on the inside of it, and about nine people were in that yard and about four of them walked past it.*”
+
+“*And nobody there put it there that anybody saw, and I am not going to say nobody did, and there is no form in that county that says a man of forty-three may keep a sheet off a counter.*”
+
+“*And I have kept it shut about four days and I have brought it down because I was coming down on the Monday anyway, and because I am not going to be a man who keeps a thing in a coat.*”
+
+About four people on that bank did that sum. About nine had the seal.
+
+Then a man of sixty-one read it out loud, because about four people on that bank can read and about nine cannot, and because he is the only person in that room who reads a thing out loud with the working.
+
+“*A Continuity Hearing, for every record there is, in all of Veyra, is declared by the Bench, and no room is named, and no county is named, and the word Veyra is on it.*”
+
+“*And every person in every county may be spoken about at it, and no person may be sent for about it, because a notice is not a summons.*”
+
+“*And the Bench says the records will be read in one place, and it does not say which place, and it does not say who keeps them, and I am going to read that again because about nine of you did not have it the first time.*”
+
+About four people on that bank had it. About nine had a seal and not the second line.
+
+Then he read it a second time and put it face down on a barrel that has no board on it, and said out loud that he read it twice and is not going to read it a third time in front of about nine people, because the fourth hour is not the hour a thing gets read better.
+
+“*And I am sixty-one, and I have kept a book eleven years, and there is no column in that book for a hearing and there is no column for a notice, and I am not going to cut one with a knife this week.*”
+
+Nobody on that bank thanked him for reading it twice.
+
+And it is not the hearing a man of thirty-eight asked for in a yard nine miles up this water on the Monday of the hundred and eleventh week. Nobody on that bank said that out loud, and about four of them thought it, and about nine did not, and nobody granted that hearing and nobody refused it and it is the twenty-second day.
+
+Then a woman of twenty-eight who came up that cart road on the Monday stood up off the wall she had been leaning on, and that is the eighth day of it, and she has two letters in a bag with the seals unbroken, and there is a page in the inside pocket of a coat standing nine feet off her, and she has borne nine sentences nobody can check for six days, and she has a reason, and she asked the new question once and not twice.
 
 Sera Quill looked at the water, and at the plank, and at the board leaning. About nine people on that bank heard a hearing about the whole world asked for in the open.
 
-“*If a hearing is to be about every record there is, and one thing keeps the record, and one thing says its own name and is not answered.*”
+“*A notice came up that road this morning with the word Veyra on it and no room named and no keeper named, and a hearing about every record there is has been declared for all of it, and one thing keeps the record, and one thing says its own name and is not answered.*”
 
 “*And two copies nine miles apart are only true when two men have said so, and a board about nine inches long is how they are checked, and a woman with her own hand is how a speaking is given.*”
 
@@ -50,7 +80,7 @@ About four seconds went past and nobody filled them, and the water went on movin
 
 About nine people on that bank heard the question and about four of them understood all of it, and it is not the right of refusal, and not the question of a yes taken back, and not the question of a no written down, and not the question of who says how many, and not the question of a copy owed.
 
-Then Ilyan said nothing to it. About four people on that bank noticed that he said nothing. About nine did not know there was anything to say, and it was the twelfth time in forty-nine days, and he held it.
+Then Ilyan said nothing to it. About four people on that bank noticed that he said nothing. About nine did not know there was anything to say, and it was the fifteenth time in forty-nine days, and he held it.
 
 “*I am not going to answer that, and I would like it said that I have not answered it and that I am not going to.*”
 
@@ -104,9 +134,9 @@ Nobody on that bank thanked the pole for lying ready.
 
 Then two letters were felt in a bag without being opened, because seals unbroken are still seals. About nine knew of two. About four knew of none.
 
-“*One in a bag. One in a coat. Both unbroken.*”
+“*Two in a bag with the seals unbroken, and a page in a coat, and all three unread.*”
 
-“*Forty-one days unasked. Eight days carried. No form.*”
+“*Forty-nine days unasked. Eight days carried. No form.*”
 
 “*A question about the whole world comes from unbroken seals. That is reason.*”
 
@@ -139,6 +169,8 @@ The fever was fifty-two weeks and three days old. He had been in that county nin
 And a man of thirty-eight is still doing a thing, and Thursday is the sixth time two copies will be in a room together, and it will take about nine hours of a boat and a pole and about nine minutes of reading.
 
 And a case is still open, and it is the twenty-second day, and nobody granted it and nobody refused it and nobody has written it down. About four people are going on saying it out loud in rooms about once a day.
+
+And a single Crown was abolished on the Monday by about nine people at a barrel in the open and it binds nobody and everybody in that room knows that, and a Bench four hundred miles off has declared a Continuity Hearing for all of Veyra and has named no room and no keeper, and a sheet with a seal on it was read out loud twice on a Tuesday morning in about nine people’s hearing and was not read a third time.
 
 And a figure was said out loud on a Tuesday morning in about nine people’s hearing, and a thousand and forty pence a year is four pounds six shillings and eightpence, and it is a figure of wood and not of people.
 

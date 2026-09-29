@@ -68,7 +68,7 @@ Then a man of sixty-eight said whether nine sentences can be a burden, and he sa
 
 Nobody in that room thanked him for twenty-seven.
 
-Then Ilyan said the true of it, and it was one half again, and a woman of twenty-nine in the reed stopped him in about the fourth sentence, and he held it, and it was the eighth time in forty-three days.
+Then Ilyan said the true of it, and it was one half again, and a woman of twenty-nine in the reed stopped him in about the fourth sentence, and he held it, and it was the ninth time in forty-three days.
 
 “*A woman of twenty-eight has just put her hand on nine sentences nobody can check. About four people in this room have it as a bearing and about nine have it as a word.*”
 
@@ -76,9 +76,9 @@ Then Ilyan said the true of it, and it was one half again, and a woman of twenty
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*And the rest is that I have been in Hask forty-three days, and I have wanted for fourteen days for a body to speak for me, and I said no to it, and now I want slowness I cannot check.*”
+“*And the rest is that I have been in Hask forty-three days, and I have wanted for twenty-two days for a body to speak for me, and that is fourteen on the Tuesday of last week and eight since, and I said no to it, and now I want slowness I cannot check.*”
 
-About four people in that room understood that. Nobody else said anything.
+About four people in that room understood that. The rest of them had nine sentences.
 
 Then a woman of twenty-nine said why she had stopped him, and it was two sentences. About four people in that town had not known either of them.
 

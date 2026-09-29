@@ -20,7 +20,7 @@ Nobody in that yard thanked him for nine minutes.
 
 “*Thirty-two lines on both of them. The thirty-second is the thirty-second on both of them. The thirty-first is the thirty-first on both of them.*”
 
-“*And it is the same day and the same Monday on both of them, and they agree, and yesterday was the fifth time the two have been in a room together.*”
+“*And it is the same day and the same Monday on both of them, and they agree, and yesterday was the fifth of the Thursdays, and this is not a Thursday, and the sixth is next Thursday.*”
 
 “*And this is ordinary work, and it is not a hearing and it is not a Crown, and it is a boat and a pole and a board about nine inches long.*”
 
@@ -28,7 +28,7 @@ About four people in that yard had the ordinary. About nine had the lines and no
 
 Then he showed the woman of twenty-eight the box, and the book, and the column cut with a knife on the back of the last leaf, and the column is about four inches wide and about nine inches long, and it is a number of people and not of heads and not of carts.
 
-“*A man of sixty-one cut that on Thursday of the last week but one after asking four people whether a man of sixty-one may. About four of them did not answer him.*”
+“*A man of sixty-one cut that on the Thursday of last week, after asking four people whether a man of sixty-one may. About four of them did not answer him.*”
 
 “*And there is no form in this county that says he may take that shilling and sixpence out, and he has tried to strike that line out twice.*”
 
@@ -74,7 +74,7 @@ Nobody in front of that barrel thanked him for eleven feet.
 
 Then a woman of forty-one with two carts brought two cart beds for the mending, and four sheets of deal had come out of her own cart beds. About nine people in front of that barrel saw wood given without a form.
 
-“*Four sheets out of my own beds, and eleven sheets copied in about four hours of daylight on the Sunday of the last week but one, and eleven and one and one and one is fourteen.*”
+“*Four sheets out of my own beds, and eleven sheets copied in about four hours of daylight on the Sunday of the hundred and eleventh week, and eleven and one and one and one is fourteen.*”
 
 “*And fourteen is a figure of wood and not of people, and one of the fourteen has no arrangement and is in a county nobody is going to.*”
 
@@ -82,7 +82,7 @@ Then a woman of forty-one with two carts brought two cart beds for the mending, 
 
 About four people in front of that barrel had the fourteen. About nine had the beds and not the number.
 
-Then Ilyan said the true of it from nine feet off, and it was one half, and he did not come closer, and a woman of twenty-eight held up a hand at about the fourth sentence and he held it.
+Then Ilyan said the true of it from nine feet off, and it was one half, and he did not come closer, and a woman of twenty-eight held up a hand at about the fourth sentence and he held it, and it was the eleventh time in forty-five days.
 
 “*A man of thirty-eight has just done ordinary work twice in two days. About four people in front of that barrel have it as a boat and about nine have it as a Crown.*”
 
@@ -104,7 +104,7 @@ Then night work was spoken of, because ordinary work does not end at the second 
 
 Nobody in front of that barrel thanked him for bailing.
 
-Then Sera Quill said she had seen bailing, and she said it plain. She has been in that county five days.
+Then Sera Quill said she had seen bailing, and she said it plain. She came up that cart road on the Monday and this is the fifth day of it, counting the day she came up.
 
 “*I saw him bail with a cut-down pail. I saw water go back to water.*”
 

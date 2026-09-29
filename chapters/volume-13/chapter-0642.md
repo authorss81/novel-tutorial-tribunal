@@ -6,7 +6,7 @@ Seventh and last day of the hundred and thirteenth week. His three hundred and n
 
 She came up that cart road at about the third hour on the Monday morning with dust on her coat to the knees and a bag with nothing else in it but two letters with the seals unbroken, and nobody on that bank had sent for her, and nobody in four counties can be sent for about her, and she had not been asked to be in that county.
 
-About nine people were on that bank. About four of them had seen her before. About nine had not, and nobody on that bank thanked anybody for the walking.
+About nine people were on that bank. About four of them had heard of her. About nine had not, and nobody on that bank thanked anybody for the walking.
 
 Ilyan Vester was thirty-one, and he had been in that county eighty-eight days, and in Hask forty-one days, and the forty-one is a count of days since he came up that plank, and the eighty-eight is a count since he came into that county, and the evening he came in is not a day he was in, and he keeps the two apart.
 
@@ -24,7 +24,7 @@ Nobody on that bank moved.
 
 About four seconds went past and nobody filled them.
 
-“*I came four hundred miles with two letters nobody has read, and one of them is in my bag with the seals unbroken, and one of them is in his coat in the inside pocket, and I am not going to ask for either of them.*”
+“*I came four hundred miles with two letters nobody has read, and both of them are in that bag with the seals unbroken, and there is a third thing in the inside pocket of his coat that came back the same four hundred miles, and I am not going to ask for any of the three.*”
 
 About four people on that bank had that. About nine had the miles and not the letters.
 
@@ -32,7 +32,7 @@ About four people on that bank had that. About nine had the miles and not the le
 
 Nobody on that bank thanked her for four hundred miles.
 
-Then a woman of forty with two carts said what everybody on that bank was standing in front of, because somebody has to, and she is on the board and she wrote on it.
+Then a woman of forty-one with two carts said what everybody on that bank was standing in front of, because somebody has to, and she is on the board and she wrote on it.
 
 “*Say what you are standing in front of,*” said Ibb Marshe, who is forty-one and keeps two carts and has a son of thirteen.
 
@@ -86,7 +86,7 @@ Eliza Lark is seventy-one, and she has kept that house eleven years, and she cam
 
 “*And you have said out loud that nobody can be sent for about you, and I have said the same thing about myself in about nine sentences, and the difference is that nobody has come to my door in eleven years and somebody has come four hundred miles to yours.*”
 
-Nobody on that bank moved.
+Nobody on that bank answered her.
 
 “*And I am not going to ask you anything else, and I would like it said that I have not asked you this.*”
 
@@ -100,7 +100,7 @@ Nobody on that bank thanked either of them for the carrying.
 
 Then she set her bag down on the gravel, and dust came off the bottom of it. About nine people on that bank saw a bag with nothing else in it but two letters. About four saw dust and not letters, and nobody asked to see either.
 
-“*One is in my bag and one is in his coat in the inside pocket, and the page that came back four hundred miles is still in that pocket, and I am not going to ask for it here.*”
+“*Both of mine are in that bag and neither has been opened, and the page that came back four hundred miles is in that pocket, and I am not going to ask for it here.*”
 
 “*And I have kept that pocket in mind for forty-one days without putting my hand in it, and that is a thing one person can do for another without a form.*”
 
