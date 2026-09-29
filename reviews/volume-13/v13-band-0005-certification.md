@@ -1,0 +1,163 @@
+# Volume 13, Band 0005, Chapters 641–650 — certification
+
+**WRITTEN AT THE VOLUME 13 CLOSE, AND THE FIRST THING TO SAY ABOUT IT IS THAT IT LATE. `reviews/volume-13/batch-0005-review-repair.md` IS THE RECEIPT OF A REPAIR AND NOT A CERTIFICATION, AND IT SAYS SO IN ITS OWN HEADING: no external reviewer read this band, and the phase that wrote it was the phase that repaired it. Bands 0001, 0002 and 0004 each have a certification and Band 0003's is at `state/batch-summary.md` §0V13C. `641`–`650` had none, and a band with a gap in it is a band whose figures are a repair's account of itself.** So this file re-measures the band from the committed files, prints the figures the instrument returns, and certifies what the files say and not what the receipt says about them. **Where the two disagree the disagreement is printed here and not resolved by taking the receipt's word.**
+
+---
+
+## 0V13E-C. THE BAND, AND WHAT IT IS
+
+**THE BAND IN ONE LINE, AND IT IS THE BAND THAT PUTS THE SECOND HALF OF THE VOLUME'S RESOLUTION ON THE PAGE: a woman of twenty-eight four hundred miles off comes up a cart road nobody sent for, says what she is in about nine people's hearing, refuses out loud to let a bench be the thing that carries a man of thirty-one and costs him a pole, then says out loud in about nine sentences what she will bear instead and a man of sixty-eight says why that binds nobody, an ordinary man of fifty-four who cannot read asks a removed witness a harder second question and is told that nobody is going to do it, both halves of a town are put to each other in the open and both are still right, a woman of seventy-one is asked a fourth time and is answered in a doorway by somebody who is not speaking to the room, and then about nine people at a barrel on a working day in the open take a board off a barrel and abolish a thing that binds nobody, and on the next morning a man of forty-three comes up the plank with a sheet of deal with a seal on it that he took off a counter under a stone four hundred miles from anybody who can be sent for about it, and a man of sixty-one reads it out loud twice and will not read it a third time, and a woman of twenty-eight asks the volume's question once and nobody answers it and the water goes on moving past that landing.**
+
+**THE FIGURES, RE-MEASURED ON THE COMMITTED FILES AT THE CLOSE, FROM THE INSTRUMENT AND WITH THE CORPUS NAMED IN THE COMMAND, BECAUSE THE DEFAULT IS VOLUME 10 AND A RUN THAT PUBLISHES A FIGURE FOR THE WRONG CORPUS IS WORSE THAN ONE THAT CRASHES:**
+
+```
+python3 -c "import sys;sys.path.insert(0,'reviews/volume-10');import instrument as I;I.run(641,650,vol='volume-13')"
+```
+
+**21,623 words · 1,027 sentences · median 15 (gate ≤ 25) · over-60 2.14% (gate ≤ 10%) · max para 88 · max sent 88 · and the per-chapter row printed beside it sums to 21,623, which is the band total, and those two figures are equal and had to be printed together because a row that does not sum to the total is the failure this section exists to prevent.**
+
+| | 641 | 642 | 643 | 644 | 645 | 646 | 647 | 648 | 649 | 650 | row |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| words | 2,151 | 2,243 | 2,091 | 2,142 | 2,110 | 2,029 | 2,045 | **2,061** | 2,066 | 2,685 | **21,623** |
+| sentences | 78 | 95 | 86 | 93 | 93 | 101 | 125 | 114 | 109 | 133 | **1,027** |
+| over-60 | 3.85% | 3.16% | 2.33% | 1.08% | 3.23% | 1.98% | 0.00% | 1.75% | 1.83% | 3.01% | **2.14%** |
+| max para | 73 | 79 | 74 | 64 | 78 | 72 | 61 | 64 | 74 | 88 | 88 |
+| max sent | 73 | 79 | 74 | 64 | 78 | 72 | 58 | 64 | 66 | 88 | 88 |
+| `“*` | 31 | 29 | 35 | 36 | 30 | 30 | 36 | 35 | 30 | 41 | **333** |
+
+**ALL TEN CHAPTERS ARE INSIDE 2,000–3,400.**
+
+### 0V13E-C.1 The one figure in the close prompt that was known to be stale, and what the measurement actually says
+
+**THE PROMPT FOR THIS PHASE PREDICTED THAT THE BAND TOTAL *WOULD HAVE MOVED BY ONE WORD* BECAUSE `648:7` HAD ONE WORD CHANGED IN IT AFTER THE LAST INSTRUMENT RUN. IT DID NOT MOVE. `648:7` NOW READS *a Crown sixteen days old* AND IT READ *a Crown eight days old* BEFORE, AND `eight` AND `sixteen` ARE ONE WORD EACH, SO THE BAND TOTAL IS 21,623 BEFORE AND 21,623 AFTER, AND THE PER-CHAPTER FIGURE FOR `648` IS 2,061 AND NOT 2,060.** This is recorded because a prediction printed in a prompt about a file that has since changed is worse than a figure nowhere, because it is checked-looking, and because the prediction was reasoned from the fact that a repair happened and not from what the repair did. **THE INSTRUMENT IS THE FIGURE AND THE PREDICTION IS NOT, AND WHERE THEY DISAGREE THE INSTRUMENT IS RIGHT.**
+
+**A COUNT TAKEN WITH A PLAIN SPLIT ON THE RAW FILES IS NOT THE INSTRUMENT'S COUNT AND IS HIGHER, because the instrument segments the prose its own way — per block, never across a blank line, with the title counted as one sentence and System-panel lines included. It is printed here once so that the next checker does not file a drift report against a certified total: a whitespace split of these ten files does not return 21,623.** The instrument is what this repository certifies by.
+
+## 0V13E-C.2 The four refrain figures, and the rate series, and the thing the prompt got wrong about it
+
+**ALL FOUR, BECAUSE A BAND THAT PRINTS ONE OF FOUR HAS ALREADY BEEN CAUGHT BY IT IN THIS REPOSITORY.** `“*Say` **8** (3.7/10k) · `“*Go on` **0** · `say the rest` **8** · `“*` every occurrence **333** (154.0/10k) · `“*` at line start **333** (154.0/10k), and the two dialogue denominators are equal in this band and the larger figure is the certified one and the two must never be substituted for each other.
+
+**THE DIALOGUE RATE ACROSS THE FIVE BANDS, MEASURED ON THE INSTRUMENT, EACH WITH ITS RANGE BESIDE IT AND NONE COPIED FROM ANOTHER BAND'S CERTIFICATION:**
+
+| band | range | words | `“*` | per 10k | `“*Say` | `say the rest` | `thanked` |
+|---|---|---|---|---|---|---|---|
+| 0001 | 601–610 | 22,528 | 329 | **146.0** | 45 | 39 | 26 |
+| 0002 | 611–620 | 22,647 | 257 | **113.5** | 44 | 22 | 32 |
+| 0003 | 621–630 | 26,497 | 250 | **94.4** | 19 | 21 | 48 |
+| 0004 | 631–640 | 25,209 | 438 | **173.7** | 10 | 8 | 43 |
+| 0005 | 641–650 | 21,623 | 333 | **154.0** | 8 | 8 | 81 |
+| volume | 601–650 | **118,504** | **1,607** | **135.6** | 126 | 98 | **230** |
+
+**THE CLOSE PROMPT ASSERTED THAT THE DIALOGUE RATE *HAS FALLEN HARD ACROSS THE FIVE BANDS* AND THAT THIS IS TO BE RECORDED AS A LOSS AND NOT A GAIN. **THE INSTRUMENT DOES NOT SUPPORT THAT ASSERTION AND IT IS NOT CERTIFIED. THE RATE IS 146.0, 113.5, 94.4, 173.7, 154.0 — IT FELL FOR TWO BANDS, IT THEN ROSE BY EIGHTY POINTS PER 10K, AND THE LAST BAND IS THE **SECOND HIGHEST OF THE FIVE** AND IS HIGHER THAN BANDS 0001, 0002 AND 0003. IT IS NOT A LOSS AND IT IS NOT A GAIN; IT IS A RATE THAT MOVED, AND THE ONLY HONEST SUMMARY IS THE FIVE NUMBERS.** Nothing was added to a chapter to move it and nothing will be.
+
+**WHAT *DID* FALL HARD ACROSS THE FIVE BANDS, AND IT IS PROBABLY WHAT THE PROMPT MEANT, IS THE REFRAIN AND NOT THE RATE: `“*Say` RUNS 45, 44, 19, 10, 8 — AN EIGHTY-TWO PER CENT FALL ACROSS THE VOLUME — AND `say the rest` RUNS 39, 22, 21, 8, 8, A SEVENTY-NINE PER CENT FALL. THE ONE-LINE PROMPT *SAY WHAT YOU ARE STANDING IN FRONT OF* AND *THEN SAY THE REST OF THAT AND DO NOT BE SORRY FOR ME* ARE THE VOLUME'S TWO REFRAINS AND BOTH OF THEM THINNED OUT, WHILE THE NUMBER OF DIALOGUE LINES WENT UP. A BAND THAT TOLD ITS OWN REFRAIN LESS OFTEN AND DID NOT EXPLAIN IT IS A FINDING ABOUT THE WRITING, AND IT IS THE OPPOSITE OF A DIALOGUE PROBLEM, AND THE TWO ARE NOT THE SAME MEASUREMENT AND CONFUSING THEM IS HOW A CHAPTER GETS A LINE ADDED TO IT TO MOVE A NUMBER THAT WAS NEVER THE PROBLEM.**
+
+## 0V13E-C.3 The tic sweep, every figure, and the eighty-one `thanked` read on the page
+
+`do not make it a speech` **0** · `arbiter` **0** · `villain` **0** · `upstairs` **0** · `month` **0** (including in a title and including a demonstrative in front of it) · `spring` `summer` `winter` `autumn` **0** · `the rail` **0** · `the volume` `in this volume` `of this volume` `this volume` `of the volume` `the whole volume` `this manuscript` `in the novel` `the novel` **0** · `Sorry` `grateful` **0** · `do not stop` **0** · straight ASCII apostrophes **0** · `Nobody said anything` **1** (and that one is a `SAID NOTHING` register, examined, not a silence beat) · `First Witness` **1**, at `643:75`.
+
+**`thanked` IS 81 IN THIS BAND, AND THIS PHASE READ ALL EIGHTY-ONE ON THE PAGE AND DID NOT TAKE THE COUNT'S WORD FOR IT. ALL EIGHTY-ONE ARE NEGATIONS, and the shapes are four: *Nobody in that room / on that bank / in that yard / on that plank / in front of that barrel thanked X for Y*; the same clause inside a mouth; *nobody thanked me*; and *Nobody thanked him.* They thank nobody for walking, for sitting, for nine years, for four hundred miles, for reading a notice twice, for ninety-six days, for two days of a road, for thirteen years old, for a stone standing, for a pole lying ready, for seals holding, for feet standing, and for thirty-three days. The figure the instrument prints and the figure the reading returns are 81 and 81.**
+
+**ACROSS THE VOLUME `thanked` IS 26, 32, 48, 43, 81 — 230 IN ALL — AND THE WHOLE SERIES WAS READ BY THE SAME TEST AND EVERY ONE OF THE TWO HUNDRED AND THIRTY IS A NEGATION. THE LAST BAND CARRIES 35 PER CENT OF THE VOLUME'S TOTAL IN TEN OF ITS FIFTY CHAPTERS, AND THAT IS A FACT ABOUT THE WRITING AND NOT A TIC: this band is one in which things are done in front of about nine people and the volume's convention is to say that nobody thanked anybody for any of it. It is not thanked, and it was not repaired by deleting a line, and it must not be.**
+
+**`First Witness` WILL NOT BE ZERO IN THIS BAND AND IS ALLOWED NOT TO BE ZERO. IT IS AT 1, AT `643:75`, NAMED ONCE, FLAT, IN THE OPEN, BY A MAN OF THIRTY-ONE, THREE WORDS AND A FULL STOP, AND NOTHING HAPPENS: *The nine of them were where they had been. About four seconds went past and nothing said and nothing happened, and the water went on moving past that landing.* **THE COUNT IS NOT THE CERTIFICATE. THE CERTIFICATE IS THE COST: at `643:87` the first thing the naming cost fell on an ordinary woman of forty-nine who came down that road with a man of fifty-two, who is not in a chair and is not a head in the book of heads and carts, who said on the Friday that she did not know what a copy was, and who says the cost out loud herself — *I have heard it now twice, and I did not know what a copy was on Friday, and I do not know what that name is on Tuesday. And about nine mouths in that yard nine miles up this water have it. About nine mouths on this bank have it now, and I am one of the nine. And I cannot be sent for about and the man I came down that road with cannot be sent for about.*** She is not a device, she is not a side, and there is no person in it to be cross with. **THE NAME IS NOT ADDRESSED AND IT IS NOT ANSWERED, AND A NEAR MISS IN THE REPAIR PHASE WROTE THE WORD *villain* IN A SENTENCE THAT WAS ABOUT A NAME AND WAS CAUGHT BY THE INSTRUMENT'S OWN TIC LIST AND CHANGED TO *enemy*. THE PROHIBITION IS NOT ONLY FOR A VILLAIN IN THE STORY.**
+
+## 0V13E-C.4 The reserved-number guard, swept across the volume and read
+
+```
+python3 -c "import sys;sys.path.insert(0,'reviews/volume-10');import instrument as I;I.guards(601,650,vol='volume-13')"
+```
+
+**FIFTEEN OCCURRENCES OF *FOUR HUNDRED* IN FIFTY CHAPTERS, ONE OF THEM WITH A CROWD NOUN INSIDE FORTY CHARACTERS, AND ALL FIFTEEN WERE READ. **THE FLAG IS A READING AID AND IT HAS FALSE POSITIVES AND FORTY CHARACTERS IS A WIDE WINDOW, SO THE COUNT ON THE FLAG LINE CERTIFIES NOTHING AND THE READING IS THE GATE.**
+
+**THE FIFTEEN, ONE BY ONE, AND THIS IS THE THIRD TIME THIS VOLUME'S GUARD HAS BEEN CLASSIFIED AND THE FIRST TWO PASSES GOT THE SPLIT WRONG:**
+
+| # | Where | What it is | Whose |
+|---|---|---|---|
+| 1 | `625:91` | *a town of about two thousand four hundred, and about nine people in this town have not thought past the end of this plank* | **A POPULATION. The one population figure in fifty chapters, and the one line the guard itself flagged `crowd noun near`.** |
+| 2 | `642:27` | *I came four hundred miles with two letters nobody has read* | Sera |
+| 3 | `642:27` | *a third thing in the inside pocket of his coat that came back the same four hundred miles* | Sera |
+| 4 | `642:33` | *Nobody on that bank thanked her for four hundred miles.* | Sera |
+| 5 | `642:85` | *You have come four hundred miles with nothing on you but two letters* | Sera |
+| 6 | `642:87` | *somebody has come four hundred miles to yours* | Sera |
+| 7 | `642:103` | *the page that came back four hundred miles is in that pocket* | Sera |
+| 8 | `642:113` | *And four hundred miles is not two days* | Sera |
+| 9 | `642:113` | *nobody in this town can be sent for about four hundred miles* | Sera |
+| 10 | `643:43` | *let a man I have come four hundred miles to stand beside* | Sera |
+| 11 | `643:45` | *Nobody on that bank thanked her for four hundred miles.* | Sera |
+| 12 | `643:101` | *I have read enough in four hundred miles to know that silence is a real thing* | Sera |
+| 13 | `648:45` | *And I have come four hundred miles with two letters nobody has read* | Sera |
+| 14 | `650:3` | *His four hundredth morning* | **AN ORDINAL. `650 − 250 = 400`. Flagged `read it`, not `crowd noun near`.** |
+| 15 | `650:173` | *a Bench four hundred miles off has declared a Continuity Hearing for all of Veyra* | **A DISTANCE, AND IT IS NOT SERA'S.** |
+
+**TWELVE ARE SERA QUILL'S — EIGHT AT `642`, THREE AT `643`, ONE AT `648` — AND ALL TWELVE ARE THE SAME FOUR HUNDRED MILES AND ALL TWELVE ARE A DISTANCE AND NOT A POPULATION. ONE IS A POPULATION AT `625:91`. ONE IS AN ORDINAL AT `650:3`. ONE IS A DISTANCE AT `650:173` THAT IS **NOT** SERA'S.** Two earlier passes at this split said `thirteen`, once in `state/current.md` §0.8 and once in `state/batch-summary.md` §0V13E.4, and both were wrong. **A CLOSE THAT READS ALL FIFTEEN AND REPORTS A DIFFERENT SPLIT HAS REPEATED THE ERROR THIS VOLUME ALREADY MADE TWICE.** It is twelve, and the split is certified here, and no line of this band is a crowd count of the number.
+
+## 0V13E-C.5 The panel register, and why the instrument cannot measure it
+
+**`NO PANEL IN THE BAND. The instrument's own `PANELS:` line prints `none` for 641–650, and it prints a raw substring count of `**` per file, so a `none` there is the absence of two asterisks and not the absence of a panel. Across 601–650 the same line prints `-0609=2**` and `-0617=2**`, and both are real: `609:83` is `**CITED. About nine hundred words. Six hands. No name at the top of it. … It binds nobody. It has now been used once. Nobody asked it to be used.**` and `617:29` is `**RECORDED. Two copies of one sheet. … Twenty-nine lines. … One of the ten cannot be checked against anybody in that town.**` BOTH ARE IN BAND 0001, BOTH ARE BOLD BLOCKS OF PROSE, NEITHER OFFERS THE READER ANYTHING TO PICK, NEITHER BINDS ANYBODY, AND NEITHER IS A CHOICE.**
+
+**SO THE PANEL REGISTER FOR THE WHOLE VOLUME IS **TWO**, ASSERTED BY READING ALL FIFTY FILES FOR A BOLD SECTION-HEADING AND NOT BY THE INSTRUMENT, AND BOTH ARE NAMED WITH THEIR LINES AND BOTH ARE EXAMINED. **TWO BANDS AND ONE VOLUME HAVE NOW CLAIMED A ZERO ACROSS 601–650 AND ONE OF THOSE CLAIMS WAS WRONG.** A volume may not report a panel register it read off a number that does not measure panels.**
+
+**AND THE ONE PLACE A PANEL WOULD HAVE BEEN MOST TEMPTING IS THE ONE PLACE A BAND THAT WANTS A HEARING DECLARED MIGHT HAVE REACHED FOR IT, AND IT WAS NOT: the declaration at `650` is a sheet of deal with a seal on it, read aloud twice by a man of sixty-one in prose, with no panel, no choice and no interface. THE RESOLUTION OF A VOLUME ARRIVED AS A DOCUMENT AND NOT AS AN INTERFACE.**
+
+## 0V13E-C.6 The calendar, fifty date lines and fifty closing fevers
+
+**Anchor 400. `shelf = ch − 125` · `week = 40 + shelf ÷ 7` · `day = shelf mod 7 + 1`, day 1 = **Tuesday** · `morning = ch − 250` · settlement `ch − 400` · fever `ch − 283` days · `hall = ch − 446` · `clear = ch − 500`. `ch − 410`, the rail, is RETIRED and is in no date line of the band and is in no date line of the volume.**
+
+641 Sun 516, wk 113/6, morn 391, settle 241, fever **51w 1d**, hall 195, clear 141 · 642 Mon 517, 113/7, 392, 242, 51w 2d, 196, 142 · 643 Tue 518, **114/1**, 393, 243, 51w 3d, 197, 143 · 644 Wed 519, 114/2, 394, 244, 51w 4d, 198, 144 · 645 Thu 520, 114/3, 395, 245, 51w 5d, 199, 145 · 646 Fri 521, 114/4, 396, 246, 51w 6d, 200, 146 · 647 Sat 522, 114/5, 397, 247, **52w 0d**, 201, 147 · 648 Sun 523, 114/6, 398, 248, 52w 1d, 202, 148 · 649 Mon 524, 114/7, 399, 249, 52w 2d, 203, 149 · 650 Tue 525, **115/1**, **400**, 250, **52w 3d**, 204, 150.
+
+**ALL TEN DATE LINES AGREE FIELD BY FIELD, ALL TEN TITLE WEEKDAYS AGREE WITH THE FORMULA, ALL TEN CLOSING FEVERS AGREE WITH THEIR OWN DATE LINES, AND ALL TEN MORNING FIGURES AGREE WITH `ch − 250`. `647` CLOSES ON A WHOLE NUMBER OF WEEKS — *the fever was fifty-two weeks old* — WHICH IS THE HOUSE FORM AND AGREES WITH ITS OWN DATE LINE, EXACTLY AS `605`, `612`, `619`, `626`, `633` AND `640` DO, `605` AND `612` USING *AND NO DAYS* AND THE LATER FOUR USING *WEEKS OLD*. `650` OPENS THE HUNDRED AND FIFTEENTH WEEK AND IS THE LAST CHAPTER OF THE VOLUME.**
+
+**THE SECOND CLOCK, WHICH IS A DIFFERENT CLOCK, AND EIGHT FIGURES IN THIS BAND WERE AGAINST THE WRONG ANCHOR AND WERE REPAIRED IN THE CHAPTERS:** his days in the county of Kell are `ch − 554` — eighty-seven at `641` through ninety-six at `650`, and **all ten are said out loud in a closing line**; his days in Hask are `ch − 601` — forty at `641` through forty-nine at `650`, and the day-counts that run against the series of times he has said half a thing out loud are against this clock and not the other one. **A close that reads a day-count in a chapter of 601–650 has to know which of the two clocks it is, and the anchor is the only way to know.**
+
+**AND EVERY DAY-COUNT IN 641–650 WAS CHECKED AGAINST AN ANCHOR AND NOT AGAINST ITS NEIGHBOUR:** the Crown nine days old at `641` and seventeen at `649`, both of `632`, the second derived aloud twice; sixteen at `648`, which is `648 − 632`; the rule that is `ch − 617`, twenty-five at `642` through thirty-three at `650`, six spoken subtractions; the twenty-second day of a hearing, `650 − 628 = 22`, spoken aloud; nineteen and twenty-two days of wanting a body to speak for him, each broken into *fourteen on the Tuesday of last week* and the days since; eighteen days without standing, `647 − 629`; six days of nine sentences nobody can check, `650 − 644`; eight days carried, `650 − 642`; four days a sheet was kept shut, the Thursday `645` to the Monday `649`; two days of two polings; and the count of people he has said one half aloud before, seven in forty-six days at `647`, which is a different figure about a different subject from the ordinal series and does not collide with it.
+
+## 0V13E-C.7 The duplicate-sentence sweep, at the threshold of three, reported both ways
+
+**THE SWEEP IS NOT IN THE INSTRUMENT AND IT IS RUN ON THE INSTRUMENT'S OWN SEGMENTATION.**
+
+- **NO SENTENCE STANDS VERBATIM MORE THAN THREE TIMES INSIDE ONE CHAPTER IN 641–650. IT RETURNS 0.**
+- **NO SENTENCE OPENS TWO CHAPTERS OF THIS BAND. THE TEN OPENINGS ARE ALL DISTINCT. IT RETURNS 0.**
+- **AT THE LOOSER THRESHOLD OF *AT LEAST THREE OCCURRENCES ANYWHERE IN THE BAND*, IT RETURNS 3, AND THE THREE ARE THE VOLUME'S OWN BEAT VOCABULARY AND ARE EXAMINED AND KEPT:** *Then say the rest of that and do not be sorry for me*, said Ilyan (5); *About four seconds went past and nobody filled them* (5); *Nobody on that bank moved* (3). **None of the three stands more than once inside any one chapter, so the gate that exists holds even though the looser sweep fires.**
+- **THE CALIBRATION IS PRINTED BECAUSE A SWEEP RUN ONLY ON THE BAND THAT WAS JUST WRITTEN ALWAYS LOOKS LIKE THE FIRST ONE: AT THE SAME THRESHOLD, 601–610 RETURNS 16 DISTINCT SENTENCES AND 121 OCCURRENCES, 611–620 RETURNS 13 AND 157, 621–630 RETURNS 24 AND 171, 631–640 RETURNS 13 AND 49, AND 641–650 RETURNS 3 AND 13.** This band returns 3 where the band before it returns 13 and the one before that 24, and that is the whole of the claim.
+- **AND THE GATE ITSELF IS NOT CLEAN ACROSS THE VOLUME. RUNNING IT — *no one sentence more than three times inside one chapter* — ACROSS ALL FIFTY CHAPTERS RETURNS 28 INSTANCES, ALL OF THEM THE SAME TWO OR THREE SENTENCES: 2 in 601–610, 13 in 611–620, 13 in 621–630, AND ZERO IN 631–640 AND ZERO IN 641–650.** The sentences are *About nine did not.*, *About four seconds went past.* and *Nobody on that plank moved.*, and they are spoken by different people in different rooms for four volumes. **This is reported and is not a defect to be repaired: the rule exists to catch a chapter that has fallen into a loop, and a house that has a beat is not a chapter in a loop. It is published here so that the zero is not mistaken for a property of the volume rather than of the last two bands.**
+
+## 0V13E-C.8 What the band's own sweep found, and the three places it did not look
+
+**THE STRUCTURAL SWEEP, WHICH IS NOT IN THE INSTRUMENT, RETURNS 0**, after the ten prose edits that follow it were made. **The convention it must not flag is this volume's run of consecutive quoted lines without a tag between them, and the check for a paragraph that opens a speech and does not close it is written so that a house-form run is not a defect — and that reason is written down here rather than in the script, because a sweep narrowed without the reason recorded is a sweep that was tuned.**
+
+**AND THE SWEEP DOES NOT LOOK FOR THE DRAFTING-ARTIFACT CLASS AND THE ONLY THING THAT FOUND IT WAS A PERSON READING THE CHAPTER: `645:39` had printed, as prose, *Then he cut the thirty-second notch? No, the board has thirty-two notches, and he ran a thumb along the edge to show it.*** That is the writer thinking on the page, and no gate in this repository prints a question mark in the middle of a declarative and asks what it is doing there.
+
+## 0V13E-C.9 The forty-four repairs, and the six that followed, carried across
+
+**THE FORTY-FOUR CHAPTER REPAIRS OF THIS BAND ARE AT `reviews/volume-13/batch-0005-review-repair.md` §§2–8, IN FOUR CLASSES, AND A CLOSE DOES NOT SUMMARISE A REPAIR LIST INTO A SENTENCE THAT LOSES THE CLASSES:**
+
+- **TEN FIGURES THAT DID NOT MOVE WITH THE DAY** (§2) — a day-count said at one chapter and re-typed at another without the day moving; a span with no ancestor; a figure that had walked from one person to another; a weekday that had gone stale; and one figure invented *inside* the repair itself, which was caught only by the phase running the same derivation a second time. **ELEVEN ENTRIES ARE PRINTED IN THAT TABLE AND IT IS HEADED TEN; the eleventh, §2.11, is the one the phase introduced, and the discrepancy is in the receipt.**
+- **EIGHT COUNTERS THAT WERE NOT DERIVED FROM THE LAST ONE** (§3) — two sevens running through one band at once, and two chapters that printed no ordinal at all, so that two terms went missing out of a run.
+- **SEVEN CONTRADICTIONS INSIDE A CHAPTER OR AGAINST ITS NEIGHBOUR** (§4) — including two places where two letters and a page were described as a pair against a third written object, and a count of Thursdays that was one ahead of itself in five chapters.
+- **THREE FACTS ABOUT PERSONS THAT THE CANON CONTRADICTS** (§5) — the worst being an abolition that listed a woman as saying a word at a barrel twenty lines after the same chapter put her nine feet off with nothing to say, and a woman as standing who has not stood for four bands.
+- **THREE PIECES OF META LANGUAGE** (§6) — references to the ten-chapter unit inside the prose, of which one was a near miss on the word `villain`.
+- **ONE DRAFTING ARTIFACT** (§7).
+- **TWELVE EDITS THAT SERVE THE STANDING ACT AND THE DUPLICATE SWEEP** (§8).
+
+**THE SIX FINDINGS OF THE EXTERNAL REVIEW THAT FOLLOWED ARE AT §13: ONE DEFECT IN A CHAPTER, WHICH WAS `648:7` PRINTING *A CROWN EIGHT DAYS OLD* WHERE `648 − 632 = 16`, REPAIRED IN THE CHAPTER IN ONE WORD; AND FIVE IN THE SELF-REPORTING, WHICH WERE A HEADING THAT SAID FIVE CHAPTERS OVER A BODY THAT READ TEN, A PER-CHAPTER ROW THAT SUMMED TO 21,624 AGAINST A TOTAL OF 21,623, A `thanked` COUNT OF 80 AGAINST 81 IN THE SAME FILE, A PANEL REGISTER THAT SAID ZERO ACROSS 601–650 WHERE IT IS TWO, AND A GUARD SPLIT THAT SAID THIRTEEN SERA QUILL'S WHERE IT IS TWELVE. §13.3 ALSO CORRECTED THE RECEIPT'S OWN *FOUR PLACES* TO FIVE. THE COMMON THREAD IS WRITTEN DOWN IN THE RECEIPT AND IT IS THE RULE THIS FILE also obeys: A COUNT OR A TOTAL THAT APPEARS IN TWO PLACES MUST BE DERIVED FROM THE INSTRUMENT IN BOTH PLACES AND NOT COPIED FROM THE OTHER PLACE, AND A CLAIM THAT A RANGE IS CLEAN MUST BE MADE ABOUT THE RANGE THAT WAS ACTUALLY SWEPT.**
+
+## 0V13E-C.10 What this band did not do, and it is the same list as every band
+
+**NOBODY WAS RELIEVED, FORGIVEN, REDEEMED OR THANKED.** **NOBODY IS A VILLAIN: the Bench that declares a hearing and names no room, no county and no keeper is not one and is not a side and is not relieved; the woman of twenty-eight who refuses and bears is not one and is not forgiven and has said out loud that she will fail without a form; the man of sixty-eight who gave the rule that made the Crown is worse off than he was and says so and says nobody is to do anything about it and is not relieved; the boy of thirteen is not a device; the woman of forty-nine who does not know what a copy is is not a device.** **THE RIGHT OF REFUSAL IS UNRESTORED AND WAS GIVEN TO NOBODY, AND THE FIXED FACT FROM `602` — *a person who cannot be asked is not a refusal* — IS NOT RE-OPENED AND IS NOT MADE INTO A DISCOVERY: at `648` a woman of seventy-one is asked a fourth time and does not say it, and a woman of twenty-eight answers her in a doorway, low, and not to the room, and the answer is not a comfort and it is not a form and it restores nothing.** The shortcut refused at `636` is real and would have worked in about four days, the person it was offered to is not a device, and the counter-burden is borne by a person who chose it out loud in about nine sentences and not by a system. **THE MIDPOINT SPENT AT `628` WAS NOT RE-SPENT. NONE OF THE TWENTY-ONE WITHERMERE THREADS WAS ADVANCED. BRAMBLEFOLD, HALLOWAY, THE STRUCK LEAF AND THE FOUR LETTERS AND A STROKE WERE NOT TOUCHED. THE MIDPOINT WAS NOT SPENT TWICE AND `citizen` IS AT 0.**
+
+**AND THE THING AT THE BARREL IN `644` IS NOT A COURT AND NEITHER THE CHAPTER NOR THIS FILE CALLS IT ONE. The series card says a court; the chapter says nine people at a barrel with a door open and about nine feet of an open boat between them and about thirteen people in front of them, and a man of sixty-eight saying out loud that a Crown which is a thing nobody can be sent for about, borne by a person nobody can be sent for about, binds nobody, and that he gave the rule that made it and is worse off for it. THERE IS NO COURT, NO ROOM, NO KEEPER AND NO SEAL, AND THE WORD IS NOT USED.**
+
+## 0V13E-C.11 What this close found in the band that the band did not find in itself
+
+**A band certified by the phase that repaired it is a band nobody checked twice. This phase read all ten chapters again against the figures, and the following are recorded here and NOT repaired in the chapters, because a close does not open a chapter, and because three of the four are the receipt's own account of itself and belong in a receipt.**
+
+1. **THE PREDICTED ONE-WORD MOVE DID NOT HAPPEN.** `648:7` reads *sixteen* where it read *eight*, and both are one word, and the band total is unmoved at 21,623. The prediction was reasoned from the fact of a repair rather than from what the repair did. §0V13E-C.1.
+2. **THE DIALOGUE-RATE CLAIM IS NOT SUPPORTED BY THE INSTRUMENT.** The five rates are 146.0, 113.5, 94.4, 173.7, 154.0 and the last is the second highest. What fell hard is the refrain, not the rate. §0V13E-C.2.
+3. **THE RECEIPT'S §2 TABLE IS HEADED *TEN FIGURES* AND PRINTS ELEVEN.** The eleventh is the figure the phase invented inside its own repair, which it says itself was the one thing that caught it. The heading was not corrected. §0V13E-C.9.
+4. **THE RECEIPT'S §10 TABLE NAMES THREE POINTERS THAT DO NOT HOLD THE TEXT THEY QUOTE** — `632:11`, `633:165` and `640:14`, the last of which is an empty line. **They have been corrected here, in the receipt and in `state/continuity.md` §0J, at the close, because a pointer is a claim about a line and a wrong pointer sends the next checker to a blank.** **AND THE RESIDUAL THE TABLE DESCRIBES CARRIES EIGHT PLACES IN THREE CHAPTERS AND NOT FIVE** — `633:15`, `633:17`, `633:189`, `639:9`, `639:63`, `639:155`, `639:163`, `640:9` — of which two, `639:155` and `639:163`, are in the closing block of the same chapter and were not counted as separate places. **The residual is recorded at `reviews/volume-13/batch-0005-review-repair.md` §10.1 and in `state/open-threads.md` §1E item 17. `632` itself says *the fourth hour of a Friday* in three places, so the canon is not in doubt and only the three chapters after it are.** It is left open and it is not to be rewritten by a planner.
+5. **A COUNT THAT DID NOT MOVE ACROSS NINE CHAPTERS, AND A FIGURE WITH NO BODY.** `state/open-threads.md` §1E item 13 carried *has said no three times and four times* to put the request for a hearing in her book. **No chapter of 601–650 gives the fourth a body: `640:69`, `640:169` and `649:45` all say three, and both anchors resolve to the same Friday, which is `632`.** The item is corrected to three at the close and the count is left at three because three is what the chapters say, not because the count is settled — no chapter says she was asked a fourth time and no chapter says she was not.
+6. **TWO QUOTATIONS IN `state/continuity.md` §0J THAT THE CHAPTER NO LONGER SUPPORTS.** The paragraph quoting `650:45` carried *two days* where the chapter says *four days*, and the paragraph on who stood where at the abolition named three people who are not at the barrel in `649` at all. Both are corrected in that file at the close, and the reasoning is printed beside each, because a quotation in a state file is a claim about what the chapter says and it was false of the chapter.
+7. **THE BAND'S STANDING ACT WAS RUN AND IT MOVED THE INVENTORY BUT NOT THE SHAPE.** `642` and `643` were re-anchored off the same two sentences and now close on a coat on a peg and a bench at the tenth hour with no dew — but both still close on the two-clause *About four people … / About nine had not*, on consecutive chapters. `644`, `645`, `646` and `647` were four neighbours on ink; `645` and `647` were re-anchored, and **two of the four are still on ink, `644` and `646`, with `645` between them.** And **the slate nailed to the frame of a front room, with no name on it and a chair inside that is not one of the twenty-nine and never was, closes three chapters of this volume — `633`, `641` and `648` — and the clause *is not one of the twenty-nine and never was* is verbatim in all three.** The receipt repaired one of the three instances by re-ordering `648` so the house came first, and the slate is still last in `641` and `648` and still last in `633`. **This is recorded and not repaired: a close does not open a chapter, and the object is the same object for eight hundred miles of the volume and may be a deliberate return rather than a collision. But it is a finding, and it is a finding only a person reading three chapters eight apart could make.**
+
+**NONE OF THESE SEVEN IS A FIGURE THAT WAS WRONG IN THE PROSE OF 641–650. Six of the seven are about a receipt's or a state file's account of the band, and one is about the shape of three closings. The band is certified. The account of the band is corrected, and the corrections are visible.**

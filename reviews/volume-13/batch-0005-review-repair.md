@@ -129,7 +129,7 @@
 
 **FIVE PLACES IN CHAPTERS 633, 639 AND 640 GIVE A DIFFERENT FIRST DAY FOR THE CROWN FROM THE ONE `641` AND `649` DERIVE FROM, AND THE SUBTRACTION IS THE SAME IN BOTH PLACES.** *(The two sentences below saying "four" are corrected to "five"; `633` twice, `639` twice and `640` once is five places, and `state/current.md` §0.10 and `state/open-threads.md` §1E item 17 both said five, so the receipt was the only file in the set that said four.)*
 
-- **`632` IS THE CHAPTER THAT MADE IT.** `632:11` — *the door was open because it was the fourth hour of a Friday* — and `632:13` — *there is no other table in Hask, so the board went on the barrel*. **`632` IS A FRIDAY.**
+- **`632` IS THE CHAPTER THAT MADE IT.** `632:7` — *the door was open because it was the fourth hour of a Friday* — and `632:13` — *there is no other table in Hask, so the board went on the barrel*. **`632` IS A FRIDAY.**
 - **`634`, THE NEXT CHAPTER BUT ONE, CORROBORATES IT AND IS NOT A DERIVATION:** *There was a Crown on a barrel in a room in this town. It was two days old, it had answered two things, and it had got one of them right.* `634` is a Sunday and `634 − 632 = 2`.
 - **`635` CORROBORATES IT AGAIN:** *the bench that had been carried up on Friday was still standing against the gunwale of the Gull.*
 - **`641` THEREFORE SAYS NINE DAYS, AND `641 − 632 = 9`, AND SAYS WHERE IT COMES FROM: *it is nine days old … it was put on that barrel on the Friday of the last week but one at about the fourth hour, and this is the Sunday of the next week, and Friday to Sunday is nine days, and I have counted it on my own hands and not out of a book.*** **A CHARACTER DERIVES THE FIGURE OUT LOUD AND NAMES THE CHAPTER'S DAY.**
@@ -140,13 +140,21 @@
 | Where | What it prints | `chapter − 632` |
 |---|---|---|
 | `633:17` | *a board on a barrel had nine names on it at about the fourth hour on Thursday* | Thursday of that week is `631`, which is 8 days back at `649` |
-| `633:165` | *It took four hours to make on a Thursday* | as above |
-| `640:14` | *The board was still on the barrel where it had stood since Thursday* | as above |
+| `633:189` | *It took four hours to make on a Thursday* | as above |
+| `640:9` | *The board was still on the barrel where it had stood since Thursday* | as above |
 | `639:9` and `639:63` | *it was four days old* / *a Crown is four days old* | four days before `639` is `635`, a Monday |
 
 **THE DECISION, AND IT FOLLOWS THE PRECEDENT SET AT `state/current.md` §0.11 WHEN BAND 0004 MET THE SAME CLASS OF THING IN `630`: BAND 0004 IS CLOSED, ITS CHAPTERS WERE EXTERNALLY REVIEWED AND REPAIRED, AND `633`, `639` AND `640` ARE NOT THIS BAND'S TO REWRITE. NOT ONE WORD OF THEM WAS TOUCHED. THE CONTRADICTION IS RECORDED HERE, IN `state/continuity.md` §0J, IN `state/current.md` §0.11, AND IN `state/open-threads.md` §1E, WITH THE SUBTRACTION, SO THAT A BAND THAT MEETS IT LOOKS IT UP INSTEAD OF RE-DERIVING IT.**
 
 **AND THE FIGURE IS: THE CROWN IS NINE DAYS OLD AT `641` AND SEVENTEEN DAYS OLD AT `649`, BOTH OF `632`, AND THE FIGURE NOBODY CAN CHECK IS A FIGURE FOUR CHAPTERS OF A CLOSED BAND GIVE A DIFFERENT ANSWER TO.**
+
+### 10.1 THE CLOSE RE-MEASURED THIS RESIDUAL AND FOUND IT BIGGER THAN THIS TABLE AND THREE OF ITS POINTERS WRONG
+
+**ADDED AT THE VOLUME 13 CLOSE, WHICH RE-MEASURED THE RESIDUAL FROM THE CHAPTERS INSTEAD OF FROM THIS TABLE. NOTHING IN `633`, `639` OR `640` WAS TOUCHED AND THE DECISION ABOVE STANDS.**
+
+- **THE RESIDUAL CARRIES EIGHT PLACES IN THREE CHAPTERS, NOT FIVE.** This table and `state/current.md` §0.10 and `state/continuity.md` §0J and `state/open-threads.md` §1E item 17 all say five. **`633:15` ALSO PRINTS *a board on a barrel had nine names on it at about the fourth hour on Thursday*, AND `639:155` AND `639:163` BOTH PRINT *a Crown of about nine people four days old*, ONE IN THE CLOSING LINE AND ONE IN THE BLOCK UNDER IT. Eight places: `633:15`, `633:17`, `633:189`, `639:9`, `639:63`, `639:155`, `639:163`, `640:9`.** Whether a closing line is a *separate place* from the body is a judgement and it is recorded as one; the count of five was a count of body lines and is true of body lines only.
+- **THREE OF THE POINTERS IN THIS TABLE WERE WRONG AND ARE NOW CORRECTED ABOVE: `632:11` IS `632:7`; `633:165` IS `633:189`; AND `640:14` IS AN EMPTY LINE, AND THE SENTENCE IS AT `640:9`.** `632:13`, `633:17`, `639:9` AND `639:63` WERE RIGHT. **A `chapter:line` POINTER MOVES WHEN A LINE MOVES, AND `state/open-threads.md` §0 HAZARD 1 SAYS SO, AND A POINTER THAT WAS WRONG IN A FILE THAT HAD THE RIGHT QUOTATION BESIDE IT IS THE HARDEST KIND TO CATCH.**
+- **THE CANON IS UNCHANGED AND WAS NOT IN DOUBT: THE BOARD WENT ON THAT BARREL ON THE FRIDAY OF `632`, AND `632:21` AND `632:41` BOTH SAY *THE FOURTH HOUR OF FRIDAY* IN THE SAME CHAPTER, AND `632:7` SAYS THE DOOR WAS OPEN BECAUSE IT WAS THE FOURTH HOUR OF A FRIDAY.** Three places in one chapter agree with the derivation in `641` and `649`, and the eight places that disagree with each other are all in the three chapters after it.
 
 ## 11. WHAT WAS CHECKED AND FOUND CLEAN, AND THE FIGURES ARE THE FIGURES OF THE FILES AS THEY NOW STAND
 
@@ -183,7 +191,7 @@ Nobody was relieved, forgiven, redeemed or thanked. Nobody is a villain: **the B
 
 ### 13.3 And the two counts this receipt got wrong about itself
 
-**§10 SAID *FOUR PLACES* TWICE WHERE THE TABLE UNDER IT LISTS FIVE** — `633:17`, `633:165`, `639:9`, `639:63`, `640:14` — **and `state/current.md` §0.10 and `state/open-threads.md` §1E item 17 both said five, so this receipt was the only file in the set that said four. IT NOW SAYS FIVE.** **AND §11 PRINTED A BAND TOTAL OF 21,624, WHICH IS THE ERROR OF 13.2.2 IN A SECOND PLACE, AND NOW PRINTS 21,623.**
+**§10 SAID *FOUR PLACES* TWICE WHERE THE TABLE UNDER IT LISTS FIVE** — `633:17`, `633:189`, `639:9`, `639:63`, `640:9` — **and `state/current.md` §0.10 and `state/open-threads.md` §1E item 17 both said five, so this receipt was the only file in the set that said four. IT NOW SAYS FIVE.** **AND §11 PRINTED A BAND TOTAL OF 21,624, WHICH IS THE ERROR OF 13.2.2 IN A SECOND PLACE, AND NOW PRINTS 21,623.**
 
 **THE COMMON THREAD IN ALL SEVEN IS THE SAME, AND IT IS WRITTEN DOWN HERE SO IT IS NOT RELEARNED: A COUNT OR A TOTAL THAT APPEARS IN TWO PLACES MUST BE DERIVED FROM THE INSTRUMENT IN BOTH PLACES AND NOT COPIED FROM THE OTHER PLACE, AND A CLAIM THAT A RANGE IS CLEAN MUST BE MADE ABOUT THE RANGE THAT WAS ACTUALLY SWEPT.** A band is ten chapters. A volume is fifty. **Nine of the seven were a figure about the band reported as a figure about the volume, and that is the one error class this repository has now paid for three times in two bands.**
 
