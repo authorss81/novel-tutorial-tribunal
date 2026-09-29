@@ -10,15 +10,15 @@ The Green Paw has four beds and a parlour and the parlour is the only room in th
 
 There were about nine people in it at about the ninth hour and by the tenth there were about four. The ninth had gone to work.
 
-He kept it. He was about fifty. He had a holding with a season on it, he had one of the thirty seats, and behind his own gate there was a skep on a stand under a board, which on a fen is a thing a man has and on a chalk hill is a thing a man has not got.
+He was about fifty and his name was Aldis Crane, and he had a holding with a season on it, and one of the thirty seats, and behind his own gate there was a skep on a stand under a board, which on a fen is a thing a man has and on a chalk hill is a thing a man has not got. The woman who keeps that house had not asked him why he was in it and he had not said.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe. “*Because I have not been in this room for two years and there is a fire in it, and about nine people have come to me in two days with a thing they have wanted to say for nine years. I would like the ninth one to come from the man who has been carrying it longest.*”
+“*Say what you are standing in front of,*” said Iven Ashcombe. “*Because there is a fire in it on a Monday and I was in this room at the last two of them, and about nine people have come to me in two days with a thing they have wanted to say for nine years. I would like the ninth one to come from the man who has been carrying it longest.*”
 
-Aldis Crane did not sit down.
+The man of fifty did not sit down.
 
 “*I have wanted to ask you whether the low meadow has ever gone under. In any year. Not what you remember of it and not what a man told you at a gate. Whether it has gone under before.*”
 
-“*Say the rest of that, because you have been carrying it since Sunday and about nine of us have watched you carry it, and you have just asked me a thing that nine lines on a board outside my own door say I may not be asked.*”
+“*Say the rest of that,*” said Iven Ashcombe, “*because you have been carrying it since Sunday and about nine of us have watched you carry it, and you have just asked me a thing that nine lines on a board outside the water-clerk’s door say I may not be asked.*”
 
 “*The ninth line says a man may answer what he knows now and not what he remembers. The sixth line says the rule does not stop a man giving a true thing he can be checked against. A meadow that has gone under, or has not gone under, is a thing to be checked against. About nine of us can walk it. You can be checked against. So I have come and asked it, and I would like the answer in a number and not in a story about a man who was in another county for four days of it.*”
 

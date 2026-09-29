@@ -10,7 +10,7 @@ She had walked down to the low side on the Wednesday and back, and she had done 
 
 She had four rooms and two children. She did not pay the twelve shillings and sixpence a year on six acres, because a man four miles off took that season on them in the middle of April and has paid it himself. She had a man who was at sea or was dead and had not been decided. She was the quickest person in every room she had been in for twenty days.
 
-The lamp on the bracket over the north wall is lit at the seventh hour. At the ninth hour there were about nine people at that wall, because that is the hour they are at it. About four more were in the room. A man of sixty-two with a shepherd’s crook in his hand had come in early for a Saturday.
+The lamp on the bracket over the north wall is lit at the seventh hour. At the ninth hour there were about nine people at that wall, because that is the hour they are at it. About four more were in the room. A man of sixty-two with a shepherd’s crook in his hand was at the back of it, two days off the Saturday on which he reads that wall under that lamp, and he was not going to read it on a Thursday.
 
 Nobody in that room thanked anybody.
 
@@ -138,4 +138,4 @@ A man of thirty-one then asked, in a room of about thirty people, who is it that
 
 She had named that day five days before, in a street, while refusing a stranger her name. He had carried a figure of five days in his head since the Saturday morning, and it was right. About four people in that room had heard the whole of it and about nine had not.
 
-And what went on the wall at about the fourth hour of the afternoon was a parcel of six acres and a day, with no name at the top of it and no name at the bottom of it. It is the first line anybody in that hundred has put on that wall in about two hundred and thirty years that a person can be checked against.
+And what went on the wall at about the fourth hour of the afternoon was a parcel of six acres and a day, with no name at the top of it and no name at the bottom of it. It is the first line anybody in that hundred has put on that wall in about two hundred and thirty years that a rate can be checked against.

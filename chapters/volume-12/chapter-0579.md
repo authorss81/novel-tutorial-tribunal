@@ -12,7 +12,7 @@ About nine men came down the lane with scythes at about the seventh hour. None o
 
 Nobody in that lane thanked anybody.
 
-“*Say what you are standing in front of,*” said Hoare Ryley. He stood at the top of the ten acres with mud over his boots. “*Because about nine men are on this meadow with scythes and the hay is six days late, and about thirty men said nothing in a room yesterday, and I would like one true thing said on the ground before a blade goes down.*”
+“*Say what you are standing in front of,*” said Hoare Ryley. He stood at the top of the ten acres with mud over his boots. “*Because about nine men are on this meadow with scythes and the hay is six days late, and about thirty men in a room yesterday heard a true thing and had nowhere to put it, and I would like one true thing said on the ground before a blade goes down.*”
 
 “*Ten acres of standing hay,*” said a man of about fifty with a skep behind his own gate. He had a holding and a seat. “*About twenty-one acres of this meadow are not going to be mown this year. I said that number in a parlour seven days ago and a woman with a tray said it back wrong. The ten that are standing go today or go to seed.*”
 
@@ -46,7 +46,7 @@ A man of about fifty laid it. The hay was grey and tall and wet at the foot. It 
 
 It cannot be put back. A swath that is down is down. In a fortnight it is hay or it is seed. No form in the county of Kell says a man may put it back, and no man on that meadow tried.
 
-“*Say what you are standing in front of,*” said Hoare Ryley, when the first swath was down. “*Because about nine men have cut the first of ten acres, and yesterday about thirty men did nothing in a room, and today about nine have done the first thing since, and I would like it said before the second.*”
+“*Say what you are standing in front of,*” said Hoare Ryley, when the first swath was down. “*Because about nine men have cut the first of ten acres, and yesterday about thirty men in a room said a true thing and could not do anything with it, and today about nine have done the first thing since, and I would like it said before the second.*”
 
 “*The first swath of ten acres,*” said the man of about fifty. “*About twenty-one acres of this meadow are gone this year. The ten are going today. That is the whole of it, and it is the first thing this hundred has done since a stranger said a true thing in front of it.*”
 
@@ -56,7 +56,7 @@ Nobody on that meadow thanked anybody and nobody on that meadow was sorry for an
 
 Then the hundred did the second thing it had done since the Sunday, and it did it at the edge of the field, in the open, where about thirty people could hear.
 
-A man of fifty-four came up the lane at about the tenth hour with mud on his boots. He had about seven hundred sheep four miles south. He had forty-four acres of long grazing in its sixth year with about nine acres of new sward in it. He was in season on the whole of it. He had said on the rising, twelve days before, that he would still put three boards in a gate and pay for them out of his own purse. Nobody had asked him whether he meant it.
+A man of fifty-four came up the lane at about the tenth hour with mud on his boots. He had about seven hundred sheep four miles south. He had forty-four acres of long grazing in its sixth year with about nine acres of new sward in it. He was in season on the whole of it. He had said on the rising, thirteen days before, that he would still put three boards in a gate and pay for them out of his own purse. Nobody had asked him whether he meant it.
 
 About nine men stopped with their scythes up. About four more came down off the lane. About thirty people stood at the edge of ten acres with the first swath down behind them.
 

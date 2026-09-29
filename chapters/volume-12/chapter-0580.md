@@ -80,11 +80,13 @@ Nobody at that wall thanked anybody and nobody at that wall was sorry for anybod
 
 ---
 
-And three boards lay in a yard four miles north because there is no money for them, and that was on no wall and in no mouth that day, and it was the thing the next band has to spend.
+And three boards lay in a yard four miles north because there is no money for them, and that was on no wall and in no mouth that day, and it was the thing nobody had asked a man of fifty-four about in a fortnight.
 
-The gate at Withermere holds three of six boards, and the level is a foot below the tally line. Six boards holds the water off seven holdings and off the cut on the low meadow, and puts a foot of water on four closes and on the low common. Three boards keeps the camp on the low common dry and lets the four closes fill in. The other three are in a yard at Coldcombe. A man of fifty-four said fourteen days ago, on the rising, that he would still put them in and pay for them out of his own purse.
+The gate at Withermere holds three of six boards, and the level is a foot below the tally line, and the three in it are what hold it a foot below. The other three would put it up that foot, and six boards holds the water off seven holdings and off the cut on the low meadow, and puts a foot of water on the four closes and on the low common. Three boards lets that level down and lets the four closes fill in.
 
-Yesterday, at the edge of ten acres, with the first swath down, in front of about thirty people, a water-clerk asked him whether he meant it. Thirteen days in the carrying, and the asking took about four seconds.
+It is the gate that holds the water off that common, and that is a true thing about a gate and not a true thing about a common, because the foot of water that went over that common on the Thursday did not come through the gate. It came off the low meadow, whose ditch had a foot of sallow in it, and a man on the top side is taking that sallow out with a barrow now. The other three are in a yard at Coldcombe. A man of fifty-four said fourteen days ago, on the rising, that he would still put them in and pay for them out of his own purse.
+
+Yesterday, at the edge of ten acres, with the first swath down, in front of about thirty people, a water-clerk asked him whether he meant it. Fourteen days in the carrying, and the asking took about four seconds.
 
 He gave no answer that day. He did not say no. He stood at the edge of the field for about nine minutes while about thirty people said nothing, and went back up the lane on his own legs.
 

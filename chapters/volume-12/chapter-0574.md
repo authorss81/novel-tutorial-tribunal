@@ -40,7 +40,7 @@ That the document does not say whose hay it is. There is no column anywhere on a
 
 That the document does not say how many men there are. About nine, and a fortnight, and a scythe, and about a fourth of those nine are in a hundred of about thirty men and about a fourth of them are one man four miles south who has not been in a room in nineteen years.
 
-That the document does not say what happens to a man who is not in the room when it is read. And that she knows of one. He is on six acres of the sally bed, and it is because of a number said at his own door on a Thursday night. She is not writing his name on the back of a piece of paper. Nobody asked her for it, and that wall can be corrected in about four seconds.
+That the document does not say what happens to a man who is not in the room when it is read. And that she knows of one. He has six acres of the sally bed, and it is because of a number said at his own door on a Thursday night. She is not writing his name on the back of a piece of paper. Nobody asked her for it, and that wall can be corrected in about four seconds.
 
 And that the document is not about the water. Put the ground on it. Not the person. The ground. There are about thirty-one acres of low meadow and a parcel of six acres that nobody is paying a rate on, and a ground can be walked by a man with a line, and it is what a remedy is done to.
 

@@ -28,7 +28,7 @@ Nobody in that yard thanked anybody.
 
 “*Then say the number of loads and put it in a mouth. About nine people will have that number by tonight whether you say it or not, and I would rather it came from you.*”
 
-“*About nine loads a barrow. About nine loads a day at this end of it, on my own. That is about sixteen days. A ditch is about four feet wide at the top, and I have a spade and an axe and no team, and nobody to hold the other end of a plank.*”
+“*About a yard of it to a load. About nine loads a day at this end of it, on my own. That is about sixteen days of a hundred and forty yards. A ditch is about four feet wide at the top, and I have a spade and an axe and no team, and nobody to hold the other end of a plank.*”
 
 Nobody in that yard thanked anybody.
 
@@ -58,7 +58,9 @@ Then somebody paid a rate. About nine people in that lane found out about it bef
 
 She came up the lane at about the ninth hour with a purse and no basket. She was the woman who kept the inn of four beds. She went past the gate, stopped, and did not go in.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe. He had been coming up the lane at about the eighth hour and had been listening since the second hedge, and he said so. “*A gate. I am not going into it. I have four shillings and twopence in this purse, and I am going to pay it on two acres of the strip behind that yard. The rate on two acres is four shillings and twopence. I have worked it out twice.*”
+“*Say what you are standing in front of,*” said Iven Ashcombe. He had been coming up the lane at about the eighth hour and had been listening since the second hedge, and he said so. “*A gate, and a woman with a purse standing at it in front of about nine of us. Say what it is to them and not to me.*”
+
+“*A gate. I am not going into it. I have four shillings and twopence in this purse, and I am going to pay it on two acres of the strip behind that yard. The rate on two acres is four shillings and twopence. I have worked it out twice.*”
 
 “*Say the rest of that, and say it out loud at the gate and not in my building, because about nine people in this hundred have found out about a thing in a doorway this week and it went four ways by the ninth hour.*”
 
@@ -114,7 +116,7 @@ Nobody in that lane thanked anybody and nobody in that lane was sorry for anybod
 
 “*Then say what you want me to do, and I am going to do it, and I am going to tell you that I am going to do it for a reason that is not good enough.*”
 
-“*I want you to ask me which parcel. In front of about nine people. At the next reading, which is the morrow, on a Saturday, at the sixth hour, where about nine people can be checked against each other. I will say it. Then it is on that wall with a parcel against it, and that is the whole of what I have come for.*”
+“*I want you to ask me which parcel. In front of about nine people. At the next reading, which is four days on, on a Saturday, at the sixth hour, where about nine people can be checked against each other. I will say it. Then it is on that wall with a parcel against it, and that is the whole of what I have come for.*”
 
 “*I will ask you. And I will tell you now that about nine of those five were said by men who do not know which parcels they are talking about. If I ask you it will be the first line on that wall that anybody has said out loud with a parcel against it. A hundred and thirty people will read it on Saturday morning. About nine of them will be in the room when you say it, and the rest will have it from the other nine.*”
 
@@ -126,7 +128,7 @@ Then the man of thirty-three came out of the yard with the barrow and put it dow
 
 “*Say what you are standing in front of,*” said Iven Ashcombe to him. “*A barrow of sallow in a lane is not a thing a man in this hundred does on a Tuesday. About nine of us have watched you do it. About four of us have worked out what it is, and about nine have not.*”
 
-“*A barrow, and about nine feet of ditch that is not going to be there in about sixteen days. I gave that season to a room eight days ago. The room does not cut ditches. I have a spade and an axe and no team.*”
+“*A barrow, and about nine yards of ditch that is not going to be there in about sixteen days. I gave that season to a room eight days ago. The room does not cut ditches. I have a spade and an axe and no team.*”
 
 “*Then say the rest of that, and say who is paying for the tea in this lane. I will tell you now. The man of thirty-one has not paid for it. The woman with the purse has not paid for it. Nobody in this hundred has paid for anything today, and that is four days running.*”
 
