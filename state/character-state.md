@@ -1,8 +1,47 @@
-# Character State — end of Chapter 570, VOLUME 12 OPEN, Band 0002
+# Character State — end of Chapter 580, VOLUME 12 OPEN, Band 0003, MIDPOINT SPENT AT `578`
 
-**This block supersedes everything below it. Chapters 1–570 are canon and Volumes 01 through 11 are closed. CHAPTERS 551–570 ARE CANON AND ARE THE FIRST TWO BANDS OF VOLUME 12, *The Borrowed Season*. **§1b IS THE BAND 0002 BLOCK, CHAPTERS 561–570, AND IT IS THE LIVE ONE.** The Band 0001 block is at `reviews/volume-12/batch-0002-character-state.md` and the Volume 11 blocks are at `reviews/volume-11/batch-0004-character-state.md`, `reviews/volume-11/batch-0003-character-state.md` and `reviews/volume-11/batch-0005-measurements.md`. **NOBODY IN THIS BAND WAS RELIEVED, FORGIVEN, REDEEMED OR THANKED, and `thanked` is 56 across the ten chapters and every one of the fifty-six is a negation. Nobody in this band is a villain. Cast table at `outline/volume-12.md` §4.**
+**This block supersedes everything below it. Chapters 1–580 are canon and Volumes 01 through 11 are closed. CHAPTERS 551–580 ARE CANON AND ARE THE FIRST THREE BANDS OF VOLUME 12, *The Borrowed Season*. **§1c IS THE BAND 0003 BLOCK, CHAPTERS 571–580, AND IT IS THE LIVE ONE.** The Band 0002 block is §1b below and the Band 0001 block is at `reviews/volume-12/batch-0002-character-state.md`. **NOBODY IN THIS BAND WAS RELIEVED, FORGIVEN, REDEEMED OR THANKED, and `thanked` is 72 across the ten chapters and every one of the seventy-two is a negation. Nobody in this band is a villain. Cast table at `outline/volume-12.md` §4.**
 
-**THE BAND'S FINDING, AND IT IS THE EXACT INVERSE OF VOLUME 11'S, AND THE SECOND HALF OF IT IS NEW AND NOBODY HAD LOOKED FOR IT. In Bramblefold the record was in a locked cupboard and nine people could be sent for about it. In Withermere it is a sheet two men long on the north wall of a weigh-house, in the open, read by about nine people every morning of their lives. **THE FIRST HALF OF THE INVERSION WAS PAID IN BAND 0001: a man nobody may ask is not a free man, and a man everybody may ask is not a free man either. THE SECOND HALF WAS PAID IN BAND 0002 AND IT IS THIS: A PUBLIC WALL CAN BE CORRECTED BY ANYBODY IN ABOUT FOUR SECONDS AND NOBODY CAN BE ASKED WHETHER A NUMBER ON IT IS TRUE, AND THE SECOND THING A PUBLIC INSTRUMENT DOES IN THIS TOWN IS MAKE ABOUT THIRTY PEOPLE FINDABLE ON THE STRENGTH OF A FIGURE, AND NEITHER OF THOSE IS A VERSION OF A CUPBOARD.** `554`, `559`, `563`, `567`, `568`**
+**THE BAND'S FINDING, AND IT IS THE THIRD HALF OF THE INVERSION, AND IT IS THIS: A PUBLIC WALL MAKES ABOUT THIRTY PEOPLE FINDABLE AND UNASKABLE AT ONCE, AND THE ONLY MAN WHO CAN SPEAK FOR THEM IS THE ONE MAN NOBODY CAN SEND FOR, AND HE CAN ONLY KEEP THAT VOICE BY OWNING NOTHING IT SPEAKS ABOUT. `572`, `576`, `578`, `580`**
+
+### 1c. What 571–580 changed
+
+**ILYAN VESTER, THIRTY-ONE, NAMED IN ALL TEN, WITH A WANT, A MISTAKE AND A COST OF HIS OWN IN ALL TEN.**
+
+- **Wants to ask the camp’s question without carrying one in, and is walked four hundred yards by a woman of thirty and told to work out what being unaskable costs before somebody asks him unnicely.** `571`
+- **Wants the truest figure about the meadow, gets twenty-one acres, and learns in a parlour that a number out of a mouth is carried by a tray and said back wrong.** `572`
+- **Wants to see sallow come out of a ditch with a barrow, and hears twelve shillings and sixpence is a barrow and a plank and a man holding the other end.** `573`
+- **Wants his remedy defended and finds he is the worst man in Kell to defend it, and stops talking; receives a four-line refusal and reads it to nobody.** `574`
+- **Wants a question for a named day and asks who a hundred asks when it asks; four answer wrong, nine do not, nobody is bound.** `575`
+- **Wants to say why he will not lay twelve shillings and sixpence on a bar, and says it: a holder cannot speak true about a man in that room.** `576`
+- **Wants a reading to be checkable, and watches nine parcels go on the list while carrying twenty-one twice to a door.** `577`
+- **Wants six acres back in season and the harvest spoken for, and says out loud he cannot do both — the sentence he cannot take back.** `578`
+- **Wants the ten acres cut without his hand on them, stands further off as told, and watches the first swath go down.** `579`
+- **Wants the decision said in a yard and not a room, and decides to stay nobody’s until the year turns.** `580`
+
+**HIS MISTAKE IS STILL THE CARRYING, AND IN THIS BAND HE CARRIES IT KNOWINGLY: a figure parlour-to-door at `577`, a stance where cutters can see him at `579`. HIS COSTS NOW: twenty-six days in the county; under two pounds; four doors and four streets with numbers; a hand on a wall twice over; a sentence in about nine mouths; six acres standing empty into the year by his own decision. STAGE UNCHANGED: CO-WITNESS.**
+
+**HOARE RYLEY, FIFTY-ONE, NAMED AT LAST.** Four acres his own, eleven between his brothers, thirty years cutting ditch. Asked the camp’s question at `571`, counted himself a day late, said the two true things at `578`. **THE MIDPOINT IS NOT HIS: he holds in season and has lost nothing. His brother Garr’s household is the one out of season.**
+
+**GARR RYLEY, THIRTY-THREE, THE MIDPOINT HOUSEHOLD.** Six acres sally bed, nothing in the square since Monday `565`, eleven inches of water at `568`, barrow and spade and no team, sixteen days for a year of sallow. Said the sentence back at `578`; heard the cost said back at `580`; asked for nothing and was promised nothing. **A brother with sixteen acres laid twelve shillings and sixpence on Friday `576` and took it back; the rate stands at £1 13s 4d on his own ground, worked twice.**
+
+**HESTER NUNN, FORTY-ONE.** Did all three named things by `575`: common seen, nine foot/fifty-eight things read (two in the green book), day named and question asked by another. Put parcel and day with no name on wall and paper. Reads the empty square at `580`: still nothing, not hers to mend.
+
+**BETT SEARLE, TWENTY-EIGHT.** Told Hoare the camp is doing nothing at `571`. About nine hundred pounds of eleven households going by flat boat while the water is up. Licence still lapsed, no form, no copy.
+
+**REUBEN SEARLE, NINETEEN.** Back on the water at `571` with a pole; two days to move nine tents; four words and no fifth.
+
+**ALDIS CRANE, ABOUT FIFTY, HOLDING, SEAT, SKEP.** Asked his nine-year question at `572`, carried twenty-one, cut first swath at `579`. Not out of season; not the midpoint.
+
+**SABRA LYNE, THIRTY-EIGHT, FOUR ACRES.** Walked the lane twice at `573`, wrote five lines at `574` better than the author’s, got her parcel (above the lane, willow stump, hay standing) at `577` — first challenge with a parcel.
+
+**PERRIN VOSS, SIXTY-TWO.** Held the slate at `563` and `577`; corrected twice then, corrected ninefold now; asked for the parcel and wrote it.
+
+**TOBY HENSHAW, FOURTEEN.** Nine feet of knotted line; thirty-one acres cannot be walked (`572`, `577`); nothing cannot be rubbed out (`580`). Stroke means they came.
+
+**OWAIN BRAY, FIFTY-FOUR.** Mowed (`574`), stood (`578`), asked at the field edge on `579` whether he meant the boards, answered nothing that day nor on `580`. In season on forty-four acres sixth year, nine acres new sward, seven hundred sheep, every penny paid. **NOT A VILLAIN. NOT A SAINT. ASKED, AND HAS NOT SAID NO — the thing Band 0004 spends.**
+
+**SERA QUILL, TWENTY-EIGHT, FOUR HUNDRED MILES OFF. DOES NOT APPEAR.** Her hand arrived at `574`: four lines, a refusal of the same kind as the first, not an invitation, not read out to anybody, initials only. Her name was not said out loud.
 
 ### 1b. What 561–570 changed
 
