@@ -60,7 +60,7 @@ Nobody in that weigh-house thanked anybody and nobody in that weigh-house was so
 
 Then came the list of nine parcels, and one of the nine was wrong, and the man who had put it there said so himself.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe, to a man of about thirty-four with a stroke beside his name in chalk and a barrow outside the door. “*Because you put a parcel on that wall last Saturday at about the eighth hour with a willow stump in the description, and about nine of us have read it every morning since, and this is the hour a thing on that wall is supposed to be checked.*”
+“*Then say which of the nine on that list is yours, and say it before the boy reads the ninth one out,*” said Iven Ashcombe, to a man of about thirty-four with a stroke beside his name in chalk and a barrow outside the door. “*Because you put a parcel on that wall last Saturday at about the eighth hour with a willow stump in the description, and about nine of us have read it every morning since, and this is the hour a thing on that wall is supposed to be checked.*”
 
 “*Then read the ninth one out and I will say what is wrong with it before you have finished it.*”
 
@@ -106,23 +106,23 @@ He had been in that county thirty days. On the Wednesday of last week he had sto
 
 “*Then say where you got it, and about nine people in this room are going to check it against a man rather than against me.*”
 
-“*At a bar on the top side on the Wednesday. A man of about thirty with sixteen acres was asked at that bar which of his eleven acres the ditch on the sally bed took the water off, and he said the two acres above the second close, and I have carried it four days without putting it anywhere.*”
+“*At a bar on the top side on the Wednesday. A man of about thirty with sixteen acres was asked at that bar which of his sixteen acres the ditch on the sally bed took the water off, and he said the two acres above the second close, and I have carried it three days without putting it anywhere.*”
 
 The man of about thirty with sixteen acres was standing at the back of that building and had been there since the sixth hour.
 
 “*Then say the rest of that,*” said Iven Ashcombe.
 
-“*That is not mine and was never mine. That is my brother’s, and it is four acres and not two, and I have paid the rate on it at two shillings and a penny the acre, which is four hundred pence, which is one pound thirteen shillings and fourpence, and I have worked that out twice, and I said it out loud at that bar in the open because a man was standing nine feet off it with his mouth shut and I wanted him to hear a number.*”
+“*That is not mine and was never mine. That is my brother’s, and it is six acres and not two, and I have paid the rate on it at two shillings and a penny the acre, which is a hundred and fifty pence, which is twelve shillings and sixpence, and I have worked that out twice, and I said it out loud at that bar in the open because a man was standing nine feet off it with his mouth shut and I wanted him to hear a number.*”
 
 About four seconds went past.
 
 “*Then say the rest of it,*” said Iven Ashcombe, “*and understand that I have a wall and no keeper and about nine people who can be checked against each other in it.*”
 
-“*Say it once and say it plain. It is the four acres above the second close off the dyke. It is not hay standing, it is pasture, and it has not been mown in any year of the little figures, because the woman who holds it has never held it and a man four miles south held it in the middle of April. That is my brother’s ground and not mine and I am the wrong man to have said so to a woman holding a purse in April, and I have known that since April.*”
+“*Say it once and say it plain. It is the six acres above the second close off the dyke. It is not hay standing, it is pasture, and it has not been mown in any year of the little figures, because the woman who holds it has never held it and a man four miles south held it in the middle of April. That is my brother’s ground and not mine and I am the wrong man to have said so to a woman holding a purse in April, and I have known that since April.*”
 
 Nobody in that weigh-house thanked anybody.
 
-The clerk did not write it. He said out loud that he would not, because a man in the room had said the parcel was wrong and there is no form in the county of Kell that lets him write a thing a man has said is wrong.
+The clerk did not write it. He said out loud that he would not, because the man who had given the acres had said in the same breath that the ground was his brother’s, and there is no form in the county of Kell that lets him put a parcel on a line under a man who has told a room it is not his.
 
 Nobody in that weigh-house was sorry for anybody.
 
@@ -142,7 +142,7 @@ So it was said on the wall, and the boy took the rag to it, and it was off in ab
 
 “*Say the rest of that,*” said Iven Ashcombe. “*Because you have corrected a stranger’s error and about nine of us have watched you do it for nothing, and there is no form anywhere that says what a man is owed for that.*”
 
-“*I am owed nothing. I said on the Tuesday that the two acres are not the two acres, and about nine of us at that bar heard me and about nine did not, and about nine of us have heard this stranger say them out loud four days later and about nine have not. That is the whole of it and I would rather it went on the wall than not.*”
+“*I am owed nothing. I said on the Wednesday that the two acres are not the two acres, and about nine of us at that bar heard me and about nine did not, and about nine of us have heard this stranger say them out loud three days later and about nine have not. That is the whole of it and I would rather it went on the wall than not.*”
 
 Nobody at that wall thanked anybody.
 

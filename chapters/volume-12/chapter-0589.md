@@ -8,7 +8,7 @@ About thirty people were in the weigh-house on the Thursday with the door shut.
 
 Nobody summoned them. The water had come back to the line on Tuesday morning, stood at it for about four hours, and had not gone over the cut.
 
-About four of ten acres of the low meadow were standing on the fourth day past the fortnight. Out of a town of about eleven hundred people, about a hundred had gone out to look at one thing or the other in two days, and had come back with something to say.
+About four of ten acres of the low meadow were standing on the second day past the fortnight. Out of a town of about eleven hundred people, about a hundred had gone out to look at one thing or the other in two days, and had come back with something to say.
 
 The door was shut because there were thirty people in it and not nine.
 
@@ -16,7 +16,7 @@ About four of them had said that a thing said with the door open on a Thursday i
 
 Nobody in that building thanked anybody.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe, standing at the north wall with his hands behind him. “*Because I have a wall and about thirty people in this room and the door is shut and nobody asked me to shut it. I have not held a slate at a reading for nineteen years and I am not going to start in a week in which my own line has a number on it that I cannot account for.*”
+“*Then say it to about thirty people in this room and not to me,*” said Iven Ashcombe, standing at the north wall with his hands behind him. “*Because I have a wall and the door is shut and nobody asked me to shut it. I have not held a slate at a reading for nineteen years and I am not going to start in a week in which my own line has a number on it that I cannot account for.*”
 
 “*Then say what the thirty of us are here for,*” said a man of about fifty. He had a holding, a seat in the hundred, and a skep behind his own gate. “*Because about nine of us have been to the rise since Sunday and about nine have not. I would rather somebody said it than that we all found it out on a Saturday.*”
 

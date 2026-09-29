@@ -42,7 +42,7 @@ His mistake that morning was one he has named twice and is naming here a third t
 
 A cart came up the lane at about the ninth hour with a man of about thirty-four at the near end of the shafts and about four feet of wet hay in it, and it stood in the lane, and the lane is the only way into the yard of a house with four beds in it.
 
-Nobody asked him anything. Nobody in that lane has ever asked him anything. That is the whole of what being nobody’s has been for him for four days.
+Nobody asked him anything. Nobody in that lane has ever asked him anything. That is the whole of what being nobody’s has been for him for two days.
 
 He said it out loud.
 
@@ -92,7 +92,7 @@ About four people in that lane understood the whole of that. About nine understo
 
 Nobody in that lane thanked anybody and nobody in that lane was sorry for anybody.
 
-The load stood in the lane until about the eighth hour. It was about four feet of it in the middle of a lane with ruts in it from Monday, and the water had come up through the straw at the low side and stood in the bottom of the cart.
+The load stood in that lane from the ninth hour into the night. It was about four feet of it in the middle of a lane with ruts in it from Monday, and the water had come up through the straw at the low side and stood in the bottom of the cart.
 
 The water on that meadow is not the flood and it is not the river. It comes out of the ditch that takes the meadow off the pasture, and that ditch had a foot of sallow growing in the whole of it until a man of thirty-three started it out with a barrow on the Tuesday of the hundred and fourth week, and about nine yards a day. It is coming down as that comes out and it is going to keep coming down for about nine days more at that end of it.
 

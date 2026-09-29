@@ -64,7 +64,7 @@
 
 26. **SABRA LYNE, THIRTY-EIGHT, FOUR ACRES TAKEN IN APRIL.** Lane twice at `573`, five lines at `574` better than the author’s, parcel (above the lane, willow stump, hay standing) first on the wall at `577`. `573`, `574`, `577`
 
-27. **THE HARVEST BEGUN, UNBARNED, AND HALF GONE.** About six of ten acres down at `587` and lying in the open and wet since the ninth hour on `579`, which is eleven days at `590`; about four standing and three days past the fortnight; no barn takes wet hay; a cart-load stood in the only way into the Green Paw on `582` and went down the lane in the night to a yard nobody had asked. **At `590` a man with a holding said in the open that the four will be cut that afternoon, and no form in that county lets him send for about four more men, and a woman of about seventy asked where the hay would go and nobody answered her.** `579`, `582`, `587`, `588`, `590`
+27. **THE HARVEST BEGUN, UNBARNED, AND HALF GONE.** About six of ten acres down at `587`, and the first of them lying in the open and wet since the ninth hour on `579`, which is eleven days at `590`; about four standing and three days past the fortnight; no barn takes wet hay; a cart-load stood in the only way into the Green Paw on `582` and went down the lane in the night to a yard nobody had asked. **At `590` a man with a holding said in the open that the four will be cut that afternoon, and no form in that county lets him send for about four more men, and a woman of about seventy asked where the hay would go and nobody answered her.** `579`, `582`, `587`, `588`, `590`
 
 28. **A WOMAN OF FIFTY KEEPS FOUR BEDS AND NOW HOLDS TWO ACRES.** Four shillings and twopence paid at `573`, name forbidden on the wall, first woman’s holding in two hundred and thirty years. `573`
 

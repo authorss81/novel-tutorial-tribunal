@@ -10,7 +10,7 @@ A man of thirty-one walked out of that town at about the seventh hour with a cru
 
 Fifty-eight was in the taking column of the low common’s line.
 
-It had been there for eighteen days. It was the number a woman of twenty-eight had asked for out loud on a plank bridge and a water-clerk had written in about nine seconds with no name above it and no name below it, and there is no copy of anything anywhere in this county that says what fifty-eight is a figure of.
+It had been there for nineteen days. It was the number a woman of twenty-eight had asked for out loud on a plank bridge and a water-clerk had written in about nine seconds with no name above it and no name below it, and there is no copy of anything anywhere in this county that says what fifty-eight is a figure of.
 
 He went past the wall without stopping, and that was the first thing he did on that Sunday that he thought about afterwards.
 

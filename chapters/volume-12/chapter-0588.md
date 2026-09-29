@@ -20,11 +20,11 @@ About nine men watched the last of it go, and about four of them had watched eve
 
 The ground that morning was not mud and not dry. It was the third thing, which is the thing this fen does between the two, and a barrow went into it and came up with it in the bottom of the tyre, and about nine loads went up that bank before the eighth hour.
 
-There was a boy of fourteen standing at the top end of it with about nine feet of knotted line in his bag, and he had been there since the sixth hour doing nothing, because a man of fifty-one had said at the top of the lane that a hundred and forty yards of ditch was about nine hundred and ninety feet and there was nobody in that hundred who could walk it except the boy.
+There was a boy of fourteen standing at the top end of it with about nine feet of knotted line in his bag, and he had been there since the sixth hour doing nothing, because a man of fifty-one who cuts ditch and is called Hoare Ryley had said at the top of the lane that a hundred and forty yards was about four hundred and twenty feet, and that there was nobody in that hundred who could walk it except the boy.
 
 “*Say what you are standing in front of,*” said Hoare Ryley. “*Because you have been standing at the top end of that ditch for an hour with a line in your bag and about nine of us have been watching you not use it.*”
 
-“*A hundred and forty yards is nine hundred and ninety feet. I have got about nine feet of knotted line in my bag. That is about a hundred and ten times. I could walk it about a hundred and ten times and I have walked it about four, and it takes about an hour and a half each time, and about four times is two feet of it in six hours.*”
+“*Four hundred and twenty feet. I have got about nine feet of knotted line in my bag. That is about forty-seven times. One of them is about nine minutes of walking, and I have walked about four since the sixth hour. Forty-seven of them is about seven hours, which is most of a day of light there is, and I would want to do it twice before I said a number.*”
 
 “*Then say the rest of that and do not be sorry for the number.*”
 
@@ -38,7 +38,7 @@ The man holding the low end of the plank had been in that county thirty-four day
 
 “*Say what you are standing in front of,*” said Hoare Ryley, to about nine people at the top of that ditch, at about the seventh hour. “*Because about a hundred and forty yards of ditch has come out of the ground in sixteen days with a barrow and two tools, and about nine of us have watched every day of it, and I would like the last of it said out loud before the sallow is heaped on the bank.*”
 
-“*The last thirty yards,*” said Garr Ryley. He was thirty-three and he had six acres of the sally bed with nothing in the square at the right-hand end of its line. “*And a hand’s depth in it, not a foot, and I want that said before anything else.*”
+“*The last thirty yards,*” said Garr Ryley. He was thirty-three and he was Hoare Ryley’s brother and he had six acres of the sally bed with nothing in the square at the right-hand end of its line. “*And a hand’s depth in it, not a foot, and I want that said before anything else.*”
 
 About four seconds went past.
 
@@ -86,11 +86,11 @@ Nobody in that lane thanked anybody.
 
 “*Then say the rest of that and do not end it at the arithmetic.*”
 
-“*So in about two years this ditch is a foot of sallow again, and I am thirty-three, and I will do it again.
+“*So in about two years this ditch is a foot of sallow again, and I am thirty-three, and I will do it again.*
 
-And on the morning the water comes over the tally stone the square at the end of my line will be exactly as empty as it is this morning. About nine people will read it. And nothing can be taken off a wall with a rag, because there is nothing on it to take the rag to.*”
+“*And on the morning the water comes over the tally stone the square at the end of my line will be exactly as empty as it is this morning. About nine people will read it. And nothing can be taken off a wall with a rag, because there is nothing on it to take the rag to.*”
 
-About four people in that lane said nothing at all, which is a different thing from saying nothing, and about nine of them said nothing.
+About four people in that lane said nothing, and about four of those four were looking at the open ditch and not at him.
 
 ---
 

@@ -86,7 +86,7 @@ Nobody in that parlour thanked anybody and nobody in that parlour was sorry for 
 
 Then a man of about thirty-four with a barrow outside the door asked, from the step, whether anybody in that room had heard about the load in the lane on Thursday, and about nine of them said they had, and about four said they had not.
 
-“*Say what you are standing in front of,*” said the woman with the tray, “*because there is a load of wet hay that stood in my only way in for about six hours on Thursday and went off it in the night, and about four of us would like to know where it went, and there is no form anywhere that says a man may ask.*”
+“*Say what you are standing in front of,*” said the woman with the tray, “*because there is a load of wet hay that stood in my only way in from the ninth hour on Thursday into the night and went off it in the dark, and about four of us would like to know where it went, and there is no form anywhere that says a man may ask.*”
 
 “*It went back down the lane to a yard with a barn in it that I have never been inside and whose man I do not know, because there were about nine of us at that cart and about nine of us had nowhere else to take it, and I did not ask him first, and I am saying that here because there are about nine people in this room who would otherwise find it out on a Friday.*”
 

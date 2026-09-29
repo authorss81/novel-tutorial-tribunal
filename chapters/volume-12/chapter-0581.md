@@ -52,7 +52,7 @@ The second place was worse, and it was not worse because it was wrong. It was wo
 
 A man of about fifty with a holding and a seat in the hundred had come down off the top side to the smithy for a hammer, and had said in front of about four people that the six acres of the sally bed were taken after all and that a stranger had paid the rate on them in a yard on Tuesday.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe. He had come out of his own door with no slate under his arm and had been standing at the corner since the third hour. “*Because about four of us have just heard that a stranger paid a rate yesterday, and there is no rate on that sheet with a stranger’s name against it, and about nine of us have been at that wall every morning since Tuesday.*”
+“*Then say who paid it,*” said Iven Ashcombe. He had come out of his own door with no slate under his arm and had been standing at the corner since the third hour. “*Because about four of us have just heard that a stranger paid a rate yesterday, and there is no rate on that sheet with a stranger’s name against it, and about nine of us have been at that wall every morning since Tuesday.*”
 
 “*I did not say who paid it.*”
 
@@ -66,7 +66,7 @@ Nobody in that street thanked anybody.
 
 About four people in that street looked at a man of thirty-one. About nine looked at the ground.
 
-Then Ilyan said the true of it out loud, once, to about four people, and it was the fifth time in twenty-eight days that the true of a thing had gone out of his mouth before the man it belonged to had got to it.
+Then Ilyan said the true of it out loud, once, to about four people, and it was the fifth time in twenty-seven days that the true of a thing had gone out of his mouth before the man it belonged to had got to it.
 
 That is the habit. He makes himself the carrier. And about nine people heard the correction and about nine did not, and the two nines did not ask each other anything, and the figure on that corner had by then gone up about nine streets in the shape it had left his mouth at a trough.
 

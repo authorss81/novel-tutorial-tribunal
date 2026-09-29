@@ -50,7 +50,7 @@ The clerk walked down there with about nine people at about the tenth hour and t
 
 And on the low side of that frame, about four feet from the low post, a ditch was wet to the top of its bank.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe, to about nine people on the high side of a gate. “*Because that gate has three boards in it and the channel is full over them, and the ditch on the other side of it is wet to the top of its bank, and about four of us have just worked out that the two are not connected and about nine have not.*”
+“*Then say what four of us have just worked out and about nine have not,*” said Iven Ashcombe, to about nine people on the high side of a gate. “*Because that gate has three boards in it and the channel is full over them, and the ditch on the other side of it is wet to the top of its bank, and about four of us can see that the two are not connected and about nine cannot.*”
 
 “*Say the rest of that and say which of them is a thing a man can be checked against,*” said Hoare Ryley, who had come down the dyke from the sally bed with mud to the knee and a barrow handle in his hand.
 
@@ -64,7 +64,7 @@ Then a man of thirty-one said the thing he had found with his hand on the Sunday
 
 He had been in that county thirty-three days. He had said on Monday in a parlour that his year cost four pounds eleven shillings and threepence and he had been told that by a woman who keeps four beds. He had said on Friday in a market that he was standing behind the harvest and not behind six acres. He had said on Saturday at a wall that he would put no hand on a fifth thing and then had put one on and had it taken off in about four seconds.
 
-He wanted to see the water do a thing, because about nine days ago he had put his hand flat through a space between two limestone blocks under that frame and had felt moving water on the other side of his wrist.
+He wanted to see the water do a thing, because about two days ago he had put his hand flat through a space between two limestone blocks under that frame and had felt moving water on the other side of his wrist.
 
 “*Say what you are standing in front of,*” said Iven Ashcombe, “*Because about nine of us are on the high side of a gate and you have a hand in a hole in it, and about four of us have been watching you do that for about four seconds.*”
 
@@ -88,7 +88,7 @@ About four seconds went past.
 
 Nobody at that gate thanked anybody.
 
-“*Then say the rest of that and do not be sorry for me,*” said Ilyan, “*because I put my hand in a hole on Sunday and have carried it four days and I have just said out loud in about nine people’s hearing what I thought it meant, and you have told me the true of it, and about four people have my shape of it already and they are wrong.*”
+“*Then say the rest of that and do not be sorry for me,*” said Ilyan, “*because I put my hand in a hole on Sunday and have carried it two days and I have just said out loud in about nine people’s hearing what I thought it meant, and you have told me the true of it, and about four people have my shape of it already and they are wrong.*”
 
 “*I know they are. I would rather have the wrong shape of it said out loud at a gate on a Tuesday than the right one said at a wall on a Friday, and about nine of us have been asking you for a number to look at for thirty-three days and you have not given us one and now you have given us one that a man with a barrow can pull out of your hand in four seconds.*”
 
