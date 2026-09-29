@@ -100,7 +100,7 @@ About four of the nine people in that porch had worked out that she had been awa
 
 ---
 
-And then she said the sentence that she had said in a lane a fortnight ago about the first one, and the whole of that porch heard her say that it was now true of her and not of somebody else.
+And then she said the sentence that she had said in a lane twenty-four days ago about the first one, and the whole of that porch heard her say that it was now true of her and not of somebody else.
 
 “*On the Sunday of the ninety-sixth week I stood in a lane behind this town and I said some of that. If a second person in this county says no to a thing about her own name, then what happens to that is a question. It will have to be worked out by whoever is there at the time, and it will not be by me at somebody else’s asking.*”
 
@@ -132,7 +132,7 @@ She had not made him ask. She had looked at him once and he had asked, and about
 
 “*You will stand at the end of it and not say anything. There is no form in this county that says I can make you stand there. There is no form that says I can make you go away.*”
 
-“*That is the same thing I said to a man from a town four days off in a porch three weeks ago, and you were in the room.*”
+“*That is the same thing I said to a man from a town four days off in a porch a fortnight ago, and you were in the room.*”
 
 “*Say the rest of it.*”
 

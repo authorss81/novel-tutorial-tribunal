@@ -12,7 +12,7 @@ A man of eighty-one was in the chair by the fire and had not been sent for and h
 
 The keeper of the book said what it was before she did it, standing at the door with the key in her hand, and she said it to the room and not to the man of thirty-one.
 
-“*That is the whole of what has happened in this town in a hundred and forty-one days. I am going to read it out as a list and not as a finding, and I have said in this room three weeks ago what the difference is, and nobody has asked me since and nobody needed to.*”
+“*That is the whole of what has happened in this town in a hundred and forty-one days. I am going to read it out as a list and not as a finding, and I have said in this room thirteen days ago what the difference is, and nobody has asked me since and nobody needed to.*”
 
 “*Say the difference again, because there are about nine people in here and four of them have heard it and about five have not.*”
 
@@ -64,7 +64,7 @@ Then she read the last of it and she read it slower, and it was nine lines and t
 
 “*Say the rest of that, because you have said it three times now in a morning and there are about nine people in this room and one of them has not been asked anything in a hundred and fifty days.*”
 
-“*It is a list and I am not going to convert a list into a finding by saying the word, and I said that in this room three weeks ago and the man who asked me to convert it is in this room and he asked me a different thing this morning and I will come to it.*”
+“*It is a list and I am not going to convert a list into a finding by saying the word, and I said that in this room thirteen days ago and the man who asked me to convert it is in this room and he asked me a different thing this morning and I will come to it.*”
 
 ---
 
@@ -162,7 +162,7 @@ Nobody in that room thanked anybody and nobody in that room was sorry for anybod
 
 A weaver of sixty-two had a name written at the back of that book on Friday with the day on it and was not thanked for saying it out loud. A man of about seventy-two had said no in a porch on Wednesday and was not thanked. A woman of about seventy had said no a second time in a porch on Saturday and was not thanked. A woman of about fifty-one had had nine people look at four pages in her two rooms and was not thanked.
 
-A man of about thirty-four from a town four days off had said out loud three times in five weeks that he does not want a person in this county who answers for other people’s papers. He was not thanked and he was not believed.
+A man of about thirty-four from a town four days off had said out loud three times in nineteen days that he does not want a person in this county who answers for other people’s papers. He was not thanked and he was not believed.
 
 Nobody in that room thanked anybody and nobody in that room was sorry for anybody. A man of thirty-one who had been refused six times in ten days had said four words out loud in a room, and they were written down at the back of that book for the first time in a hundred and forty-one days.
 

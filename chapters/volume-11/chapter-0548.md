@@ -70,7 +70,7 @@ The weaver refused him in about four sentences and he did not raise his voice an
 
 “*Say the rest of it, because that is two sentences and I have been refused three times since Saturday and I know what is coming.*”
 
-“*Four people struck their own names out of it in a square and one of them asked that it not be in a book, and she is sixty-eight and she is standing at that window, and that request is thirty days old and it has not been withdrawn and nobody has asked her about it.*”
+“*Four people struck their own names out of it in a square and one of them asked that it not be in a book, and she is sixty-eight and she is standing at that window, and that request is thirty-four days old and it has not been withdrawn and nobody has asked her about it.*”
 
 He put his hand flat on the table, the way a man puts his hand on a loom.
 
@@ -138,7 +138,7 @@ He looked at the leaf she had been writing on.
 
 “*Say the rest, because you have said that nine times in four weeks and you are tired of it.*”
 
-“*And I said at the top of a wool bench three days ago that a page says what was done and a person in a square says what happened, and they are not the same and one of them has somebody behind it. My grandfather’s name is now on a page. It has not been in a square and it is not going to be in a square and I am sixty-two and I have not got nine years in me for a square.*”
+“*And I said in a kitchen at Kiln Row three days ago that a page says what was done and a person in a square says what happened, and they are not the same and one of them has somebody behind it. My grandfather’s name is now on a page. It has not been in a square and it is not going to be in a square and I am sixty-two and I have not got nine years in me for a square.*”
 
 The man of thirty-four from four days off understood the whole of that and wrote nothing down, and there is no form in the county of Aldwick that says he may.
 

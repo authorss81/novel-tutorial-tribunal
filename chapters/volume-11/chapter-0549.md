@@ -40,7 +40,7 @@ She read it, and it took about eleven minutes, and about a hundred and ninety pe
 
 She read the holdings too, as she did on the Saturday of the ninety-fifth week, because that is what a column is. The figures in the fold and the depths in the ground behind the meeting-house, read slowly, as numbers.
 
-Nobody stopped her and nobody started her. A woman of about forty wrote on the back of her hand and got two of the figures wrong, as she did three weeks ago, and did not know.
+Nobody stopped her and nobody started her. A woman of about forty wrote on the back of her hand and got two of the figures wrong, as she did five weeks ago, and did not know.
 
 And at the fourth name, and at the seventeenth, and at the twenty-eighth, and at the thirty-first, the keeper of the book said the two words *a gap*, and went on.
 
