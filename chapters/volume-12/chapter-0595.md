@@ -52,7 +52,7 @@ Nobody in that room took it up.
 
 “*And that is the whole of it and it is yours to say which half,*” said the man of fifty-four. “*I said on that green that I would put three boards in that gate when the hay is off that meadow. Nothing is standing on that meadow.*”
 
-Nobody in that room took it up.
+Nobody in that room had a word for it.
 
 “*Then say the rest of it,*” said Hoare Ryley.
 
@@ -123,7 +123,7 @@ Nobody in that room thanked anybody.
 
 “*Forty-four acres of long grazing four miles south, in its sixth year, with about nine acres of new sward in it, in season. Every penny of the rate on two hundred and ten acres paid and not one rule broken. That is the hay that feeds a hundred of about thirty men in this district.*”
 
-Nobody in that room took it up.
+Nobody in that room said a word.
 
 “*Then say the rest of that and do not end it at the hay,*” said Hoare Ryley, “*because a room of about nine people has been asking for eleven days whether that sentence is a gift.*”
 

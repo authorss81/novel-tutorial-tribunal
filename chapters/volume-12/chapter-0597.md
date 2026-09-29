@@ -36,7 +36,7 @@ Nobody on that green said anything.
 
 “*Then say the rest of that and do not defend it,*” said Iven Ashcombe, from the bottom of the step with no slate under his arm. “*Because there is a woman standing on that step who has not written a word of it and there is no form in this county that lets me read a sheet and there is no form that lets anybody stop me reading one either.*”
 
-Nobody on that green said anything.
+Nobody on that green had anything to say to that.
 
 ---
 
@@ -44,7 +44,7 @@ So a woman of forty-one read it, and she had four rooms and two children and a m
 
 “*Say what you are standing in front of,*” said the woman of about seventy at the edge of that step. “*Because there are about three hundred people on this green, and about nine of them know that there is a settlement and about nine of those nine have heard it.*”
 
-Nobody on that green said anything.
+Nobody on that green took it up.
 
 “*Then say that last part,*” said Hester Nunn.
 
@@ -88,7 +88,7 @@ Then she read it out loud, and it took about nineteen minutes, and this is the w
 
 *Any person in that hundred may read that sheet, take it away, and write on the back of it. About nine people read it every morning and about nine of them have it a different way by the fourth hour.*
 
-*And a man of thirty-one has put down one year, from the crossing of that block of limestone to the crossing after it. There is no form in this county that makes him and none that stops him. And from that morning he counts from the water, and there is no figure for that and nobody can check it.*
+*And a man of thirty-one has put down one year, from the crossing of that block of limestone to the crossing after it. There is no form in this county that makes him and none that stops him. And he counts from the water from that morning, and there is no figure for that and nobody in this hundred can check it.*
 
 *It is not a season, it is not a licence, it is not a holding, and there is no rate on it. Nobody in this county may be assessed for it.*
 
@@ -122,7 +122,7 @@ Nobody on that green said anything.
 
 “*It goes in at the end of the hay,*” said the woman of fifty who keeps four beds, from about nine feet off the step. “*With the day on it and the number of loads and the name of the yard or no name of the yard. About nine of us know about it and the other two hundred and ninety-one do not.*”
 
-Nobody on that green said anything.
+Nobody on that green moved.
 
 “*Then say the rest of that,*” said Aldis Crane, “*and do not end it at the two hundred and ninety-one.*”
 
@@ -132,7 +132,7 @@ About four people on that green said something at once.
 
 “*Then say the rest of that and do not end it at the barn,*” said a woman of twenty-eight who had come the four miles with a daughter of six asleep against her shoulder. “*Because about nine of us have been somewhere and seen something and about two hundred and seventy of you have not, and I would like to know what the two hundred and seventy get.*”
 
-Nobody on that green said anything.
+Nobody on that green found anything to say to that.
 
 “*They get the walking,*” said Bett Searle. “*The plank bridge is crossable at the seventh hour. There is a rise about nine hundred yards long and it is bare in nine places, and there are eleven tents on two hundred and twenty feet of it, and about eight hundred acres round that belong to nobody.*”
 

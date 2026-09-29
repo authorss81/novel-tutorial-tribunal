@@ -14,7 +14,7 @@ He had been in that county forty-two days. He had under two pounds in a purse. H
 
 He wanted a settlement that could be checked.
 
-Nobody in that room thanked anybody.
+Nobody in that room found anything to say to that.
 
 ---
 
@@ -34,7 +34,7 @@ Nobody in that room thanked anybody.
 
 “*If you are about to price yourself in a room of about nine people, then about nine of us are going to sit still and hear it.*”
 
-Nobody in that room thanked anybody.
+Nobody in that room moved.
 
 ---
 
@@ -42,7 +42,7 @@ Nobody in that room thanked anybody.
 
 “*A bed in that house is a penny and bread in the morning is a penny, and that is what everybody in this town charges. A man of thirty-one with a leg that stopped working on a common eats three pence a day and not two.*”
 
-Nobody in that room thanked anybody.
+Nobody in that room said a word.
 
 “*Then say that last part again and say where it is from,*” said Aldis Crane.
 
@@ -72,7 +72,7 @@ Nobody in that room thanked anybody.
 
 “*Then say the rest of that and do not end it at the money,*” said Iven Ashcombe. “*That is the half of the price that is about his body, and it is the half that can be worked out with a slate. About nine people in this hundred have been carrying the other half since the Monday of the fifth week.*”
 
-Nobody in that room found anything to say to that.
+Nobody in that room took it up.
 
 “*Then say that last part,*” said Aldis Crane.
 
@@ -82,7 +82,7 @@ About four seconds went past.
 
 “*Then say it,*” said Aldis Crane, “*because I am one of the thirty and you are the only person in this county anybody can be sent for. You said it in a parlour in about nine people’s hearing.*”
 
-Nobody in that room found anything to say to that.
+Nobody in that room answered him.
 
 “*And about nine of us did not hear it and about nine did,*” said Aldis Crane.
 
@@ -94,7 +94,7 @@ Nobody in that room found anything to say to that.
 
 Then a man of thirty-one did the thing he had said in a yard he would not do, and he was the one who had said it, and about nine people in that room had heard him say it in a yard in the mud in another week.
 
-“*Say what you are standing in front of,*” said Hoare Ryley, who had a barrow and had been in the doorway for about an hour. “*Because you have been in this county forty-two days and you decided in a yard in the mud that you would stay nobody’s until the year turns, and about nine of us heard you and about nine have carried it a way that was not yours. And there is a fourth thing on that sheet with nothing checkable in it.*”
+“*Say what you are standing in front of, and then say it a second time because about four of us did not catch it the first,*” said Hoare Ryley, who had a barrow and had been in the doorway for about an hour. “*Because you have been in this county forty-two days and you decided in a yard in the mud that you would stay nobody’s until the year turns, and about nine of us heard you and about nine have carried it a way that was not yours. And there is a fourth thing on that sheet with nothing checkable in it.*”
 
 “*I am standing in front of a sheet and I am going to put a price on the fourth thing and it is going to be me and not anybody else. There is no form in this county that makes a man do a thing because a condition he set himself has not been met, and there is no form in this county that makes four people answerable for a fourth thing.*”
 
@@ -114,7 +114,7 @@ And the second half of it is not a figure at all and there is nobody he can ask 
 
 “*Say the rest of that,*” said Iven Ashcombe. “*Because you have said a year, and about nine people in this room heard a number and about nine of them heard something else. I have a board outside my own door that says any person in this hundred may ask me anything and I answer it.*”
 
-Nobody in that room found anything to say to that.
+Nobody in that room had a second question.
 
 “*Then say that last part,*” said Aldis Crane.
 
@@ -134,7 +134,7 @@ About four people in that room said something at once and about nine did not.
 
 “*Then say where a person checks that,*” said Aldis Crane, “*because about nine people in this hundred have said for five weeks that a number is a thing a man can be checked against, and you have just given us one that cannot.*”
 
-Nobody in that room found anything to say to that.
+Nobody in that room said anything back.
 
 “*At that block of limestone with a line cut round it,*” said Ilyan. “*Put your hand flat on it. A man of fifty-eight did that for the length of a count of five on the morning the water came over it and then wrote the day at the foot of a sheet of parchment two men long, and that is the whole of the authentication it has. A person checks me at that stone and nowhere else, and I will be on whichever side of it the water is on.*”
 
@@ -142,7 +142,7 @@ Nobody in that room found anything to say to that.
 
 Then a woman of about fifty who keeps four beds and has never given him her name said the half of it out loud, and she did it in about nine people’s hearing and she did not thank anybody for it.
 
-“*Say what you are standing in front of,*” said the woman of about fifty who keeps four beds. “*Because a man has just given a year out of his own future in a room of about nine people. I priced thirty days of him in this county in about nine people’s hearing nine weeks ago and gave him two acres instead of my name. About nine of us have been waiting for him to find out what the rest of it costs.*”
+“*Say what you are standing in front of, and say who is doing the asking,*” said the woman of about fifty who keeps four beds. “*Because a man has just given a year out of his own future in a room of about nine people. I priced thirty days of him in this county in about nine people’s hearing nine weeks ago and gave him two acres instead of my name. About nine of us have been waiting for him to find out what the rest of it costs.*”
 
 Nobody in that room thanked anybody.
 

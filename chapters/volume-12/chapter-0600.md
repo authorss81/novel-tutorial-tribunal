@@ -24,7 +24,7 @@ The fifty-eight have a place. About eight hundred acres of common that belongs t
 
 And a man of thirty-one is anchored to a block of limestone for a year and to a river for the rest of his life, and neither of those is a thing any person in that hundred is bound by, and there is no rate on either of them and no form anywhere that renews them.
 
-Nobody in that building thanked anybody and nobody in that building was sorry for anybody.
+Nobody in that building was sorry for anybody.
 
 ---
 
@@ -40,7 +40,7 @@ Nobody in that building said anything.
 
 About four people in that room said something at once.
 
-Nobody in that building said anything.
+Nobody in that building had anything to say to that.
 
 “*Then say the rest of that and do not be sorry for anybody,*” said Iven Ashcombe, “*and say where it came from and what it is, because I have a wall and no keeper and about nine people read that wall every morning and about nine of those nine have it a different way by the fourth hour.*”
 
@@ -58,7 +58,7 @@ Then a man of thirty-one said the true of it out loud, in about nine people’s 
 
 “*Say what you are standing in front of,*” said the woman of about seventy at the edge of that wall. “*Because a man of thirty-one has gone about nine feet pale in a room of about nine people, and he is about to say a thing that about four of you understand and about nine of you do not.*”
 
-Nobody in that building said anything.
+Nobody in that building answered her.
 
 “*Then say that last part,*” said Aldis Crane.
 
@@ -74,7 +74,7 @@ Nobody in that building said anything.
 
 About four seconds went past.
 
-Nobody in that building said anything.
+Nobody in that building took it up.
 
 “*Then say the rest of that and do not tell me what a test is,*” said Aldis Crane. “*There is no such word in this hundred, and there is no form that says a person may not say a word I do not know in my own building. About nine of us are going to say nothing, and I would like the saying of it done by you and not by me.*”
 
@@ -82,19 +82,19 @@ Nobody in that building thanked anybody.
 
 “*It is a mark a person puts at the bottom of a record to say they made it and that it cannot be argued with.*”
 
-Nobody in that building said anything.
+Nobody in that building found anything to say to that.
 
 “*Then say where you got that,*” said Aldis Crane, “*and say what it is a figure of, because about nine people in this room can check a figure against each other in about four seconds and about four of them cannot add.*”
 
-Nobody in that building found anything to say to that.
+Nobody in that building answered that either.
 
 “*She said it once and she has never said it twice, and I have carried the two letters and the number in my head since before I came into this county. I have not put them on a wall in any county, because a stranger’s mark on a wall is a fifth hand.*”
 
-Nobody in that building said anything.
+Nobody in that building moved.
 
 “*Then say how long you have had it,*” said the woman of about seventy at the edge of that wall, “*and say it in a figure a person can be checked against, and do not give me a figure off a river.*”
 
-Nobody in that building found anything to say to that.
+Not one of them had anything to put to it.
 
 “*Forty-six days,*” said Ilyan. “*I came off a boat on the evening of a Wednesday forty-seven days ago and I have been in this county forty-six of them, because the day I came in is not a day I was in. Every day of those forty-six and every day before it. That is the figure I can be checked against and I will not give you another one.*”
 
@@ -118,7 +118,7 @@ Nobody in that building thanked anybody.
 
 Then it said four words, and it was not addressed to him and it was not a request, and it was the name it had for itself, and there is no form anywhere in the county of Kell that says a name may not be said in a building.
 
-*Record recognised. The mark is two letters and a number. It is the same mark as one on a refusal that was filed once and was never withdrawn, and it was held by a person who was not a witness and who was not a holder, and I have carried it for four hundred and sixty-one days and I have not used it. I am the First Witness.*
+*Record recognised. The mark is two letters and a number. It is the same mark as one on a refusal that was filed once and was never withdrawn, and it was held by a person who was not a witness and who was not a holder, and I have carried it since the day it was filed and I have not used it. I am the First Witness.*
 
 Nobody in that building said anything.
 
@@ -132,11 +132,11 @@ Nobody in that building said anything.
 
 “*There is no form in the county of Kell that says what happens next,*” said Aldis Crane.
 
-Nobody in that building said anything.
+Nobody in that building moved.
 
 “*Then say the rest of that and do not be sorry for me,*” said the woman of twenty-eight. “*It has not been asked anything and it has not answered anything and it named itself. About nine of us have been in rooms in this county for about nine weeks asking who a hundred asks when it asks.*”
 
-Nobody in that building said anything.
+Nobody in that building went after her.
 
 “*Then say that last part,*” said Aldis Crane.
 
@@ -150,7 +150,7 @@ Then a man of thirty-one was asked a question in a room, and he could not answer
 
 “*Say what you are standing in front of,*” said Iven Ashcombe, from about nine feet off the wall with his hands behind him. “*Because there are about nine people in this room and about nine of them have asked a hundred a question for nine weeks and got nothing.*”
 
-Nobody in that building said anything.
+Not one of them answered him.
 
 “*Then say the rest of that,*” said Aldis Crane.
 
@@ -162,13 +162,13 @@ About four seconds went past.
 
 “*Then say the rest of that into about nine people’s hearing and do not be sorry for me,*” said Aldis Crane. “*About nine of us have been waiting nine weeks for one of us to say a true thing in a room that we cannot check. This is the first one anybody has offered in this county.*”
 
-Nobody in that building said anything.
+Not one person in that building took it up.
 
 “*Then say that last part,*” said the woman of twenty-eight.
 
 “*And about four of us would like it said plainly,*” said Aldis Crane.
 
-Nobody in that building said anything.
+Nobody in that building had a second question.
 
 ---
 
@@ -176,13 +176,13 @@ Then a woman of twenty-eight asked a question in a room, out loud, in front of a
 
 “*Say what you are standing in front of,*” said Aldis Crane. “*Because a woman of twenty-eight has a count and four days of walking on a bad flat, and about nine people in this hundred have been carrying the mark at the bottom of that back all morning.*”
 
-Nobody in that building said anything.
+Nobody in that building said a word.
 
 “*Then say that last part,*” said Hoare Ryley.
 
 “*And about nine of us would like to know whether it is going in a book anywhere,*” said Aldis Crane.
 
-Nobody in that building said anything.
+Nobody in that building answered that either.
 
 “*Say it and do not be sorry for me,*” said the woman of twenty-eight, “*and say it into about nine people’s hearing and not into about nine hundred, because there are no nine hundred in this building and there is no form anywhere in this county that makes a thing true because it was said at volume.*”
 

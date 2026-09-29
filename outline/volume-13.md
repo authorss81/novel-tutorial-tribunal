@@ -1,0 +1,88 @@
+# Volume 13 — The Crown of Witnesses (Chapters 601–650)
+
+**Status. PLANNED, AND NO CHAPTER OF IT IS WRITTEN. Chapters 1–600 are canon and twelve volumes are closed. Volume 12, *The Borrowed Season*, closed at Chapter 600 on the seventh and last day of the hundred and seventh week, and its record is `reviews/volume-12/volume-12-close.md`, WHICH IS ALSO THE HANDOFF TO THIS VOLUME — that record says so in its first line and it is why `outline/volume-13-handoff.md` does not exist and was not written at the repair that wrote this file. THIS FILE WAS WRITTEN AT THE REPAIR OF THE EXTERNAL REVIEW OF VOLUME 12 BAND 0005, which found that `workspace/volume-13/batch-0001/PROMPT.md` existed with no volume outline behind it, so that the next dispatch would have written 601–610 against `outline/series.md:239–245` and nothing else. The cards in the batch prompts are design, not canon, and a chapter that refuses a card figure is right and the card is wrong. THE CHAPTERS ARE THE CANON.**
+
+**Authority order.** `outline/series.md` (Volume 13, which begins at `series.md:237`) outranks `outline/ending.md`, which outranks `reviews/volume-12/volume-12-close.md`, which outranks this file, which outranks every state file, which outranks every prompt.
+
+**WHAT THIS FILE MAY NOT DO, AND THE REASON IS IN IT.** It may not fix a name, an age, a number or a distance that a chapter has not yet made, because that is finding eighteen of this repository — a card fact with no body travels the same road as a chapter fact, and eleven of them did in the last five bands of the volume that has just closed. **EVERY FIGURE AND EVERY NEW NAME IN 601–650 IS TO BE DERIVED IN A MOUTH, IN A ROOM, IN FRONT OF ABOUT NINE PEOPLE, WITH THE WORKING SAID OUT LOUD, BEFORE ANY STATE FILE MAY QUOTE IT.** What this file fixes is the five lines, the calendar, the substance, the shape of the five bands and the guardrails.
+
+---
+
+## 1. The volume's five lines, fixed
+
+These are `outline/series.md:239–245` and nothing here may improve on them.
+
+- **Central pressure.** A succession dispute asks who may speak for dead, absent, and legally unrecognized people.
+- **Starting state.** Ilyan has public legitimacy but cannot decide whether his own origin should be exposed.
+- **Midpoint reversal.** The coalition splits over the public release of Ilyan's Earth connection; the First Witness uses the division to justify a world-wide hearing.
+- **Power progression.** Ilyan can support a remedy but must let others author it; the stage is mastery through delegation, not a new panel.
+- **Volume climax.** Sera refuses to let Ilyan use a removed witness as a shortcut, forcing him to lose a procedural point and accept a slower public hearing. The court accepts her because she is willing to bear the counter-burden.
+- **Resolution.** The single Crown of Witnesses is abolished, but the Bench declares a Continuity Hearing for all of Veyra.
+- **New question.** How can a hearing about the whole world be fair when one system controls the record?
+
+**WHAT CAME IN, FROM THE CHAPTERS AND NOT FROM THE SERIES CARD.** Ilyan is thirty-one, bad leg, bad ear, cracked steel pen. He anchored himself to the county of Kell at `596` for one year of his own future options, from the crossing of the tally stone to the crossing after it, and from that morning he counts from the water permanently, with no figure for it and nobody able to check it but a block of limestone with a line cut round it. **HE IS STILL NOBODY'S.** There is no column in that county with his name at the top of it, no form that renews him, no rate on him, and about nine people in that hundred believed the price when he said it and about nine did not. **THE ANCHORING IS PARTIAL BY THE CHAPTERS AND NOT BY OMISSION, AND A BAND THAT GIVES HIM A PLACE IN THAT HUNDRED HAS ANSWERED THE QUESTION VOLUME 12 EXISTED TO LEAVE OPEN, WHICH IS OWED FORWARD.** A settlement of about nine hundred words in six hands with nothing at the top of it stands on a wall in a weigh-house and binds nobody. A mark of two letters and a number sits at the bottom of the back of it in a hand no person in that county makes, and a voice that is not in a mouth named itself once at `600` and was not addressed and was not answered. `First Witness` is at 0 across 551–599 and at its one appearance in fifty chapters, and **A NAME ONCE SPOKEN IS A NAME ONCE SPOKEN.**
+
+**What is carried and may not be spent in this volume.** The right of refusal stays unrestored until the chapters restore it. `citizen` stays at 0 until a chapter answers the question it stands for, and it was asked at `550`, `575`, `589` and in full at `599` and was not answered once. The Volume 12 midpoint is spent, once, at `578`, on Garr Ryley, thirty-three, and no chapter of 601–650 puts six acres back in season or stages a second unsayable choice. **Owain Bray is still not a villain.** Nobody in this volume is.
+
+## 2. The calendar, computed from the formula and not copied out of the table
+
+**The clocks of Volumes 08–12 carry forward unchanged and are still absolute:** shelf = `chapter − 125`; week = `40 + shelf ÷ 7`; day of week = `shelf mod 7 + 1` with day 1 = **Tuesday**; his morning = `chapter − 250`; days since the settlement = `chapter − 400`; fever age = `chapter − 283` days; `hall = chapter − 446`; `clear = chapter − 500`. **The anchor is still chapter 400. `chapter − 410`, the rail, is RETIRED and is not to be printed in a date line.**
+
+**`600` IS CHAPTER 476 OF THE SHELF, WHICH IS THE SEVENTH AND LAST DAY OF THE HUNDRED AND SEVENTH WEEK, A MONDAY. `601` IS THEREFORE THE FIRST DAY OF THE HUNDRED AND EIGHTH WEEK, A TUESDAY, and it is the first day of this volume.** The table below was produced by running the formula, not by reading a line of prose, and the ordinal in a date line comes off this table and not off the line above it.
+
+| Ch | Shelf | Week / day | Day | His morning | Since settlement | Fever | `hall` | `clear` |
+|---|---|---|---|---|---|---|---|---|
+| 601 | 476 | 108 / 1 | Tue | 351 | 201 | 45w 3d | 155 | 101 |
+| 602 | 477 | 108 / 2 | Wed | 352 | 202 | 45w 4d | 156 | 102 |
+| 603 | 478 | 108 / 3 | Thu | 353 | 203 | 45w 5d | 157 | 103 |
+| 604 | 479 | 108 / 4 | Fri | 354 | 204 | 45w 6d | 158 | 104 |
+| 605 | 480 | 108 / 5 | Sat | 355 | 205 | 46w 0d | 159 | 105 |
+| 606 | 481 | 108 / 6 | Sun | 356 | 206 | 46w 1d | 160 | 106 |
+| 607 | 482 | 108 / 7 | Mon | 357 | 207 | 46w 2d | 161 | 107 |
+| 608 | 483 | 109 / 1 | Tue | 358 | 208 | 46w 3d | 162 | 108 |
+| 609 | 484 | 109 / 2 | Wed | 359 | 209 | 46w 4d | 163 | 109 |
+| 610 | 485 | 109 / 3 | Thu | 360 | 210 | 46w 5d | 164 | 110 |
+| 611–620 | 486–495 | 109 / 4 – 110 / 6 | Fri–Sun | 361–370 | 211–220 | 46w 6d – 48w 1d | 165–174 | 111–120 |
+| 621–630 | 496–505 | 110 / 7 – 112 / 2 | Mon–Wed | 371–380 | 221–230 | 48w 2d – 49w 4d | 175–184 | 121–130 |
+| 631–640 | 506–515 | 112 / 3 – 113 / 5 | Thu–Sat | 381–390 | 231–240 | 49w 5d – 50w 6d | 185–194 | 131–140 |
+| 641–650 | 516–525 | 113 / 6 – 115 / 1 | Sun–Tue | 391–400 | 241–250 | 51w 0d – 52w 1d | 195–204 | 141–150 |
+
+**THE WEEK BOUNDARIES IN THIS VOLUME, verified against the formula: `608`, `615`, `622`, `629`, `636`, `643` and `650` are the first days of a week, and `650` is the first day of the hundred and fifteenth week and the LAST CHAPTER OF THE VOLUME. `607` and `608`, `614` and `615`, `621` and `622`, `628` and `629`, `635` and `636`, `642` and `643` are the pairs that straddle a boundary.**
+
+**THE ORDINALS ARE ENGLISH AND NOT NUMERALS: *the hundred and eighth week*, *the hundred and fifteenth week*, and so on.**
+
+**There is no month.** `month` is at 0 across 601–650, including in a title and including a demonstrative in front of it. `spring` `summer` `winter` `autumn` 0. **AND THE CARRY-FORWARD IS NOT REPEATED HERE: in Volume 12, *April* and *March* were civil dates a person in another county kept a letter by. `April` and `March` may appear as civil dates and are not divisions of any Veyran or Withermere year, and no chapter may turn a day of April into a season.** The season is a licence and a day in Volume 12 and it is not a division of the year in Volume 13 either.
+
+**THE TWO CLOCKS OF VOLUME 12 DO NOT RUN TOGETHER AND THE BAND 0001 PROMPT GOT THIS WRONG ONCE ALREADY.** The week-count above is the shelf's clock. A year in Withermere is the time between one crossing of the tally stone and the next, and **a Withermere year is not a count of weeks and no chapter may convert the rising into a date or a week into a year.** The Withermere rising has not been named in Volume 13 and Volume 13 has no obligation to go and look at it.
+
+**HIS DAYS IN THE COUNTY OF KELL ARE `chapter − 554` AND HIS ARRIVAL IS THE EVENING OF `553`:** forty-seven at `601` through ninety-six at `650`. **A COUNT OF DAYS SINCE HE ARRIVED IS A CLOCK AND ITS ANCHOR IS `chapter − 554`; the day he came in is not a day he was in.** A count of how long ago is a day-count and not a week-count, and an interval has to be worked out in a room with the subtraction spoken.
+
+## 3. The place, and why it is a different substance
+
+**THE INSTRUMENT TURNS UPSIDE DOWN A THIRD TIME, AND THIS IS THE WHOLE OF THE NEW SUBSTANCE.** In Bramblefold the record was in a locked cupboard and nine people could be sent for about it. In Withermere the record was a sheet nailed to a public wall that every person in the town could read and any person could rub out in about four seconds. **In Volume 13 the record is neither a cupboard nor a wall: it is a set of chairs.** A person holds a chair in an assembly; a chair is held by a person who was asked and who said yes; and **the question the volume exists to ask is what happens to a chair when the person who would have held it is dead, or absent, or was never on any roll to begin with.** That is the succession dispute in `series.md:239` and it is not a metaphor. A chair with nobody in it is the successor of an empty square at the right-hand end of a hundred and forty yards of ditch, and it is not the same thing, and the volume says so out loud in a mouth.
+
+**THE ASSEMBLY IS NOT A BENCH AND IT IS NOT A CROWN.** The series card names a Crown of Witnesses and a Bench and abolishes the first at the climax. **A single Crown of Witnesses is a thing this volume ABOLISHES and it is therefore a thing that must be visible and in use before `641` or its abolition is a word about nothing.**
+
+**A new place gets a new distance and the distance goes into `state/continuity.md` on the day it is invented — index rule 15, and it has caught a real error in every volume so far. The distances already fixed and carried into this volume: Coldcombe is twenty-one miles from Bramblefold and its wharf is the head of the water; Withermere is two days' road to that wharf and one day down the water, which is three days, and the water is only up in the weeks before the rising; Kell is twenty-two miles from Withermere; the hundred of Withermere is about nine miles by water and about fourteen by a drove that is impassable for eight months; a farm four miles south of Withermere; a high ground four days east where a fire has been in the sallow; a village four miles off; the camp on the low side, four miles from the town by the plank bridge. LANE, DRAIN, BOARD, ROOM AND SEAT MEASUREMENTS ARE GIVEN IN THE CHAPTERS AND CARRY NO RESERVED NUMBER.**
+
+**Non-negotiable. Nothing in this volume may be made into Bramblefold again and nothing in it may be made into Withermere again.** No meeting-house, no chancel, no vestry cupboard, no leaf of descent, no fold, no lime kiln, no chalk, no smiting of a wall. **THE SIX-BOARD GATE ON THE FEN AT WITHERMERE IS NOT THE SLUICE A WOMAN NAMED SEFA LUND KEEPS FOUR MILES DOWN THE RIVER FROM A DIFFERENT COUNTY, and no chapter may set the two beside each other.** This volume may not use the Compact of Five Towns as a remedy, may not offer anything on a bar road as the answer to anything, and may not use Chapter 500, Chapter 550 or Chapter 600 as a precedent.
+
+## 4. The people of this volume
+
+**CARRIED BY NAME, AND THESE ARE CANON:** Ilyan Vester, thirty-one. Iven Ashcombe, fifty-eight, the water-clerk of Withermere. Owain Bray, fifty-four. Hester Nunn, forty-one. Bett Searle, twenty-eight. Aldis Crane, a holding and a seat in the hundred. Hoare Ryley, fifty-one, a barrow and a ditch. Toby Henshaw, fourteen. Nadia Kestrel, in a country that is not this one. Sera Quill, twenty-eight, four hundred miles off. **Nadia Kestrel's mark is a mark of two letters and a number and is not her name, and the First Witness spoke that name once in a room in the county of Kell and was not answered.**
+
+**THE NEW CAST OF VOLUME 13 IS NOT FIXED HERE AND THE REASON IS THE FIRST FINDING OF THIS FILE: a name fixed in a planning document and refused by a chapter travels the same road as a number does, and eleven of them did in the last five bands of the last volume. `workspace/volume-13/batch-0001/PROMPT.md` fixes the SHAPES the first band needs — a person in the first place who is the only person anybody can be sent for about one specific thing; an ordinary person who refuses him the instrument in about nine people's hearing, for a reason that is about him and not about the case; a second mouth; a person who has been right about everything and is right about the split too — AND THE NAMES, AGES AND FIGURES FOR THOSE PEOPLE ARE TO BE FIXED BY THE CHAPTER THAT MAKES THEM, SAID OUT LOUD, IN A ROOM, WITH THE WORKING GIVEN.** No state file may quote a Volume 13 name before the chapter gives it, and no band prompt may carry a name that a chapter has not yet borne.
+
+## 5. The five bands
+
+1. **601–610 — the first place, and a case out of the succession dispute.** Who may speak for a person who is dead and whose household has nothing. **THE CHAPTER SAYS OUT LOUD, IN A MOUTH, THAT THIS IS NOT THE RIGHT OF REFUSAL, because it is the nearest thing to it, and calling it one would be making a category out of a coincidence.** An appointment is made or not made and binds nobody, because it was made in a room with the door open. **The band may not land the climax, the resolution or the new question.**
+2. **611–620 — the coalition and the instrument.** The habit of offering to be the instrument meets the volume's own thesis, and the refusal of the instrument is not settled by a speech.
+3. **621–630 — THE MIDPOINT, in the second half, at `628` or `629`, ON A PERSON WHO HAS BEEN A WITNESS TO HIM.** **PLACEMENT RULE, carried from Volumes 10, 11 and 12 and not to be moved by a band: the midpoint may not land in 601–610 or 611–620 at all, and inside the band that carries it it may not land in the first third.** The split is over the public release of Ilyan's Earth connection and the First Witness uses the division to justify a world-wide hearing. **The split is not a betrayal, not a misunderstanding, and the person who leaves is right.**
+4. **631–640 — the Crown made visible, and what a removed witness is for.** A removed witness is offered as a shortcut and the offering is a real one. **Bands 0004 and 0005 carry the consequence and the settlement and may not re-spend the midpoint.**
+5. **641–650 — the counter-burden, the abolition, and the hearing nobody can make fair.** Sera refuses to let Ilyan use a removed witness as a shortcut and he loses a procedural point and accepts a slower public hearing; the court accepts her because she is willing to bear the counter-burden; the single Crown of Witnesses is abolished and the Bench declares a Continuity Hearing for all of Veyra; **and the new question is asked at `650` and not answered.**
+
+**Guardrails for every band. No month. No new final enemy. Nobody relieved, forgiven, redeemed or thanked, and the rule holds across a chapter break and not only inside a chapter. `citizen` 0. `First Witness` may be named and addressed in this volume, and the first time anybody does so should cost somebody something; it is not a villain's name to be shouted. The right of refusal stays unrestored until the chapters restore it. Ilyan is named in every chapter and has a want, a mistake and a cost of his own in every chapter, including the ones where he is right. A chapter may not end on the same inventory as its neighbour. One clock per date line and one anchor. Titles are written LAST, against the body, and a number in a title is checked the way a date line is checked.**
+
+**THE TWO SWEEPS THIS VOLUME INHERITS AND MAY NOT DROP, BOTH LEARNED IN THE BAND THAT HAS JUST CLOSED.** The **reserved-number guard** is `python3 reviews/volume-10/instrument.py guards` called as `I.guards(551, 650, vol='volume-13')`, swept across **every chapter of the volume before certification, never across the band that was just repaired**, and it is case-insensitive and it flags without judging. **The duplicate-sentence sweep** is the second one: **no one sentence may stand verbatim more than five times inside one chapter, and no sentence may open two chapters of the same band.** Band 0005 of Volume 12 carried one sentence seventeen times in a single chapter and the certification recorded `“*Say` and a `thanked` count and not one word of it, and the band is not a bad band for that; the point is that the sweep which would have found it was never run, and a sweep that is run and not reported is a sweep that did not happen. Report it in the certification either way, including when it is clean.**
+
+**AND THE THIRD, WHICH IS AN ACT AND NOT A GATE, WHICH IS WHY IT IS THE ONE THAT KEEPS BEING SKIPPED: read the closing lines of two consecutive chapters against each other, once per band, before the instrument runs.**

@@ -30,8 +30,10 @@
 | 0002 | 561–570 | 31,226 | `reviews/volume-12/batch-0002-measurements.md` |
 | 0003 | 571–580 | 29,114 | `state/batch-summary.md` §0V12C |
 | 0004 | 581–590 | 24,425 | `state/batch-summary.md` §0V12D |
-| 0005 | 591–600 | 27,176 | `state/batch-summary.md` §0V12E |
-| | **551–600** | **136,184** | re-measured on the committed files at this close |
+| 0005 | 591–600 | 27,200 | `state/batch-summary.md` §0V12E |
+| | **551–600** | **136,208** | re-measured on the committed files at this close |
+
+**`0005` WAS 27,176 AT THE TIME THIS CLOSE WAS WRITTEN AND IS 27,200 NOW, because the external review of Band 0005 (`logs/batch-0005.review.log`, six blocking, six serious, one minor) found a reserved-number sense at `600` that is not on the permitted list and a duplicate-sentence sweep that had never been run, and the repair of both is in six chapters. THE REPAIRED FIGURE IS THE ONE IN `state/batch-summary.md` §0V12E AND THE REPAIR IS `reviews/volume-12/batch-0005-review-repair.md`. The total moves with it and the total below is a sum of five numbers certified at five different instants, which is a record of this repository's history rather than a measurement of the manuscript.**
 
 **Do not print a figure about a band without its range next to it, and do the subtraction rather than remembering two figures.** The five certifications above are the figures as those phases certified them after their own repair passes; **the total is a sum of five numbers certified at five different instants by five different passes and is a record of this repository's history rather than a measurement of the manuscript.** A checker who re-measures the whole volume will get a different total and both figures are true about different things.
 

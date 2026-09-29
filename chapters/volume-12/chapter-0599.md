@@ -6,7 +6,7 @@ The day before was the fifth day of the hundred and seventh week. The day after 
 
 ---
 
-There was no room on the Sunday and no slate and no bar, and there has never been a form in the county of Kell for any of the three on any day of the week.
+There was no room on that Sunday either and no slate and no bar, and there is still no form in the county of Kell for any of the three on any day of the week.
 
 There is a fire in one room in that town on a Sunday, and it is in the parlour of an inn with four beds. The woman who keeps them has a fire in it every day of the week, and about nine people have said in a fortnight that that is not the same thing.
 
@@ -32,15 +32,15 @@ Nobody in that parlour thanked anybody.
 
 “*I am standing in front of a fire and about nine people and about four miles a day for five days, and on Saturday there were eleven tents up on that rise that were not up on Friday, and I did not ask the hundred whether they wanted them.*”
 
-Nobody in that parlour thanked anybody.
+Nobody in that parlour had anything to say to that.
 
 “*Then say the rest of that and do not be sorry for anybody,*” said the woman of about fifty who keeps four beds. “*Because about nine of us have watched a woman put eleven tents on a rise that belongs to nobody in about four seconds of deciding and then spend a week walking four miles to stand next to them, and nobody in that hundred has been asked whether she wanted to.*”
 
-Nobody in that parlour thanked anybody.
+Nobody in that parlour took it up.
 
 “*Then say the rest of that and do not end it at the walking,*” said the woman of twenty-eight. “*It cost the licence. There has not been a licence since the water turned on the rising morning, and that is twenty-eight days.*”
 
-Nobody in that parlour thanked anybody.
+Nobody in that parlour moved.
 
 “*Then say that last part,*” said Aldis Crane.
 
@@ -56,7 +56,7 @@ He was a man of fifty-four and he had come four miles on his own legs and he had
 
 “*I am standing in front of a fire in a house with four beds in it and I have not been in this room before. About nine of you have read about my hay at a step on Friday, and about two hundred and seventy of you heard a woman read it and cannot be asked about it.*”
 
-Nobody in that parlour thanked anybody.
+Not one of them thanked him.
 
 “*Then say the rest of that and do not be sorry for me,*” said Aldis Crane. “*About nine of us in this hundred have had three boards in a yard for thirty days and a condition that could not be met and a settlement that says nothing about them. If a man of fifty-four has come four miles into a parlour, then about four of us would like to know which half of it this is.*”
 
@@ -100,9 +100,9 @@ Nobody in that parlour said anything.
 
 “*And I have not said it is a settlement either. It is a line about a person on a sheet that binds nobody and that anybody in that hundred may check at a block of limestone with a hand flat on it. About nine people have carried four pounds eleven shillings and threepence out of this room in the last three days and about four of those nine have got it wrong.*”
 
-Nobody in that parlour said anything.
+Nobody in that parlour took it up.
 
-Nobody in that parlour thanked anybody and nobody in that parlour was sorry for anybody.
+Not one of them had anything to put to it.
 
 ---
 
@@ -124,7 +124,7 @@ Nobody in that parlour said anything.
 
 “*Whether a person of the record and not of the place can become a person of the place,*” said the woman of about seventy, “*without being taken into the shape of the thing the place tells about itself. That is the question. It has been asked three times in about nine weeks in two counties and it has not been answered once. I am seventy-odd years old and I have watched this town go from a wall that a man keeps to a settlement that nobody keeps, and neither one of them has answered it, and I do not think either of them can.*”
 
-About four people in that room said something at once and about nine did not.
+About four people in that parlour said something at once and about nine did not.
 
 Nobody in that parlour said anything.
 

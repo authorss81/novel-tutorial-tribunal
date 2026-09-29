@@ -12,7 +12,7 @@ This was the last reading. There has been one every Saturday for about two hundr
 
 About nine people stood under the lamp and about four more stood in the street where they could hear.
 
-Nobody in that building thanked anybody.
+Nobody in that building found anything to say to that.
 
 ---
 
@@ -34,7 +34,7 @@ Nobody in that building thanked anybody.
 
 “*And everybody in this hundred needs to know it in about four seconds,*” said Aldis Crane.
 
-Nobody in that building thanked anybody.
+Nobody in that building moved.
 
 “*I did not write it,*” said Iven Ashcombe. “*The clerk’s hand is on it and I did not write it. It was there at about the seventh hour on Friday afternoon when I came in. I have been nineteen years the man whose hand that is and I know it, and I did not write it.*”
 
@@ -66,7 +66,7 @@ Nobody in that building said anything.
 
 “*You have just told about eleven hundred people about a settlement in one breath at a wall they have read every morning for about two hundred and thirty years, and about two hundred and seventy of them cannot afterwards be asked what they thought of it,*” said Aldis Crane.
 
-Nobody in that building thanked anybody.
+Not one of them took it up.
 
 ---
 
@@ -92,7 +92,7 @@ Nobody in that building thanked anybody.
 
 About nine people in that room heard a boy say that.
 
-Nobody in that building thanked anybody and nobody in that building was sorry for anybody.
+Not one of them said a word about it.
 
 ---
 
@@ -132,7 +132,7 @@ About four people in that room said something at once.
 
 About nine people in that room had heard that. About nine had not.
 
-Nobody in that building thanked anybody and nobody in that building was sorry for anybody.
+Nobody in that building answered him.
 
 Then a man of fifty-eight put his hand flat on the block of limestone for the length of a count of five, the way he does, and it was the seventh hour and the water was not over the cut.
 
