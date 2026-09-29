@@ -6,13 +6,13 @@ Third day of the hundred and third week. His three hundred and eighteenth mornin
 
 There is no hill in that country anywhere, and the reason a man can be drowned four miles from where he can walk is not a hill.
 
-It is the distance between the top of a swell about nine hundred yards long and the flat behind it, and the water does not come up the swell from the river. It comes across the flat and stops, and everything on the swell is above it, and then the wind gets up at about the seventh hour and pushes the flat water over the top of the swell in a band about eleven feet wide, and that is what got them.
+It is the distance between the top of a swell about nine hundred yards long and the flat behind it. The water does not come up the swell from the river; it comes across the flat and stops, and everything on the swell is above it, and then the wind gets up at about the seventh hour and pushes the flat water over the top of the swell in a band about eleven feet wide, and that is what got them.
 
 ---
 
 It came over the low common at about the eighth hour, and the water did not stop on the rise.
 
-He was on the plank bridge at about the seventh hour with about nine people when he saw it go, and about nine people were on that bridge and about four of them said the number out loud at the same moment, which is what people do.
+He was on the plank bridge at about the seventh hour when he saw it go, and about nine people were on it and about four of them said the number out loud at the same moment, which is what people do.
 
 “*Say what you are looking at, because I have been in this county fourteen days and about nine of us are on a bridge in about a foot of water saying a number and I would like one of us to be exact about which number.*”
 
@@ -22,7 +22,7 @@ Nobody on that bridge thanked anybody.
 
 “*Eight. I counted eight off the Wednesday, off a water-clerk in a weigh-house in front of about thirty people, and it is this morning.*”
 
-“*Say that again, because I am the man with the bad leg and I have said eight in four doorways in the dark, and one of them put it back on me in about four seconds with a subtraction, and I would like to know whether I have been wrong since then or right since then.*”
+“*Say that again, because I am the man with the bad leg and I have said eight in four doorways in the dark, and one of them put it back on me with a subtraction, and I would like to know whether I have been wrong since then or right since then.*”
 
 And it was the man who had said eight that answered him and not the man who had said ten, and that was the whole of who was wrong on that bridge.
 
@@ -46,7 +46,7 @@ What the water came from was not a mile of drain.
 
 It was the low meadow, about thirty-one acres, and the bottom of this district. It had been under since Friday, because the rate on eleven parcels had not been paid for two years and the ditch that takes the meadow off the pasture has a foot of sallow growing in it.
 
-The eleven parcels are the pasture. The pasture is above the meadow. The meadow is above the flat. Every year in a wet time the low meadow takes the whole of it and hands it on, and the flat hands it to the rise.
+The eleven parcels are the pasture, and the pasture is above the meadow, and the meadow is above the flat. Every year in a wet time the low meadow takes the whole of it and hands it on, and the flat hands it to the rise.
 
 The rise is about nine hundred yards long. It belongs to nobody. It had fifty-eight people and about nine children on it.
 
@@ -64,7 +64,7 @@ Nobody was drowned. That is the first thing and it is the whole of the first thi
 
 ---
 
-About thirty people from Withermere went down at about the ninth hour, and about half of them were not of the hundred and had come because there is no form anywhere in this county that stops a man walking onto a common, and about nine of them had been told the number by a wall that morning.
+About thirty people from Withermere went down at about the ninth hour, and about half were not of the hundred and had come because there is no form anywhere in this county that stops a man walking onto a common, and about nine of them had been told the number by a wall that morning.
 
 They were on the low side from the ninth hour to the fourth hour in the afternoon. About nine of them were in the water to the knee. About four of them took a woman of seventy and a boy of about nine out of a line of tent-pegs at the eleventh hour and put them on a cart, and the road was under.
 
@@ -84,7 +84,7 @@ Nobody on that common thanked anybody.
 
 The four closes took a foot about the same hour and nobody in Withermere was standing at them, because about thirty people were on the low side instead, and that is the whole of what a foot of water is to a man whose water it is not.
 
-Two of the four had men on them who were on the low side. The third had a woman on it who had stayed, and she got eleven sheep out of a low corner at about the tenth hour on her own, and lost a hurdle and about four feet of paling. The fourth is nine acres of new sward a man sowed in March, and there is no man of the four in the district, and on Tuesday a man of fifty-four had said in front of about thirty people that he would still put the boards in and pay for them out of his own purse, and nobody has asked him whether he meant it.
+Two of the four had men on them who were on the low side. The third had a woman on it who had stayed, and she got eleven sheep out of a low corner at about the tenth hour on her own, and lost a hurdle and about four feet of paling. The fourth is nine acres of new sward a man sowed in March, and there is no man of the four in the district, and on Tuesday a man of fifty-four had said in that room that he would still put the boards in and pay for them out of his own purse, and nobody has asked him whether he meant it.
 
 Nobody in Withermere was asked about any of the four closes on that day, and about nine people in that hundred had been told on Thursday night at four doorways that it was coming.
 
@@ -106,7 +106,7 @@ About four miles away a hundred of about thirty men had gone out into about thre
 
 “*Then put the other thing on it. Say what you want written.*”
 
-“*I want nothing written. I want the twelve shillings and sixpence to cut a ditch that is not going to be cut, because that is what the rate was for and there is nobody to pay it now, and in about two years the ditch will have sallow in it and the low meadow will go under for good and it will not be a wet year that does it. That is what my six acres are worth now and it is worth nothing on a wall.*”
+“*I want nothing written. I want the twelve shillings and sixpence to cut a ditch that is not going to be cut, because that is what the rate was for and there is nobody to pay it now, and in about two years the ditch will have sallow in it and the low meadow will go under for good, and not in a wet year. That is what my six acres are worth now and it is worth nothing on a wall.*”
 
 Nobody in that field thanked anybody and nobody in that field was sorry for anybody.
 
@@ -114,7 +114,7 @@ Then a man of about twenty-eight with a crowbar got him out of it, and did not a
 
 ---
 
-Then Bett Searle went back over the plank bridge at the fourth hour in the afternoon, in nine inches of water on the flats, with her daughter asleep on her hip, and went up a green in a town of about eleven hundred people to a wall. About nine people were at it, because it is the hour that about nine people are always at it.
+Then Bett Searle went back over the plank bridge at the fourth hour in the afternoon, in nine inches of water on the flats, with her daughter asleep on her hip, and went up a green to a wall, because it is the hour that about nine people are always at it.
 
 fifty-eight
 
@@ -150,7 +150,7 @@ Nobody at that wall thanked anybody and nobody at that wall was sorry for anybod
 
 Nobody at that wall thanked anybody and nobody at that wall was sorry for anybody.
 
-Then a woman of about seventy who had been at that wall every morning for about two hundred and thirty years said one sentence about it, and about nine people heard it.
+Then a woman of about seventy who had been at that wall every morning for about two hundred and thirty years said one thing about it, and about nine people heard it.
 
 “*Say what you are standing in front of, because I have been in front of this wall every morning of my life and I have read that figure in the taking column every morning for two days, and I have got a thing to say about it and it is not about the figure.*”
 
@@ -160,16 +160,16 @@ Then a woman of about seventy who had been at that wall every morning for about 
 
 “*Say the rest of that, because you have said what it is and not what you think of it.*”
 
-“*About nine of us have read that figure every morning for two days and not one of us has been asked a single question about it. There is a boy of fourteen who writes the week’s sheet in chalk on a Friday night, and he was not asked about it either. I have been in front of this wall every morning of my life and I have never once in two hundred and thirty years seen a number of people on it. I did not know there was anywhere to put one.*”
+“*About nine of us have read that figure every morning for two days and not one of us has been asked a single question about it. There is a boy of fourteen who writes the week’s sheet in chalk on a Friday night, and he was not asked about it either. I have been in front of this wall every morning of my life and have never once in two hundred and thirty years seen a number of people on it. I did not know there was anywhere to put one.*”
 
 Nobody at that wall thanked anybody.
 
 The fever was forty weeks and five days old. A foot of water came over about eight hundred acres that belongs to nobody on the second day after the rising, and about fifty-eight people and about nine children under nine were on it, and two of eleven tents were still standing and about nine had gone about eleven feet, and nobody was drowned.
 
-Two numbers were said out loud on a plank bridge in front of about nine people and added together, and they did not come out of the same water. One of the men who said them said in four seconds that he had carried the wrong one forward from the day before, and would not be the man who took a number off a bridge.
+Two numbers were said out loud on a plank bridge in front of about nine people and added together, and they came out at the same morning, and the man who had carried one of them a day wrong said so himself in about four seconds, on a bridge, in the open, in front of about nine people.
 
-A man of thirty-three stood in eleven inches of water on six acres that had a season on them at the sixth hour on Monday morning and nothing on them now, and asked for a line about him to be taken off a wall, and was refused, and was not sorry for anybody.
+A man of thirty-three stood in eleven inches of water on six acres that had a season on them at the sixth hour on Monday morning and nothing on them now, and asked for a line about him to be taken off a wall, and was refused.
 
-A woman of twenty-eight walked four miles over a plank bridge in nine inches of water to ask for a number to be taken off a wall. She was refused by a man who has promised on a board outside his own door to answer anything, and who told her the reason in four sentences, and who told her that if he took it off on Wednesday then about nine people on Saturday would believe a stranger who had written it off as a mistake.
+A woman of twenty-eight walked four miles over a plank bridge in nine inches of water to ask for a number to be taken off a wall. She was refused by a man who has promised on a board outside his own door to answer anything, and who told her the reason in four sentences, and who told her that if he took it off this afternoon then about nine people on Saturday would believe a stranger who had written it off as a mistake.
 
 And it is still on the wall, and it is still right, and about thirty people walked into a foot of water on the strength of it at the ninth hour, and about four of them carried an old woman and a boy of nine out of a line of tent-pegs at the eleventh.

@@ -6,8 +6,6 @@ The rising is in four days and the clerk has been asked for that number seven ti
 
 ---
 
----
-
 A market in Withermere is on a Friday. There is no other day and it has not moved in about two hundred years, and the standpipes and the barrows and the men who come in from the drove arrange themselves around that fact and could not tell you how they know it.
 
 There is a stone step at the north end of the green with an oak bar across it, and between the hour of ten and the hour of twelve anybody may stand at the bottom of it and offer a parcel’s season for sale.

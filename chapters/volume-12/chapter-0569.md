@@ -4,8 +4,6 @@ Fourth day of the hundred and third week. His three hundred and nineteenth morni
 
 ---
 
----
-
 A market in Withermere is on a Friday. It was not on last Friday, because a man who may not call off a market called it off at about the sixth hour on a wall and a door, and about three hundred people came and stood in the wet and went home again.
 
 This Friday it was on, and about three hundred people came onto a green with a foot of standing water on the low side of it, and about nine stones had been moved up out of the standing water and about nine had not.
@@ -90,7 +88,7 @@ Then he asked the market a question and about four of about three hundred people
 
 “*Say the rest of that. You have told a hundred what a thing will cost before you said the thing, and about four of us came over here to tell you that a man who does that is doing it on purpose.*”
 
-“*I am doing it on purpose. And the same four sentences in a weigh-house yesterday would have been worth about nine repetitions and about four listeners, and this morning they are worth about nine repetitions and about thirty listeners, and there is no form in this county that says which of those two is the right place to say a thing.*”
+“*I am doing it on purpose. And the same four sentences in a room over a stable would have been worth about nine repetitions and about four listeners, and this morning they are worth about nine repetitions and about thirty listeners, and there is no form in this county that says which of those two is the right place to say a thing.*”
 
 Nobody in that market thanked anybody and nobody in that market was sorry for anybody.
 
@@ -136,7 +134,7 @@ Nobody in that market thanked anybody.
 
 Then he gave the sheet to the woman at the step, and she read the first four lines of it standing up, and then she folded it and put it under the bar, and about nine people saw her do it.
 
-“*Say what you have done, because there is about thirty people at this bar and about four of them have heard four sentences and about nine have heard a remedy and about thirty-nine have heard you say you would not read your own paper.*”
+“*Say what you have done, because there is about thirty people at this bar and about four of them have heard four sentences and about nine have heard a remedy and about thirty have heard you say you would not read your own paper.*”
 
 “*I have put it under the bar. It will be here next Friday and the Friday after. Any person in this hundred may read it, and any person in this hundred may take it away and write on the back of it. No form in this county says a person may not. That is the first thing anybody in this hundred has written down that anybody in this hundred is allowed to take away.*”
 
@@ -146,7 +144,7 @@ The fever was forty weeks and six days old. A market of about three hundred peop
 
 Four sentences of a three-hundred-word remedy were read out loud in the open air to about thirty people. The rest of it was put under an oak bar on a stone step, where anybody may take it and write on the back of it. No form in the county of Kell says a person may not.
 
-The same four sentences would have been worth about nine repetitions and about four listeners in the weigh-house on Wednesday. At that step on Friday morning they were worth about nine repetitions and about thirty listeners. A man with a bad leg stood there and said out loud that there is no form in this county that says which of those two places is the right place to say a thing.
+The same four sentences would have been worth about nine repetitions and about four listeners in a room over a stable. At that step on Friday morning they were worth about nine repetitions and about thirty listeners. A man with a bad leg stood there and said out loud that there is no form in this county that says which of those two places is the right place to say a thing.
 
 And a woman of about thirty-eight with a barrow said nine words in the middle of that market that she had said at a gate thirteen days ago and did not know that anybody had ever heard them.
 

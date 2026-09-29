@@ -8,7 +8,7 @@ The rising is in five days. A water-clerk of fifty-eight has been asked for that
 
 It was dark by the ninth hour, there was no moon, and the ground between the four closes was a mile and a half of trodden mud. He was doing it on a boot with no sole on one foot and a boot tied with string on the other.
 
-The four of them were a mile and a half apart, which was the part nobody in the weigh-house had thought about. The seven are on the top side and all within half a mile of one another, because the top side is a road. The four are at the bottom of the district, down off the dyke, and a mile and a half is what four closes at the bottom of a fen are.
+The four of them were a mile and a half apart, which was the part nobody in the weigh-house had thought about. The seven are on the top side and all within half a mile of one another, because the top side is a road. The four are at the bottom of the district, down off the dyke.
 
 He had the list on the back of his hand in pencil, no lamp and no candle, and a farthing bought neither.
 
@@ -62,7 +62,7 @@ He closed the door and the latch went and there was light under it for about a m
 
 The second door was the five acres and it was the one where he got the number wrong.
 
-The man was about forty-four. He came out onto the step without a coat, because he had heard somebody’s feet and came out to find out whose they were, and he listened to the whole thing without interrupting, and about nine words into it Ilyan said eight days.
+The man was about forty-four. He came out onto the step without a coat, because he had heard somebody’s feet, and he listened to the whole thing without interrupting, and about nine words into it Ilyan said eight days.
 
 “*Say that again, because you have just said one thing differently from the other three and I want to know which of us is right.*”
 
@@ -228,7 +228,7 @@ Nobody on that lane thanked anybody and nobody on that lane was sorry for anybod
 
 “*Then go home, and do not say her name, and do not say a number in a doorway again tonight. There is one more house on this lane that has not been told anything and they are asleep.*”
 
-He went and knocked on a fifth door that was not a close and was not on the list, and told a man of about twenty-six the whole of it in a kitchen where nine people sat round a table, and the man stood up and said the words *the water-clerk’s man* twice and did not apologise for either.
+He went and knocked on a fifth door that was not a close and was not on the list, and told a man of about twenty-six all of it in a kitchen where nine people sat round a table, and the man stood up and said the words *the water-clerk’s man* twice and did not apologise for either.
 
 Nobody in that kitchen thanked anybody.
 

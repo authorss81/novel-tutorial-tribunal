@@ -6,8 +6,6 @@ The rising is in three days, and the clerk was asked for the number four times b
 
 ---
 
----
-
 A district reads its wall.
 
 Not on a market day and not on a Sunday. On the sixth hour of a Saturday morning, out loud, by whoever holds the slate, standing under the lamp on the bracket, with the door of the weigh-house open and the street behind it, so that anybody in the street may hear it and correct it.

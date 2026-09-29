@@ -14,7 +14,7 @@ Nobody in that town thanked anybody.
 
 ---
 
-The hundred’s hundred and thirty holdings have thirty figures in the squares. Eleven of them have gone left this week, which they do every week, and one of them did not, and a man of about sixty-two read it out and was corrected by a man of about fifty.
+The hundred’s hundred and thirty holdings have thirty figures in the squares, and on Tuesday eleven of them were read out again with the same name at the end of them and nobody in the room said a word, and one square has nothing in it at all. A man of about sixty-two read it out and was corrected by a man of about fifty about a figure that has not been right since the water-season before last.
 
 And at the bottom of that sheet, under the four lines and under the two hundred and twenty feet and under the six challenges and under the nine-line rule, in the clerk’s own hand with the day on it, there is now a fifth thing.
 
@@ -150,6 +150,6 @@ And that day is the ninth day from the rising, and it is five days from now, and
 
 And there is a harvest coming on the long grazing, and about nine acres of new sward a man sowed in March is in it. A man of fifty-four with about seven hundred sheep is in season on the whole of it and has been for six years. He is the man who cut the drain and took it out and lost a season of keep. Nobody in this county is going to ask him what his ground is worth.
 
-A man of thirty-one with a bad leg and about four pounds in a purse has four doors behind him and about nine people in each of four streets who have a number he put there. A woman who is the quickest person in every room she is in has given him five days instead of a name.
+A man of thirty-one with a bad leg and under two pounds in a purse has four doors behind him and about nine people in each of four streets who have a number he put there. A woman who is the quickest person in every room she is in has given him five days instead of a name.
 
 And the ninth day from the rising is five days away, and it is the third day of the hundred and fourth week, a Thursday. No form anywhere in the county of Kell puts anybody at a step on it. And he has not worked out yet what the question is that he is going to ask in a room where about nine people can be checked against each other.

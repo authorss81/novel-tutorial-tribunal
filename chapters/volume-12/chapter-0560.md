@@ -170,7 +170,7 @@ The panel went when he chose it. It does not stay, and there is no form in this 
 
 Nobody in that weigh-house thanked anybody and nobody in that weigh-house was sorry for anybody.
 
-A man of fifty-four with about seven hundred sheep agreed in front of about thirty people to take out a drain that he had cut in April, and lost a season of keep doing it.
+A man of fifty-four with about seven hundred sheep agreed in front of about thirty people to take out a drain that he had cut in the first week of March, and lost a season of keep doing it.
 
 He said out loud that the water would go onto about eight hundred acres of common where fifty-eight people were living. A woman of twenty-eight with a daughter of six on her hip said that it was the first true thing anybody had said to her about that common. A water-clerk of fifty-eight who is paid four pounds a year said in front of a room that he could hold the water either way and not both ways, and that a decision about the level of a fen is not taken by the people who happen to be in a room.
 

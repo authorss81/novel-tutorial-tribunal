@@ -82,7 +82,7 @@ The man stood at the step for about four more minutes and then he said the other
 
 “*Say the rest of that, because you have put your money away and about nine people here thought you were about to do a kind thing and you have not.*”
 
-“*I am going to give it to nobody. Not to the woman it was taken off, because she refused a stranger’s money in a market ten days ago in four sentences and she was right and I was in the market. Not to a stranger, because he has a bad leg and about four pounds in that county and he was at my door on Thursday and he did not ask me for anything and I would not let him.*”
+“*I am going to give it to nobody. Not to the woman it was taken off, because she refused a stranger’s money in a market ten days ago in four sentences and she was right and I was in the market. Not to a stranger, because he has a bad leg and under two pounds in that county and he was at my door on Thursday and he did not ask me for anything and I would not let him.*”
 
 “*Say the rest of that, because you have now named two people you are not giving it to, and one of them is in this room, and I do not know which.*”
 
@@ -114,7 +114,7 @@ Then the clerk did the thing about the money, and he did it in the open because 
 
 “*Say the rest of that, because you have written nothing and you have written nothing twice, which is not the same as writing nothing once, and about nine people will think I have refused him twice.*”
 
-“*I have refused him once. There is no form in this hundred that lets me take twelve shillings and sixpence off a man and hold it, and there is no form that lets me give it to anybody. So the purse goes back in his pocket and the six acres lapses in the morning with the other hundred and thirty, and there is no figure in the square at the right-hand end of that line tomorrow because there is nobody to put one there.*”
+“*I have refused him once. There is no form in this hundred that lets me take twelve shillings and sixpence off a man and hold it, and there is no form that lets me give it to anybody. So the purse goes back in his pocket and the six acres lapses in the morning with the other hundred and twenty-nine, and there is no figure in the square at the right-hand end of that line tomorrow because there is nobody to put one there.*”
 
 “*Say the rest of that, because a line on that sheet with nothing in the square at the end of it is not a thing that has ever been on that wall in two hundred and thirty years.*”
 
