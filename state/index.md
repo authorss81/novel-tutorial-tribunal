@@ -1,6 +1,14 @@
 # State Index
 
-**Read this, then the top block of one state file. That is the whole read.** Everything below a top block is history, recoverable from git at `90c3efd` and `1e8801a`.
+**CHAPTERS 1–560 ARE CANON, `chapters/volume-01` TO `chapters/volume-12`. VOLUMES 01 THROUGH 11 ARE CLOSED. VOLUME 12, *The Borrowed Season* (551–600), IS OPEN, AND ITS FIRST BAND, CHAPTERS 551–560, IS WRITTEN. THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md`.**
+
+**VOLUME 12 OPENED IN A NEW PHASE, AND THE OPENING MOVED FOUR BLOCKS WHOLE OUT OF THREE STATE FILES AND SUMMARISED NONE OF THEM, because a new substance needs a new ground and the hard cap on every state file is 60,000 bytes.** The Volume 11 close record is at `reviews/volume-11/volume-11-current.md` (42,222 bytes), the Volume 11 threads block at `reviews/volume-11/volume-11-open-threads.md` (41,157), the Volume 11 continuity block at `reviews/volume-11/volume-11-continuity-block.md` (39,551), the Volume 11 Band 0005 certification at `reviews/volume-11/batch-0005-measurements.md` (27,674), and the Volume 11 Band 0005 chapter paragraphs at `reviews/volume-11/batch-0005-chapter-summaries.md` (13,791). **THE RULE THAT GOVERNED THE MOVE IS THE ONE THAT HAS GOVERNED IT FOUR TIMES: the right thing to lose is a record duplicated whole in a review artifact and the wrong thing to lose is a document table a band may need in order not to contradict itself.**
+
+**AND SIX FINDINGS PAID IN THE OPENING BAND, IN SIX CHAPTERS, AND ALL SIX WERE REPAIRED IN THE TEXT BEFORE ANY STATE FILE SAW THEM, WHICH IS THE THIRD TIME THAT SHAPE HAS HELD IN THIS REPOSITORY AND IT IS THE ONLY WAY TO KEEP A DERIVED FIGURE FROM GOING STALE.** A distance of nine hundred miles for a three-day journey, at `557`, `559` and `560`. A flock of nine hundred sheep where the number belongs to a range of refusals four hundred miles off, at `554`, `556` and four times at `560`. A common of four hundred acres at `553`, which is Halloway's common and is canon there. A common of nine hundred acres at `557`, which is the same collision. A hundred of nine hundred people at `559` and `560` in a town of eleven hundred, which is not a district and not a crowd this volume has. And a water-clerk saying the water will be on a camp in eleven days at `560`, for a morning that is eight days off.
+
+**AND THE STANDING ACT WAS RUN AND IS REPORTED AS HAVING BEEN RUN BECAUSE IT WAS: the closing lines of all ten chapters of 551–560 were read against each other, in order, once each, before the final measurement, and no two neighbours close on the same inventory.**
+
+**VOLUME 11 IS CLOSED. *The Archive of Unmade Names* (501–550), closed at Chapter 550 on the sixth day of the hundredth week.**
 
 ## Where the project stands
 
