@@ -94,7 +94,7 @@ Those two groups were not the same two groups, and nobody in that porch can be a
 
 Then the recordwright read the finding out again, standing, in the voice she uses for minutes, with the day on it and nothing else added to it.
 
-“*Entered on the seventeenth day of a count begun in another county, which is not the counting of this town. A finding, and it is a finding and not a decision, and nothing is carried by it. The two objections at the foot of the entry of the fifteenth day of the ninety-fourth week are both against the three words nothing is carried. Those three words are not about a half-acre. And a person who is already in an entry does not get a second thing out of an entry, and does not get a second thing put on him either.*”
+“*Entered on the seventeenth day of a count begun in another county, which is not the counting of this town. A finding, and it is a finding and not a decision, and nothing is carried by it. The two objections at the foot of the entry of the fifteenth day of the ninety-third week are both against the three words nothing is carried. Those three words are not about a half-acre. And a person who is already in an entry does not get a second thing out of an entry, and does not get a second thing put on him either.*”
 
 Nobody in that porch had heard it put that way. About nine people in that town had been arguing about the second half of it for a fortnight, in porches, at pumps, and in a market square. About four of them had known all along. About five had not, and were not going to be told by a book, and the recordwright said so out loud, because she has said every other hard thing about that book out loud in the last three weeks and there was no reason to start making an exception for this.
 

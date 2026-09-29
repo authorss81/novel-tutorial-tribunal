@@ -4,7 +4,7 @@ Seventh and last day of the ninety-sixth week, and the morrow is the first day o
 
 The finding went in at the back of that book on the seventeenth day of a count begun in another county, in a town two days and four miles of lane from here, which is not the counting of this town.
 
-The finding is that the two objections at the foot of the entry of the fifteenth day of the ninety-fourth week are both against the three words nothing is carried, and that those three words are not about a half-acre, and that a person who is already in an entry does not get a second thing out of an entry and does not get a second thing put on him either.
+The finding is that the two objections at the foot of the entry of the fifteenth day of the ninety-third week are both against the three words nothing is carried, and that those three words are not about a half-acre, and that a person who is already in an entry does not get a second thing out of an entry and does not get a second thing put on him either.
 
 A finding is a finding and not a decision, and nothing is carried by it.
 
@@ -36,7 +36,7 @@ The porch on the upper row is not the porch of the meeting-house. It is about fo
 
 “*Entered on the seventeenth day of a count begun in another county, which is not the counting of this town. A finding, and it is a finding and not a decision, and nothing is carried by it.*”
 
-“*The two objections at the foot of the entry of the fifteenth day of the ninety-fourth week are both against the three words nothing is carried. Those three words are not about a half-acre.*”
+“*The two objections at the foot of the entry of the fifteenth day of the ninety-third week are both against the three words nothing is carried. Those three words are not about a half-acre.*”
 
 “*And a person who is already in an entry does not get a second thing out of an entry, and does not get a second thing put on him either.*”
 
@@ -130,7 +130,7 @@ And the man of thirty-one was in that square and had been in it since the sevent
 
 His want that morning was the plainest one he has had in this country. He wanted the finding to be right.
 
-He had carried it for eleven days, since the Sunday of the ninety-fifth week. It had been said out loud in a porch on the Tuesday by a woman of sixty-one. He had had it first, and he had used about nine seconds on not saying it, and it had gone into a book four hundred and eleven years old with a line at the foot of it saying that neither of the two people it was about had been told.
+He had carried it for eight days, since the Sunday of the ninety-fifth week. It had been said out loud in a porch on the Tuesday by a woman of sixty-one. He had had it first, and he had used about nine seconds on not saying it, and it had gone into a book four hundred and eleven years old with a line at the foot of it saying that neither of the two people it was about had been told.
 
 He wanted it to be right, and it was right, and it was right in a way he could not do anything with at all, and both of the people it was about had been told by somebody else in about nine words on a Sunday night.
 

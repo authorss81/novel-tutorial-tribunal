@@ -16,7 +16,7 @@ The day cost a day. That is the whole of what it cost. A working day in a market
 
 They came at about the tenth hour. The door was open. The window was down. There was a fire in the chancel because it was a Wednesday in a cold week, and about nine people sat down and about nine stood.
 
-The finding of the Monday was read out first, and it is the reason the room was called at all. It is that the two objections at the foot of the entry of the fifteenth day of the ninety-fourth week are both against the three words nothing is carried, and that those three words are not about a half-acre, and that a person who is already in an entry does not get a second thing out of an entry and does not get a second thing put on him either.
+The finding of the Monday was read out first, and it is the reason the room was called at all. It is that the two objections at the foot of the entry of the fifteenth day of the ninety-third week are both against the three words nothing is carried, and that those three words are not about a half-acre, and that a person who is already in an entry does not get a second thing out of an entry and does not get a second thing put on him either.
 
 She read it out standing, in the voice she uses for minutes, with the day on it, and about nine people heard it in a room with the door open, and about nine people in the square outside heard a woman reading out of a doorway and not one word of it, and that is the fourth time in about a fortnight that a thing has been read out of that doorway to nobody.
 

@@ -38,7 +38,7 @@ Then she asked him one question, and it was a question and not a notice, and abo
 
 “*Ay.*”
 
-“*Say the rest of it, because I have asked you one question in this room in twenty-five days and I asked it with terms and I am not going to leave it to about nine people.*”
+“*Say the rest of it, because I have asked you one question in this room in eighteen days and I asked it with terms and I am not going to leave it to about nine people.*”
 
 “*I would like to know what it says about me in a room where about nine people can be sent for to this building and say what they said this morning. That is what I asked for in a porch on the Wednesday of the ninety-eighth week, and I asked for it once and not to be told what I said last time, and nobody has asked me anything since and that is twelve days and every one of them was a day nobody counted on purpose.*”
 

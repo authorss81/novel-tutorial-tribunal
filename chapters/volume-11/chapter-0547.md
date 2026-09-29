@@ -28,7 +28,7 @@ Then she said the other half of it, standing at the end of the wool bench with h
 
 “*A list in a book about nine things a man said in a smithy is a list with a keeper standing behind it. And I have said out loud in a market square in this county twice that I am the one. I am not going to be the one for this.*”
 
-“*That was a smithy ten days ago and a lane before it and a square before that, and I have heard it in all three, and it has not changed in one of them.*”
+“*That was a smithy twenty days ago and a lane before it and a square before that, and I have heard it in all three, and it has not changed in one of them.*”
 
 “*It has been four rooms and a porch and a lane and a square, and there is a keeper standing behind all of it, and the fact that she is the same woman in all of those places is the whole of what she is.*”
 

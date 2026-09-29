@@ -10,7 +10,7 @@ The last thing that happened in a smithy on the Saturday was a piece of chalk ab
 
 She is paid two shillings a year by each of about sixty households, which is six pounds a year. Sixty households at two shillings is one hundred and twenty shillings, and one hundred and twenty shillings is six pounds, and that is the whole of what a woman of thirty-four takes for keeping the book of a town of about two thousand four hundred people for nineteen years.
 
-The households hold the fold. A hundred and forty acres at four shillings the acre is twenty-eight pounds a year, and the recordwright’s six pounds is a fifth of what the down brings in, and neither of those figures has moved in nineteen years.
+The households hold the fold. A hundred and forty acres at four shillings the acre is twenty-eight pounds a year, and the recordwright’s six pounds is rather more than a fifth of what the down brings in, and neither of those figures has moved in nineteen years.
 
 A man of eighty-one said it in a smithy in this town eleven days ago, out of a chair by the fire, and he had not been sent for. What he said was that he had been that person twice in his life and had said nothing both times, and then he said that nobody in this county had ever once asked her whether six pounds a year was enough, and that he would like it entered that he had said so. Nobody entered it. She did not press it.
 
