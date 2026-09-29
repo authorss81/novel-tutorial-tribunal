@@ -1,0 +1,159 @@
+# Volume 12, Batch 0003 — Chapters 571 to 580, *THE HARVEST AND THE PRIVATE SEASON. AND THE MIDPOINT.*
+
+**THIS IS THE THIRD OF FIVE BANDS OF VOLUME 12, *The Borrowed Season*. THE VOLUME'S FIVE LINES ARE FIXED BY `outline/volume-12.md` §1, AND `outline/series.md:227` OUTRANKS `outline/ending.md`, WHICH OUTRANKS `outline/volume-12-handoff.md`, WHICH OUTRANKS `outline/volume-12.md`, WHICH OUTRANKS THIS PROMPT, WHICH OUTRANKS EVERY STATE FILE. Read `outline/series.md` in full, then `outline/volume-12.md`, then `state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, and Chapters 551–570 in full. The chapters are the canon; this prompt and the state files are not.**
+
+**IT WRITES TEN CHAPTERS, THE STATE FILES, AND EXACTLY ONE NEXT-PHASE PROMPT, AND NOTHING ELSE.**
+
+---
+
+## 0. What this phase exists to do, and it is one sentence and a placement rule
+
+**THE PHASE EXISTS TO SPEND THE VOLUME'S MIDPOINT, AND THE MIDPOINT IS THE ONE THING IN THIS BAND THAT MAY NOT BE MISSED, MISSED EARLY, OR MADE SMALL.**
+
+`outline/volume-12.md` §1, fixed and not to be moved: *Ilyan's co-witness compact requires him to choose between an ally's private season and a public harvest; he cannot optimize both.* **PLACEMENT, FROM THE SAME FILE AND CARRIED FROM VOLUME 10 AND VOLUME 11: THE MIDPOINT MAY NOT LAND IN 551–560 OR 561–570 AT ALL, AND INSIDE THE BAND THAT CARRIES IT IT MAY NOT LAND IN THE FIRST THIRD. IT IS PLANNED FOR THE SECOND HALF OF THIS BAND, AT `578` OR `579`, ON THE HOUSEHOLD OF A PERSON WHO HAS BEEN A CO-WITNESS TO HIM. BANDS 0004 AND 0005 CARRY THE CONSEQUENCE AND THE SETTLEMENT AND MAY NOT RE-SPEND IT.**
+
+**THE HOUSEHOLD OF A PERSON WHO HAS BEEN A CO-WITNESS TO HIM, AND THIS IS THE HARD PART AND IT IS NOT A CHARACTER, IT IS A LIST.** It is not Ilyan's own household and it may not be. It is a household in this county that has stood beside him in a room at some point in Chapters 551–570 and can be named out of the chapters and not out of this prompt. **READ `state/character-state.md` §1b AND `state/open-threads.md` §1 AND PICK ONE OUT OF THE CHAPTERS. THE CANDIDATES ARE NARROW AND THE CHAPTERS ARE THE ONLY LIST: a woman of forty-one with six acres of the second close off the dyke and a man who is at sea or is dead and has not been decided, and two children, and who has said no three times in ten days and gave a man of thirty-one a date instead of her name at `570`; a woman of twenty-eight in eleven tents on about eight hundred acres of nobody's common with a daughter of six, whose licence lapsed on the rising and whose paper is under a churn in a sack with no copy in the county; a woman of about sixty-two on four acres, who has a brother on the water and who told a man of thirty-one not to come to her step at an hour that suited him; a man of about fifty with a beehive and a holding and a seat in the hundred; a man of about thirty-three who gave a season to a room and who is standing in eleven inches of water on six acres.** **WHICH ONE YOU PICK IS A PLANNING DECISION AND IT IS THE RIGHT OF THIS PHASE, BUT IT MUST BE PICKED OUT OF THE CHAPTERS AND IT MUST BE WRITTEN DOWN IN `state/current.md` §0.3 BEFORE IT IS SPENT, BECAUSE A MIDPOINT SPENT ON A HOUSEHOLD THAT A STATE FILE HAD TO INTRODUCE IS NOT A MIDPOINT.**
+
+**AND THE STRUCTURE OF THE MIDPOINT IS NOT "A DIFFICULT CHOICE". IT IS TWO TRUE THINGS THAT CANNOT BOTH BE DONE BY ONE PERSON, AND THE ONE THING HE SAYS OUT LOUD THAT HE CANNOT UNSAY IS THE VOLUME'S COST.** Do not soften it into a dilemma. The two true things are on the ground and are both in `state/continuity.md` §0B.
+
+### 0.1 THE HARD PROHIBITIONS
+
+**DO NOT ANSWER THE QUESTION VOLUME 11 WAS LEFT OPEN ON.** It was asked at `550` and not answered, carried to a fen town, put to about thirty men in a weigh-house on the rising at `566`, asked wrong by one man, and **refused again in a street at `570`, where a woman of forty-one asked out loud in front of about nine people whether there is a thing in that hundred that can be asked of anybody at all, and about nine people repeated it before the end of the day.** `citizen` IS AT 0 ACROSS 551–600 AND IT MUST BE AT 0 ACROSS 571–600. **THE QUESTION MAY BE ASKED, REPEATED, OBJECTED TO, MISUNDERSTOOD, OBJECTED TO AGAIN, AND ANSWERED WRONG BY ANYBODY. IT MAY NOT BE ANSWERED.** And nobody in this band may say the words *preferred story* or *absorbed*, which are at 0.
+
+**DO NOT RESTORE THE RIGHT OF REFUSAL AND DO NOT GIVE IT TO ANYBODY IN EITHER COUNTY.** Three people in Withermere said no to a thing in ten days — a number in a doorway, a name at the top of a paper, and a figure on a wall — **and none of those is the right of refusal, and the band that calls any of them that has made a category out of a coincidence.** The keeper of the Bramblefold book said in Volume 11 that if a third person in that county says no then what happens is a question for whoever is there at the time. **There has not been a third, and a band that manufactures one has manufactured it.**
+
+**DO NOT MAKE A VILLAIN AND DO NOT MAKE OWAIN BRAY INTO ONE.** He is fifty-four, he has about seven hundred sheep, he paid the rate and the penny on two hundred and ten acres in four days in April, he took his own drain out on Saturday at his own cost and lost a season of keep, he came four miles on his own legs and stood at the back of a room with no seat in it, and **he said out loud in that room that he had been wrong about the drain and was right about the common and would rather the hundred knew both at once than either on its own.** **A COMMON THAT FAILS IS NOT STOLEN. IT IS MAINTAINED BY SOMEBODY.** He is also a man who said he would still put the other three boards in and pay for them out of his own purse and **nobody has asked him whether he meant it, and that question is now ten days old.** A band that makes him a thief has undone the volume; a band that makes him a saint has made him useless, because a saint is not the shape of the problem.
+
+**DO NOT PUT A SLUICE IN A HALLOWAY SENSE.** Six boards, a gate, a level a foot below a line cut round a block of limestone, and a man who can raise it or leave it and cannot do both. **The sluice a woman named Sefa Lund keeps is in another county and no chapter may set the two beside each other.**
+
+**DO NOT CARRY A HALLOWAY OR A BRAMBLEFOLD FIGURE INTO A WITHERMERE SENTENCE.** 1,041, 1,060, 1,071, 1,052, 1,074, the 2d rate, the £9 heel, the 280d levy, the 44d a quarter, 140 acres at 4s, £28, 112d, £4 16s 0d and £6 a year are all canon, untouched, and in none of 571–580. **THE SHARPEST VERSION OF THIS RULE IS THE ONE THIS VOLUME HAS ALREADY PAID FOR AT `570`: the first write of that chapter closed on nine hundred apple trees in a chalk town about fifty miles off, and it was cut in the chapter. DO NOT BORROW ANOTHER TOWN'S INVENTORY TO CLOSE A CHAPTER.** The low common is about eight hundred acres and its usable edge is about nine hundred yards and that is the low common and not anybody's.
+
+**DO NOT WRITE A SECOND SYSTEM PANEL IN A ROW.** There was none in 561–570 and `**` is at 0 across all twenty of this volume's chapters so far. **A PANEL MAY BE CARRIED IN THIS BAND IF A CHOICE IS ACTUALLY SPENT AND NOT FOR THE SAKE OF THE FIGURE, AND THE MIDPOINT IS THE ONLY PLACE IN THIS BAND WHERE THAT WOULD BE TRUE, AND IF IT IS CARRIED IT IS CARRIED AT `578` OR `579` AND NOWHERE ELSE.** A panel in a chapter that did not spend anything is a habit and not an instrument.
+
+**DO NOT PRINT A MONTH. `month` 0, `spring` 0, `summer` 0, `winter` 0, `autumn` 0, INCLUDING IN A TITLE AND INCLUDING A DEMONSTRATIVE IN FRONT OF ANY OF THEM.** **THE TELL HOLDS NINE RUNNING: seven of the nine cuts across the first two bands of this volume had a time-unit in front of the word. Cut the phrase, not the noun.** *April* and *March* are civil dates, are permitted, and are NOT divisions of the Withermere year, which is reckoned only from the rising.
+
+**AND `arbiter` 0 · `villain` 0 · `upstairs` 0 · `the volume` 0 · `in this volume` 0 · `the rail` 0 · `First Witness` 0 · straight ASCII apostrophes 0 · `citizen` 0 · `preferred story` 0 · `absorbed` 0.**
+
+### 0.2 The meta sweep, which the tic line above does NOT catch
+
+**RUN IT AS A PATTERN AND READ EVERY LINE IT RETURNS, AND READ THE TITLES, BECAUSE A TIC LIST IS A SHAPE AND NOT A READING.** Over 571–580, titles included, these must return ZERO: `two volumes`, `ten volumes`, `volumes` in any case, `in a chapter`, `in a book in` except where the two words are the ordinary English preposition, `worth printing`, `this (project|batch|pass)`. **A TITLE IS THE LINE MOST LIKELY TO SURVIVE A REVIEW UNCHANGED. BAND 0002 FOUND A TITLE THAT SAID A FIFTH HOUR FOR A NINTH HOUR AND ANOTHER THAT PROMISED FOUR CLOSES THE CHAPTER DID NOT DELIVER, AND THE REPAIR RAN IN OPPOSITE DIRECTIONS ON THE TWO, WHICH IS THE POINT: A TITLE IS A PROMISE ABOUT THE BODY AND THE BODY IS THE CANON, AND WHICH ONE YOU REPAIR DEPENDS ON WHICH ONE IS WRONG.**
+
+**AND THE WORLD IS NOT EARTH.** No real-world place-name may appear. Withermere, Bramblefold, Coldcombe, Aldwick, Kell and Halloway are this fiction's, and no other. **A NEW PLACE GETS A NEW DISTANCE AND THE DISTANCE GOES INTO `state/continuity.md` ON THE DAY IT IS INVENTED — index rule 15, and it has caught a real error in this repository twice. THE LAST TWO BANDS OF THIS VOLUME INVENTED NO PLACE AND THAT IS THE CHEAPEST WAY TO SATISFY THIS RULE.**
+
+### 0.3 THE TWO RULES THAT CAME OUT OF THE REVIEW OF BAND 0001 AND THE TWO THAT CAME OUT OF BAND 0002, AND ALL FOUR WILL FIND SOMETHING
+
+**A PUBLIC RECORD WITH A DATE ON IT IS CHECKED LIKE A DATE LINE, AND A DOCUMENT THAT MISDATES THE THING IT DESCRIBES IS A FALSE DOCUMENT.**
+
+**A FIGURE THAT CARRIES THE PROOF OF THE VOLUME'S CENTRAL DILEMMA CANNOT BE PRINTED TWICE IN TWO CHAPTERS BY TWO SPEAKERS WITHOUT THE TWO BEING ADDED TOGETHER.**
+
+**NEW, FROM BAND 0002: A PUBLIC WALL CAN BE CORRECTED BY ANYBODY IN ABOUT FOUR SECONDS AND NOBODY CAN BE ASKED WHETHER A NUMBER ON IT IS TRUE. SIX DOCUMENTS ARE ON THE WALLS OF WITHERMERE NOW — AN ELEVEN-LINE NOTICE, FOUR LINES, SIX CHALLENGES, TWO HUNDRED AND TWENTY FEET, FIFTY-EIGHT IN THE TAKING COLUMN, AND ABOUT THIRTY NAMES IN CHALK — AND EVERY ONE OF THEM IS IN THE OPEN AND EVERY ONE OF THEM CAN BE RUINED BY A MAN WITH A CHALK IN ABOUT FOUR SECONDS. **THE QUESTION FOR THIS BAND IS WHAT A PUBLIC INSTRUMENT IS FOR WHEN IT CANNOT BE PROTECTED AND CANNOT ASKED AFTER, AND IT MAY BE ASKED OUT LOUD BY A CHARACTER AND IT MAY NOT BE ANSWED OUT LOUD BY THE NARRATION.****
+
+**NEW, FROM BAND 0002: A CARD IS NOT A CHAPTER AND A TITLE IS NOT A CHAPTER. THE FIRST WRITE OF `567` CAME IN 112 WORDS OVER A CEILING AND WAS LEFT THERE WITH THE REASON RECORDED RATHER THAN CUT, BECAUSE THE CHAPTER WAS THE BAND'S ONLY INSTANCE OF A PERSON CHOOSING A PUBLIC RECORD OVER A PRIVATE ONE. **A GATE IS NOT A REASON TO CUT A SCENE AND A GATE IS NOT A REASON TO KEEP ONE EITHER: IF A CHAPTER IS OVER, ASK WHETHER THE SCENE IS THE ONLY ONE OF ITS KIND, AND WRITE THE ANSWER DOWN.****
+
+### 0.4 THE SENTENCE-SHAPE RULE
+
+**RUN THE INSTRUMENT ON EVERY CHAPTER AS IT IS FINISHED, BEFORE THE NEXT ONE IS WRITTEN, AND NAME THE CORPUS: `python3 -c "import sys;sys.path.insert(0,'reviews/volume-10');import instrument as I;I.run(571,571,vol='volume-12')"`.** Band 0002 had four chapters come in over a median of 25 and two over ten per cent over-60 on their first writes, and every one was cut at the sentence. **The failure class is long comma-chained declaratives stacked five and six deep inside one sentence, and it is invisible to a tic list, to a date check, to a card check and to a reader who checks a number.** Gates: median ≤ 25 · over-60 ≤ 10% · max paragraph ≈ 120 · **2,000–3,400 words a chapter, and NO CHAPTER OUTSIDE THAT BAND UNLESS THE REASON IS RECORDED IN `state/current.md` §0.3 AS BAND 0002 RECORDED ITS ONE.**
+
+---
+
+## 1. Where the position is at the end of 570, and the dates that land on the first page
+
+`571` is the **sixth day of the hundred and third week, a Sunday** · `572` **Monday, the seventh and last, and the morrow is the first of the hundred and fourth** · `573` **Tuesday, the first of the hundred and fourth** · `574` Wednesday, the second · `575` **Thursday, the third — AND THE NINTH DAY FROM THE RISING, WHICH IS THE DAY A WOMAN OF FORTY-ONE GAVE A MAN OF THIRTY-ONE INSTEAD OF HER NAME, AND WHICH WAS NAMED IN `570` WITH THE WEEK, THE DAY OF THE WEEK AND THE INTERVAL ALL ON THE PAGE** · `576` Friday, the fourth · `577` Saturday, the fifth · `578` **Sunday, the sixth** · `579` **Monday, the seventh and last of the hundred and fourth** · `580` **Tuesday, the first of the hundred and fifth**.
+
+Morning = `chapter − 250`, so 321 to 330. Days since the settlement = `chapter − 400`, so 171 to 180. Fever = `chapter − 283`, so **41w 1d at `571` strictly +1 to 42w 3d at `580`**, and every closing fever must agree with its own date line. `hall` = `chapter − 446`, 125 to 134. `clear` = `chapter − 500`, 71 to 80, **printed as *in a town in another county* and not reverted.**
+
+**THE ORDINALS ARE ENGLISH: *the hundred and third week*, *the hundred and fourth week*, *the hundred and fifth week*, and the ordinal comes off the table at `outline/volume-12.md` §2 and not off the line above it.** `575` is the third day of the hundred and fourth week, a Thursday, and that figure was printed in `570` and is checked against this table and not against the line above it.
+
+---
+
+## 2. What is on the ground, and it is all in `state/continuity.md` §0A and §0B
+
+Withermere, about eleven hundred people, on the north bank of a slow river at the eastern edge of a fen, in the hundred of Withermere, in the county of Kell, twenty-two miles from the counter at Kell. Market on a **Friday**. Weigh-house about sixty feet long with the season book on its north wall under a lamp lit at the seventh hour. Inn called the Green Paw, four beds, a woman of about fifty. **The tally stone, over which the water came on `566`.** The hundred, about thirty men, forty-one people in the room. The three boards of the sluice. Eleven parcels, two hundred and ten acres, at two shillings and a penny the acre. A camp of fifty-eight in eleven tents on about eight hundred acres of nobody's common **whose licence lapsed on the rising morning because it said *until the water turns*, and for which there is no form and no copy anywhere.**
+
+**AND THE TWO NUMBERS NOW ON THE WALL AGAINST THE COMMON, and neither is a number of people: two hundred and twenty feet in the square, and fifty-eight in the taking column.** And a line with nothing in its square. And six challenges, of which five name no parcel. And four lines about how many men fill the chairs in a room. And about thirty names in chalk with a stroke beside the ones that are not of the hundred. And nine lines on a board outside a door forbidding anybody to ask anybody what they remember. **And a remedy of three hundred words with nothing at the top of it under an oak bar, which anybody may take away and write on the back of, and by which no person in the county of Kell is bound.**
+
+**AND EVERY ONE OF THE THIRTY-ODD THREADS IN `state/open-threads.md` §1, AND EVERY ONE OF VOLUME 11'S TWENTY-NINE THREADS IN §2, WHICH ARE NOT TO BE SUMMARISED INTO THIS VOLUME AND DROPPED.**
+
+---
+
+## 3. The eleven people, and what each of them wants in this band
+
+**IVEN ASHCOMBE, FIFTY-EIGHT, WATER-CLERK, PAID FOUR POUNDS A YEAR, NAME ON A BOARD OUTSIDE HIS OWN DOOR WITH A PROMISE ON IT THAT HE ANSWERS ANYTHING, AND UNDERNEATH THAT A NINE-LINE RULE HE ENTERED AGAINST HIMSELF.** He has refused a woman of twenty-eight twice in three days, has written fifty-eight on a wall in nine seconds, and has written two hundred and twenty feet on the same line and said out loud that he knew it would be useless in the same breath. **His cost in this band is his own board: about nine people in that hundred want the nine lines taken down and about nine do not, and the two nines have not asked each other, and the only person who could ask is him.**
+
+**OWAIN BRAY, FIFTY-FOUR, SEVEN HUNDRED SHEEP, FOUR MILES SOUTH, IN HIS SIXTH YEAR ON FORTY-FOUR ACRES WITH ABOUT NINE ACRES OF NEW SWARD IN IT.** He said he would still put the three boards in and pay for them out of his own purse and nobody has asked him whether he meant it. **He is not of the hundred and there is no seat for him, and the harvest on his long grazing is the thing a hundred of about thirty men cannot reach him about, and he knows it and has known it since he stood at the back of a room.**
+
+**HESTER NUNN, FORTY-ONE, SIX ACRES, TWELVE SHILLINGS AND SIXPENCE A YEAR, TWO CHILDREN, A MAN WHO IS AT SEA OR IS DEAD AND HAS NOT BEEN DECIDED.** She gave a date instead of a name at `570` and the date is `575`, and **the date is in this band. WHAT SHE SAID SHE WOULD HAVE DONE BY IT IS IN `570` AND IT IS THREE THINGS AND ONE OF THEM IS A QUESTION SHE HAS NOT YET ASKED: she will have been down to the common and seen it herself, she will have read everything in the county with the word foot or fifty-eight on it, and she will have asked one question out loud in a room where about nine people can be checked against each other. **THE BAND OWES HER ALL THREE AND THE THIRD IS NOT THE ONE ANYBODY EXPECTED AND IT MAY NOT BE THE BRAMBLEFOLD QUESTION.****
+
+**BETT SEARLE, TWENTY-EIGHT, A DAUGHTER OF SIX, WHO KEEPS THE COUNT.** Fifty-eight on a wall, two tents gone eleven feet, a licence that lapsed, four miles of plank bridge. **She said out loud that in four days about nine people would be able to say the true of that common and she would be one of the nine and would have got it off a number and not off anything she has seen.** That was said on `567`. **`568` is what she saw.** Whether she has been paid that debt to anybody is a question for this band and not for the narration.
+
+**HOARE RYLEY, FIFTY-ONE, A DYKER, WITH FOUR ACRES OF HIS OWN AND ELEVEN BETWEEN HIS TWO BROTHERS, ONE OF WHOM GAVE A SEASON TO A ROOM ON `565` AND IS STANDING IN THE WATER.** He said the sentence the volume's engineering rests on and he has watched what it did. **He is the man the midpoint most nearly belongs to and the prompt forbids choosing him for that reason; choose a household and then say why it is not him.**
+
+**REUBEN SEARLE, NINETEEN, ON THE POLE, OFF THE WATER FOR EIGHT MONTHS OF THE YEAR, AND ABSENT FROM BAND 0002 ENTIRELY. **HIS ABSENCE IS THE ONE THING IN THIS BAND THAT WAS FELT AND NOT SERVICED, AND HE IS BACK ON THE WATER, AND HE IS SOMEBODY'S, AND NOT YOURS.****
+
+**ORWIN SLEE, FORTY-FOUR, FOUR BOATS. **HE MAY NOT APPEAR AND THAT IS A LOSS THE BAND SHOULD FEEL RATHER THAN A THREAD TO SERVICE, AND IF HE DOES APPEAR IT IS BECAUSE SOMETHING WAS CARRIED.****
+
+**A BOY OF FOURTEEN WHO WRITES THE WEEK'S SHEET IN CHALK FOR A PENNY AND WHO HAS WRITTEN ABOUT THIRTY NAMES ON IT THAT NOBODY ASKED FOR.** He has told one man what the stroke means and he has not told anybody else. **A HAND THAT CAN BE ERASED WITH A RAG IN ABOUT FOUR SECONDS IS A HAND HE HAS TO HOLD.**
+
+**A WOMAN OF ABOUT SEVENTY WHO HAS READ THAT WALL EVERY MORNING OF HER LIFE AND WHO ASKED AT A PUMP WHAT FEET A COMMON HAS.**
+
+**PERRIN VOSS, ABOUT SIXTY-TWO, WHO READ THE WALL ALOUD FOR TWENTY MINUTES AND WAS CORRECTED TWICE, AND WHO HAS WANTED FOR NINETEEN YEARS TO ASK WHETHER IT IS RIGHT.**
+
+**SERA QUILL, TWENTY-EIGHT, FOUR HUNDRED MILES OFF. **SHE DOES NOT APPEAR IN PERSON IN THIS BAND. HER HAND MAY ARRIVE AND IT MUST BE A REFUSAL OF THE SAME KIND AS THE FIRST AND IT MUST NOT BE AN INVITATION. HER NAME WAS ALMOST SAID OUT LOUD IN A STREET IN FRONT OF ABOUT THIRTY PEOPLE AT `567` AND WAS NOT, AND WHETHER IT IS SAID IS A DECISION AND NOT AN ACCIDENT.****
+
+**ILYAN VESTER, THIRTY-ONE, ABOUT FOUR POUNDS, A BAD LEG, A HAND ON A WALL HE CANNOT TAKE OFF THREE TIMES OVER, FOUR STREETS THAT HAVE A NUMBER HE PUT IN THEM, AND A DATE FIVE DAYS OFF THAT HE HAD NOT WORKED OUT A QUESTION FOR WHEN THE CHAPTER ENDED.** He is Co-Witness. **He is in a fen town where anybody may ask anybody and where he cannot be sent for, and this band is the one in which he has to choose.**
+
+---
+
+## 4. The cards, ten of them, and the discipline on them
+
+**A CARD IS NOT A CHAPTER AND `state/index.md` rule 13 is the receipt. WHEN A CARD AND A CHAPTER DISAGREE ABOUT A NUMBER, A DAY OR A MARKET, WORK THE COUNT OUT LOUD IN THE CHAPTER, IN FRONT OF PEOPLE, IN PENCE OR IN DAYS, AND RECORD THE REFUSAL IN `state/current.md` §0.3.**
+
+**571 — Sunday, the sixth day of the hundred and third week.** **THE FOURTH DAY AFTER THE RISING AND THE THIRD DAY AFTER THE WATER WENT OVER THE COMMON, and the first chapter of a band in which every season in that hundred has already been re-let and nothing has been settled.** The camp on the low common: about eleven tents, two of them still standing on the highest third, a fire in a hole that is out, about fifty-eight people on about eight hundred acres with about nine children under nine and **no licence and no form and no copy of anything anywhere.** **THE BAND'S FIRST QUESTION IS PUT ON THE PAGE BY SOMEBODY AND IT IS NOT THE BRAMBLEFOLD QUESTION: if the licence said *until the water turns* and the water turned, and there is no form that gives one back, then what are fifty-eight people on a common doing this morning, and is that a thing anybody in that county can be sent for about?** Closing object: the ground under about fifty-eight people, and a figure on a wall that describes the edge of it and not the people on it.
+
+**572 — Monday, the seventh and last day of the hundred and third week.** The morrow is the first of the hundred and fourth. **THE HARVEST BEGINS TO BE A FIGURE.** The long grazing of forty-four acres is in season to a man four miles south with about nine acres of new sward in it that a man sowed in March and that went under in April. **The low meadow hay is in a fortnight's cutting and the low meadow is about thirty-one acres and it was under on `568` and about two thirds of it is under again, and the third that is not is a third that a man of fifty-four can mow in the second week with a scythe and about nine men.** Closing object: a figure said out loud in a room that nobody in that room can check, about a number of acres that are not going to be mown.
+
+**573 — Tuesday, the first of the hundred and fourth week.** **THE YARD, THE CARTS, THE FIRST LOAD.** Something is moved. Something is cut. Something is hauled. **A working day on a fen and not a scene in a room, and the chapter has to be a day with mud on it.** A rate is paid by somebody or not paid by somebody, and **a person is worst off who is not the person the band has been watching.** Closing object: whatever went out of a yard and who paid for it.
+
+**574 — Wednesday, the second day of the hundred and fourth week.** **THE REMEDY IS USED OR NOT USED.** Three hundred words with nothing at the top of it lies under an oak bar and anybody may take it and write on the back of it, and **the first person to write on the back of it does something that is not what anybody expected, and it is not sabotage and it is not obedience.** Closing object: the back of a sheet of paper, in a stranger's or a neighbour's hand, with something on it.
+
+**575 — Thursday, the third day of the hundred and fourth week, AND THE NINTH DAY FROM THE RISING.** **THE DAY A WOMAN OF FORTY-ONE GAVE A MAN OF THIRTY-ONE INSTEAD OF A NAME, AND SHE HAS SAID THREE THINGS SHE WILL HAVE DONE AND THE BAND OWES HER ALL THREE.** She goes down to the common and back and sees it herself. She reads everything in that county with the word foot or fifty-eight on it. **And she asks a question out loud in a room where about nine people can be checked against each other, and the question is not the Bramblefold question, and about four people answer it and about nine do not, and nobody is bound by the answer.** Closing object: a question asked on a day that a woman named, and a figure of days that has been carried for five days in a man's head.
+
+**576 — Friday, the market.** About three hundred people, and the second market since the rising. **THE REMEDY IS PUT TO A MARKET AGAIN AND A MARKET IS NOT A MARKET SIX DAYS ON.** What is different about it and what is not. **A THING HAPPENS TO SOMEONE'S SEASON IN THE OPEN AIR AND IT IS DONE TO THEM.** Closing object: a number of people who can repeat what was said and a number of people who cannot be asked about it.
+
+**577 — Saturday, the reading.** The weekly reading again, with a man of about sixty-two holding the slate, **and this time the six challenges are on the wall and about nine people read them before the reading starts.** A document is read out and about nine people say that the reading of it is wrong, **and this time the six are not a stranger's and are not a keeper's and are about a thing the hundred is about to do.** Closing object: a list that a district reads every morning, in which about nine people have put their own ground.
+
+**578 — Sunday, the sixth day of the hundred and fourth week. OR `579` — Monday, the seventh and last day of the hundred and fourth week.** **THE MIDPOINT. IT LANDS IN ONE OF THESE TWO CHAPTERS AND NOWHERE ELSE. THE HOUSEHOLD OF A PERSON WHO HAS BEEN A CO-WITNESS TO HIM IS OUT OF SEASON ON GROUND HIS OWN CARE PUT IN, AND THE HARVEST THAT WOULD FEED THE HUNDRED IS ON GROUND THAT IS IN SEASON TO A MAN OF FIFTY-FOUR, AND HE CANNOT HAVE BOTH, AND HE SAYS SO OUT LOUD, IN A ROOM, IN FRONT OF ABOUT THIRTY PEOPLE, AND THE SENTENCE HE CANNOT UNSAY IS THE VOLUME'S COST.** Closing object: the sentence, in somebody else's mouth by the end of the chapter.
+
+**579 or `580` — the other of the two.** The consequence of the sentence. **NOT A SETTLEMENT. A CONSEQUENCE.** What a hundred of about thirty men does in a room on the day after a man of thirty-one has said a true thing out loud that they cannot all act on. **Bands 0004 and 0005 carry the consequence and the settlement and may not re-spend this, so what happens here is the first of the consequence and not the whole of it.** Closing object: something that cannot be put back.
+
+**580 — Tuesday, the first of the hundred and fifth week.** The band's close, on a decision and not on a resolution. **AND THE THING BAND 0004 HAS TO SPEND IS VISIBLE, UNSPENT, AND NOT YET NAMED AS A CHOICE.** Closing object: a person who has been asked for something and has not said no.
+
+**THE MIDPOINT IS THE HOUSEHOLD OF A PERSON WHO HAS BEEN A CO-WITNESS TO HIM. `578` OR `579`. NOT BEFORE, NOT IN 571–577, AND NOT IN 580.**
+
+**BAND-LEVEL SHAPE: a batch goal (the harvest), a midpoint in the second half (`578` or `579`, on a household and a season and a true sentence), escalation (the remedy used, the market, the reading), and a batch-level climax which IS THE MIDPOINT, because in this band the midpoint and the climax are the same day and that is unusual and it is right.** Alternate the pressure: `571` physical · `572` structural · `573` action · `574` character · `575` political · `576` political · `577` political · `578` or `579` character · the other physical · `580` character. **NOT TEN CHAPTERS OF MEN IN ROOMS.** Band 0002 had four doorways in the dark, a market, a wall read aloud, a rising, a foot of water on a common and a refused name; this band must have mud, a cut, a load, a barn, a scythe and a question asked on a day a woman named.
+
+---
+
+## 5. The figures, and every one of them is a day-count or a chain figure, and none of them may be invented
+
+**THE RATE, and it does not move: 2s 1d = 25d the acre · 210 acres = £21 17s 6d a year · £4 of it a water-clerk's wage · 6 acres = 12s 6d = 150d, and 150d was named out loud at `565` as a year of one ditch · 2 acres = 4s 2d · the four pounds a year unmoved for nineteen years · the low meadow is about thirty-one acres · the low common is about eight hundred acres · the long grazing is forty-four acres in its sixth year with about nine acres of new sward in it · the tent count is eleven and the people on it are fifty-eight and the door count was eleven and the doors are done.** A new figure may be derived FROM these in a mouth and nowhere else.
+
+**ILYAN'S MONEY AT 570 IS ABOUT FOUR POUNDS AND NO CHAPTER SINCE `553` HAS STATED IT, because he has been sleeping in a boat and eating what a man of fifty-eight's kitchen gives him, and a chapter that states a figure for his purse must derive it in a mouth in that chapter and must not contradict `553`.**
+
+**THE DAYS, and the table in §1 is the only source: the rising came on `566` · the water was over the low common on `568` · `575` is the ninth day from the rising and was named as such at `570` · the fever runs 41w 1d to 42w 3d.** A count of how long ago is a day-count. **A forward duration is a duration. The rising is a day of a river and no chapter may give it a date, and there is no number for it any more.**
+
+**CROWDS IN THIS TOWN ARE ABOUT NINE IN A ROOM, ABOUT FOUR IN A ROOM, ABOUT THIRTY IN A HUNDRED, FORTY-ONE IN THE WEIGH-HOUSE AT A RE-LETTING, ABOUT THREE HUNDRED IN A FRIDAY MARKET, AND ABOUT ELEVEN HUNDRED IN THE TOWN.** A crowd is three hundred, or thirty, or nine, or about four. `four hundred` and `nine hundred` are not available and neither is a thousand.
+
+---
+
+## 6. After the band
+
+1. Write the ten chapters, then run `I.run(571,580,vol='volume-12')` and `I.guards(571,580,vol='volume-12')` and the tic list and the meta sweep, **and read every guard hit and every meta hit on the page.**
+2. **Read the closing lines of all ten chapters against each other, in order, once each, and confirm that no two neighbours close on the same inventory. That act is not a gate and a reported pass is worse than no report.**
+3. Check every date line against the table in §1, and every closing fever against its own date line, and **the ordinal in every date line comes off the table and not off the line above it.**
+4. Check every money figure against §5 above, and every day-count against it, and put the figure in a mouth.
+5. Update `state/current.md`, `state/batch-summary.md`, `state/chapter-summaries.md`, `state/character-state.md`, `state/continuity.md`, `state/open-threads.md` and `state/index.md`. **EVERY ONE OF THOSE FILES IS UNDER 60,000 BYTES AND THAT IS A HARD CAP: if a file will pass the cap, MOVE A WHOLE BLOCK TO `reviews/volume-12/` AND DO NOT SUMMARISE IT, because the right thing to lose is a record duplicated whole in a review artifact and the wrong thing to lose is a document table a band may need in order not to contradict itself.** Six blocks were moved at the writing of Batch 0002 and they are listed in `state/index.md`.
+6. **Create EXACTLY ONE next-phase prompt: `workspace/volume-12/batch-0004/PROMPT.md`, and nothing else.** Band 0004 is *the year turns, and the thing the water does* and it carries the consequence of the midpoint and may NOT re-spend it, and it may not answer the Volume 11 question, and it may not name the First Witness.
+7. Do not create, edit or execute `workspace/volume-12/batch-0003/.done`. Do not touch `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`.
+
+**THE ONE THING THIS BAND MUST CARRY OUT OF THE DOOR AND THE NEXT ONE MUST NOT HAVE TO CARRY: a notice on a wall is not a covenant, a covenant is not a remedy, a remedy that nobody was asked about is not a settlement, and a settlement is not the end of anything. Band 0002 made each of the four more expensive and answered none of them. None of the four may be settled in 571–580, and the midpoint must cost somebody a thing they had, and not a thing they had already lost.**
