@@ -98,13 +98,13 @@ Then the question came, from the bottom of the room, and it was not the question
 
 “*Then ask it.*”
 
-“*Ask the stranger whether he is going to be one of us or whether he is going to be four miles south in the water-season. Nine days, and two of us have given him a wall to write on and one has given him a place in this room, and nobody has said which he is.*”
+“*Ask the stranger whether he is going to be one of us or whether he is going to be four miles south in the water-season. Twelve days, and two of us have given him a wall to write on and one has given him a place in this room, and nobody has said which he is.*”
 
 About four seconds went past. About nine people understood the whole of it and about nine heard a question about a season.
 
 “*Say the rest of that, because that is the question as your hundred asks it and it is not the one that was put.*”
 
-“*Then say the one that was put. I have been in nine rooms in nine days and I am the only person in this county who has been given it, and thirty men will hear it here from a water-clerk and not from a stranger in a market.*”
+“*Then say the one that was put. I have been in nine rooms in twelve days and I am the only person in this county who has been given it, and thirty men will hear it here from a water-clerk and not from a stranger in a market.*”
 
 He put his hand on the board on the wall and then took it off. There was nothing written on that board that said he might.
 

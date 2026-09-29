@@ -56,7 +56,7 @@ About four seconds went past and about nine people reading the wall in the morni
 
 “*Say the rest of that, because you came four miles standing in the mud, and I am not sure whether you came to ask me for a thing or to tell me that I was right.*”
 
-“*Both. I came to tell you that you were right, because on Friday I told a stranger that a wall was worse than a sack under a churn, and I have had four days to find out whether it was true, and it is not.*”
+“*Both. I came to tell you that you were right, because on Friday I told a stranger that a wall was worse than a sack under a churn, and I have had five days to find out whether it was true, and it is not.*”
 
 “*Say the rest of that, because you said a sack was worse than a wall and a wall is better and both of those are on your side.*”
 
