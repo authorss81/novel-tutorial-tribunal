@@ -68,7 +68,7 @@ He looked at her for about four seconds and then he said the thing he had come d
 
 “*I have been in this town two days and I have not got it. I have got a piece of it.*
 
-“*I have got that a man of thirty-four in this town is the only person in this county anybody can be sent for. That came out of a man of thirty-one in a smithy a fortnight ago.*”
+“*I have got that a woman of thirty-four in this town is the only person in this county anybody can be sent for. That came off a smithy, and out of a man who cannot be sent for, and I had it four days before I came down your lane.*”
 
 “*And you have come four days on that.*”
 

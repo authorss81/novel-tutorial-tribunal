@@ -18,7 +18,7 @@ She said it at the door of the barn at about the second hour of the afternoon an
 
 “*I am going to stop.*”
 
-Nobody in that yard said anything for about four seconds.
+It took about four seconds in that yard before anybody answered her.
 
 “*Say the rest of it, because you have said the first four words of it in a yard and about four of us have known you for about five weeks and about nine have not.*”
 
@@ -96,7 +96,7 @@ He had been in this town eighty-one years and he had been that person twice and 
 
 “*Who said it to you first.*”
 
-Nobody on that step said anything for about four seconds, and about nine people in that porch heard a man of eighty-one ask a woman of sixty-one a question that four counties of people have never asked her, and about four of them understood that it was the first one.
+It took about four seconds on that step before she answered, and about nine people in that porch heard a man of eighty-one ask a woman of sixty-one a question that four counties of people have never asked her, and about four of them understood that it was the first one.
 
 “*I do not know,*” said Odalie Fenn.
 
@@ -112,7 +112,7 @@ Nobody on that step said anything for about four seconds, and about nine people 
 
 “*Thirty-one times in four years and about nine people at a time, and I have never once been in a room with the woman of sixty-eight, and the second one is in the county that the rest of us cannot be sent for, and the third one is four hundred miles off.*”
 
-Barnaby Rill stood on that step for about four seconds and then he said the thing he had said in a smithy a fortnight ago in a different shape.
+Barnaby Rill stood on that step for about four seconds and then he said the thing he had said in a smithy nine days ago in a different shape.
 
 “*A page cannot be read backwards and a person can, and that is the only thing in that building that is not a page. I have watched four words walk round this town from a pump and I would not tell two women at a pump to stop, because a man of eighty-one telling nine people not to say a thing is the same thing with his name on the end of it.*”
 

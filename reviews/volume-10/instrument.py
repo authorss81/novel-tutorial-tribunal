@@ -57,17 +57,62 @@ SENT = re.compile(r'(?<=[.!?])(?:[”"*]{0,2})(?=\s|$)')
 # wordings a memory-rebuild habitually adds -- a bare 'silence' and a bare 'quiet'
 # -- are NOT wordings of the beat and are printed separately so that the
 # difference between 5 and 7 is visible rather than a mystery.
+# ADDED AT THE REPAIR OF VOLUME 11 BATCH 0004, 531-540, AND IT IS THE FIFTEENTH AND
+# SIXTEENTH TIME THIS LIST HAS BEEN THE WRONG SHAPE, WHICH IS FINDING NINETEEN WITH
+# A NEW TWIST: a list that names ONE venue of a beat and not the other seven will
+# report a band that uses the beat twenty times as a band that uses it seven, and the
+# certificate is then false and it is false in the direction that flatters.
+#   - SILENCE had 'nobody in that room said' and NO other venue, so a band that
+#     writes "Nobody in that smithy said anything" twenty times scored 7 (five of
+#     which were the different beat 'said nothing') and was certified under the
+#     gate. The real figure was 20 across 26,730 words: 7.5 per 10k against a
+#     stated gate of 5.
+#   - TICS had 'the volume' and 'in this volume', and the text said 'of this
+#     volume', which matches neither, so a meta tic in the one file that certifies
+#     the sweep was published at 0. (chapter-0538.md:15, repaired.)
+# THE RULE FOR BOTH LISTS IS NOW WRITTEN DOWN WHERE THE LISTS ARE: a wordings list
+# is a SHAPE AND NOT A READING, and a beat or a tic that can be written in more
+# than one venue has to carry every venue or it will certify the wrong number.
 SILENCE = ['said anything for about a minute', 'did not make a sound',
-           'said anything at all', 'Nobody said anything', 'nobody made a noise',
-           'nobody in that room said', 'the room went quiet', 'went silent',
+           'Nobody said anything', 'nobody made a noise',
+           'the room went quiet', 'went silent',
            'nobody said anything', 'the room was silent', 'made not a sound',
-           'no one said anything', 'made a noise', 'said nothing', 'no sound']
+           'no one said anything', 'made a noise', 'no sound',
+           # the venue variants, which are the same beat and were missing
+           'nobody in that porch said', 'nobody in that lane said',
+           'nobody in that smithy said', 'nobody in that square said',
+           'nobody in that yard said', 'nobody on that step said',
+           'nobody in that room said anything', 'nobody at that table said',
+           # AND THE SAME SEVEN WITH THE CAPITAL, because the count is
+           # raw.count() and it is case-sensitive, so a lowercase key does not
+           # match a sentence that starts a line. This was found by counting the
+           # band a second way, with a pattern, and getting 7 where the list
+           # gave 6. Keep the capital here. Do not "tidy" these away.
+           'Nobody in that porch said', 'Nobody in that lane said',
+           'Nobody in that smithy said', 'Nobody in that square said',
+           'Nobody in that yard said', 'Nobody on that step said',
+           'Nobody in that room said']
+# 'said anything at all' WAS IN SILENCE FOR FOUR BANDS AND HAS BEEN TAKEN OUT,
+# because the sentence it was catching is "Nobody in that room said anything at
+# all", and 'Nobody in that room said' already catches it. It was counting one
+# line twice and the total it printed was a sum with a duplicate in it.
+#
+# THE OTHER BEAT, PRINTED AND NOT GATED, because for four bands the one printed
+# figure was a SUM OF TWO BEATS, and the second of them is a different thing: a
+# person not saying something, which is a fact about a person, and not a room
+# going quiet for about four seconds, which is a fact about a room. The external
+# review of 531-540 said so and was right. They are two lines now and the gate
+# is on the first one only.
+SAIDNOTHING = ['said nothing', 'nothing was said', 'made no answer']
 LOOSE = ['silence', 'quiet']
 CHORUS = ['nobody said anything', 'nobody in that room said', 'no one said anything',
           'the room went quiet', 'went silent', 'without a word']
 TICS = ['do not make it a speech', 'arbiter', 'villain', 'upstairs', 'the volume',
         'in this volume', 'month', 'Nobody said anything', 'Sorry', 'grateful',
-        'thanked', 'autumn', 'spring', 'summer', 'winter', 'the rail', 'First Witness']
+        'thanked', 'autumn', 'spring', 'summer', 'winter', 'the rail', 'First Witness',
+        # every way a chapter may name the book it is printed in
+        'of this volume', 'this volume', 'of the volume', 'the whole volume',
+        'this manuscript', 'in the novel', 'the novel']
 
 
 def blocks(path):
@@ -174,9 +219,12 @@ def run(lo, hi, vol='volume-10', verbose=True):
         print('   straight ASCII apostrophe: %d   do not stop family: %d'
               % (raw.count("'"), len(re.findall(r'do not stop', raw))))
         s14 = sum(raw.count(s) for s in SILENCE)
+        sn = sum(raw.count(s) for s in SAIDNOTHING)
         loose = {s: raw.count(s) for s in LOOSE if raw.count(s)}
-        print(f'   SILENCE: {s14} across the {len(SILENCE)} wordings above; CHORUS subset: '
-              f'{sum(raw.count(s) for s in CHORUS)} (gate under 10 on either)')
+        print(f'   SILENCE: {s14} ({per10k(s14):.1f}/10k) across the {len(SILENCE)} wordings above; '
+              f'CHORUS subset: {sum(raw.count(s) for s in CHORUS)} (gate under 10)')
+        print(f'   SAID NOTHING, the other beat, printed and not gated: {sn} ({per10k(sn):.1f}/10k) '
+              f'across {len(SAIDNOTHING)}')
         print(f'   the two loose wordings, examined and kept: {loose or "none"} '
               f'-- not wordings of the beat')
         print('   PANELS:  ' + (', '.join(f'{f[-8:-3]}={open(f, encoding="utf-8").read().count("**")}**'

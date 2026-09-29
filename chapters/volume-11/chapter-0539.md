@@ -1,4 +1,4 @@
-# Chapter 539: The Second Day Of The Ninety-Ninth Week, And A Wednesday Which Is The Day A Man Of About Seventy-Two Walks Two Miles To Hear One Line Read, And On Which Eight People In A Room With The Door Open Are Asked One At A Time By A Woman Of About Fifty-One In About Four Seconds Each Whether They Will Hold One Of Four Pages, And Four Say Yes And About Four Say No, And A Man Of About Seventy-Two Is Read His Line At The Ninth Hour And Is Not Asked, And A Man Of Thirty-One Is Offered The Ninth And Says Yes In About Four Seconds And Is Refused On His Behalf In About Nine Words
+# Chapter 539: The Second Day Of The Ninety-Ninth Week, And A Wednesday Which Is The Day A Man Of About Seventy-Two Walks Two Miles To Hear One Line Read, And On Which Eight People In A Room With The Door Open Are Asked One At A Time By A Woman Of About Fifty-One In About Four Seconds Each Whether They Will Hold One Of Four Pages, And Four Say Yes And About Four Say No, And A Man Of About Seventy-Two Is Read His Line At The Ninth Hour And Is Not Asked, And A Fifth Sheet Is Written Out With Four Names On It And Offered To A Man Of Thirty-One, And He Says Yes In About Four Seconds, And Is Refused On His Behalf In About Nine Words, And Nobody In That Room Is Holding It
 
 Second day of the ninety-ninth week. His two hundred and eighty-ninth morning. One hundred and thirty-nine days after the settlement. The fever thirty-six weeks and four days. Ninety-three days since the division. Thirty-nine days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
@@ -12,7 +12,7 @@ Nobody in that porch asked him anything else.
 
 That is worth saying exactly.
 
-About nine people in that porch knew that a man of about thirty-one had said out loud, in a room nine feet by seven with the door shut, about four weeks back, that a man who is asked a question and says he does not remember has now been asked.
+About nine people in that porch knew that a man of about thirty-one had been carrying a sentence since a Sunday in the ninety-fourth week and had not said it once. They knew that a woman of about fifty-one had said it out loud in a lane six days ago in about ten words, and that the sentence is that a man who is asked a question and says he does not remember has now been asked.
 
 About four of the nine in that porch understood that the not-asking this morning was an arrangement, and about nine had not.
 
@@ -52,7 +52,7 @@ They were Joe Drury the smith, a man of about fifty at the fire, a woman of abou
 
 Edith Crow gave one, out loud, standing, without being asked, and it was the reason and not a defence.
 
-“*I have four rooms and a yard, and four days ago there was a finding entered about my own objection, and I said no to two thirds of it.*”
+“*I have four rooms and a yard, and sixteen days ago I was told that there was a finding entered about my own objection, and I said no to two thirds of it.*”
 
 “*And that went into a book four hundred and eleven years old with the day I said it on and not the day it was made.*”
 
@@ -76,7 +76,7 @@ The recordwright was at the window and she was not one of the eight, and nobody 
 
 “*And you are not one of the eight, and you have not offered, and about four people in this room noticed and about nine did not.*”
 
-“*I noticed at the fourth asking and I said nothing at the fourth asking, and about four of you noticed me say nothing, and that is four cases in nineteen years out of about nine hundred that I have been the one who has not asked for.*”
+“*I noticed at the fourth asking and I said nothing at the fourth asking, and about four of you noticed me say nothing, and that is one more of about nine cases out of a hundred in nineteen years, and I am not going to rule a line about it.*”
 
 “*That is the fourteenth and you said on Monday that the thirteenth was a man of thirty-one.*”
 
@@ -98,7 +98,7 @@ Then Barnaby Rill said one thing from the chair, and he had not been sent for, a
 
 “*If one of those four houses is emptied, or the woman at the wool bench dies, or the man at the kiln goes to a town four days off, then in about four weeks this arrangement is three houses. In about a year it is a sentence in a smithy.*”
 
-Nobody in that room said anything for about four seconds.
+About four seconds went past in that room and a man of eighty-one was not the only one counting them.
 
 “*And I am eighty-one and I am not asking anybody to do anything about it. There is no form in this county that says a keeper of a book may be asked to plan for a year.*”
 
@@ -106,9 +106,9 @@ Nobody in that room said anything for about four seconds.
 
 ---
 
-Then there was one page left and one person she had not asked.
+Then there was one thing left on that table and one person she had not asked. The thing was a fifth sheet and it was not one of the four. It was a list she had written out that morning with four names on it and four houses under the names and nothing else on it at all.
 
-He was standing at the end of the room with a leg he stands on at an angle and a hundred and thirty-nine days in a country that is not his, and she turned to him and offered him the ninth.
+He was standing at the end of the room with a leg he stands on at an angle and a hundred and thirty-nine days in a country that is not his, and she turned to him and offered him the list.
 
 “*You.*”
 
@@ -120,7 +120,7 @@ It took him about four seconds and it was the fifth time in a hundred and thirty
 
 “*A thing a man who cannot be sent for says yes to is a thing that has a man who cannot be sent for in it.*”
 
-Nobody in that room said anything for about four seconds.
+It was about four seconds before anyone in that room said a word, and a man of eighty-one in the chair was not the only one counting them.
 
 “*Say the rest of it, and say it slower, because about four of the nine people in this room have understood that and about nine have not.*”
 
@@ -132,15 +132,15 @@ Nobody in that room said anything for about four seconds.
 
 “*That is the other kind of safe. It was explained to about nine people in this room on Monday, and about nine of them understood it and about nine did not.*”
 
-“*Then who holds the ninth page.*”
+“*Then who holds the list.*”
 
-“*Nobody. I do not, because I have the four and I am the woman who wrote them out of my own memory and there is no reason on earth why I should also be the one who keeps them.*”
+“*Nobody. I do not. I have the four and I wrote that sheet out this morning. I am the woman who made the four out of my own memory in about four minutes of sitting in a square in a town two days off, and there is no reason on earth why I should also be the one who holds the list of them.*”
 
-She put the ninth page down on the table and did not pick it up again.
+She put the list down on the table beside the four and did not pick it up again.
 
 “*And I have not been asked whether I am enough, and I am not the keeper of a book in this county, and the woman at the wool bench who said in a square on the Thursday that a shelf is a thing a person is responsible for was talking about a person who gets paid for it. I do not get paid for it. Nobody in this county pays anybody for holding a sheet of paper.*”
 
-About four of the nine people in that room understood the whole of that. About nine heard a woman of about fifty-one say that she was not going to keep the ninth page, and that she was not being paid, and that the man of thirty-four’s rule did not apply to her.
+About four of the nine people in that room understood the whole of that. About nine heard a woman of about fifty-one say that she was not going to hold the list, and that she was not being paid for it, and that the man of thirty-four’s rule did not apply to her.
 
 ---
 
@@ -168,4 +168,4 @@ Nobody in that room said anything for about four seconds.
 
 The fever was thirty-six weeks and four days old. Nine people were in a room with the door open, and a woman of about fifty-one asked eight of them in about four seconds each whether they would hold one of four pages. Four said yes and about four said no.
 
-A man of thirty-one was offered the ninth and said yes in about four seconds, and was refused on his behalf in about nine words by a woman who said that a thing a man who cannot be sent for says yes to is a thing that has a man who cannot be sent for in it.
+A man of thirty-one was offered a list of four names and said yes in about four seconds, and was refused on his behalf in about nine words by a woman who said that a thing a man who cannot be sent for says yes to is a thing that has a man who cannot be sent for in it.

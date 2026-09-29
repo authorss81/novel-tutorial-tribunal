@@ -2,9 +2,9 @@
 
 Fourth day of the ninety-eighth week. His two hundred and eighty-fourth morning. One hundred and thirty-four days after the settlement. The fever thirty-five weeks and six days. Eighty-eight days since the division. Thirty-four days since a page was read out in a room with the door shut, in a town two days from where he is standing.
 
-The lane behind the bottom of the town is four feet wide in places because of the garden walls, and about nine of the stones in one stretch of it carry four letters and a stroke cut into the face of them, and nobody in the county of Aldwick can say whose they are.
+The lane behind the bottom of the town is four feet wide in places because of the garden walls. About nine of the stones in one stretch of it carry four letters and a stroke cut into the face of them, and nobody in the county of Aldwick can say whose they are. A man of thirty-one has walked past them on his way up two stairs four times since the Saturday without asking.
 
-A man of thirty-one cannot read them. He has never had them read to him.
+Nobody has ever read them out loud in that lane and there is no form in this county that says a person may be asked what is cut into a stone.
 
 Nobody had asked the woman of about fifty-one for anything in about a year. She had told nobody about the four pages, including the woman she rents the two rooms from, and that woman pays her rent and does not know.
 
@@ -14,7 +14,7 @@ She asked for it at about the fourth hour of the afternoon and she asked for it 
 
 “*I would like the two rooms looked at.*”
 
-Nobody in that lane said anything for about four seconds.
+About four seconds went by in that lane.
 
 “*Say it again slower, because I have understood the words and not the shape of them and there is a difference in a lane.*”
 
@@ -102,7 +102,7 @@ She said it in about four seconds, in a lane, in front of about nine people, and
 
 “*If you do not look then about nine people in this lane will have looked, and one of them will be a man of thirty-four from a town four days off who cannot be sent for either. That is two and not nine.*”
 
-“*And I am one of the two, and you would be the other, and you are the only one of the four of us who is under seventy and the only one of the four of us who cannot be asked.*”
+“*And I am one of the two, and you would be the other, and you and I are the only two of the four of us who cannot be asked whether we looked, and she is the only one of the four of us who can be sent for.*”
 
 About four of the nine people in that lane understood the whole of that and about nine heard a woman say that a man was the wrong kind of second pair of eyes.
 
@@ -118,7 +118,7 @@ And then the man of thirty-four asked the question that about four people in tha
 
 “*Who is it permissible to ask about the four pages they came from?*”
 
-Nobody in that lane said anything for about four seconds.
+About nine people in that lane decided not to ask the question they had all just thought of, and it took about four seconds for all nine of them to decide it.
 
 “*You have all just told me that the second half of that work cannot be done in this county. I have come four days to find out whether there is a way of doing it here that is not a lie, and I am asking a plain question and I would like a plain answer in about four sentences.*”
 
@@ -126,7 +126,7 @@ Nobody in that lane said anything for about four seconds.
 
 “*You wrote it.*”
 
-“*I wrote it on a Thursday a fortnight ago and I did not soften it and I have not softened it since, and about four people in this lane know why and about nine do not.*”
+“*I wrote it fifteen days ago on a Thursday and I did not soften it and I have not softened it since, and about four people in this lane know why and about nine do not.*”
 
 “*Why did you write it.*”
 
@@ -170,7 +170,7 @@ She looked at the man of thirty-four.
 
 “*You will write to me. You said you have met two of them and neither is here. I am not asking you to bring either of them down four days. I am asking you to write, and I am asking you to say in the writing that I did not pay you. There is no form in this county that says what a woman who has four pages may pay a stranger for looking at them.
 
-“*And I would rather it was on paper in a way that can be read.*”*”
+“*And I would rather it was on paper in a way that can be read.*”
 
 “*It can be read. And I would like it written that you asked me and I did not offer.*”
 

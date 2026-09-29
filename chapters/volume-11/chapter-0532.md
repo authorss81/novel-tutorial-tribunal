@@ -50,7 +50,7 @@ Nobody in that porch said anything for about four seconds.
 
 The keeper of the book did not move.
 
-“*Twenty-five days on the Thursday, in a room with the door open, in front of about nine people. And six days since, which is thirty-one. And it is in a book four hundred and eleven years old with a day on it and my name on it, and it says that I said I did not remember.*”
+“*Twenty-six days on the Thursday, in a room with the door open, in front of about nine people. And six days since, which is thirty-two. And it is in a book four hundred and eleven years old with a day on it and my name on it, and it says that I said I did not remember.*”
 
 “*That is what it says.*”
 
@@ -134,7 +134,7 @@ She had come up from the milliner’s with a bundle under her arm that was not t
 
 “*A man who says he does not remember has been asked.*”
 
-Nobody in that lane said anything for about four seconds. About four of the nine people standing in it understood the whole of what had been carried in that sentence and about nine heard a woman say a thing about a man of seventy-two.
+It was about four seconds before anybody in that lane spoke. About four of the nine people standing in it understood the whole of what had been carried in that sentence and about nine heard a woman say a thing about a man of seventy-two.
 
 The man of thirty-one was at the corner of the garden wall and he had been carrying the sentence for twenty-four days.
 

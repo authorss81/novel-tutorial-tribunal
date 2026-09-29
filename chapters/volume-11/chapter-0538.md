@@ -12,9 +12,9 @@ She is paid two shillings a year by each of about sixty households, which is six
 
 The households hold the fold. A hundred and forty acres at four shillings the acre is twenty-eight pounds a year, and the recordwright’s six pounds is a fifth of what the down brings in, and neither of those figures has moved in nineteen years.
 
-A man of eighty-one said in a room in this building in the fourth week of this volume that nobody had ever once asked her whether it was enough, and that he would like it entered that he had said so. Nobody entered it. She did not press it.
+A man of eighty-one said it in a smithy in this town eleven days ago, out of a chair by the fire, and he had not been sent for. What he said was that he had been that person twice in his life and had said nothing both times, and then he said that nobody in this county had ever once asked her whether six pounds a year was enough, and that he would like it entered that he had said so. Nobody entered it. She did not press it.
 
-The man of thirty-one had that in a room in the fourth week. He had carried it for about a hundred and thirty-eight days and he had wanted to ask it in about nine rooms and had asked it in none of them.
+The man of thirty-one had had that for a hundred and thirty-eight days. He had wanted to ask it in about nine rooms and he had asked it in none of them.
 
 ---
 
@@ -72,7 +72,7 @@ About four of the nine people in that smithy understood the whole of that in abo
 
 “*Say it.*”
 
-“*I have not said out loud in nineteen years that nobody has asked me, and I said it in a smithy a fortnight ago to about nine people, and about four of them heard it and about five of them heard a woman being brave. You have just asked me a question about money in a room where nothing has been decided, and that is a different thing and it is the first one anybody has done in nineteen years.*”
+“*I have not said out loud in nineteen years that nobody has asked me, and I said it in a smithy eleven days ago to about nine people, and about four of them heard it and about five of them heard a woman being brave. You have just asked me a question about money in a room where nothing has been decided, and that is a different thing and it is the first one anybody has done in nineteen years.*”
 
 “*Then thank you—*”
 
@@ -96,7 +96,7 @@ She said it again in that smithy at about the fifth hour, in about four sentence
 
 She said them. She said that the only person anybody can be sent for about either of the two accounts is a woman of thirty-four, and that she is the only one, and that nobody has ever asked her what she remembers, and that there is no form in the county of Aldwick that says a person may be asked what they remember.
 
-Nobody in that smithy said anything for about four seconds.
+Nobody moved in that smithy for about four seconds.
 
 “*That is the fourth time anybody has said it and the first time it has been said in a room with about nine people in it, and I would like it noticed which of the two of those it is.*”
 
@@ -126,7 +126,7 @@ Then he looked at the end of the smithy, at the man of thirty-one, and said the 
 
 “*Because she can send me away. If I ask her a question about money and she does not want to answer it in front of nine people, she says *not now, Joe*, and I go and mow a corner, and in about four days she has decided whether she wants to answer it. You have never once in a hundred and thirty-eight days been able to leave a room by being told to.*”
 
-Nobody in that smithy said anything for about four seconds.
+There was about four seconds in that smithy after he said it, and about four of the nine people in it understood the whole of a thing and about nine heard a man say that he was sorry for another man.
 
 “*That is the whole of it and I am sorry for you and I am not going to say that again.*”
 

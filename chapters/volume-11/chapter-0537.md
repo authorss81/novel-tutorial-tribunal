@@ -24,7 +24,7 @@ She read it out standing, in the voice she uses for minutes, and she read it as 
 
 “*The third column is of the fold, and it carries the number of acres of a hundred and forty that a household may put sheep on. A hundred and forty acres at four shillings the acre is twenty-eight pounds a year, and it is divided among about sixty households, and that is the whole of the money this town has and it is not in this book once.*”
 
-Nobody in that room said anything for about four seconds.
+The third column took about four seconds to sit in a room with the door open, and it is the only one of the four that is money.
 
 “*The fourth column is of the ground behind the meeting-house, in feet and inches, going back about two hundred and twenty years. It carries a depth, and it can carry a name, and it can carry a day, and it does not carry the fact that the man is dead, and that is the whole of why a name is in it.*”
 
@@ -36,7 +36,7 @@ About four people in that room understood all four of the four and about nine he
 
 ---
 
-“*The fifth thing was said from a chair by a fire in this building a fortnight ago,*” she said, “*and I am putting it in the list because it is in this building and nobody has entered it.*”
+“*The fifth thing was said from a chair by a fire in this building ten days ago,*” she said, “*and I am putting it in the list because it is in this building and nobody has entered it.*”
 
 Barnaby Rill was in the chair. He had not been sent for and had not been told.
 
@@ -44,7 +44,7 @@ Barnaby Rill was in the chair. He had not been sent for and had not been told.
 
 “*That is two lines in a list and I am not entering either of them,*” said the recordwright.
 
-“*I know you are not. I said it a fortnight ago in a smithy in front of about nine people and about four of them heard the place where it stopped and about nine did not, and the difference is not a thing I can put in a list.*”
+“*I know you are not. I said it ten days ago in a smithy in front of about nine people and about four of them heard the place where it stopped and about nine did not, and the difference is not a thing I can put in a list.*”
 
 ---
 
@@ -153,13 +153,13 @@ She did not sit down.
 
 “*And this county has neither, and I have been the one who has not asked for about nine cases out of a hundred in nineteen years.*”
 
-“*The tenth is a man of forty-four. The eleventh is a woman of about seventy who said no in a lane. The twelfth is a man of about seventy-two who said he did not remember.*”
+“*The tenth is a widow of sixty-eight who came because a man in a chair asked her to come. The eleventh is a boy of fourteen who writes the week. The twelfth is a man of forty-four on a Monday morning. Not one of the three of them is a person I asked.*”
 
 She looked at him and she said the rest of it without any weight on it at all.
 
 “*And the thirteenth is going to be a man of thirty-one who is not a person of this county, and I have had four days to think about whether it has to be a finding at all, and it does not.*”
 
-Nobody in that room thanked anybody. A woman of about seventy-two was not thanked on the twelfth of those, and a man of thirty-one was not thanked on the thirteenth, and about four of the nine people in that room understood that he had not been refused the finding for anything about the finding.
+Nobody in that room thanked anybody. A man of forty-four was not thanked on the twelfth of those, and a man of thirty-one was not thanked on the thirteenth, and about four of the nine people in that room understood that he had not been refused the finding for anything about the finding.
 
 The fever was thirty-six weeks and two days old. Four columns and no fifth were read out in a room eight feet by eleven in front of about nine people.
 
