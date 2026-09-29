@@ -1,12 +1,14 @@
-# Chapter 631: The Third Day Of The Hundred And Twelfth Week, And A Thursday, And On Which A Cart Comes Back Up A Two-Day Road With Four Of Five Sheets Of Deal Still In The County It Went Down To, And On Which A Woman Of Forty-One Who Keeps Two Carts Says Out Loud In Front Of About Nine People A Thing That Was Done In A Room She Was Standing In On Wednesday Evening And Was Not Done Here In Nineteen Years
+# Chapter 631: The Third Day Of The Hundred And Twelfth Week, And A Thursday, And On Which A Cart Comes Back Up A Two-Day Road With Nobody On The Shafts And A Woman Of Forty-One Who Keeps Two Carts Driving It, And On Which That Woman Says Out Loud In Front Of About Nine People A Thing That Was Said Out Loud In A Room In A County Two Days Off On Tuesday Evening By A Woman About Thirty-Eight Who Keeps A Goat And Has Never Been Asked Anything In Her Life, And On Which The Figure Of How Many People Have Read A Copy Comes Back Into A Room And Is Still Not Answerable, And On Which A Man Of Sixty-One Gives The Number Of The Copies Again And Says What It Is A Figure Of
 
 Third day of the hundred and twelfth week. His three hundred and eighty-first morning. Two hundred and thirty-one days after the settlement. The fever forty-nine weeks and five days. One hundred and eighty-five days since the division. One hundred and thirty-one days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The cart came up out of the low place about the ninth hour with one wheel making a noise it had not made on the way down, and the man of forty-one was on the shafts and a woman of forty-one with two carts was alongside with her hand on the top of the sideboard.
+The cart came up out of the low place about the ninth hour with one wheel making a noise it had not made on the way down, and there was nobody on the shafts, and a woman of forty-one with two carts was driving it with a hand on the top of the sideboard and had driven it up two days of a road herself.
 
-They had gone down that road on the Monday morning of the seventh and last day of the hundred and eleventh week with five sheets of deal under a bench in the cart. The road is about two days. On the Wednesday morning a man of sixty-one had said out loud, on a bank, that they were a day and a half into it.
+She had gone down on the Sunday morning, the day the eleven sheets were copied in her own front room, with a cart that had a load on it and one of those sheets under the seat. The road is about two days. She was at the head of a drain in a town two days off in the county of Ashenfield on the Tuesday evening of the hundred and eleventh week, and she turned round at about the fourth hour on the Wednesday morning and came up the cart road with one sheet on the board and four notches cut into the near shaft with a knife.
+
+The other cart went down that road on the Monday morning of the seventh and last day of the hundred and eleventh week with five sheets of deal under a bench in it, and a man of forty-one and a woman of thirty-four were on it, and the road is about two days, and on the Wednesday morning a man of sixty-one had said out loud, on a bank, that they were a day and a half into it, and they are still on it.
 
 Nobody on that road thanked anybody for the going or for the coming back.
 
@@ -24,13 +26,13 @@ Then the woman of forty-one got up off the sideboard and said the thing, and she
 
 About four of the people on that bank understood the whole of it at once. The rest of them heard a woman describe a room.
 
-“*I was in a room on the Wednesday evening at the head of a drain in a town two days off in the county of Ashenfield, and that room has about nine people in it on a Wednesday evening.*”
+“*I was in a room on the Tuesday evening at the head of a drain in a town two days off in the county of Ashenfield, and that room has about nine people in it on a Tuesday evening.*”
 
 “*About nine people in that town have not been in it, and I was one of the nine who was.*”
 
 Nobody on that bank shifted.
 
-“*A man of forty-one stood up and read a copy of that sheet out loud from the first line to the last. He read all of it. It took him about nine minutes and he did not hurry the last four lines.*”
+“*A man of forty-four who keeps a chandler’s shop at the head of that drain stood up and read one of those sheets out loud from the first line to the last. He read all of it. It took him about nine minutes and he did not hurry the last four lines.*”
 
 About four people on that bank counted the two nines against each other.
 
@@ -48,11 +50,11 @@ Nobody on that plank said anything at all.
 
 Then the woman of forty-one gave the name, and she gave it in her own mouth. About four people on that bank had not known it, and about nine had not known that she had it.
 
-“*Her name is Eda Pryce and she is about thirty-eight and she is of that town and she keeps a goat, and about nine people in that room have said her name since Wednesday evening and about nine in that town have not.*”
+“*Her name is Eda Pryce and she is about thirty-eight and she is of that town and she keeps a goat, and about nine people in that room have said her name since Tuesday evening and about nine in that town have not.*”
 
 About four people on that bank wanted the rest of it and were not going to get it in that order.
 
-“*And she is the tenth line on that sheet. The seventh from the after end, counting the twenty-nine and the plank.*”
+“*And she is the tenth line on that sheet, and this town counts its chairs from the after end where the man of thirty-eight reads them, and that makes her the twentieth, and I would like about four of you to have done that in your heads and about nine of you not to have.*”
 
 “*She has a chair in that book in this town and she has never been in it, and she has never been sent for, and there is no form in this county that says a person may be.*”
 
@@ -72,7 +74,7 @@ Then a man of thirty-one asked the question he had come to that bank to ask, and
 
 About four people on that bank had that. The others were looking at the cart.
 
-“*A room at the head of a drain in a town two days off, on the Wednesday evening, with about nine people in it. That is the figure.*”
+“*A room at the head of a drain in a town two days off, on the Tuesday evening, with about nine people in it. That is the figure.*”
 
 “*Nine heads in a room. I counted the ones I could see and I did not count the ones who came in after I did, and about four of the nine had heard a line read before and about nine had not.*”
 
@@ -82,7 +84,7 @@ About four seconds went past.
 
 “*I can tell you about nine people were in a room I stood in, and I cannot tell you one thing about the rest of that county.*”
 
-“*The reason I cannot is that nobody counted a road, and a road is not a room, and that is the whole of what happened to that figure on Wednesday evening.*”
+“*The reason I cannot is that nobody counted a road, and a road is not a room, and that is the whole of what happened to that figure on Tuesday evening.*”
 
 Nobody on that bank thanked her for the number.
 
@@ -92,7 +94,7 @@ Nobody on that bank thanked her for the number.
 
 ---
 
-Then he said the true of it, and it was the fifth time in thirty-one days, and a man of sixty-eight who gave a rule on the Thursday of the tenth week heard it and let it stand.
+Then he said the true of it, and it was the fifth time in thirty days, and a man of sixty-eight who gave a rule on the Thursday of the tenth week heard it and let it stand.
 
 “*A boy of thirteen asked a question in this town on Wednesday morning and nobody in this town answered it, and I did not answer it.*”
 
@@ -102,7 +104,7 @@ Then he said the true of it, and it was the fifth time in thirty-one days, and a
 
 About four people on that bank understood that. The rest of them had a cart to unload.
 
-“*And a woman of forty-one has now been in two rooms in four days in a county I have never been in.*”
+“*And a woman of forty-one with two carts has now been in two rooms in two days in a county I have never been in, and one of the two rooms is nine miles down a road from here.*”
 
 “*In one of them about nine people read a line out loud with my name on it, and in the other a woman of about thirty-eight who has never heard it stood up off a wall and said she had never been asked anything.*”
 
@@ -116,9 +118,11 @@ Nobody on that bank said anything that could have moved him.
 
 Then the man of sixty-one said two numbers out loud at about the eleventh hour, because about nine people had been saying one number all morning and about four had been saying another.
 
-“*Four of the five that went down that road on the Monday are in that county this morning and one is not, and the one that is not is nailed inside the after thwart of this boat where it has been since the Sunday.*”
+“*Five sheets went down that road on the Monday morning in a cart with a man of forty-one and a woman of thirty-four, and the two of them are still on it this morning, and the road is about two days, and I would like about four of you to do that sum and not ask me for it.*”
 
-“*That is eleven and one and one and one and one and one. I am not saying it is seventeen, because eleven of them are copies of a thing that was on a table in a room nine miles off before four of them were wood at all.*”
+“*And I have brought one back up with me this morning, and it is the eleventh of the eleven that were copied on the Sunday, and it is not one of the five.*”
+
+“*And that is eleven and one and one and one. That is fourteen, and it is a figure of wood and not of people, and I said that out loud on the Saturday morning and I am saying it again because about nine of you have been counting sheets all week and about four of you have been counting people.*”
 
 About four people on that bank counted that. Nobody else did.
 
@@ -126,9 +130,9 @@ About four people on that bank counted that. Nobody else did.
 
 “*It is how many people have read one of those sheets, and about nine of us have read one and about four have read two and about nine in this town have read none.*”
 
-“*A woman of forty-one has just given me a ninth figure that is a figure of one room in a town two days off, and I have written it down in my own book in my own hand.*”
+“*And a woman of forty-one has just given me a figure that is a figure of one room in a town two days off, and I have written it down in my own book in my own hand.*”
 
-“*And I would like it said that that is the first time in eleven years I have written down a number that was not a head or a cart.*”
+“*And I would like it said that it is the first time in eleven years I have written down a number that was not a head or a cart.*”
 
 Nobody on that bank thanked him for the nine.
 
@@ -136,7 +140,7 @@ Nobody on that bank thanked him for the nine.
 
 Nobody in Hask was relieved and nobody in Hask was forgiven and nobody in Hask was thanked.
 
-The fever was forty-nine weeks and five days old. He had been in that county seventy-seven days, and a thing that has been argued about in four counties for a week was said out loud in one of them on Wednesday evening by a woman of about thirty-eight who keeps a goat, and who has never been to Hask in her life, and who is not a chair.
+The fever was forty-nine weeks and five days old. He had been in that county seventy-seven days, and a thing that has been argued about in four counties for a week was said out loud in one of them on Tuesday evening by a woman of about thirty-eight who keeps a goat, and who has never been to Hask in her life, and who is not a chair.
 
 And a woman of forty-one brought it up a two-day road on a Thursday morning and said it in front of about nine people and gave the name, and about four people in a town of about eleven hundred had the whole of it before the twelfth hour.
 
@@ -144,4 +148,4 @@ And the number of how many people have read a copy came back into a room for the
 
 And a man of thirty-one did not answer it, and a man of sixty-eight wrote a ninth number of his own in a hand nobody else keeps.
 
-And a cart with one wheel making a noise came up out of the low place on a Thursday morning with four sheets of deal still in the county it went down to, and a tally of four notches cut into the near shaft with a knife, which the man of forty-one cut himself in a room two days off on the Wednesday evening because he wanted a mark on the wood that would say where the thing had got to, and there is a road between that room and that bank and about eleven hundred people have not walked it.
+And a cart with one wheel making a noise came up out of the low place on a Thursday morning with four sheets of deal still in a county two days off, and a woman who keeps two carts drove it up two days of a road herself and would not be thanked for it, and there is a two-day road between the room where a man of forty-four read a sheet of deal out loud on a Tuesday evening and that bank, and about eleven hundred people have not walked it.

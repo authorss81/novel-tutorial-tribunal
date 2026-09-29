@@ -6,7 +6,7 @@ Fourth day of the hundred and thirteenth week. His three hundred and eighty-nint
 
 The Crown sat at about the eighth hour on the Friday morning at the head of the plank, on a board on a barrel.
 
-There were about nine people in it and about thirteen in front of it, and it was four days old and had answered four things and got two of them right.
+There were about nine people in it and about thirteen in front of it, and it was four days old, it had been asked four things in four days, and it had got three of the four right and it could not get the fourth one at all.
 
 Nobody in front of that barrel thanked anybody for the sitting.
 
@@ -52,7 +52,7 @@ About four seconds went past and nobody filled them.
 
 “*And I said it because if nine people can stop a copy then a person can be sent for about having stopped it.*”
 
-“*That was a rule of six days old and it was the best true thing I have said in about four years, and about four of you have it.*”
+“*That was a rule of twenty-two days old and it was the best true thing I have said in about four years, and about four of you have it.*”
 
 About four people in front of that barrel had it. About nine of them had the other half of it.
 
@@ -60,7 +60,7 @@ About four people in front of that barrel had it. About nine of them had the oth
 
 “*And I would like it said out loud in about nine people’s hearing that a Crown can now stop a copy by being asked whether the copy is right.*”
 
-“*And about nine of us said that on the Friday of the eleventh week was a lid with no name on it, and about four of us have not said it since, because a Crown is new and I have not had a Monday about it yet.*”
+“*And about nine of us have said in the last four days that a thing a person can be asked what it says is a lid, and about four of us have not said it since Friday, because a Crown is four days old and I have not had a Monday about it yet.*”
 
 About four people in front of that barrel had the whole of that. About nine of them were still carrying the first half.
 
@@ -96,7 +96,7 @@ About four people in front of that barrel had that. The rest of them had the ree
 
 “*And it does not need a reason, because a reason is a thing a person is asked for and a Crown is not asked for anything.*”
 
-About four seconds went past and nobody filled them.
+About four seconds went past in that room and nobody filled them and the open door let the weather in.
 
 “*So I have got a worse thing than not having a reason.*”
 
@@ -108,7 +108,7 @@ About four seconds went past and nobody filled them.
 
 Nobody in front of that barrel thanked her for nine years.
 
-“*I am not standing up. I said on the Wednesday of the tenth week that I am not going to and I am not going to.*”
+“*I am not standing up. I stood up out of this chair on the Wednesday of the tenth week in the open, and I sat down again on the Tuesday of this week at about the second hour, and I have not been up since, and I am not going to be.*”
 
 “*And about four of you are on my side of that and about nine of you have not thought about it.*”
 
@@ -116,7 +116,7 @@ About four people in front of that barrel had that. About nine of them had a Cro
 
 ---
 
-Then a man of thirty-four spoke from the doorway of an ash on the low side of that landing, where he had been for twenty-nine days.
+Then a man of thirty-four spoke from the doorway of an ash on the low side of that landing, where he had been for thirteen days.
 
 He had not stood up once in any of them, and about four people in front of that barrel knew he was there, and about nine did not.
 
@@ -124,7 +124,7 @@ Nobody sent for him. Nobody asked him to come out.
 
 “*There is a Crown in this town that speaks for people who cannot be asked, and about nine people in this county cannot be asked about anything, and I am one of them.*”
 
-“*And I have been in this ash since the second day of the hundred and twelfth week and I have not stood up in twenty-nine days.*”
+“*And I have been in this ash since the second day of the hundred and twelfth week and that is thirteen days, and I have not stood up in thirteen.*”
 
 About four people in front of that barrel went still. About nine of them did not know where the voice was coming from.
 
@@ -134,7 +134,7 @@ About four people in front of that barrel went still. About nine of them did not
 
 “*And a man of sixty-one wrote my name out loud on the Saturday of the hundred and twelfth week in about nine people’s hearing, because I am a person that cannot be asked.*”
 
-About four people in front of that barrel had that.
+About four people in front of that barrel had that and about nine of them were still carrying the first half of it.
 
 “*And I am going to say one thing from this doorway and then I am going to stop.*”
 
@@ -158,7 +158,7 @@ And the man who gave the rule that made it said so out loud in front of about ni
 
 And a woman of twenty-nine said out loud that a thing in that town will now say what she said on a day, in four counties, without asking her, and that she has got a worse thing than not having a reason, and that there is no person in it to be cross with, and she is not standing up.
 
-And a man of thirty-four spoke from the doorway of an ash where he had been for twenty-nine days without standing up, and he is on no board and in no book, and a woman of twenty-six in another ash told a man of thirty-one no out loud before he had got to the end of a sentence.
+And a man of thirty-four spoke from the doorway of an ash where he had been for thirteen days without standing up, and he is on no board and in no book, and a woman of twenty-six in another ash told a man of thirty-one no out loud before he had got to the end of a sentence.
 
 And the cost of a Crown of about nine people four days old fell in about four places at once in about thirteen people’s hearing, and about four of them said the arithmetic out loud, and about nine of them went home carrying it.
 

@@ -82,7 +82,7 @@ About four people in that bank had the number. About nine of them had nothing el
 
 “*And that is a figure of about two years at one landing, and it is not a figure of what that man owed anybody, and it is not a figure of what he was worth.*”
 
-“*I would like it said that one shilling and sixpence is about a fortnight of bread in a house of four.*”
+“*I would like it said that one shilling and sixpence is about a fortnight of bread in a house of four, and I know that because I have bought it and not because anybody worked it out for me.*”
 
 “*And I have been taking it, and I have bought bread with it, and I am not going to be thanked for it and I am not going to be forgiven for it, and both of those are mine to do and not yours.*”
 
@@ -132,7 +132,7 @@ She said it before he had got to the end of it, out loud, in about thirteen peop
 
 About four people in front of that barrel had expected her to say that. About nine had not.
 
-“*You have not asked a man of sixty-one a question about that book in thirty-one days, and he has not offered it, and there is no form in this county that says either of you may.*”
+“*You have not asked a man of sixty-one a question about that book in thirty-four days, and he has not offered it, and there is no form in this county that says either of you may.*”
 
 “*And if you ask him now, in front of about thirteen people, on a Monday morning, about a dead man’s penny, then the first thing anybody in that town learns about a Crown is that it can be sent for about a man in a book.*”
 

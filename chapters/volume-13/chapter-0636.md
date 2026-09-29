@@ -16,7 +16,7 @@ About nine people were in that yard at about the fourth hour on the Tuesday, and
 
 Everybody in that yard has known that for eleven years, and his name is Simon Rook.
 
-“*Say what you are standing in front of,*” said Garrin Tolley, from the wall, with a slip of board in his coat.
+“*Say what you are standing in front of,*” said Garrin Tolley, from the wall, with a board about nine inches long in his coat and thirty-one notches cut in the edge of it.
 
 “*Because I am going to say a thing out loud in about nine people’s hearing, and about four of you are going to agree with me before I have finished and about nine of you are not.*”
 
@@ -78,7 +78,7 @@ Nobody in that yard moved.
 
 “*It cannot be granted, because about nine people in this world are not in a room where anybody can be sent for about any of it, and about nine people in this county are in no record at all.*”
 
-“*And a hearing that cannot hear a person who cannot be asked is not a hearing about every record. It is a hearing about about nine tenths of them, and it is honest about that.*”
+“*And a hearing that cannot hear a person who cannot be asked is not a hearing about every record. It is a hearing about nine tenths of them, and it is honest about that.*”
 
 “*And the man of thirty-one is the one person in four counties that is in no record at all and is not in a chair and is not in a book, and there is a line about him on a sheet in two places, and about nine people in four counties have read it out loud in about four rooms already.*”
 
@@ -98,9 +98,9 @@ About nine people in that yard had known it and about four had not.
 
 “*That would work.*”
 
-“*I have been poling nine miles twice for about nine days waiting for a way of getting about every record into one room, and there is not one.*”
+“*I have been poling nine miles twice a week since the seventh and last day of the hundred and tenth week waiting for a way of getting about every record into one room, and there is not one.*”
 
-“*And that is the first thing anybody in four counties has put in front of me that is not a lid, and I am a man of thirty-eight who has said yes to about nine things in thirty-one days and about four of them were right.*”
+“*And that is the first thing anybody in four counties has put in front of me that is not a lid, and I am a man of thirty-eight who has said yes to about nine things in thirty-five days and about four of them were right.*”
 
 About four people in that yard had that. Nobody thanked him for the going.
 
@@ -128,7 +128,7 @@ About four people in that yard had been waiting three days for it. About nine ha
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*I want it. I have wanted it for about nine days and I am going to say so out loud in a yard where about nine people can hear me.*”
+“*I want it. I have wanted it for about fourteen days and I am going to say so out loud in a yard where about nine people can hear me.*”
 
 “*And I am saying it before it is offered again and not after, because about four of the people in this yard have watched me do that twice in about ten days and get it wrong both times.*”
 
@@ -136,15 +136,15 @@ About four people in that yard had been waiting three days for it. About nine ha
 
 About four people in that yard had that. About nine of them had the other half of what he had said.
 
-“*A man of sixty-eight put a line about me on a sheet of deal in this yard nine days ago, and I was nine feet off with a hedge on a Monday morning about four hours down this water.*”
+“*A man of sixty-eight put a line about me on a sheet of deal in this yard eight days ago, and I was nine feet off with a hedge on a Monday morning about four hours down this water.*”
 
-“*And I asked out loud in that room on Saturday to be put on the thing at the barrel, and was refused in four sentences in about four years, and the refusal was right.*”
+“*And I asked out loud in that room on Saturday to be put on the thing at the barrel, and was refused in about four sentences, and the reason he gave is about four years, and the refusal was right.*”
 
-“*And I would like it said that the reason I want this is not that a hearing about every record there is is the right thing. I have not worked out whether it is the right thing.*”
+“*And I would like it said that the reason I want this is not that a hearing about every record there is happens to be the right thing. I have not worked out whether it is the right thing.*”
 
-“*The reason is that if a body speaks for me then I am in a room I cannot be sent to, and I have been nobody’s in four counties for thirty-one days, and I have been nobody’s in a way I can check.*”
+“*The reason is that if a body speaks for me then I am in a room I cannot be sent to, and I have been nobody’s in four counties for thirty-five days, and I have been nobody’s in a way I can check.*”
 
-“*And this is the first thing anybody has offered me in thirty-one days that I cannot check, and I want it.*”
+“*And this is the first thing anybody has offered me in thirty-five days that I cannot check, and I want it.*”
 
 About four seconds went past in that yard and nobody filled them.
 
@@ -158,12 +158,12 @@ About four people in that yard understood that. Nobody said anything to it.
 
 ---
 
-The fever was fifty weeks and three days old. He had been in that county eighty-two days, and a man of about fifty-two who cannot see well, whose fifth line is his and not the man of forty-three’s, and who is fifty-two, stood in the yard of a landing nine miles up that water and offered out loud, in the open, in about nine people’s hearing, to have a body of about nine people at a barrel nine miles down the water speak for a man of thirty-one in four counties on a day a person names.
+The fever was fifty weeks and three days old. He had been in that county eighty-two days, and a man of about fifty-two who cannot see well, whose fifth line is his and not the man of forty-three’s, stood in the yard of a landing nine miles up that water and offered out loud, in the open, in about nine people’s hearing, to have a body of about nine people at a barrel nine miles down the water speak for a man of thirty-one in four counties on a day a person names.
 
 And the reason he gave was a woman of forty-nine who came down the road with him four days ago, and who is not in a chair and is not a head in the book of heads and carts, and whom he asked on the Friday what a copy was, and she said she did not know.
 
 And about four people in that yard thought it was a good idea and about nine did not, and a man of thirty-eight said the true of both halves, and a man of thirty-one said out loud that he wanted it before anybody offered it again, and that he was going to say the other half on the Wednesday in a room nine miles down the water where about nine people could hear it.
 
-And at about the sixth hour of that Tuesday a lighter came up to the landing with a man of about thirty-four in it, who has kept that landing nineteen years, and who had come back down the water on the Friday of the previous week to say one sentence and go and take his work up again.
+And at about the sixth hour of that Tuesday a lighter came up to the landing with a man of about forty-three in it, who has kept that landing nineteen years, and who came back down that water on the Tuesday of the last week because there is no form in that county that will let anybody come back and ask him what he meant by it, and who has gone up again on his own account with nobody sending for him.
 
 About four people in that yard had heard about the offer and about nine had not, and about four of the nine could not describe what they had said yes to.

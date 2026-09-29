@@ -62,7 +62,7 @@ He said the reason before he was refused, which is the only reason anybody in th
 
 “*And I am going to say why I want to be on it, and then I am going to be told no, and I am going to hold it.*”
 
-Nobody on that bank moved.
+Nobody on that bank said anything, and the fire in the room at the top of that road was not lit.
 
 “*A man of sixty-eight put a line about me on a sheet of deal in a yard nine miles up this water on the seventh and last day of the hundred and eleventh week.*”
 
@@ -82,7 +82,7 @@ About four seconds went past.
 
 “*If a Crown has a man in it that nobody can be sent for about, then in about four years the Crown and the man are the same thing.*”
 
-“*And a Crown that cannot be asked about what is in it is a lid with a name on it, and I gave that rule fourteen days ago on a Thursday morning and I meant it about a plank.*”
+“*And a Crown that cannot be asked about what is in it is a lid with a name on it, and I gave that rule sixteen days ago on a Thursday morning and I meant it about a plank.*”
 
 “*And I am not going to let a man I like stand in the door of it.*”
 
@@ -108,11 +108,11 @@ About nine people in that bank heard a name they had not known. About four heard
 
 About four people on that bank had heard her say it on the Thursday. Nobody had heard it said back.
 
-“*And a person of thirty-four in the ash on the low side of that landing, who has been in it twenty-one days and has not stood up.*”
+“*And a man of thirty-four in the ash on the low side of that landing, who has been in it since the second day of the hundred and twelfth week, and that is seven days, and he has not stood up once in the seven.*”
 
-“*His name is Ivo Sallow, and he came from a town four days off, and he is not in a chair, and nobody in this town can be sent for about him.*”
+“*His name is Ivo Kellow, and he came from a town four days off, and he is not in a chair, and nobody in this town can be sent for about him.*”
 
-“*About nine people in this town knew that there was a man in that ash, and about four of them knew his name.*”
+“*About four people in this town knew that there was a man in that ash, and about nine of them did not, and about four of those four knew his name.*”
 
 About four people on that bank looked at the ash.
 
@@ -134,17 +134,21 @@ About four people on that bank had expected her to say that. About nine had not.
 
 About four seconds went past.
 
-“*And I am going to give the reason in four sentences and then I am not going to say anything else about it in this town.*”
+“*And I am going to give the reason in about nine sentences and then I am not going to say anything else about it in this town.*”
 
 “*I have said the shape of a different thing three times in about eleven days and I will not say that a fourth, and this is not that.*”
 
 “*About four of you will want it to be that and about nine of you will not.*”
 
-Nobody on that bank moved.
+Nobody on that bank moved, and about four of them looked at the two ashes on either side of that landing and about nine did not.
 
-“*There are two people in this county that nobody can be sent for about at all. One of them is standing on this bank and one of them is in an ash.*”
+“*A man of sixty-one told this bank about an hour ago that there is one person in this county that nobody can be sent for about at all, and he counted the man of thirty-one, and he is right, and I am not going to argue with him about it in front of you.*”
 
-“*I am neither of those. I am a woman of seventy-one who keeps a house that is not hers and has kept it eleven years.*”
+“*There are two more and the two of them are a man of thirty-one standing on this bank and a man of thirty-four in an ash on the low side of that landing, and there is no form in this county that reaches either of them.*”
+
+“*And I am neither of those, and the difference is the whole of my reason.*”
+
+“*I am a woman of seventy-one who keeps a house that is not hers and has kept it eleven years, and in eleven years nobody has come to that door to ask me a question, and there is a difference between nobody coming and nobody being able to come.*”
 
 “*In about four years there will be about nine people in this county that nobody can be sent for about at all, and a Crown of about nine people will want to speak for every one of them, because that is what a Crown is for and I have not got a better account of it than that.*”
 
@@ -156,17 +160,17 @@ A man of thirty-one started to ask her something, and she said no before he had 
 
 About four people on that bank said nothing at all.
 
-“*No. You have asked me four things in about four days and I have answered about four of them, and I am not going to answer a fifth about a thing I have just said the shape of once.*”
+“*No. You have asked me four things in about nine days and I have answered about four of them, and I am not going to answer a fifth about a thing I have just said the shape of once.*”
 
-“*I told a man of thirty-one on the seventh day of the third week that I would not say it a fourth time and I have not.*”
+“*I told a man of thirty-one on the fifth day of the ninth week that I would not put it in a book, and I have not, and that is a different thing and it is still true.*”
 
-“*And a man of thirty-eight has been poling up and down this water with a brother’s name in a coat for nine days, and that is a different thing, and I am not asked about it either.*”
+“*And a man of thirty-eight has been poling up and down this water with a brother’s name in a coat for about twelve days, and that is a different thing, and I am not asked about it either.*”
 
 Nobody on that bank thanked her for the walk up the road.
 
 ---
 
-Then the man of thirty-one said the true of it in about nine sentences, and it was the sixth time in thirty-one days.
+Then the man of thirty-one said the true of it in about nine sentences, and it was the sixth time in thirty-two days.
 
 A woman of twenty-nine who was in the reed caught it in about the fourth and did not stop him, and said out loud why she was not stopping him this time.
 
@@ -176,7 +180,7 @@ A woman of twenty-nine who was in the reed caught it in about the fourth and did
 
 “*A woman of seventy-one walked up a cart road to say she does not want to be spoken for by any of them.*”
 
-“*And a man of thirty-four has been in an ash for twenty-one days and has not stood up and nobody can be sent for about him.*”
+“*And a man of thirty-four has been in an ash for seven days and has not stood up and nobody can be sent for about him.*”
 
 About four people on that bank had the whole of it. The rest of them had a name in a book and nothing else.
 
@@ -186,9 +190,9 @@ About four people on that bank had the whole of it. The rest of them had a name 
 
 Then a woman of twenty-nine said the true of why she was not stopping him. It was three sentences, and about four people in that town had not known any of it.
 
-“*I am not stopping him because he has been stopped four times this week by people in this town, and every one of the four was right.*”
+“*I am not stopping him because he has been stopped twice this week by people in this town, and both times he was right about the rule and both times the person was right and he was the one who had to put it down.*”
 
-“*And a man who is told the true thing by four people in a week, and is wrong in a room about a fifth of the time, is learning something.*”
+“*And a man who is told the true thing about a rule in a room, and is wrong in that room about a fifth of the time, is learning something.*”
 
 “*I have been in a chair for nine years and I have watched about nine people not learn it.*”
 
@@ -204,6 +208,6 @@ And a man of thirty-one asked out loud to be put on it and was refused in four s
 
 And a woman of seventy-one came up that cart road on her own legs for the first time in a fortnight, unasked and unsent for, and gave her reason in four sentences, and the reason is that in about four years a Crown of about nine people will want to speak for every person in that county that nobody can be sent for about, and she would rather be one of the people it does not speak for.
 
-And a man of thirty-four called Ivo Sallow has been in an ash on the low side of that landing for twenty-one days and has not stood up, and there is a name against a chair in that book with nobody in it, and no column anywhere for where he is.
+And a man of thirty-four called Ivo Kellow has been in an ash on the low side of that landing for seven days and has not stood up, and there is a name against a chair in that book with nobody in it, and no column anywhere for where he is.
 
 And a chair in a front room on the low side of that landing has a slate nailed to the frame with no name on it, and the chair itself is not one of the twenty-nine and never was, and there is nothing against it, and there is nothing in the book for it, and there is going to be nothing in the book for it.

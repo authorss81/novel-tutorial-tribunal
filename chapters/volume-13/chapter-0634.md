@@ -38,7 +38,7 @@ Then she asked it, and the ground was said before the name, the way every line o
 
 “*The last line on that sheet. The thirty-second.*”
 
-“*A man of about thirty-four called Wren Sayer, gone up the water in a lighter about eleven years ago and not heard of since, with a chair at the other end of the same book.*”
+“*A man called Wren Sayer, gone up the water in a lighter about eleven years ago and not heard of since, with a chair at the other end of the same book.*”
 
 “*No household of his in this county, and nobody nine miles off can be sent for to ask him whether he would like to be on a Crown.*”
 
@@ -126,11 +126,11 @@ He did it in front of about nine people.
 
 “*A Crown that cannot answer for the eleven people a person in this town cannot be checked against is a Crown that is not worth a barrel.*”
 
-“*And the man of thirty-eight has just put his hand on one of those eleven and agreed to half of it, and a Crown of about nine people at a barrel in a town of about eleven hundred is going to be asked about about eleven people inside a year.*”
+“*And the man of thirty-eight has just put his hand on one of those eleven and agreed to half of it, and a Crown of about nine people at a barrel in a town of about eleven hundred is going to be asked about eleven people inside a year.*”
 
 “*Then say the rest of that and do not be sorry for me,*” said Ilyan.
 
-“*And that is one true thing about one half of that room, and I would like it said out loud that it is the seventh time in thirty-one days, and that about four of you have been counting and about nine have not.*”
+“*And that is one true thing about one half of that room, and I would like it said out loud that it is the seventh time in thirty-three days, and that about four of you have been counting and about nine have not.*”
 
 “*And I am not going to stop saying them because I have been caught seven times.*”
 

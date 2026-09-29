@@ -10,7 +10,7 @@ About four of them had not been in that room since Saturday.
 
 Nobody in that room thanked anybody for the walking.
 
-There is no other table in Hask, so the board went on the barrel. It is the same board a boy of eleven has copied half a sheet of deal on, twice.
+There is no other table in Hask, so the board went on the barrel. It is the same board a boy of eleven copied a whole sheet of deal on in a front room on the Sunday, and it is about four feet by a foot and four inches, which is the size of the thing it is being used to hold.
 
 About four people in that room noticed that. About nine had not.
 
@@ -36,11 +36,11 @@ Nobody in that room shifted.
 
 About four people in that room counted that against each other.
 
-“*About nine is a figure of what about nine people have said. It is not a figure of what anybody thinks, and I said on the Thursday of last week that that is the rule in this town and I have not said anything different since.*”
+“*About nine is a figure of what about nine people have said. It is not a figure of what anybody thinks, and I said on the Thursday of last week that this is the rule in this town and I have not said anything different since.*”
 
 “*About four is a figure of about four people who have been in that room since the fourth hour this morning and have not been able to put the thing in a sentence.*”
 
-“*About two of those four are thirteen, and one of them is twenty-nine, and about nine of the rest are not going to be asked about it because they are not in the room.*”
+“*About two of those four are not in a chair and are not in a book, and one of them is twenty-nine, and about nine of the rest are not going to be asked about it because they are not in the room.*”
 
 Nobody in that room thanked him for the smaller number.
 
@@ -74,9 +74,15 @@ Nobody in that room said anything about the penny.
 
 “*And Ada Renk, sixty-four, who was in that book when she was forty-five and got up out of it in the open nineteen years ago.*”
 
-“*She is the only one of the nine who can say what a chair is from the outside of one.*”
+“*She is the only one on that board who can say what a chair is from the outside of one, and she got out of one nineteen years ago in the open and there is no column in that book for the getting out.*”
 
 About four people in that room did not know her. About nine of them had seen her at a fair at a crossroads four miles off.
+
+“*Otho Pyle, forty-five, and the smithy at the top of that drain, and he has been in that room nine times since Saturday and has not said a word in any of them.*”
+
+“*I would like about four of you to notice that a man who says nothing has his name on the board with eight people who talk on it.*”
+
+Nobody in that room said anything about that either.
 
 ---
 
@@ -96,7 +102,7 @@ About four seconds and the fire in that room went on not being lit.
 
 About four people in that room had that, and had been there when she said it.
 
-“*That was nine days ago and I have not changed my mind and I am not going to be asked to be in a thing that says what a record says in about nine people’s hearing.*”
+“*That was four days ago and I have not changed my mind and I am not going to be asked to be in a thing that says what a record says in about nine people’s hearing.*”
 
 Nobody in that room said a word about her nineteen years.
 
@@ -106,7 +112,7 @@ Then a man of sixty-eight said the consequence out loud, in four sentences, and 
 
 “*And about nine people in a room have just built a thing that no form in this county reaches.*”
 
-“*I am not saying that is wrong. I gave a rule fourteen days ago that says a thing that is not a chair can be a thing a person is sent for about, and I meant it about a plank.*”
+“*I am not saying that is wrong. I gave a rule fifteen days ago that says a thing that is not a chair can be a thing a person is sent for about, and I meant it about a plank.*”
 
 “*And about nine of you have taken it further than I meant it, and I am not going to take it back because of a woman of forty-four.*”
 
@@ -126,7 +132,7 @@ About four people in that room counted that, and about nine of them had heads an
 
 “*A Crown costs none of the thousand and forty, because there is no form in this county that says a person may be paid for standing at a barrel.*”
 
-“*I would like it said that that is not an advantage. It is a nothing, and I have been treating a nothing as a reason for a fortnight and I am not going to do it twice.*”
+“*I would like it said that this is not an advantage. It is a nothing, and I have been treating a nothing as a reason for eleven years and I am not going to do it twice.*”
 
 Nobody in that room thanked him for the sum.
 
@@ -136,7 +142,7 @@ Then the name was settled, by a person who was not going to be in the thing and 
 
 About four people in that room had been waiting since the fourth hour for somebody to say the word that had been going round all morning.
 
-Marda Vell was in the ash. She had been in the ash twenty-one days and had not stood up once and had not gone back to the reed.
+Marda Vell was in the ash. She had been in it nine years and had not stood up once in nine years and had not gone back to the reed since the Tuesday of the last week.
 
 She came to the door of that room at about the seventh hour and did not come further in.
 
@@ -204,7 +210,7 @@ About four people in that room said something at once. Nobody said anything abou
 
 ---
 
-The fever was forty-nine weeks and six days old. He had been in that county seventy-eight days, and about nine people in a front room on the low side of a landing built a body that may speak for a person who cannot be asked, out of a board, a barrel and a rule fourteen days old.
+The fever was forty-nine weeks and six days old. He had been in that county seventy-eight days, and about nine people in a front room on the low side of a landing built a body that may speak for a person who cannot be asked, out of a board, a barrel and a rule fifteen days old.
 
 And the woman who keeps the book said no to it in four sentences, and the man who gave the rule said the consequence out loud and did not take the rule back.
 

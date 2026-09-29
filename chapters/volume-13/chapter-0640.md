@@ -30,9 +30,9 @@ About four of them had it in a different shape, and nobody in that room said any
 
 Then a man of thirty-eight said the tenth reading out loud, because nobody had asked him to, and he wanted it said in the open that he was not going to be asked.
 
-“*Thursday was the ninth reading in a fortnight and the ninth one they agreed.*”
+“*Thursday was the fourth time the two of them have been in a room together, and the fourth time they have agreed, and the first of the four was on a Monday in this town, and about four of you have been on that deck for every one of the four and about nine have not.*”
 
-“*Next Thursday is the tenth, and I am going up in the Gull at about the fifth hour with that sheet in a coat, and I am coming down at about the ninth.*”
+“*Next Thursday is the fifth, and I am going up in the Gull at about the fifth hour with that sheet in a coat, and I am coming down at about the second hour of the afternoon.*”
 
 “*About four of you can come and watch me do it and about nine of you will not, and I am not going to stand here and ask any of you to.*”
 
@@ -56,7 +56,7 @@ About four people in that room had noticed that. About nine had not.
 
 “*Because on the Monday of the hundred and eleventh week a man of thirty-eight asked in a yard nine miles up this water for a hearing about every record there is to be read in one room, the ones that disagree with each other especially.*”
 
-“*And it is now the ninth day, and nobody granted it and nobody refused it and nobody has written it down.*”
+“*And it is now the twelfth day, and nobody granted it and nobody refused it and nobody has written it down.*”
 
 “*About nine people in four counties have heard about it and about four of them can say the whole of it.*”
 
@@ -66,7 +66,7 @@ Then the woman of forty-four said why it is not in her book, and it was four sen
 
 About four people in that room had heard the shape of it before. About nine had not.
 
-“*I have been asked three times this week whether I will put it in, and I have said no three times, and the reason is the reason I gave on the Thursday of last week.*”
+“*I have been asked three times since the Friday of last week whether I will put a hearing in that book, and I have said no three times, and the reason is the reason I gave on that Friday and I am not going to give it again.*”
 
 “*If a thing anybody can be sent for about is a thing that can be sent for, then a hearing that nobody granted and nobody refused is a thing with no person on either side of it.*”
 
@@ -130,7 +130,7 @@ He had not yet worked out that he was the one being spoken to.
 
 “*And I would like it said out loud in about nine people’s hearing that a woman of forty-four has told this room what happens when a keeper of a book says a thing in the open.*”
 
-“*And that it is the position of the record, and you have been in four rooms in thirty-one days where you were the record, and about nine people carried it out of the room in a different shape.*”
+“*And that it is the position of the record, and you have been in four rooms in thirty-nine days where you were the record, and about nine people carried it out of the room in a different shape.*”
 
 Four of them in that room understood that. Nobody else said anything. Nobody filled the four seconds after it.
 
@@ -144,11 +144,11 @@ About four seconds, and then a bench creaked outside.
 
 “*I am going to ask one thing and I am going to ask it once and I am not going to ask it again this week.*”
 
-“*And it is not about me, and it is not about the man of thirty-four who said four words in a yard, and it is not about the woman of thirty who went four days up the water.*”
+“*And it is not about me, and it is not about the man of thirty-eight who said four words in a yard, and it is not about the woman of thirty who went four days up the water.*”
 
 “*And I would like about four of you to notice that I have said what it is not about before I have said what it is about.*”
 
-About four people in that room had that. About nine of them had only the voice.
+About four people in that room had that in front of them. About nine of them had only the voice and not the shape of what it was about.
 
 “*If a Crown speaks for a person, is that person owed a copy of what it said about them.*”
 
@@ -170,6 +170,6 @@ And the woman who keeps the book has been asked three times this week and has sa
 
 And a figure was said out loud on a Saturday morning in about nine people’s hearing: about nine of about eleven people who come up that plank in a working week are on that board, and it is a figure of one week at one plank and not a figure of a county and not a figure of a year, and a year in that county is the time between one crossing of a block of limestone and the next, and nobody in that room knows when that is.
 
-And a man of thirty-four asked, out loud, once, from the doorway of an ash where he has been for twenty-nine days without standing up, whether a person who is spoken for is owed a copy of what it said about them.
+And a man of thirty-four asked, out loud, once, from the doorway of an ash where he has been for fourteen days without standing up, whether a person who is spoken for is owed a copy of what it said about them.
 
 About nine people in that room heard the question and about four of them understood all of it, and nobody in that room answered it, and a man of thirty-eight is going up the water again on Thursday with a sheet of deal in a coat.

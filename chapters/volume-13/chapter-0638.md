@@ -10,7 +10,7 @@ About nine people got off that plank. About four of them went up the bank and ab
 
 A man of thirty-eight went up the water in the Gull at about the fifth hour with a sheet of deal in a coat, and did not say out loud what he was doing.
 
-He has said it out loud every time for about nine days, and about nine people in that town have it by now.
+He has said it out loud every time for about ten days, and about nine people in that town have it by now.
 
 Nobody on that plank thanked him for the going.
 
@@ -26,7 +26,7 @@ About four people on that bank had that. Nobody answered him.
 
 “*And if nobody answers me I am going to do it anyway and say out loud that nobody answered.*”
 
-“*Because there is no form in this county that says he may not, and I have been treating a nothing as a reason for about a fortnight, and a man of sixty-one said that out loud on the Monday of the last week and about nine of us heard it.*”
+“*Because there is no form in this county that says he may not, and I have been treating a nothing as a reason for about two years, and a man of sixty-one said that out loud on the Monday of this week and about nine of us heard it.*”
 
 About four minutes went past and nobody answered and nobody said no, and about nine people in that town watched a man of sixty-one cut a column into the back of a leaf.
 
@@ -48,13 +48,13 @@ Then a man of thirty-one offered to be the one who goes up the water, and the of
 
 About four people on that bank had that. About nine of them had not known it was anybody’s reason at all.
 
-“*A slip of board in a coat is how a record is checked. That is the whole of it.*”
+“*A board about nine inches long with a notch cut in it for every line is how a record is checked. That is the whole of it.*”
 
-“*You wrote a rule that the two copies are read against each other once a week, and if they do not agree then the thing is not true, and the slip is how the two are compared when they are nine miles apart in two yards.*”
+“*You wrote a rule that the two copies are read against each other once a week, and if they do not agree then the thing is not true, and I have cut a notch for every line every week since, and a notch is a thing I can hold in my hand and you cannot.*”
 
 “*And a man of sixty-eight has been standing behind that rule since the Thursday of the tenth week.*”
 
-“*If the man who carries the slip is a man nobody can be sent for about, then in about four years the slip and the man are the same thing.*”
+“*If the man who carries the board is a man nobody can be sent for about, then in about four years the board and the man are the same thing.*”
 
 “*And a record that is checked by a person it cannot reach is a record it cannot be wrong, and a record that cannot be wrong is a lid.*”
 
@@ -64,13 +64,13 @@ About four people on that bank understood every word of that. About nine of them
 
 “*You may read them out. You may stand nine feet off with a knife. You may carry a sheet as far as the end of that bank.*”
 
-“*You may not be the one who carries the slip, and I am sorry about it and I am not going to soften it, and about four of you have seen me say that sentence to somebody before.*”
+“*You may not be the one who carries the board, and I am sorry about it and I am not going to soften it, and about four of you have seen me say that sentence to somebody before.*”
 
 Nobody on that bank said a word that could have moved him.
 
 ---
 
-Then he went, and got in at about the ninth hour, and put a slip of board on the barrel in front of about nine people without saying a word about where it had been.
+Then he came back down, and got in at about the second hour of the afternoon, and put a board about nine inches long on the barrel in front of about nine people without saying a word about where it had been.
 
 The two copies were read against each other on the deck of the Gull in the open, in about nine minutes, line against line, name against name, day against day.
 
@@ -84,11 +84,11 @@ Nobody in front of that barrel thanked him for nine miles.
 
 “*And about nine people in a town of about eleven hundred have never once read a line of them against another line.*”
 
-About four people in front of that barrel had done it once, on the Monday of the seventh and last day of the hundred and eleventh week.
+About four people in front of that barrel had done it in a room three times, on the three Mondays since the man of sixty-eight gave the rule, and about nine of them had never seen it done at all.
 
-It had been the first time in a fortnight that the rule had ever been worked.
+It was the first time in nineteen years that anybody had done it on a day that was not a Monday.
 
-Then a man of thirty-one read the thirty-first line out loud against a slip of board.
+Then a man of thirty-one read the thirty-first line out loud, and a man of thirty-eight cut the thirty-first notch in the edge of the board, and about nine people in front of that barrel watched him do it.
 
 About nine people in front of that barrel heard a line about him say the same thing twice in about nine minutes, and about four of them had heard it three times in four counties.
 
@@ -98,13 +98,13 @@ Then a man of thirty-eight said the result, and he said it in four sentences, an
 
 “*Thirty-two lines on both of them. The thirty-second is the thirty-second on both of them. The thirty-first is the thirty-first on both of them.*”
 
-“*And it is the same day and the same Monday on both of them, and I wrote it with a knife out of a whittling block in that yard on the Monday of the eleventh week at about the third hour.*”
+“*And it is the same day and the same Monday on both of them, and a man of forty-three wrote it with a knife out of a whittling block in that yard on the Monday of the eleventh week at about the second hour, and I read the whole sheet out loud after him in about nine minutes.*”
 
 “*And I read it in that yard this morning with about nine people standing about, and about four of them heard it and about nine did not.*”
 
 About four people in front of that barrel counted that. Nobody else did.
 
-“*They agree. That is the ninth reading in a fortnight and the ninth one they have agreed.*”
+“*They agree. And that is the fourth time the two of them have been in a room together, and the fourth time they have agreed, and the first of the four was on a Monday in this town and there was not one person standing on that deck who had ever seen it done.*”
 
 “*And it took me about nine hours of a boat and a pole and about nine minutes of reading, and nobody has ever once asked me to do it, and nobody is going to, and I am not going to be thanked for it and I am not going to stop.*”
 
@@ -140,7 +140,7 @@ Nobody in front of that barrel thanked her for the sum.
 
 ---
 
-The fever was fifty weeks and five days old. He had been in that county eighty-four days, and a rule a man of sixty-eight gave on the Thursday of the tenth week, that two copies are read against each other once a week in the open and if the two do not agree then the thing is not true, is worked in that county by one man with a boat and a pole and a slip of board in a coat.
+The fever was fifty weeks and five days old. He had been in that county eighty-four days, and a rule a man of sixty-eight gave on the Thursday of the tenth week, that two copies are read against each other once a week in the open and if the two do not agree then the thing is not true, is worked in that county by one man with a boat and a pole and a board about nine inches long in a coat.
 
 It was worked twice on a Thursday, nine miles up the water in a yard and nine miles down it on a deck, in about nine minutes each, and the two agree.
 
@@ -148,6 +148,6 @@ And a man of sixty-one cut a column about four inches wide and about nine inches
 
 And the column has a number in it and it is a number of people and not of heads and not of carts.
 
-And a man of thirty-one was refused the slip of board in about four sentences on the ground that a record checked by a person it cannot reach is a record it cannot be wrong, and a record that cannot be wrong is a lid, and that reason is a man of sixty-eight’s reason and it has not been taken back.
+And a man of thirty-one was refused the board in about four sentences on the ground that a record checked by a person it cannot reach is a record it cannot be wrong, and a record that cannot be wrong is a lid, and that reason is a man of sixty-eight’s reason and it has not been taken back.
 
-And at about the tenth hour of that Thursday a slip of board was lying on a barrel in the open with thirty-two lines on it in a hand nobody in that county makes, and about four people in a town of about eleven hundred had held it in their hands that day, and about nine had not, and about nine miles up that water there was a yard where the other half of that comparison had been made at about the seventh hour by the same man.
+And at about the second hour of the afternoon a board about nine inches long was lying on a barrel in the open with thirty-two notches cut in the edge of it, and about four people in a town of about eleven hundred had held it in their hands that day, and about nine had not, and about nine miles up that water there was a yard where the other half of that comparison had been made at about the ninth hour by the same man.

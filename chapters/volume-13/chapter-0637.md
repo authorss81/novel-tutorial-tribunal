@@ -1,4 +1,4 @@
-# Chapter 637: The Second Day Of The Hundred And Thirteenth Week, And A Wednesday, And On Which A Man Of Thirty-One Answers Out Loud, In A Room With The Door Open, In Front Of About Nine People, An Offer Made Nine Miles Up The Water On The Tuesday By A Man Of Fifty-Two Who Cannot See Well, And Says No To It In About Nine Sentences, And Of Those Nine About Four Are Against Him And About Four Are For Him And About One Of The Nine Has Been Waiting Nine Days To Be Asked A Question, And On Which A Name Is Said Out Loud For The First Time In That County And Nothing Whatever Happens
+# Chapter 637: The Second Day Of The Hundred And Thirteenth Week, And A Wednesday, And On Which A Man Of Thirty-One Answers Out Loud, In A Room With The Door Open, In Front Of About Nine People, An Offer Made Nine Miles Up The Water On The Tuesday By A Man Of Fifty-Two Who Cannot See Well, And Says No To It In About Nine Sentences, And Of Those Nine About Four Are Against Him And About Four Are For Him And About One Of The Nine Has Been Waiting Seven Days To Be Asked A Question, And On Which A Name Is Said Out Loud For The First Time In That County And Nothing Whatever Happens
 
 Second day of the hundred and thirteenth week. His three hundred and eighty-seventh morning. Two hundred and thirty-seven days after the settlement. The fever fifty weeks and four days. One hundred and ninety-one days since the division. One hundred and thirty-seven days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -54,13 +54,13 @@ About four people in that room understood that.
 
 “*And a thing that people act on and cannot be sent for about is a lid with a name on it.*”
 
-“*And a man of sixty-eight said that on the Friday of the eleventh week in about nine people’s hearing and said it in about nine sentences and was right, and I have been on the wrong side of it for nine days.*”
+“*And a man of sixty-eight said that on the Friday of the eleventh week in about nine people’s hearing and said it in about nine sentences and was right, and I have been on the wrong side of it for twelve days.*”
 
 “*And I would like it said that I knew I was on the wrong side of it at about the ninth minute of the offer.*”
 
 Nobody in that room said anything to that.
 
-“*And the second half of it is about me and I have been putting it off for nine days and I am putting it off now.*”
+“*And the second half of it is about me, and I said in a yard yesterday that I would say it here today, and about nine people in that yard are waiting to find out whether a man says a thing when he has said he will.*”
 
 About four seconds went past.
 
@@ -68,7 +68,7 @@ About four seconds went past.
 
 “*And I am the one person in four counties that nobody can be sent for about at all, and if a Crown speaks for me then it is speaking for a person it can never be asked.*”
 
-“*And about nine days ago I stood on a bank in this town and said out loud that I wanted to be findable, and I have had nine days to find out that wanting to be findable and being findable are two different things.*”
+“*And four days ago I stood on a bank in this town and said out loud that I wanted to be findable, and I have had four days to find out that wanting to be findable and being findable are two different things.*”
 
 “*And the difference is about four years, and it is the difference a man of sixty-eight put his hand on and would not give back.*”
 
@@ -104,7 +104,7 @@ About four seconds went past and nothing said and nothing happened, and the fire
 
 “*That is the name of the thing that said its own name in a weigh-house nine miles up this water about eleven days ago in front of about four people.*”
 
-“*A man of forty-three read that line out loud in this county on the Friday of the eleventh week, and then a man of thirty-four said four words in a yard on the Monday.*”
+“*A man of forty-three read that line out loud in this county on the Friday of the eleventh week, and then a man of thirty-eight said four words in a yard on the Monday.*”
 
 “*And about four people in this room have had those four words since before I came into it.*”
 
