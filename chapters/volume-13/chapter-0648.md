@@ -4,7 +4,7 @@ Sixth day of the hundred and fourteenth week. His three hundred and ninety-eight
 
 ---
 
-The town does not sit on a Sunday. About nine people came up that cart road anyway at about the fourth hour, because a Crown eight days old is a thing people come to look at whether it sits or not.
+The town does not sit on a Sunday. About nine people came up that cart road anyway at about the fourth hour, because a Crown sixteen days old is a thing people come to look at whether it sits or not.
 
 The board was still on the barrel, and the nine names were under it, and the bench against the gunwale of the Gull was empty, and a sheet about four feet by a foot and four inches was on the board, and there was ink on the sill of that room where a boy of thirteen had been mending a letter on Wednesday.
 
