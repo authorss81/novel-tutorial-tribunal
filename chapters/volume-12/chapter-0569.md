@@ -1,4 +1,4 @@
-# Chapter 569: The Fourth Day Of The Hundred And Third Week, And A Friday, And Which Is The Market Day, And The First Market Held In That Town In Six Days Is Held In A Green With About Three Hundred People In It And Standing Water On The Low Side Of It And About Nine Stones Moved Up From The Standing Water And Nine Not Moved, And A Remedy Is Put To A Market And Is Different From The Same Remedy Put To A Room, And About Nine Of About Three Hundred People Can Repeat It Afterwards And About Two Hundred And Ninety-One Cannot Be Asked About It
+# Chapter 569: The Fourth Day Of The Hundred And Third Week, And A Friday, And Which Is The Market Day, And The First Market Held In That Town In Three Days Is Held In A Green With About Three Hundred People In It And Standing Water On The Low Side Of It And About Nine Stones Moved Up From The Standing Water And Nine Not Moved, And A Remedy Is Put To A Market And Is Different From The Same Remedy Put To A Room, And About Nine Of About Three Hundred People Can Repeat It Afterwards And About Two Hundred And Ninety-One Cannot Be Asked About It
 
 Fourth day of the hundred and third week. His three hundred and nineteenth morning. One hundred and sixty-nine days after the settlement. The fever forty weeks and six days. One hundred and twenty-three days since the division. Sixty-nine days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -54,7 +54,7 @@ Nobody in that market thanked anybody.
 
 “*Say the rest of that, because a man does not stand in a market with paper and then not read it.*”
 
-“*I am going to read four sentences of it. Then I am going to give the sheet to the woman at the step, and she can read it or burn it. About nine of you can have it after me. About two hundred and ninety-one will have the four sentences and no more, and that is the same as everything else that has happened in this county for nine days.*”
+“*I am going to read four sentences of it. Then I am going to give the sheet to the woman at the step, and she can read it or burn it. About nine of you can have it after me. About two hundred and ninety-one will have the four sentences and no more, and that is the same as everything else that has happened in this county for fifteen days.*”
 
 “*Say the four sentences first, then, because you have made a thing of giving it away and about four of us have already walked over here for the thing and not for the paper.*”
 
@@ -70,11 +70,11 @@ That the number of boards in a gate is the number of boards in a gate, and that 
 
 And that a number written on a wall about a piece of ground that belongs to nobody is not a number of people. On Wednesday morning there was a number of people written in the taking column of that line, and about thirty people went down onto a common on the strength of a number, and about four of them got an old woman and a boy of nine out of a line of tent-pegs.
 
-Nobody in that market said anything for about four seconds.
+Nobody in that market said anything, and the barrow went on standing in the wet.
 
 “*Say the rest of that, because you have read out four sentences on a green and three of them are about things that have happened and one of them is a thing you have found out about a record, and nobody has said anything about the first three.*”
 
-“*The first three are because a hundred of about thirty men cannot do anything about any of them. I have been in this county nine days and I have tried all three in about four rooms. The fourth is the only one of the four that a thing written down can do anything about.*”
+“*The first three are because a hundred of about thirty men cannot do anything about any of them. I have been in this county fifteen days and I have tried all three in about four rooms. The fourth is the only one of the four that a thing written down can do anything about.*”
 
 “*Say the rest of that, and then say what a remedy is, because you have called it one and it is not a rule and it is not a covenant and it is not a form.*”
 
@@ -96,29 +96,29 @@ Nobody in that market thanked anybody and nobody in that market was sorry for an
 
 ---
 
-Then a woman of about thirty-eight with a barrow and a boy of about four came through the middle of it. She had been at a gate on a towpath nine days ago and had said a sentence that a man had written down in his own head. She said it again here and did not know that anybody had ever heard it.
+Then a woman of about thirty-eight with a barrow and a boy of about four came through the middle of it. She had been at a gate on a towpath thirteen days ago and had said a sentence that a man had written down in his own head. She said it again here and did not know that anybody had ever heard it.
 
 “*He cannot be stopped and he can be asked.*”
 
 About four people in that market turned round.
 
-“*Say the rest of that, because you have said nine words at a market that a woman said at a gate nine days ago, and about nine people here have heard you and about nine have not, and I do not want you to repeat her to me.*”
+“*Say the rest of that, because you have said nine words at a market that a woman said at a gate thirteen days ago, and about nine people here have heard you and about nine have not, and I do not want you to repeat her to me.*”
 
-“*I am not going to repeat her. She said it nine days ago at a gate and I wrote it down in my own head, which is the only place I have ever been able to keep anything, and I have not said it out loud to anybody since and I am not going to start at a market.*”
+“*I am not going to repeat her. She said it thirteen days ago at a gate and I wrote it down in my own head, which is the only place I have ever been able to keep anything, and I have not said it out loud to anybody since and I am not going to start at a market.*”
 
 “*Then why did you not say what your remedy was, because you have read out four sentences and asked a hundred a question and given the sheet away, and there is nothing in any of it about a man who can be asked.*”
 
-“*Say the rest of that, because I am asking it as a person who has been in this county nine days and not as somebody with standing, and you may answer me or not.*”
+“*Say the rest of that, because I am asking it as a person who has been in this county fifteen days and not as somebody with standing, and you may answer me or not.*”
 
-“*There is no remedy in those four sentences about a man who can be asked. There is one about a number on a wall. And a number on a wall is the only thing I have found in nine days in a county where anybody may ask anybody. I have not found one about a man. About nine people in this hundred know exactly why and about nine do not, and I have been one of the two about four times.*”
+“*There is no remedy in those four sentences about a man who can be asked. There is one about a number on a wall. And a number on a wall is the only thing I have found in fifteen days in a county where anybody may ask anybody. I have not found one about a man. About nine people in this hundred know exactly why and about nine do not, and I have been one of the two about four times.*”
 
 “*Then put that in your remedy. Put a man who can be asked in it. That is the whole of what I have come to say to you and I have said it in nine words and I have been in this market about four minutes.*”
 
-“*Say the rest of that, and I will tell you why I cannot, and it is the reason I have been in nine rooms in nine days being refused in about four seconds each one.*”
+“*Say the rest of that, and I will tell you why I cannot, and it is the reason I have been in nine rooms in fifteen days being refused in about four seconds each one.*”
 
 “*Say it.*”
 
-“*Because in about nine days in this county I have been offered an office four times by people who wanted me to have it, and every time I have been right about why I should not have it. And a man of fifty-eight put nine lines on a board on Sunday. They say that nobody in this hundred may be asked what they remember, including him and including his wife. They have no day on them and no form anywhere suspends them. About nine people in this hundred have said out loud that they want that board taken down and about nine have said out loud that they do not.*”
+“*Because in about fifteen days in this county I have been offered an office four times by people who wanted me to have it, and every time I have been right about why I should not have it. And a man of fifty-eight put nine lines on a board on Sunday. They say that nobody in this hundred may be asked what they remember, including him and including his wife. They have no day on them and no form anywhere suspends them. About nine people in this hundred have said out loud that they want that board taken down and about nine have said out loud that they do not.*”
 
 Nobody in that market thanked anybody.
 
@@ -128,7 +128,7 @@ Nobody in that market thanked anybody.
 
 “*Then say that in your remedy, and not about a man who can be asked. Say the board. Say the nine lines. Say that a man of fifty-eight wrote them on his own door with no day on them. Say that about nine people want them taken down and about nine do not, and that neither of the two nines has asked the other nine about it. Say that he has promised on a board outside the same door that any person in the hundred may ask him anything and he will answer it.*”
 
-“*Say the rest of that, and say why that is a remedy and not a notice, because a notice is about a thing and a remedy is about a person, and you have been here nine days and you know the difference.*”
+“*Say the rest of that, and say why that is a remedy and not a notice, because a notice is about a thing and a remedy is about a person, and you have been here fifteen days and you know the difference.*”
 
 “*It is not a remedy. It is the fourth sentence again, and it is the only one of the four that a thing written down can do anything about, and what it can do is put both nines on a wall where the other nine will read it in the morning.*”
 
@@ -142,12 +142,12 @@ Then he gave the sheet to the woman at the step, and she read the first four lin
 
 Nobody in that market thanked anybody and nobody in that market was sorry for anybody.
 
-The fever was forty weeks and six days old. A market of about three hundred people was held in a green in a town of about eleven hundred people on the sixth day after a rising, with a foot of standing water on the low side of it and about nine stones moved up out of it and about nine not moved.
+The fever was forty weeks and six days old. A market of about three hundred people was held in a green in a town of about eleven hundred people on the third day after a rising, with a foot of standing water on the low side of it and about nine stones moved up out of it and about nine not moved.
 
-Four sentences of a four-hundred-word remedy were read out loud in the open air to about thirty people. The rest of it was put under an oak bar on a stone step, where anybody may take it and write on the back of it. No form in the county of Kell says a person may not.
+Four sentences of a three-hundred-word remedy were read out loud in the open air to about thirty people. The rest of it was put under an oak bar on a stone step, where anybody may take it and write on the back of it. No form in the county of Kell says a person may not.
 
 The same four sentences would have been worth about nine repetitions and about four listeners in the weigh-house on Wednesday. At that step on Friday morning they were worth about nine repetitions and about thirty listeners. A man with a bad leg stood there and said out loud that there is no form in this county that says which of those two places is the right place to say a thing.
 
-And a woman of about thirty-eight with a barrow said nine words in the middle of that market that she had said at a gate nine days ago and did not know that anybody had ever heard them.
+And a woman of about thirty-eight with a barrow said nine words in the middle of that market that she had said at a gate thirteen days ago and did not know that anybody had ever heard them.
 
 And about nine of about three hundred people could repeat it afterwards, and about two hundred and ninety-one could not be asked about it.

@@ -1,8 +1,6 @@
-# Chapter 570: The Fifth Day Of The Hundred And Third Week, And A Saturday, And On Which The Week’s Sheet Is Read Out Loud In A Building With The Door Open And What Is Read Out Is About Thirty Names That Nobody Asked For And A Number Of Feet That Is Still On A Wall, And A Remedy Of About Three Hundred Words Goes Under An Oak Bar And A Man Of Thirty-One Asks A Woman Of Forty-One To Put Her Name At The Top Of It And She Says She Will Decide On The Ninth Day From The Rising And That Day Is Five Days Off, And On The Ninth Day From The Rising There Is A Harvest On Ground A Man Of Fifty-Four Is In Season On And A Man Of Thirty-One Has Promised To Knock On Four Doors He Has Already Knocked On
+# Chapter 570: The Fifth Day Of The Hundred And Third Week, And A Saturday, And On Which The Week’s Sheet Is Read Out Loud In A Building With The Door Open And What Is Read Out Is About Thirty Names That Nobody Asked For And A Number Of Feet That Is Still On A Wall, And A Remedy Of About Three Hundred Words Goes Under An Oak Bar And A Man Of Thirty-One Asks A Woman Of Forty-One To Put Her Name At The Top Of It And She Says She Will Decide On The Ninth Day From The Rising And That Day Is Five Days Off, And On The Ninth Day From The Rising There Is A Harvest On Ground A Man Of Fifty-Four Is In Season On And A Man Of Thirty-One Has Four Doors Behind Him And A Woman Of Forty-One Has Given Him A Day And Not A Name
 
 Fifth day of the hundred and third week. His three hundred and twentieth morning. One hundred and seventy days after the settlement. The fever forty-one weeks and no days. One hundred and twenty-four days since the division. Seventy days since a page was read out in a room with the door shut, in a town in another county.
-
----
 
 ---
 
@@ -18,7 +16,7 @@ Nobody in that town thanked anybody.
 
 The hundred’s hundred and thirty holdings have thirty figures in the squares. Eleven of them have gone left this week, which they do every week, and one of them did not, and a man of about sixty-two read it out and was corrected by a man of about fifty.
 
-And at the bottom of that sheet, under the four lines and under the two hundred and twenty feet and under the nine challenges and under the nine-line rule, in the clerk’s own hand with the day on it, there is now a fifth thing.
+And at the bottom of that sheet, under the four lines and under the two hundred and twenty feet and under the six challenges and under the nine-line rule, in the clerk’s own hand with the day on it, there is now a fifth thing.
 
 It says that a remedy of about three hundred words with nothing at the top of it lies under the oak bar at the north end of the green. Anybody in the hundred may read it and take it away. There is no form in the county of Kell that says a person may not.
 
@@ -66,7 +64,7 @@ About four seconds went past and about nine people in that street stopped.
 
 “*Say the rest of that, and say why me, because there is a woman of twenty-eight who has been on that wall twice this week and a man of fifty-eight whose name is on a board outside his own door, and you have asked me.*”
 
-“*Because I am the one of the eleven whose parcel is in it and cannot graze, and because you asked a plain question at a step in the open nine days ago and were answered in the open. Those are the first two reasons. The third is that you are the quickest person in every room you have been in for nine days, and I need the first two and not the third.*”
+“*Because I am the one of the eleven whose parcel is in it and cannot graze, and because you asked a plain question at a step in the open fifteen days ago and were answered in the open. Those are the first two reasons. The third is that you are the quickest person in every room you have been in for sixteen days, and I need the first two and not the third.*”
 
 “*Say the rest of that, and do not say the third one twice, because about nine people are standing in this street and about nine of them have worked out which of the three you left out.*”
 
@@ -82,7 +80,7 @@ Nobody in that street thanked anybody.
 
 “*It is a remedy. It is not a rule and it is not a covenant and it is nobody’s duty, and if nobody adopts it then nothing happens and no man in this hundred has done anything wrong. A remedy is a thing a person does to a thing.*”
 
-“*Say the rest of that, and say what happens if nobody adopts it, and do not tell me it changes nothing, because I have heard that from three people in nine days and about nine of us have stopped believing it.*”
+“*Say the rest of that, and say what happens if nobody adopts it, and do not tell me it changes nothing, because I have heard that from three people in sixteen days and about nine of us have stopped believing it.*”
 
 “*It does not change nothing. On Thursday about thirty people walked down onto a common because of a number on a wall and about four of them got an old woman and a boy of nine out of a line of tent-pegs. That was a thing I helped happen and there is no form in this county that says I may be sent for about it, and there is no form anywhere that says it should not have happened.*”
 
@@ -106,7 +104,7 @@ It came quickly and about nine people in that street heard it.
 
 “*Say the reason and not the sentence, and say it out loud in the street, because there are about nine of us here and I would rather be refused in front of nine people than in a room.*”
 
-“*Because a paper with a name at the top of it in a town where about nine people read that wall every morning of their lives is not a paper anybody can check. It is a paper nine people can be argued with, and I have argued in this town for nine days and I would rather somebody argued with a figure than with a woman of forty-one who lost six acres in a market.*”
+“*Because a paper with a name at the top of it in a town where about nine people read that wall every morning of their lives is not a paper anybody can check. It is a paper nine people can be argued with, and I have argued in this town for sixteen days and I would rather somebody argued with a figure than with a woman of forty-one who lost six acres in a market.*”
 
 About four seconds went past.
 
@@ -118,7 +116,7 @@ Nobody in that street thanked anybody.
 
 “*Say the rest of that, because a ninth day from the rising is five days from now, and about nine people in this hundred do not have five days, and you have just told me a date and there is no date in this county for anything.*”
 
-“*The rising was on Tuesday morning and it was the first day of this week, and today is the fifth, so the ninth day from the rising is the third day of the week after, a Thursday, and that is five days off. And it is a day of a river and not a number, and you have known me nine days and you know I am not going to give you a figure of days when the only count either of us has is the one the river gave us.*”
+“*The rising was on Tuesday morning and it was the first day of this week, and today is the fifth, so the ninth day from the rising is the third day of the week after, a Thursday, and that is five days off. And it is a day of a river and not a number, and you have known me fifteen days and you know I am not going to give you a figure of days when the only count either of us has is the one the river gave us.*”
 
 “*Then say what you will have done by the ninth day from the rising, because I will be at the step on that morning and I am not going to ask you for it in a street.*”
 
@@ -128,7 +126,7 @@ Nobody in that street thanked anybody.
 
 “*Say that you may assume that and about nine people will, and about nine will assume the other thing, and neither of the two nines is going to ask the other nine, and that is the sentence on the board outside the water-clerk’s door that nobody has broken yet.*”
 
-“*Then I will tell you what I would have said, and I am telling you so that you know I have said it. About nine people in this street will hear me say it and about nine of them will tell somebody. That is the first time in nine days I have said anything about this in the open, and it is about a date.*”
+“*Then I will tell you what I would have said, and I am telling you so that you know I have said it. About nine people in this street will hear me say it and about nine of them will tell somebody. That is the first time in sixteen days I have said anything about this in the open, and it is about a date.*”
 
 “*I would have said: is there a thing that can be asked in this hundred of anybody at all?*”
 
@@ -136,7 +134,7 @@ About four seconds went past and about nine people in that street heard a number
 
 “*Say the rest of that. You have just asked a question at a gate on a Saturday and about nine people have repeated it, and no form in this county says they may not, and about four of us would have said it if you had not.*”
 
-“*Then it has been asked, and I did not ask it first, and that is on me, and I have had nine days to work out a way of saying it that nobody could repeat and I have not got one.*”
+“*Then it has been asked, and I did not ask it first, and that is on me, and I have had sixteen days to work out a way of saying it that nobody could repeat and I have not got one.*”
 
 Nobody in that street thanked anybody and nobody in that street was sorry for anybody.
 
@@ -152,6 +150,6 @@ And that day is the ninth day from the rising, and it is five days from now, and
 
 And there is a harvest coming on the long grazing, and about nine acres of new sward a man sowed in March is in it. A man of fifty-four with about seven hundred sheep is in season on the whole of it and has been for six years. He is the man who cut the drain and took it out and lost a season of keep. Nobody in this county is going to ask him what his ground is worth.
 
-A man of thirty-one with a bad leg and about four pounds in a purse has four doors behind him and about nine people in each of four streets who have a number he put there. A woman who is the quickest person in every room she is in has given him four days instead of a name.
+A man of thirty-one with a bad leg and about four pounds in a purse has four doors behind him and about nine people in each of four streets who have a number he put there. A woman who is the quickest person in every room she is in has given him five days instead of a name.
 
 And the ninth day from the rising is five days away, and it is the third day of the hundred and fourth week, a Thursday. No form anywhere in the county of Kell puts anybody at a step on it. And he has not worked out yet what the question is that he is going to ask in a room where about nine people can be checked against each other.

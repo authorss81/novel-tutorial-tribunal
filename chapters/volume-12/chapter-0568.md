@@ -4,8 +4,6 @@ Third day of the hundred and third week. His three hundred and eighteenth mornin
 
 ---
 
----
-
 There is no hill in that country anywhere, and the reason a man can be drowned four miles from where he can walk is not a hill.
 
 It is the distance between the top of a swell about nine hundred yards long and the flat behind it, and the water does not come up the swell from the river. It comes across the flat and stops, and everything on the swell is above it, and then the wind gets up at about the seventh hour and pushes the flat water over the top of the swell in a band about eleven feet wide, and that is what got them.
@@ -16,7 +14,7 @@ It came over the low common at about the eighth hour, and the water did not stop
 
 He was on the plank bridge at about the seventh hour with about nine people when he saw it go, and about nine people were on that bridge and about four of them said the number out loud at the same moment, which is what people do.
 
-“*Say what you are looking at, because I have been in this county six days and about nine of us are on a bridge in about a foot of water saying a number and I would like one of us to be exact about which number.*”
+“*Say what you are looking at, because I have been in this county fourteen days and about nine of us are on a bridge in about a foot of water saying a number and I would like one of us to be exact about which number.*”
 
 “*Ten days. I counted ten days off the Monday of last week, off you at the bridge, and I have been saying ten ever since, and it is this morning.*”
 
@@ -25,6 +23,8 @@ Nobody on that bridge thanked anybody.
 “*Eight. I counted eight off the Wednesday, off a water-clerk in a weigh-house in front of about thirty people, and it is this morning.*”
 
 “*Say that again, because I am the man with the bad leg and I have said eight in four doorways in the dark, and one of them put it back on me in about four seconds with a subtraction, and I would like to know whether I have been wrong since then or right since then.*”
+
+And it was the man who had said eight that answered him and not the man who had said ten, and that was the whole of who was wrong on that bridge.
 
 “*You were wrong on Thursday night by a day and you have been right ever since, because eight days off the Wednesday is this morning and ten days off the Monday is this morning, and those are the same morning.*”
 
@@ -70,7 +70,7 @@ They were on the low side from the ninth hour to the fourth hour in the afternoo
 
 “*Say what you are standing in,*” said Bett Searle, to Ilyan, on the rise, at about the eleventh hour.
 
-“*I am standing in a foot of water on a common of about eight hundred acres that belongs to nobody, with fifty-eight people on it and about nine children under nine. I am standing in it because a wall said fifty-eight on Wednesday and I said it too, and because you told a market in Withermere nine days ago that there would be fifty-eight of you here, and you are right about all of it.*”
+“*I am standing in a foot of water on a common of about eight hundred acres that belongs to nobody, with fifty-eight people on it and about nine children under nine. I am standing in it because a wall said fifty-eight on Wednesday and I said it too, and because you told a market in Withermere six days ago that there would be fifty-eight of you here, and you are right about all of it.*”
 
 Nobody on that common thanked anybody.
 
@@ -96,7 +96,7 @@ About four miles away a hundred of about thirty men had gone out into about thre
 
 “*Say what you are standing in,*” said Iven Ashcombe, who had come down with eleven men and a barrow and no orders.
 
-“*I am standing in eleven inches of water on six acres that had a season on them at the sixth hour yesterday morning and have nothing on them now. I am standing in it because I gave them to a room, because a man of fifty-four took a drain out at his own cost, and because I could not stand in a room yesterday and hear what a stranger said at my door.*”
+“*I am standing in eleven inches of water on six acres that had a season on them at the sixth hour on Monday morning and have nothing on them now. I am standing in it because I gave them to a room, because a man of fifty-four took a drain out at his own cost, and because I could not stand in a room on Sunday and hear what a stranger said at my door.*”
 
 “*Say the rest of that, because I am the man who wrote six lines on a wall on Saturday about a man who gave a season to a room, and you are standing in it.*”
 
@@ -168,7 +168,7 @@ The fever was forty weeks and five days old. A foot of water came over about eig
 
 Two numbers were said out loud on a plank bridge in front of about nine people and added together, and they did not come out of the same water. One of the men who said them said in four seconds that he had carried the wrong one forward from the day before, and would not be the man who took a number off a bridge.
 
-A man of thirty-three stood in eleven inches of water on six acres that had a season on them at the sixth hour the day before and nothing on them now, and asked for a line about him to be taken off a wall, and was refused, and was not sorry for anybody.
+A man of thirty-three stood in eleven inches of water on six acres that had a season on them at the sixth hour on Monday morning and nothing on them now, and asked for a line about him to be taken off a wall, and was refused, and was not sorry for anybody.
 
 A woman of twenty-eight walked four miles over a plank bridge in nine inches of water to ask for a number to be taken off a wall. She was refused by a man who has promised on a board outside his own door to answer anything, and who told her the reason in four sentences, and who told her that if he took it off on Wednesday then about nine people on Saturday would believe a stranger who had written it off as a mistake.
 

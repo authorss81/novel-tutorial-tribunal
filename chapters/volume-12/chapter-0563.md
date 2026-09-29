@@ -64,7 +64,7 @@ At about the eleventh minute a woman of about thirty-eight, whose ground is four
 
 “*It is not mown in any of them. It is grazed, and grazed in about nine of them, and blank in about four, and I have read *hay, mown* off that line at least nine Saturdays running because it is the only line on the sheet where the word hay is, and a man reading down a column finds hay.*”
 
-Nobody in that building said anything for about four seconds.
+Nobody in that building said anything, and a man at the back put his hat back on.
 
 “*Then somebody should have stopped you.*”
 
@@ -120,9 +120,9 @@ That is the whole of it and it is not a small thing. There are now six challenge
 
 “*I have found that the first time anybody in this district has put a thing on that wall that a person asked for, five sixths of it cannot be checked by anybody including the man who said it.*”
 
-“*Say the rest of that, because you have been in this county four days and that is the first thing you have said that is about me and not about water.*”
+“*Say the rest of that, because you have been in this county nine days and that is the first thing you have said that is about me and not about water.*”
 
-“*The rest of that is that in a chalk town about fifty miles off there is a book with four columns and no fifth, and a woman keeps it. About nine people in that county can be sent for about anything in it, and that is why the things on a wall there cannot be rubbed out in four seconds. And here it can be rubbed out in four seconds and cannot, and neither of those is worse, and I have been here four days and I have stopped knowing which.*”
+“*The rest of that is that in a chalk town about fifty miles off there is a book with four columns and no fifth, and a woman keeps it. About nine people in that county can be sent for about anything in it, and that is why the things on a wall there cannot be rubbed out in four seconds. And here it can be rubbed out in four seconds and cannot, and neither of those is worse, and I have been here nine days and I have stopped knowing which.*”
 
 Nobody in that weigh-house thanked anybody.
 

@@ -1,4 +1,4 @@
-# Chapter 564: The Sixth Day Of The Hundred And Second Week, And A Sunday, And On Which A Man Of Fifty-Eight Who Has Answered Everything For Nineteen Years Wakes At The Fifth Hour With A Thing He Has Worked Out And Says It Out Loud To His Wife And Then Says It Again To About Nine People At The Door Of His Own House And Then Has It Written On The Board Outside His Own Door In Nine Lines By A Boy Of Fourteen Who Is Not To Ask Anybody In This Hundred What They Remember And Who Goes On To Say Out Loud That The Reason He Gives For It Is Worse Than The Reason Against It, And That He Has Not Been Asked A Question About A Person In Nineteen Years And Has Now Put A Stop To The Only Way One Could Be Asked
+# Chapter 564: The Sixth Day Of The Hundred And Second Week, And A Sunday, And On Which A Man Of Fifty-Eight Who Has Answered Everything For Nineteen Years Sits Up On Saturday Night With A Thing He Has Worked Out For Four Years And Writes It In Nine Lines Under His Own Six And Reads Them To His Wife At About The Ninth Hour And Then Puts Them On The Board Outside His Own Door On Sunday Morning At About The Seventh And Says Them Again To About Nine People At The Door Of His Own House, And A Boy Of Fourteen Writes All Nine Out In Chalk Because A Man Of Fifty-Eight Cannot Hold A Board And Write On It, And Then Says Out Loud That The Reason He Gives For The Rule Is Worse Than The Reason Against It, And That He Has Not Been Asked A Question About A Person In Nineteen Years And Has Now Put A Stop To The Only Way One Could Be Asked
 
 Sixth day of the hundred and second week. His three hundred and fourteenth morning. One hundred and sixty-four days after the settlement. The fever forty weeks and one day. One hundred and eighteen days since the division. Sixty-four days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -12,9 +12,9 @@ There is a board outside the water-clerk’s own door, five feet by two, with a 
 
 There was no qualification on it and there was none underneath.
 
-On Saturday at about the sixth hour he had written under his own six lines — the six challenges, the day, the five that had no parcel against them — nine more lines, and the first of the nine said that no person in this hundred was to be asked what they remembered.
+On Saturday night he had written under his own six lines — the six challenges, the day, the five that had no parcel against them — nine more lines, and the first of the nine said that no person in this hundred was to be asked what they remembered.
 
-He had written them on Saturday night, in his own hand, and he had read them to his wife in the kitchen at about the ninth hour and she had asked him whether he had thought about it, and he had said that he had thought about it for four years, and she had said that he had thought about it for four years and had never once written it down, and he had said that was the same thing.
+He had written them in his own hand, and he had read them to his wife in the kitchen at about the ninth hour and she had asked him whether he had thought about it, and he had said that he had thought about it for four years, and she had said that he had thought about it for four years and had never once written it down, and he had said that was the same thing.
 
 On Sunday morning he put all nine lines on the board in the open, in about nine sentences, at about the seventh hour, in front of about nine people, and a boy of fourteen wrote them out in chalk because the clerk is fifty-eight and cannot hold a board and write on it.
 
@@ -48,7 +48,7 @@ The first thing he said was why it was nine lines and not one.
 
 “*Nine: that it has no day on it and does not lapse and there is no form in this county that suspends it.*”
 
-Nobody on that green said anything for about four seconds.
+Nobody on that green said anything, and a woman took her basket off the step and stood with it.
 
 “*Say the rest of that, because there is not a person standing here who would have expected the eighth of those nine from a man who wrote the other eight.*”
 
@@ -120,7 +120,7 @@ Then the woman who had been at the sixth hour on Saturday asked the thing that a
 
 “*I want to know whether it is legal.*”
 
-Nobody on that green said anything for about four seconds.
+Nobody on that green said anything, and the chalk went on being on the board.
 
 “*Say the rest of that, because it is the only question anybody has asked you today and you have answered six other things.*”
 
@@ -178,7 +178,7 @@ Nobody on that green thanked anybody and nobody on that green was sorry for anyb
 
 “*Say the rest of that, and then go away, because I have not asked you one question today and I would like it to stay that way until Tuesday.*”
 
-“*I will say one thing and then I will go. The reason you have given against it is that a hundred will lose things. The reason you have given for it is that about nine people will be protected from being used. And you have said that the second reason is worse than the first, and I think you are right, and I have been in this county four days and that is the first time I have wanted a thing on that board to be wrong.*”
+“*I will say one thing and then I will go. The reason you have given against it is that a hundred will lose things. The reason you have given for it is that about nine people will be protected from being used. And you have said that the second reason is worse than the first, and I think you are right, and I have been in this county ten days and that is the first time I have wanted a thing on that board to be wrong.*”
 
 “*Then you are the first person in nineteen years who has wanted my board to be wrong, and you are a stranger, and I would have thought better of you and worse.*”
 

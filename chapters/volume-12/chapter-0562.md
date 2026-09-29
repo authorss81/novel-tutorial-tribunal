@@ -22,7 +22,7 @@ He went down at about the ninth hour because there was a thing on the step and a
 
 The water-clerk was standing behind the oak bar with the slate under his arm and no chalk in his hand.
 
-“*Say what you are standing in front of,*” said Iven Ashcombe, “*because you have been in this county four days and you are about to ask me why a market is not on, and I am going to say it out loud in the open air either way.*”
+“*Say what you are standing in front of,*” said Iven Ashcombe, “*because you have been in this county eight days and you are about to ask me why a market is not on, and I am going to say it out loud in the open air either way.*”
 
 “*I am standing in front of a market that is not on.*”
 
@@ -70,7 +70,7 @@ Then he went into the weigh-house and did the thing he does, and this time he di
 
 “*There are about thirty holdings on that sheet with a season in the square this year. The hundred is about thirty men, one for every holding that has a season on it. And on eleven lines of the thirty the name in the first column is the same name, and it is a man of a farm four miles south.*”
 
-Nobody in that building said anything for about four seconds.
+Nobody in that building said anything, and the clock on the wall went round.
 
 “*Say the rest of that, because you have just said that a man is in a room eleven times and there is one chair.*”
 
@@ -78,7 +78,7 @@ Nobody in that building said anything for about four seconds.
 
 “*Then what.*”
 
-“*Then nobody in this hundred can tell me whether a man who holds eleven seasons holds eleven chairs or one, and there is no form anywhere that says, and I have been in this county four days and I have never once seen him in this building.*”
+“*Then nobody in this hundred can tell me whether a man who holds eleven seasons holds eleven chairs or one, and there is no form anywhere that says, and I have been in this county eight days and I have never once seen him in this building.*”
 
 Ashcombe put the green book down on the wool table.
 
@@ -86,7 +86,7 @@ Ashcombe put the green book down on the wool table.
 
 “*The hundred meets at midday in this room on the rising. It has met on the rising for nineteen years. And there is a man who holds eleven of the seats and has not been in the room once in nineteen years, and if he does not come on Tuesday then there is no seat for him and no rule that says he has one, and if he does come then he fills eleven and the rest of you fill nineteen and nobody has ever written down which of those two things this room does.*”
 
-Nobody in that weigh-house said anything for about four seconds and one of the about nine people at the back said the word *Bray* out loud, and it went round the building in about four seconds.
+Nobody in that weigh-house said anything for about four seconds and one of the about nine people at the back said the word *Bray* out loud, and it went round the building before anybody had decided to pass it on.
 
 “*Say your own name, because a thing that is on a wall with nothing at the top of it is a thing anybody in this town can read for two hundred and thirty years and I will not have that be a thing a stranger said.*”
 
@@ -114,7 +114,7 @@ Then Ilyan went and found the man with three acres, because the man with three a
 
 ---
 
-The man was in his own yard with a hurdle and about eleven feet of new sward on the strip behind him, sown in March, dead now, and he had been told about the four lines by about nine people before Ilyan got there.
+The man was in his own yard with a hurdle and about three acres of new sward on the strip behind him, sown in March, dead now, and he had been told about the four lines by about nine people before Ilyan got there.
 
 “*Say what you are standing in,*” he said.
 
@@ -134,7 +134,7 @@ The man was in his own yard with a hurdle and about eleven feet of new sward on 
 
 “*Then you wanted a count.*”
 
-“*I wanted a count and I got one and it was eleven and it was about a man and not about water, and I have been in this county four days and I have not once got a number that was about water.*”
+“*I wanted a count and I got one and it was eleven and it was about a man and not about water, and I have been in this county eight days and I have not once got a number that was about water.*”
 
 Nobody in that yard thanked anybody.
 
@@ -142,13 +142,13 @@ Nobody in that yard thanked anybody.
 
 They read the four lines in his own kitchen, standing up, and about four feet from the wall of a man who has a seat.
 
-“*Say the rest of that,*” the man said, when they had read them twice, “*because you have been in this county four days and you have just told a hundred people that a man four miles south owns a third of the room they sit in, and he is the man who paid their ditches.*”
+“*Say the rest of that,*” the man said, when they had read them twice, “*because you have been in this county eight days and you have just told a hundred people that a man four miles south owns a third of the room they sit in, and he is the man who paid their ditches.*”
 
 “*He is. And he paid them and he lost two years of it doing it, and he has a drain of his own going in that is the only part nobody can defend, and he is going to take it out at his own cost before the rising.*”
 
 “*Say the rest of that, because you have just said three things about the same man in one breath and about nine people in this hundred would call two of them a lie.*”
 
-“*They are not a lie and they are not consistent, and I have been here four days and I cannot make them consistent, and that is why I wrote four lines about a room instead of saying one sentence about a man.*”
+“*They are not a lie and they are not consistent, and I have been here eight days and I cannot make them consistent, and that is why I wrote four lines about a room instead of saying one sentence about a man.*”
 
 The man of three acres read them a third time and then folded the paper back onto the nail.
 

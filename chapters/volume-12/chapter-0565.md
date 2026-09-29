@@ -1,10 +1,8 @@
-# Chapter 565: The Seventh And Last Day Of The Hundred And Second Week, And A Monday, And On Which The Water Off A Cut Drain Comes Back Up A Trench In Four Feet Of Mud Because A Man Of Fifty-Four Took It Out On Saturday At His Own Cost As He Said In Front Of Thirty People He Would, And The Last Day In The Hundred On Which A Season Can Be Given Up By The Person Who Holds It, And On Which A Man Of Thirty-Three Gives Up The Season On Six Acres And Does Not Give It To A Woman Of Forty-One And Does Not Give It To A Stranger And Says Out Loud That He Is Giving It To A Room, And Nobody Thanks Him For It And He Is Not A Man Of The Hundred And There Is No Seat For Him
+# Chapter 565: The Seventh And Last Day Of The Hundred And Second Week, And A Monday, And On Which The Water Off A Cut Drain Comes Back Up A Trench Four Feet Wide Where The Cut Had Been Because A Man Of Fifty-Four Took It Out On Saturday At His Own Cost As He Said In Front Of Thirty People He Would, And The Last Day In The Hundred On Which A Season Can Be Given Up By The Person Who Holds It, And On Which A Man Of Thirty-Three Gives Up The Season On Six Acres And Does Not Give It To A Woman Of Forty-One And Does Not Give It To A Stranger And Says Out Loud That He Is Giving It To A Room, And Nobody Thanks Him For It And He Is Not A Man Of The Hundred And There Is No Seat For Him
 
 Seventh and last day of the hundred and second week. His three hundred and fifteenth morning. One hundred and sixty-five days after the settlement. The fever forty weeks and two days. One hundred and nineteen days since the division. Sixty-five days since a page was read out in a room with the door shut, in a town in another county.
 
 The morrow is the first day of the hundred and third week, and the rising is in the morning, and the clerk was not asked for the number once today and that was the first time in about nine days.
-
----
 
 ---
 
@@ -46,7 +44,7 @@ Nobody in that weigh-house thanked anybody and nobody in that weigh-house was so
 
 “*Say the rest of that, and say the reason, because in about four days there will be about nine people in this hundred saying a man gave a holding away in a panic the night before the rising, and I am going to have to write down whatever you say here.*”
 
-“*A man with about seven hundred sheep took the season on the six acres on the thirteenth of April. He paid the rate on it and the penny on it. It is his until the water turns and it has been his for a hundred and sixty-five days, and my family has had nothing out of it but a fence and a road and a hedge that is a hedge.*”
+“*A man with about seven hundred sheep took the season on the second close off the dyke on the thirteenth of April. He paid the rate on it and the penny on it. It is his until the water turns and it has been his for a hundred and sixty-five days, and a woman of forty-one has had nothing out of it but a fence and a road and a hedge that is a hedge.*”
 
 “*Say the rest of that, because I know all of it and about nine people in this room know all of it, and you have not said one word that makes it new.*”
 
@@ -60,7 +58,7 @@ He looked at about thirty people in a room about sixty feet long.
 
 “*The rest of that is that I have been told once this week that there is a number of boards going into that gate. I was told it by a stranger at my own door on Thursday night. I have not been in this room in four years and I am not going to be in it tomorrow while a man tells me what a stranger said at my door.*”
 
-Nobody in that weigh-house said anything for about four seconds.
+Nobody in that weigh-house said anything, and the man on the step did not come in.
 
 “*Say the rest of that, because you have just said you are not coming, and a hundred is a hundred and you have not been in it for four years, and you may go on not being in it for four more, and nobody here can make you.*”
 
@@ -84,7 +82,7 @@ The man stood at the step for about four more minutes and then he said the other
 
 “*Say the rest of that, because you have put your money away and about nine people here thought you were about to do a kind thing and you have not.*”
 
-“*I am going to give it to nobody. Not to the woman it was taken off, because she refused a stranger’s money in a market nine days ago in four sentences and she was right and I was in the market. Not to a stranger, because he has a bad leg and about four pounds in that county and he was at my door on Thursday and he did not ask me for anything and I would not let him.*”
+“*I am going to give it to nobody. Not to the woman it was taken off, because she refused a stranger’s money in a market ten days ago in four sentences and she was right and I was in the market. Not to a stranger, because he has a bad leg and about four pounds in that county and he was at my door on Thursday and he did not ask me for anything and I would not let him.*”
 
 “*Say the rest of that, because you have now named two people you are not giving it to, and one of them is in this room, and I do not know which.*”
 
@@ -140,7 +138,7 @@ Ilyan stood at the wool table at about the eleventh hour and did the thing he do
 
 “*Say the rest of that, because you have now said out loud that the man who gave it up is not the one who will lose the ditch and that is true and it is not new.*”
 
-“*It is not new to me. That is what I have learned in five days in a county where a record is on a wall. A thing on a wall does not cost the person who put it there. It costs the next person, and the next person is not on the wall, because there is no column on that sheet with a person’s name at the top of it.*”
+“*It is not new to me. That is what I have learned in eleven days in a county where a record is on a wall. A thing on a wall does not cost the person who put it there. It costs the next person, and the next person is not on the wall, because there is no column on that sheet with a person’s name at the top of it.*”
 
 Nobody in that weigh-house thanked anybody.
 
@@ -148,11 +146,11 @@ Nobody in that weigh-house thanked anybody.
 
 “*Then you are the ninth one, and I am sorry for it, and I am going to be in this room tomorrow at midday and I am not going to speak unless you ask me, and I have not worked out why I told you that in front of thirty people instead of at your door.*”
 
-“*Because at your door is where everything comes out in this hundred and I have watched you find that out in nine days, and so have I, and it is the first thing about this place that I have got right in five days and it has cost me nothing.*”
+“*Because at your door is where everything comes out in this hundred and I have watched you find that out in eleven days, and so have I, and it is the first thing about this place that I have got right in eleven days and it has cost me nothing.*”
 
 The fever was forty weeks and two days old. The last day in the hundred on which a season can be given up by the person who holds it came and went. A man of thirty-three gave up the season on six acres of the sally bed and gave it to a room and not to a person. He gave it because there is no column on that sheet with a person’s name at the top of it, and he would not be the first that somebody adds.
 
-He did not give it to a woman of forty-one who refused a stranger’s money in a market in four sentences nine days ago, and he did not give it to a stranger with a bad leg who was at his door on Thursday night and did not ask him for anything.
+He did not give it to a woman of forty-one who refused a stranger’s money in a market in four sentences ten days ago, and he did not give it to a stranger with a bad leg who was at his door on Thursday night and did not ask him for anything.
 
 And nobody thanked him for it, and he is not a man of the hundred, and there is no seat for him.
 

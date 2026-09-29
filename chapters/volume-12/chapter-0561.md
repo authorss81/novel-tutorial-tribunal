@@ -1,4 +1,4 @@
-# Chapter 561: The Third Day Of The Hundred And Second Week, And A Thursday, And On Which A Man Of Thirty-One Goes Out After Dark To Four Doorways With A Number In His Mouth Before Anybody Has Written Anything, And Is Refused At The Third Of Them Before He Has Finished The Second Sentence By A Woman He Has Met Once On A Step, And Agrees With The Other Three, And Says A Number That Is One Day Wrong Out Loud In The Second Doorway And Is Corrected In That Doorway By The Man He Said It To, And A Man Of Fifty-Eight Comes Up The Lane With A Slate And Says He Has Done Six And Has One Left, And Nobody In Four Streets Thinks He Is Doing Anything
+# Chapter 561: The Third Day Of The Hundred And Second Week, And A Thursday, And On Which A Man Of Thirty-One Goes Out After Dark To Four Doorways With A Number In His Mouth Before Anybody Has Written Anything, And Is Refused At The Fourth Of Them Before He Has Finished The Second Sentence By A Woman He Has Met Once On A Step, And Agrees With The Other Three, And Says A Number That Is One Day Wrong Out Loud In The Second Doorway And Is Corrected In That Doorway By The Man He Said It To, And A Man Of Fifty-Eight Comes Up The Lane With A Slate And Says He Has Done Six And Has One Left, And Nobody In Four Streets Thinks He Is Doing Anything
 
 Third day of the hundred and second week. His three hundred and eleventh morning. One hundred and sixty-one days after the settlement. The fever thirty-nine weeks and five days. One hundred and fifteen days since the division. Sixty-one days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -20,7 +20,7 @@ The first door was the narrow strip of three acres and the man who opened it was
 
 “*I am the stranger off the boat. I came down the water on Wednesday. I am standing on your step and I have come to say a number to you before anybody writes anything down.*”
 
-The man did not open the door any further. He kept the latch up and the lamp where it was and about four seconds went past.
+The man did not open the door any further. He kept the latch up and the lamp where it was and neither of them counted it.
 
 “*You have come to say a number to me.*”
 
@@ -38,9 +38,11 @@ Nobody in that doorway thanked anybody.
 
 The man in the doorway waited.
 
-“*I have eleven acres of high pasture above you and my beasts have been on them for eleven years. I do not want the water kept off. I want the six boards in. Every year the strip goes under and I get a fortnight of keep off it out of the mud in the first cold. Say the rest of that, because you have been out in it for eleven years.*”
+“*I have eleven acres of high pasture above you and my beasts have been on them for eleven years. I do not want the water kept off. I want the six boards in. Every year the strip goes under and I get a fortnight of keep off it out of the mud in the first cold.*”
 
-“*I am not going to argue with you about it. You know what you are asking for and I have been in this county four days.*”
+“*Say the rest of that, because you have been out in it for eleven years and I have not.*”
+
+“*I am not going to argue with you about it. You know what you are asking for and I have been in this county seven days.*”
 
 “*Then you have told me what you came to tell me and I have told you what I want, and only one of those is a number. And you will be telling this in four places tonight and in about thirty men in the morning, and I will be the only one of the four of us who wants it the other way. You may want to know that now, at the door, while there is one of me, instead of at the wall.*”
 
@@ -76,7 +78,7 @@ The man was about forty-four. He came out onto the step without a coat, because 
 
 “*Then you have brought me Wednesday’s number to Thursday’s door.*”
 
-That was the whole of it and it took about four seconds and neither of them raised a voice.
+That was the whole of it and it took no time at all and neither of them raised a voice.
 
 “*Work it out in front of me,*” said the man. “*Out loud, with the subtraction, and then I will know which of us is right.*”
 
@@ -230,7 +232,7 @@ He went and knocked on a fifth door that was not a close and was not on the list
 
 Nobody in that kitchen thanked anybody.
 
-The fever was thirty-nine weeks and five days old. A man of thirty-one had gone to four doorways in the dark on a foot with no sole on it and had been refused at the third of them before he had finished the second sentence, and had been told at the fourth that a number said in a doorway is a thing four people will have by the seventh hour and five by the ninth.
+The fever was thirty-nine weeks and five days old. A man of thirty-one had gone to four doorways in the dark on a foot with no sole on it and had been refused at the fourth of them before he had finished the second sentence, and had been told the reason for it at that same fourth door, which was that a number said in a doorway is a thing four people will have by the seventh hour and five by the ninth.
 
 And a man of fifty-eight came up a lane with a slate under his arm and said that six of his seven were done and the seventh was at the seventh hour in the morning, and that there was nobody in that hundred to go and check on a stranger at the seventh hour in the morning, which was the whole of why the two of them had agreed to do it.
 

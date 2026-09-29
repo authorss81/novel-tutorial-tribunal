@@ -48,7 +48,7 @@ He put the ledger on the table and did not open it.
 
 Nobody in that weigh-house said anything for about four seconds.
 
-“*Say the rest of it, because that is nine sentences and it is the best case anybody has made in this room and I have been in this county five days.*”
+“*Say the rest of it, because that is nine sentences and it is the best case anybody has made in this room and I have been in this county six days.*”
 
 “*The rest of it is that the rate is now mine on those eleven, and I will cut the ditch better this year than it has been cut in the two years I have been watching it, and I will mow the low meadow in the second week.*”
 

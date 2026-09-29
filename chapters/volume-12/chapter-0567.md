@@ -124,15 +124,15 @@ Ilyan had been standing about nine feet off since about the seventh hour and had
 
 “*I am standing in front of what I did. On Friday, on a plank bridge, in the open air, in front of about nine people, you corrected my count of your camp from sixty to fifty-eight, and you named the two that were subtracted, and I wrote it on a sheet of paper and I did not ask you first.*”
 
-Nobody at that wall said anything for about four seconds.
+Nobody at that wall said anything, and the number stayed where it was on the sheet.
 
 “*Say the rest of that, because about thirty people are standing at a wall and about nine of them heard it on Friday and about nine of them did not, and you are about to say the part that is about you.*”
 
-“*The rest of that is that on Friday I did not know that a number said out loud in the open by a man who cannot be sent for is a number that about nine people will have by the eighth hour. I knew it and I said it anyway, because I said numbers out loud for a hundred and sixty-six days and nobody had ever come back at me about one, and you had a daughter of six on your hip and you were standing in the mud.*”
+“*The rest of that is that on Friday I did not know that a number said out loud in the open by a man who cannot be sent for is a number that about nine people will have by the eighth hour. I knew it and I said it anyway, because I said numbers out loud for a hundred and sixty-seven days and nobody had ever come back at me about one, and you had a daughter of six on your hip and you were standing in the mud.*”
 
 “*Say the rest of that, because there is no rest of that and you are about thirty-one and I am twenty-eight and I have known you five days.*”
 
-“*There is no rest of it and I have had five days of it. It is not the first time I have made a number out loud on purpose to be useful and had a person be the worse for it. About nine hundred and sixty days ago I did it in a market four hundred miles from here to a woman who told me it was a thing her neighbours would have by morning.*”
+“*There is no rest of it and I have had five days of it. It is not the first time I have made a number out loud on purpose to be useful and had a person be the worse for it. It was in a market four hundred miles from here, to a woman who told me a number said out loud would be a thing her neighbours had by morning, and that was a good many hundreds of mornings ago, and I have not stopped doing it since.*”
 
 Nobody at that wall thanked anybody.
 
@@ -146,7 +146,7 @@ About nine people at that wall looked at him and about four of them looked at th
 
 “*Say what you mean by that, because you said it out loud in front of about thirty people and about nine of them have a number of my people in their mouths already.*”
 
-“*The worst off person in this day is not you. It is a woman of forty-one with six acres, who lost a season in a market a week ago and told the man who took it that he was doing it properly. It is a man of thirty-three, who gave up six acres yesterday to a room and is not a man of the hundred. It is a man of fifty-four, who took a drain out at his own cost and lost a season of keep. You have lost nothing today except the ability to correct the nine people saying your number, and you had four days of that and you spent them walking.*”
+“*The worst off person in this day is not you. It is a woman of forty-one who lost a season in a market twelve days ago and told the man who took it that he was doing it properly. It is a man of thirty-three, who gave up six acres yesterday to a room and is not a man of the hundred. It is a man of fifty-four, who took a drain out at his own cost and lost a season of keep. You have lost nothing today except the ability to correct the nine people saying your number, and you had four days of that and you spent them walking.*”
 
 Nobody at that wall thanked anybody and nobody at that wall was sorry for anybody.
 

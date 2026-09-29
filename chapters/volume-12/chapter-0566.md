@@ -1,4 +1,4 @@
-# Chapter 566: The First Day Of The Hundred And Third Week, And A Tuesday, And On Which The Water Comes Over A Block Of Limestone With A Line Cut Round It At About The Seventh Hour And Every Season In That Hundred Goes, And About Thirty Men Meet In A Weigh-House Sixty Feet Long At Midday While About Three Hundred People Stand In A Green In The Same Hour, And A Man Of Thirty-One Says One Thing In It Which Is Not The Argument, And The Question An Old Man Gave Him In A Chalk Town Eight Days Ago Is Put To That Room And Is Not Answered And Is Asked Wrong By One Man And Is Not Answerable By The Man Who Was Given It, And A Number Is Written Against A Common Of About Eight Hundred Acres Which Is Not Fifty-Eight And Is Defensible And Is About A Width Of A Common And A Number Of Tents And Not About People
+# Chapter 566: The First Day Of The Hundred And Third Week, And A Tuesday, And On Which The Water Comes Over A Block Of Limestone With A Line Cut Round It At About The Seventh Hour And Every Season In That Hundred Goes, And About Thirty Men Meet In A Weigh-House Sixty Feet Long At Midday While About Three Hundred People Stand In A Green In The Same Hour, And A Man Of Thirty-One Says One Thing In It Which Is Not The Argument, And The Question An Old Man Gave Him On The Last Monday Of The Hundredth Week Is Put To That Room And Is Not Answered And Is Asked Wrong By One Man And Is Not Answerable By The Man Who Was Given It, And A Number Is Written Against A Common Of About Eight Hundred Acres Which Is Not Fifty-Eight And Is Defensible And Is About A Width Of A Common And A Number Of Tents And Not About People
 
 First day of the hundred and third week. His three hundred and sixteenth morning. One hundred and sixty-six days after the settlement. The fever forty weeks and three days. One hundred and twenty days since the division. Sixty-six days since a page was read out in a room with the door shut, in a town in another county. The day before was the seventh and last day of the hundred and second week.
 
@@ -31,7 +31,7 @@ Nobody in that weigh-house thanked anybody.
 
 “*Then say the first number, because you have a slate in your hand and thirty men are in this room.*”
 
-“*Three boards are in at the gate and the gate takes six. Six holds the water off seven holdings and off the cut on the low meadow. Six puts a foot of water on four closes and on the low common in about eight days.*”
+“*Three boards are in at the gate and the gate takes six. Six holds the water off seven holdings and off the cut on the low meadow. Six puts a foot of water on four closes and on the low common in about two days.*”
 
 “*Say the rest of it, because about nine people in this room have heard that in a market and want to know what it does.*”
 
@@ -49,7 +49,7 @@ The thing he had carried about fifty miles was folded in four in the inside pock
 
 “*I am going to say one thing and it is not the argument, and then I am going to sit down on that bench and stay on it until somebody tells me I may get up, and I have not worked out which of us has the right to do that.*”
 
-Nobody in that weigh-house said anything for about four seconds.
+Nobody in that weigh-house said anything, and a man at the back turned his slate over.
 
 “*Then say it.*”
 
@@ -81,13 +81,13 @@ Nobody made him a seat.
 
 He did not make a speech. He said four things and about thirty men heard all four.
 
-He said that if the other three boards went in, the four closes would be under a foot for a fortnight, and about nineteen acres of new sward with them. He said he had lost a season of keep taking his own drain out on Saturday, and that he would still put the boards in and pay for them out of his own purse.
+He said that if the other three boards went in, the four closes would be under a foot for a fortnight, and about nine acres of new sward with them. He said he had lost a season of keep taking his own drain out on Saturday, and that he would still put the boards in and pay for them out of his own purse.
 
 Then he said the thing nobody expected, which was that he had been wrong about the cut and had said so in this room on Wednesday last, and that a rule about a parcel and not about a water was the only part of the business that could not be defended.
 
 Then he said the other thing, and this is the sentence the hundred wrote down.
 
-“*Six boards holds the water off the four closes. Six boards also puts a foot of water on about eight hundred acres that belongs to nobody, on Thursday, with fifty-eight people on it. I have been wrong about the drain and I am right about that, and I would rather the hundred knew both at once than either one on its own.*”
+“*Six boards does not hold the water off the four closes. Six boards holds the water off seven holdings and off the cut on the low meadow, and it puts a foot of water on four closes and on about eight hundred acres that belongs to nobody, on Thursday, with fifty-eight people on it. I have been wrong about the drain and I am right about that, and I would rather the hundred knew both at once than either one on its own.*”
 
 Nobody in that weigh-house thanked anybody.
 
@@ -113,7 +113,7 @@ He put his hand on the board on the wall and then took it off. There was nothing
 
 “*An old man of eighty-one in a chalk town about fifty miles off asked me on the last Monday of his hundredth week whether a man can be named in a place and still not be of it. He asked it out loud in a room on a Sunday in front of about nine people and nobody answered him. He had asked it twice before and been silent twice, and he would not be told the answer is no, and he gave it to a stranger to carry to a place where nobody knew him.*”
 
-Nobody in that weigh-house said anything for about four seconds.
+Nobody in that weigh-house said anything, and about four of them wrote nothing down.
 
 “*Say the rest of that, because you have just put a man of eighty-one into my building and he is not in it.*”
 
@@ -123,7 +123,7 @@ Nobody in that weigh-house said anything for about four seconds.
 
 “*The question was put to the hundred on the rising by a stranger who was asked it in a chalk town by a man of eighty-one who was not answered twice. This hundred has heard it. Nobody has answered it and nobody is going to answer it today, and no form in the county of Kell makes anybody answer. That is not a rule I made up on Sunday to keep a thing out. That is the whole of it.*”
 
-About four people in that room said, in about four seconds and in four different voices, that the man in question was a stranger and could go and be a stranger somewhere else.
+About four people in that room said it at once, and in four different voices, that the man in question was a stranger and could go and be a stranger somewhere else.
 
 “*You have said the answer to the question as this room asks it, which is whether he stays. I wrote the question on my own hand and read it out, and it is not that, and I am not going to let this hundred believe it is.*”
 
@@ -151,7 +151,7 @@ He put the chalk on it.
 
 “*It is not about fifty-eight. It is about the ground. And I am going to write it in a way that I can be checked on, and I have done that every week for nineteen years, and I am going to write a number that is wrong on purpose in one direction and right in another, and I am going to say so before I write it.*”
 
-Nobody in that weigh-house said anything for about four seconds.
+Nobody in that weigh-house said anything, and the man who had been in that room for nineteen years did not look up.
 
 “*Say the rest of that, because you have said wrong on purpose in front of thirty men and three hundred people and you have not written it yet.*”
 
@@ -183,6 +183,6 @@ A man of thirty-one said one thing in that room, and the thing he said was not t
 
 A man of fifty-four with about seven hundred sheep came four miles on his own legs and stood at the back in a room with no seat in it. He said he had been wrong about the drain and was right about the common, and would rather the hundred knew both at once than either on its own. He got into a cart himself.
 
-And the question an old man gave him in a chalk town eight days ago was put to about thirty men and was not answered. It was asked wrong by one man. It could not be answered by the man it had been given to. About four people answered a different question in about four seconds and were told so in the open.
+And the question an old man gave him on the last Monday of the hundredth week, fifteen days ago, was put to about thirty men and was not answered. It was asked wrong by one man. It could not be answered by the man it had been given to. About four people answered a different question in about four seconds and were told so in the open.
 
 And a number is on a wall in Withermere that is not fifty-eight. It is two hundred and twenty feet. It is arithmetically defensible, and it is about a width of a common and a number of tents and not about people. In two days there will be a foot of water on that common, and a woman of twenty-eight with a daughter of six on her hip will stand in front of that wall at about the seventh hour and understand it in about four seconds.
