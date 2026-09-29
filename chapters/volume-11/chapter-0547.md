@@ -172,7 +172,7 @@ Nobody in that square stopped what they were doing.
 
 “*It is worth exactly what a person can be asked about it for, and I have said that out loud in this square before.*”
 
-Nobody in that square thanked anybody. Nine people had read nine lines out loud in the open air on a Thursday morning and none of them was thanked, and the man from four days off was not thanked for saying it three times in four weeks, and the boy of fourteen was not thanked for standing on the end of a wool bench with chalk on his fingers.
+Nobody in that square thanked anybody. Nine people had read nine lines out loud in the open air on a Thursday morning and none of them was thanked, and the man from four days off was not thanked for saying it three times in sixteen days, and the boy of fourteen was not thanked for standing on the end of a wool bench with chalk on his fingers.
 
 ---
 
@@ -198,4 +198,4 @@ Nobody in that square answered him for about four seconds.
 
 The fever was thirty-seven weeks and five days old. Nine things that nine people of this town had said out loud in the last four weeks were read out in a market square in front of about two hundred people in about eleven minutes, one line each, by about nine people, and about nine of the about two hundred can repeat one of them this afternoon.
 
-About a hundred and ninety-one of them heard a woman read out nine things they had never been told. Not one of the nine lines is in a book. The ninth of them is that nobody in a county of about two thousand four hundred people can be sent for about anything else, and it was read out last, and about two hundred people heard the thing that is true of every one of them said last.
+About a hundred and ninety-one of them heard a woman read out nine things they had never been told. Not one of the nine lines is in a book, and a man of thirty-one asked for the list to be entered before it was read out and was refused in a market square in about four seconds.
