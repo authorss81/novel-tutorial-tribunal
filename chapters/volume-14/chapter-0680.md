@@ -38,7 +38,9 @@ Nobody on that bank said a word about that.
 
 Then the man of forty-one said the number of his own, and he said the working, and it is the only figure in that bank that anybody can check against anything but him.
 
-“*Two hours on the Wednesday of last week, and two hours on the Thursday. Two hours and a quarter on the Sunday, and two hours on the Monday. Two hours and a quarter on the Tuesday, and two hours on the Wednesday. That is about twelve hours and a half in eight days.*”
+“*Two hours on the Wednesday of last week, and two hours on the Thursday. Nothing at all on the Friday, and nothing at all on the Saturday, and that is a bank at eleven inches and then a bank full, and I am not going to leave those two mornings out of it.*”
+
+“*Two hours and a quarter on the Sunday, and two hours on the Monday. Two hours and a quarter on the Tuesday, and two hours on the Wednesday. That is six mornings with a figure in them and two without, and I count from one morning to the next and not from a morning to itself, and that is eight days, and that is about twelve hours and a half.*”
 
 “*And that is a figure of a man’s legs in cold water. It is not a figure of the drain and it is not a figure of the ninth door. I am not going to put it against my name in anybody’s book, and there is nowhere to put it.*”
 

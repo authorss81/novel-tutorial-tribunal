@@ -112,7 +112,7 @@ Nobody on that bank thanked anybody for coming up, and the man of thirty-one sai
 
 The fever was fifty-five weeks and four days old. He had been in that county one hundred and eighteen days.
 
-Nine people went down past the last of about nine beams, and about nine feet past that place. The passage went on dry for about a hundred and thirty feet, by two paces of a man of thirty-eight and about fourteen of a stone about nine feet.
+Nine people went down past the last of about nine beams, and about nine feet past that place. The passage went on dry for about a hundred and thirty feet by the paces of a man of thirty-eight, and it was about fourteen of the nine-foot grooves of the stone a man of forty-one pushes, and the two figures do not agree and nobody on that bank made them agree.
 
 And in a wall at the end of it there were nine openings with the same mark cut over all nine of them. A man of fifty-four who cannot read counted nine and a man of thirty-eight counted nine, and neither of them has a hand that can write it down.
 
