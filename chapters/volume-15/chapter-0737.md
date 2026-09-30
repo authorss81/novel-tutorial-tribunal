@@ -1,6 +1,6 @@
-# Chapter 737: Fifth Day Of The Hundred And Twenty-Seventh Week, And A Friday, And The Bank Is Full For The Seventh Morning And A Man Of Thirty-Eight Says About Nine Minutes Is The Only Figure He Has Ever Been Able To Give Out Loud In Nineteen Years, And A Boy Of Thirteen Says He Is Not Going To Ask A Man In An Ash Anything, And A Man Of Thirty-One Says He Is Not Going To Offer Again
+# Chapter 737: Fourth Day Of The Hundred And Twenty-Seventh Week, And A Friday, And A Man Of Thirty-Eight Says About Nine Minutes Is The Only Figure He Has Ever Given Out Loud In Nineteen Years, And A Man Of Thirty-One Says He Is Not Going To Offer Again
 
-Fifth day of the hundred and twenty-seventh week. His four hundred and eighty-seventh morning. Three hundred and thirty-seven days after the settlement. The fever sixty-four weeks and six days. Two hundred and ninety-one days since the division. Two hundred and thirty-seven days since a page was read out in a room with the door shut, in a town in another county.
+Fourth day of the hundred and twenty-seventh week. His four hundred and eighty-seventh morning. Three hundred and thirty-seven days after the settlement. The fever sixty-four weeks and six days. Two hundred and ninety-one days since the division. Two hundred and thirty-seven days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -10,13 +10,13 @@ Corvin Tace is forty-three, and nineteen years of that landing is the whole of w
 
 “*Sixteen inches over the top step at the seventh hour.*”
 
-“*Seven days. A full bank holds, and that is the whole of the working, and it was full on the Monday of this week.*”
+“*Seven days. A full bank holds, and that is the whole of the working, and it was full on the first day of this week at about the seventh hour.*”
 
 “*The next time about ninety steps can be walked is tomorrow at about the sixth hour, and that is the Saturday of this week.*”
 
-“*I have been saying that since the Monday of the hundred and twenty-fourth week, and it is the same Friday every time.*”
+“*And it came off on a Tuesday, and then a Wednesday, and then a Thursday, and then a Friday, and then it came off last night.*”
 
-“*A bank that is full on the fourth day comes off on the eighth. I have given you that once and I am not going to give it again in this county.*”
+“*A bank that is full on the fourth day comes off on the eighth. I gave you that on Sunday and I am not going to give it again in this county.*”
 
 Then a man of fifty-four had the ninth line read to him in the open before anything else happened, and it was the sixteenth morning, and he said it flat and short.
 
@@ -38,11 +38,11 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*And I am going to say the other half of it and nobody asked me.*”
 
-“*About nine minutes is the only figure I have given anybody in about four weeks, and it is a figure of a job and not of a man.*”
+“*About nine minutes is a figure of a job and not of a man, and I have given it every morning for a fortnight and I have given nothing else.*”
 
-“*A day is about four inches, a bank is about sixteen, four days is a full bank.*”
+“*A day is about four inches, a bank is about sixteen, four days is a full bank. That is a man of forty-three’s and I have said it after him every morning for a fortnight.*”
 
-“*I have said those three things every morning for a fortnight, and they are the only figures I have ever been able to give out loud in nineteen years.*”
+“*And those are the only figures I have ever been able to give out loud in nineteen years, and I have never once given one of this county about myself.*”
 
 “*A man of forty-three has given the same three things every morning for a fortnight. I do not know what he has got them for and I am not going to ask him.*”
 
@@ -52,15 +52,15 @@ The four of them who had a man of thirty-eight who had read twenty-seven morning
 
 Then a boy of thirteen said out loud that he has been counting a man in an ash since the Friday of a fortnight. He gave the working, said he was not going to ask him anything, and nobody asked him a question about it.
 
-Wat Marshe is thirteen, and his mother is forty-one and has two carts and neither of them can be sent for about. He has been keeping three counts since the Saturday of a fortnight, and the third one he took off a man of sixty-one on the Friday of this week.
+Wat Marshe is thirteen, and his mother is forty-one and has two carts and neither of them can be sent for about. He has been keeping three counts since the Saturday of a fortnight. The third one of the three is a man in an ash and nobody has ever given him that figure, he counted it on the road coming down.
 
 “*A hundred and seven days.*”
 
 “*A hundred and seven is seven hundred and thirty-seven less six hundred and thirty, and I counted it on the road coming down and nobody asked me.*”
 
-“*And I gave ninety-eight on the Wednesday of this week and a hundred and three on the Monday, and I am not going to make a total of the three of them.*”
+“*And I gave ninety-eight on the Wednesday of last week and a hundred and three on the Monday of last week, and I am not going to make a total of the three of them.*”
 
-“*A woman of twenty-nine has been in a reed for a hundred and eight days, and a man of sixty-one gave that figure on the Friday of this week.*”
+“*A woman of twenty-nine has been in a reed for a hundred and eight days, and a man of sixty-one gave that figure on the Friday of a fortnight and has not given it since.*”
 
 “*A man of sixty-one has said he is not going to add them.*”
 
@@ -80,11 +80,11 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*A man of about fifty-two has said a mark is worth being sent for and is not worth being believed. About four of you believed the sixth.*”
 
-“*And a woman of twenty-eight told me on the Thursday of this week that the sixth is the one that did the damage.*”
+“*And a woman of twenty-eight told me yesterday that the sixth is the one that did the damage, and she said it in nine sentences.*”
 
 “*So this is not a decision. A decision is a thing a man of sixty-one would put a number to. This is a man of thirty-one counting what is left.*”
 
-“*And what is left is that I am nobody’s. A woman of forty-four said on the Thursday of a fortnight that there is not going to be a column in this county with my name at the top of it.*”
+“*And what is left is that I am nobody’s. A woman of forty-four said on the Thursday of last week that there is not going to be a column in this county with my name at the top of it, and I have had a week to argue with her and I have not.*”
 
 “*She was right.*”
 
@@ -116,7 +116,7 @@ Sera Quill is twenty-eight and is not one of the nine, and cannot be sent for ab
 
 About four on that bank had a woman of twenty-eight who had said four sentences and then admitted the shape of them. About nine of them had a man of thirty-one who had said he was not going to offer again and was not relieved of it.
 
-Then a man of fifty-four said the thing that has been standing behind all of it since the Sunday of this week. He cannot read, and he said it before anybody had asked him anything.
+Then a man of fifty-four said the thing that has been standing behind all of it since Sunday. He cannot read, and he said it before anybody had asked him anything.
 
 “*A man of thirty-one has just said he is not going to be the one who asks.*”
 

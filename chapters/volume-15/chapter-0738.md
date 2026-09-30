@@ -1,6 +1,6 @@
-# Chapter 738: Sixth Day Of The Hundred And Twenty-Seventh Week, And A Saturday, And On Which The Fever Was Sixty-Five Weeks Old, And The Water Comes Off All Ninety Of The Steps In The Night For The Tenth Time, And A Man Of Thirty-Eight Offers To Read The Ninth Line To A Man Of Fifty-Four In The Dark And Is Refused In Nine Sentences
+# Chapter 738: Fifth Day Of The Hundred And Twenty-Seventh Week, And A Saturday, And On Which The Fever Was Sixty-Five Weeks Old, And The Water Comes Off All Ninety Of The Steps In The Night For The Ninth Time, And A Man Of Thirty-Eight Offers To Read The Ninth Line To A Man Of Fifty-Four In The Dark And Is Refused In Nine Sentences
 
-Sixth day of the hundred and twenty-seventh week. His four hundred and eighty-eighth morning. Three hundred and thirty-eight days after the settlement. The fever sixty-five weeks old. Two hundred and ninety-two days since the division. Two hundred and thirty-eight days since a page was read out in a room with the door shut, in a town in another county.
+Fifth day of the hundred and twenty-seventh week. His four hundred and eighty-eighth morning. Three hundred and thirty-eight days after the settlement. The fever sixty-five weeks old. Two hundred and ninety-two days since the division. Two hundred and thirty-eight days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -10,21 +10,21 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and about n
 
 “*Off all ninety at the sixth hour. It came off in the night.*”
 
-“*It was full on the Monday of this week and four days is the working.*”
+“*It was full on the first day of this week and four days is the working, and four inches a day is the rest of it.*”
 
-“*And that is the tenth time it has come off in the night since the Saturday of the hundred and nineteenth week.*”
+“*And that is the ninth time it has come off in the night since the Saturday of the hundred and nineteenth week, and the fifth of those was a Tuesday and this one is a Saturday.*”
 
 “*I am not going to tell you how many days that is. There is no figure for a river and I have given you about nine numbers this week.*”
 
-“*A bank that is full on the fourth day comes off on the eighth. I said that on the Wednesday of this week and I am going to leave it there.*”
+“*A bank that is full on the fourth day comes off on the eighth. I said that on Sunday and I said it again yesterday and I am going to leave it there.*”
 
 Then a man of fifty-four had the ninth line read to him in the open before anything else happened, and it was the seventeenth morning, and it was the morning the water came off.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain and cannot read a word of the paper on that counter. He has asked for the ninth line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has still not answered the fifth thing that was asked of him on a Sunday of a fortnight, and nobody has asked him about it.
+Barnaby Crove is fifty-four and holds the gravel at the head of that drain and cannot read a word of the paper on that counter. He has asked for the ninth line in the open every morning since the Thursday of the hundred and twenty-fifth week, and on the Sunday before last he asked to be in a room and he was not given one. He has still not answered the fifth thing that was asked of him on a Sunday of a fortnight, and nobody has asked him about it.
 
 “*Seventeen mornings and I have not varied the asking by one word.*”
 
-“*And that water came off in the night and I have been listening to it since the second hour because I do not sleep in it and I did not know it was going to come off.*”
+“*And that water came off in the night and I have been listening to it since the second hour because I do not sleep through it and I did not know it was going to come off.*”
 
 “*The fifth thing is still not answered, and nobody has asked me about it, and I am still waiting.*”
 
@@ -32,7 +32,7 @@ Barnaby Crove is fifty-four and holds the gravel at the head of that drain and c
 
 Then the man of thirty-eight read that line out loud in the open on that bank, and then read fourteen names, and it took about nine minutes, and the sheet went back on that counter.
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet twenty-eight times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He decided every morning from the Monday of the hundred and twenty-fourth week to the Saturday of this week, and he stopped on the Sunday.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet twenty-eight times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He decided every morning from the Monday of the hundred and twenty-fourth week to yesterday, and he has not said what he was deciding.
 
 “*Twenty-eight is seven hundred and thirty-eight less seven hundred and ten, and there has not been one of the twenty-eight in the dark.*”
 
@@ -56,7 +56,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and has
 
 “*No. Nine sentences, and the ninth one is the reason.*”
 
-“*I said them on a Sunday of a fortnight and I am saying all nine again, because the two are not the same thing.*”
+“*I have said nine sentences before on this bank and I am saying all nine again, because the two are not the same thing.*”
 
 “*One: I asked for that line to be read to me in the open, and you have read it to me in the open seventeen mornings running.*”
 
@@ -72,7 +72,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and has
 
 “*Six: and the one that matters is that you would have to hold that paper in one hand and the lamp in the other, and then I could not tell which of the two I was listening to.*”
 
-“*Seven: and I have had two hands in four of those nine openings in nineteen years and I am not going to have a paper in one of them.*”
+“*Seven: and I have had my own hand in four of those nine openings in nineteen years and I am not going to have a paper in one of them.*”
 
 “*Eight: I am not going to be thanked for refusing you, and I am not going to be told I was brave about it.*”
 
@@ -122,13 +122,13 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*And I have been the one they would have gone to.*”
 
-“*On Wednesday I said I would go up four miles and I did not, and on Friday I said I was not going to offer again, and I meant it.*”
+“*On Tuesday I said I would go up four miles and I did not, and on Friday I said I was not going to offer again, and I meant it.*”
 
 “*A hundred and eighty-four is seven hundred and thirty-eight less five hundred and fifty-four, and I have been in this county a hundred and eighty-four days, and nobody has asked me for anything in one of them.*”
 
 “*And I am not relieved and I am not going to be thanked, and nobody is going to be told that I am the right instrument for a thing that is not being done.*”
 
-“*And none of this is an answer to anything that was asked on a Wednesday a fortnight before last.*”
+“*And none of this is an answer to anything that was asked on a Wednesday thirty-eight days ago, and thirty-eight is seven hundred and thirty-eight less seven hundred, and I am not going to let that be one either.*”
 
 “*I am not going to let it be one, and I am not going to let it be a reason.*”
 
@@ -138,7 +138,7 @@ Then they went up. The man of thirty-eight carried the lamp up last and said not
 
 The fever was sixty-five weeks old. He had been in that county a hundred and eighty-four days.
 
-The water came off all ninety of the steps in the night for the tenth time since the Saturday of the hundred and nineteenth week, and about nine people went down at the fifth hour, because a keeping is done before the light.
+The water came off all ninety of the steps in the night for the ninth time since the Saturday of the hundred and nineteenth week, and about nine people went down at the fifth hour, because a keeping is done before the light.
 
 A man of thirty-eight offered to read the ninth line out loud to a man of fifty-four in a hundred and thirty feet of dry passage before the light, and a man of fifty-four refused him in nine sentences and cannot read.
 

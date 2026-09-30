@@ -1,6 +1,6 @@
-# Chapter 740: First Day Of The Hundred And Twenty-Eighth Week, And A Monday, And A Man Of Sixty-One Gives A Count Of Nine Words In Two Sheets Of Deal And A Printed Sheet And A Man Of Thirty-Four In An Ash And Refuses To Add Them, And A Man Of Thirty-One Puts His Right Hand Flat On That Counter And Says The Cut Across It Is Fifty-Five Days Old And Nobody Says Whether It Will Keep
+# Chapter 740: Seventh And Last Day Of The Hundred And Twenty-Seventh Week, And A Monday, And A Man Of Sixty-One Counts The Nine Words In Three Places And Refuses To Add Them, And A Man Of Thirty-One Says The Cut Across His Right Palm Is Fifty-Five Days Old And Nobody Says Whether It Will Keep
 
-First day of the hundred and twenty-eighth week. His four hundred and ninetieth morning. Three hundred and forty days after the settlement. The fever sixty-five weeks and two days. Two hundred and ninety-four days since the division. Two hundred and forty days since a page was read out in a room with the door shut, in a town in another county.
+Seventh and last day of the hundred and twenty-seventh week. His four hundred and ninetieth morning. Three hundred and forty days after the settlement. The fever sixty-five weeks and two days. Two hundred and ninety-four days since the division. Two hundred and forty days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -12,7 +12,9 @@ Corvin Tace is forty-three, and that landing is the only sentence anybody can sa
 
 “*Two days. It was about four at this hour on the Sunday, and that is the working.*”
 
-“*And the next time about ninety steps can be walked is in two days from this morning, and that is the Wednesday of this week, and I said that on Sunday and it is the same Wednesday.*”
+“*And the next time about ninety steps can be walked is in six days from this morning, and that is the Sunday of next week, and I said that yesterday and it is the same Sunday.*”
+
+“*And it is the second day of it and it was about four at this hour on the Sunday, and that is the whole of the working.*”
 
 “*I have been saying the same three things every morning for about a fortnight.*”
 
@@ -34,7 +36,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 Then the man of thirty-eight read that line out loud in the open, and then read fourteen names, and it took about nine minutes, and he did not decide anything first.
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet thirty times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He decided every morning from the Monday of the hundred and twenty-fourth week to the Saturday of last week and stopped on the Sunday, and has said nothing about what he was deciding.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet thirty times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He decided every morning from the Monday of the hundred and twenty-fourth week to the Saturday of this week and stopped on the Sunday of this week, and has said nothing about what he was deciding.
 
 “*Thirty is seven hundred and forty less seven hundred and ten, and there has not been one of the thirty in the dark.*”
 
@@ -42,21 +44,21 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*And a man of thirty-four in an ash on the low side of that landing has been there a hundred and ten days, and there is a day against his name on that sheet, and I have read that line out loud thirty times and never said it.*”
 
-“*And a boy of thirteen gave a hundred and three on Friday and I am not going to add mine to his, and I am not going to be thanked for a figure of a man I have never spoken to.*”
+“*And a boy of thirteen gave a hundred and three on Monday and I am not going to add mine to his, and I am not going to be thanked for a figure of a man I have never spoken to.*”
 
 Then a man of sixty-one gave a count of three places the nine words have been in this county, and gave the working, and refused to add them, and gave a fourth reason he has not given before.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts in this county eleven years and has written one number in it in eleven years. There are five lines on the leaf after the last head, and a number is the last of the five. He stopped a count of days himself on the Wednesday of the hundred and fifteenth week and has refused the figure of it out loud three times in this band.
+Nevin Trask is sixty-one and has kept a book of heads and carts in this county eleven years and has written one number in it in eleven years. There are five lines on the leaf after the last head, and a number is the last of the five. He stopped a count of days himself on the Wednesday of the hundred and fifteenth week and has refused the figure of it out loud every time anybody has asked him for it, and has never given it.
 
 “*Three places, and I am giving the working first.*”
 
 “*One: the ninth line of a sheet of printed paper four hundred miles off, which a man of thirty-eight has read out loud in the open thirty mornings and a man of fifty-four has been read it nineteen mornings in the open.*”
 
-“*Two: the mouth of a woman of forty-four four miles up that cart road, and she has been asked three times and answered twice, and on Wednesday of this week she said a third man came through her own door and used the same nine words.*”
+“*Two: the mouth of a woman of forty-four four miles up that cart road, and she has been asked three times and answered twice, and on Tuesday of this week she said a third man came through her own door and used the same nine words.*”
 
-“*Three: a bank in this county at about the ninth hour on a Sunday of a fortnight, and a man of fifty-four was asked there, and about nine people heard it, and the ninth room of nine has never had a day against either name on it.*”
+“*Three: a bank in this county at about the ninth hour twenty-two days ago, and a man of fifty-four was asked there, and about nine people heard it, and the ninth room of nine has never had a day against either name on it.*”
 
-“*And I am not going to add them, and this time the reason is not the one I gave on the Tuesday of a fortnight, and it is not the one I gave last week either.*”
+“*And I am not going to add them, and this time the reason is not the one I gave the last time, and it is not going to be the one I give next time either.*”
 
 “*Here is the fourth reason and it is the whole of it: two of those three are a person being spoken to, and one of them is a line on a piece of paper, and a person and a line are not the same size and a total would say they were.*”
 
@@ -70,7 +72,7 @@ Four of them, out of the nine, had a man of sixty-one with three places and a fo
 
 Then a woman of forty said the whole of it in about nine sentences, and she gave the working, and she refused the tenth, and nobody picked one for her.
 
-Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the first morning of the hundred and twenty-seventh week there were fourteen names on nine lines and two of them were in ink. She has still not said which three of the five have a day.
+Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the last morning of the hundred and twenty-sixth week there were fourteen names on nine lines and two of them were in ink. She has still not said which three of the five have a day.
 
 “*Three places, and I am going to say what I am standing in front of first, because that is how it is done on this bank.*”
 
@@ -80,7 +82,7 @@ Wenna Callow is forty and asks for a day against a name and has never once asked
 
 “*A man of sixty-one said that on the first day of the hundred and twenty-fifth week, and he has not said it a second time.*”
 
-“*And a column that means one thing in a book and another thing on that sheet is one column in two places, and I said that on the Tuesday of the hundred and twenty-fourth week, and there is still no form in this county that says which one you are reading.*”
+“*And a column that means one thing in a book and another thing on that sheet is one column in two places, and I said that on the Wednesday of the hundred and twenty-fourth week, and there is still no form in this county that says which one you are reading.*”
 
 “*And a mark is a thing somebody puts beside a rule to say nobody has been through it. A man of about fifty-two said that on the Tuesday of the hundred and twenty-seventh week, and a man of thirty-one said it out loud the same morning.*”
 
@@ -98,7 +100,7 @@ Wenna Callow is forty and asks for a day against a name and has never once asked
 
 “*And the ninth sentence was that the open and the dark are not the same thing.*”
 
-“*And I am not going to say that a practice is a settlement, because I said that on the second day of the hundred and twenty-third week, and every one of you heard me, and about four of you have been waiting a fortnight for me to say it again.*”
+“*And I am not going to say that a practice is a settlement, because I said that on the seventh and last day of the hundred and twenty-third week, and every one of you heard me, and about four of you have been waiting a fortnight for me to say it again.*”
 
 “*And the tenth sentence is not coming and I am not going to make it up, and I am not going to say which of the nine of those is a person.*”
 
@@ -112,11 +114,11 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*Fifty-five is seven hundred and forty less six hundred and eighty-five.*”
 
-“*I have said the working out loud and I am not going to let any of you make it into anything else, and about four of you have been counting it since the Friday of a fortnight and about nine of you did not know until this morning.*”
+“*I have said the working out loud and I am not going to let any of you make it into anything else, and about four of you have been counting it for eleven days and about nine of you did not know until this morning.*”
 
-“*I said on the Thursday of a fortnight that nobody was going to say whether it will keep, and nobody has, and I am saying again this morning that I am not going to let it be a thing.*”
+“*I said on the Thursday of last week that nobody was going to say whether it will keep, and nobody has, and I am saying again this morning that I am not going to let it be a thing.*”
 
-“*And nobody on this bank is going to say that it was worth it, and nobody is going to be forgiven for it and nobody is going to be thanked for it.*”
+“*And nobody on this bank is going to put a price on any of it, and nobody is going to be forgiven for it and nobody is going to be thanked for it.*”
 
 “*Here is the cost and I am going to give the working for it, and I am not going to put it in a better shape than it is in.*”
 
@@ -134,7 +136,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*Nobody is going to be told I was right about the seven offers or the seven refusals, and about four of you are going to say in about four days that he was right about something, and I would rather it was nothing at all.*”
 
-“*And none of this is an answer to the thing that was asked on a Wednesday a fortnight before last. I am not going to let it be one, and nobody is going to answer it for me.*”
+“*And none of this is an answer to the thing that was asked on a Wednesday forty days ago, and forty is seven hundred and forty less seven hundred, and I am not going to let it be one, and nobody is going to answer it for me.*”
 
 Then the sheet went back on that counter where anybody could put a hand on it. Nobody carried it anywhere. About nine people stood on that bank in the wind. A man of fifty-four had not answered anything, and a man of thirty-eight had decided nothing, and a man of thirty-one had a cut across his right palm that is fifty-five days old, and nobody on that bank had said whether it will keep.
 

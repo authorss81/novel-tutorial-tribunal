@@ -1,6 +1,6 @@
-# Chapter 734: Second Day Of The Hundred And Twenty-Seventh Week, And A Wednesday, And A Man Of About Fifty-Two Who Cannot See Well Says Out Loud That A Mark Is Worth Being Sent For And Is Not Worth Being Believed, And A Woman Of Forty-Four Walks Four Miles Down That Cart Road To Say She Has Been Asked A Fourth Thing, And A Man Of Thirty-One Says He Will Go Up That Road Himself
+# Chapter 734: First Day Of The Hundred And Twenty-Seventh Week, And A Tuesday, And A Man Of About Fifty-Two Says A Mark Is Worth Being Sent For And Is Not Worth Being Believed, And A Woman Of Forty-Four Walks Four Miles Down A Cart Road, And A Man Of Thirty-One Says He Will Go Up It Himself
 
-Second day of the hundred and twenty-seventh week. His four hundred and eighty-fourth morning. Three hundred and thirty-four days after the settlement. The fever sixty-four weeks and three days. Two hundred and eighty-eight days since the division. Two hundred and thirty-four days since a page was read out in a room with the door shut, in a town in another county.
+First day of the hundred and twenty-seventh week. His four hundred and eighty-fourth morning. Three hundred and thirty-four days after the settlement. The fever sixty-four weeks and three days. Two hundred and eighty-eight days since the division. Two hundred and thirty-four days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -8,17 +8,19 @@ The bank was still full at about the seventh hour, and the man of forty-three ga
 
 Corvin Tace is forty-three, and that landing is the only sentence anybody can say about him that has not had to be corrected. He has given two figures for a night since he stopped saying he had nothing to say about one, and neither of those two is his. He is not going to give a fourth thing out of the three he gives every morning.
 
-“*Sixteen inches over the top step, and it is the fifth day of it.*”
+“*Sixteen inches over the top step, and this is the first morning it has been that.*”
 
-“*Five days. A full bank holds, and it was full yesterday, and that is the whole of the working.*”
+“*Four days. Four inches a day, and it was about twelve at this hour yesterday, and that is the whole of the working.*”
 
-“*And the next time about ninety steps can be walked is in three days from this morning, and that is the Friday of this week.*”
+“*And that is four days after this bank is full, and this bank is full now.*”
 
-“*I said on Tuesday that I would not say it a second time, and I am going to break that once and only once.*”
+“*And the next time about ninety steps can be walked is in four days from this morning, and that is the Saturday of this week.*”
 
-“*About four of you have been waiting two days for a fourth thing and I am not going to give you one.*”
+“*And I am not going to give you a fifth thing, and I have said the same three things every morning for a fortnight and I am not going to be thanked for them.*”
 
-Then a man of fifty-four had the ninth line read to him in the open before anything else happened. It was the thirteenth morning, and he said the thing that had been standing behind it since the Sunday of this week.
+“*About four of you have been waiting three days for a fourth thing and I am not going to give you one, and that is not going to change on the last morning of a week either.*”
+
+Then a man of fifty-four had the ninth line read to him in the open before anything else happened. It was the thirteenth morning, and he said the thing that had been standing behind it since the Sunday before last.
 
 Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and cannot read a word of the paper on that counter. He has asked for the ninth line in the open every morning since the Thursday of the hundred and twenty-fifth week. The fifth thing that was asked of him on a Sunday of a fortnight is still not answered, and nobody has asked him about it.
 
@@ -26,7 +28,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 “*And I have not asked for the room again and nobody has offered it and that is the correct way round.*”
 
-“*I am still not answering the fifth thing. I said on Sunday that I would wait to be asked.*”
+“*I am still not answering the fifth thing. I said on the Sunday that I would wait to be asked.*”
 
 “*Not one of the nine of you has asked me, and that is not a favour to anybody.*”
 
@@ -116,9 +118,9 @@ Hester Ollerton is forty-four and has kept that bakehouse nineteen years, and ab
 
 “*Two men in two coats came through my own door and used the same nine words.*”
 
-“*I worked out on the Sunday of a fortnight ago that the nine words on the ninth line of a printed sheet are the same nine words.*”
+“*I worked out on the Sunday that the nine words on the ninth line of a printed sheet are the same nine words.*”
 
-“*A third man came through that door on the Sunday of this week and used the same nine words a third time.*”
+“*A third man came through that door on the Sunday, and that is two days back, and he used the same nine words a third time.*”
 
 “*He did not know about the other two, and I have not said that out loud to anybody before this morning.*”
 
@@ -146,7 +148,7 @@ Then a man of thirty-one said he would go up that road himself and ask her the f
 
 “*And he is going to be right about the six.*”
 
-Four of the nine had a man of thirty-one who had said he would go up four miles. About nine of them had a man of fifty-four who had been refused six times out loud in about three weeks and had never once been told to stop.
+Four of the nine had a woman of forty-four who had come down four miles to say a thing she had not answered. About nine of them had a man of thirty-one who had been refused six times out loud in about three weeks and had never once been told to stop.
 
 ---
 

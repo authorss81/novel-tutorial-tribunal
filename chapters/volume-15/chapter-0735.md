@@ -1,6 +1,6 @@
-# Chapter 735: Third Day Of The Hundred And Twenty-Seventh Week, And A Wednesday, And A Man Of Thirty-One Offers To Be The One Who Asks For The Seventh Time In About Three Weeks And Is Refused In About Nine Sentences By A Woman Of Twenty-Eight Who Says A Seventh Is A Rule
+# Chapter 735: Second Day Of The Hundred And Twenty-Seventh Week, And A Wednesday, And A Man Of Thirty-One Offers To Be The One Who Asks For The Seventh Time In About Three Weeks And Is Refused In About Nine Sentences By A Woman Of Twenty-Eight Who Says A Seventh Is A Rule
 
-Third day of the hundred and twenty-seventh week. His four hundred and eighty-fifth morning. Three hundred and thirty-five days after the settlement. The fever sixty-four weeks and four days. Two hundred and eighty-nine days since the division. Two hundred and thirty-five days since a page was read out in a room with the door shut, in a town in another county.
+Second day of the hundred and twenty-seventh week. His four hundred and eighty-fifth morning. Three hundred and thirty-five days after the settlement. The fever sixty-four weeks and four days. Two hundred and eighty-nine days since the division. Two hundred and thirty-five days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -8,11 +8,11 @@ The bank was still full at about the seventh hour and the man of forty-three gav
 
 Corvin Tace is forty-three and has kept that landing nineteen years. He said he had nothing to say about a night five times and then stopped, and he has given two figures for a night since. Neither of those two is his. He is not going to give a fourth thing out of the three he gives every morning.
 
-“*Sixteen inches over the top step, and it is the sixth day of it.*”
+“*Sixteen inches over the top step, and it is the fifth day of it, and a full bank holds.*”
 
-“*Six days. A full bank holds, and it was full on the Monday of this week, and that is the whole of the working.*”
+“*Five days. It was full yesterday at about the seventh hour, and four inches a day and sixteen is the whole of the working.*”
 
-“*And the next time about ninety steps can be walked is in two days from this morning, and that is the Friday of this week.*”
+“*And the next time about ninety steps can be walked is in three days from this morning, and that is the Saturday of this week.*”
 
 “*And I am not going to be thanked for the three things and I am not going to be asked about them until they stop working.*”
 
@@ -22,7 +22,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 “*Fourteen mornings.*”
 
-“*And a man of about fifty-two said something in my hearing on Wednesday that I have not stopped carrying, and I am going to say what it was, and I am not going to be thanked for saying it.*”
+“*And a man of about fifty-two said something in my hearing yesterday that I have not stopped carrying, and I am going to say what it was, and I am not going to be thanked for saying it.*”
 
 “*He said a mark is worth being sent for and is not worth being believed, and both of those are true at once.*”
 
@@ -40,17 +40,17 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*And a man of thirty-eight has carried a board in his own coat since the last day of the hundred and twenty-first week and has never read it out.*”
 
-“*And about four of you worked out on Wednesday morning that a man of thirty-one said he would go up four miles yesterday and about nine of you did not work it out at all.*”
+“*And about four of you worked out on this morning that a man of thirty-one said he would go up four miles yesterday, and about nine of you did not work it out at all.*”
 
 “*He did not go. He is standing on this bank and he is not going up that road, and I am not going to say anything about that and I am not going to be thanked for not saying it.*”
 
-About four of that bank had a man of thirty-eight who had read twenty-five mornings. About nine of them had a man of thirty-one who had said he would go up four miles on Wednesday and had not gone.
+About four of that bank had a man of thirty-eight who had read twenty-five mornings. About nine of them had a man of thirty-one who had said he would go up four miles on Tuesday and had not gone.
 
 Then a man of thirty-one offered to be the one who asks for the seventh time in about three weeks. He said it in the plainest words anybody in this county has got, in the hearing of the nine of you standing there, before anybody had asked him anything.
 
-Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hundred and eighty-one days. A hundred and eighty-one is seven hundred and thirty-five less five hundred and fifty-four. Nobody has asked him for anything in one of them. He offered for the seventh time on Wednesday of this week, was refused six times out loud before that week, and nobody has ever told him to stop.
+Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hundred and eighty-one days. A hundred and eighty-one is seven hundred and thirty-five less five hundred and fifty-four. Nobody has asked him for anything in one of them. He offered on the Tuesday of this week to go up four miles and ask a question, he had offered six times to be the one who asks in about three weeks and been refused six times out loud, and nobody has ever told him to stop.
 
-“*I said on Wednesday that I would go up four miles and ask her, and I am not taking it back and I am not adding to it.*”
+“*I said yesterday that I would go up four miles and ask her, and I am not taking it back and I am not adding to it.*”
 
 “*A woman of forty-four said on Saturday that I am the best instrument in four counties for being the one who asks, and I have offered seven times in about three weeks and been refused six times out loud.*”
 
@@ -66,11 +66,11 @@ Sera Quill is twenty-eight and is not one of the nine, and cannot be sent for ab
 
 “*No. Nine sentences and the ninth one is the reason, and I am not going to let it be a rule.*”
 
-“*One: a man of about fifty-two said on Wednesday that a mark is worth being sent for and is not worth being believed.*”
+“*One: a man of about fifty-two said yesterday that a mark is worth being sent for and is not worth being believed.*”
 
-“*And you have heard it, and about four of you have been carrying it since Wednesday.*”
+“*And you have heard it, and about four of you have been carrying it since yesterday morning.*”
 
-“*And you have come up here on Thursday morning and offered to be the instrument of a thing nobody in four counties can be sent for about.*”
+“*And you have come up here on Wednesday morning and offered to be the instrument of a thing nobody in four counties can be sent for about.*”
 
 “*Two: there is no form anywhere that says a man may go up four miles and put a question to a woman at her own door.*”
 
@@ -90,7 +90,7 @@ Sera Quill is twenty-eight and is not one of the nine, and cannot be sent for ab
 
 “*Eight: and I have said the same sentence about nine times in about nine days and I am not going to begin again about this one.*”
 
-“*Nine: a man of about fifty-two said on Wednesday that a mark is not worth being believed, and about four of you believed the sixth.*”
+“*Nine: a man of about fifty-two said yesterday that a mark is not worth being believed, and about four of you believed the sixth.*”
 
 “*And the sixth is the one that did the damage and not this one, and I am not going to take that back either.*”
 
@@ -100,9 +100,9 @@ Then a man of thirty-one said the true of the ninth sentence in his own mouth an
 
 “*A hundred and eighty-one is seven hundred and thirty-five less five hundred and fifty-four, and I have been in this county a hundred and eighty-one days.*”
 
-“*I said on Wednesday that nobody is going to thank me for the seventh, and nobody is going to be told I was right about offering it.*”
+“*I said on Tuesday that I would go up that road, and I am not going to thank anybody for the seventh, and nobody is going to be told I was right about offering it.*”
 
-“*A man of about fifty-two said on Wednesday that a mark is not worth being believed. He is the only one of the nine standing here who cannot see well and he is right about that sentence and nobody has told him so.*”
+“*A man of about fifty-two said yesterday that a mark is not worth being believed. He is the only one of the nine standing here who cannot see well and he is right about that sentence and nobody has told him so.*”
 
 “*A woman of twenty-eight has said that a seventh is a rule, and that a rule is a thing that works without a person. She is right.*”
 
@@ -134,6 +134,6 @@ Then nothing whatever happened for the rest of that morning. About nine people s
 
 The fever was sixty-four weeks and four days old. He had been in that county a hundred and eighty-one days.
 
-A shut door is not the right of refusing. A sealed door is not that either. A man who cannot read is not it. And a person who cannot be asked has not refused anything, and about nine people have been waiting a fortnight for a woman of forty-four to say those four sentences in that order again.
+A woman of forty-four put four sentences out loud about a shut door, a sealed door, a man who cannot read and a person who cannot be asked, and said she has given the reason nine times in about six weeks, and that the reason is that all four of those things still leave a person standing on that bank.
 
 Nobody on that bank was given the right of refusing by anybody, in nine sentences or in four, and nobody is relieved, and about four of them had a man of thirty-one who was refused a seventh time and was not going to say it again.

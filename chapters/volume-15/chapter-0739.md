@@ -1,6 +1,6 @@
-# Chapter 739: Seventh And Last Day Of The Hundred And Twenty-Seventh Week, And A Sunday, And The Water Is About Four Inches Over The Top Step At The Seventh Hour And The Man Of Forty-Three Says The Next Time About Ninety Steps Can Be Walked Is In Three Days From This Morning, And A Man Of Thirty-Eight Says Out Loud That He Has Decided Nine Times And Is Going To Stop Deciding, And Nobody Asks Him What He Decided
+# Chapter 739: Sixth Day Of The Hundred And Twenty-Seventh Week, And A Sunday, And A Man Of Thirty-Eight Says Out Loud That He Has Decided Twenty Mornings Running And Is Going To Stop Deciding, And Nobody Asks
 
-Seventh and last day of the hundred and twenty-seventh week. His four hundred and eighty-ninth morning. Three hundred and thirty-nine days after the settlement. The fever sixty-five weeks and one day. Two hundred and ninety-three days since the division. Two hundred and thirty-nine days since a page was read out in a room with the door shut, in a town in another county.
+Sixth day of the hundred and twenty-seventh week. His four hundred and eighty-ninth morning. Three hundred and thirty-nine days after the settlement. The fever sixty-five weeks and one day. Two hundred and ninety-three days since the division. Two hundred and thirty-nine days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -14,13 +14,13 @@ Corvin Tace is forty-three and has stood on that landing nineteen years. He said
 
 “*Four inches a day, and a full bank is about sixteen, and a bank that is full stays full until it comes off.*”
 
-“*The next time about ninety steps can be walked is in three days from this morning, and that is the Wednesday of next week.*”
+“*The next time about ninety steps can be walked is in seven days from this morning, and that is the Sunday of next week.*”
 
-“*It is the first time I have said a Wednesday out loud in about a fortnight.*”
+“*It came off on a Tuesday, and a Wednesday, and a Thursday, and a Friday, and a Saturday, and this is the first Sunday I have said out loud in about a fortnight.*”
 
-“*Nobody on that bank is going to ask me what I think about a Wednesday, and I am not going to be thanked for it.*”
+“*Nobody on that bank is going to ask me what I think about a Sunday, and I am not going to be thanked for it.*”
 
-Then a man of fifty-four had the ninth line read to him in the open before anything else happened. It was the eighteenth morning, and it was the last morning of a week.
+Then a man of fifty-four had the ninth line read to him in the open before anything else happened. It was the eighteenth morning, and it was the last morning before a week turns over.
 
 Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and cannot read a word of the paper on that counter. He has asked for the ninth line in the open every morning since the Thursday of the hundred and twenty-fifth week and has not added a word. The fifth thing asked of him on a Sunday of a fortnight is still not answered, and nobody has asked him about it.
 
@@ -28,7 +28,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 “*And I know which one it is and I am not going to let about four of you work it out between you and think they have caught me.*”
 
-“*And the next three mornings are the Monday, the Tuesday and the Wednesday of next week, and I am going to ask on all three of them.*”
+“*And the next three mornings are the Monday of this week and the Tuesday and the Wednesday of next week, and I am going to ask on all three of them.*”
 
 “*I have still not answered the fifth thing, and nobody has asked me, and I am still waiting.*”
 
@@ -52,7 +52,7 @@ Then he said the other half. Nobody had asked him for it, and it was in a differ
 
 “*Not tomorrow. This morning. That is the whole of it and I have not said what the deciding was for.*”
 
-“*A man of fifty-four said on Friday of this week that a rule is a thing that works without a person, and he was not talking about me and he was right.*”
+“*A man of fifty-four said at first light yesterday that a rule is a thing that works without a person, and he was not talking about me and he was right.*”
 
 “*Deciding every morning is a thing that works with a person in it, and a child of nine at the back of it.*”
 
@@ -70,7 +70,7 @@ Four of that morning had a man of thirty-eight who had decided every morning sin
 
 Then a man of thirty-one said the true of it in his own mouth and said what it cost him. He gave the working, and said nobody was going to be thanked for either of them.
 
-Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hundred and eighty-five days. A hundred and eighty-five is seven hundred and thirty-nine less five hundred and fifty-four. On Friday of this week he said he is not going to offer again. On Saturday, in a passage a hundred and thirty feet under that bank, he said none of that is an answer to anything asked on a Wednesday a fortnight before last.
+Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hundred and eighty-five days. A hundred and eighty-five is seven hundred and thirty-nine less five hundred and fifty-four. On Friday of this week he said he is not going to offer again. On Saturday, in a passage a hundred and thirty feet under that bank, he said none of that is an answer to anything asked on a Wednesday thirty-nine days ago.
 
 “*A man of thirty-eight has just stopped deciding and I have been one of the things he was deciding about.*”
 
@@ -92,7 +92,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*And about four of you are going to be relieved in about four days and I would rather it was nothing at all.*”
 
-Then a woman of sixty-four said what the whole of that bank is, in about nine sentences. She said it was hers and not his, and she said it in the open on the last morning of a week.
+Then a woman of sixty-four said what the whole of that bank is, in about nine sentences. She said it was hers and not his, and she said it in the open on a Sunday morning.
 
 Ada Renk is sixty-four and has been out of every book in this county for nineteen years. She got up out of the book of heads and carts in the open nineteen years ago and there has been no line for her in it since. She has a name in ink on the ninth line of a sheet of printed paper with no day against it. There are fourteen names on nine lines and two of them are in ink.
 
@@ -114,16 +114,16 @@ Ada Renk is sixty-four and has been out of every book in this county for ninetee
 
 “*And I am not going to be thanked for saying that and I am not going to be told I was right about it.*”
 
-“*And about four of you can tell in four days that I said it first, and not a man with a hand and a book.*”
+“*And about four of you can tell in four days that I said it on a bank and not in a book, and that is all I am claiming and I am not going to be told I am right.*”
 
-About nine of them stood on that bank in the wind on the last morning of a week. About four of them had a man of thirty-eight who had stopped deciding and a man of thirty-one who was not going to offer again. A woman of sixty-four had paid one thing a day for nineteen years and was not going to be paid back.
+About nine of them stood on that bank in the wind on a Sunday morning. About four of them had a man of thirty-eight who had stopped deciding and a man of thirty-one who was not going to offer again. A woman of sixty-four had paid one thing a day for nineteen years and was not going to be paid back.
 
-Then the sheet went back on that counter where anybody could put a hand on it. Nobody carried it anywhere. About nine people stood in the wind with four inches of water under the top step, and nobody said another word about a Wednesday of next week.
+Then the sheet went back on that counter where anybody could put a hand on it. Nobody carried it anywhere. About nine people stood in the wind with four inches of water under the top step, and nobody said another word about a Sunday of next week.
 
 ---
 
 The fever was sixty-five weeks and one day old. He had been in that county a hundred and eighty-five days.
 
-A man of thirty-eight said out loud on the last morning of a week that he has decided nine times in about a fortnight and is going to stop deciding. He said deciding is a thing that works with a person in it, and refused to say what the deciding was about.
+A man of thirty-eight said out loud on a Sunday morning that he has decided every morning for twenty mornings, from the Monday of the hundred and twenty-fourth week to yesterday, and is going to stop deciding. He said deciding is a thing that works with a person in it, and refused to say what the deciding was about, and nobody asked him.
 
 And a woman of sixty-four said that about nine people on that bank have stopped doing a thing in about four days and she did not stop anything. She said the thing which cost her one thing a day for nineteen years is not paid back by four men putting a thing down.

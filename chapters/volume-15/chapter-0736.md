@@ -1,6 +1,6 @@
-# Chapter 736: Fourth Day Of The Hundred And Twenty-Seventh Week, And A Thursday, And A Man Of About Fifty-Two Asks A Man Of Thirty-One Out Loud How Long He Was In The Place He Is Not In For The Third Time In About Three Weeks, And The Figure Is Refused By Three People And Given To Nobody And Written Down Nowhere
+# Chapter 736: Third Day Of The Hundred And Twenty-Seventh Week, And A Thursday, And A Man Of About Fifty-Two Asks A Man Of Thirty-One Out Loud How Long He Was In The Place He Is Not In For The Second Time, And The Figure Is Refused By Two Men In Two Shapes And Given To Nobody And Written Down Nowhere
 
-Fourth day of the hundred and twenty-seventh week. His four hundred and eighty-sixth morning. Three hundred and thirty-six days after the settlement. The fever sixty-four weeks and five days. Two hundred and ninety days since the division. Two hundred and thirty-six days since a page was read out in a room with the door shut, in a town in another county.
+Third day of the hundred and twenty-seventh week. His four hundred and eighty-sixth morning. Three hundred and thirty-six days after the settlement. The fever sixty-four weeks and five days. Two hundred and ninety days since the division. Two hundred and thirty-six days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
@@ -8,13 +8,13 @@ The bank was still full at about the seventh hour, and the man of forty-three ga
 
 Corvin Tace is forty-three, and has stood on that landing for nineteen years, and has said he has nothing to say about a night five times and then stopped saying it. He has given two figures for a night since and he says neither of those two is his. He is not going to give a fourth thing out of the three he gives every morning.
 
-“*Sixteen inches over the top step, and it is the seventh day of it.*”
+“*Sixteen inches over the top step, and it is the sixth day of it, and a full bank holds.*”
 
-“*Seven days. A full bank holds, and it was full on the Monday of this week, and that is the whole of the working.*”
+“*Six days. It was full on the first day of this week at about the seventh hour, and four inches a day and sixteen is the whole of the working.*”
 
-“*And the next time about ninety steps can be walked is in one day from this morning, and that is tomorrow, and that is the Friday of this week.*”
+“*And the next time about ninety steps can be walked is in two days from this morning, and that is the Saturday of this week, and that is the same Saturday I have said every morning this week.*”
 
-“*And I have been giving you that figure for about three weeks and I have given it right every morning of this week, and I am not going to be thanked for the three days of it.*”
+“*And I have been giving you that figure for about three weeks and I have given it right every morning of this week, and I am not going to be thanked for any of it.*”
 
 Then a man of fifty-four had the ninth line read to him in the open before anything else happened. It was the fifteenth morning, and he said the thing that had been standing behind it since the Sunday of a fortnight.
 
@@ -24,7 +24,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 “*The fifth thing is not answered, and not one of the nine of you has asked me, and I am still waiting.*”
 
-“*A man of thirty-one offered on the Wednesday of this week to be the one who asks, and a woman of twenty-eight refused him in nine sentences on the Thursday. I was on that bank.*”
+“*A man of thirty-one offered on Tuesday to be the one who asks, and a woman of twenty-eight refused him in nine sentences yesterday. I was on that bank.*”
 
 “*I am not going to say a word about either of those.*”
 
@@ -38,7 +38,7 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*A man of thirty-four has been in an ash on the low side of that landing for a hundred and six days.*”
 
-“*Nobody has asked him anything in a hundred and six days, and a boy of thirteen gave that figure out loud on the Friday of this week, and gave the working.*”
+“*Nobody has asked him anything in a hundred and six days, and a boy of thirteen gave a figure for it out loud on the Monday, and gave the working, and I have not added mine to his.*”
 
 “*And I have read a line on that sheet that has got his day against it twenty-six mornings running. I have never once said that out loud on this bank.*”
 
@@ -48,17 +48,17 @@ Four people on that bank had a man of thirty-eight who had read twenty-six morni
 
 Then a man of about fifty-two asked a question on that bank that he had asked before. He said it flat, in about nine people’s hearing, and said he was asking it a third time.
 
-Simon Rook is about fifty-two and cannot see well, and is the fifth line of one of two sheets of deal in this county, and has been that person eleven years. He asked on the Thursday of a fortnight ago how long a man of thirty-one was in the place he is not in, in nine words, and a man of sixty-one cut him off in six sentences. He has been refused twice and has not said what he would do if he was refused a third time.
+Simon Rook is about fifty-two and cannot see well, and is the fifth line of one of two sheets of deal in this county, and has been that person eleven years. He asked on the Thursday of last week how long a man of thirty-one was in the place he is not in, in nine words, in the open, and a man of sixty-one cut him off in six sentences and the man of thirty-one cut him off in four. He has been refused twice and has not said what he would do if he was refused twice more.
 
 “*How long was he in the place he is not in.*”
 
-“*That is the whole of it, and it is nine words, and I have asked it twice in about three weeks.*”
+“*That is the whole of it, and it is nine words, and I asked it on the Thursday of last week and I have not asked it since.*”
 
-“*And I was not answered either time, and I am asking it a third time, and I am asking it in the open and Every one of you heard it.*”
+“*And I was not answered then and I am not expecting to be answered now, and I am asking it in the open and every one of you heard it.*”
 
 “*And I am not going to be thanked for asking and I am not going to be told I was right to ask.*”
 
-“*A woman of forty-four said on Wednesday of last week that an answer from her would be about nine people agreeing on a thing.*”
+“*A woman of forty-four said on Wednesday of last week that an answer from her would be nine people agreeing on a thing, and she has not given me one.*”
 
 “*She is right about that, and it is not why I am asking.*”
 
@@ -70,17 +70,15 @@ Then a man of sixty-one cut him off in six sentences, and it was not the six sen
 
 Nevin Trask is sixty-one and has kept a book of heads and carts in this county eleven years and has written one number in it in eleven years. There are five lines on the leaf after the last head, and a number is the last of the five. He stopped a count of days himself on the Wednesday of the hundred and fifteenth week and has refused the figure of it out loud ever since.
 
-“*Three, and I told you the number and I am not going to apologise for the number.*”
+“*I told you the number the first time and I am not going to apologise for the number, and I am using six sentences again because I have not found a shorter way.*”
 
-“*One: that is the third time, and I am using six sentences again.*”
+“*One: that is the second time anybody has asked me that in the open, and I am using six sentences again.*”
 
 “*There are six things to say and I have not found a shorter way and I am sixty-one.*”
 
-“*Two: a man of thirty-one said the true of my six sentences on the Thursday of a fortnight, and asked that it be said that he did.*”
+“*Two: a man of thirty-one said the true of my six sentences on the Thursday of last week, and asked that it be said that he did.*”
 
 “*And he is not going to say how long he was where he came from, in his own mouth, this morning or any other morning. That is his and not mine.*”
-
-
 
 “*Three: so there are two of us refusing it, and neither of us has said it out loud in the same words.*”
 
@@ -96,13 +94,11 @@ Nevin Trask is sixty-one and has kept a book of heads and carts in this county e
 
 “*That is the same size of thing, and about four of you have just worked it out, and I am not going to help you with it.*”
 
-
-
 “*Six: I am not going to give it to him and I am not going to let him give it.*”
 
 “*And if either of the two of you tries this morning then about nine people are going to hear me refuse it three times.*”
 
-About four of the nine had a man of sixty-one who had said a third of the six sentences was new. About nine of them had a man of about fifty-two who had asked a third time and been refused a third time and had not said what he would do next.
+About four of the nine had a man of sixty-one who had said two of the six sentences were new. About nine of them had a man of about fifty-two who had asked a second time and been refused a second time and had not said what he would do next.
 
 Then a man of thirty-one refused it himself in his own mouth, in a shape that is not either of the two, and asked that it be said that he did.
 
@@ -110,13 +106,13 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*No. Four sentences and the fourth one is the reason and it is about me and not about either of you.*”
 
-“*One: I have said it twice in about three weeks and both of those times it was after a man of sixty-one had already said it, and this morning I am saying it before he starts.*”
+“*One: I have said it twice and both of those times it was after a man of sixty-one had already said it, and this morning I am saying it before he starts.*”
 
 “*Two: that is the third shape and I have worked out that it is the third shape on purpose, and I am not going to tell anybody whether that was clever or whether it was cowardice.*”
 
 “*Three: a man of about fifty-two has been a line on two sheets of deal for eleven years and he cannot find himself on either.*”
 
-“*He has asked me three times about a place I was in and I have not given him one word of it.*”
+“*He has asked me twice about a place I was in and I have not given him one word of it either time.*”
 
 “*And I am not going to give him a figure and I am not going to give him a story.*”
 
@@ -128,17 +124,17 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*I am not going to improve on it.*”
 
-About nine of them stood on that bank in the wind on the fourth morning of a week. Four of them had a figure of days that three people had refused out loud. It was given to nobody and written down nowhere.
+About nine of them stood on that bank in the wind on the third morning of a week. Four of them had a figure of days that two men had refused out loud, in two shapes, on two mornings. It was given to nobody and written down nowhere.
 
 Then a woman of forty gave the whole of it in about nine sentences. She gave the working before it, and she refused the tenth, and nobody picked one for her.
 
-Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the first day of the hundred and twenty-seventh week she said there are fourteen names on nine lines and two of them are in ink. She has still not said which three of the five have a day.
+Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the last day of the hundred and twenty-sixth week she said there are fourteen names on nine lines and two of them are in ink. She has still not said which three of the five have a day.
 
 “*Three places, and I am going to say what I am standing in front of before I count them, because that is what I have been asked for.*”
 
-“*Three refusals, and I am going to count them because counting is what I do and because nobody is going to.*”
+“*Two refusals, and I am going to count them because counting is what I do and because nobody is going to.*”
 
-“*One man of sixty-one, and one man of thirty-one, and neither of them said it in the same words.*”
+“*One man of sixty-one, and one man of thirty-one, and neither of them said it in the same words, and that is the second morning of the two and not a third one.*”
 
 “*That is a figure of two men and not a figure of a thing.*”
 
@@ -160,7 +156,7 @@ Wenna Callow is forty and asks for a day against a name and has never once asked
 
 “*Eight: there are three things that have been in this county about nineteen years.*”
 
-“*I gave the count on a Sunday of a fortnight and refused to pick one, and a man of forty-one stopped being the ninth of nine about a minute old on the Friday of this week.*”
+“*I gave the count on a Sunday of a fortnight and refused to pick one, and a man of forty-one stopped being the ninth of nine about a minute old on the Friday of last week.*”
 
 “*And I am not going to say what a minute old thing is, and I am not going to say that the three of those are the same size as the three of these.*”
 
@@ -168,9 +164,9 @@ Wenna Callow is forty and asks for a day against a name and has never once asked
 
 Then a woman of forty-four said the last of it in four sentences. It was about a man and not about a figure.
 
-“*Three people have refused you a figure this morning and every one of you heard all three, and four of you can tell the three apart.*”
+“*Two men have refused you a figure this morning and every one of you heard both, and four of you can tell the two apart.*”
 
-“*And that is the first time in about three weeks that a refusal has had a shape anybody could work out from the outside.*”
+“*And that is the second morning running that a refusal has had a shape anybody could work out from the outside, and on the first of the two the two shapes were the same size.*”
 
 “*And I am not going to say what that is worth, and I am not going to be thanked for saying it, and nobody on this bank has been given the right of refusing this morning by anybody.*”
 
@@ -180,6 +176,6 @@ Then a woman of forty-four said the last of it in four sentences. It was about a
 
 The fever was sixty-four weeks and five days old. He had been in that county a hundred and eighty-two days.
 
-A man of about fifty-two who cannot see well asked a man of thirty-one out loud, in nine words, how long he was in the place he is not in, for the third time in about three weeks. A man of sixty-one cut him off in six sentences and said three of the six were new.
+A man of about fifty-two who cannot see well asked a man of thirty-one out loud, in nine words, how long he was in the place he is not in, for the second time, on the same question he put in the open on the Thursday of last week. A man of sixty-one cut him off in six sentences and said two of the six were new.
 
 And the man of thirty-one refused it himself before the man of sixty-one started, in a shape that is not either of the two. He said he was not going to say how long he was where he came from, and that the figure was given to nobody and written down nowhere.

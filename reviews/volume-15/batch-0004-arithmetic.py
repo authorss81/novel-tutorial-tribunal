@@ -1,22 +1,26 @@
 #!/usr/bin/env python3
-"""The two arithmetic sweeps for Volume 15 Band 0004, as code, because a method
+"""The arithmetic sweeps for Volume 15 Band 0004, as code, because a method
 written out in prose is not a method.
 
-  1. EVERY `SEVEN HUNDRED AND ... LESS ... HUNDRED AND ...` PHRASE IS PARSED AND
-     RECOMPUTED. THE WINDOW IS ON BOTH SIDES OF `less`, BECAUSE A PARSER THAT
-     ONLY READS THE RESULT WORD AFTER THE PHRASE REPORTS FALSE HITS WHEREVER THE
-     RESULT WORD PRECEDES THE SUBTRACTION -- *Sixteen is seven hundred and
-     seventeen less seven hundred and one*. HYPHENS ARE NORMALISED FIRST, BECAUSE
-     *eighty-five* IS ONE TOKEN TO A REGEX AND TWO WORDS TO A MAN, AND THAT IS A
-     FOURTH FAILURE MODE AND NOT A FIFTH.
+1. EVERY `SEVEN HUNDRED AND ... LESS ... HUNDRED AND ...` PHRASE IS PARSED AND
+   RECOMPUTED.  THE WINDOW IS ON BOTH SIDES OF `less`, BECAUSE A PARSER THAT
+   ONLY READS THE RESULT WORD AFTER THE PHRASE REPORTS FALSE HITS WHEREVER THE
+   RESULT WORD PRECEDES THE SUBTRACTION -- *Sixteen is seven hundred and
+   seventeen less seven hundred and one*.  HYPHENS ARE NORMALISED BOTH WAYS,
+   BECAUSE *eighty-five* IS ONE TOKEN TO A REGEX AND TWO WORDS TO A MAN.
 
-  2. EVERY DAY-COUNT SPOKEN AGAINST A CHAPTER IS RESOLVED THROUGH THE FORMULA,
-     NOT READ. A UNIT MAP SAYS WHICH RULE GOVERNS WHICH UNIT, AND A COUNT WITH NO
-     UNIT IN THE MAP IS PRINTED AND NOT JUDGED, BECAUSE IT IS A COUNT OF SOMETHING
-     ELSE.
+   THE RESULT IS LOOKED FOR IN THE WHOLE PARAGRAPH BLOCK THE PHRASE IS IN AND NOT
+   IN THE SINGLE LINE, BECAUSE A MAN PUTS THE FIGURE IN ONE SENTENCE AND THE
+   WORKING IN THE NEXT AND A LINE IS NOT A PLACE.  THE CALIBRATION CATCHES THIS:
+   AT `712` THE FIGURE IS *a hundred and fifty-eight* ON ONE LINE AND THE
+   WORKING IS *seven hundred and twelve less five hundred and fifty-four* ON THE
+   NEXT, AND A ONE-LINE WINDOW FLAGS IT AND IS WRONG.
 
-  BOTH ARE RUN ON 701-720 FIRST AS A CALIBRATION, WHICH MUST COME BACK CLEAN, AND
-  THEN ON 721-730, WHICH THE LAST BAND CERTIFIED AT 36 PHRASES AND 0 FLAGGED.
+2. THE LIVE COUNTERS ARE WRITTEN DOWN IN ORDER AND READ BACK.  A COUNTER THAT IS
+   ONE OUT DOES NOT LOOK LIKE ONE OUT AND IT IS THE ONLY FIGURE IN THIS BOOK WITH
+   NO ANCHOR TO CATCH IT.  ⚠ THIS SWEEP CAUGHT A REAL ONE OUT IN THE LAST BAND.
+
+BOTH ARE RUN ON 701-720 FIRST AS A CALIBRATION, WHICH MUST COME BACK CLEAN.
 """
 import re
 import sys
@@ -27,18 +31,24 @@ _TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy',
          'eighty', 'ninety']
 SMALL = {w: i for i, w in enumerate(_ONES)}
 SMALL.update({w: 10 * i for i, w in enumerate(_TENS) if w})
-# LONGEST ALTERNATION FIRST. A REGEX ALTERNATION TAKES THE FIRST BRANCH THAT
-# MATCHES, AND *nine* COMES BEFORE *ninety* IN DICTIONARY ORDER, SO
-# *ninety-three* PARSES AS *nine* AND THEN *three* AND EVERY FIGURE IN THE
-# SENTENCE AFTER IT IS WRONG. THAT IS NOT A FALSE POSITIVE, IT IS A PARSER THAT
-# DOES NOT COUNT.
+# LONGEST ALTERNATION FIRST.  A REGEX ALTERNATION TAKES THE FIRST BRANCH THAT
+# MATCHES, AND *nine* COMES BEFORE *ninety*, SO *ninety-three* PARSES AS *nine*
+# AND THEN *three* AND EVERY FIGURE IN THE SENTENCE AFTER IT IS WRONG.
 W = '|'.join(sorted(list(SMALL) + ['hundred', 'thousand'], key=len, reverse=True))
 NUMRUN = re.compile(r'(?:' + W + r')(?:[\s-]+(?:and[\s-]+)?(?:' + W + r'))*')
 LESS = re.compile(r'\bless\b', re.I)
 
 
 def norm(t):
-    return re.sub(r'-\s+', '-', t)
+    t = t.lower().replace('’', "'")
+    # HORIZONTAL WHITESPACE ONLY.  `\s` INCLUDES THE NEWLINE, AND A HYPHEN AT
+    # THE END OF A LINE IS AN EM DASH IN THE HOUSE FORM, SO COLLAPSING `-\s+`
+    # JOINS TWO LINES AND EVERY LINE NUMBER AFTER IT IS WRONG.  THAT IS A FIFTH
+    # FAILURE MODE OF THIS PARSER AND NOT A DEFECT IN THE TEXT.
+    t = re.sub(r'-[ \t]+', '-', t)
+    t = re.sub(r'[ \t]*-[ \t]*', '-', t)
+    t = re.sub(r'[ \t]+', ' ', t)
+    return t
 
 
 def val(s):
@@ -58,152 +68,216 @@ def val(s):
     return tot + cur
 
 
-def left_operand(text, end):
-    """The number-word run that ends immediately before `end`."""
-    best = None
-    for m in NUMRUN.finditer(text):
-        if m.end() == end:
-            best = m
-    return best
-
-
-def less_phrases(path):
-    raw = norm(open(path, encoding='utf-8').read())
-    out = []
-    for lm in LESS.finditer(raw):
-        L = raw[:lm.start()].rstrip()
-        R = raw[lm.end():]
-        rm = NUMRUN.search(R)
-        if not rm:
-            continue
-        lmL = left_operand(L, len(L))
-        if not lmL:
-            continue
-        a, b = val(lmL.group(0)), val(rm.group(0))
-        if a is None or b is None or b > a:
-            continue
-        # THE RESULT, WHICH IS ON EITHER SIDE OF THE PHRASE, IS LOOKED FOR IN THE
-        # SENTENCE THAT HOLDS THE PHRASE AND NOT IN THE CHARACTER BEFORE IT,
-        # BECAUSE A CHARACTER BEFORE IT IS A SHAPE AND A SENTENCE IS A PLACE.
-        sent_start = raw.rfind('\n', 0, lmL.start()) + 1
-        sent_end = raw.find('\n', lmL.start())
-        sent = raw[sent_start:sent_end if sent_end > 0 else len(raw)].lower()
-        got = a - b
-        claim = None
-        if got == 0:
-            claim = got
-        else:
-            for m in NUMRUN.finditer(sent):
-                v = val(m.group(0))
-                if v == got:
-                    claim = got
-                    break
-        line = raw[:lmL.start()].count('\n') + 1
-        out.append((a, b, got, claim, line, sent.strip()[:90]))
-    return out
-
-
-# unit -> (name, rule).  rule(ch) is the figure the chapter must carry.
-def R(**kw):
-    return kw
-
-UNITS = {
-    'his days in the county of kell': ('KELL', lambda c: c - 554),
-    'a boy of thirteen\'s days': ('BOY', lambda c: c - 701),
-    'a cut across a right palm': ('CUT', lambda c: c - 685),
-    'a man in an ash': ('ASH', lambda c: c - 630),
-    'a woman in a reed': ('REED', lambda c: c - 629),
-    'readings': ('READ', lambda c: c - 710),
-    'reading': ('READ', lambda c: c - 710),
-    'mornings of the asking': ('ASK', lambda c: 1 + (c - 722)),
-    'times he has asked': ('ASK', lambda c: 1 + (c - 722)),
-}
-UNITWORD = ('morning|mornings|reading|readings|name|names|day|days|night|'
-            'nights|week|weeks|year|years|inch|inches|feet|second|seconds|'
-            'minute|minutes|step|steps|opening|openings|space|spaces|line|lines|'
-            'sentence|sentences|offer|offers|thing|things|man|men|woman|women|'
-            'boy|boys|child|children|chair|chairs|board|boards|hash|ash|reed')
-UNITPAT = re.compile(r'((?:' + W + r')(?:[\s-]+(?:and[\s-]+)?(?:' + W + r'))*)'
-                     r'((?:%s)\b)' % UNITWORD, re.I)
-
-
-def day_counts(path, c):
-    raw = norm(open(path, encoding='utf-8').read()).lower()
-    rows = []
-    for m in UNITPAT.finditer(raw):
-        n = val(m.group(1))
-        if n is None:
-            continue
-        rows.append((n, m.group(2), m.start()))
-    return rows
-
-
-def sweep(lo, hi, vol='volume-15', full=True):
-    phrases = flagged = 0
-    for c in range(lo, hi + 1):
-        p = f'chapters/{vol}/chapter-{c:04d}.md'
-        for a, b, got, claim, line, sent in less_phrases(p):
-            phrases += 1
-            if claim != got:
-                flagged += 1
-                print(f'  ch{c:04d}:{line}  LESS MISMATCH  {a} less {b} = {got}; '
-                      f'the sentence does not carry it: ...{sent}...')
-    print(f'  LESS PHRASES {lo}-{hi}: {phrases} parsed, {flagged} flagged.')
-    if not full:
-        return flagged
-    return flagged
-
-
-COUNTERS = {
-    # name, the exact phrase the page must carry, the rule, the unit it counts
-    'READINGS  (ch-710)': (r'{n} readings\b', lambda c: c - 710),
-    'ASKING    (1+ch-722)': (r'{n} mornings\b', lambda c: 1 + (c - 722)),
-    'BOY-DAYS  (ch-701)': (r'{n} days\.', lambda c: c - 701),
-    'KELL      (ch-554)': (r'in this county a hundred and {n}\b', None),
-    'CUT       (ch-685)': (r'cut across it is {n} days old', lambda c: c - 685),
-    'ASH       (ch-630)': (r'ash[^.]{0,120}?for {n} days', lambda c: c - 630),
-    'REED      (ch-629)': (r'reed[^.]{0,120}?for {n} days', lambda c: c - 629),
-}
-
-
-def counters(lo, hi, vol='volume-15'):
-    """The live counters of the band, written down in order and read back. A
-    counter that is one out does not look like one out and it is the only figure
-    in this book with no anchor to catch it."""
-    print(f'  THE LIVE COUNTERS, {lo}-{hi}, IN ORDER')
-    for name, (pat, rule) in COUNTERS.items():
-        print(f'    {name}')
-        for c in range(lo, hi + 1):
-            p = f'chapters/{vol}/chapter-{c:04d}.md'
-            raw = norm(open(p, encoding='utf-8').read()).lower()
-            want = c - 554 if rule is None else rule(c)
-            n = spell(want)
-            pat2 = pat.format(n=n)
-            if name.startswith('KELL'):
-                pat2 = r'a hundred and ' + n + r'\b'
-            hits = re.findall(pat2, raw)
-            if hits:
-                print(f'      ch{c}: {want:4d}  {n:34s}  {len(hits)} on the page')
-            else:
-                print(f'      ch{c}: {want:4d}  {n:34s}  --')
-
-
 def spell(n):
     if n < 20:
         return _ONES[n]
     if n < 100:
         t, u = _TENS[n // 10], n % 10
-        return t + ((' ' + _ONES[u]) if u else '')
+        return t + (('-' + _ONES[u]) if u else '')
     h, r = n // 100, n % 100
-    return _ONES[h] + ' hundred' + ((' and ' + spell(r)) if r else '')
+    return _ONES[h] + 'hundred' + (('-' + spell(r)) if r else '')
+
+
+def aspell(n):
+    """the form the page uses: *a hundred and seventy-seven*, *a hundred and ten*"""
+    if n < 100:
+        return spell(n)
+    if n < 1000:
+        # THE PAGE SPELLS *A HUNDRED AND SEVENTY-SEVEN*, NOT *... SEVENTY AND SEVEN*.
+        # AN EARLIER VERSION OF THIS FUNCTION REPLACED THE HYPHEN INSIDE THE TENS
+        # AND SAID EVERY FIGURE ABOVE A HUNDRED WAS ONE OUT.  IT WAS THE FUNCTION.
+        return 'a hundred' + (' and ' + spell(n - 100) if n % 100 else '')
+    return str(n)
+
+
+def hspell(n):
+    """the form a character block uses: *a hundred and seventy-seven* / *hundred and seventy-eight*"""
+    return aspell(n)
+
+
+def isq(t):
+    t = t.strip()
+    return t.startswith('\u201c*') or t.startswith('\u201c') or t.endswith('\u201d')
+
+
+def block_of(lines, i):
+    """THE UNIT A MAN SPEAKS IN IS THE RUN OF QUOTED LINES, NOT THE PARAGRAPH
+    BLOCK, AND THE TWO ARE NOT THE SAME THING IN EVERY CHAPTER: AT `712` EVERY
+    QUOTED LINE STANDS ALONE WITH A BLANK LINE BOTH SIDES OF IT, SO A PARAGRAPH
+    BLOCK IS ONE LINE AND A FIGURE GIVEN IN ONE SENTENCE WITH ITS WORKING IN THE
+    NEXT READS AS TWO UNRELATED LINES.  A PARAGRAPH-BLOCK WINDOW WAS TRIED FIRST
+    AND FLAGGED `712`, WHICH IS A FALSE HIT."""
+    a = b = i
+    def prev(j):
+        while j >= 0 and not lines[j].strip():
+            j -= 1
+        return j
+    def nxt(j):
+        while j < len(lines) and not lines[j].strip():
+            j += 1
+        return j
+    j = prev(i - 1)
+    while j >= 0 and isq(lines[j]):
+        a = j
+        j = prev(j - 1)
+    j = nxt(i + 1)
+    while j < len(lines) and isq(lines[j]):
+        b = j
+        j = nxt(j + 1)
+    return norm(' '.join(lines[a:b + 1]))
+
+
+def less_phrases(path):
+    raw = norm(open(path, encoding='utf-8').read())
+    lines = open(path, encoding='utf-8').read().splitlines()
+    out = []
+    for lm in LESS.finditer(raw):
+        L = raw[:lm.start()].rstrip()
+        rm = NUMRUN.search(raw[lm.end():])
+        if not rm:
+            continue
+        best = None
+        for m in NUMRUN.finditer(L):
+            if m.end() == len(L):
+                best = m
+        if not best:
+            continue
+        a, b = val(best.group(0)), val(rm.group(0))
+        if a is None or b is None or b > a:
+            continue
+        got = a - b
+        ln = raw[:best.start()].count('\n') + 1
+        blk = block_of(lines, ln - 1)
+        claim = any(val(m.group(0)) == got for m in NUMRUN.finditer(blk))
+        out.append((a, b, got, claim, ln, blk[:110]))
+    return out
+
+
+def sweep(lo, hi, vol='volume-15'):
+    phrases = flagged = 0
+    for c in range(lo, hi + 1):
+        p = f'chapters/{vol}/chapter-{c:04d}.md'
+        for a, b, got, claim, line, blk in less_phrases(p):
+            phrases += 1
+            if not claim:
+                flagged += 1
+                print(f'  ch{c:04d}:{line}  LESS MISMATCH  {a} less {b} = {got}; '
+                      f'no figure in the block: ...{blk}...')
+    print(f'  LESS PHRASES {lo}-{hi} {vol}: {phrases} parsed, {flagged} flagged.')
+    return flagged
+
+
+# THE FIGURE A CHARACTER BLOCK PUTS IN, SPELLED THE WAY THE PAGE SPELLS IT
+COUNTERS = [
+    ('READINGS   ch-710  (a man of thirty-eight reads the sheet)',
+     r'\b([a-z-]+) readings\b', lambda c: c - 710, spell, 'garrin tolley'),
+    ('SHEET-READ ch-710  (the same count, said as *read that sheet N times*)',
+     # A MAN OF THIRTY-EIGHT GIVES THIS COUNT TWO WAYS ON THE PAGE AND BOTH
+     # ARE THE SAME COUNT: *HAS READ THAT SHEET N TIMES* AND *N MORNINGS*.
+     # A PATTERN THAT TAKES ONLY ONE OF THEM REPORTS THE OTHER AS ONE OUT.
+     (r'has read that sheet ([a-z-]+) times', r'\b([a-z-]+) mornings\b'),
+     lambda c: c - 710, spell, 'garrin tolley'),
+    ('ASKING     1+ch-722 (a man of fifty-four\'s mornings)',
+     r'\b([a-z-]+) mornings\b', lambda c: 1 + (c - 722), spell, 'barnaby crove'),
+    ('KELL       ch-554  (his days in the county of Kell)',
+     r'in this county (a hundred and [a-z -]+?) days', lambda c: c - 554, aspell, 'ilyan vester'),
+    ('CUT        ch-685  (the cut across a right palm)',
+     r'cut across it is ([a-z-]+) days old', lambda c: c - 685, spell, 'cut across'),
+    ('ASH        ch-630  (a man in an ash)',
+     r'ash[^.]{0,200}?for (a hundred and [a-z -]+?|one hundred and [a-z-]+?) days',
+     lambda c: c - 630, aspell, 'in an ash'),
+    ('REED       ch-629  (a woman in a reed)',
+     r'reed[^.]{0,200}?for (a hundred and [a-z -]+?|one hundred and [a-z-]+?) days',
+     lambda c: c - 629, aspell, 'in a reed'),
+    ('BOY-DAYS   ch-701  (a boy of thirteen\'s own count)',
+     # THE FIGURE AND THE SUBTRACTION ARE IN ADJACENT SENTENCES AND THE
+     # SECOND IS THE SAME WORDS, SO A BACKREFERENCE IS WHAT KEEPS *TWO DAYS*
+     # AND *FOUR DAYS* SAID BY OTHER PEOPLE OUT OF THIS COUNTER.
+     r'\b([a-z-]+) days\. \1 is ', lambda c: c - 701, spell, 'wat marshe'),
+]
+
+
+def speaker_text(path, who):
+    """THE FIGURE A COUNTER OWES IS OWED BY ONE PERSON, AND TWO OF THE COUNTERS
+    IN THIS VOLUME SHARE THE WORD *MORNINGS*: A MAN OF THIRTY-EIGHT COUNTS THE
+    SHEET HE HAS READ OUT LOUD IN *MORNINGS* AND A MAN OF FIFTY-FOUR COUNTS THE
+    MORNINGS HE HAS ASKED IN *MORNINGS*, AND A SEARCH OVER THE WHOLE CHAPTER
+    COUNTS BOTH AND REPORTS FOUR FALSE 'ONE OUT' HITS IN A BAND THAT IS CLEAN.
+    THE WINDOW IS THE CHARACTER-BLOCK PARAGRAPH THAT NAMES THE SPEAKER AND THE
+    RUN OF QUOTED LINES THAT FOLLOWS IT."""
+    lines = open(path, encoding='utf-8').read().splitlines()
+    out = []
+    for i, ln in enumerate(lines):
+        if who in ln.lower() and not isq(ln):
+            j = i + 1
+            out.append(ln)
+            while j < len(lines):
+                if not lines[j].strip():
+                    j += 1
+                    if j < len(lines) and not isq(lines[j]):
+                        break
+                    continue
+                if isq(lines[j]):
+                    out.append(lines[j])
+                    j += 1
+                else:
+                    break
+            break
+    return norm(' '.join(out))
+
+
+def counters(lo, hi, vol='volume-15'):
+    """EVERY COUNT A CHARACTER KEEPS ACROSS A BAND IS WRITTEN DOWN IN ORDER AND
+    READ BACK.  A COUNTER THAT IS ONE OUT DOES NOT LOOK LIKE ONE OUT AND IT IS
+    THE ONLY FIGURE IN THIS BOOK WITH NO ANCHOR TO CATCH IT.
+
+    A MISSING FIGURE IS NOT A COUNTER ERROR.  A BOY OF THIRTEEN IS NOT ON THAT
+    BANK EVERY MORNING, SO *THE FIGURE IS NOT ON THE PAGE* IS A PRESENCE
+    QUESTION AND IS PRINTED AND NOT JUDGED.  A COUNTER IS ONE OUT ONLY WHEN THE
+    EXPECTED FIGURE IS ABSENT AND A DIFFERENT FIGURE OF THE SAME UNIT IS ON THE
+    PAGE IN ITS PLACE, AND THAT IS WHAT IS COUNTED HERE."""
+    print(f'  THE LIVE COUNTERS, {lo}-{hi}, IN ORDER, READ BACK')
+    bad = absent = 0
+    for name, pat, rule, sp, who in COUNTERS:
+        print(f'    {name}')
+        for c in range(lo, hi + 1):
+            p = f'chapters/{vol}/chapter-{c:04d}.md'
+            raw = speaker_text(p, who) or norm(open(p, encoding='utf-8').read())
+            want, n = rule(c), sp(rule(c))
+            pats = pat if isinstance(pat, tuple) else (pat,)
+            hits = []
+            for pt in pats:
+                hits += re.findall(pt, raw)
+            got = [h for h in hits if h.strip() == n]
+            present = bool(re.findall(who, raw)) or who in norm(open(p, encoding='utf-8').read())
+            if got:
+                print(f'      ch{c}: {want:4d}  {n:24s}  {len(got)} on the page')
+            elif not present:
+                absent += 1
+                print(f'      ch{c}: {want:4d}  {n:24s}  --  not spoken in this morning '
+                      f'({who} is not in this chapter)')
+            elif hits:
+                bad += 1
+                print(f'      ch{c}: {want:4d}  {n:24s}  --  ONE OUT. page carries {hits}')
+            else:
+                absent += 1
+                print(f'      ch{c}: {want:4d}  {n:24s}  --  not on this page '
+                      f'(the speaker is not in this morning)')
+    print(f'  COUNTERS: {bad} one out, {absent} not spoken in that morning.')
+    return bad
 
 
 if __name__ == '__main__':
     print('CALIBRATION 701-720 (must come back clean):')
-    sweep(701, 720)
+    c1 = sweep(701, 720)
     print('CALIBRATION 721-730 (the last band certified 36 phrases, 0 flagged):')
-    sweep(721, 730)
+    c2 = sweep(721, 730)
     print('THE BAND 731-740:')
-    sweep(731, 740)
+    c3 = sweep(731, 740)
+    print()
+    print('THE COUNTER READ-BACK, CALIBRATED ON 721-730, WHICH THE LAST BAND CERTIFIED:')
+    counters(721, 730)
     print()
     counters(731, 740)
+    print()
+    print(f'SUMMARY: calibration {c1}, 721-730 {c2}, band {c3}')

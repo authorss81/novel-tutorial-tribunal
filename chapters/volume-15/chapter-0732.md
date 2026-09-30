@@ -44,7 +44,7 @@ Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and can
 
 Then the man of thirty-eight read that line out loud in the open, and then read thirteen names, and the sheet went back on that counter where anybody could put a hand on it.
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet twenty-two times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He has decided every morning since the Monday of the hundred and twenty-fourth week not to say a name out loud. He has decided every morning since the Monday of the hundred and twenty-fourth week not to say a name out loud.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet twenty-two times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He has decided every morning since the Monday of the hundred and twenty-fourth week not to say a name out loud and he has not said what the deciding was for.
 
 “*Nine words, and about four of them are two hands and nine feet along a groove.*”
 
@@ -116,7 +116,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*I have wanted for a hundred and seventy-eight days to be a person a person can go and see.*”
 
-“*A woman of forty-four said on the Friday of last week that knowing does not put a column in that county with my name at the top of it.*”
+“*A woman of forty-four said on the Thursday of this week that knowing does not put a column in that county with my name at the top of it, and she said it before I had finished asking.*”
 
 “*She was right and I am not going to argue with her about it.*”
 
