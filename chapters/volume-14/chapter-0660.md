@@ -112,7 +112,7 @@ The water is on the first three steps of about ninety and the board is on its st
 
 And a year turned on the Wednesday of last week with no figure for it. A man of thirty-one counted one hundred and six days, and neither number is a year.
 
-And a sheet of deal with a seal on it is still face down on a barrel. A hearing about every record there is is the thirty-second day and nobody granted it and nobody refused it. A Crown that binds nobody is a board leaning against a barrel.
+And a sheet of deal with a seal on it is still face down on a barrel. A hearing about every record there is, is the thirty-second day and nobody granted it and nobody refused it. A Crown that binds nobody is a board leaning against a barrel.
 
 And nine words are in the heads of about nine people, and a man of sixty-six is the only one anybody can be sent for about.
 

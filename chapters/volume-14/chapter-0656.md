@@ -76,7 +76,7 @@ Then the man of sixty-six said the word, and it was the first time in about four
 
 “*And it is not the word for that beam. It is the word for the whole of it. The nine steps, the passage, the chambers, the beams.*”
 
-“*A man who says that word in a gallery is saying it about about nine feet of bank and about four hundred years of other people.*”
+“*A man who says that word in a gallery is saying it in about nine feet of bank and about four hundred years of other people.*”
 
 About four people in that gallery had the word. About nine had a beam.
 
