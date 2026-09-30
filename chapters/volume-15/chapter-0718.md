@@ -80,7 +80,7 @@ About four people on that bank had the reason, and about nine of them had a man 
 
 Then a woman of forty said what there are now. It took her about four sentences, and she refused to pick one of them.
 
-Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead, and worked out on the Monday of this week that five of the twelve are in no book in this county.
+Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead, and worked out on the Monday of last week that five of the eleven are in no book in this county.
 
 “*There are three now, and there were two about nineteen years ago, and about nine of us have said out loud that neither of the first two is the right of refusing.*”
 

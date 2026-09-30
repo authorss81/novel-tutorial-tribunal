@@ -10,7 +10,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and there i
 
 “*About sixteen inches over the top step at the seventh hour. Five days, and it was about sixteen at this hour yesterday, and that is a full bank and a full bank holds.*”
 
-“*The next time about ninety steps can be walked is on the Wednesday of this week. That is three days from where I am standing this morning.*”
+“*The next time about ninety steps can be walked is on the Wednesday of next week. That is three days from where I am standing this morning.*”
 
 “*And the working is four days after a bank is full. This one was full on the Saturday of last week.*”
 

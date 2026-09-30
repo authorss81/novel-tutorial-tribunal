@@ -58,7 +58,7 @@ Two boards and a piece of printed paper were on that counter. About nine of them
 
 Then a woman of forty said what the difference is between the two instruments, and it took her about four sentences, and she said it was the first time she had said it out loud and she was not going to say it again.
 
-Wenna Callow is forty and asks for a day against a name, and has never once asked for a reason instead, and worked out on the Monday of this week that five of the twelve are in no book in this county.
+Wenna Callow is forty and asks for a day against a name, and has never once asked for a reason instead, and worked out on the Monday of last week that five of the eleven are in no book in this county.
 
 “*A board is a job with a space in it where a name goes. The space is empty and it is waiting for somebody. That is the whole of what a board is.*”
 

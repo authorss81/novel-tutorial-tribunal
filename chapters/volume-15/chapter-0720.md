@@ -10,7 +10,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. About ninet
 
 “*About sixteen inches over the top step at the seventh hour. Six days, and a full bank holds, and the next time about ninety steps can be walked is in two days from this morning.*”
 
-“*That is four days after this bank is full, and this bank was full on the Saturday before last. There is no more working in it than there has been since the Friday of last week.*”
+“*That is four days after this bank is full, and this bank was full on the Sunday of last week. There is no more working in it than there has been since the Friday of last week.*”
 
 “*And I am going to go on giving you all three of those every morning, and I am not going to give you a fourth thing.*”
 
@@ -68,7 +68,7 @@ Ada Renk is sixty-four and is out of every book in this county. She has a name i
 
 “*Somebody is going to write another name on that thing. I am telling the nine of you standing here now, on a Tuesday morning, in the open air, and nobody is going to be sent for about it.*”
 
-“*Not because anybody has arranged it. Because there have been four nights on that counter, and about nine of us said out loud on the Saturday of last week that we were leaving it there.*”
+“*Not because anybody has arranged it. Because there have been four nights on that counter, and about nine of us said out loud on the Saturday of a fortnight that we were leaving it there.*”
 
 “*And a name came on it, and it cost nobody anything to come.*”
 
@@ -76,25 +76,25 @@ Ada Renk is sixty-four and is out of every book in this county. She has a name i
 
 “*And I am not going to be thanked for saying it out loud a week early on purpose.*”
 
-“*That is a thing a man of thirty-one did on the Saturday of last week, and nobody on this bank has stopped talking about.*”
+“*That is a thing a man of thirty-one did on the Saturday of a fortnight, and nobody on this bank has stopped talking about.*”
 
 About nine of them had a woman of sixty-four who had said a thing out loud a week early on purpose about four nights on a counter, and not one of them was going to be thanked for it.
 
-Then a man of fifty-four said what he had done with a question asked on a bank four days ago. He cannot read, and he said it before anybody had asked him anything.
+Then a man of fifty-four said what he had done with a question asked on a bank two days ago. He cannot read, and he said it before anybody had asked him anything.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain and cannot read a word of the paper on that counter, and is the only person anybody in that county can be sent for about four things. He was asked a fifth thing on the Sunday of this week in about nine people’s hearing.
+Barnaby Crove is fifty-four and holds the gravel at the head of that drain and cannot read a word of the paper on that counter, and is the only person anybody in that county can be sent for about four things. He was asked a fifth thing on the Sunday of last week in about nine people’s hearing.
 
-“*Four days. I have had it four days and I have not answered it and I am not going to answer it this week either.*”
+“*Two days. I have had it two days and I have not answered it and I am not going to answer it this week either.*”
 
 “*And I am not going to be thanked for not answering it, and nobody is going to be told I have been brave about it.*”
 
-“*Four of them know what that is and the rest of them do not, and that is the correct way round, and it has not changed since the Saturday of last week.*”
+“*Four of them know what that is and the rest of them do not, and that is the correct way round, and it has not changed since the Sunday of last week.*”
 
 “*And I want it said that a man of fifty-four who cannot read has not answered a question that about nine people heard asked, and that nobody on this bank has asked me about it since.*”
 
 “*I said I would wait to be asked and I am still waiting.*”
 
-About four people on that bank had the four days, and about nine of them had a man of fifty-four who was still waiting to be asked.
+About four people on that bank had the two days, and about nine of them had a man of fifty-four who was still waiting to be asked.
 
 Then a man of forty-one said one thing about Wednesday. He said it flat, and nobody asked him a question about it and nobody improved on it.
 
@@ -124,11 +124,11 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county a hund
 
 “*And a man of thirty-one does not get to stand next to that and make it a thing with two people in it.*”
 
-“*Two: about nine people can be sent for about about nine things. That is a man of fifty-four’s sentence from the Saturday of last week and it has not stopped being true because a name went on a piece of paper.*”
+“*Two: about nine people can be sent for about about nine things. That is a man of fifty-four’s sentence from the Friday of a fortnight and it has not stopped being true because a name went on a piece of paper.*”
 
 “*Three: you have been in this county a hundred and sixty-six days and nobody has asked you for anything in one of them, and you have just offered to be a person standing in a place on a morning that is not about you.*”
 
-“*Four: that is the same shape as a rule. Everybody standing here heard the last one of those on the Saturday of last week, and a woman of twenty-eight told him what it was in about nine people’s hearing.*”
+“*Four: that is the same shape as a rule. Everybody standing here heard the last one of those on the Saturday of a fortnight, and a woman of twenty-eight told him what it was in about nine people’s hearing.*”
 
 “*Five: I am a woman of forty-four who keeps a book of twenty-nine chairs, and I am not going to be the second person this week to tell a man of thirty-one that the thing he has just built is a thing he has built.*”
 
@@ -146,7 +146,7 @@ Then a man of thirty-one gave the true of it, and said the standing question had
 
 “*And I am not going to arrange to be asked, and I am not going to say the shape of my answer a second time.*”
 
-“*I am not going to say it a second time because a woman of twenty-eight told me on the Saturday of last week that a rule is a thing that works without a person, and I have had one of those out of my mouth already this fortnight.*”
+“*I am not going to say it a second time because a woman of twenty-eight told me on the Saturday of a fortnight that a rule is a thing that works without a person, and I have had one of those out of my mouth already this fortnight.*”
 
 “*And nobody is going to answer it for me.*”
 

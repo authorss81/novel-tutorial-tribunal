@@ -10,11 +10,11 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and he stop
 
 “*About sixteen inches over the top step at the seventh hour. Six days, and a full bank holds, and there is no more working in it than that and there has not been for three days.*”
 
-“*The next time about ninety steps can be walked is on the Wednesday of this week. That is two days from this morning, and I am giving you the day and the figure and they are not the same size today.*”
+“*The next time about ninety steps can be walked is on the Wednesday of next week. That is two days from this morning, and I am giving you the day and the figure and they are not the same size today.*”
 
 “*And that is four days after a full bank, and a full bank is the Saturday of last week.*”
 
-Six days on that landing, and every one of the nine people on it had a Wednesday of this week.
+Six days on that landing, and every one of the nine people on it had a Wednesday of next week.
 
 Then a man of sixty-one gave three counts and refused a fourth, and the fourth was one he had stopped himself.
 

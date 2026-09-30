@@ -10,11 +10,11 @@ Corvin Tace is forty-three, has kept that landing nineteen years, and has said h
 
 “*About sixteen inches over the top step at the seventh hour. Five days, and a full bank holds, and the next time about ninety steps can be walked is in three days from this morning.*”
 
-“*And that is four days after this bank is full, and this bank was full on the Saturday before last.*”
+“*And that is four days after this bank is full, and this bank was full yesterday.*”
 
 “*There is no more working in it than that, and about four of you have had it three times this week.*”
 
-About four people on that bank had the five days, and about nine of them had three days and a Wednesday of this week.
+About four people on that bank had the five days, and about nine of them had three days and a Thursday of next week.
 
 Then a man of thirty-eight read twelve names out loud in the open for the ninth morning reading, and it took about nine minutes. Three of the twelve have no day against them, and nothing was carried anywhere afterwards.
 
@@ -46,7 +46,7 @@ Three ways went out of a man of forty-one on that bank. About nine of them had h
 
 Then a woman of forty-four who keeps a bakehouse four miles up that cart road said the third thing she has worked out about two men in two coats, and she said it on a bank instead of on her own step, and nobody asked her for the other two.
 
-Hester Ollerton is forty-four and has asked three times and answered twice, and she gave the count out loud on the Saturday of last week and has not added anything to it since.
+Hester Ollerton is forty-four and has asked three times and answered twice, and she gave the count out loud on the Saturday of a fortnight and has not added anything to it since.
 
 “*The third thing is that I do not want to know. I have had four days and I have turned it over every one of them and what I have come to is that I would rather not be told.*”
 
@@ -70,7 +70,7 @@ Ada Renk is sixty-four and got up out of that book of heads and carts in the ope
 
 “*I said it first. I said it on the Thursday of last week in about nine people’s hearing because I was not going to let the first person to say that name be a man who was not there.*”
 
-“*And he was there. And that is the whole of what I said out loud on that bank four days ago.*”
+“*And he was there. And that is the whole of what I said out loud on that bank on the Thursday of last week.*”
 
 “*It has just stopped being true in about nine seconds, and nobody on this bank is going to be able to put it back.*”
 
@@ -120,4 +120,4 @@ A man of forty-one gave three ways he has tried to get the day he stops on writt
 
 And a man of thirty-one said a name out loud to the ground in about nine people’s hearing, for the first time in this county by a person who had been asked something by it. Nothing whatever answered him.
 
-And a woman of sixty-four who said that name herself four days ago said what it cost, and it is hers. About nine people on that bank have got that name in their mouths who did not have it on Monday, and one of the nine has to stand on that bank every morning before anybody goes anywhere. She is not relieved, and nobody there is relieved.
+And a woman of sixty-four who said that name herself on the Thursday of last week said what it cost, and it is hers. About nine people on that bank have got that name in their mouths who did not have it on Monday, and one of the nine has to stand on that bank every morning before anybody goes anywhere. She is not relieved, and nobody there is relieved.

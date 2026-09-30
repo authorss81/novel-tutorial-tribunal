@@ -70,7 +70,7 @@ About nine of them had a woman of sixty-four who was not going to thank anybody 
 
 Then a woman of forty gave the whole of it in the order it went on that sheet. She gave the working, and gave the count before the count, and refused to give anybody a total.
 
-Wenna Callow is forty and asks for a day against a name, and worked out on the Monday of this week that five of the eleven are in no book in this county. She refused to say which three of them have a day.
+Wenna Callow is forty and asks for a day against a name, and worked out on the Monday of last week that five of the eleven are in no book in this county. She refused to say which three of them have a day.
 
 “*Nine lines. Twelve names. Two of the twelve the same name twice, which is the same two as before. It is not a third thing.*”
 
