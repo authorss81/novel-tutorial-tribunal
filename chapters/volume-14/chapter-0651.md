@@ -118,7 +118,7 @@ Then the bench against the gunwale of the Gull was spoken of, and the plank, and
 
 “*Eleven feet of plank. Thirty feet of hurdles. Eleven people in a working week, and nine of them were on a board that was.*”
 
-“*And the sixth reading of the two copies is on the Thursday, and this is the Thursday. The fifth was the Thursday of last week. The count is of Thursdays and not of readings, and a Friday is not a Thursday however well it goes.*”
+“*And the sixth reading of the two copies is on the Thursday, and this is the Wednesday before it. The fifth was the Thursday of last week. The count is of Thursdays and not of readings, and a Friday is not a Thursday however well it goes.*”
 
 “*And a board about nine inches long with thirty-two notches in it is in a coat on a peg, and the man of thirty-one may not carry it. The rule that says so is thirty-four days old.*”
 
@@ -130,9 +130,9 @@ Then three people who were not on that bank were spoken of, and none of the thre
 
 “*A woman of seventy-one keeps a house that is not hers and has kept it eleven years, and nobody has come to that door in eleven years.*”
 
-“*And there is a woman of twenty-eight in this county who came up a cart road on the Monday of last week. She cannot be sent for about in this county or in the one she came from. She has two letters nobody has read, and a river is not a hearing, and she will say so.*”
+“*And there is a woman of twenty-eight in this county who came up a cart road on the Monday of the hundred and thirteenth week. She cannot be sent for about in this county or in the one she came from. She has two letters nobody has read, and a river is not a hearing, and she will say so.*”
 
-“*And there is a man of thirty-four in an ash on the low side of that landing who has not stood up in nine days, and about four of us knew he was in it this morning and about nine did not. The same is true of the woman of twenty-nine in the other ash.*”
+“*And there is a man of thirty-four in an ash on the low side of that landing who has not stood up since the second day of the hundred and twelfth week, and that is twenty-one days, and about four of us knew he was in it this morning and about nine did not. The same is true of the woman of twenty-nine in the reed on the other side of that landing, and hers began about the second hour of the day before his.*”
 
 “*I am not going to make either of them into a reason.*”
 

@@ -58,7 +58,7 @@ Then the man of sixty-one gave the sum, and he refused it first and then gave it
 
 About four minutes went past in the dark and nobody answered and nobody said no, and about nine people in that passage watched a man of sixty-one not write a number down.
 
-“*And I would like it said that the refusal to write it is mine and is not a form, and that I have been treating a nothing as a reason for about three years and I have stopped.*”
+“*And I would like it said that the refusal to write it is mine and is not a form, and that I have been treating a nothing as a reason for about two years and I have stopped.*”
 
 Then the door was got round, and the chamber was inside. The chamber is a day. It took about nine people about four minutes to work out what it was, and the four minutes were the fourth hour of the morning.
 

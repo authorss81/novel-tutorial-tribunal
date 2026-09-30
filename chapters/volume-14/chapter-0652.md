@@ -42,7 +42,7 @@ Pell Varn is sixty-eight and keeps the last quarter mile, and gave that town its
 
 About four seconds went past. The wind came off the water and the lamp that was not lit rolled about an inch on the gravel.
 
-“*And I said the same thing to you on the Thursday of the eleventh week about a board of notches, and it was twenty-six days then, and I did that sum out loud, and I am doing it out loud again because it is a different day and a rule that is thirty-four days old on a Wednesday is thirty-five days old on a Thursday.*”
+“*And I said the same thing to you on the Tuesday of the hundred and fourteenth week about a board of notches, and it was twenty-six days then, and I did that sum out loud, and I am doing it out loud again because it is a different day and a rule that is thirty-four days old on a Wednesday is thirty-five days old on a Thursday.*”
 
 “*You are not a step. You are a man who is in no book in four counties and I am not going to be the reason there is a form in this county that says a man may be sent for about a man standing in the dark.*”
 
@@ -90,7 +90,7 @@ Corvin Tace is forty-three and has kept the landing nine miles up that water nin
 
 “*Ninety steps. I have counted them and I counted them again this week because a man of sixty-six asked me to.*”
 
-“*The top thirty-one of them are cut into rock. The next forty-four are cut into gravel and clay and the clay holds about two years before it wants doing and it gets done about twice, and there is no form that says a man may be paid for it.*”
+“*The top thirty-one of them are cut into rock. The next fifty are cut into gravel and clay and the clay holds about two years before it wants doing and it gets done about twice, and there is no form that says a man may be paid for it.*”
 
 “*The bottom nine are always under. About four feet, and I have never seen them dry, and I have been going up that reach nineteen years and that is a figure of nineteen years of one man looking and not a figure of a depth.*”
 

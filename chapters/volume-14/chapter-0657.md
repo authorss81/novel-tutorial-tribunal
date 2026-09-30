@@ -32,7 +32,7 @@ Nobody on that bank said a word about the wrong book.
 
 Then the man of thirty-one said the count of people who cannot be sent for about, and he said it himself, and it was his own figure and not anybody else’s, and a man of sixty-one corrected the class of it without correcting the number.
 
-“*There are four of us in four counties that nobody can be sent for about. I am one. A man of sixty-six who is a sinker is two. A woman of twenty-eight who came up a cart road on the Monday of last week is three. A woman of seventy-one who keeps a house that is not hers is four.*”
+“*There are four of us in four counties that nobody can be sent for about. I am one. A man of sixty-six who is a sinker is two. A woman of twenty-eight who came up a cart road on the Monday of the hundred and thirteenth week is three. A woman of seventy-one who keeps a house that is not hers is four.*”
 
 “*About four of you have the four. About nine of you have a man in an ash and a woman in a reed.*”
 
@@ -72,13 +72,13 @@ About four seconds went past and nobody filled them.
 
 About four people on that bank looked at the ash. About nine had been looking at the rope.
 
-Then a woman of twenty-nine said one word from the reed at the top of that landing. She has been in the reed since about the second hour of a Tuesday in the hundred and twelfth week, and it is twenty-seven days.
+Then a woman of twenty-nine said one word from the reed at the top of that landing. She has been in the reed since about the second hour of a Tuesday in the hundred and twelfth week, and it is twenty-eight days.
 
 Nell Prince is twenty-nine and is the only person in that town who has taken a yes back in the open, and she has not stood up since she sat down, and she said one word and did not stand up to say it.
 
 “*Both.*”
 
-Nobody on that bank thanked her for twenty-seven days.
+Nobody on that bank thanked her for twenty-eight days.
 
 Then a woman of forty-four, who keeps a book of twenty-nine chairs and has kept it nineteen years, said the one thing about a book that a man of sixty-one had not thought of saying, and she said it in about four sentences, and about four of the people on that bank heard all of it and about nine heard the part about the chairs.
 

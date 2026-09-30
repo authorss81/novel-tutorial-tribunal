@@ -52,7 +52,7 @@ About four people on that bank had the five. The rest of them had the nine.
 
 Then the woman of twenty-eight said what going down would cost her, and she said it out loud, and she said it in about nine sentences, and about nine people on that bank had not known until that moment that she was going.
 
-Sera Quill is twenty-eight. She is not of that county and cannot be sent for about in it, and she cannot be sent for about in the county she came from either, and she came up that cart road on the Monday of the hundred and fifteenth week with two letters in a bag with the seals unbroken.
+Sera Quill is twenty-eight. She is not of that county and cannot be sent for about in it, and she cannot be sent for about in the county she came from either, and she came up that cart road on the Monday of the hundred and thirteenth week with two letters in a bag with the seals unbroken.
 
 “*On the Thursday I said I was not going down those steps and nobody has asked me to and nobody was going to make me.*”
 

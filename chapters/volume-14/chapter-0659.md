@@ -44,7 +44,7 @@ Nevin Trask is sixty-one and has kept the book of heads and carts eleven years, 
 
 About four people on that bank had the refusal. About nine had thirteen and a half.
 
-“*And here is the part I am not going to do. I could divide thirteen and a half hours between about eleven people and I could give you a figure and the figure would be true and it would be about a quarter of an hour each and nobody in this bank has ever had a quarter of an hour of anything.*”
+“*And here is the part I am not going to do. I could divide thirteen and a half hours between about eleven people and I could give you a figure and the figure would be true and it would be about an hour and a quarter each, and an hour and a quarter of eleven of you is thirteen and three-quarters, and thirteen and a half is a quarter of an hour under that, and nobody in this bank has ever had an hour and a quarter of anything.*”
 
 “*A half of a loaf is not a loaf. I am not going to hand about eleven people a number instead of a morning, and I have been glad about numbers for about nine years and this is the first one I have been ashamed of.*”
 

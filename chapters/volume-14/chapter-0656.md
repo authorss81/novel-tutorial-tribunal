@@ -84,7 +84,7 @@ About four people in that gallery had the word. About nine had a beam.
 
 “*There is no form in the county of Kell that says a man of sixty-six may be asked what a word means, and there is no form that says he may not. And I am the only person in four counties anybody can be sent for about this word, and about four of you can see what that is.*”
 
-“*It is the same as a Crown that binds nobody. A man of sixty-eight said that on the Friday of the hundred and eleventh week and was right.*”
+“*It is the same as a Crown that binds nobody. A man of sixty-eight said that on the second day of the hundred and fourteenth week and was right.*”
 
 “*I have been in about nine rooms in a year and I have watched about nine people make things nobody can be sent for about. I have never made one before, and I have made one by saying a word in the dark.*”
 
@@ -104,7 +104,9 @@ About four seconds went past. Nothing said and nothing moved. The beam went alon
 
 About nine people in that gallery were waiting for something. About four of them had not known there was anything to wait for.
 
-“*That is the name of the thing that said its own name in a weigh-house about four days ago in front of about four people. A man of forty-three read a line out loud about it on a Friday two weeks ago.*”
+“*That is the name of the thing that said its own name in a weigh-house about thirty days ago in front of about four people.*”
+
+“*And a man of forty-three read thirty-two lines out loud in that yard on the Monday of the hundred and eleventh week, and he read all thirty-two, and the name I have just said is not one of the thirty-two and it was not on a sheet in that boat either.*”
 
 “*I said it on the ground in this county twice and nothing happened both times.*”
 
@@ -112,7 +114,7 @@ About nine people in that gallery were waiting for something. About four of them
 
 Then the cost of that fell, and it fell on the man in that gallery who could not read, and he said it out loud himself, and he is ordinary, and there is no person in it to be cross with.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain and has not walked a quarter mile he holds in nine years. He said on the Friday that he cannot read before anybody asked him anything, and he said it again on the Thursday, and he says it because a question about a book is a question about reading.
+Barnaby Crove is fifty-four and holds the gravel at the head of that drain and has not walked a quarter mile he holds in nine years. He said on the Saturday that he cannot read before anybody asked him anything, and he said it again on the Sunday, and he says it because a question about a book is a question about reading.
 
 “*I cannot read, and I said so twice this week before anybody asked me, and a name is a thing I can hear.*”
 

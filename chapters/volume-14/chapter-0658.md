@@ -34,7 +34,7 @@ Then a man of fifty-four who cannot read asked whether the notice has settled it
 
 Barnaby Crove is fifty-four. He holds the gravel at the head of that drain and has not walked a quarter mile he holds in nine years. He was in a gallery under about ninety steps of bank on the Monday, and he has said he cannot read three times in nine days.
 
-“*I cannot read and I have said so three times this week.*”
+“*I cannot read and I have said so three times in three days.*”
 
 “*I have been in a room where a man of sixty-one read a line out of a stone in the dark, and about four of us understood it and about nine of us did not.*”
 
@@ -74,7 +74,7 @@ Then a man of thirty-one started to answer the question of the whole world. He g
 
 Sera Quill is twenty-eight. She is not of that county and cannot be sent for about in it, and she cannot be sent for about in the county she came from.
 
-She has two letters in a bag with the seals unbroken. She came up that cart road on the Monday of the hundred and fifteenth week.
+She has two letters in a bag with the seals unbroken. She came up that cart road on the Monday of the hundred and thirteenth week.
 
 She had been in that yard twice since the Monday and had said about nine words in it each time.
 
@@ -82,7 +82,7 @@ She had been in that yard twice since the Monday and had said about nine words i
 
 About four seconds went past and a cart came out of the gate behind them.
 
-“*I asked a question in a yard nine miles down this water on the Tuesday of this week, and about nine people heard it, and nobody answered it.*”
+“*I asked a question in a yard nine miles down this water on the Tuesday of the hundred and fifteenth week, and about nine people heard it, and nobody answered it.*”
 
 “*The question is mine. It was asked once. It has been in about four counties since the Friday.*”
 
@@ -104,7 +104,7 @@ The twenty-second time in a row he had said the true of one half of a thing in a
 
 “*And I would like it said that nobody in this yard has answered it either.*”
 
-“*It is the thirtieth day of a hearing about every record there is, and about the thirtieth day of the other one, and neither of them has a person on either side of it. A woman of forty-four said that on the Friday of the hundred and fourteenth week and has said no three times since.*”
+“*It is the thirtieth day of a hearing about every record there is, and about the thirtieth day of the other one, and neither of them has a person on either side of it. A woman of forty-four said that on the Monday of the hundred and fourteenth week and has said no three times since.*”
 
 About four people in that yard had the two thirties. About nine had a yard.
 
@@ -124,7 +124,7 @@ About four people in that yard had the two readings. About nine had a man asking
 
 Simon Rook is about fifty-two and cannot see well, and everybody in that yard has known that for eleven years.
 
-The fifth line of one of those sheets of deal is his and not the man of forty-three’s, and nobody in that county can be sent for about that fifth line. He offered the thing at a barrel to speak for a man of thirty-one on a Tuesday a fortnight ago. It would have worked in about four days, and the man said no to it in about nine sentences.
+The fifth line of one of those sheets of deal is his and not the man of forty-three’s, and nobody in that county can be sent for about that fifth line. He offered the thing at a barrel to speak for a man of thirty-one on the Tuesday of the hundred and fourteenth week, which is fifteen days ago. It would have worked in about four days, and the man said no to it in about nine sentences.
 
 “*No.*”
 

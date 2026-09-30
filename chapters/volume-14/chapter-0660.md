@@ -54,7 +54,7 @@ Nobody on that bank said a word about any of the four.
 
 Then a man of thirty-four was at the top of that bank in the doorway of an ash all day, and about nine people on that bank went past that doorway about nine times, and nobody stopped at it and nobody said a word at it, and about four of them knew whose mouth it was.
 
-He has been in that ash twenty-eight days. He is on no board and in no book and nobody can be sent for about him, and the last thing anybody said to him was a question he asked himself on the Tuesday of this week and a man of forty-three answered in four words.
+He has been in that ash thirty days. He is on no board and in no book and nobody can be sent for about him, and the last thing anybody said to him was a question he asked out loud on the Tuesday of this week and a man of forty-three answered in four words.
 
 About nine people on that bank did not know that either. About four did.
 
@@ -86,9 +86,9 @@ Then a woman of twenty-eight was standing about nine feet off with a bag in her 
 
 She said one thing, and it was about herself and not about the question.
 
-Sera Quill is twenty-eight and came up that cart road on the Monday of the hundred and fifteenth week and has been in that county eight days and cannot be sent for about in it or in the county she came from.
+Sera Quill is twenty-eight and came up that cart road on the Monday of the hundred and thirteenth week and has been in that county eighteen days and cannot be sent for about in it or in the county she came from.
 
-“*I asked a question on the Tuesday of this week in a yard nine miles down this water and nobody answered it. A man asked a different one just now and nobody answered that either.*”
+“*I asked a question on the Tuesday of the hundred and fifteenth week in a yard nine miles down this water and nobody answered it. A man asked a different one just now and nobody answered that either.*”
 
 “*I am not going to help him with mine by being near his.*”
 
@@ -96,7 +96,7 @@ Sera Quill is twenty-eight and came up that cart road on the Monday of the hundr
 
 Nobody on that bank thanked her for standing nine feet off.
 
-Then the ninth person said one word, and it was the last word said on that bank that day, and it came from the top of the landing from a man who has been in an ash for twenty-eight days and has not stood up once since.
+Then the ninth person said one word, and it was the last word said on that bank that day, and it came from the top of the landing from a man who has been in an ash for thirty days and has not stood up once since.
 
 Ivo Kellow is thirty-four. He has been in that ash since the second day of the hundred and twelfth week, and he has not stood up, and he is on no board and in no book, and nobody can be sent for about him.
 
@@ -108,7 +108,7 @@ About four seconds went past and nobody filled them. About nine people on that b
 
 The fever was fifty-three weeks and six days old. He had been in that county one hundred and six days.
 
-The water is on the first three steps of about ninety and the board is on its stick. The next time those steps can be walked is the next time that block of limestone goes under, and nobody in four counties has a figure for that either.
+The water is on the first three steps of about ninety and the board is on its stick. The next time those steps can be walked is the next time that block of limestone comes out, and nobody in four counties has a figure for that either.
 
 And a year turned on the Wednesday of last week with no figure for it. A man of thirty-one counted one hundred and six days, and neither number is a year.
 
