@@ -78,15 +78,19 @@ Nevin Trask is sixty-one and has kept a book of heads and carts in this county e
 
 “*And I am not going to help you.*”
 
-Then a woman of sixty-four said the other half of it. It was four days old, and she said she had not worked out how she knew.
+Then a woman of sixty-four said the other half of it. It was three days old, and she said she had not worked out how she knew.
 
 Ada Renk is sixty-four and has been out of every book in this county for nineteen years. She got up out of the book of heads and carts in the open nineteen years ago, and nobody has been able to find her by writing her name down in any one of them since.
 
-“*On the Tuesday of this week I said, in nine people’s hearing, that somebody was going to write another name on that thing in about four days.*”
+“*On the Tuesday of this week I said, in nine people’s hearing, that somebody was going to write another name on that thing.*”
 
 “*And that nobody was going to be sent for about it.*”
 
-“*That was four days. Four is seven hundred and twenty-three less seven hundred and nineteen, and I gave the working out loud then and I am giving it again now.*”
+“*And on that Tuesday I told the nine of you standing there that I had not got a figure for when, and I am not going to pretend to you this morning that I gave you one.*”
+
+“*And I have got one now and I am giving the working first, because that is how it is done on this bank.*”
+
+“*Four is seven hundred and twenty-four less seven hundred and twenty, and it is tomorrow morning, and nobody is going to be thanked for it.*”
 
 “*And I have not worked out how I knew, and I am not going to pretend to a woman of forty that I did.*”
 

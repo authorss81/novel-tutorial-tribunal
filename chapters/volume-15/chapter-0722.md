@@ -68,7 +68,9 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*That is the fourth of the four reasons and it is the only one of the four that is about the thing that asked him rather than about the two of us.*”
 
-“*And I have read that sheet out loud eleven mornings in the open, and I have read it twice more down here.*”
+“*Twelve mornings, and I have read that sheet out loud in the open every one of them, and I have read it twice more down here.*”
+
+“*Twelve is seven hundred and twenty-two less seven hundred and ten.*”
 
 “*There is not one person in this county who has ever asked me for a line with no day on it. Not one in nineteen years of asking.*”
 
@@ -108,7 +110,7 @@ Orla Fennimore is forty-four, and nineteen years of it have been twenty-nine cha
 
 “*Four of them can hear the difference between two sets of nine words and five of them cannot, and one of the five is you, and I am not going to say that makes him better at it.*”
 
-“*And you have just asked a man who cannot read to lean on a man of thirty-eight the way you have leaned on him for eleven mornings.*”
+“*And you have just asked a man who cannot read to lean on a man of thirty-eight the way you have leaned on him for twelve mornings.*”
 
 “*I do not think you meant to do that and I am not going to let it pass without saying it.*”
 

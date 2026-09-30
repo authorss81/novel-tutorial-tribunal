@@ -4,7 +4,7 @@ First day of the hundred and twenty-sixth week. His four hundred and seventy-sev
 
 ---
 
-The bank was full at about the seventh hour for the fifth morning running and the man of forty-three gave the reading and said the working, and gave the figure for the next time about ninety steps can be walked before anybody asked him for it.
+The bank was full at about the seventh hour and it is the fifth day of it and the man of forty-three gave the reading and said the working, and gave the figure for the next time about ninety steps can be walked before anybody asked him for it.
 
 Corvin Tace is forty-three and has stood on that landing every morning for nineteen years. He has not given a figure for a night since the Saturday of the hundred and twenty-second week, and he says the two he did give are neither of them his.
 

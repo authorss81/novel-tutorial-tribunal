@@ -122,11 +122,11 @@ Wat Marshe is thirteen, and his mother is forty-one and has two carts and neithe
 
 Then a man of forty-one said one sentence, and he said it flat, and he said it before anybody had asked him anything.
 
-The man is forty-one and keeps two carts and is the ninth of nine for nineteen years. He has a fortnight and two mornings and has not named either one.
+The man is forty-one and keeps two carts and is the ninth of nine for nineteen years. He has a fortnight and one morning and has not named it.
 
 “*I have said I would not name the day on a bank and I have not named it, and about four of you have worked out that a bank with nine people standing on it is the same as the open air.*”
 
-“*There are still two mornings and I know which one of them I am not going to use, and I am not going to tell you that either, and nobody on this bank is going to ask me.*”
+“*There is one morning left and I know what I am going to do with it, and I am not going to say that out loud, and nobody on this bank is going to ask me.*”
 
 Nine of them on that bank had a woman of forty-four who had come down four miles to give away a thing she could not put down anywhere. Four of them had a man of thirty-one who had found out in about four seconds what she had come down to say.
 

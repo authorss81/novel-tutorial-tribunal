@@ -4,7 +4,7 @@ Third day of the hundred and twenty-sixth week. His four hundred and seventy-nin
 
 ---
 
-The bank was still full at about the seventh hour for the seventh morning running and the man of forty-three gave the reading and said the day and gave a figure, and stopped at three things.
+The bank was still full at about the seventh hour and it is the seventh day of it and the man of forty-three gave the reading and said the day and gave a figure, and stopped at three things.
 
 Corvin Tace is forty-three and has kept that landing nineteen years, and has said he has nothing to say about a night five times and then stopped saying it, and has said he is not going to give a fourth thing on that bank.
 

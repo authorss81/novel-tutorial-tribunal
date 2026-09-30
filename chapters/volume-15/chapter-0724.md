@@ -84,7 +84,7 @@ Then a woman of sixty-four said what she had said a week early on purpose, and w
 
 Ada Renk is sixty-four and is out of every book in this county, and has a name in ink on the ninth line of a piece of printed paper with no day against it.
 
-She said on the Tuesday of last week that somebody was going to write another name on that thing in about four days, and nobody was going to be sent for about it.
+She said on the Tuesday of this week that somebody was going to write another name on that thing, and nobody was going to be sent for about it, and on the Friday she gave a figure of four days for it out loud with the working in front of it.
 
 “*I said about four days and it was four days, and I am not going to be thanked for it.*”
 

@@ -4,7 +4,7 @@ Second day of the hundred and twenty-fifth week. His four hundred and seventy-fi
 
 ---
 
-The bank was still full at about the seventh hour for the seventh morning running and the man of forty-three gave the reading and the day and a figure. A wind came up off that water and went down again while he was doing it.
+The bank was still full at about the seventh hour and it is the seventh day of it, and the man of forty-three gave the reading and the day and a figure. A wind came up off that water and went down again while he was doing it.
 
 Corvin Tace is forty-three and has stood on that landing nineteen years. He has said he has nothing to say about a night five times and then stopped saying it and gave two figures for a night instead, and he says neither of the two is his.
 
