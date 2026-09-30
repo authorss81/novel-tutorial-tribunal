@@ -56,11 +56,11 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 Four of the people standing there had a man of thirty-eight who had read twenty-three mornings. About nine of them had a man of fifty-four who had been read a line twelve mornings running that had nothing on it to come on.
 
-Then a woman of sixty-four said what she said on the Friday of this week, out loud, and then said that this morning she has nothing. She gave the working for the one she got right. She said she had not worked out how she knew it then.
+Then a woman of sixty-four said what she said on the Friday of last week, out loud, and then said that this morning she has nothing. She gave the working for the one she got right, in the open, with the subtraction in front of it, before anybody had asked her for either.
 
 Ada Renk is sixty-four and has been out of every book in this county for nineteen years. She got up out of the book of heads and carts in the open nineteen years ago and there has been no line for her in it since. She has a name in ink on the ninth line of a sheet of printed paper with no day against it.
 
-“*On the Friday of this week I gave the nine of you standing there a figure of four days for a name going on that thing, and I gave it out loud and in the open.*”
+“*On the Friday of last week I gave the nine of you standing there a figure of four days for a name going on that thing, and I gave it out loud and in the open.*”
 
 “*Four is seven hundred and twenty-four less seven hundred and twenty, and it was the Saturday of that week, and it was right.*”
 
@@ -70,11 +70,11 @@ Ada Renk is sixty-four and has been out of every book in this county for ninetee
 
 “*I have not got a figure for this one. I have not got a figure for the day of the week, and I am not going to make one at seven in the morning to a woman of forty.*”
 
-“*And I did not know how I knew the first time, and I am not going to pretend this morning to a woman of forty that I know anything at all.*”
+“*And the first time I did not know either, and I am not going to pretend this morning to a woman of forty that I know anything at all.*”
 
 Then a woman of forty said what the number of names on that sheet now is, and gave the working, and refused to give anybody a total.
 
-Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the Thursday of this week she said a mirror is a thing that shows you a thing and is not the thing, and she gave three spaces and one width. She has still not said which three of the five have a day.
+Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead. On the Tuesday of this week she said a mirror is a thing that shows you a thing and is not the thing, and she gave three spaces and one width. She has still not said which three of the five have a day.
 
 “*Fourteen names on nine lines, and two of the fourteen are in ink and not in the print.*”
 
@@ -98,11 +98,13 @@ Then a woman of sixty-four said what the second one had cost her, and what this 
 
 “*This one has gone on a line with a day against it as well, and nine is seven hundred and thirty-three less seven hundred and twenty-four, and it took nine days from the last one.*”
 
-“*And I got the last one four days early and I have got nothing for this one, and both of those are mine and not anybody’s.*”
+“*And I got the last one a week early on purpose and I have got nothing for this one, and both of those are mine and not anybody’s.*”
 
 “*Being a name nobody can find by writing a name down took nineteen years, and it cost me one thing a day.*”
 
-“*Being a name on a piece of printed paper has taken six days the first time, four days the second and nine days the third.*”
+“*Being a name on a piece of printed paper has taken six days the first time, eight days the second and nine days the third.*”
+
+“*And each of those three is from the last name and not from the morning a person said it out loud, and I am not going to have the two mixed together on this bank.*”
 
 “*It has cost nobody anything at all any of the three times.*”
 
@@ -166,4 +168,4 @@ The fever was sixty-four weeks and two days old. He had been in that county a hu
 
 There are fourteen names on nine lines and two of them are in ink, and one of the two is a woman of sixty-four’s and it is on the ninth line, which has never had a day against it, and the other went on on the last morning of this week, on a line that has one. Three of the fourteen have no day and a woman of forty has said three out loud and refused to add nine days to five people.
 
-And a woman of sixty-four said out loud that she got the name before last four days early, with the working, and that she has no figure at all for the one that went on this morning, and that nobody is going to be sent for about any of it, and nobody is going to thank her for the four days.
+And a woman of sixty-four said out loud that she got the name before last a week early on purpose, with the working in front of it, and that she has no figure at all for the one that went on this morning, and that nobody is going to be sent for about any of it, and nobody is going to thank her for saying it a week early.
