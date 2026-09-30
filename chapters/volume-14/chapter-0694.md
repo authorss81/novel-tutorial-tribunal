@@ -6,7 +6,7 @@ Third day of the hundred and twenty-first week. His four hundred and forty-fourt
 
 The water was about twelve inches over the top step at the seventh hour. The man of forty-three gave the reading and stopped, and nobody on that bank asked him for the pair of figures and he did not offer it.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. It is seven days since the Thursday of last week that he has given a reading and stopped, and he said on the Friday after that Thursday that he was going to keep stopping, and he has, and he has said he has nothing to say about a night three times and has not said it since.
+Corvin Tace is forty-three and has kept a landing nineteen years. He has given a reading and stopped on the first day of this week and again this morning, and yesterday he gave the reading and said the working instead, and he has said he has nothing to say about a night three times and has not said it since.
 
 “*About twelve inches over the top step at the seventh hour. Three days since it came off those steps, and I count from one morning to the next and not from a morning to itself.*”
 
@@ -110,7 +110,7 @@ Nobody on that bank said a word back to her, and about four of them had the seve
 
 Then about nine people stood about on a bank with about twelve inches of water over the top step, and about nine steps of that flight were under about four feet of it. Nobody went down any of them.
 
-A man in an ash on the low side of a landing about eight and a half miles up that water said nothing at all. A woman of twenty-nine in a reed on the other side of that landing said nothing at all either.
+A man in an ash on the low side of a landing about nine miles up that water said nothing at all. A woman of twenty-nine in a reed on the other side of that landing said nothing at all either.
 
 ---
 

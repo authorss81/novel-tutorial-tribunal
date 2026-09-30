@@ -1,4 +1,4 @@
-# Chapter 696: Fifth Day Of The Hundred And Twenty-First Week, And A Saturday, And On Which A Bank Is Full And Still Holding, And A Man Of Forty-Three Says Out Loud That He Has Been Counting The Days Of A Man In An Ash For Sixty-Six Days And Has Never Once Asked Him What He Was Doing, And Walks Half A Mile Up The Water And Asks Him, And What Comes Back Is What Is Left Of A Burned Thing, Which Is Neither A Copy Nor Whole
+# Chapter 696: Fifth Day Of The Hundred And Twenty-First Week, And A Saturday, And On Which A Bank Is Full And Still Holding, And A Man Of Forty-Three Says Out Loud That He Has Been Counting The Days Of A Man In An Ash For Sixty-Six Days And Has Never Once Asked Him What He Was Doing, And Goes Nine Miles Up The Water And Asks Him, And What Comes Back Is What Is Left Of A Burned Thing, Which Is Neither A Copy Nor Whole
 
 Fifth day of the hundred and twenty-first week. His four hundred and forty-sixth morning. Two hundred and ninety-six days after the settlement. The fever fifty-nine weeks. Two hundred and fifty days since the division. One hundred and ninety-six days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -42,9 +42,9 @@ Aveline Marsh is thirty-eight and keeps a mill four miles off that landing, and 
 
 “*I am going to tell him the other half. Somebody is keeping a man in an ash. That is a figure of a tree and not of the man, and I have got no idea what it is and I am not going to guess at it on a Saturday with a full bank on.*”
 
-Then about nine people went up that water in the morning, and it is about half a mile. A man of forty-three went with them because it is his landing. A man of thirty-eight went with his own lamp and did not use it.
+Then about nine people went up that water in the morning in the boat, and it is about nine miles. A man of forty-three went with them because it is his landing and he took the pole. A man of thirty-eight went with his own lamp and did not use it.
 
-The landing is about half a mile below where the block of limestone with a line cut round it goes under. The man of thirty-four was where he has been since the second day of the hundred and twelfth week, and he came out of the hollow when he heard about nine sets of boots on the stones.
+The block of limestone with a line cut round it goes under at that landing, and a man of forty-three has two crossings of it in his own hand and no figure for the gap between them. About half a mile of water below that landing is the flight of about ninety steps cut in the bank, and that is the half mile in this reach and not the distance to it. The man of thirty-four was where he has been since the second day of the hundred and twelfth week, and he came out of the hollow when he heard about nine sets of boots on the stones.
 
 He is thirty-four. He has been in that ash sixty-six days, and nothing has been asked of him in any of them, and he is not one of the nine and nobody has ever put him in a list of anything.
 
@@ -102,7 +102,7 @@ Abel Fenner is sixty-six, digs for water, has been under about ninety steps of b
 
 “*And I am not going to be the man who says a burnt board is a job. Take it back. And take it back in your own mouth, and do not go at a board of oak with a man of sixty-six about nine steps back.*”
 
-Then the man of thirty-one took it back, standing on a landing with a block of limestone under it nine miles further up, and he did not put anything in the place of it.
+Then the man of thirty-one took it back, standing on a landing with a block of limestone under it, nine miles further up than that bank, and he did not put anything in the place of it.
 
 “*A board. About four inches of one end gone. A mark with a space in it. A cut about as deep as a man’s own nail. That is what is left of the seventh and I am not going to call it a keeping and I am not going to call it a term.*”
 
@@ -126,7 +126,7 @@ Nobody on that landing said sorry and nobody said the word brave, and about four
 
 The fever was fifty-nine weeks old. He had been in that county a hundred and forty-two days.
 
-There is a man in an ash on the low side of a landing about eight and a half miles up this water, and he has been in it sixty-six days. His name is Ivo Kellow, and a man of forty-three counted him every morning for sixty-six days without once saying it out loud or asking him what he was doing.
+There is a man in an ash on the low side of a landing about nine miles up this water, and he has been in it sixty-six days. His name is Ivo Kellow, and a man of forty-three counted him every morning for sixty-six days without once saying it out loud or asking him what he was doing.
 
 And in his hands, before the first day and for every one of the sixty-six, was a board with about four inches of one end burnt off it. In the board there is a mark of two hands with a space between them about as wide as a thumb, and a cut about as deep as a man’s own nail, and fire has taken the surface of a thing and has not taken the depth of a cut.
 

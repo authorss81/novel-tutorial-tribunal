@@ -116,7 +116,7 @@ Sera Quill is twenty-eight and cannot be sent for about in this county or in the
 
 “*And I have checked it a seventh time this morning and it has not moved. Nobody in this county has said out loud that a lamp on a hook in the ninth of nine rooms and the thing that keeps the record in four counties are the same thing.*”
 
-“*And I am still not going to be the one who says it, and I have said that sentence six times and I am not going to say a seventh.*”
+“*And I am still not going to be the one who says it, and that is six times I have said it before this one, and I am not going to say an eighth.*”
 
 Then a man of fifty-four said the thing that is going to be true of all of it, and he cannot read, and he said it before anybody had thought of asking him.
 
