@@ -1,14 +1,14 @@
-# Chapter 684: Seventh And Last Day Of The Hundred And Nineteenth Week, And A Monday, And On Which A Bank Is Full And About Nine People Stand On It And Do Nothing On Purpose, And A Man Of Sixty-One Is Asked To Put A Thing In A Book And Says Out Loud What He Will Not Write
+# Chapter 684: Seventh And Last Day Of The Hundred And Nineteenth Week, And A Monday, And On Which About Nine People Stand On A Bank In About Eight Inches Of Water And Do Nothing On Purpose, And A Man Of Sixty-One Is Asked To Put A Thing In A Book And Says Out Loud What He Will Not Write
 
 Seventh and last day of the hundred and nineteenth week. His four hundred and thirty-fourth morning. Two hundred and eighty-four days after the settlement. The fever fifty-seven weeks and two days. Two hundred and thirty-eight days since the division. One hundred and eighty-four days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The water was about sixteen inches over the top step at the seventh hour and the man of forty-three gave the reading and stopped. And he stopped on purpose and said so.
+The water was about eight inches over the top step at the seventh hour and the man of forty-three gave the reading and stopped. And he stopped on purpose and said so.
 
 Corvin Tace is forty-three and has kept that landing nineteen years and gave the pair of figures on a great many mornings running and stopped saying them on the Thursday of this week.
 
-“*About sixteen inches over the top step at the seventh hour. Two days since it came off those steps, and I count from one morning to the next and not from a morning to itself.*”
+“*About eight inches over the top step at the seventh hour. Two days since it came off those steps, and I count from one morning to the next and not from a morning to itself. And it was about four inches at this hour yesterday and that is the working, and the pair of figures is not mine to give out loud any more.*”
 
 “*And that is all I am going to say. That is the fourth morning I have given the reading and stopped and I am going to keep stopping, and if anybody on this bank wants the pair of figures they have had them out loud on more mornings than any of us has counted, and they are in about nine heads and there is nowhere else they are.*”
 
@@ -26,7 +26,7 @@ The man is forty-one and keeps two carts, and he has been in and out of the nint
 
 The difference went round that bank. The rest of them were standing in the wind and had been since the sixth hour.
 
-Then about nine people on that bank said what their Monday was. And nobody had asked them, and it took about as long as it takes a man of forty-three to give a reading, and nobody improved on anybody.
+Then six of the about nine people on that bank said what their Monday was. And nobody had asked them, and it took about as long as it takes a man of forty-three to give a reading, and nobody improved on anybody.
 
 A man of forty-one keeps two carts. A woman of forty-four keeps a bakehouse four miles up a cart road. A woman of thirty-eight keeps a mill four miles off that landing, and about eleven people in four houses eat out of it, and one of the eleven is her mother, and she has kept a chamber that is a week for about nine years and nobody has ever asked her what it is for.
 
@@ -38,11 +38,11 @@ A man of forty-one keeps two carts. A woman of forty-four keeps a bakehouse four
 
 “*A reading and a stoppage, and I have not given the pair of figures since the Thursday and I am not going to start them on a Monday.*” That is the man of forty-three.
 
-“*About nine hundred heads and carts against about as many, and I did not put a line in it this morning, and I am going to tell this bank why in about four sentences.*” That is the man of sixty-one.
+“*About nine hundred heads and carts against about as many, and I did not put a line in it this morning, and I am going to tell this bank why in about ten sentences.*” That is the man of sixty-one.
 
 “*A drain and about nine feet of gravel, and I have held it for nine years and nobody has ever asked me what it is for.*” That is the man of fifty-four.
 
-And about nine people on that bank said their Monday and about four of them had not thought of it. And the six of them are not the same size as each other and were never going to be.
+And the six of them are not the same size as each other and were never going to be, and about four of them had not thought about their Monday until somebody asked them for it.
 
 Then a man of thirty-one asked a man of sixty-one to put a thing in the book, and he said out loud that he was asking and not telling, and a woman of forty-four stopped him once before he got to the end of it and then let him go on.
 
@@ -96,7 +96,7 @@ Then the man of sixty-one gave the count out loud with the subtraction, and then
 
 “*And tomorrow is the first day of a week and I am not going to start anything on a Sunday night and I am not going to start anything on a Monday either, and a man of sixty-one does not start things on Mondays. That is not a form and it is not a rule, and it is a man and not a rule.*”
 
-And the wind came up the reach and about nine people went on standing about. And the two carts did not go up that track, and the water was sixteen inches over the top step and going.
+And the wind came up the reach and about nine people went on standing about. And the two carts did not go up that track, and the water was eight inches over the top step and going.
 
 ---
 

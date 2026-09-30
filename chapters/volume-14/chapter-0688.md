@@ -8,7 +8,7 @@ The water was about ten inches over the top step at the seventh hour and the man
 
 Corvin Tace is forty-three and has kept that landing nineteen years and has two crossings of a block of limestone with a line cut round it nine miles up this water in his own hand and no figure for the gap between them.
 
-“*About ten inches over the top step at the seventh hour. Three days since it came off those steps and I count from one morning to the next and not from a morning to itself.*”
+“*About ten inches over the top step at the seventh hour. Three days since it came off those steps and I count from one morning to the next and not from a morning to itself. And the top step went under in the night, and Thursday’s figure was on the second step and not on that one, so this morning’s is a different measure from Thursday’s and I am not going to call the two of them a pair.*”
 
 “*And that is the reading. I have stopped five mornings running after the reading and I am going to go on stopping, and a man of thirty-one can come and ask me for the pair of figures any morning he likes and I will say I do not give it out loud any more, and that is not me being clever, it is that it is in about nine heads and there is nowhere else it is.*”
 

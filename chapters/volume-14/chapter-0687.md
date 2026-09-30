@@ -20,7 +20,7 @@ Then a man of thirty-eight said why he was not going down, and he had said it in
 
 “*And it is no good. It went on the Tuesday of this week and it has not got better and it is not going to get better by standing on a bank, and I am not going up that water today with a pole in my right hand and I told this bank a week before it happened, and about four of you believed me, and the rest of you are finding out today.*”
 
-About four people on that bank had believed him and about nine of them had not.
+About nine of them had not believed him in advance and about four of them had, and he said one word about it and the word was that they did not have to.
 
 Then about nine people stood on a bank with six inches on the second step and did not go down. And that is a Monday thing and it was not a Monday.
 
@@ -100,7 +100,7 @@ Then about nine people stood on a bank and a boy of thirteen went up that road w
 
 The fever was fifty-seven weeks and five days old. He had been in that county one hundred and thirty-three days.
 
-About nine people could have gone down on the Thursday and did not, because a man of thirty-eight told that bank on the Tuesday of the hundred and nineteenth week that his shoulder would be no good for carrying a pole up that water on a Thursday, and he was right on the first Thursday and on the second one.
+About nine people could have gone down on the Thursday and did not, because a man of thirty-eight told that bank on the Tuesday of the hundred and nineteenth week that his shoulder would be no good for carrying a pole up that water on a Thursday, and he was right on the first Thursday, and the second one is seven days off and he says it will be the same and he has not asked anybody to take his word for that part.
 
 And a woman of twenty-eight who is not one of the nine and keeps nothing looked at a hand for as long as it takes a man of forty-one to push a stone nine feet and found out that it is dry, and said out loud that she is not going to be a keeper of it and that she is not going to be asked about it.
 

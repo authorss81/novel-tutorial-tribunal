@@ -34,7 +34,7 @@ Ilyan Vester is thirty-one and he is nobody’s, and there is no column in the c
 
 “*This is about a hundred and thirty feet of dry passage and about a foot of walked gravel in it, and it has been walked for three weeks by about nine of us, and on the Tuesday I put my hand on a going in a wall where no going has ever gone and it was not a route, because it did not come back.*”
 
-“*And the coming came out of this. That is what a coming is. It is not a figure, it is a wet place about as wide as one boot, and it has gone, and I am not going to stand in a passage and pretend to a man of forty-four who kept a bakehouse that a rack with one blank shelf on it has anything to do with it.*”
+“*And the coming came out of this. That is what a coming is. It is not a figure, it is a wet place about as wide as one boot, and it has gone, and I am not going to stand in a passage and pretend to the woman of forty-nine that a rack with one blank shelf on it has anything to do with it.*”
 
 Then he said the whole of it, in his own mouth, and he said the shape of what he had lost before he said anything about what it was made of. And nobody else in that passage said a word while he did it.
 
