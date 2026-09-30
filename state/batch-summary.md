@@ -34,6 +34,8 @@ The crossing of a block of limestone with a line cut round it, nine miles up the
 
 **THE FIGURE IS THE INSTRUMENT'S AND NOT A WHITESPACE COUNT.** A plain split on the raw files gives a different and higher number, because the instrument segments the prose its own way.
 
+**THE TOKENIZER, NOW WRITTEN DOWN BESIDE THE FIGURE, BECAUSE AN EXTERNAL CHECKER RE-DERIVED 1,124 AND 2.85% AND GOT 1,114 AND 2.69% AND WAS RIGHT TO ASK.** WORDS are `[A-Za-z0-9£$’'-]+` over the RAW FILE with the title and the `---` included; a SENTENCE ends at `.`, `!` or `?` plus up to two of `”"*` **COUNTED PER PARAGRAPH BLOCK AND NEVER ACROSS A BLANK LINE** (`reviews/volume-10/instrument.py:51`–`:52` and `:14`–`:25`). **THE DIFFERENCE IS EXACTLY TEN SENTENCES, ONE PER CHAPTER, AND THEY ARE THE TITLE BLOCKS.** 23,830 words, the per-chapter row, and max para 89 / max sent 78 are exact under any tokenizer.
+
 **FOUR REFRAIN FIGURES, NOT ONE: `“*Say` 0 · `“*Go on` 0 · `say the rest` 3 · `“*` every occurrence 327 (137.2 per 10k) · at line start 326 (136.8 per 10k).** **The larger figure is the certified one and the two must never be substituted.** **THE ARRIVAL REPORT PRINTED 324 AND 323 FOR THESE AND THE INSTRUMENT PRINTED 326 AND 325 ON ARRIVAL; NOTHING MOVED THE BAND BUT THE REPAIRS, AND THE FIGURES ABOVE ARE WHAT THE INSTRUMENT PRINTS NOW.**
 
 ### 0V14A.5 THE TIC, META AND PANEL SWEEPS, AND WHAT THEY RETURN
