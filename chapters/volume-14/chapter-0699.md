@@ -8,11 +8,11 @@ The water was about four inches over the top step at the seventh hour. The man o
 
 Corvin Tace is forty-three and has kept a landing nineteen years. He has said he has nothing to say about a night four times and has said he will say it a fifth time on Wednesday.
 
-“*About four inches over the top step at the seventh hour. One day since it came off those steps, and I count from one morning to the next and not from a morning to itself.*”
+“*About four inches over the top step at the seventh hour. One day since it came off those steps, and I count it the way I count it every morning of my life and not from a morning to itself.*”
 
 “*And it was off all ninety at the sixth hour yesterday, and that is where you get a figure from, and I am not going to be asked for a night by anybody this week.*”
 
-About four people on that bank had the working and about nine of them had the four inches.
+About nine of them had the four inches and about four of them had the working, and it was the four who had come down.
 
 Then they went down. The man of forty-one bailed for about two hours and said nothing about it, and the man of thirty-eight went first with the lamp that is his. The man of thirty-one went fifth with his hands and nothing else in them, as he has gone down every descent for about three weeks.
 
@@ -64,7 +64,7 @@ About four people in that room had the sentence and about nine of them had the q
 
 Then a man of thirty-eight said what a reason is, and he said it in front of about nine people with a lamp on the floor of the room, and it took six sentences and nobody improved on it.
 
-Garrin Tolley is thirty-eight and has a child of nine. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he has a lamp that is his.
+Garrin Tolley is thirty-eight and has a child of nine, and he is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and the lamp on the floor of that room is his.
 
 “*A reason is not a permission. I have been given a reason and I have not been asked for anything.*”
 
@@ -86,9 +86,9 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 Nobody in that room argued with her and about four of them had the form and about nine of them had the opinion.
 
-Then a man of sixty-one said what has actually changed this morning, in a room, on about the ninth hour of a Tuesday, and it took six sentences and it was the plainest thing anybody said that week.
+Then a man of sixty-one said what has actually changed this morning, in a room, on about the ninth hour of a Tuesday, and it took six sentences, and he did not put anything around them.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head and the last of the five is a number, and it is the only one of the five that was not there when he took the book, and he knows the day he put it there.
 
 “*Three things. It has spoken. It has given a reason nobody asked it for. And it has said the word sealed, and sealed is a word about a keeping and not about a stone.*”
 
@@ -100,7 +100,7 @@ Then they went back out of that room to go up. The man of forty-one and the man 
 
 And it did not move.
 
-And a man of fifty-four who cannot read put his own hand down into the gap under it and said there was water in it, and said how much, and said that it was the same as it had been on the Monday morning of the hundred and twentieth week, which is nine days ago.
+And a man of fifty-four who cannot read put his own hand down into the gap under it and said there was water in it, and said how much, and said that it was the same as it had been on the Monday morning of the hundred and twentieth week, which is eight days ago.
 
 Barnaby Crove is fifty-four and holds the gravel at the head of that drain. He cannot read, and he has said so a great many times.
 

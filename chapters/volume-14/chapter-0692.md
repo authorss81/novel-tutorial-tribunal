@@ -102,7 +102,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 Then a man of sixty-one said the one thing about it that he had been keeping for a week. He said it flat, and he said it before anybody had thought of asking him for it.
 
-Nevin Trask is sixty-one and has kept the book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one. He has kept the book of heads and carts eleven years and there are five lines on the leaf after the last head, and the last of the five is a number, and he wrote it on the Saturday of the hundred and twentieth week.
 
 “*I am not going to write either of the two down. I said on the Monday of the hundred and nineteenth week that I would not write down a wall I had not been to and I have not been to this floor either, and I have had eleven days to change my mind and I have not.*”
 

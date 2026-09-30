@@ -20,7 +20,7 @@ About four people on that bank had the five times and about nine of them had the
 
 Then a man of sixty-one gave the three counts he gives and the one count he has been keeping since Sunday. He said them in the order he gives them, and he did not add any of them to anything.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and a number is the last of the five, and there is not going to be a name on any of the five, and he has said that out loud this morning.
 
 “*A man of thirty-four has been in an ash for seventy days. Seventy is seven hundred less six hundred and thirty. A woman of twenty-nine has been in a reed for seventy-one days, and seventy-one is seven hundred less six hundred and twenty-nine, and I have not added them in eighteen days.*”
 
@@ -46,7 +46,7 @@ Nobody on that bank said sorry and about four of them had the not a grave.
 
 Then a woman of forty-four said the other half of that, and it was the ninth time this fortnight, and she said what she was not going to let anybody call it.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year, and is not a keeper of anything anybody can be sent for about.
+Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year, and there are nine of those chairs and not ten, and she is not a keeper of anything anybody can be sent for about.
 
 “*And a shut door is not the right of refusal. I am going to say that once on this bank and I am not going to say it twice, and about four of you have been thinking it since the Tuesday of this week and one of you has been thinking it since the Sunday.*”
 
@@ -54,7 +54,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 About four people on that bank had the right of refusal and about nine of them had a shut door.
 
-Then a man of thirty-one said what the band has cost. He said it as a list, gave the count, and said what each item was a figure of. He did not apologise for it, and he said so in advance.
+Then a man of thirty-one said out loud what it has come to. He said it as a list, gave the count, and said what each item was a figure of. He did not apologise for it, and he said so in advance.
 
 Ilyan Vester is thirty-one and is nobody’s. He has a cut across his right palm that is fifteen days old and has no figure for what it cost. He has lost the way he came back on and has said so in his own mouth in a passage.
 
@@ -78,17 +78,17 @@ Ilyan Vester is thirty-one and is nobody’s. He has a cut across his right palm
 
 “*Seven. One door that will not open, and nothing fell down, and that is a figure of a door and not of a morning.*”
 
-“*Eight. Nine of the nine put back together and not one name on any of them, and nine boards with no original and no keeper, and a man of fifty-four carrying one of them that he cannot read.*”
+“*Eight. Four of the nine put back together in about four days and five of them not done, and not one name on any of the nine, and nine boards with no original and no keeper, and a man of fifty-four carrying one of them that he cannot read.*”
 
 Eight items went into the air on that bank and nobody said the word, and about four of them counted on their fingers and about nine of them did not.
 
-Then a woman of twenty-eight said the thing about a name, and it was an eighth time, and it was the same sentence with a day on the front of it, and she said it once.
+Then a woman of twenty-eight said the thing about a name, and it was a ninth time, and it was the same sentence with a day on the front of it, and she said it once.
 
 Sera Quill is twenty-eight and cannot be sent for about in this county or in the one she came from, and is not one of the nine, and has made nine copies and kept none of them.
 
-“*I have checked it an eighth time this morning and it has not moved. Nobody in this county has said out loud that a lamp on a hook in the ninth of nine rooms and the thing that keeps the record in four counties are the same thing, and I am still not going to be the one who says it.*”
+“*I have checked it a ninth time this morning and it has not moved. Nobody in this county has said out loud that a lamp on a hook in the ninth of nine rooms and the thing that keeps the record in four counties are the same thing, and I am still not going to be the one who says it.*”
 
-“*And it is still not because it is not true. And I would like it recorded that I have said the same sentence eight times and have not said it once, and that this is the last morning I am going to say it in this fortnight and I have not begun again.*”
+“*And it is still not because it is not true. And I would like it recorded that I have said the same sentence nine times and have not said it once, and that this is the last morning I am going to say it in this fortnight and I have not begun again.*”
 
 Then a man of sixty-one said the count he has been keeping. He gave the working, and he said what he was not going to do with it, and it was the fourth name in a book that has one number in it.
 
@@ -156,7 +156,7 @@ Then a woman of forty-four said the last thing, and it was about a man and not a
 
 The fever was fifty-nine weeks and four days old. He had been in that county a hundred and forty-six days.
 
-Nine of the nine terms were put back together out of what was left in them. The two positions that are not found were located at the eighth opening and at the ninth room. The surviving record of the burned seventh was recovered off a man in an ash, and it is a remainder and not a copy. A chamber behind a wall in that ninth room has been sealed and nothing fell down.
+Four of the nine terms were put back together out of what was left in them, in about four days, in front of about nine people, and five of the nine are not done. The two positions that are not found were located at the eighth opening and at the ninth room. The surviving record of the burned seventh was recovered off a man in an ash, and it is a remainder and not a copy. A chamber behind a wall in that ninth room has been sealed and nothing fell down.
 
 And the terms were copied into nine boards and carried out of the county, and there is no original and there is no keeper, and a man of fifty-four who cannot read is carrying one of them.
 

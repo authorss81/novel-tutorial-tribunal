@@ -1,4 +1,4 @@
-# Chapter 698: Seventh And Last Day Of The Hundred And Twenty-First Week, And A Monday, And On Which The Water Comes Off The Top Step In The Night For The Fourth Time Since The Saturday Of The Hundred And Nineteenth Week, And The Coalition Puts What It Has Into Something Other People Can Read, And A Woman Of Twenty-Eight Who Is Not One Of The Nine Decides What A Copy Is For And Says Out Loud Before She Starts That Nobody Is Going To Ask Her
+# Chapter 698: Seventh And Last Day Of The Hundred And Twenty-First Week, And A Monday, And On Which The Water Comes Off The Top Step In The Night For The Fourth Time Since The Saturday Of The Hundred And Nineteenth Week, And About Nine People Put What They Have Into Something Other People Can Read, And A Woman Of Twenty-Eight Who Is Not One Of The Nine Decides What A Copy Is For And Says Out Loud Before She Starts That Nobody Is Going To Ask Her
 
 Seventh and last day of the hundred and twenty-first week. His four hundred and forty-eighth morning. Two hundred and ninety-eight days after the settlement. The fever fifty-nine weeks and two days. Two hundred and fifty-two days since the division. One hundred and ninety-eight days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -54,11 +54,13 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 Nobody on that bank improved on her and about nine of them had the four seconds.
 
-Then the man of forty-one gave the count of what was going on nine of those boards, and he gave the working out loud, and he refused to finish it, and the refusing is the fourth time he has refused a sum on that bank this fortnight.
+Then the man of forty-one gave the count of what was going on nine of those boards, and he gave the working out loud, and he refused to finish it, and a woman of forty-four had watched him refuse to finish three of them this fortnight and counted without being asked.
 
-“*Nine. That is nine openings counted twice by two men walking opposite ways, and nine jobs cut over them, and nine of the nine put back together out of what is left in them.*”
+“*Nine. That is nine openings counted twice by two men walking opposite ways, and nine jobs cut over them, and what is left in each of the nine.*”
 
-“*And I have watched eight of them get done since the Wednesday of this week in about four days.*”
+“*And four of them get put back together on a bank in about four days, and I have watched every one of the four, and the first of the four was the Wednesday of this week and it is the one a man of sixty-one counted on his knee in the wind and refused to write.*”
+
+“*And the other five of the nine are not done and I have not seen a mouth put one of them together, and I am not going to stand on a bank and tell you nine about a figure of four.*”
 
 “*And not one of the nine has a name on it. Nine and nothing is not a sum and I am not going to give you a total.*”
 
@@ -100,7 +102,7 @@ And the man of thirty-one gave his board to a man of thirty-eight, and said why,
 
 Then a man of sixty-one was offered one and refused it, and he gave the reason in seven sentences, and it was the fourth refusal of that kind in about a fortnight and the first one about a thing he could actually have carried.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one and has kept that book of heads and carts eleven years, and there are five lines on the leaf after the last head of it, and a number is the last of them, and about four people on that bank know what the number is and the rest of them have not asked.
 
 “*No. And I want the reason said out loud, because I have been saying no nine times this fortnight and about four of you have stopped believing me.*”
 
@@ -122,7 +124,7 @@ And a stone about the size of two hands laid flat had nine lines in it, in nine 
 
 The fever was fifty-nine weeks and two days old. He had been in that county a hundred and forty-four days.
 
-Nine of the nine were put back together out of what was left in them and not one of the nine has a name on it. On the last day of the hundred and twenty-first week that was burned into nine boards and carried out of the county by about nine people, and there is no original and there is no keeper.
+Four of the nine were put back together out of what was left in them in about four days, on a bank, in front of about nine people, and five of the nine are not done and not one of the nine has a name on it. What there is went into nine boards on the last day of the hundred and twenty-first week and was carried out of the county by about nine people, and there is no original and there is no keeper.
 
 And a woman of twenty-eight made them, and said out loud before she started that nobody was going to ask her, and that nobody on that bank could be sent for about her, and that a person who has not refused has not said no.
 

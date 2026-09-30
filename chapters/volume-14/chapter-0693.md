@@ -90,9 +90,9 @@ Then the man of thirty-one put the job together out loud on that bank, and a man
 
 “*The name is a space about as wide as his thumb. It is cut square. It is cut to the depth of the hands and it is old, and there is nothing in it, and that is the whole of the first of the nine.*”
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week, and he has said in front of about nine people that he will not write a sixth.
 
-“*Eleven. He has said eleven and I counted eleven and I counted them on my knee in the wind like a man counting sheep and I am not ashamed of that in front of these people.*”
+“*Twelve. He has said twelve and I counted twelve and I counted them on my knee in the wind like a man counting sheep and I am not ashamed of that in front of these people.*”
 
 “*And a term is a job with a name on it, and the job is: two people, once a day, before the light, about a minute, and about four hundred years, and there is nobody. That is the first of the nine and I am not going to write it in this book.*”
 
@@ -158,7 +158,7 @@ Sera Quill is twenty-eight and cannot be sent for about in this county or in the
 
 “*And I am still not going to be the one who says it. And it is still not because it is not true, and I would like it recorded that I have now said the same sentence six times and have not said it once.*”
 
-Then they came up the cart road, and about nine people stood about on a bank with about eight inches of water over the top step. A man of sixty-one said the thing that is going to be a problem, and said it was not going to be a problem this week.
+Then they came up the cart road, and about nine people stood about on a bank with about eight inches of water over the top step. A man of sixty-one said the thing that is going to be a problem, and said it was not going to be one this week and that he would rather say so before anybody found it out.
 
 “*A thing said out loud in front of about nine people is a figure of about nine people. That is not a complaint, it is a count, and about four of you have the twelve sentences and about nine of you have the five things.*”
 

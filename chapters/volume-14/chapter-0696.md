@@ -20,7 +20,7 @@ Then the man of forty-three said the thing about himself, and he said it before 
 
 “*A man of thirty-four has been in an ash on the low side of my landing for sixty-six days. Sixty-six is six hundred and ninety-six less six hundred and thirty, and I have given that figure every morning for sixty-six mornings, and about nine of you have had it.*”
 
-“*And a man of forty-nine in a reed on the other side of that landing has been in it sixty-seven days. Sixty-seven is six hundred and ninety-six less six hundred and twenty-nine.*”
+“*And a woman of twenty-nine in a reed on the other side of that landing has been in it sixty-seven days. Sixty-seven is six hundred and ninety-six less six hundred and twenty-nine.*”
 
 “*And I have not added those two together in fifteen days and I am not starting on a Saturday.*”
 
@@ -126,7 +126,7 @@ Nobody on that landing said sorry and nobody said the word brave, and about four
 
 The fever was fifty-nine weeks old. He had been in that county a hundred and forty-two days.
 
-There is a man in an ash on the low side of a landing half a mile above that bank, and he has been in it sixty-six days. His name is Ivo Kellow, and a man of forty-three counted him every morning for sixty-six days without once saying it out loud or asking him what he was doing.
+There is a man in an ash on the low side of a landing about eight and a half miles up this water, and he has been in it sixty-six days. His name is Ivo Kellow, and a man of forty-three counted him every morning for sixty-six days without once saying it out loud or asking him what he was doing.
 
 And in his hands, before the first day and for every one of the sixty-six, was a board with about four inches of one end burnt off it. In the board there is a mark of two hands with a space between them about as wide as a thumb, and a cut about as deep as a man’s own nail, and fire has taken the surface of a thing and has not taken the depth of a cut.
 

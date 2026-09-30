@@ -6,7 +6,7 @@ Third day of the hundred and twenty-first week. His four hundred and forty-fourt
 
 The water was about twelve inches over the top step at the seventh hour. The man of forty-three gave the reading and stopped, and nobody on that bank asked him for the pair of figures and he did not offer it.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. It is the ninth morning running he has given a reading and stopped, and he has said he has nothing to say about a night three times and has not said it since.
+Corvin Tace is forty-three and has kept a landing nineteen years. It is seven days since the Thursday of last week that he has given a reading and stopped, and he said on the Friday after that Thursday that he was going to keep stopping, and he has, and he has said he has nothing to say about a night three times and has not said it since.
 
 “*About twelve inches over the top step at the seventh hour. Three days since it came off those steps, and I count from one morning to the next and not from a morning to itself.*”
 
@@ -46,13 +46,13 @@ Ilyan Vester is thirty-one and is nobody’s. He has a cut across his right palm
 
 “*I am not going to use it. I am going to hear it and then I am going to do nothing with it, and I would like that said out loud before I say anything else about it.*”
 
-Then a man of sixty-one refused, and he refused it in seven sentences, and the reason was the reason a man of thirty-one has been giving that bank for six weeks.
+Then a man of sixty-one refused, and he refused it in seven sentences, and the reason was the reason a man of thirty-one has been giving that bank for a fortnight.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. Five lines are on the leaf after the last head, the last of the five is a number, and he wrote that number on the Saturday of the hundred and twentieth week and has not written one since.
 
 “*No. And I am not going to give it to you in a small voice either, so that you can hear how much it costs me.*”
 
-“*How many times a man has been right is a count of times. It has no unit on it. You have spent six weeks standing on this bank telling nine people that a number without a thing behind it is a decoration, and this one is a decoration, and it is a decoration about a man with a bad shoulder.*”
+“*How many times a man has been right is a count of times. It has no unit on it. You have spent a fortnight standing on this bank telling nine people that a number without a thing behind it is a decoration, and this one is a decoration, and it is a decoration about a man with a bad shoulder.*”
 
 “*And you are the man who taught it, and I am not going to pretend to you that I am refusing you out of meanness. I am refusing you because you would not have given it out.*”
 
@@ -110,7 +110,7 @@ Nobody on that bank said a word back to her, and about four of them had the seve
 
 Then about nine people stood about on a bank with about twelve inches of water over the top step, and about nine steps of that flight were under about four feet of it. Nobody went down any of them.
 
-A man in an ash on the low side of a landing half a mile up that water said nothing at all. A woman of twenty-nine in a reed on the other side of that landing said nothing at all either.
+A man in an ash on the low side of a landing about eight and a half miles up that water said nothing at all. A woman of twenty-nine in a reed on the other side of that landing said nothing at all either.
 
 ---
 

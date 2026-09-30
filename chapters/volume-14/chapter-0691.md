@@ -38,13 +38,13 @@ Then a man of thirty-one did the thing he does, which is take two numbers that a
 
 Ilyan Vester is thirty-one and is nobody’s, and there is no column in the county of Kell with his name at the top of it and no form that renews him and no rate on him and no hundred in that county either.
 
-“*Seven of eight doors in nine days. That is a bit more than one a day and it has been the same for nine days and I have been watching it do it.*”
+“*Seven of eight doors in nine days. That is under one a day and it has been under one a day for nine days and I have been watching it do it.*”
 
 “*A man of sixty-one has been counting the days a man of thirty-four has been in an ash. He got sixty-one this morning. I have been on that landing twice.*”
 
-“*And if you put my seven and a half with his sixty-one you get a rate. And a rate is a thing people can be sent for about.*”
+“*And I am going to make it a rate because a rate is a thing people can be sent for about, and I am going to make it a rate by dividing one by the other, and I have already decided the answer is a small number.*”
 
-Then a man of sixty-one took it apart, in public, in six sentences, and did it the way he takes everything apart, which is to say without any pleasure in it at all.
+Then a man of sixty-one took it apart, in public, in six sentences, and he did it in the voice he keeps a book in, which is to say without any pleasure in it at all.
 
 Nevin Trask is sixty-one and has kept the book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
 
@@ -58,11 +58,11 @@ And the man of thirty-one took it back, in his own mouth, standing where he was 
 
 “*Seven doors and nine mornings. That is all of it.*”
 
-“*I am not going to give you the half. And I am not going to be the man on that bank who divides a door by a morning.*”
+“*And I am not going to give you the number I got out of dividing them, and I am not going to be the man on that bank who divides a door by a morning.*”
 
 “*I have been doing that since the first week I got here. I am not stopping because I am thirty-one.*”
 
-Nobody on that bank gave him back the half and nobody argued with him about it.
+Nobody on that bank asked him for the number he had got and nobody argued with him about it.
 
 Then a woman of forty-four said the thing about gates, and she said it because a man of forty-one was standing at the head of that road with his coat on and about nine people were standing behind him.
 

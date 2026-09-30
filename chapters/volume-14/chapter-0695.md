@@ -6,7 +6,7 @@ Fourth day of the hundred and twenty-first week. His four hundred and forty-fift
 
 The water was about sixteen inches over the top step at the seventh hour. The man of forty-three gave the reading and said the bank was full, and nobody asked him what a full bank is for.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A full bank is about sixteen inches over the top step, and he has said he has nothing to say about a night three times and has said it four times this morning.
+Corvin Tace is forty-three and has kept a landing nineteen years. A full bank is about sixteen inches over the top step, and he has said he has nothing to say about a night three times and has not said it since.
 
 “*About sixteen inches over the top step at the seventh hour. Four days since it came off those steps, and I count from one morning to the next and not from a morning to itself.*”
 
@@ -38,7 +38,7 @@ About four people on that bank had the two names and about nine of them had neve
 
 Then a man of sixty-one said what he was going to do with the two of them. It was the same thing he had said about the six nines, and he said it flat, and it took him five sentences.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head, and the last of the five is a number he wrote on the Saturday of the hundred and twentieth week.
+Nevin Trask is sixty-one, and the book of heads and carts has been in his hands eleven years. There are five lines on the leaf after the last head, and a number is the last of the five, and a number is going to stay the last of the five whatever a man of thirty-one says on a full bank.
 
 “*I am not going to write either of those two names in this book. And I am not going to write the one a man of thirty-one has just said on a full bank in front of about nine people.*”
 
@@ -82,9 +82,9 @@ Then he said why he had kept it, and it was not modesty, and he asked for it to 
 
 “*I kept it because I could not get a figure for what was making it. A chamber that is a day is lit by a hole in a ceiling and the stone under the hole. The eighth has two hands over it and the lintel says two people, so I was not going to be the one to say out loud that a man who cannot see well can find something a man who can see well walks past.*”
 
-“*And it is not light. I do not know what it is. I have been putting off saying it for six weeks and I have run out of reasons and the reason I have run out of is that a man of thirty-one has been on that bank for six weeks telling us that a figure with no thing behind it does not go in a book, and I have got a thing behind it and I have not said it.*”
+“*And it is not light. I do not know what it is. I have been putting off saying it for six weeks and I have run out of reasons and the reason I have run out of is that a man of thirty-one has been on that bank for a fortnight telling us that a figure with no thing behind it does not go in a book, and I have got a thing behind it and I have not said it.*”
 
-Then a man of thirty-one said what the finding is, and he got it wrong twice on the same morning, and both times a man who works put it back.
+Then a man of thirty-one said what he thought was under that door-stone, and he got it wrong twice on the same morning, and both times a man who keeps that stone put it back.
 
 “*Then the eighth chamber is lit and there is a person in it and there is a keeping in it and I can go and ask for the record of the keeping—*”
 
@@ -106,7 +106,7 @@ About four people on that bank had the function and about nine of them had the p
 
 Then a woman of twenty-eight said one thing about being sent for, and she said it before a man of thirty-one had finished asking, and he had not been going to ask.
 
-Sera Quill is twenty-eight and cannot be sent for about in this county or in the one she came from. She is not one of the nine, and she has said the same sentence about a lamp and a record six times in a fortnight.
+Sera Quill is twenty-eight and cannot be sent for about in this county or in the one she came from. She is not one of the nine, and she has said the same sentence about a lamp and a record six times in a fortnight and is saying it a seventh time this morning.
 
 “*If a man of thirty-one is about to ask to be sent for about that room, I am going to say something about it first.*”
 
@@ -116,7 +116,7 @@ Sera Quill is twenty-eight and cannot be sent for about in this county or in the
 
 “*And I have checked it a seventh time this morning and it has not moved. Nobody in this county has said out loud that a lamp on a hook in the ninth of nine rooms and the thing that keeps the record in four counties are the same thing.*”
 
-“*And I am still not going to be the one who says it.*”
+“*And I am still not going to be the one who says it, and I have said that sentence six times and I am not going to say a seventh.*”
 
 Then a man of fifty-four said the thing that is going to be true of all of it, and he cannot read, and he said it before anybody had thought of asking him.
 

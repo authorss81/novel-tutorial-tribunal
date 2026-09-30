@@ -44,7 +44,7 @@ Then he said the cost, and it had two halves, and he gave the first half and sai
 
 About four people on that bank had the minute and about nine of them had the form that is not there.
 
-Then a woman of forty-four said the second half, and it was the harder one, and she had been the first person in that county to be asked for something in about nineteen years.
+Then a woman of forty-four said the second half, and it was the harder one, and she said that about nine people on a bank had just found out what she had known for about nineteen years, and that nobody had come to her door.
 
 Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year. She has said a list is a column seven times this fortnight, and that a thing with no person on either side of it is a thing that has not happened yet seven times.
 
