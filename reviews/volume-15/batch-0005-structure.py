@@ -18,6 +18,14 @@ import hashlib
 from collections import defaultdict
 
 LO, HI = 741, 750
+# REPAIRED AT THE REVIEW OF VOLUME 15 BAND 0005, FOR THE SAME REASON AS
+# `batch-0004-structure.py`, WHICH TOOK NO ARGUMENTS AND THEREFORE RE-MEASURED
+# ITS OWN NEIGHBOUR WHENEVER IT WAS GIVEN ONE. THE RANGE IS AN ARGUMENT HERE
+# TOO, 741-750 IS THE DEFAULT, AND THE BAND IS ANNOUNCED FIRST.
+if len(sys.argv) >= 3:
+    LO, HI = int(sys.argv[1]), int(sys.argv[2])
+print(f'THIS IS THE STRUCTURAL SWEEP AND IT IS MEASURING CHAPTERS {LO}-{HI} '
+      f'AND NOT ANY OTHER TEN.', flush=True)
 FILES = [f'chapters/volume-15/chapter-{c:04d}.md' for c in range(LO, HI + 1)]
 BOOK = ['the volume', 'in this volume', 'of the volume', 'this volume',
         'this manuscript', 'in the novel', 'the novel', 'of this volume',

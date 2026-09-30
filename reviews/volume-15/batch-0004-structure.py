@@ -18,6 +18,18 @@ import hashlib
 from collections import defaultdict
 
 LO, HI = 731, 740
+# REPAIRED AT THE REVIEW OF VOLUME 15 BAND 0005. THIS SCRIPT USED TO TAKE NO
+# ARGUMENTS AT ALL, SO `batch-0004-structure.py 741 750` SILENTLY RE-MEASURED
+# 731-740 AND PRINTED A CLEAN-LOOKING TABLE FOR THE WRONG BAND -- IT REPORTED
+# `forgiven 2` AT A VIOLATION THAT IS AT 0 IN THE BAND BEING ASKED ABOUT.
+# AN INSTRUMENT THAT MEASURES ITS NEIGHBOUR IS WORSE THAN NO INSTRUMENT, BECAUSE
+# IT IS BELIEVED. THE RANGE IS NOW AN ARGUMENT, THE HISTORICAL RANGE IS THE
+# DEFAULT SO THAT EVERY FIGURE ALREADY PRINTED FOR 731-740 STILL REPRODUCES, AND
+# THE BAND IS ANNOUNCED BEFORE ANYTHING ELSE IS PRINTED.
+if len(sys.argv) >= 3:
+    LO, HI = int(sys.argv[1]), int(sys.argv[2])
+print(f'THIS IS THE STRUCTURAL SWEEP AND IT IS MEASURING CHAPTERS {LO}-{HI} '
+      f'AND NOT ANY OTHER TEN.', flush=True)
 FILES = [f'chapters/volume-15/chapter-{c:04d}.md' for c in range(LO, HI + 1)]
 BOOK = ['the volume', 'in this volume', 'of the volume', 'this volume',
         'this manuscript', 'in the novel', 'the novel', 'of this volume',

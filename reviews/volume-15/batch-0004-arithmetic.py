@@ -268,16 +268,27 @@ def counters(lo, hi, vol='volume-15'):
 
 
 if __name__ == '__main__':
+    # REPAIRED AT THE REVIEW OF VOLUME 15 BAND 0005. THIS MAIN BLOCK USED TO
+    # SWEEP THREE LITERAL RANGES AND IGNORE `sys.argv` ENTIRELY, SO
+    # `batch-0004-arithmetic.py 741 750` PRINTED THE 731-740 BLOCK UNDER A
+    # 741-750 NAME AND A READER HAD NO WAY OF TELLING. THE SWEEPS THEMSELVES
+    # (`sweep`, `counters`) ALWAYS TOOK A RANGE AND ARE CORRECT; ONLY THE ENTRY
+    # POINT LIED. THE CALIBRATIONS RUN FIRST AND ALWAYS, AND THE BAND TAKEN FROM
+    # THE COMMAND LINE IS ANNOUNCED.
+    band = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) >= 3 else (731, 740)
+    print(f'CALIBRATION 701-720, THEN 721-730, THEN THE BAND {band[0]}-{band[1]}, '
+          f'WHICH IS THE RANGE GIVEN ON THE COMMAND LINE OR THIS SCRIPT\'S OWN '
+          f'HISTORICAL BAND:')
     print('CALIBRATION 701-720 (must come back clean):')
     c1 = sweep(701, 720)
     print('CALIBRATION 721-730 (the last band certified 36 phrases, 0 flagged):')
     c2 = sweep(721, 730)
-    print('THE BAND 731-740:')
-    c3 = sweep(731, 740)
+    print(f'THE BAND {band[0]}-{band[1]}:')
+    c3 = sweep(*band)
     print()
     print('THE COUNTER READ-BACK, CALIBRATED ON 721-730, WHICH THE LAST BAND CERTIFIED:')
     counters(721, 730)
     print()
-    counters(731, 740)
+    counters(*band)
     print()
-    print(f'SUMMARY: calibration {c1}, 721-730 {c2}, band {c3}')
+    print(f'SUMMARY: calibration {c1}, 721-730 {c2}, band {band[0]}-{band[1]} {c3}')

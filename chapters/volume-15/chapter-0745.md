@@ -70,13 +70,17 @@ Garrin Tolley is thirty-eight and has read that sheet thirty-five times in this 
 
 “*Name. Day. And a third one, and the third one has a line at the top of it in smaller type, and I am going to read it out loud and I am going to count the words because that is what I do and because you cannot check anything else about it.*”
 
-Then he read it out loud, and counted it, and the count was eleven words and the sheet was that wide.
+Then he read it out loud, and counted it, and the count was twelve words and the sheet was that wide.
 
 “*A. Person. Who. Is. Not. There. On. A. Day. Agrees. To. It.*”
 
-“*Eleven. And I am going to say the other half of it and nobody asked me.*”
+“*Twelve. And I am going to say the other half of it and nobody asked me.*”
 
-“*That is the nine words from the back of the sheet with two words in front of them. A person who. That is the whole of the difference.*”
+“*That is the nine words from the back of the sheet with three words in front of them. A person who. Three and nine is twelve and I counted it twice and about four of you counted it with me.*”
+
+“*And one of the nine is not the word that is on the back of it. That one says agrees. The back of that sheet says is agreeing.*”
+
+“*A rule about a day is one thing and a thing a person does is another one, and the three words in front are what turn the first into the second, and I have read that sheet thirty-five mornings and did not hear either half of it until this one.*”
 
 “*And there is no column on that thing for a person stopping. I have read that sheet thirty-five mornings and there were two columns and neither was a person stopping, and this morning there are three and not one of the three is.*”
 
@@ -186,14 +190,14 @@ The man is forty-one and keeps two carts and has been the ninth of nine for nine
 
 The fever was sixty-six weeks old. He had been in that county a hundred and ninety-one days.
 
-A sheet of printed paper was on that counter on Saturday morning with three columns on it and eleven words at the top of the third one.
+A sheet of printed paper was on that counter on Saturday morning with three columns on it and twelve words at the top of the third one.
 
-The eleven are the nine words that were on the back of it with two words in front of them. There is still no column on it for a person stopping.
+The twelve are the nine words that were on the back of it with three words in front of them and one of the nine changed. There is still no column on it for a person stopping.
 
 And a man of fifty-four who cannot read said in four sentences that he cannot come on any day of any week and has held the gravel at the head of that drain for nineteen years. If he does not come he has agreed to all nine. And a thing which cannot tell the difference between a person who agreed and a person who was not there will get it wrong about everybody on that line.
 
-There is a sheet of printed paper on that counter with three columns on it, and the third one has eleven words at the top of it, and the eleven are the nine words that were on the back of it with two words in front of them.
+There is a sheet of printed paper on that counter with three columns on it, and the third one has twelve words at the top of it, and the twelve are the nine words that were on the back of it with three words in front of them and one of the nine changed.
 
-A person who.
+One of the nine is not the word that is on the back of it. A man of thirty-eight read the two of them out loud in the same morning, and one of them says agrees and the other one says is agreeing.
 
 And there is still no column on that thing for a person stopping, and nobody in four counties can be sent for about who put it there, and about nine people were on that bank on a Saturday morning when a man of thirty-one said the word amendment out loud and refused to fill in any of the three.

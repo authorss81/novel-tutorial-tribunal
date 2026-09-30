@@ -36,7 +36,7 @@ Barnaby Crove is fifty-four and holds the gravel at the head of that drain and c
 
 “*Nobody is going to be thanked for the twenty-eight and nobody is going to be told I was brave about it.*”
 
-Then the man of thirty-eight read the ninth line out loud in the open, and the fourteen names after it, and the eleven words at the top of the third column, and the line at the top of the sheet. It took about nine minutes and a bit over, and the sheet went back on that counter.
+Then the man of thirty-eight read the ninth line out loud in the open, and the fourteen names after it, and the twelve words at the top of the third column, and the line at the top of the sheet. It took about nine minutes and a bit over, and the sheet went back on that counter.
 
 Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet thirty-nine times in this county. He has been refused a figure for how long three times, asked for a fourth, and will not ask a fifth. He stopped deciding at the Sunday of the hundred and twenty-seventh week.
 
