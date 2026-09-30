@@ -1,4 +1,4 @@
-# Chapter 664: The First Day Of The Hundred And Seventeenth Week, And A Tuesday, And On Which A Board About Four Feet By Two Feet Is Lifted By Two People Nobody Could Name On Friday, And The Bottom Nine Steps Are Under About Four Feet Of Water And Are Bailed Again By A Man Who Is Not Thanked For It
+# Chapter 664: The First Day Of The Hundred And Seventeenth Week, And A Tuesday, And On Which A Board About Four Feet By Two Feet Is Lifted By Two People Nobody Could Name On The Tuesday, And The Bottom Nine Steps Are Under About Four Feet Of Water And Are Bailed Again By A Man Who Is Not Thanked For It
 
 First day of the hundred and seventeenth week. His four hundred and fourteenth morning. Two hundred and sixty-four days after the settlement. The fever fifty-four weeks and three days. Two hundred and eighteen days since the division. One hundred and sixty-four days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -32,13 +32,13 @@ Then the two lifted the board, and it took them about the length of a man of for
 
 Garrin Tolley is thirty-eight and has a child of nine, and he is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he went down with a lamp that was his.
 
-“*Nine steps and about four feet and I have done it twice in about nine days and a pail takes three goes to a step and nine steps is about twenty-seven goes. And a man of thirty-eight wants about nine minutes a go, and that is the working and it comes to about four hours and a quarter.*”
+“*Nine steps and about four feet and I have done it twice in about nine days and a pail takes three goes to a step and nine steps is about twenty-seven goes. And a man of thirty-eight wants about nine minutes and a half a go, and that is the working and it comes to about four hours and a quarter.*”
 
 “*And I am not going to be thanked for it again and I have said that twice and I am going to say it a third time and then I am going to stop saying it, which is a different thing from stopping doing it.*”
 
 Then the man of forty-one said he would do the bailing, and nobody had asked him. And he gave the reason in about five sentences and the reason was that it was the same work as a wet load and he had been doing it for nineteen years.
 
-“*I have shifted a wet cart off a road about nine times a week since I was about twenty-two and I know what four hours of standing in water does to a man and I know it takes a man about nine minutes a go and not eight, because the eighth one is where you start being slow.*”
+“*I have shifted a wet cart off a road about nine times a week since I was about twenty-two and I know what four hours of standing in water does to a man and I know it takes a man about nine minutes and a half a go and not eight, because the eighth one is where you start being slow.*”
 
 “*I am going down because it is my work and because a man of thirty-eight has bailed it twice and a man of thirty-eight has a child of nine. And I am not going to say anything about that last part in a passage.*”
 
@@ -82,7 +82,7 @@ Nobody in that passage said a word to him about the coat.
 
 Then the day was done in the chamber of the day by two people, and the stone went about nine feet along a groove, and the light came onto it. And then it went back about nine feet and the chamber went dark. And it took about a minute each way, and about four people in that chamber had the minute and the rest of them had the dark.
 
-And the wheel in the chamber that is a week was not turned, because the turn for that day had been done. And a man of thirty-eight said the reason in about four sentences and the reason was about a day and not about a wheel.
+And the wheel in the chamber that is a week was not turned, because the turn for that day had been done. And a man of thirty-eight said the reason in about four things and the reason was about a day and not about a wheel.
 
 “*That turn is a day and that day has been had. It is the fourth hour of the morning and there is nobody in this room who has had one today and I am not going to give one of you the second turn of a wheel on a Tuesday because we are all standing here.*”
 
@@ -102,7 +102,7 @@ Nobody on that bank thanked the man of forty-one for four hours and a quarter in
 
 The fever was fifty-four weeks and three days old. He had been in that county one hundred and ten days.
 
-A board about four feet by two feet was lifted by two people whom nobody could name on Friday and who were found at about the seventh hour on the Tuesday by a boy of thirteen who had already been four miles and back once that morning. And there is no form in the county of Kell that says who either of those is.
+A board about four feet by two feet was lifted by two people whom nobody could name on the Tuesday and who were found at about the seventh hour on it by a boy of thirteen who had already been four miles and back once that morning. And there is no form in the county of Kell that says who either of those is.
 
 About nine people went down about ninety steps and the bottom nine of them were under about four feet of water, as they have always been. And a man of forty-one bailed them for about four hours and a quarter, and before anybody had got near him he said that he had been slow at the end and that somebody should have told him to hurry and that nobody had.
 

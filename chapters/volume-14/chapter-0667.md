@@ -40,7 +40,7 @@ Then he said what the figure is a figure of, and he said the whole of it, and ab
 
 “*Forty-five hours is a figure of a mill.*”
 
-“*It is not a figure of a woman of thirty-eight, because she came and she decided to come. And I have watched her do it four times and I am not going to put her four days against her as a thing that was done to her.*”
+“*It is not a figure of a woman of thirty-eight, because she came and she decided to come. And I have watched her do it four times and I am not going to put her four descents against her as a thing that was done to her.*”
 
 “*It is not a figure of her mother, because her mother is one of the eleven and her mother has not been asked for anything and does not know that this sum was done and cannot be sent for about it and is not going to know.*”
 

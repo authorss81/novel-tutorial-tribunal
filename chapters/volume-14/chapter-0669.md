@@ -38,7 +38,7 @@ Then he gave the last of it, and it is the only number in that bank that is abou
 
 Nobody in that bank said a word about that.
 
-Then a man of forty-one gave the physics of it in about fourteen sentences, and it is the only answer anybody gave, and it is not an answer anybody liked.
+Then a man of forty-one gave the physics of it in about ten sentences, and it is the only answer anybody gave, and it is not an answer anybody liked.
 
 “*That board is about four feet by two feet and a man of thirty-eight can get it up off its stick alone and a man of forty-one can get it up alone. And a man of sixty-six cannot get one end of it up without the other end coming down, and that is not about how many people agree to it.*”
 

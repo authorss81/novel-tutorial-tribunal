@@ -6,7 +6,7 @@ Second day of the hundred and seventeenth week. His four hundred and fifteenth m
 
 They were on the water at about the fifth hour on the Wednesday and the man of forty-one was in about four feet of it by about the sixth. And it took him about two hours instead of about four hours and a quarter, and he said why out loud before anybody asked him.
 
-“*A man of thirty-eight emptied nine steps yesterday in about four hours and a quarter. A day later the drain has put back about two feet of it and about two hours takes two feet back off again.*”
+“*A man of forty-one emptied nine steps yesterday in about four hours and a quarter. A day later the drain has put back about two feet of it and about two hours takes two feet back off again.*”
 
 “*And I am going to say the other half so that nobody puts it in a book wrong. About two hours is enough for nine people to stand in. It is not a figure of those nine steps and it is not a figure of that flight and I am not going to let it be one.*”
 
@@ -60,9 +60,9 @@ Then the man of thirty-one said that he was not going to say a fourth one, and h
 
 “*And I am not going to say a fourth and I am not going to say the fifth one that I have got. And I want it said that a man of thirty-one who has been counting things for a hundred and ten days has just had a thing he cannot count.*”
 
-Then the man of sixty-six was asked what the water stopping means, and he gave the same four sentences, and about nine people in that passage had heard them before and about four had heard them twice.
+Then the man of sixty-six was asked what the water stopping means, and he gave the same four things, and about nine people in that passage had heard them before and about four had heard them twice.
 
-Abel Fenner is sixty-six and digs for water and is the only person in four counties anybody can be sent for about a word he said in a gallery about a week ago. And he has been asked what the water stopping means once this week and he is being asked it a second time, and he answered it the same way both times.
+Abel Fenner is sixty-six and digs for water and is the only person in four counties anybody can be sent for about a word he said in a gallery about nine days ago. And he has been asked what the water stopping means once this morning and he is being asked it a second time this morning, and he answered it the same way both times.
 
 “*I have a rate and a wear, and both of those are about how a thing is done and neither of those is about who does it.*”
 
@@ -70,9 +70,9 @@ Abel Fenner is sixty-six and digs for water and is the only person in four count
 
 “*Those are the only two things I know about it and I have had forty-one years to add a third and I have not.*”
 
-“*And I have been asked what a line on a wall means this morning, and I have the same four sentences for that, and they are about a line and not about a person. And I am sixty-six and I am a sinker and I know what a hole is. And I will not be the man who tells you, and if you write it down in a book I will not have said it.*”
+“*And I have been asked what a line on a wall means this morning, and I have the same four things for that, and they are about a line and not about a person. And I am sixty-six and I am a sinker and I know what a hole is. And I will not be the man who tells you, and if you write it down in a book I will not have said it.*”
 
-Nobody in that passage thanked him for the same four sentences twice.
+Nobody in that passage thanked him for the same four things twice.
 
 Then a man of sixty-one said the number of a day, and he said the working, and then he said what a day of waiting is, and he did not give a figure for the end of it.
 
@@ -80,7 +80,7 @@ Then a man of sixty-one said the number of a day, and he said the working, and t
 
 “*And I am not going to add anything to that number this morning. I have got a count of days for a hearing nobody granted and nobody refused. And a count of days is only a count of days while a person is in the place. And the place for that count is a room and there is no room and so I am going to stop adding to it and say the number as it stands and no more.*”
 
-Then the nine came up, and about two hours and a quarter of bailing on the way back. And the board went on its stick by two people. And a boy of thirteen was at the head of the flight with a barrow and a coat and did not go down.
+Then the nine came up, and the bailing was not finished when they were, and the whole of that day was about two hours. And the board went on its stick by two people. And a boy of thirteen was at the head of the flight with a barrow and a coat and did not go down.
 
 Nobody on that bank thanked anybody for coming up, and the man of thirty-one said out loud that the coming up is the part nobody thanks anybody for. And a man of thirty-eight said that he had said that on the Saturday of the hundred and fifteenth week in a chamber and that it was still true and that he was not going to improve on it.
 
@@ -92,4 +92,4 @@ The second descent went about nine feet past the last of about nine beams, and t
 
 It is not a chamber and it is not a gallery and a man of thirty-one tried three names for it in three sentences and was stopped three times. And the third stop was by a man of fifty-four who cannot read and who had not been asked anything.
 
-And a man of sixty-six was asked what the water stopping means and gave the same four sentences he has given since the Monday of the hundred and fifteenth week. And about nine people in that place had heard them before.
+And a man of sixty-six was asked what the water stopping means and gave the same four things he has given since the Monday of the hundred and fifteenth week, and they are four sentences on some tellings and seven on others and he has never counted them and neither has anybody else. And about nine people in that place had heard them before.

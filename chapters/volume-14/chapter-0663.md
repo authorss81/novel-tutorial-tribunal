@@ -8,13 +8,13 @@ The water was off the steps by the seventh hour on the Monday, all ninety of the
 
 Corvin Tace is forty-three and has kept that landing nineteen years, and the block of limestone with a line cut round it is in that reach. And the water went over it on the Wednesday of the hundred and fifteenth week and is still over it.
 
-“*The stone went over on the Wednesday. That bank was full on the Friday. It is empty this morning. That is four days. And it is four days of a bank emptying and not a figure of a river and not a figure of a year.*”
+“*The stone went over on the Wednesday. That bank was on its first three steps on the Friday morning and it is off all ninety of them this morning. That is three days, and I count from one morning to the next and not from a morning to itself. And it is three days of a bank emptying and not a figure of a river and not a figure of a year.*”
 
 “*And I am going to say the other half of it because nobody else is going to. There is a thing being said in that yard and in the town nine miles down this water, that the next time those steps can be walked is the next time that block of limestone comes out. That is a figure of a river.*”
 
-“*It is also true of a bank, and it is a figure of a bank, and the bank is four days and the bank has a person in it and the stone has nobody in it at all. Both of those are true and only one of them is about anybody. And I am a man of forty-three and I have watched a stone for nineteen years and I know which one I would rather be.*”
+“*It is also true of a bank, and it is a figure of a bank, and the bank is three days and the bank has a person in it and the stone has nobody in it at all. Both of those are true and only one of them is about anybody. And I am a man of forty-three and I have watched a stone for nineteen years and I know which one I would rather be.*”
 
-About four people on that bank had the four days. Nobody on that bank had a figure for the stone.
+About four people on that bank had the three days. Nobody on that bank had a figure for the stone.
 
 Then the people who got the nine to that bank were named, and every one of them was named by the doing and not by the wanting. And about nine of them had been on that bank when the list of nine jobs was read out on the Saturday and had not said a word about their own jobs.
 
@@ -46,7 +46,9 @@ Abel Fenner is sixty-six and digs for water and has been down those steps twice,
 
 “*A passage is somewhere a person can be. A wet flight is somewhere a person goes through. And there is nowhere on it to stand, and that is the whole of the difference and it took me forty-one years to get it.*”
 
-“*And the nine steps under the water are not in the room at all. I have stood in two of them, once, in the second hour of a morning forty-one years ago. And I have never been in the other seven. And nobody knows what the other seven are for, including the man of thirty-one, who asked me on the Thursday of the hundred and fifteenth week and I gave him four sentences and they were the same four sentences I give everybody.*”
+“*And the nine steps under the water are not in the room at all. I have stood in two of them, once, in the second hour of a morning forty-one years ago. And I have never been in the other seven, and what is past the narrowing is not one of the seven, and if I am wrong about that on the Tuesday then I will be the one who is wrong and not the water.*”
+
+“*And nobody knows what the other seven are for, including the man of thirty-one, who asked me how deep it goes on the Thursday of the hundred and fifteenth week and got four things about a floor. And he has not asked me since, and the four things I give everybody are the four I gave on the Monday of that same week in a gallery, and they are not the same four.*”
 
 Nobody in that bank said a word about the other seven steps.
 
@@ -66,7 +68,7 @@ Aveline Marsh is thirty-eight and keeps a mill four miles off that landing, and 
 
 “*And I am asking you anyway, and I am saying that I am asking you anyway. And you may say no. And a no from you and not knowing are two different things and I have not got a way of telling them apart from out here and that is why I am asking in front of about nine people instead of in a doorway.*”
 
-Then she answered, and it took her about fourteen sentences, and it was worse for everybody in that bank than the not-knowing had been.
+Then she answered, and it took her about eleven sentences, and it was worse for everybody in that bank than the not-knowing had been.
 
 “*I am going to answer, and I want it said that I am answering and not that I have been asked, and those are the same and they are not.*”
 
@@ -102,7 +104,7 @@ Nobody in that bank walked over to the ash that day. Nobody in that bank walked 
 
 The fever was fifty-four weeks and two days old. He had been in that county one hundred and nine days.
 
-A man of forty-three said out loud that the water in a bank is a figure of a bank and the water over a stone is a figure of a river. And that the bank empties in about four days and has a person in it, and that the stone has nobody in it at all.
+A man of forty-three said out loud that the water in a bank is a figure of a bank and the water over a stone is a figure of a river. And that the bank empties in about three days and has a person in it, and that the stone has nobody in it at all.
 
 And the people who got nine people to a bank and back were named for the doing: a man of forty-one with two carts who said what a road is after abolition. And a boy of thirteen who is not a head in a book and has walked four miles with a barrow since he was nine.
 

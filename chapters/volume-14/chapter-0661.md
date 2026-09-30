@@ -80,7 +80,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 Nobody in that bank had heard the number three before this morning, and a list that is read out loud once is gone by the time the light goes.
 
-Then a man of sixty-one said what the list was worth, and he said the same thing he had said on the Tuesday of the hundred and sixteenth week about a leaf that is not for names. And he said it once. And the whole of it had been said on the Tuesday of the hundred and sixteenth week to a bank that was not this one.
+Then a man of sixty-one said what the list was worth, and he said the same thing he had said on the Wednesday of the hundred and fifteenth week about a leaf that is not for names. And he said it once. And the whole of it had been said on that Wednesday to a bank that was not this one.
 
 Nevin Trask is sixty-one and has kept the book of heads and carts eleven years, and there are four lines in it on the leaf after the last head, and he is not going to write nine more.
 

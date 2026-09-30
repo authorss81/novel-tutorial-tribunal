@@ -24,19 +24,19 @@ Nevin Trask is sixty-one and has kept the book of heads and carts eleven years, 
 
 Then he read the nine, and every one of them was named by the person who had said they would.
 
-“*One. A man of sixty-six, a sinker, who said he would come down on the Tuesday and said the reason was a narrowing and not a question. And he has been down nine times in about nine days and he is the only one of the nine who has not said that he did not know.*”
+“*One. A man of sixty-six, a sinker, who said he would come down on the Tuesday and said the reason was a narrowing and not a question. And who has been down three times in three days, on the Tuesday, the Wednesday and the Thursday, and is the only one of the nine who has not said that he did not know.*”
 
-“*Two. A woman of thirty-eight who keeps a mill four miles off, who said on the Thursday of the hundred and fifteenth week that she would not come down again this year. And who has come down five times since and whose mill has stopped four times.*”
+“*Two. A woman of thirty-eight who keeps a mill four miles off, who said on the Thursday of the hundred and fifteenth week that she would not come down again this year. And who has come down four times since that Thursday, and not five, and whose mill has stopped four times.*”
 
-“*Three. A man of thirty-eight, who is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge. And who said yes in about four seconds. And who bailed about four hours and a quarter once and about two hours and a quarter three times.*”
+“*Three. A man of thirty-eight, who is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge. And who said yes in about four seconds. And who did not bail once in three days, because the bailing is a man of forty-one’s and he has said that out loud on a bank twice.*”
 
-“*Four. A man of forty-one who keeps two carts, who said he would do the bailing before anybody asked him, and whose Monday is not going up on the Monday.*”
+“*Four. A man of forty-one who keeps two carts, who said he would do the bailing before anybody asked him, and who bailed about four hours and a quarter on the Tuesday and about two hours on the Wednesday and about two hours and a quarter on the Thursday, and that is about eight hours and a half in three days. And whose Monday is not going up on the Monday.*”
 
-“*Five. A man of fifty-four who holds the gravel at the head of that drain, who has said he cannot read seven times in about nine days. And who said nobody has asked him a question and that he is not going to be asked one.*”
+“*Five. A man of fifty-four who holds the gravel at the head of that drain, who has said he cannot read six times in about nine days. And who said nobody has asked him a question and that he is not going to be asked one.*”
 
 “*Six. A boy of thirteen who is not a head in this book because the penny a head is on everybody over sixteen, who said nobody sent him and that he is not going down there. And who went down on the Friday of the hundred and fifteenth week and has not gone down since, which is seventeen days, and who has gone up that track about four miles twice a day for the whole of them.*”
 
-“*Seven. A woman of forty-nine who came down that road twice, who does not know what a copy is and has said so out loud three times. And who said she would be one of them and that she does not know what half of it is.*”
+“*Seven. A woman of forty-nine who came down that road twice, who does not know what a copy is and has said so out loud twice. And who said she would be one of them and that she does not know what half of it is.*”
 
 “*Eight. A man of sixty-one, who keeps this book, and who said he would read things out loud and not write them down, and who has said that about four times and meant it about four times.*”
 
@@ -62,7 +62,7 @@ Then the two people who are not in it were read out loud too, because a man of s
 
 “*A man of about fifty-two who cannot see well is not one of the nine. And he has not said he will be near it. And I am not going to argue with a man who told a man of thirty-one the true of a thing in four sentences twice in about four days.*”
 
-“*A woman of twenty-eight is not one of the nine, and she said so on the Sunday of the hundred and sixteenth week in nine sentences. And she has been standing about nine feet off since the Friday of the hundred and sixteenth week and everything she has said in about four days has been about herself and not about the nine.*”
+“*A woman of twenty-eight is not one of the nine, and she said so on the Sunday of the hundred and sixteenth week in nine sentences. And she has been standing about nine feet off since the Friday of the hundred and sixteenth week, and ten is six hundred and seventy less six hundred and sixty, and everything she has said in about ten days has been about herself and not about the nine.*”
 
 Then a man of thirty-one said the four things that have not moved in about nine days, and he said them flat, and he said he was not going to improve on any of them.
 
@@ -76,7 +76,7 @@ Ilyan Vester was thirty-one and he had been in that county one hundred and sixte
 
 “*And there is a place about nine feet past the last beam where the water stops, and it is not a chamber and it is not a gallery. And three names for it are in about nine mouths on this bank and a man of fifty-four kept a fourth one out of a passage in the dark, and there is no fourth and I have not got a fifth.*”
 
-Nobody in that bank said a word about any of the four, and about four of them had a whole figure and about nine had a shape.
+Nobody in that bank said a word about any of the four, and about four of them carried a whole figure out of that bank and the rest of them carried a shape.
 
 Then the man of thirty-one said what he wanted, and it was the same want he had said on the Wednesday of the hundred and sixteenth week with a number in it. And there is no number in it now and he noticed that himself.
 
@@ -98,4 +98,4 @@ And a sheet of deal with a seal on it is still face down on a barrel. And a hear
 
 And the coalition is nine people, and every one of them was named by the person who said they would. And about four of the nine said they would not first and came anyway, and the man of sixty-one read all four of those out loud in a bank on a Monday morning with the doing of each one attached.
 
-And the ninth of the nine is a man of thirty-one who asked to be the thing that is sent for twice in about four days and was refused twice and is in it anyway. And about four of the people in that bank had worked that out before the count and about nine had not, and he worked it out himself on the Saturday and said it out loud twice in a row and was told about it on the Thursday.
+And the ninth of the nine is a man of thirty-one who asked to be the thing that is sent for twice in about four days and was refused twice and is in it anyway. And about four of the people in that bank had worked that out before the count, and he worked it out himself on the Saturday and said it out loud twice in a row and was told about it on the Thursday.

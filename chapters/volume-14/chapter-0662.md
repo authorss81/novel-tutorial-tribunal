@@ -68,7 +68,7 @@ Wenna Callow is forty. She has asked for a day against a name for about nine wee
 
 “*And this morning the answer to my nine weeks is that I am to hand a day to nine people, and in about four years there will be a form and it will have a column and my name will be in it and the column will say what I gave.*”
 
-“*That is four sentences and the last one is the reason and the reason is about nine people and not about you.*”
+“*That is four things and the last one is the reason and the reason is about nine people and not about you.*”
 
 Nobody in that bank said a word to her about it, and nobody argued with her, and about nine people in that bank did not speak for about as long as it takes to pole a quarter mile.
 
@@ -88,7 +88,7 @@ Simon Rook is about fifty-two and cannot see well, and the fifth line of one of 
 
 “*In about four years there will be a form with a name at the top of it and every person in this county will know what the top of it is. And it will be a man of thirty-one who asked for it out loud in front of witnesses, which is the worst way of all of them to be one.*”
 
-“*I said the same thing to you on the Wednesday of the hundred and sixteenth week in nine sentences, and the reason then was that about nine of us did not know what a review is. And you asked for a job and I gave you a no, and this is the same no with a bigger coat on.*”
+“*I said the same thing to you on the Wednesday of the hundred and sixteenth week in four sentences, and the reason then was that about nine of us did not know what a review is. And you asked for a job and I gave you a no, and this is the same no with a bigger coat on.*”
 
 Then the man of thirty-one held it, and he held it in about four seconds, and he said the true of one half of a thing and not the other half, and he did not number it.
 
@@ -118,6 +118,6 @@ A coalition was said out loud on a Sunday morning on a bank: nine people who hav
 
 Its cost is a day, and it is not money, and there is no form in the county of Kell that says a person may be paid for any part of it.
 
-And a man of sixty-one refused to say how many, and said the reason out loud. And a woman of forty refused the cost in about four sentences for a reason about nine people and not about the man of thirty-one.
+And a man of sixty-one refused to say how many, and said the reason out loud. And a woman of forty refused the cost in about four things for a reason about nine people and not about the man of thirty-one.
 
 And a man of about fifty-two who cannot see well refused the man of thirty-one for the second time in about four days. And the reason was that a thing that is sent for is a thing people are sent for about.
