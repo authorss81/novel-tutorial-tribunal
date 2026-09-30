@@ -30,7 +30,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and about n
 
 “*I am still not answering the fifth thing and nobody has asked me and I am still waiting, and I asked for one thing this morning and got it and that does not settle the other one.*”
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-four times as of yesterday. He stopped deciding at the Sunday of the hundred and twenty-seventh week. He said he would read it again when somebody on that bank asked him to in front of about nine people.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-four mornings of that count had been counted by yesterday morning. He stopped deciding at the Sunday of the hundred and twenty-seventh week. He said he would read it again when somebody on that bank asked him to in front of about nine people.
 
 “*Forty-five is seven hundred and fifty-five less seven hundred and ten, and there has not been one of the forty-five in the dark.*”
 

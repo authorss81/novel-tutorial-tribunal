@@ -82,10 +82,26 @@ if len(sys.argv) >= 3:
 
     pairs = [(lo - 1, lo, v(lo))] + [(c, c + 1, v(c + 1)) for c in range(lo, hi)]
 else:
-    pairs = [(c, c + 1, 'volume-16') for c in range(751, 761)]
+    # REPAIRED AGAIN AT THE REVIEW OF VOLUME 16 BAND 0001. THE DEFAULT LIST RAN
+    # 751/752 THROUGH 760/761 AND `761` DOES NOT EXIST YET, SO THE SCRIPT PRINTED
+    # NINE PAIRS AND THEN DIED ON A FileNotFoundError, AND THE TAIL OF ITS OWN
+    # OUTPUT WAS THE TRACEBACK RATHER THAN THE BAND MAXIMUM. A BAND IS N CHAPTERS
+    # AND IT HAS N MINUS ONE INSIDE PAIRS. THE LIST IS NOW CLIPPED TO THE LAST
+    # CHAPTER THAT IS ON DISK, AND IT SAYS SO WHEN IT CLIPS.
+    import os
+    pairs = []
+    for c in range(751, 761):
+        if os.path.exists('chapters/volume-16/chapter-%04d.md' % (c + 1)):
+            pairs.append((c, c + 1, 'volume-16'))
+        else:
+            print('CLIPPED: chapter-%04d.md is not on disk, so %d/%d is not '
+                  'measured. THE LAST INSIDE PAIR IS %d/%d. THE VOLUME BOUNDARY '
+                  'PAIR 750/751 IS ONLY REACHED BY PASSING 750 751 EXPLICITLY.'
+                  % (c + 1, c, c + 1, pairs[-1][0], pairs[-1][1]), flush=True)
+            break
     print('NO RANGE GIVEN. THIS IS RUNNING ITS OWN HISTORICAL BAND, 751/752 TO '
-          '760/761, GIVE IT TWO CHAPTER NUMBERS TO MEASURE ANOTHER TEN.',
-          flush=True)
+          '%d/%d, GIVE IT TWO CHAPTER NUMBERS TO MEASURE ANOTHER TEN.'
+          % (pairs[-1][0], pairs[-1][1]), flush=True)
 print(f'THE VOLUME BOUNDARY AND EVERY PAIR INSIDE THE BAND, '
       f'{pairs[0][0]}/{pairs[0][1]} THROUGH {pairs[-1][0]}/{pairs[-1][1]}:')
 band = []

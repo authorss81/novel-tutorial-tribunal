@@ -20,6 +20,7 @@ METHOD, PRINTED IN FULL BESIDE EVERY FIGURE IT PRODUCES.
   the right day of the right week may still be the wrong day, and that is what
   the reading is for.
 """
+import os
 import re
 import sys
 
@@ -72,8 +73,23 @@ def sweep(lo, hi, vol="volume-15"):
                     hits += 1
                     print("HIT  %s:%d  %s of %s -> ch %d, before this ch %d (forward-looking)  [%s]"
                           % (vol, ch, day, rel, cand[day], ch, m.group(0)))
+    # REPAIRED AT THE REVIEW OF VOLUME 16 BAND 0001. INVOKED AS `751 760` THIS
+    # SCRIPT DEFAULTS TO volume-15, PRINTS SEVEN `MISSING` LINES AND THEN
+    # PRINTS `0 phrases, 0 hits`, WHICH READS AS A PASS OVER A SWEEP THAT NEVER
+    # RAN. A MISSING CHAPTER IS NOT A HIT AND AN EMPTY SWEEP IS NOT A CLEARANCE,
+    # SO BOTH NOW SAY SO IN WORDS AND BOTH SET A NON-ZERO RETURN, WHICH NO
+    # `if __name__` CALLER WAS CHECKING AND NOBODY WAS SUPPRESSED BY.
+    missing = sum(1 for c in range(lo, hi + 1)
+                  if not os.path.exists("chapters/%s/chapter-0%d.md" % (vol, c)))
     print("sweep %d-%d %s: %d phrases, %d hits" % (lo, hi, vol, phrases, hits))
-    return hits
+    if missing:
+        print("  ** %d OF %d CHAPTERS WERE NOT ON DISK IN %s. THIS IS NOT A PASS. **"
+              % (missing, hi - lo + 1, vol))
+    if phrases == 0:
+        print("  ** AN EMPTY SWEEP IS NOT A CLEARANCE. THE PHRASE FOUND NOTHING, "
+              "WHICH MEANS THE CHAPTERS WERE NOT READ AND NOT THAT THEY ARE "
+              "CLEAR. GIVE THE VOLUME AS A THIRD ARGUMENT. **")
+    return hits + missing
 
 
 if __name__ == "__main__":

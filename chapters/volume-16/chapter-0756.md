@@ -30,7 +30,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and he has 
 
 “*Nobody is going to be thanked for the thirty-five and nobody is going to be told I was brave about it.*”
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-four times as of yesterday. He stopped deciding at the Sunday of the hundred and twenty-seventh week.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-five mornings of that count had been counted by yesterday morning. He stopped deciding at the Sunday of the hundred and twenty-seventh week.
 
 “*Forty-six is seven hundred and fifty-six less seven hundred and ten, and there has not been one of the forty-six in the dark.*”
 
@@ -42,7 +42,7 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 Then a woman of thirty-four was still standing at the end of that bank, and had been since about the sixth hour, and had not been asked anything by anybody, and said so in four sentences.
 
-Brenna Dole is thirty-four and has walked about two days from a place four hundred miles off this landing, and she cannot be sent for about in this county or in the one she came from. She came down that bank on the Sunday of this week and said she was one of the nine and that six were in that room.
+Brenna Dole is thirty-four and has walked about two days from a place four hundred miles off this landing, and she cannot be sent for about in this county or in the one she came from. She came down that bank on the Sunday of last week and said she was one of the nine and that six were in that room.
 
 “*Four sentences and I am not going to be asked anything about any of them and I am saying that so that about nine of you know I know it.*”
 

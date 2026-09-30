@@ -28,11 +28,11 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has said
 
 “*Nobody is going to be thanked for the thirty-eight and nobody is going to be told I was brave about it.*”
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-seven times as of yesterday.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-eight mornings of that count had been counted by yesterday morning.
 
 “*Forty-nine is seven hundred and fifty-nine less seven hundred and ten, and there has not been one of the forty-nine in the dark.*”
 
-“*And the four leaves of that hearing have been on that counter five mornings and about nine people have looked at them and about four have read the fourth line out loud and about nine have not.*”
+“*And the four leaves of that hearing have been on that counter nine mornings and about nine people have looked at them and about four have read the fourth line out loud and about nine have not.*”
 
 “*A woman of forty read it on Thursday and would not read the rest. A man of thirty-one said on Thursday that he wanted the four leaves off this counter and is not going to move them.*”
 

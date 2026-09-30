@@ -2,7 +2,7 @@
 
 **These blocks were in `state/open-threads.md` until Volume 16 Band 0001 was written, and they were moved out whole and not one word cut. They are still canon. 1P supersedes 1O for the present and 1O does not contradict it.**
 
-## 1O. THE THIRTEEN THREADS OF 741–750 — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-16/batch-0001-open-threads-1O-741-750.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes when 1P went in above it. It is the whole of the thread block for 741–750. Nothing was summarised and nothing was cut. It is still canon and 1P does not contradict it, AND SEVEN OF ITS THIRTEEN ARE ADVANCED BY 751–760.**
+## 1O. THE THIRTEEN THREADS OF 741–750 — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-15/band-0005-open-threads.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes when 1P went in above it. It is the whole of the thread block for 741–750. Nothing was summarised and nothing was cut. It is still canon and 1P does not contradict it, AND SEVEN OF ITS THIRTEEN ARE ADVANCED BY 751–760.**
 
 **A HAZARD IS NOT A THREAD. NOTHING IN §0A BELOW IS A PERSON DOING A THING. EVERY LINE BELOW IS.**
 

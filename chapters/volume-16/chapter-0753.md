@@ -30,7 +30,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He said he 
 
 Then a man of thirty-four said what he had in his coat and what he is not going to do with it, in three sentences, and the third one is the reason.
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-three times as of this morning. He carries a board in the inside of his own coat since the last day of the hundred and twenty-first week and has never read it out. He is the only person anybody in that county can be sent for about nothing.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and it has been forty-three mornings of that count on this bank, and he has not read it on the last three of them. He carries a board in the inside of his own coat since the last day of the hundred and twenty-first week and has never read it out. He is the only person anybody in that county can be sent for about nothing.
 
 “*Three sentences and the third of them is the reason and it is mine.*”
 
@@ -38,7 +38,7 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*Two: a man of thirty-four said a word out loud on this bank on Friday of a week and last Friday and I am not going to carry a fifth thing out of a coat and open it in front of about nine people.*”
 
-“*And I have read that sheet forty-three times in this county and forty-three is seven hundred and fifty-three less seven hundred and ten, and there has not been one of the forty-three in the dark.*”
+“*And it has been forty-three mornings of that count on this bank and forty-three is seven hundred and fifty-three less seven hundred and ten, and there has not been one of the forty-three in the dark.*”
 
 “*Three is the reason. About four of you have been waiting since Wednesday for me to bring it out, and about nine of you have not, and a thing that only about four of you are waiting for is a thing about four people and not about nine.*”
 

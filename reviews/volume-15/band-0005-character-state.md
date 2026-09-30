@@ -2,7 +2,7 @@
 
 **These blocks were in `state/character-state.md` until Volume 16 Band 0001 was written, and they were moved out whole and not one word cut. They are still canon. 1u supersedes 1t for the present and 1t does not contradict it.**
 
-## 1t. What 741–750 changed — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-16/batch-0001-character-state-1t.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes when 1u went in above it. It is the whole of the cast at Chapter 750. Nothing was summarised and nothing was cut. It is still canon and 1u does not contradict it.**, and every name, age and figure in it was made in a mouth, in a room, in front of about nine people, with the working said out loud, before this file quotes it
+## 1t. What 741–750 changed — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-15/band-0005-character-state.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes when 1u went in above it. It is the whole of the cast at Chapter 750. Nothing was summarised and nothing was cut. It is still canon and 1u does not contradict it.**, and every name, age and figure in it was made in a mouth, in a room, in front of about nine people, with the working said out loud, before this file quotes it
 
 **A NAME FIXED IN A PLANNING DOCUMENT AND REFUSED BY A CHAPTER TRAVELS THE SAME ROAD AS A NUMBER. NOTHING IN THIS BLOCK IS FIXED BY `outline/volume-15.md` AND EVERY FIGURE IN IT IS SPOKEN IN ITS OWN CHAPTER WITH THE SUBTRACTION, AND `state/continuity.md` §0T.4 CARRIES THE ARITHMETIC.**
 

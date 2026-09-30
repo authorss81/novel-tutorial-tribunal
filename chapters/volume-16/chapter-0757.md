@@ -28,7 +28,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has said
 
 “*Nobody is going to be thanked for the thirty-six and nobody is going to be told I was brave about it.*”
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-five times as of yesterday.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-six mornings of that count had been counted by yesterday morning.
 
 “*Forty-seven is seven hundred and fifty-seven less seven hundred and ten, and there has not been one of the forty-seven in the dark.*”
 

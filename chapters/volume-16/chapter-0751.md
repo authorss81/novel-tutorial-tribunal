@@ -36,7 +36,7 @@ Garrin Tolley is thirty-eight and has a child of nine, and is the only person on
 
 “*Forty-one is seven hundred and fifty-one less seven hundred and ten, and there has not been one of the forty-one in the dark.*”
 
-“*And I have read that sheet forty times and I am not going to read it the forty-second time until somebody on this bank asks me to in front of about nine people, and nobody has, and I am not going to ask.*”
+“*And I have read that sheet forty times and I am not going to read it the forty-first time until somebody on this bank asks me to in front of about nine people, and nobody has, and I am not going to ask.*”
 
 “*A woman of twenty-eight told me on the Wednesday of the hundred and twenty-seventh week that a second time is a rule.*”
 

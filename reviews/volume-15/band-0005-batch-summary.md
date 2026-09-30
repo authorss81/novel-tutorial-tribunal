@@ -1,8 +1,8 @@
 # THE VOLUME 15 BAND 0005 SUMMARY, MOVED WHOLE OUT OF `state/batch-summary.md`
 
-**Moved whole and not one word cut. Still canon. The Volume 16 Band 0001 certification is at `reviews/volume-16/batch-0001-certification.md` and the live block in this file is §0V16A.**
+**Moved whole and not one word cut. Still canon. The Volume 16 Band 0001 certification is at `state/batch-summary.md` §0V16A, and the live receipt for the band is at `state/current.md` §0. ⚠ THE POINTER IN THIS LINE USED TO NAME `reviews/volume-16/batch-0001-certification.md`, WHICH WAS NEVER WRITTEN AND IS NOT ON DISK; IT WAS CORRECTED AT THE REVIEW REPAIR OF THIS BAND.**
 
-## 0V15E. VOLUME 15, BAND 0005, CHAPTERS 741–750, THE FIFTH AND LAST BAND OF VOLUME 15 — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-16/batch-0001-batch-summary-band-0005.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes. It is still canon and nothing in it was summarised and nothing was cut.** — **IT CARRIES THE PROOF, THE REJECTION, THE UNSPOOLING AND THE INTERREGNUM, IT ASKS THE VOLUME'S NEW QUESTION AT `750` AND DOES NOT ANSWER IT, AND IT DOES NOT ANSWER THE STANDING OFFER**
+## 0V15E. VOLUME 15, BAND 0005, CHAPTERS 741–750, THE FIFTH AND LAST BAND OF VOLUME 15 — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-15/band-0005-batch-summary.md`, at the writing of Volume 16 Band 0001, because this file reached the hard cap of 60,000 bytes. It is still canon and nothing in it was summarised and nothing was cut.** — **IT CARRIES THE PROOF, THE REJECTION, THE UNSPOOLING AND THE INTERREGNUM, IT ASKS THE VOLUME'S NEW QUESTION AT `750` AND DOES NOT ANSWER IT, AND IT DOES NOT ANSWER THE STANDING OFFER**
 
 ### 0V15E.0 WHAT ARRIVED, AND WHAT WAS DONE TO IT, IN ONE PARAGRAPH
 

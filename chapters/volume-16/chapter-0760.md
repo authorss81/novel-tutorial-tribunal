@@ -26,7 +26,7 @@ Then a man of fifty-four had the ninth line read to him in the open, and it was 
 
 “*Nobody is going to be thanked for the thirty-nine and nobody is going to be told I was brave about asking for the same thing thirty-nine times.*”
 
-Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-eight times as of yesterday.
+Garrin Tolley is thirty-eight and has a child of nine, and is the only person on that bank who can put a light on a thing in the dark. He has read that sheet forty times in this county and forty-nine mornings of that count had been counted by yesterday morning.
 
 “*Fifty is seven hundred and sixty less seven hundred and ten, and there has not been one of the fifty in the dark.*”
 
@@ -104,13 +104,13 @@ And there is a woman standing in about four feet of water at the bottom of this 
 
 Then a woman of forty-four said what is on that counter and is not on that counter, gave the count first, and refused the last of it.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years. She brought four leaves down four miles on the Thursday of this week and nobody asked her to.
+Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years. She brought four leaves down four miles on the Friday of last week and nobody asked her to.
 
 “*Two things are on that counter and I am going to give them as two and nobody is going to add them.*”
 
-“*One: a sheet of printed paper with three columns on it, on that counter thirteen mornings, with nothing in any of the three columns in it and no column on it for a person stopping.*”
+“*One: a sheet of printed paper with three columns on it, on that counter sixteen mornings, with nothing in any of the three columns in it and no column on it for a person stopping.*”
 
-“*Two: four leaves of a hearing, on that counter six mornings, with a number on them and no room on them and no names on them.*”
+“*Two: four leaves of a hearing, on that counter ten mornings, with a number on them and no room on them and no names on them.*”
 
 “*And about nine days on them that run out whenever they run out, and nobody in this county is sent for when they do.*”
 

@@ -40,15 +40,15 @@
 
 | Ch | Shelf | Week / day | Day | Morning | Settlement | Fever | `hall` | `clear` | Kell |
 |---|---|---|---|---|---|---|---|---|---|
-| 751 | 626 | 129 / 4 | **Fri** | 501 | 351 | 65w 6d | 305 | 251 | 197 |
-| 752 | 627 | 129 / 5 | Sat | 502 | 352 | **66w 0d** | 306 | 252 | 198 |
-| 753 | 628 | 129 / 6 | Sun | 503 | 353 | 66w 1d | 307 | 253 | 199 |
-| 754 | 629 | **129 / 7** | **Mon** | 504 | 354 | 66w 2d | 308 | 254 | 200 |
-| 755–760 | 630–635 | **130 / 1 – 130 / 6** | **Tue–Sun** | 505–510 | 355–360 | 66w 3d – 67w 1d | 309–314 | 255–260 | 201–206 |
+| 751 | 626 | 129 / 4 | **Fri** | 501 | 351 | **66w 6d** | 305 | 251 | 197 |
+| 752 | 627 | 129 / 5 | Sat | 502 | 352 | **67w 0d** | 306 | 252 | 198 |
+| 753 | 628 | 129 / 6 | Sun | 503 | 353 | 67w 1d | 307 | 253 | 199 |
+| 754 | 629 | **129 / 7** | **Mon** | 504 | 354 | 67w 2d | 308 | 254 | 200 |
+| 755–760 | 630–635 | **130 / 1 – 130 / 6** | **Tue–Sun** | 505–510 | 355–360 | 67w 3d – 68w 1d | 309–314 | 255–260 | 201–206 |
 
-**THE WEEK BOUNDARY INSIDE THE FIRST BAND IS `755` AND THE STRADDLING PAIR IS `754`/`755`. `752` CLOSES ON A WHOLE NUMBER OF WEEKS — *the fever was sixty-six weeks old* — AND THAT IS THE HOUSE FORM AND AGREES WITH ITS OWN DATE LINE, EXACTLY AS `703`, `710`, `717`, `724`, `731`, `738` AND `745` DO. `759` IS THE FIFTH DAY OF THE HUNDRED AND THIRTIETH WEEK AND ITS FEVER IS SIXTY-EIGHT WEEKS OLD, WHICH IS A WHOLE NUMBER OF WEEKS AND USES THE HOUSE FORM.**
+**THE WEEK BOUNDARY INSIDE THE FIRST BAND IS `755` AND THE STRADDLING PAIR IS `754`/`755`. `752` CLOSES ON A WHOLE NUMBER OF WEEKS — *the fever was sixty-seven weeks old* — AND THAT IS THE HOUSE FORM AND AGREES WITH ITS OWN DATE LINE, EXACTLY AS `703`, `710`, `717`, `724`, `731`, `738` AND `745` DO. `759` IS THE FIFTH DAY OF THE HUNDRED AND THIRTIETH WEEK AND ITS FEVER IS SIXTY-EIGHT WEEKS OLD, WHICH IS A WHOLE NUMBER OF WEEKS AND USES THE HOUSE FORM.**
 
-**⚠ THE ORDINALS ARE ENGLISH AND NOT NUMERALS AND THE ORDINAL IN A DATE LINE COMES OFF THIS TABLE AND NOT OFF THE LINE ABOVE IT.** `752` IS THE SIXTY-SIXTH WEEK AND IT IS A **WHOLE** NUMBER OF WEEKS OF THE FEVER ON THAT MORNING, NOT THE START OF A WEEK.
+**⚠ THE ORDINALS ARE ENGLISH AND NOT NUMERALS AND THE ORDINAL IN A DATE LINE COMES OFF THIS TABLE AND NOT OFF THE LINE ABOVE IT.** `752` IS THE SIXTY-SEVENTH WEEK AND IT IS A **WHOLE** NUMBER OF WEEKS OF THE FEVER ON THAT MORNING, NOT THE START OF A WEEK. ⚠ THE FEVER COLUMN OF THIS TABLE WAS ONE WEEK LOW IN EVERY ROW AND `752` WAS ALSO NAMED THE SIXTY-SIXTH WEEK IN THE PROSE BESIDE IT, WHICH IS THE PRECISE FIGURE THE FIRST BAND CAUGHT AT `752` AND REPAIRED IN THE DATE LINE AND THE TITLE. `chapter − 283` GIVES `66w 6d` AT `751` AND **`67w 0d`** AT `752` AND `67w 3d – 68w 1d` ACROSS `755`–`760`, WHICH IS WHAT THE CHAPTERS SAY, AND THE CHAPTERS ARE RIGHT.
 
 **TWO CLOCKS. HIS DAYS IN THE COUNTY OF KELL ARE `chapter − 554` — ONE HUNDRED AND NINETY-SEVEN AT `751` THROUGH TWO HUNDRED AND SIX AT `760` — AND EVERY FIGURE IN A BAND IS SPOKEN IN A MOUTH WITH THE SUBTRACTION SPOKEN.** **HIS DAYS IN HASK ARE `chapter − 601` AND THAT CLOCK STOPPED AT FIFTY ON THE WEDNESDAY OF `651`, AND NO CHAPTER FROM `652` ONWARD, INCLUDING EVERY CHAPTER OF THIS VOLUME, MAY PRINT THE FIGURE.**
 
@@ -93,7 +93,7 @@
 
 ## 6. THE THREE SWEEPS THIS VOLUME INHERITS AND MAY NOT DROP
 
-**The reserved-number guard** is swept across every chapter of the volume before certification, never across the band that was just repaired, case-insensitively, and it flags without judging and every hit is read. **AND THE ONE-CALL FORM CANNOT BE RUN AND IS NOT TO BE ATTEMPTED. THE LAWFUL CALLS ARE `I.guards(651,700,vol='volume-14')`, `I.guards(701,750,vol='volume-15')` AND `I.guards(751,800,vol='volume-16')`, AND BETWEEN THEM THEY COVER EVERY CHAPTER ON DISK.** The **duplicate-sentence sweep**: no one sentence may stand verbatim more than five times inside one chapter, and no sentence may open two chapters of the same band. And **the standing act**, which is an act and not a gate: **read the closing lines of two consecutive chapters against each other, once per band, before the instrument runs, and on the volume boundary `750`/`751` as well. A reported pass is worse than no report, and a method that does not reproduce on its own calibration is not a method yet.**
+**The reserved-number guard** is swept across every chapter of the volume before certification, never across the band that was just repaired, case-insensitively, and it flags without judging and every hit is read. **⚠ AND *EVERY CHAPTER OF THE VOLUME* IS NOT A RANGE ANY TOOL CAN READ UNTIL THE LAST CHAPTER IS ON DISK, BECAUSE THE FUNCTION OPENS EVERY CHAPTER IN THE RANGE AND THROWS `FileNotFoundError` ON THE FIRST THAT IS NOT THERE. THE CALL `I.guards(751,800,vol='volume-16')` CANNOT BE RUN TODAY AND WAS NOT RUN AT THE CERTIFICATION OF BAND 0001, WHICH MEASURED `I.guards(751,760,vol='volume-16')` → 15 OCCURRENCES, 0 CROWD-NOUN FLAGS, ALL FIFTEEN READ. THE WHOLE-VOLUME CALL IS A THING THE LAST BAND OF A VOLUME RUNS ONCE.** **AND THE ONE-CALL FORM CANNOT BE RUN AND IS NOT TO BE ATTEMPTED. THE LAWFUL CALLS ARE `I.guards(651,700,vol='volume-14')`, `I.guards(701,750,vol='volume-15')` AND `I.guards(751,800,vol='volume-16')`, AND BETWEEN THEM THEY COVER EVERY CHAPTER ON DISK.** The **duplicate-sentence sweep**: no one sentence may stand verbatim more than five times inside one chapter, and no sentence may open two chapters of the same band. And **the standing act**, which is an act and not a gate: **read the closing lines of two consecutive chapters against each other, once per band, before the instrument runs, and on the volume boundary `750`/`751` as well. A reported pass is worse than no report, and a method that does not reproduce on its own calibration is not a method yet.**
 
 **AND THE FOURTH, WHICH IS VOLUME 15's OWN AND CARRIES FORWARD: A COUNT OF DAYS WHILE A PERSON WAS IN A PLACE IS A CLOCK AND A COUNT OF TIMES A THING WAS SAID IS A COUNT OF TIMES AND NOT A CLOCK, AND THE HASK CLOCK HAS BEEN DEAD SINCE THE WEDNESDAY OF `651`.** A band that prints it has printed a day-count for a man who left that place in his forties. A band that prints the age of a cut as anything other than `chapter − 685` has printed a wrong figure, and the subtraction is said out loud in a mouth every time the figure is used.
 

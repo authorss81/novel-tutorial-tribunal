@@ -2,7 +2,7 @@
 
 **These blocks were in `state/continuity.md` until Volume 16 Band 0001 was written, and they were moved out whole and not one word cut. They are still canon. 0U supersedes 0T for the present and 0T does not contradict it.**
 
-## 0T. WHAT CHAPTERS 741–750 ADDED TO THE GROUND — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-16/batch-0001-continuity-block.md`, at the writing of Volume 16 Band 0001, because this file passed 60,000 bytes against a hard cap of 60,000 when 0U went in above it. It is the whole of the ground for 741–750, including the whole calendar table, the whole water ladder, the amendment, the twelve words, the unspooling and the interregnum. Nothing was summarised and nothing was cut. It is still canon and 0U does not contradict it.**, AND EVERY FIGURE IN IT WAS SAID OUT LOUD IN A MOUTH IN FRONT OF ABOUT NINE PEOPLE BEFORE ANY STATE FILE QUOTED IT
+## 0T. WHAT CHAPTERS 741–750 ADDED TO THE GROUND — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-15/band-0005-continuity-block.md`, at the writing of Volume 16 Band 0001, because this file passed 60,000 bytes against a hard cap of 60,000 when 0U went in above it. It is the whole of the ground for 741–750, including the whole calendar table, the whole water ladder, the amendment, the twelve words, the unspooling and the interregnum. Nothing was summarised and nothing was cut. It is still canon and 0U does not contradict it.**, AND EVERY FIGURE IN IT WAS SAID OUT LOUD IN A MOUTH IN FRONT OF ABOUT NINE PEOPLE BEFORE ANY STATE FILE QUOTED IT
 
 ### 0T.1 WHAT THE FIFTH BAND OF THIS VOLUME IS, AGAINST THE SEVEN LINES OF `outline/series.md:259`–`265`
 

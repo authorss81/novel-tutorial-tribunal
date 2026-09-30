@@ -12,9 +12,9 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has said
 
 “*It was a Tuesday the first one and a Wednesday the second and a Thursday the third and a Friday the fourth and a Saturday the fifth and a Sunday the sixth, and it is a Monday this time.*”
 
-“*That is one day later every cycle and the cycles are eight days apart, and eight days apart is what it has been for eleven of them.*”
+“*That is one day later every cycle, and the seven of them I have just said out loud are eight days apart, one from the next, and they are the run I have got a figure for.*”
 
-“*I am not going to work out in front of about nine people why it is eight days apart, because I have not found out.*”
+“*I am not going to work out in front of about nine people why they are eight days apart, because I have not found out.*”
 
 “*I am not going to be thanked for three mornings saying when it would come off and I am not going to be told I was right about Monday.*”
 
@@ -132,7 +132,7 @@ About nine of them stood on that bank in the wind on the last morning of a week 
 
 The fever was sixty-seven weeks and two days old. He had been in that county two hundred days.
 
-The water came off all ninety of the steps in the night for the eleventh time since the Saturday of the hundred and nineteenth week, and it was a Monday. A man of forty-three gave the day it was on, because the day-name moves one place every cycle and the cycles are eight days apart.
+The water came off all ninety of the steps in the night for the eleventh time since the Saturday of the hundred and nineteenth week, and it was a Monday. A man of forty-three gave the day it was on, because the day-name moves one place every cycle and the last seven of those eleven are eight days apart, one from the next.
 
 And a woman of sixty-four said out loud in about nine people’s hearing that she was in that room, on the Wednesday of the hundred and twenty-sixth week. She was asked whether she could attend and told she could not. She refused to say the reason and asked not to be asked twice.
 

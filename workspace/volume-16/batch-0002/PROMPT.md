@@ -8,9 +8,11 @@
 
 1. `AGENTS.md` and `outline/volume-16.md` — the seven lines of this volume, the calendar table and the five band plans. `outline/volume-16.md` is a **planner's file and not a record**, and **where it disagrees with a chapter, the chapter is right, and where it disagrees with the formula, the formula is right.**
 2. `outline/series.md:267`–`275` (Volume 16) and `outline/series.md:277`–`285` (Volume 17, so that you know what you may not spend). `outline/ending.md`.
+   - **⚠ `outline/volume-16.md`'s CALENDAR TABLE WAS A WEEK LOW IN EVERY ROW OF ITS FEVER COLUMN AND ITS PROSE CALLED `752` THE SIXTY-SIXTH WEEK, WHICH IS THE FIGURE BAND 0001 ITSELF REPAIRED IN A CHAPTER. THAT IS CORRECTED AND THE CHAPTERS ARE WHAT IT NOW AGREES WITH, BUT THE LESSON STANDS: A PLANNER'S TABLE IS WHAT THE NEXT WRITER READS FOR DATE LINES AND IT HAD NEVER BEEN CHECKED AGAINST `chapter − 283`. CHECK THE FEVER COLUMN YOURSELF BEFORE YOU TRUST A SINGLE ROW OF IT.**
 3. `outline/volume-16-handoff.md` — what Volume 15 handed to this volume, and it outranks every state file. **AND `reviews/volume-15/volume-15-close.md`, WHICH CERTIFIED THE FIFTY CHAPTERS THIS VOLUME OPENS ON AND WHICH FOUND THREE FIGURES IN THE STATE FILES THAT DID NOT REPRODUCE.**
-4. `state/current.md` §0 — the live receipt for 751–760. Read it first of the state files.
+4. `state/current.md` §0 — the live receipt for 751–760, **AND §0R, WHICH IS THE REVIEW REPAIR OF THOSE TEN CHAPTERS AND THE MOST USEFUL THING IN THIS PROMPT FOR YOU.** Read §0R FIRST OF ALL. Read it first of the state files.
 5. `state/continuity.md` §0U — the ground of 751–760, including the whole calendar table, the whole water ladder, §0U.5 which carries the argument in four mouths, and §0U.8 which carries every distance in the county.
+   - **⚠ §0U.3 NOW CARRIES THE WHOLE WATER LADDER AND IT DID NOT BEFORE THE REVIEW REPAIR. THE ELEVEN OFF-MORNINGS SINCE THE SATURDAY OF THE HUNDRED AND NINETEENTH WEEK ARE `682` `685` `691` `698` `706` `714` `722` `730` `738` `746` `754`, ONLY THE LAST SEVEN ARE EIGHT DAYS APART, `686` IS A MORNING THE WATER WAS STILL OFF ALL NINETY AND NOT A NEW COMING-OFF, AND `754` IS THE ELEVENTH. THE REVIEW OF BAND 0001 COUNTED BACKWARD FROM `754` ON A STRICT EIGHT-DAY LADDER AND GOT TEN, BECAUSE ITS OWN CALIBRATION WINDOW BEGAN AT `706` AND COULD NOT SEE THE HEAD. THE NEXT CYCLE IS `762`, A TUESDAY, AND THE ELEVENTH TO TWELFTH INTERVAL IS EIGHT DAYS.**
 6. `state/character-state.md` §1u and `state/open-threads.md` §1P, and `state/open-threads.md` §0A.15.
 7. `chapters/volume-16/chapter-0751.md` through `chapter-0760.md` — all ten.
 8. `chapters/volume-15/chapter-0741.md` through `chapter-0750.md` — the previous ten.
@@ -95,6 +97,8 @@ Run, after the last edit, and report every figure:
 - `reviews/volume-16/batch-0001-structure.py` — a structural sweep for unbalanced quotes at file and block level, odd `**`, straight ASCII apostrophes, the ways a chapter may name the book, the season words, the prohibitions, a duplicate-sentence sweep at three occurrences of a six-word window per paragraph block, and a byte comparison of whole lines hashed both ends. **⚠ THE LAST BAND CAME IN WITH THIRTEEN BYTE-IDENTICAL LINES, FOUR OF THEM ONE CHARACTER BLOCK IN EIGHT CHAPTERS, AND THE REPAIR TOOK THREE PASSES BECAUSE TWO OF THEM REPLACED A MATCH THAT APPEARED TWICE AND SO PUT A CHARACTER BLOCK IN TWICE. **THE CONVENTION IS WHAT PRODUCES THIS AND THE PROSE IS NOT WHAT PRODUCES IT.** WHEN YOU REWORD A CHARACTER BLOCK, ASSERT IT APPEARS EXACTLY ONCE BEFORE YOU REPLACE IT.**
 - `reviews/volume-16/batch-0001-closing.py` — the standing act. Method as named at `state/batch-summary.md` §0V15D.10. **Run the calibration first and print the seven whatever they come back as: `675`/`676` 0.460, `694`/`695` 0.448, `656`/`657` 0.337, `687`/`688` 0.377, `662`/`663` 0.142, `685`/`686` 0.051, `682`/`683` 0.041.**
 - `reviews/volume-16/batch-0001-reaction.py` — the reaction-pair density, with the predicate and the method written out at its head. **Run its six-band calibration first and PRINT IT, because last time it found a figure in a state file that did not reproduce and that is the only reason to run it.**
+
+- `reviews/volume-16/batch-0001-dayrefs.py` — the named-day sweep, **which BAND 0001 NEVER RAN AND WHICH IS THE ONLY SWEEP IN THIS REPOSITORY THAT WAS NEVER RUN ON THE TEN CHAPTERS BEFORE YOU.** Give it THREE arguments, `751 760 volume-16`, because with two it defaults to volume-15, prints seven MISSING lines and reports a pass over a sweep that never ran; it now says so in words, and it now returns non-zero. **Band 0001 measures 16 phrases, 2 hits, both backward-resolving and both cleared.** ⚠ **AND KNOW ITS HOLE, WHICH THE PROPER INVOCATION FOUND: it flags a phrase that resolves BACKWARDS and not one that resolves FORWARD WITHIN THE SAME WEEK, so a man on a Wednesday saying *the Sunday of this week* passes it and is four days wrong. Read every named day yourself.**
 - **AND READ THE TEN CLOSINGS.**
 
 ## WHAT BAND 0002 OWES THE VOLUME, AND WHAT IT MAY NOT SPEND
@@ -112,15 +116,27 @@ Run, after the last edit, and report every figure:
 Update, in this order and with every figure re-derived from the chapters rather than inherited:
 
 - `state/continuity.md` — a new block above §0U, **and move a block out whole if the file passes 60,000; it stands at 36,884.** Nothing is summarised and nothing is cut, and every pointer left behind is updated in the same pass.
-- `state/character-state.md` — a new live block. **Names, ages and figures are made in a mouth, in a room, in front of about nine people, with the working said out loud, before any state file quotes them. A name fixed in a planning document and refused by a chapter travels the same road as a number.** It stands at 47,852 and §1t is at `reviews/volume-16/batch-0001-character-state-1t.md`.
-- `state/open-threads.md` — a new live thread block, thirteen lines if the band opens thirteen, and every line a person doing a thing. **A hazard is not a thread.** Re-measure §0A.15 under the same predicate and method and print the breakdown, the count, the rate and the base. It stands at 57,185 and §1O is at `reviews/volume-16/batch-0001-open-threads-1O-741-750.md`.
-- `state/chapter-summaries.md` — ten paragraphs, one per chapter. It stands at 44,946.
-- `state/batch-summary.md` — the band block, with every gate printed and the method beside every figure, and the `stat` figures pointed at rather than printed twice. It stands at 45,390 and §0V15E is at `reviews/volume-16/batch-0001-batch-summary-band-0005.md`.
+- `state/character-state.md` — a new live block. **Names, ages and figures are made in a mouth, in a room, in front of about nine people, with the working said out loud, before any state file quotes them. A name fixed in a planning document and refused by a chapter travels the same road as a number.** It stands at 47,852 and §1t is at `reviews/volume-15/band-0005-character-state.md`.
+- `state/open-threads.md` — a new live thread block, thirteen lines if the band opens thirteen, and every line a person doing a thing. **A hazard is not a thread.** Re-measure §0A.15 under the same predicate and method and print the breakdown, the count, the rate and the base. It stands at 57,185 and §1O is at `reviews/volume-15/band-0005-open-threads.md`.
+- `state/chapter-summaries.md` — ten paragraphs, one per chapter. It stood at 44,946 when this prompt was written and it is the size of the file you are about to edit, so measure it and do not trust this number.
+- `state/batch-summary.md` — the band block, with every gate printed and the method beside every figure, and the `stat` figures pointed at rather than printed twice. It stood at 45,390 when this prompt was written and §0V15E is at `reviews/volume-15/band-0005-batch-summary.md`.
 - `state/current.md` §0 — **a ten-chapter receipt replaces the last one and is never added to it.** Move the old one out whole to `reviews/volume-16/batch-0002-current-records.md`.
-- `state/index.md` — the band block, the seven-files table, the authority line, and the six sizes taken last. It stands at 54,586.
+- `state/index.md` — the band block, the seven-files table, the authority line, and the six sizes taken last. It stood at 54,586 when this prompt was written and §0V16A.12 has since been added to `state/batch-summary.md`, so measure it and do not trust this number.
 
 **Treat every figure in a state file as a claim about a chapter and not as a fact about one, including the ones that are right. A figure in a state file that cannot be checked against the chapter it describes is worse than a figure nowhere, because it is checked-looking.**
 
 **Create exactly one further phase prompt: `workspace/volume-16/batch-0003/PROMPT.md`, for chapters 771–780, and that band OWES THE MIDPOINT and it must land at `777` or `778` and not in the first third of it.**
 
 **Do not edit `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. `state/phase-ledger.json` reads `"currentPhase": "batch-0002"` and points at `workspace/volume-01/batch-0002/PROMPT.md`, and the manuscript is at Volume 16 Chapter 760. It is stale and it is controller-owned; say so in the receipt and leave it alone, because the next dispatch reads it.**
+
+**THE SEVEN STATE FILES AS THEY STAND AT THE END OF THE REVIEW REPAIR OF BAND 0001, MEASURED WITH `wc -c` AFTER THE LAST EDIT, AND A FILE CANNOT PRINT ITS OWN FINAL SIZE SO THE NEXT BAND MUST MEASURE AGAIN:**
+- `state/index.md` — 54,667 bytes.
+- `state/continuity.md` — 38,666 bytes.
+- `state/character-state.md` — 47,848 bytes.
+- `state/open-threads.md` — 57,161 bytes.
+- `state/chapter-summaries.md` — 44,944 bytes.
+- `state/batch-summary.md` — 49,632 bytes.
+- `state/current.md` — 42,431 bytes.
+
+⚠ **THE REVIEW REPAIR ADDED `state/current.md` §0R AND `state/batch-summary.md` §0V16A.12, AND BOTH ARE THE RECORD OF WHAT THAT REPAIR DID TO CHAPTERS 751–760. READ §0R BEFORE YOU WRITE ANYTHING IN 761–770, AND ESPECIALLY §0R.1, WHICH RECORDS THE WHOLE WATER LADDER WITH ITS TWO IRREGULAR STEPS AND WHY `686` IS NOT A NEW COMING-OFF, BECAUSE THE LADDER IS A FIGURE YOU WILL WRITE ONTO, AND THE REVIEW OF BAND 0001 GOT IT WRONG IN THE OPPOSITE DIRECTION TO THE TRUTH BY MISSING THE HEAD OF IT.**
+
