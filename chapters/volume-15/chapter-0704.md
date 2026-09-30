@@ -6,7 +6,7 @@ Sixth day of the hundred and twenty-second week. His four hundred and fifty-four
 
 The bank was still full at about the seventh hour and the man of forty-three gave the reading and said the sixth day, and then he said the other half of it, which was new, and nine or ten of them heard it.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. He found a sheet of printed paper on the counter of his own landing on the Saturday morning and he did not bring it inside and he did not take it anywhere.
+Corvin Tace is forty-three and has kept that landing nineteen years, and there is a counter on it four feet below that bank. He found a sheet of printed paper on the counter of his own landing on the Saturday morning and he did not bring it inside and he did not take it anywhere.
 
 “*About sixteen inches over the top step at the seventh hour. Six days, and it is a full bank and it is holding at sixteen, and there is no more working to give you than that.*”
 
@@ -20,7 +20,7 @@ About four people on that bank had the six days and about nine of them had a she
 
 Then a man of thirty-eight asked to read it out loud on that bank, in the open, and nobody sent for him and nobody asked him to, and he said out loud why he wanted it done there and not indoors before he did it.
 
-Garrin Tolley is thirty-eight and has a child of nine. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he reads anything put in front of him and has done so in this county for about six weeks.
+Garrin Tolley is thirty-eight and has a child of nine, and said out loud why he wanted it read in the open air before he read a word of it. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he reads anything put in front of him and has done so in this county for about six weeks.
 
 “*I want it read out loud on this bank in the open air and not in a room, and I want the reason said before I start and not afterwards.*”
 
@@ -80,7 +80,7 @@ Two blanks, and a name nobody can be sent for about, and about nine of them on t
 
 Then a man of thirty-one said what eleven names on nine lines meant, and he said it as a figure of a crowd and got the wrong end of it, and a man of thirty-eight took it off him in seven sentences in the open air.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and fifty days, and a hundred and fifty is seven hundred and four less five hundred and fifty-four, and there is no column in the county of Kell with his name at the top of it.
+Ilyan Vester is thirty-one, is nobody’s, and has never in his working life been sent for anything by anybody in four counties. He has been in this county a hundred and fifty days, and a hundred and fifty is seven hundred and four less five hundred and fifty-four, and there is no column in the county of Kell with his name at the top of it.
 
 “*Eleven names for nine rooms is two too many. That is over-committed. Somebody is going to be going down there on a morning when nine people have already been and one of them is going to find out late that it was done, and that is a figure of too many people and we should say so now.*”
 
@@ -98,7 +98,7 @@ That was the plainest correction anybody had made on that bank in about six week
 
 Then a man of sixty-one gave the count of the whole of it out loud, in the order it was said, and then refused to write any of it, and then said the one thing he wanted said, and nine or ten of them heard it.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. He wrote one number in that book in eleven years and announced it three days before he wrote it.
+Nevin Trask is sixty-one and has kept that book of heads and carts eleven years, and is the only man in four counties who has ever written in one. He wrote one number in that book in eleven years and announced it three days before he wrote it.
 
 “*One sheet. Nine lines. Eleven names. Two of the eleven the same name twice. Two of the eleven with no day against them. One of the eleven a man dead about thirty years.*”
 

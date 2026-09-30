@@ -6,7 +6,7 @@ Fourth day of the hundred and twenty-second week. His four hundred and fifty-sec
 
 The bank was full. The man of forty-three gave the reading and said the working and said the four days off, and it was the fourth day and about sixteen inches over the top step at the seventh hour, and he said a bank that is full stays full until it comes off, and he did not say how many nights that is.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. He has said he has nothing to say about a night five times and has then stopped saying it, and about four people on that bank have been waiting a week for him to start again.
+Corvin Tace is forty-three, and the landing at the head of that water has been his for nineteen years. He has said he has nothing to say about a night five times and has then stopped saying it, and about four people on that bank have been waiting a week for him to start again.
 
 “*About sixteen inches over the top step at the seventh hour. Four days since it came off all ninety, and it was about twelve inches at this hour yesterday, and a full bank stays full until it comes off.*”
 
@@ -28,7 +28,7 @@ Ruel Dann is thirty-six. He sells small goods at a market cross about a day’s 
 
 “*And I did that on the Wednesday of this week at about the eighth hour and the person said one word and I wrote the one word down and I have not looked at the sheet since and I cannot read it.*”
 
-“*And I have been walking down this road since the fifth hour this morning and I have not been able to put it anywhere and I am going down to my own house in about two hours and it is going to be in my house and I do not want it in my house.*”
+“*And I have been walking down this road since the fifth hour this morning and I have not been able to put it into a hand and I am going down to my own house in about two hours and it is going to be in my house and I do not want it in my house.*”
 
 Then he said the part that turned the morning, and he said it flat, and he pointed at nobody.
 
@@ -42,7 +42,7 @@ Nobody on that bank said anything at all for about as long as it takes a man of 
 
 Then a man of thirty-one said it out loud as a fact about himself, in front of about nine people, and he said the working before he said it, which he has not done about this before.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and forty-eight days. A hundred and forty-eight is seven hundred and two less five hundred and fifty-four. There is no column in the county of Kell with his name at the top of it, no form that renews him, no rate on him and no hundred in that county, and there is a word for what a person is in some other county and it is not a word that has been said out loud in this county in a hundred and forty-eight days and is not going to be said this morning.
+Ilyan Vester is thirty-one and belongs to nobody. He has been in this county a hundred and forty-eight days. A hundred and forty-eight is seven hundred and two less five hundred and fifty-four. There is no column in the county of Kell with his name at the top of it, no form that renews him, no rate on him and no hundred in that county, and there is a word for what a person is in some other county and it is not a word that has been said out loud in this county in a hundred and forty-eight days and is not going to be said this morning.
 
 “*That is me. I am the man who came up a plank and there is not going to be a second one of me and about nine of you can see there is not.*”
 
@@ -78,23 +78,41 @@ Then a man of thirty-one tried to make it into something he could carry, and a m
 
 “*You cannot have it, and I would like the reason given out loud in your own mouth so that about four of you can hear that I did not keep it.*”
 
-“*I am not keeping it. I am carrying it down two miles to a house and putting it in a hand that asked for it. That is all I have got and that is all I am going to say about what I am.*”
+“*I am not keeping it. I am carrying it down four miles to a house and putting it in a hand that asked for it. That is all I have got and that is all I am going to say about what I am.*”
 
 “*And if you had it, then within about four days it would be a thing you had said something about, and then it would be a line in a book about four hundred miles off, and then I would be a name on a line, and I have walked this county eleven years on the strength of not being a name on a line.*”
 
 “*And here is the last of it and it is the true one. You have been in this county a hundred and forty-eight days and you have not been asked for anything in any of them. Nobody in four counties can send for you. And that is the reason she told me not to give it to you, and it is not a punishment, and it is the only condition she gave me and she gave it to me in a yard.*”
 
+Then the man of thirty-six said the other half of it, and it was the half that turned the morning over, and he said it before he was at the bottom of that road.
+
+“*And I have changed my mind since I said the first one.*”
+
+“*I want it said that I changed it in about four minutes and on my own, and nobody on this bank said a word to me about it.*”
+
+“*A house four miles up that road is one household, and a household is a keeper.*”
+
+“*That woman has got about nine houses a day late on her bread or she has not, and neither of those puts a piece of printed paper with eleven names on it in a kitchen.*”
+
+“*And if there is one kitchen with it in, then there is one person in four counties who has got it, and I would be the reason for that person.*”
+
+“*So I am not going up to that door.*”
+
+“*I am going to leave it in the open on a counter at the bottom of that road, where anybody can put a hand on it, and nobody is going to be the reason there is one of them.*”
+
+“*And I am going to be off this cart road before any of you has worked out that I said so.*”
+
 Nobody on that bank sent for a man of thirty-six and nobody stopped him, and about four of them had worked out before he reached the bottom of that road that they were not going to.
 
 Then a man of thirty-eight said one thing before the man of thirty-six got to the bottom of the road, and it was the plainest thing said on that bank all morning, and nobody improved on it and nobody said it was right.
 
-Garrin Tolley is thirty-eight and has a child of nine. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he has a board that is not that one in his own coat that nobody put there.
+Garrin Tolley is thirty-eight and has a child of nine, and is going to read nine lines out loud every morning of a thing nobody has put a term on. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he has a board that is not that one in his own coat that nobody put there.
 
 “*He has just told the whole of it and he has told it in the order it happened and he has not once made it into a thing about anybody else.*”
 
-“*I want it said that a man of thirty-six carried a sheet of printed paper four miles up a road and asked one woman one question and wrote one word down and carried it back four miles and could not put it anywhere.*”
+“*I want it said that a man of thirty-six carried a sheet of printed paper four miles up a road and asked one woman one question and wrote one word down and carried it back four miles and could not put it into a hand.*”
 
-“*That is the work. Not the paper. The carrying it and not being able to put it down, and doing that twice.*”
+“*That is the work. Not the paper. The carrying it and not being able to put it into a hand, and doing that twice.*”
 
 “*And I am not going to thank him and I am not going to be the man who tells him he was brave, and about four of you have already worked out that I am the one who said it.*”
 
@@ -108,6 +126,6 @@ The fever was fifty-nine weeks and six days old. He had been in that county a hu
 
 The bank was full at about sixteen inches over the top step and the next time about ninety steps can be walked is in four days.
 
-And a man of thirty-six came down that cart road with a sheet of printed paper in his coat that he cannot read and was not given to write, and said out loud that he was told to give it to a person in this county and not to a man who came up a plank, and gave it to the woman whose door it went to first.
+And a man of thirty-six came down that cart road with a sheet of printed paper in his coat that he cannot read and was not given to write, and said out loud that he was told to give it to a person in this county and not to a man who came up a plank, and carried it back down nine miles of that road and gave it to nobody at all, and said in about four minutes before he started walking that he had changed his mind about the one house it could have gone into.
 
 And a woman of sixty-four who has been out of every book in this county for nineteen years said there is no column in the county of Kell for being a person, and that a form does not need to know.

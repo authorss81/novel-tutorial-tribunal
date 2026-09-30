@@ -6,7 +6,7 @@ Second day of the hundred and twenty-third week. His four hundred and fifty-seve
 
 The water was about four inches over the top step at the seventh hour. The man of forty-three gave the reading and said the working and it was one day since it came off all ninety, and about four of the nine people who went down that morning were already wet to the knee before the reading.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. He counted out of the bed at the second hour this morning because a man of forty-one told him to at about the fourth hour on the Monday, and he did not say why and he was not asked.
+Corvin Tace is forty-three and has kept that landing nineteen years, and about ninety steps of the work are under the bank he was standing on. He counted out of the bed at the second hour this morning because a man of forty-one told him to at about the fourth hour on the Monday, and he did not say why and he was not asked.
 
 “*About four inches over the top step at the seventh hour. One day, and it was off all ninety yesterday at the sixth hour, and that is the working.*”
 
@@ -20,7 +20,7 @@ At about a quarter of an hour before the light they were standing in the ninth r
 
 Then a man of forty-one said the thing he has been not saying for about six weeks, and he said it flat, and he gave the whole of it in one go and nobody got a question in.
 
-The man is forty-one and keeps two carts and is the ninth of nine. He has a burnt board under his own coat with about four inches of one end gone in it and he was in a passage nineteen days ago about a hundred and thirty feet under a bank and said he was not going to go in, three times, and meant it three times.
+The man is forty-one and keeps two carts and is the ninth of nine. He has a burnt board under his own coat with about four inches of one end gone in it. He was in that dry passage yesterday at about the ninth hour with the water off, a hundred and thirty feet under a bank. He said he was not going to go in, for the third time, and he meant it three times.
 
 “*I have been the ninth of nine for nineteen years and I have opened that door twice a day every one of them except about four in the whole nineteen and I know those four to the day.*”
 
@@ -40,13 +40,13 @@ About four people in that room had the want and about nine of them had a man of 
 
 Then a man of thirty-one said he could get it, and he said it before anybody had finished being quiet, and a man of sixty-one took it off him in about six sentences and gave the reason in the last one.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and fifty-three days, and a hundred and fifty-three is seven hundred and seven less five hundred and fifty-four, and there is no form in this county that says a person may hold a thing.
+Ilyan Vester is thirty-one and is nobody’s, and has said a man’s want out loud in a room under a bank before he knew whether he would be allowed it. He has been in this county a hundred and fifty-three days, and a hundred and fifty-three is seven hundred and seven less five hundred and fifty-four, and there is no form in this county that says a person may hold a thing.
 
 “*There is a column for it. I can get a column for it. There is a printed sheet with nine lines on it and about nine columns of nothing across the top of each, and a name and a day are two of them, and there is room for the rest of what a person is and—*”
 
 “*No. And here is the whole of it and there are six sentences in it.*”
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. He refused nine spaces and two names and a first of the nine in about a fortnight.
+Nevin Trask is sixty-one and has kept heads and carts in this county eleven years, and has written one number in that book in eleven years. He refused nine spaces and two names and a first of the nine in about a fortnight.
 
 “*That sheet was printed about four hundred miles off by somebody who has never been to this county and has never met any of us and is not going to.*”
 
@@ -76,7 +76,7 @@ He stood about a quarter of an hour from a door and said nine seconds of work ou
 
 Then a woman of forty said what a name with no day on it is, and she had said it on a bank the day before and she said it again in a different shape and she said why.
 
-Wenna Callow is forty and asks for a day against a name and has never once asked for a reason instead.
+Wenna Callow is forty and has asked for a day against a name in every room in this county and has never once asked for a reason instead.
 
 “*I said this yesterday on that bank and I am saying it in this room because a man of forty-one has just asked for a day and the two of them are the same sentence with the ends round about.*”
 
@@ -106,7 +106,7 @@ And nobody said the word brave and nobody said the word sorry and nobody was tha
 
 And a man of thirty-one said he was not going to answer anything about a question that had been asked on the bank on the Wednesday of a week before, and about nine people let him, and about four of them had been expecting him to say it and had not said so.
 
-Nobody in that room asked him what his answer would be, and about four of them had been expecting him to say something and had said nothing about expecting it, and a man of thirty-eight said out loud that a man of thirty-one keeping a silence in front of nine or ten of them is a thing nine or ten of them can be sent for, which is not the same as a thing they can be asked about.
+Nobody in that room asked him what his answer would be, and a man of thirty-eight said out loud that not asking is not the same as not hearing. And he said that a man of thirty-one keeping a silence in front of nine or ten of them is a thing nine or ten of them can be sent for, which is not the same as a thing they can be asked about.
 
 ---
 

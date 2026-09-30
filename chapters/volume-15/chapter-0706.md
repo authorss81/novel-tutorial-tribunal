@@ -6,7 +6,7 @@ First day of the hundred and twenty-third week. His four hundred and fifty-sixth
 
 The water was off all ninety of the steps at the sixth hour and the man of forty-three gave the reading and said the working, and nine or ten of them went down at about the ninth hour.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A bank fills in about four days and empties in about three, and the next time about ninety steps can be walked is about four days after that bank is full.
+Corvin Tace is forty-three and has kept a landing nineteen years, and it is the only sentence anybody can say about him that has not had to be corrected. A bank fills in about four days and empties in about three, and the next time about ninety steps can be walked is about four days after that bank is full.
 
 “*Off all ninety at the sixth hour. It came off in the night, and it was full on the Friday of last week, and four days is the working, and it came in the night and I was on that landing at the second hour because there is nothing else to do at the second hour.*”
 
@@ -30,7 +30,7 @@ Barnaby Crove is fifty-four and holds the gravel at the head of that drain and c
 
 Then a man of thirty-eight went along the wall to the eighth opening and stopped, and said nothing for about as long as it takes a man of forty-three to give a reading, and then gave a figure with the working, and it was not the figure anybody had been carrying about for about seven weeks.
 
-Garrin Tolley is thirty-eight and has a child of nine. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he is the only person on that bank who can put a light on a thing in the dark.
+Garrin Tolley is thirty-eight, has a child of nine, and went down a hundred and thirty feet of passage with his own lamp. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he is the only person on that bank who can put a light on a thing in the dark.
 
 “*The light under the eighth door-stone is the width of my own hand at the knuckles.*”
 
@@ -88,7 +88,7 @@ About four people in that passage had somebody has sat in it and about nine of t
 
 Then a woman of forty-four said what a chair is and what a sheet is, and it took her about four sentences and she said she was not going to say either of them again.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year.
+Orla Fennimore is forty-four, has kept that book of twenty-nine chairs nineteen years, and has never once been able to make anybody answer one of them.
 
 “*A chair is not a form. That is the whole of what I am going to say and I have got a book of twenty-nine of them and I have never once been able to make anybody answer one of them.*”
 
@@ -98,7 +98,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen 
 
 Then a man of thirty-one said what he wanted and did not get, and said it in his own mouth, and nobody finished it for him.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and fifty-two days, and a hundred and fifty-two is seven hundred and six less five hundred and fifty-four, and there is no column in the county of Kell with his name at the top of it and there is no form that renews him.
+Ilyan Vester is thirty-one and is nobody’s, and is standing a hundred and thirty feet under a bank with his hands empty. He has been in this county a hundred and fifty-two days, and a hundred and fifty-two is seven hundred and six less five hundred and fifty-four, and there is no column in the county of Kell with his name at the top of it and there is no form that renews him.
 
 “*I want to go in there and I am going to say it out loud so that about four of you can hear me say it and be able to tell in nine days that I said it and did not do it.*”
 

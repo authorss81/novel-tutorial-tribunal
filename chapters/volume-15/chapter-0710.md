@@ -6,7 +6,7 @@ Fifth day of the hundred and twenty-third week. His four hundred and sixtieth mo
 
 The bank was full again at about the seventh hour and the man of forty-three gave the reading and said the working and said it was four days, and nine or ten of them were on that bank in the wind at about the ninth hour with a piece of printed paper lying on a counter about four feet behind them where anybody could put a hand on it.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A bank fills in about four days and empties in about three, and this one had gone off in the night on the Tuesday of this week and been full again by this morning.
+Corvin Tace is forty-three and has kept that landing nineteen years, and there is a piece of printed paper on its counter. A bank fills in about four days and empties in about three, and this one had gone off in the night on the Tuesday of this week and been full again by this morning.
 
 “*About sixteen inches over the top step at the seventh hour. Four days, and it came off in the night on the Tuesday of this week and that is a full bank and there is no more working in it than that.*”
 
@@ -16,19 +16,25 @@ About four people on that bank had the sixteen inches and about nine of them wer
 
 Then a man of thirty-eight read it out loud again, in the open, in the order it was written, and counted twice, and gave the working, and said that he was going to do it every morning from this one and had not been asked to and would not be thanked for it.
 
-Garrin Tolley is thirty-eight and has a child of nine. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he has read that sheet out loud once in this county, on a Sunday, on a bank, in the open air.
+Garrin Tolley is thirty-eight and has a child of nine, and is going to do it every morning in the open. He is the only person who may carry a board about nine inches long with thirty-two notches cut in its edge, and he has read that sheet out loud once in this county, on a Sunday, on a bank, in the open air.
 
 “*Nine lines. Eleven names. Two of the eleven the same name twice. Two of the eleven with no day against them.*”
 
-“*And the days, in order, from the Sunday: seven days, five days, four days, four days, five days, seven days, nine days, and then the two blanks, and the two blanks are on the fifth line and the ninth.*”
+“*And the days, in order, from the Sunday: seven days, five days, four days, four days, five days, seven days, nine days, and then the two blanks, and the two blanks are on the eighth line and the ninth.*”
 
-“*And one of the two blanks is a woman of twenty-nine in a reed and I read her name out loud on the Sunday and nobody in that bank knew she was on it, and about nine people heard it on the Friday, and I am not going to read it differently this morning and I am not going to leave it out.*”
+“*And the fifth line is not one of the two blanks.*”
+
+“*The fifth line is a woman of twenty-nine in a reed, and she has got a day against her.*”
+
+“*I read her name out loud on the Sunday and nobody in that bank knew she was on it, and about nine people heard that she had a day against it on the Friday.*”
+
+“*And I am not going to read it differently this morning and I am not going to leave it out.*”
 
 About four people on that bank had the nine lines and about nine of them had a woman of twenty-nine read out loud for the third time.
 
 Then a woman of twenty-eight read out loud the things that are not on it, in order, and gave the count with the working, and said what the count was a figure of before she said it.
 
-Sera Quill is twenty-eight and cannot be sent for about in this county or in the one she came from, and is not one of the nine, and checked a thing ten times on the Monday of this week and said it was the last of a fortnight.
+Sera Quill is twenty-eight, is not one of the nine, and cannot be sent for about in this county or in the one she came from, and checked a thing ten times on the Monday of this week and said it was the last of a fortnight.
 
 “*I have got a list and I have been carrying it in my own head since the Sunday and I am going to read it out loud in the open because that is the only place anything gets said properly any more.*”
 
@@ -94,7 +100,7 @@ Nine days, and a boy of thirteen keeping a number nobody had asked him for, and 
 
 Then a man of thirty-one said the shape of his answer out loud, before he meant to, in front of about nine people, and said he was saying it early on purpose, and a woman of twenty-eight told him what he had actually done.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in that county a hundred and fifty-six days. A hundred and fifty-six is seven hundred and ten less five hundred and fifty-four.
+Ilyan Vester is thirty-one and is nobody’s, and said the shape of his answer out loud before he meant to. He has been in that county a hundred and fifty-six days. A hundred and fifty-six is seven hundred and ten less five hundred and fifty-four.
 
 “*I am going to say the shape of my answer out loud before I have got an answer, and I am doing it a week early on purpose, because a man of sixty-one has been keeping a week of mornings this week and about nine of you have been waiting since the Wednesday of a week ago to find out whether I am going to say anything.*”
 
@@ -114,7 +120,7 @@ A woman of twenty-eight who was not going to be the person who holds a man of th
 
 Then a man of fifty-four said what was not going to happen, and he cannot read, and nine or ten of them were on that bank and the sheet was lying in the open about four feet behind them.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain. He is the only person anybody can be sent for about four things and nobody has asked him to be a fifth.
+Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and has the eighth of nine boards inside his coat. He is the only person anybody can be sent for about four things and nobody has asked him to be a fifth.
 
 “*Nobody is going to know who wrote it. That is what is going to happen and I want it said on this bank on a Saturday morning by a man of fifty-four who cannot read.*”
 

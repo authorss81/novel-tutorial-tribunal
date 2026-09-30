@@ -6,7 +6,7 @@ Fifth day of the hundred and twenty-second week. His four hundred and fifty-thir
 
 The bank was still full. The man of forty-three gave the reading at about the seventh hour and said the working and said it was the fifth day, and then he went up the cart road with the rest of them and did not go in the boat.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A bank that is full stays full until it comes off, and he has given that figure to the bank and not to himself.
+Corvin Tace is forty-three and has not left that landing in nineteen years, and there is a counter on it and about ninety steps under it. A bank that is full stays full until it comes off, and he has given that figure to the bank and not to himself.
 
 “*About sixteen inches over the top step at the seventh hour. Five days, and it was about sixteen at this hour yesterday, and that is the whole of the working because a full bank stays full.*”
 
@@ -38,7 +38,7 @@ Nobody on that step said anything. A question of nine words and an answer of one
 
 “*And if it is me that is up at half past four in the dark nine days out of nine, then nobody is a day late, and that is the whole of what I thought about at about eight o’clock on the Wednesday morning while a man I did not know stood on my step with a piece of paper.*”
 
-Then she said the other half, and she said it flat, and it took her about four seconds to say it and it was the whole chapter.
+Then she said the other half, and she said it flat, and it took her about four seconds to say it and it was the whole of what she had come up that road for.
 
 “*He asked me on the Wednesday. That is the part I want in front of about nine people and I want it said before anybody asks me a question.*”
 
@@ -58,7 +58,7 @@ About four people on that step had one question and about nine of them had two c
 
 Then a man of thirty-one said the thing he had come up four miles to say, and it was the wrong thing, and she took it off him in one sentence before he got to the end of it.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and forty-nine days. A hundred and forty-nine is seven hundred and three less five hundred and fifty-four.
+Ilyan Vester is thirty-one and is nobody’s, and has said out loud that a man who does not answer is not a refusal. He has been in this county a hundred and forty-nine days. A hundred and forty-nine is seven hundred and three less five hundred and fifty-four.
 
 “*Nobody is going to be let stand on this step and say they were made to say yes to a thing they did not understand, and if a sheet of paper has come up this road and written down a yes that somebody did not—*”
 
@@ -76,7 +76,7 @@ She had his whole morning and his hundred and forty-nine days in one sentence, a
 
 Then a man of fifty-four said what had happened on that step in a fortnight, and he cannot read, and he said it before he had been asked anything and he said what it was a figure of.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain. He has said no four times in nine days and has been the only person anybody can be sent for about four things, and has not been asked to be a fifth.
+Barnaby Crove is fifty-four and holds the gravel, and cannot read the sheet and is not going to be able to read the sheet. He has said no four times in nine days and has been the only person anybody can be sent for about four things, and has not been asked to be a fifth.
 
 “*A woman of forty-four has stood on her own step this morning and told about nine people three askings and two answers and nine words and one word and two coats, and nobody asked her one question about any of it.*”
 
@@ -88,7 +88,7 @@ Nobody on that step said sorry and about nine of them had the six weeks.
 
 Then a man of sixty-one gave the count of what had happened in nine days, and he gave it in the order it happened, and he refused to write any of it in about nine sentences.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head and a number is the last of them.
+Nevin Trask is sixty-one and keeps a book of heads and carts, and has not given anybody a figure for a night in six weeks. There are five lines on the leaf after the last head and a number is the last of them.
 
 “*Nine days. Nine is seven hundred and three less six hundred and ninety-four. And I am not going to call that a week.*”
 

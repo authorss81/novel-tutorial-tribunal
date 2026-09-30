@@ -6,11 +6,15 @@ Seventh and last day of the hundred and twenty-second week. His four hundred and
 
 The bank was still full at about the seventh hour for the seventh day and the man of forty-three gave the reading and the whole of it, and then said the one thing he had been keeping back since Saturday.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. He has said he has nothing to say about a night five times and has then stopped saying it, and this morning he gave a figure for a night for the first time in about nine days and called it a figure of a river.
+Corvin Tace is forty-three and has been the man of that landing nineteen years and has never once said a word about it. He has said he has nothing to say about a night five times and has then stopped saying it, and this morning he gave a figure for a night for the first time in about nine days and called it a figure of a river.
 
 “*About sixteen inches over the top step at the seventh hour. Seven days, and it has been full every one of them at this hour, and I am not going to say the working out loud today because the working is the same working and you have all had it.*”
 
-“*And it came off in the night on the Saturday of this week, four days after it was full on the Friday of this week, and that is the only night I am going to give a figure for this week and it is a figure of a river and not of a man of forty-three.*”
+“*And the last time it came off in the night it was on the Saturday of last week.*”
+
+“*It was full on the Tuesday of the week before that, and that is four days, and that is the working.*”
+
+“*That is the only night I am going to give a figure for this week, and it is a figure of a river and not of a man of forty-three.*”
 
 “*And I have been wrong about about four things in about nine days and I am going to say the true one of them, which is that I have been standing on that landing every morning of the seventh hour giving a reading of a thing that goes up and comes down and does not care what anybody is doing under it.*”
 
@@ -42,7 +46,7 @@ About four people on that bank had the shape and about nine of them had nine sen
 
 Then a man of thirty-one offered for the fifth time to be the instrument, and it was a different instrument, and he said so out loud before he offered it, and a man who cannot see well refused him in about nine sentences and gave the reason in the ninth.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and fifty-one days. A hundred and fifty-one is seven hundred and five less five hundred and fifty-four. He has offered four times in about three weeks to be the thing that is sent for and been refused four times out loud, and nobody ever told him to stop offering.
+Ilyan Vester is thirty-one and is nobody’s, and has offered four times in about three weeks to be the thing that is sent for. He has been in this county a hundred and fifty-one days. A hundred and fifty-one is seven hundred and five less five hundred and fifty-four. He has offered four times in about three weeks to be the thing that is sent for and been refused four times out loud, and nobody ever told him to stop offering.
 
 “*It is not the same offer and I am going to say that first.*”
 
@@ -90,7 +94,7 @@ Nevin Trask is sixty-one and has kept a book of heads and carts eleven years and
 
 “*And if you add those up you get a figure of a person. Not of a sheet, not of a week, not of a road. Of a person, and there is already more than one person on that bank who does not want to be a figure.*”
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year. She said the other half of that in about four sentences and did not raise her voice.
+Orla Fennimore is forty-four and has kept a book of twenty-nine chairs nineteen years for thirteen shillings and fourpence a year, and there are nine of those chairs and not ten. She said the other half of that in about four sentences and did not raise her voice.
 
 “*And there is a second reason he is not adding them up and he has not said it because it is mine and I have said it four times already this fortnight.*”
 

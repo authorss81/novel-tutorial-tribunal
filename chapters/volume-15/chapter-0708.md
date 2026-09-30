@@ -6,7 +6,7 @@ Third day of the hundred and twenty-third week. His four hundred and fifty-eight
 
 The water was about eight inches over the top step at the seventh hour and the man of forty-three gave the reading and said the working, and it was two days since it came off all ninety, and nine or ten of them were on that bank.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. Seven mornings running a thing that is not a person has said nothing at all, and about four people on that bank have been counting them and about nine have not.
+Corvin Tace is forty-three and has kept that landing nineteen years, and there is a printed sheet lying in the open on the counter of it four feet behind that bank. Seven mornings running a thing that is not a person has said nothing at all, and about four people on that bank have been counting them and about nine have not.
 
 “*About eight inches over the top step at the seventh hour. Two days, and it was about four at this hour yesterday, and that is the working.*”
 
@@ -76,7 +76,7 @@ Nine weeks and nine doors and not one hour of it, and about four of them had hea
 
 Then she said the name out loud, and she said it once, and it was the fifth time anybody had said it in that county and the first time it had ever been said by a person who had been asked something by it.
 
-“*And I am going to say that name now because about four of you know what asked me and nobody has said it out loud in this county since a man of thirty-one said it flat to a floor a week ago on a Tuesday morning.*”
+“*And I am going to say that name now because about four of you know what asked me and nobody has said it out loud in this county since a man of thirty-one said it flat to a floor on the Tuesday of a week before.*”
 
 “*And somebody is going to be asked about this in about four days and I am not going to let the first person to say that name be a man who was not here.*”
 
@@ -86,7 +86,7 @@ About four people on that bank had the name and about nine of them had a woman o
 
 Then a man of thirty-one started to ask a question, and stopped, and said out loud that he had stopped, and gave the count, and a woman of twenty-eight said the true of one half of it and refused the other half in about six sentences.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and fifty-four days. A hundred and fifty-four is seven hundred and eight less five hundred and fifty-four.
+Ilyan Vester is thirty-one and is nobody’s, and has started and stopped a sentence four times in about six weeks. He has been in this county a hundred and fifty-four days. A hundred and fifty-four is seven hundred and eight less five hundred and fifty-four.
 
 “*I have got a question and I am not going to ask it this morning and I am going to say that out loud, and I have started a sentence and stopped it four times in about six weeks and about four of you have been counting.*”
 

@@ -6,11 +6,15 @@ Third day of the hundred and twenty-second week. His four hundred and fifty-firs
 
 The water was about twelve inches over the top step at the seventh hour. The man of forty-three gave the reading and said the working, and he did not round it, and he said the other half of it as well because he has said both halves every morning of this week and it would be a new figure to say one.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A bank fills in about four days and empties in about three, and he has given both of those figures to the bank and says neither of them is his.
+Corvin Tace is forty-three and has stood on one landing at the head of that water every morning for nineteen years. A bank fills in about four days and empties in about three, and he has given both of those figures to the bank and says neither of them is his.
 
 “*About twelve inches over the top step at the seventh hour. Three days since it came off all ninety, and it was about eight inches at this hour yesterday, and that is the working and I have said it out loud.*”
 
-“*And the next time about ninety steps can be walked is about four days after that bank is full, and it was about sixteen inches on the Friday of this week, so it is in four days.*”
+“*And the next time about ninety steps can be walked is about four days after that bank is full.*”
+
+“*A bank gets to about sixteen inches on the fourth day, and the fourth day of this is the Friday.*”
+
+“*Four days from the Friday is the Tuesday of the week after this one, and that is a figure and not a promise.*”
 
 “*And I am not going to say what a full bank is for. I have never known and I am not going to work it out in front of about nine people.*”
 
@@ -20,7 +24,7 @@ Then nothing whatever happened, and it was the second morning running, and nine 
 
 Then a man of thirty-one said out loud that nobody was going to get it twice and that he was the reason, and he said it flat and he said it once.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in this county a hundred and forty-seven days. A hundred and forty-seven is seven hundred and one less five hundred and fifty-four. A thing that is not a person asked him on the Wednesday of this week, in about nine people’s hearing, whether he would write it, and he did not answer it, and he has not answered it this morning either.
+Ilyan Vester is thirty-one and is nobody’s, and has been the reason a thing that is not a person asked him once and got nothing whatever. He has been in this county a hundred and forty-seven days. A hundred and forty-seven is seven hundred and one less five hundred and fifty-four. A thing that is not a person asked him on the Wednesday of this week, in about nine people’s hearing, whether he would write it, and he did not answer it, and he has not answered it this morning either.
 
 “*I am going to say this one time and then I am not going to say it again this week.*”
 
@@ -72,7 +76,7 @@ Then a man of thirty-one said what the whole of that was, and he got it wrong, a
 
 Then a man of fifty-four said the thing nobody had come up that road for, and he cannot read, and he said it before he had been asked anything, and nine or ten of them were on that bank.
 
-Barnaby Crove is fifty-four and holds the gravel at the head of that drain. He is the only person anybody in that county can be sent for about four things, and one of the four is about a boot and one foot of water, and he has not been asked to move it.
+Barnaby Crove is fifty-four, holds the gravel at the head of that drain, and cannot read a word of anything any of them have found. He is the only person anybody in that county can be sent for about four things, and one of the four is about a boot and one foot of water, and he has not been asked to move it.
 
 “*I put my own hand in that gap under the ninth door-stone again this morning before I came up, and I put it in twice, and it is not an inch any more.*”
 
@@ -102,7 +106,7 @@ She had said a thing about water that nobody else had said, and about four of th
 
 Then a man of sixty-one gave the counts he gives, in the order he gives them, and he did not add any of them to anything.
 
-Nevin Trask is sixty-one and has kept a book of heads and carts eleven years. There are five lines on the leaf after the last head and a number is the last of the five, and there is not going to be a name on any of them.
+Nevin Trask is sixty-one, has kept a book of heads and carts eleven years, and has written one number in it. There are five lines on the leaf after the last head and a number is the last of the five, and there is not going to be a name on any of them.
 
 “*A man of thirty-four has been in an ash on the low side of that landing for seventy-one days. Seventy-one is seven hundred and one less six hundred and thirty.*”
 

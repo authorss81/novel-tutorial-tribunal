@@ -22,7 +22,7 @@ You are writing the second band of Volume 15, *The Author's Bargain*. The first 
 Nine specifics are owed, and they are listed at `state/batch-summary.md` §0V15A.9. The load-bearing ones:
 
 - The reading becomes a practice and the practice is examined, not celebrated. **It is a practice and not a settlement, and a chapter says so in a mouth.**
-- Five of the eleven names are people nobody in four counties can be sent for about. Two of them have no day against them at all, and one of those two is a woman of twenty-nine in a reed.
+- Five of the eleven names are people nobody in four counties can be sent for about. Two of them have no day against them at all, and **those two blanks are on the eighth line and the ninth. The woman of twenty-nine in the reed is not one of the two blanks: she is on the fifth line and she has got a day against her, and a day is what makes her a name somebody can be sent for about.** That is the sharper version of the thread and it is the one the batch inherits.
 - A man of forty-one wants to stop in a fortnight and there is no column for a day of stopping, and nobody in that county can put a question on a sheet printed four hundred miles off.
 - A woman of forty-four was asked twice through two doors by two men in two coats and cannot work out whether it was one question.
 - A woman of sixty-four is out of every book and said yes at the ninth hour and now has a name on a thing.

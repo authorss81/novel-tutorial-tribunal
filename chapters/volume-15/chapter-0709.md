@@ -6,7 +6,7 @@ Fourth day of the hundred and twenty-third week. His four hundred and fifty-nint
 
 The water was about twelve inches over the top step at the seventh hour and the man of forty-three gave the reading and said the working, and it was three days since it came off all ninety, and then he gave a count of his own that nobody had asked him for.
 
-Corvin Tace is forty-three and has kept a landing nineteen years. A man of thirty-four has been in an ash on the low side of that landing for seventy-nine days and a woman of twenty-nine has been in a reed for eighty days, and he has never added the two.
+Corvin Tace is forty-three and has kept that landing nineteen years, and gave two counts this morning and has not added them. A man of thirty-four has been in an ash on the low side of that landing for seventy-nine days and a woman of twenty-nine has been in a reed for eighty days, and he has never added the two.
 
 “*About twelve inches over the top step at the seventh hour. Three days, and it was about eight at this hour yesterday, and that is the working.*”
 
@@ -22,7 +22,7 @@ Wat Marshe is thirteen. His mother is forty-one and has two carts and neither of
 
 “*I read all eleven of them out loud on the Sunday on that bank and I have read them four times since and I am not going to pretend I have not.*”
 
-“*The fifth line is a woman of twenty-nine and it is Nell Prince, and she has got a day against her.*”
+“*The fifth line is a woman of twenty-nine and it is Nell Prince, and she has got a day against her, and she is not one of the two blanks. I read those out on the Sunday as well and I read them after her.*”
 
 “*And the day is the second day of the hundred and twenty-second week. That is the Wednesday, and it is nine days ago, and nine is seven hundred and nine less seven hundred, and that is the day a thing that is not a person asked a man of thirty-one on that bank whether he would write it.*”
 
@@ -46,7 +46,7 @@ Two marks of the same size and the same shape, and a man of thirty-eight standin
 
 Then a man of thirty-one said the true of one half of that in about four sentences and refused to say the other half and said he was going to refuse it out loud first.
 
-Ilyan Vester is thirty-one and is nobody’s. He has been in that county a hundred and fifty-five days and has said out loud that a man who does not answer is not a refusal and has not said it since the Wednesday of a week before.
+Ilyan Vester is thirty-one and is nobody’s, and is standing in wet grass with a question in his mouth. He has been in that county a hundred and fifty-five days and has said out loud that a man who does not answer is not a refusal and has not said it since the Wednesday of a week before.
 
 “*A name with a day against it on a printed sheet is a name somebody can be sent for about. A woman of forty said that on Sunday in the open air and she said it before anybody asked her and it is true and I am not going to stand in this grass and pretend it is not true for about four seconds because I do not like where the day falls.*”
 
