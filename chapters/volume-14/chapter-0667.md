@@ -88,4 +88,4 @@ A man of sixty-one did a sum he had refused to do nine days earlier and did the 
 
 And about eleven people in four houses eat out of that mill and one of the eleven is that mother. And the refusing of a woman of forty on the Thursday is on a man of forty-one’s Monday and on a boy of thirteen’s four mornings and on forty-five hours of a mill.
 
-And one of the eleven whom forty-five hours is a figure of is a woman who was never asked, and who does not know, and who cannot be sent for about it. And a man of sixty-one said out loud that this is what a figure of nobody is, and a boy of thirteen said the same about eight hours and a working day, and nobody in that bank said a word to either of them about it.
+And one of the eleven whom forty-five hours is a figure of is a woman who was never asked, and who does not know, and who cannot be sent for about it. And a man of sixty-one said out loud that this is what a figure of nobody is, and a boy of thirteen said the same about eight hours and a working day, and forty-five is an hour over forty-four and the hour is a figure of a man of sixty-one and not of anybody else.

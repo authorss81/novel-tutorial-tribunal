@@ -30,9 +30,9 @@ Wenna Callow is forty. She is on no board and there is no board and she says wha
 
 “*And then anybody who wants to know what the nine agreed has to be able to reach that person, and anybody who wants to be one of the nine has to be able to reach that person, and the nine does not stop existing and it stops being nine.*”
 
-“*That is eight sentences and I have one left, and I am not going to spend it on how I feel about it.*”
+“*That is six of them and I have two left, and I am not going to spend either of them on how I feel about it.*”
 
-“*The ninth is this. The reason is not about me and it is about what happens in about four years to a room of nine people who liked each other on a Sunday, and I would like about four of you to hear that and about nine of you to hear the number in it.*”
+“*The last of it is this. The reason is not about me and it is about what happens in about four years to a room of nine people who liked each other on a Sunday, and I would like about four of you to hear that and about nine of you to hear the number in it.*”
 
 About four people on that bank had all nine sentences. The rest of them had a no.
 
