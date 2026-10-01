@@ -2,7 +2,7 @@
 
 **THIS IS THE RECORD OF THE PASS THAT RAN AFTER `reviews/volume-16/batch-0005-review-repair.md`. IT REPAIRED TWENTY-FOUR FIGURES ACROSS ALL TEN CHAPTERS AND IT RESTARTED NO CHAPTER AND IT CHANGED NO PLANNED PLOT AND IT ADDED NO CHARACTER AND IT INVENTED NO PLACE. EVERY FIGURE THE REPAIRED BEAT RESTS ON WAS ALREADY ON THE PAGE IN A CANON CHAPTER BEFORE THIS PASS RAN.**
 
-**THE ONE LINE THAT MATTERS: THE BAND PROMPT PRINTED THE START DAY OF A MAN OF THIRTY-EIGHT'S COUNT OF THE MORNINGS HE HAS SAID THE NUMBER OF NAMES OUT LOUD AS `779`, AND THE CANON FIXES IT AT `781` BY FIVE ORDINALS IN THREE CHAPTERS OF BAND 0004. EVERY ONE OF THE TEN FIGURES THAT RUN GENERATES WAS INHERITED WRONG, EIGHT OF THEM ARE ON THE PAGE, AND `797` HAD A SECOND SLIP OF ITS OWN WHICH MADE IT COLLIDE WITH `796`. ⚠ NOT ONE GATE IN THIS REPOSITORY CHECKS THE LENGTH OF A RUN, AND THE COUNTER READ-BACK REPORTED `0 ONE OUT` ON A BAND WITH EIGHT RUN FIGURES WRONG.**
+**THE ONE LINE THAT MATTERS: THE BAND PROMPT PRINTED THE START DAY OF A MAN OF THIRTY-EIGHT'S COUNT OF THE MORNINGS HE HAS SAID THE NUMBER OF NAMES OUT LOUD AS `779`, AND THE CANON FIXES IT AT `781` BY TEN ORDINAL-BEARING LINES IN SEVEN CHAPTERS OF BAND 0004, WHICH CARRY SEVEN DISTINCT ORDINALS. EVERY ONE OF THE TEN FIGURES THAT RUN GENERATES WAS INHERITED WRONG, EIGHT OF THEM ARE ON THE PAGE, AND `797` HAD A SECOND SLIP OF ITS OWN WHICH MADE IT COLLIDE WITH `796`. ⚠ NOT ONE GATE IN THIS REPOSITORY CHECKS THE LENGTH OF A RUN, AND THE COUNTER READ-BACK REPORTED `0 ONE OUT` ON A BAND WITH EIGHT RUN FIGURES WRONG.**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 2.1 BLOCKING — A WHOLE RUN-LADDER, INHERITED FROM THE PROMPT, WRONG IN EIGHT CHAPTERS. **REPAIRED ON THE PAGE.**
 
-A man of thirty-eight said the number of names he can see on the ninth line out loud once a morning. The count of that is a **run**, not a `ch − n` counter, so the only thing that can fix it is another run figure somewhere else. The canon has five of them, in three chapters of band 0004:
+A man of thirty-eight said the number of names he can see on the ninth line out loud once a morning. The count of that is a **run**, not a `ch − n` counter, so the only thing that can fix it is another run figure somewhere else. The canon has ten lines carrying one, in seven chapters of band 0004, and they give seven distinct ordinals:
 
 | Chapter | The figure, in his own mouth | Day |
 |---|---|---|
@@ -30,7 +30,7 @@ A man of thirty-eight said the number of names he can see on the ninth line out 
 | `788:41` | *eight mornings* | Sunday, week 134 |
 | `790:39` | ***it is the tenth morning running*** | Tuesday, week 135 |
 
-`790 − 9 = 781` and `779 + 9 = 788`. The prompt's `779` gives a tenth at `788`, and `788:41` says **eight**. The canon says `781`, and every one of the seven figures above agrees with it. **The run began on the Wednesday of the hundred and thirty-fourth week, on which a man of thirty-four said four names before he read anything else.**
+`790 − 9 = 781` and `779 + 9 = 788`. The prompt's `779` gives a tenth at `788`, and `788:41` says **eight**. The canon says `781`, and every one of the ten lines above agrees with it. **The ninth is never printed anywhere: `789` gives the number and the figure for being left alone but carries no run ordinal of its own, so the ladder runs three, four, five, six, seven, eight and then ten.** **The run began on the Wednesday of the hundred and thirty-fourth week, on which a man of thirty-four said four names before he read anything else.**
 
 | Ch | Was | Now | Rule |
 |---|---|---|---|
@@ -93,7 +93,7 @@ Hazard eighteen at `state/open-threads.md` §0A.18 records that the manuscript's
 
 - **`799:25` says the reading of the ninth line *has been a man of thirty-eight for seventeen of them*.** No canon ordinal pins when he began reading it in the open, and `781` is the earliest morning on which a chapter shows him doing both things. Seventeen and eighteen are both defensible and neither is checkable, so the figure was not made more precise by being changed.
 - **`787:35` and `790:43` carry a ten-day figure on two different anchors.** `787:35` says *the tenth day of nobody asking me for anything* and `790:43` says *Ten days. That is the longest anybody has gone without asking me for a thing*, and `790:149` and `790:35` are the same ten days again. It belongs to band 0003 and band 0004 and no figure in `791`–`800` is derived from it.
-- **⚠ `780:23` SHOWS HIM SAYING THE NUMBER AND `781` SHOWS HIM SAYING IT, AND ONLY ONE OF THEM CAN BE THE FIRST MORNING, AND ⚠ THIS PASS DID NOT SETTLE IT.** `780:23` says *the man of thirty-eight said the number of names before he read anything else, because he said on Friday that he would*, and `780:39` confirms the promise was made on `779`. So on the reading of `780` the first morning is `780` and `783:59`'s *three mornings running* is one out; on the reading of the seven ordinals the first is `781` and `780:23` is a chapter that overstates by one. **THE SEVEN ORDINALS WERE TAKEN OVER THE ONE, BECAUSE SEVEN CHAPTERS AGREE WITH EACH OTHER AND ONE CANNOT, AND BECAUSE `788:41`'s *EIGHT MORNINGS* AND `790:39`'s *TENTH MORNING RUNNING* ARE BOTH IN CHAPTERS THAT ALSO CARRY OTHER FIGURES THIS BAND USES AND NEITHER OF THEM IS A STRAKE.** ⚠ **IT IS RECORDED HERE AND NOT REPAIRED, BECAUSE REPAIRING IT WOULD MEAN CHANGING A FIGURE IN A CERTIFIED CHAPTER OF BAND 0003 ON THE WORD OF A BAND THAT HAS ALREADY REPAIRED EIGHT FIGURES THIS PASS, AND NO FIGURE OF `791`–`800` DEPENDS ON WHICH OF THE TWO READINGS IS RIGHT.** IT IS THE ONE THING IN THIS RECORD THAT IS A JUDGEMENT AND NOT A PROOF.
+- **⚠ `780:23` SHOWS HIM SAYING THE NUMBER AND `781` SHOWS HIM SAYING IT, AND ONLY ONE OF THEM CAN BE THE FIRST MORNING, AND ⚠ THIS PASS DID NOT SETTLE IT.** `780:23` says *the man of thirty-eight said the number of names before he read anything else, because he said on Friday that he would*, and `780:39` confirms the promise was made on `779`. So on the reading of `780` the first morning is `780` and `783:59`'s *three mornings running* is one out; on the reading of the seven distinct ordinals the first is `781` and `780:23` is a chapter that overstates by one. **THE SEVEN ORDINALS WERE TAKEN OVER THE ONE, BECAUSE SEVEN CHAPTERS AGREE WITH EACH OTHER AND ONE CANNOT, AND BECAUSE `788:41`'s *EIGHT MORNINGS* AND `790:39`'s *TENTH MORNING RUNNING* ARE BOTH IN CHAPTERS THAT ALSO CARRY OTHER FIGURES THIS BAND USES AND NEITHER OF THEM IS A STRAKE.** ⚠ **IT IS RECORDED HERE AND NOT REPAIRED, BECAUSE REPAIRING IT WOULD MEAN CHANGING A FIGURE IN A CERTIFIED CHAPTER OF BAND 0003 ON THE WORD OF A BAND THAT HAS ALREADY REPAIRED EIGHT FIGURES THIS PASS, AND NO FIGURE OF `791`–`800` DEPENDS ON WHICH OF THE TWO READINGS IS RIGHT.** IT IS THE ONE THING IN THIS RECORD THAT IS A JUDGEMENT AND NOT A PROOF.
 
 ---
 

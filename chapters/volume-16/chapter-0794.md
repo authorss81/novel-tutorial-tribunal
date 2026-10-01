@@ -28,7 +28,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “*The bottom of ninety cut steps is where that line has been read from since the Friday of the hundred and twenty-ninth week and I have never once been at the same height as the paper.*”
 
-“*Seventy-three mornings, and I went down to be read to on the seventy-fourth, and I want it said that nobody made me and I would have gone down in the water for it.*”
+“*Seventy-three mornings, and I went down to be read to on the seventy-third, and I want it said that nobody made me and I would have gone down in the water for it.*”
 
 Then the man of thirty-eight read it at the bottom of the cut and gave the count from the bottom of the cut and said that the number of names is four and he is not going up there to say it.
 
