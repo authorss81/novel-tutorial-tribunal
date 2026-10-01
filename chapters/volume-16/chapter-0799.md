@@ -22,7 +22,7 @@ Then a man of fifty-four had the ninth line read to him in the open, seventy-eig
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He asked for the whole of a sheet to be read out at the top of that cut on Tuesday and has not asked for it again.
 
-“*Seventy-eight mornings, and I am asking who is reading it, because it has been a man of thirty-eight for seventy-eight mornings and this morning it was a woman of twenty-nine who came up that bank and I did not know she could read.*”
+“*Seventy-eight mornings, and I am asking who is reading it, because it has been a man of thirty-eight for seventeen of them and this morning it was a woman of twenty-nine who came up that bank, and I heard her read it and I did not know she could read, and about four of you have not worked out yet that a man who cannot read is the man who notices first.*”
 
 “*And I want to say that I am glad, and I am not going to say I am glad, because a man of thirty-eight stopped on Monday on purpose and a woman reading it instead of him is a thing that happened to him and not a thing that happened because of him.*”
 
@@ -50,7 +50,7 @@ Nevin Trask is sixty-one and has kept a book of heads and carts in this county f
 
 Then a woman of twenty-nine came up that bank and read the ninth line in the open because she can read, and was not asked anything, and said one word on her own and nobody repeated it.
 
-Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy days, and there is a day against her name on that ninth line and there has never been one. She said five words out of that reed on a Saturday three weeks ago and they were that nobody asked any of us, and she answered one word to a woman of forty about ground on the Monday of that week.
+Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy days, and her name is in ink on that ninth line and there has never been a day against it. She said five words out of that reed on the Saturday of the hundred and thirty-third week, which is seven hundred and eighty, and they were that nobody asked any of us, and she answered one word to a woman of forty about ground on the Monday of that week.
 
 “*I can read. Nobody knew that until this morning, and I have been in that reed a hundred and seventy days and about four of you have walked past me and looked down, and not one of you ever asked whether I could read.*”
 
@@ -60,7 +60,7 @@ Marda Vell is twenty-nine and has been in a reed about a hundred yards off that 
 
 “*Nobody asked any of us.*”
 
-“*And that is what I said on a Saturday three weeks ago and nobody asked me who us is, and I am not going to say who us is, and it is four people, and I have known that since a Monday, and nobody is going to be sent for about any of the four of us.*”
+“*And that is what I said on the Saturday of the hundred and thirty-third week and nobody asked me who us is, and I am not going to say who us is, and it is four people, and I have known that since a Monday, and nobody is going to be sent for about any of the four of us.*”
 
 “*And a man of thirty-one is not going to ask me and I can tell by the way he is standing.*”
 
@@ -84,7 +84,7 @@ Wat Marshe is thirteen and has been in this county a hundred and forty-six days.
 
 “*A hundred and forty-six days, and I counted them in the lane and it is one more than yesterday.*”
 
-“*And the third count is six, and I am stopping it, because a man of forty-three gave a fifth thing this morning and it was about himself and not about a number, and I have been counting for five days and I have got what I was counting.*”
+“*And the third count is six, and I am stopping it, because a man of forty-three gave a fifth thing this morning and it was about himself and not about a number, and I have been counting since Saturday and I have got what I was counting.*”
 
 “*And a woman of twenty-nine came up that bank and can read and nobody knew, and I am the only one on this bank who saw her come up, and I have not said anything about it for about an hour, and I am saying it now because I decided on Tuesday that I would stop deciding.*”
 

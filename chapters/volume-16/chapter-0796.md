@@ -50,6 +50,8 @@ Wenna Callow is forty and has asked for a day against a name for eleven years an
 
 “*I have said since Wednesday that a case is not a set of figures, and I said it to myself on Wednesday and I am saying it out loud this morning for the first time, and I am about nine days late.*”
 
+“*Wednesday was five days ago. The nine days are before that. I had it for nine days and I had nowhere to put it, and the nowhere was the cart road and it is the same nowhere it has always been and I am not going to call that a reason.*”
+
 “*Here is what I have watched this week. A man opened a case on Wednesday out of nine things. He has added four more since. Thirteen things. And not one of them is a person who can be asked whether the case is a case.*”
 
 “*A woman of sixty-four read out nineteen words on Sunday that were better than all thirteen of them, and she did it because she was asked to do nothing, and he is the one who stands on this bank every morning.*”
@@ -84,7 +86,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirte
 
 “*They are all of things. That is what my three numbers are. They are not of people and they never were, and I have said that every morning for a fortnight and nobody has argued with me about it because I have not let anybody get past the first one.*”
 
-Wat Marshe is thirteen and has been in this county a hundred and forty-three days. He carried five counts for about nine weeks, put the sixth down on the Thursday of the week before last, and has been counting the mornings about four of them repeat a figure since Sunday.
+Wat Marshe is thirteen and has been in this county a hundred and forty-three days. He carried five counts for about nine weeks, put the sixth down on the Thursday of the week before last, and has been counting the mornings about four of them repeat a figure since Saturday.
 
 “*A hundred and forty-three days, and I counted them in the lane and it is one more than Saturday.*”
 

@@ -8,7 +8,7 @@ The bank was about sixteen inches over the top step at about the seventh hour an
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and about four of them have walked past it every day since and about nine of them never have.
 
-“*Sixteen inches over the top step at the seventh hour, and that is six days since it came off, and it is a full bank on the fourth morning of it.*”
+“*Sixteen inches over the top step at the seventh hour, and that is six days since it came off, and it is a full bank on the third morning of it.*”
 
 “*Four inches a day is the working underneath the holding and I have given that every morning this bank has been full, and a bank that is full holds where it is until it goes.*”
 
@@ -44,11 +44,11 @@ Garrin Tolley is thirty-eight and has a child of nine and a board in the inside 
 
 “*Four names, and it is the twenty-second morning, and it is the last morning.*”
 
-“*I am not stopping because I have been asked. I stopped on Monday because a man of fifty-four worked out that a number a man repeats becomes a thing he is standing behind, and he worked it out about himself and said so in front of these people, and I have been holding a figure for seventeen mornings and it was him holding it for me.*”
+“*I am not stopping because I have been asked. I stopped on Monday because I worked it out about myself and said so in front of these people, and a figure a man repeats is a figure he is standing behind, and I have been holding a figure for seventeen mornings and it was me holding it for me, and that is not a comfort.*”
 
 “*The board has been in this coat one hundred and two days, and one hundred and two is eight hundred less six hundred and ninety-eight, and I gave that figure eighteen days running and I have not given it since the Monday, and I am not opening it this week and nobody is going to be thanked for not asking me to.*”
 
-“*And a woman of twenty-nine is reading that line for the nineteenth morning and she came up that bank on her own on Thursday, and I am not going to say anything about that either.*”
+“*And a woman of twenty-nine read that line for the second morning this morning, and she came up that bank on her own on Thursday, and I am not going to say anything about that either.*”
 
 Wat Marshe is thirteen and has been in this county a hundred and forty-seven days. He carried five counts for about nine weeks, put the sixth down on the Thursday of the week before last, and has been counting the mornings about four of us do not say a figure.
 
@@ -56,7 +56,7 @@ Wat Marshe is thirteen and has been in this county a hundred and forty-seven day
 
 “*And I am not going to stop counting them on a Friday because it has been a week, because a boy stopping a count is a man stopping a count and I have watched two of those this week.*”
 
-“*And the third count is seven, and I stopped it on Wednesday, and the fourth count is about nine of you, and that one I am not going to give.*”
+“*And the third count is seven, and this is the last morning of it, and I stopped counting it on Thursday after I gave it to you, and the fourth count is about nine of you, and that one I am not going to give.*”
 
 “*And a man of thirty-eight is not going to say four names tomorrow, and I have been the only one who has watched him not say it.*”
 
@@ -82,17 +82,23 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirte
 
 “*None of those three things is a number, and all three of them are on that counter in a different hand.*”
 
-Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy-one days, and there is a day against her name on that ninth line and there has never been one. She came up that bank on Thursday and read the ninth line in the open because she can read, and said four words on her own and nobody asked her.
+Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy-one days, and her name is in ink on that ninth line and there has never been a day against it. She came up that bank on Thursday and read the ninth line in the open because she can read, and said four words on her own and nobody asked her.
 
 “*I am going to ask this man a question and about four of you are going to want me not to, and a woman of forty asked a question on Monday in front of these people and he answered it, so I am going to ask one and he can do what he likes with it.*”
 
-“*A man of about fifty-two put a mark on that leaf eleven years ago because nobody asked him what the line was for. A woman of sixty-four read out nineteen words on Sunday out of a book she has not opened in nineteen years. A man of thirty-four said three things to nobody on Friday and one of them was about me.*”
+“*A man of about fifty-two put a mark on that leaf eleven years ago because nobody asked him what the line was for. A woman of sixty-four read out nineteen words on Sunday out of a book she has not opened in nineteen years, and on Tuesday she said a word out loud and a thing answered her in four sentences, in nine ears, and I was not on that bank and I have not got one word of it.*”
+
+“*And a man of thirty-four said three things to nobody on Friday and one of them was about me.*”
 
 “*And a man of thirty-one has spent ten days on a bank asking about nine of you for things, and every one of those four people has told this county something and not one of them has been asked what they want.*”
 
 “*So here is the question and it is not a question about the case and it is not a question about the four of us, and I have thought about it for a week and I am saying it once.*”
 
-“*Is there a thing that saves this and has got one person’s name on it? Because if there is, then four of us cannot refuse it, and if there is not, then a man of thirty-one is the only one in this county it can be asked of, and he is thirty-one, and he is nobody’s, and he has a cut across his right hand.*”
+“*If the only thing that can save this is a person, and it has to be one person, and his name goes on it and stays on it — is that one thing this county cannot refuse? Because a thing with a name on it that goes on staying is a thing nobody can say no to tomorrow morning, and four of us have been saying no for nineteen years to a line with a name on it and no day.*”
+
+“*And if that is the only way it gets saved, then a man of thirty-one is the only one in this county it can be asked of. Not because he is the best one. Because he is the only one it would land on and stay landed on, and he is thirty-one, and he is nobody’s, and he has a cut across his right hand.*”
+
+“*So that is the question. Would you take it, knowing what it makes you, and knowing that it makes you the thing that writes the lines from now on, and that a woman of sixty-four would be right to call that the same mark eleven years late?*”
 
 “*And he is not going to get a second question out of me, and I am not going to stand here and be asked whether I know what I am doing, because I have not worked that out and it is not a question for a Friday.*”
 
@@ -111,6 +117,10 @@ He has asked seven times in about a fortnight whether it will keep and nobody ha
 “*If the answer to her question comes out of my mouth then the answer belongs to me and not to her.*”
 
 “*And I am not going to do that on a Friday to a woman who came up that bank on her own yesterday.*”
+
+“*And because if I say yes then from tomorrow morning every person who refuses this county is refusing me, and there is not one of them who can be sent for, and they would all have to be told by me, in my mouth, on a bank like this one, every morning, for the rest of it.*”
+
+“*And a man of about fifty-two told you on Wednesday that being listened to and being able to be checked are two different things. Nobody has ever been able to check me and that has been the whole of what I have had to offer anybody on this bank.*”
 
 “*A hundred days. A hundred is eight hundred less seven hundred, and I have given that figure ninety-nine times.*”
 
@@ -136,7 +146,7 @@ He has asked seven times in about a fortnight whether it will keep and nobody ha
 
 “*I am going to hand it to a woman of forty-four in the next four minutes, because she is the only one of these people who has been keeping a count of it that was never about a number, and I am not going to interrupt her to do it.*”
 
-About nine of them were on that bank at about the eleventh hour of a Friday, and ninety of those cut steps were dry.
+About nine of them were on that bank at about the eleventh hour of a Friday with sixteen inches of water over the top step above them, and about four of them had been up from that water at the seventh hour and were standing on a dry stone at the top of it.
 
 A man of thirty-one had been asked a question in front of all of them and had not answered it.
 
@@ -144,10 +154,10 @@ A man of thirty-one had been asked a question in front of all of them and had no
 
 The fever was seventy-three weeks and six days old. He had been in that county two hundred and forty-six days, on his five hundred and fiftieth morning, and a hundred days after an offer that was asked at the seventy-hundredth and has not been answered.
 
-A woman of twenty-nine who had been in a reed a hundred and seventy-one days asked a man of thirty-one, out loud, in about nine people’s hearing, whether there is a thing that saves this and has got one person’s name on it.
+A woman of twenty-nine who had been in a reed a hundred and seventy-one days asked a man of thirty-one, out loud, in about nine people’s hearing, whether he would take the only thing that can save this, knowing that it would put his name on it for good and make him the one who writes the lines from then on.
 
 And he said he did not know, and said that an hour was not long enough, and did not answer it.
 
 A man of fifty-four asked for a day to be put against a line that has never had one, and said it was the last thing he was going to ask for.
 
-And nobody on that bank was thanked for any of it, and the right of refusal was not restored, and ninety of those cut steps were not walkable, and the next time is in two days.
+And nobody on that bank was thanked for any of it, and the right of refusal was not restored, and ninety of those cut steps were under sixteen inches of water and not walkable, and the next time is in two days.

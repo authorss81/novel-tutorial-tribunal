@@ -64,6 +64,8 @@ Ada Renk is sixty-four. She got up out of a book of heads and carts in the open 
 
 “*I said on Tuesday that I would say it once and I said it once. A word is not a bucket. It does not have more in it the second time and I am not a thing that empties.*”
 
+“*And it is worse than a word being said once. About four of you know what it said back, and if nine people asked me to say it again I would be doing a thing with a bucket and I am not going to do it to anybody.*”
+
 “*Nobody thanks me for the nine and nobody is told I was brave about the one.*”
 
 “*I have said that three times in four days, and about four of you have stopped bringing it up to me, and I noticed that too.*”
@@ -100,6 +102,8 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*A man of about fifty-two has checked eleven of my figures out loud in front of about nine of you and ten of them are right and one of them he cannot check at all, and he said that before anybody used it, which is what he said he would do on the Thursday of the week before last.*”
 
+“*And a thing said four things back to me on Tuesday in about nine people’s hearing and said in the fourth of them that it read that line, and I have had two days with it and I still cannot do one single thing with it that anybody would take.*”
+
 “*The want is unchanged and I have stopped saying the same six words over it, because a boy of thirteen has this week counted the mornings when about four of us say a figure again, and I am not going to be one of the days he counts.*”
 
 “*I want somebody who can be asked, and who says no, and who comes back the next morning and is asked again.*”
@@ -132,4 +136,4 @@ A man of about fifty-two checked eleven figures out loud against four lines unde
 
 Nine people asked a woman of sixty-four to say a word again between the seventh hour and the ninth hour, and she said no nine times, and then she said that a gap is not the same as a wall.
 
-Seven things were on a list he made on Wednesday, and not one of them was a person, and he read all seven out loud on that bank on the last morning of that week.
+Seven things were on a list he made on Wednesday, and not one of them was a person, and he read all seven out loud on that bank this morning.
