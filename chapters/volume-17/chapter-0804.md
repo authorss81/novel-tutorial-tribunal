@@ -22,7 +22,7 @@ Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read
 
 “*Eighty-three mornings, and eighty-three is eight hundred and four less seven hundred and twenty-one.*”
 
-“*Seven mornings, and seven is eight hundred and four less seven hundred and ninety-seven, and that Tuesday night was the last night of last week and I have had to look up which week I am in to say it and I am fifty-four and I cannot read a calendar.*”
+“*Seven mornings, and seven is eight hundred and four less seven hundred and ninety-seven, and that Tuesday night was a Tuesday night of last week and I have had to look up which week I am in to say it and I am fifty-four and I cannot read a calendar.*”
 
 “*And the wheel is where I put it down. It has not been moved and it has not been taken and nobody has been down there except nine of us on Saturday and four of us on Sunday.*”
 

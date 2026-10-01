@@ -38,9 +38,9 @@ Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read
 
 “*And here is what it costs and I am going to say it in front of about nine of you because the three mornings of it are not going to get better by being said quietly to myself.*”
 
-“*That barrow takes gravel from that landing up to that turn, and that turn is four hundred yards up the cart road from where I am standing, and it is two hundred paces of mine, and then the gravel is shovelled into the cart and the cart goes up four miles to a bakehouse and about nine houses.*”
+“*That barrow takes gravel from that landing up to that turn, and that turn is four hundred yards up the cart road from where I am standing, and it is two hundred paces of mine, and then the gravel is shovelled into the cart and the cart goes up four miles to a bakehouse and to the houses above it.*”
 
-“*A barrow does it in one push and I did it in two loads until Tuesday. On Wednesday I did it in four loads because my hands had gone by the third, and yesterday I did it in five, and this morning I have done the first two and I am fifty-four and I cannot do five.*”
+“*A barrow does it in one push and I did it in two loads until Tuesday. On Wednesday I did it in four loads because my hands had gone by the third, and on Thursday I did it in five, and this morning I have done the first two and I am fifty-four and I cannot do five.*”
 
 “*Four mornings. Four is eight hundred and one less seven hundred and ninety-seven, and the Tuesday night is the number to check it against, and the first morning was the Wednesday.*”
 
@@ -88,7 +88,7 @@ Wat Marshe is thirteen and has been in this county a hundred and forty-eight day
 
 “*A hundred and forty-eight days, and I counted them in the lane and it is one more than yesterday, and I have been counting them since a Tuesday a long time ago.*”
 
-“*And the third count is a hundred and eleven mornings that about four of us do not say a figure when one of us could, and I stopped it on Wednesday because it was a hundred and a hundred is a round one and I do not stop counts on round ones, I stop them when I cannot check them.*”
+“*And the third count is a hundred and eleven mornings that about four of us do not say a figure when one of us could, and it began on the Friday of the hundred and twentieth week, which is six hundred and eighty-eight, and a hundred and eleven mornings counting the first one comes to the Wednesday of this week, which is seven hundred and ninety-eight, and that is where I stopped it, because it was at a hundred on the Thursday and a hundred is a round one and a round one is the one thing I do not stop on, and then on the Friday I could not check it.*”
 
 “*I have been checking a different one. There is a man of forty-three who has been keeping the mornings since nobody has asked him a question and he gave two figures this week and a man of thirty-eight gave one of them and I am not going to use a figure I have not worked out myself.*”
 
