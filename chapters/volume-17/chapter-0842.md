@@ -58,7 +58,7 @@ Then a man of thirty-one said the reason, and it was not the reason anybody on t
 
 Then a man of thirty-one said what a refusal opens, and said that he is opening it, and said it in his own mouth on a bank and not in a room four hundred miles off, and gave the two sentences out loud.
 
-“*And I am going to say the second half of this in about nine ears before anybody works out that there is a second half, because a man of sixty-one said on Tuesday that he would read that leaf whole or not at all, and he did it on Wednesday, and I am not going to let about nine of you find the rest of this on Saturday.*”
+“*And I am going to say the second half of this in about nine ears before anybody works out that there is a second half, because a man of sixty-one said on Tuesday that he would read that leaf whole or not at all, and he did it on Thursday, and I am not going to let about nine of you find the rest of this on Saturday.*”
 
 “*A seal is a thing on a flat. I have refused a thing on a flat. That is all that has happened on this bank this morning and it is not a room and nobody was summoned to it.*”
 
