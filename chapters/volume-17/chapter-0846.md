@@ -106,7 +106,7 @@ Wenna Callow is forty and has kept the first of the six stones for eleven years 
 
 “*And it took me two evenings to write it and there are about forty words on it, and the most useful thing on it is not the stone. The most useful thing on it is that the lane has a name for the man who comes if the water comes, and there was never a name for him before Thursday.*”
 
-Then a man of thirty-one said what the morning had settled and what it had not, in about nine ears, and gave every figure with its subtraction, and said that he had been asked whether he would take the ninth seat and had said no before the question was finished.
+Then a man of thirty-one stepped back from the gate where the sheet was hanging crooked, and said what the morning had settled and what it had not, in about nine ears, and gave every figure with its subtraction, and said that he had been asked whether he would take the ninth seat and had said no before the question was finished.
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and ninety-two days, two hundred and ninety-two being eight hundred and forty-six less five hundred and fifty-four. The cut across that palm is a hundred and sixty-one days old, a hundred and sixty-one being eight hundred and forty-six less six hundred and eighty-five.
 

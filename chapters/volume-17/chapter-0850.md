@@ -104,7 +104,7 @@ Ilyan Vester, thirty-one, said that he could not answer it and would not try, an
 
 “*What I can say is that a settlement was made in the four days from Saturday to Wednesday with three of the nine positions that nobody can account for, and that the blanks are in a book that a man of sixty-one wrote and that anybody may read, and that is where they are now instead of nowhere. That is not an answer and I am not going to call it one.*”
 
-Then a man of thirty-one said the one sentence he had, and said it was not an answer to the three blanks, and said where he had got it, and a boy of thirteen said out loud that it was not a discovery and refused to let about four of them put it in a book.
+Then a man of thirty-one said the one sentence he had, after the boy of thirteen had read the list of the people affected out twice, and said it was not an answer to the three blanks, and said where he had got it, and a boy of thirteen said out loud that it was not a discovery and refused to let about four of them put it in a book.
 
 “*It is not an answer to the three of the nine, and I am not going to stand here and let about four of you take it for one.*”
 

@@ -42,7 +42,7 @@ Nevin Trask is sixty-one and has a book of heads and carts and three lines in it
 
 “*The third one is the seat of the archive at Orison, and there is nobody in it, and a man of thirty-one said no to it on Tuesday before the question was finished. A seat with nobody in it is not a seat that has declined. It is a different figure, and I am not going to let about four of you add the two together and come out with a comfortable three.*”
 
-Then a man of fifty-four was asked to say the terms of the two declining seats out loud because he cannot read. He said them, and gave the figure for the ninth line in his own mouth, and said that asking was the whole of it and that he was not going to stop.
+Then a man of fifty-four was asked to say the terms of the two declining seats out loud because he cannot read, and had it read to him twice at the low end of the landing before he began, the second time with a finger under the line. He said them, and gave the figure for the ninth line in his own mouth, and said that asking was the whole of it and that he was not going to stop.
 
 Barnaby Crove is fifty-four and cannot read and holds the gravel on that landing, and has asked for a line a leaf at a time for a hundred and twenty-six mornings, and the figure is one hundred and twenty-six, which is one more than eight hundred and forty-seven less seven hundred and twenty-two.
 

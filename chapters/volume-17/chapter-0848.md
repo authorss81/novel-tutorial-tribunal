@@ -40,7 +40,7 @@ Bram is nineteen and is the first apprentice of the public cartography office, w
 
 “*And I want it written down that I said no to his route this morning. Not because the route is wrong. Because the four places on it have not been asked, and I have been told I may refuse a route on that ground, and I have been refusing things since I was fifteen and this is the first one that was allowed.*”
 
-Then a woman of about fifty-two said what the thing that translates is, in about nine ears, in one mouth, and said what it is not, and nobody on that landing argued with him about it.
+Then a man of about fifty-two said what the thing that translates is, in about nine ears, in one mouth, and said what it is not, and nobody on that landing argued with him about it.
 
 Simon Rook is about fifty-two and cannot see well, and has a palm and a forearm, and has named twelve things he cannot check. On Wednesday morning he named a thirteenth, which is a figure of a woman, and said it was the last one he was going to name before the end of the fortnight.
 

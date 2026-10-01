@@ -30,7 +30,7 @@ Then a man of thirty-eight took a board out of the inside of his coat and held i
 
 “*And I did not cut a notch for the day I asked to see the boy. There are four of those and they are not on the board. A notch on that board means a day I was sent for, and a day I asked for is a different thing, and I have never wanted the two mixed in.*”
 
-Then a man of thirty-eight said what he was going to do with it, and said that he did not know, and said what he was not going to let it be used for, and said the thing about four hundred yards of bucket out loud in about nine ears.
+Then a man of thirty-eight said what he was going to do with it, with the board still up in his other hand and his thumb over the edge of it, and said that he did not know, and said what he was not going to let it be used for, and said the thing about four hundred yards of bucket out loud in about nine ears.
 
 “*I have still not got the part, and I am going to say that again because a boy of thirteen will write it down. I would rather it went in his hand as the second half of a thing than as a footnote at the bottom of a page.*”
 

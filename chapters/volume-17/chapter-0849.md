@@ -14,7 +14,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and gives t
 
 Then at about the ninth hour a woman of forty-four who keeps twenty-nine chairs came up that cart road for the first time in fifty mornings. She named two dead persons out of eleven, gave the working, and refused to have either of them thanked for or carried.
 
-Orla Fennimore is forty-four and has kept twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and had not come up that cart road since the Monday of the hundred and thirty-ninth week until this morning, and has a question she asked three times that nobody on that bank has answered. Eleven of her chairs have a name against them in a book and nobody in them.
+Orla Fennimore is forty-four and has kept twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and had not come up that cart road since the Thursday of the hundred and thirty-sixth week until this morning, and has a question she asked three times that nobody on that bank has answered. Eleven of her chairs have a name against them in a book and nobody in them.
 
 “*Two of the eleven are dead. I have said that out loud in a room four hundred miles off once in nineteen years and I am saying it now, and about four of you have never heard it, and that is not anybody’s fault except mine.*”
 
@@ -46,7 +46,7 @@ Sera Quill is twenty-eight and cannot be sent for in this county or in the one s
 
 “*Two hundred and seven days, and the working is eight hundred and forty-nine less six hundred and forty-two, and I am going to use it for something other than a day count this morning.*”
 
-“*On the Friday of last week I told about nine of you that my two things were a man of thirty-one and a line on a leaf about nine hundred feet from that landing. They are not the same thing, and I had had them the same for four days, because it is easier to be frightened of one thing than of two.*”
+“*On the Wednesday of last week I told about nine of you that my two things were a man of thirty-one and a line on a leaf about nine hundred feet from that landing. They are not the same thing, and I had had them the same for four days, because it is easier to be frightened of one thing than of two.*”
 
 “*They are still not the same thing. They are two hundred and seven days old and nobody has made them one, and I have come to say which of them I am putting down and I want it in a mouth that is not his.*”
 
@@ -54,7 +54,7 @@ Sera Quill is twenty-eight and cannot be sent for in this county or in the one s
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and ninety-five days, two hundred and ninety-five being eight hundred and forty-nine less five hundred and fifty-four. The cut across that palm is a hundred and sixty-four days old, a hundred and sixty-four being eight hundred and forty-nine less six hundred and eighty-five.
 
-“*And I am picking up the man, and I am not picking up the leaf. A woman of twenty-nine on Sunday worked out that a day is a day, and that the two things cannot stand in the same place. I am applying that to two people, and it is a different job, and about four of you should be suspicious of it.*”
+“*And I am picking up the man, and I am not picking up the leaf. A man of about fifty-two on Sunday worked out that a day is a day, and that the two things cannot stand in the same place. I am applying that to two people, and it is a different job, and about four of you should be suspicious of it.*”
 
 “*Here is the cost and I am naming it before she has to ask, because she named hers first on Sunday and I am not going to be a person who learns that from other people.*”
 
@@ -68,7 +68,7 @@ Ivo Kellow is thirty-four and has been in an ash two hundred and nineteen days, 
 
 “*Two hundred and nineteen days, and that is eight hundred and forty-nine less six hundred and thirty. Nobody has ever given me that figure in a mouth until this morning, and I have counted it myself every day since the second day of the hundred and thirty-first week.*”
 
-“*Yes. I want the bridge. I have wanted it in about nine of your ears since a man of thirty-one read line fourteen out on the Thursday of the week before last and said I would not be asked about it. I have not said so out loud until this morning, and you are asking me now. That is the whole difference and I would like it written down.*”
+“*Yes. I want the bridge. I have wanted it in about nine of your ears since a man of thirty-one read line fourteen out on the Thursday of last week and said I would not be asked about it. I have not said so out loud until this morning, and you are asking me now. That is the whole difference and I would like it written down.*”
 
 “*It is mended. Not by an arrangement. By about four men and a woman of thirty-three with a trowel, and two days of work, and nobody voted on it. I am going to be the man who wanted a bridge and got one out of a settlement I did not have to agree to.*”
 
