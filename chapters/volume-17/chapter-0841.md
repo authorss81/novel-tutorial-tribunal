@@ -8,7 +8,7 @@ The bank was about sixteen inches over the top step at about the seventh hour an
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and the fourth thing has been nothing for nine days.
 
-“*About sixteen inches at the seventh hour, and it is seven days of the coming back, and that is a full bank and it holds, and tomorrow it will be a full bank and it will hold until the day after.*”
+“*About sixteen inches at the seventh hour, and it is seven days of the coming back, and that is a full bank and it holds, and a bank that is full holds at sixteen until it comes off, and tomorrow it comes off at about the sixth hour.*”
 
 “*And the next time about ninety steps can be walked is tomorrow at about the sixth hour, and that is the twenty-second time since the Saturday of the hundred and nineteenth week, and I have given that number for eleven days.*”
 
@@ -80,7 +80,7 @@ Then a man of thirty-one said the thing out loud that about nine of them had bee
 
 “*And about four of you would have let him have it by Friday and never mentioned it again, and it would have been the correct thing to do with a child of six.*”
 
-“*I have thought about that for two days and I am putting it in about nine ears now so that nobody can say afterwards that a man of thirty-one was given eleven days to decide. It was Friday. The leaf came on Friday. It has been three days and I have used all three of them.*”
+“*I have thought about that for two days and I am putting it in about nine ears now so that nobody can say afterwards that a man of thirty-one was given six days to decide and took a seventh to do it in. It was the Friday of last week. The leaf came on that Friday, that is six days ago, and I have used all six of them.*”
 
 Then a woman of sixty-four said the nineteen years is not a reason, and said what she had said on the second day of the hundred and fortieth week, and said she was not going to say it a third time.
 

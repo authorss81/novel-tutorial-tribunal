@@ -4,11 +4,11 @@ Fourth day of the hundred and forty-second week. His five hundred and ninety-sec
 
 ---
 
-The water came off that bank at about the sixth hour and all ninety of those steps were walkable by about the seventh. The man of forty-three gave the hour and the count and the number of the time and did not give a figure of inches because there were none, and said that was the first time in nineteen years he had been glad there was not.
+The water came off that bank at about the sixth hour and all ninety of those steps were walkable by about the seventh. The man of forty-three gave the hour and the count and the number of the time and did not give a figure of inches because there were none, and said it was the second time in eight days he had been glad there was not one, and that the first of the two was the first time in nineteen years.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and the fourth thing has been nothing for ten days.
 
-“*It came off at about the sixth hour and all ninety of those steps are walkable now, and there is no figure of inches to give you this morning and that is the first time in nineteen years I have been glad there is not.*”
+“*It came off at about the sixth hour and all ninety of those steps are walkable now, and there is no figure of inches to give you this morning, and that is eight days after the last time I had none, and eight days ago I said it was the first time in nineteen years, and it was, and it is not the first time any more and I am not going to pretend it is.*”
 
 “*It is the twenty-second time. The last time was eight days ago at about the sixth hour, and that was the twenty-first, and the one before that was eight days before that and was the twentieth, and eight days on from the twentieth is the twenty-first and eight days on from that is this morning.*”
 

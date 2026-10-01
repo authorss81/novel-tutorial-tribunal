@@ -76,7 +76,7 @@ Then a man of thirty-one came to the end of it and said what he wanted, what he 
 
 “*And I want to say the thing nobody has said on this bank in four days, which is that I do not know what I would do, and that is not modesty. I have worked the arithmetic of this for two days and I have got two answers and I have not got a third, and about four of you have been waiting for me to pick one in front of you.*”
 
-“*The mistake is the thirty-ninth of the same mistake. I gave it out loud on Friday morning and it is the same mistake.*”
+“*The mistake is the fortieth of the same mistake. I gave it out loud on Monday morning and it is the same mistake.*”
 
 “*And I am not going to renumber it, because a new number would look like progress.*”
 
