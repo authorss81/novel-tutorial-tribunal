@@ -194,4 +194,4 @@ She gave the cost of it in three parts, the third of which is that she did not r
 
 And a man of fifty-four said out loud what had been standing behind nine weeks of his own asking, which is that there was nothing on that line to come on.
 
-And a woman of sixty-four said that name once in the ordinary voice, and gave what it cost her in three parts, the third of them being that nothing was put in front of her with a place to put no.
+And a man of sixty-one gave his four counts, and said he did not write down the name a woman of sixty-four said on that bank, and that he is a man who keeps a book of heads and carts, and that he is not going to use the word a woman of forty-four used yesterday about what she said.

@@ -188,4 +188,4 @@ And a man of thirty-eight said the precedent out loud, which is that a thing is 
 
 He said the four leaves are the same instrument.
 
-And a man of fifty-four answered the fifth thing that was asked of him on a Sunday of a fortnight, and said there has never been a day written on that line, and said he has not refused anything.
+And a boy of thirteen said he told that bank on Sunday that somebody should ask a man of fifty-four a question, and that a woman of forty-four asked him instead, and that he did not ask him himself, and that he is still carrying five counts and not six.

@@ -134,4 +134,4 @@ And a man of thirty-eight gave the count of that sheet, sixty-one, and said two 
 
 And a man of about fifty-two said he has had one thing in those four leaves that he has not said out loud in about eleven years of being a fifth line, and that he had it by Wednesday, and that he is not saying it this morning.
 
-And a man of about fifty-two said there is one thing in those four leaves that he has not said out loud in about eleven years of being a fifth line, and that he had it by Wednesday, and that he is not saying it this morning.
+And a boy of thirteen gave his own count of a hundred and eighteen days, and gave the two ninth days out loud again a week after the first time, and said he was not going to ask which of the two he preferred.

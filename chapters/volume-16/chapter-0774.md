@@ -114,4 +114,4 @@ A woman of forty said that a name with no day on it is a day with no name on it,
 
 And a boy of thirteen said he is not going to say the two ninth days a fourth time because he has said them three times without being asked, and asked for one thing, which is that somebody should ask a man of fifty-four about the fifth thing that was asked of him on a Sunday of a fortnight.
 
-And a woman of forty said that a name with no day on it is a day with no name on it, and that she has wanted both of them for eleven years.
+And a woman of forty-four who keeps a book of chairs gave the two counts off that counter, and said she is not going to say what she will do about the sixty-eight mornings now that a woman of forty has said what she wants, and that those are two different things and neither of them is a plan.

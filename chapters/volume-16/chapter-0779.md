@@ -164,4 +164,4 @@ And a man of thirty-eight said that there are four names on the ninth line that 
 
 And a woman of forty-four carried a sentence four miles down a cart road, which is that a woman in a kitchen is keeping the days in her own head and is not going to say it to anybody who can be sent for.
 
-And a woman of forty-four carried a sentence four miles down a cart road out of a kitchen about six hundred yards above that low gate, and said the woman in it is not on any line in this county at all.
+And a woman of forty-four who keeps a book of chairs gave the two counts and the third and said she is not going to say a woman of forty was right, because she has not got a figure for it and she is not going to make one up this morning.

@@ -118,4 +118,4 @@ A woman of forty-four counted sixty-eight mornings on that counter with a pencil
 
 And she said what she was not going to say, which is what that is, because a man of about fifty-two got to it the day before and she keeps chairs.
 
-And a boy of thirteen said he wants somebody to ask a man of fifty-four about the fifth thing that was asked of him on a Sunday of a fortnight, and that he is not going to carry it as a sixth count.
+And a boy of thirteen said the two ninth days out loud for the third time without being asked for them, and gave his own count of a hundred and twenty days, and said he is not going to say them a fourth time.

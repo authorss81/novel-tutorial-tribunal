@@ -130,4 +130,4 @@ And he said the one thing he has never said, which is that a man of thirty-four 
 
 And neither has a woman of sixty-four with a name in ink on a line that has never had a day.
 
-And a man of sixty-one said a woman at a gate three miles and six hundred yards above this landing asked him a question, and that he is sixty-one and he had nothing, and that he walked four miles to be asked it.
+And a woman of forty-four gave the two counts off that counter, and said she is not going to say what he should do with what he has brought back down that road, and that he has brought a question he cannot answer and about four of them have been waiting since Sunday for a figure of what to do with it.

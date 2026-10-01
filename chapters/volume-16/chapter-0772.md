@@ -136,4 +136,4 @@ A man of about fifty-two read two lines out loud and said he had read a day into
 
 And a woman of forty-four said she has counted what this bank does, and that about nine people have said a thing out loud on it every morning for about nine weeks and not one of them has been asked one question by anybody, and that two of them have said so themselves.
 
-And a woman of forty-four said that about nine people have said a thing out loud on that bank every morning for about nine weeks, and that not one of the nine of them has been asked one question by anybody on it.
+And a boy of thirteen gave his own count of a hundred and nineteen days, and said he worked the two ninth days out on his fingers this morning and that both of them are right, and that he is not going to do it a fourth time unless somebody asks him.

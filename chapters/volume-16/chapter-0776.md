@@ -170,4 +170,4 @@ And a woman of forty-four who keeps a bakehouse came down four miles of that car
 
 There is a woman in it keeping the days her second cart comes down in her own head, and she is not on any line.
 
-And a woman of thirty-four said the thing she said in that room was about a road, and a day those houses can come down on, and a second cart that does not come the whole way down, and that none of it is on those four leaves.
+And a woman of forty-four who keeps a book of chairs gave the two counts off that counter and gave the third one, which was seventy-one mornings, and said she has said two things happened and a count, and that she still has not said what to do about any of them.
