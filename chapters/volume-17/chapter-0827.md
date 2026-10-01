@@ -1,18 +1,20 @@
-# Chapter 827: Third Day Of The Hundred And Fortieth Week, And A Thursday, And About Eight Inches Back On The Flat And Two Days Of The Coming Back, And A Boy Of Thirteen Asks How A Mark Gets Made And Is Not Answered For Two Days, And A Woman Of Twenty-Eight Gives Him The Answer On Friday And It Is A Name She Has Not Said Out Loud Before, And A Man Of Thirty-One Says His Own Is A Post At A Cart Road
+# Chapter 827: Third Day Of The Hundred And Fortieth Week, And A Thursday, And About Four Inches Back On The Flat And One Day Of The Coming Back With All Ninety Steps Dry, And A Boy Of Thirteen Asks How A Mark Gets Made And Is Not Answered For Two Days, And A Woman Of Twenty-Eight Gives Him The Answer On Friday And It Is A Name She Has Not Said Out Loud Before, And A Man Of Thirty-One Says His Own Is A Post At A Cart Road
 
 Third day of the hundred and fortieth week. His five hundred and seventy-seventh morning. Four hundred and twenty-seven days after the settlement. The fever seventy-seven weeks and five days. Three hundred and eighty-one days since the division. Three hundred and twenty-seven days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about eight inches over the top step at about the seventh hour, and it was two days of the coming back, and about eighty of those steps were under. The man of forty-three gave the reading and the working, gave the figure for the next time, and said what a man of forty-three saw on the fourth leaf that he had not said on the morning it was read.
+The bank was about four inches over the top step at about the seventh hour, and it was one day of the coming back, and about ninety of those steps were dry at about the sixth hour and are dry still. The man of forty-three gave the reading and the working, gave the figure for the next time, and said what a man of forty-three saw on the fourth leaf that he had not said on the morning it was read.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning and none of them about the water. He named a stone on that bank on the Sunday of the hundred and thirty-fifth week, and about nine of them walk past it every day, and one of the three things is now a thing on a flat that he did not put there.
 
-“*About eight inches at the seventh hour, and it is two days of the coming back, and about eighty of those ninety steps are under this morning.*”
+“*About four inches at the seventh hour, and it is one day of the coming back, and about ninety of those steps were dry at about the sixth hour and are dry still at the seventh.*”
 
-“*And the next time about ninety steps can be walked is in two days, and that is two days after the morning it is full.*”
+“*And about ninety of those ninety steps are dry this morning, and that is the largest figure of that kind I have given in nineteen years, and I gave it yesterday without knowing it was the largest.*”
 
-“*And the morning it is full is tomorrow. It holds from tomorrow until the day after, and the day after that is the twenty-first morning.*”
+“*And the next time about ninety steps can be walked is in seven days.*”
+
+“*And that is this morning plus eight, and the twentieth was yesterday, and the twenty-first is eight days on from yesterday.*”
 
 “*And I have not got to the twenty-first morning, and I am not going to pretend to about nine of you that I have.*”
 

@@ -4,11 +4,11 @@ Second day of the hundred and forty-first week. His five hundred and eighty-thir
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was the fifth morning of a bank sitting at that figure. The man of forty-three gave the reading and the working and the figure for the next time, and gave it in the new way again, and said that the new way would stand until the bank came off.
+The bank was about sixteen inches over the top step at about the seventh hour and it was the fourth morning of a bank sitting at that figure. The man of forty-three gave the reading and the working and the figure for the next time, and gave it in the new way again, and said that the new way would stand until the bank came off.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday, and about four of them have stopped asking him for it, which he says is the correct number of times to be asked for something he has not got.
 
-“*About sixteen inches at the seventh hour, and it is eight days of the coming back.*”
+“*About sixteen inches at the seventh hour, and it is seven days of the coming back.*”
 
 “*And the next time about ninety steps can be walked is in one day, and that is tomorrow at about the sixth hour, and I have given it in the new way three mornings running and I am not going back to the old one while the two agree.*”
 

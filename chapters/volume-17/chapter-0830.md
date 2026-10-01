@@ -1,18 +1,18 @@
-# Chapter 830: Sixth Day Of The Hundred And Fortieth Week, And A Sunday, And A Full Bank Holds For The Second Morning And The Next Time Is In Four Days And A Man Of Forty-Three Says The Figure Is Derivable From The Rate, And A Man Of Thirty-One Says Nobody On That Bank Has Answered The Offer And He Is Not Going To Stop Saying The Figure, And A Woman Of Sixty-Four Says The Nineteen Years Are Hers And Not A Leaf
+# Chapter 830: Sixth Day Of The Hundred And Fortieth Week, And A Sunday, And A Full Bank Holds For The First Morning And The Next Time Is In Four Days And A Man Of Forty-Three Says The Figure Is Derivable From The Rate, And A Man Of Thirty-One Says Nobody On That Bank Has Answered The Offer And He Is Not Going To Stop Saying The Figure, And A Woman Of Sixty-Four Says The Nineteen Years Are Hers And Not A Leaf
 
 Sixth day of the hundred and fortieth week. His five hundred and eightieth morning. Four hundred and thirty days after the settlement. The fever seventy-eight weeks and one day. Three hundred and eighty-four days since the division. Three hundred and thirty days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was the second morning of a bank holding there. The man of forty-three gave the reading, the working, the figure for the fever, and the figure for the next time, and said that the figure for the next time was derivable from the rate and did not need him.
+The bank was about sixteen inches over the top step at about the seventh hour and it was the first morning of a bank sitting at that figure since the water came off. The man of forty-three gave the reading, the working, the figure for the fever, and the figure for the next time, and said that the figure for the next time was derivable from the rate and did not need him.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and on this Sunday the fourth thing was that he does not have to be asked, which is the first time the fourth thing has been nothing in nineteen years.
 
-“*About sixteen inches at the seventh hour, and it is five days of the coming back, and that is a full bank and it holds, and about fifty of those ninety steps are under this morning.*”
+“*About sixteen inches at the seventh hour, and it is four days of the coming back, and that is a full bank, and about sixty of those ninety steps are under this morning.*”
 
-“*And about fifty of those ninety steps are under this morning, and I have said about fifty, and that is the smallest figure I have given this week and I am not going to make it smaller.*”
+“*And I have said about sixty, and I am not going to say a smaller figure to be kind to anybody.*”
 
-“*And the next time about ninety steps can be walked is in four days, and the morning it is full is today, and four days after today is the day after tomorrow.*”
+“*And the next time about ninety steps can be walked is in four days, and the morning it is full is today, and four days after today is Thursday.*”
 
 “*And I want that said in about nine ears, because that figure is not mine any more. It is four inches a day and a full bank holds, and anybody here can work it out without me.*”
 

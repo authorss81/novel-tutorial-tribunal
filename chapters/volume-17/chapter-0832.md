@@ -4,13 +4,13 @@ First day of the hundred and forty-first week. His five hundred and eighty-secon
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was the fourth morning of a bank sitting at that figure. The man of forty-three gave the reading and the working and the figure for the next time, and gave the figure for the next time in a new way, and said that the new way was the old way with a day added.
+The bank was about sixteen inches over the top step at about the seventh hour and it was the third morning of a bank sitting at that figure. The man of forty-three gave the reading and the working and the figure for the next time, and gave the figure for the next time in a new way, and said that the new way was the old way with a day added.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday, and he is not going to give it this week.
 
 “*Sixteen inches over the top step at the seventh hour, and that is all of it.*”
 
-“*And it is seven days of the coming back, and a bank that is full holds at sixteen until it comes off.*”
+“*And it is six days of the coming back, and a bank that is full holds at sixteen until it comes off.*”
 
 “*And the next time about ninety steps can be walked is in two days, and that is tomorrow, and I gave you three days for that yesterday morning and the three was right.*”
 

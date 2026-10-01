@@ -1,18 +1,18 @@
-# Chapter 828: Fourth Day Of The Hundred And Fortieth Week, And A Friday, And Twelve Inches And Three Days Of The Coming Back, And A Boy Of Thirteen Asks His Question Again At The Ninth Hour And A Woman Of Twenty-Eight Answers It Out Loud, And A Man Of Thirty-One Says The Thing He Built Was A Map And Not A Source, And A Woman Of Twenty-Nine Says He Is Not Going To Be Allowed To Say It In That Order
+# Chapter 828: Fourth Day Of The Hundred And Fortieth Week, And A Friday, And Eight Inches And Two Days Of The Coming Back, And A Boy Of Thirteen Asks His Question Again At The Ninth Hour And A Woman Of Twenty-Eight Answers It Out Loud, And A Man Of Thirty-One Says The Thing He Built Was A Map And Not A Source, And A Woman Of Twenty-Nine Says He Is Not Going To Be Allowed To Say It In That Order
 
 Fourth day of the hundred and fortieth week. His five hundred and seventy-eighth morning. Four hundred and twenty-eight days after the settlement. The fever seventy-seven weeks and six days. Three hundred and eighty-two days since the division. Three hundred and twenty-eight days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about twelve inches over the top step at about the seventh hour and had been since the middle of the night. The man of forty-three gave the reading and the working, said the bank will be full tomorrow, and said the next time, and gave it as a figure with a rate on it and said so.
+The bank was about eight inches over the top step at about the seventh hour, and it was two days of the coming back, and about eighty of those steps were under this morning. The man of forty-three gave the reading and the working, said the bank will be full in two days, and said the next time, and gave it as a figure with a rate on it and said so.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and on this morning he gave the reading and the working and the figure for the next time and then stopped, which is the first time in nineteen years the fourth thing has been nothing.
 
-“*About twelve inches at the seventh hour, and it is three days of the coming back, and about seventy of those ninety steps are under this morning.*”
+“*About eight inches at the seventh hour, and it is two days of the coming back, and about eighty of those ninety steps are under this morning.*”
 
-“*And it will be a full bank tomorrow at the seventh hour, and it will hold there until the day after that, and the day after that is the twenty-first morning.*”
+“*And it will be a full bank in two days at the seventh hour, and it will hold there until the day after that, and the day after that is the twenty-first morning.*”
 
-“*And the next time about ninety steps can be walked is in one day, and that is one day after the morning it is full, and the morning it is full is tomorrow.*”
+“*And the next time about ninety steps can be walked is in six days, and that is six days after the morning it is full, and the morning it is full is the day after tomorrow.*”
 
 “*And that is a figure with a rate on it, so anybody can work the next one out from the rate without asking me, and about four of you have already done it in the lane and about four of you have not.*”
 

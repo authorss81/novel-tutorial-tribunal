@@ -1,22 +1,22 @@
-# Chapter 824: Seventh And Last Day Of The Hundred And Thirty-Ninth Week, And A Monday, And A Full Bank Holds For The Third Morning And Then Comes Off Tomorrow For The Twentieth Time, And A Man Of Thirty-Four In An Ash Is Ninety-Three Days Into A Figure And Says What A Bridge Has To Do With Him, And A Man Of Fifty-Four Decides He Is Not Going To Read The Fourth Leaf Today
+# Chapter 824: Seventh And Last Day Of The Hundred And Thirty-Ninth Week, And A Monday, And A Full Bank Holds For The Third Morning And Then Comes Off In Two Days For The Twentieth Time, And A Man Of Thirty-Four In An Ash Is A Hundred And Ninety-Four Days Into A Figure And Says What A Bridge Has To Do With Him, And A Man Of Fifty-Four Decides He Is Not Going To Read The Fourth Leaf Today
 
 Seventh and last day of the hundred and thirty-ninth week. His five hundred and seventy-fourth morning. Four hundred and twenty-four days after the settlement. The fever seventy-seven weeks and two days. Three hundred and seventy-eight days since the division. Three hundred and twenty-four days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was the third morning of a bank holding there. The man of forty-three gave the reading and the working, said what tomorrow was, and said the number out loud, because it is the twentieth time and he has given the number for the last four.
+The bank was about sixteen inches over the top step at about the seventh hour and it was the third morning of a bank holding there. The man of forty-three gave the reading and the working, said what the day after tomorrow was, and said the number out loud, because it is the twentieth time and he has given the number for the last four.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and one of the three this week was a thing on a flat with a nail in it, which is the first time in nineteen years one of the three has not been about the landing.
 
 “*About sixteen inches at the seventh hour, and it is six days of the coming back, and that is a full bank and it holds.*”
 
-“*And it comes off tomorrow at about the sixth hour, and that is the twentieth time since the Saturday of the hundred and nineteenth week.*”
+“*And it comes off in two days at about the sixth hour, and that is the twentieth time since the Saturday of the hundred and nineteenth week.*”
 
 “*And it is eight days on from the Tuesday of the hundred and thirty-ninth week, and the nineteen before it were eight days apart, and four of the twenty at the start were not.*”
 
-“*And it has been off since about the fifth hour on the four mornings of it, and tomorrow it will be off since about the fifth, and I have said that four times.*”
+“*And it has been off since about the fifth hour on the four mornings of it, and in two days it will be off since about the fifth, and I have said that four times.*”
 
-“*And the next time about ninety steps can be walked after that is in four days, and that is four days after the morning it is full, and the morning it is full was the fourth day of the hundred and thirty-ninth week.*”
+“*And the next time about ninety steps can be walked after that is in ten days, and that is four days after the morning it is full, and the morning it is full was the fourth day of the hundred and thirty-ninth week.*”
 
 “*And I have had four mornings like this in nineteen years and in three of the four there was nobody else standing on this bank, and I am telling about nine of you that I have noticed the difference and I do not know what to do with it.*”
 
@@ -112,7 +112,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*A hundred and twenty-four days. A hundred and twenty-four is eight hundred and twenty-four less seven hundred, and none of it is an answer.*”
 
-“*And it is the last day of this week, and tomorrow the water comes off all ninety for the twentieth time.*”
+“*And it is the last day of this week, and the day after tomorrow the water comes off all ninety for the twentieth time.*”
 
 “*About nine of you are going to be standing on ninety dry steps at about the sixth hour, and I am not going to be one of them.*”
 
@@ -134,7 +134,7 @@ About nine of them were on that bank at about the eleventh hour of the last day 
 
 The fever was seventy-seven weeks and two days old. He had been in that county two hundred and seventy days, and the cut across that palm was a hundred and thirty-nine days old, and a hundred and twenty-four days after an offer that was asked at the seven-hundredth and has not been answered.
 
-A full bank held for the third morning, and the man of forty-three said the water comes off tomorrow at about the sixth hour for the twentieth time, eight days on from the Monday, and gave the number out loud.
+A full bank held for the third morning, and the man of forty-three said the water comes off in two days at about the sixth hour for the twentieth time, eight days on from the Tuesday, and gave the number out loud.
 And a man of thirty-four in an ash, a hundred and ninety-four days in, came up that bank unasked and said a bridge has nothing to do with him and that he is the only one of the four of them who loses something if the fourth leaf is accepted.
 
 A man of fifty-four said three leaves is a morning and four is not, and said he would decide on the second day of the hundred and fortieth week, and gave the figure for his own run of mornings and the hundredth morning he remembers.

@@ -1,26 +1,26 @@
-# Chapter 825: First Day Of The Hundred And Fortieth Week, And A Tuesday, And The Water Comes Off All Ninety Steps For The Twentieth Time And Has Been Off Since About The Fifth Hour, And A Man Of Thirty-One Goes Up That Cart Road At The Seventh Hour And Comes Back Down It, And A Woman Of Twenty-Nine In A Reed Says The Thing He Came Back With Is Not An Answer And Is Not Nothing
+# Chapter 825: First Day Of The Hundred And Fortieth Week, And A Tuesday, And A Full Bank Holds For The Fourth Morning And Comes Off Tomorrow For The Twentieth Time, And A Man Of Thirty-One Goes Up That Cart Road At The Seventh Hour And Comes Back Down It, And A Woman Of Twenty-Nine In A Reed Says The Thing He Came Back With Is Not An Answer And Is Not Nothing
 
 First day of the hundred and fortieth week. His five hundred and seventy-fifth morning. Four hundred and twenty-five days after the settlement. The fever seventy-seven weeks and three days. Three hundred and seventy-nine days since the division. Three hundred and twenty-five days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was off all ninety steps at about the sixth hour, and it had been off since about the fifth. The man of forty-three gave the reading and the working, gave the ordinal out loud because it is the twentieth time, and gave the figure for the next time, which is a figure with a rate on it and is therefore derivable.
+The bank was about sixteen inches over the top step at about the seventh hour and it was the fourth morning of a bank sitting at that figure. The man of forty-three gave the reading and the working, said what tomorrow was, gave the ordinal out loud because tomorrow is the twentieth time, and gave the figure for the next time, which is a figure with a rate on it and is therefore derivable.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning and none of them about the water. He named a stone on that bank on the Sunday of the hundred and thirty-fifth week and about nine of them walk past it.
 
-“*Off all ninety at about the sixth hour, and it has been off since about the fifth, and that is the twentieth time since the Saturday of the hundred and nineteenth week.*”
+“*About sixteen inches at the seventh hour, and it is seven days of the coming back, and that is a full bank and it holds.*”
 
-“*And it came off yesterday on the Monday, and this is eight days on from that.*”
+“*And it comes off tomorrow at about the sixth hour, and that is the twentieth time since the Saturday of the hundred and nineteenth week.*”
 
-“*The nineteen before it were eight days apart, and four of the twenty at the start were not.*”
+“*And it is eight days on from the Tuesday of the hundred and thirty-ninth week, and the nineteen before it were eight days apart, and the four at the start were not.*”
 
 “*And I have said that four times since the seventh day of the hundred and thirty-seventh week, and I am not going to say it a fifth.*”
 
-“*Four inches a day is the working underneath the holding, and it will be about four inches and eight and twelve and sixteen on the mornings of this week.*”
+“*Four inches a day is the working underneath the holding, and it will be about four inches and eight and twelve and sixteen on the mornings after tomorrow.*”
 
-“*And the next time about ninety steps can be walked is in four days, and that is four days after the morning it is full.*”
+“*And the next time about ninety steps can be walked after that is in nine days.*”
 
-“*And the morning it will be full is the fourth morning of this week.*”
+“*And that is tomorrow plus eight, and tomorrow is the twentieth and the one after that is the twenty-first, eight days on.*”
 
 “*I want that said plainly, because a figure with a rate on it has its next one worked out from the rate.*”
 
@@ -172,13 +172,13 @@ Then a man of thirty-one came to the end of it and said what he wanted, what he 
 
 “*And I am not going to spend Wednesday on that, and I am telling about nine of you that I have already thought about spending Wednesday on it.*”
 
-About nine of them were on that bank at about the eleventh hour of a Tuesday with ninety cut steps dry under them for the twentieth time. A man of thirty-one had gone up four miles and come back down and said a child of six was sitting up and that nobody had treated her, and a woman in a reed had said that was not an answer and was not nothing.
+About nine of them were on that bank at about the eleventh hour of a Tuesday with a full bank still over the top step above them, one morning short of the twentieth time. A man of thirty-one had gone up four miles and come back down and said a child of six was sitting up and that nobody had treated her, and a woman in a reed had said that was not an answer and was not nothing.
 
 ---
 
 The fever was seventy-seven weeks and three days old. He had been in that county two hundred and seventy-one days, and the cut across that palm was a hundred and forty days old, and a hundred and twenty-five days after an offer that was asked at the seven-hundredth and has not been answered.
 
-The water came off all ninety steps for the twentieth time since the Saturday of the hundred and nineteenth week, eight days on from the Monday, and the man of forty-three gave the figure for the next time as a figure with a rate on it.
+The water did not come off all ninety steps at about the sixth hour, and the man of forty-three gave the figure for the next time as a figure with a rate on it, and said it comes off tomorrow for the twentieth time, eight days on from the Tuesday.
 And a man of thirty-one said a child of six four miles up that cart road was sitting up and that nobody had treated her and that he had looked for a line with a date on it and it was not there.
 
 A woman of twenty-nine in a reed said the second half of that first, that he had gone to check a description and not to contradict a document, and said us is four people and it is not going to be five.

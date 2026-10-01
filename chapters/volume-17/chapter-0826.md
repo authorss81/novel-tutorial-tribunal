@@ -1,18 +1,22 @@
-# Chapter 826: Second Day Of The Hundred And Fortieth Week, And A Wednesday, And About Four Inches Of Water Back On The Flat And Not On The Steps, And The Fourth Leaf Is Read Whole At About The Tenth Hour And It Is The Price And Not A Threat, And A Man Of Sixty-Four Says The Nineteen Years She Gave Away Are Not The Same Thing As This, And A Woman Of Twenty-Eight Says She Is Going To Look At The Second Of Her Two Things Today
+# Chapter 826: Second Day Of The Hundred And Fortieth Week, And A Wednesday, And The Water Comes Off All Ninety Steps For The Twentieth Time And Has Been Off Since About The Fifth Hour, And The Fourth Leaf Is Read Whole At About The Tenth Hour And It Is The Price And Not A Threat, And A Man Of Sixty-Four Says The Nineteen Years She Gave Away Are Not The Same Thing As This, And A Woman Of Twenty-Eight Says She Is Going To Look At The Second Of Her Two Things Today
 
 Second day of the hundred and fortieth week. His five hundred and seventy-sixth morning. Four hundred and twenty-six days after the settlement. The fever seventy-seven weeks and four days. Three hundred and eighty days since the division. Three hundred and twenty-six days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about four inches over the top step at about the seventh hour, and it was one day of the coming back, and about ninety of those steps were dry at the sixth hour and are dry still. The man of forty-three gave the reading and the working and the figure for the next time.
+The bank came off at about the sixth hour and all ninety of those steps were walkable by about the seventh, and it had been off since about the fifth. The man of forty-three gave the hour and the count, gave the ordinal out loud because it is the twentieth time, and gave the figure for the next time.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and the third of them this week was a mark at the bottom of a piece of paper, and that is two of the three about a thing that is not the landing.
 
-“*About four inches at the seventh hour, and it is one day of the coming back, and about ninety of those steps were dry at about the sixth hour and are dry still at the seventh.*”
+“*Off all ninety at about the sixth hour, and it has been off since about the fifth, and that is the twentieth time since the Saturday of the hundred and nineteenth week.*”
 
-“*And the next time about ninety steps can be walked is in three days, and that is three days after the morning it is full, and the morning it is full is the second day of this week.*”
+“*Eight days on from the Tuesday of the hundred and thirty-ninth week, and I worked that out on the flat this morning with a nail and not on a water-stone, and the nineteen before it were eight days apart.*”
 
-“*And that figure is the same as the days of the coming back for about three mornings and then it is not, and I am not going to explain that to about nine of you.*”
+“*And the next time about ninety steps can be walked is in eight days, and that is eight days after this morning.*”
+
+“*And four inches a day is the working underneath it, so it will be about four inches and eight and twelve and sixteen on the four mornings after this one, and on the fifth it is a full bank and it holds.*”
+
+“*And that figure is the same as the days of the coming back for about four mornings and then it is not, and I am not going to explain that to about nine of you.*”
 
 Then at about the tenth hour a man of fifty-four said he had decided, and a man of sixty-one read the fourth leaf whole on that flat in about nine ears, and read it once and then read the two lines that matter again.
 
@@ -148,7 +152,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*And the right of refusal is not restored this morning. A gap that nobody can put a day in is not it, and a day that cannot be taken off a person is not it, and both of those are on a piece of paper and not in a mouth.*”
 
-About nine of them were on that bank at about the eleventh hour of a Wednesday with four inches of water back on the flat and ninety steps dry, and the fourth leaf read whole at about the tenth hour, and line nine read twice. A woman of sixty-four had said the nineteen years she gave away in the same week were not the same thing as the eleventh line, and a man of thirty-four in an ash had said that the eleventh line means there is no such thing as being wrong about this.
+About nine of them were on that bank at about the eleventh hour of a Wednesday with ninety cut steps dry under them for the twentieth time, and the fourth leaf read whole at about the tenth hour, and line nine read twice. A woman of sixty-four had said the nineteen years she gave away in the same week were not the same thing as the eleventh line, and a man of thirty-four in an ash had said that the eleventh line means there is no such thing as being wrong about this.
 
 ---
 

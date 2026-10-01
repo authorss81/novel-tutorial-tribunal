@@ -1,20 +1,18 @@
-# Chapter 829: Fifth Day Of The Hundred And Fortieth Week, And A Saturday, And A Full Bank Holds And The Fever Is Seventy-Eight Weeks Old Exactly, And A Man Of Forty-Four Says The Road Is The Thing To Argue About And A Man Of Thirty-One Says His Own Standing Is The Thing To Argue About, And About Nine Of Them Are Asked Which Of The Two Matters More And Nobody Answers
+# Chapter 829: Fifth Day Of The Hundred And Fortieth Week, And A Saturday, And Twelve Inches And Three Days Of The Coming Back With The Bank Full Tomorrow, And The Fever Is Seventy-Eight Weeks Old Exactly, And A Man Of Forty-Four Says The Road Is The Thing To Argue About And A Man Of Thirty-One Says His Own Standing Is The Thing To Argue About, And About Nine Of Them Are Asked Which Of The Two Matters More And Nobody Answers
 
 Fifth day of the hundred and fortieth week. His five hundred and seventy-ninth morning. Four hundred and twenty-nine days after the settlement. The fever seventy-eight weeks old. Three hundred and eighty-three days since the division. Three hundred and twenty-nine days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was a full bank and it held. The man of forty-three gave the reading and the working, and gave the figure for the fever out loud before about nine of them had worked it out, and said why on a Saturday, and gave the figure for the next time.
+The bank was about twelve inches over the top step at about the seventh hour and had been since the middle of the night. The man of forty-three gave the reading and the working, and gave the figure for the fever out loud before about nine of them had worked it out, and said why on a Saturday, and gave the figure for the next time.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and he has given the third whole number of weeks of the fever out loud twice now, and both times it was a Saturday, and about four of you noticed that both times.
 
-“*About sixteen inches at the seventh hour, and it is four days of the coming back, and that is a full bank, and it is the second morning of a bank sitting at that figure since the fourth day of the hundred and fortieth week.*”
+“*About twelve inches at the seventh hour, and it is three days of the coming back, and about seventy of those ninety steps are under this morning.*”
 
-“*A bank that is full holds at sixteen until it comes off, and about sixty of those ninety steps are under this morning.*”
+“*And it will be a full bank tomorrow at the seventh hour, and a bank that is full holds at sixteen until it comes off.*”
 
-“*I have said about sixty, and I am not going to say a smaller figure to be kind to anybody.*”
-
-“*And the next time about ninety steps can be walked is in four days, and that is four days after the morning it is full, and the morning it is full is today.*”
+“*And the next time about ninety steps can be walked is in five days, and that is five days after the morning it is full, and the morning it is full is tomorrow.*”
 
 “*And here is a figure, and I am giving it before any of you have worked it out, because I did it on Friday night and I have been sitting on it since.*”
 
