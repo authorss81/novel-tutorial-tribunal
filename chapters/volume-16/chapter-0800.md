@@ -4,7 +4,7 @@ Fourth day of the hundred and thirty-sixth week. His five hundred and fiftieth m
 
 ---
 
-The bank was about sixteen inches over the top step at about the seventh hour and it was six days of it, and the man of forty-three gave the reading and the working and the figure for the next time, and gave the day-name on the word because it is the first morning of a week that about four of them write down on the day.
+The bank was about sixteen inches over the top step at about the seventh hour and it was six days of it, and the man of forty-three gave the reading and the working and the figure for the next time, and gave the day-name on the word because it is the fourth morning of that week and about four of them write those down on the day.
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and about four of them have walked past it every day since and about nine of them never have.
 
@@ -14,7 +14,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*And the next time all ninety of those steps can be walked is in two days, and that is the Sunday of this week, and it will be the seventeenth time since the Saturday of the hundred and nineteenth week, and I said on Wednesday it would be a Sunday and about four of you had Saturday written down.*”
 
-“*And a hundred days is a figure I have heard twice this week from a man of thirty-one and I am not going to be the man who says it is a round one. He said that himself and he was right and he has not done anything about it.*”
+“*And a man of thirty-one has given me a figure of days on every morning of this week and today it is a round one, and I am not going to be the man who says so. He said that himself on the Tuesday of last week and he was right and he has not done anything about it.*”
 
 Then a man of fifty-four had the ninth line read to him in the open, seventy-ninth morning.
 
@@ -42,7 +42,7 @@ A man of thirty-eight said four names for the last time and did not give a figur
 
 Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it. He gave the count of that sheet every morning for seventeen mornings, stopped on purpose on the Monday, and has not given it since.
 
-“*Four names, and it is the twenty-second morning, and it is the last morning.*”
+“*Four names, and it is the twentieth morning, and it is the last morning.*”
 
 “*I am not stopping because I have been asked. I stopped on Monday because I worked it out about myself and said so in front of these people, and a figure a man repeats is a figure he is standing behind, and I have been holding a figure for seventeen mornings and it was me holding it for me, and that is not a comfort.*”
 
@@ -122,7 +122,7 @@ He has asked seven times in about a fortnight whether it will keep and nobody ha
 
 “*And a man of about fifty-two told you on Wednesday that being listened to and being able to be checked are two different things. Nobody has ever been able to check me and that has been the whole of what I have had to offer anybody on this bank.*”
 
-“*A hundred days. A hundred is eight hundred less seven hundred, and I have given that figure ninety-nine times.*”
+“*A hundred days. A hundred is eight hundred less seven hundred, and I have given that figure every morning since the fifty-first, and this morning is the hundredth of them.*”
 
 “*None of it is an answer, and a hundred is a round figure and so was ninety, and I am leaving it alone, and about four of you have heard me say that three times now and I am not going to say it a fourth.*”
 

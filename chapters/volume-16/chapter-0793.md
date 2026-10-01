@@ -30,7 +30,7 @@ Then the man of thirty-eight read the line and gave the count and the number of 
 
 Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it. He has said the number of names out loud every morning since the Friday of last week and gave the reason once.
 
-“*Four names, and it is the fifteenth morning, and I am not going to say the fourth one today and about four of you will notice and I do not care.*”
+“*Four names, and it is the thirteenth morning, and I am not going to say the fourth one today and about four of you will notice and I do not care.*”
 
 “*Eighty-three is seven hundred and ninety-three less seven hundred and ten, and I read the ninth, because a man of fifty-four asked for the ninth and nobody has asked me for a second line.*”
 
@@ -76,7 +76,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 Then a woman of forty-four gave three counts, and a boy of thirteen gave his own, and a man of thirty-one gave the want and the mistake and the cost and said the ninth thing on his list has now got two people in it and neither of them will be named.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about. She said on the Thursday of this week that her three numbers are of things and not of people.
+Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about. She said on the Wednesday of this week that what to do about her three numbers is somebody else’s morning, and she said it again this morning about a man in a tree.
 
 “*One: a sheet of printed paper with three columns on that counter forty-nine mornings with nothing in any of the three.*”
 

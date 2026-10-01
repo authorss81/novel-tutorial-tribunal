@@ -34,7 +34,7 @@ Garrin Tolley is thirty-eight and has a child of nine and a board in the inside 
 
 “*A man of fifty-four asked for the whole of it this morning and I have read the whole of it and I did not give a figure yesterday and I am not giving one today, and both of those are mine.*”
 
-“*The number of names is four. That is the eighteenth morning and I am giving it because a man of fifty-four asked out loud at the top of a cut for the whole of the sheet and I am not a man who stops reading when it is asked for.*”
+“*The number of names is four. That is the seventeenth morning and I am giving it because a man of fifty-four asked out loud at the top of a cut for the whole of the sheet and I am not a man who stops reading when it is asked for.*”
 
 “*The board has been in this coat ninety-nine days, and ninety-nine is seven hundred and ninety-seven less six hundred and ninety-eight, and I gave that figure eighteen days running and I gave the last one yesterday and it was the last one.*”
 

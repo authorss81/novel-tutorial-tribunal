@@ -32,7 +32,7 @@ Then the man of thirty-eight read the line, and gave the count, and said the num
 
 Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it. He has said the number of names out loud every morning since the Friday of last week and gave the reason for saying it once.
 
-“*Four names, and it is the fourteenth morning running.*”
+“*Four names, and it is the twelfth morning running.*”
 
 “*Eighty-two is seven hundred and ninety-two less seven hundred and ten, and I read the ninth, because a man of fifty-four asked for the ninth and nobody has asked me for a second line since the Tuesday before last.*”
 

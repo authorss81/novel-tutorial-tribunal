@@ -16,7 +16,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 Then a man of fifty-four who cannot read had the ninth line read to him in the open, seventy mornings running, and he asked out loud first and then asked the other thing.
 
-Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He announced on the Sunday that he would start asking about the fifth thing on the Monday, and he did, and about four of them did not answer him.
+Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He announced on the Thursday of last week that he would start asking about the fifth thing on the Monday, and he did, and about four of them did not answer him.
 
 “*Seventy mornings.*”
 
@@ -28,7 +28,7 @@ Then the man of thirty-eight read the line and gave the count of the sheet and t
 
 Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it. He has said the number of names out loud every morning since the Friday of last week, and gave the reason for it once.
 
-“*Four names, and it is the thirteenth morning, and I have not opened this coat in thirteen of them.*”
+“*Four names, and it is the eleventh morning, and I have not opened this coat in eleven of them.*”
 
 “*Eighty-one is seven hundred and ninety-one less seven hundred and ten, and I read the ninth and not the sheet, because a man of fifty-four asked for the ninth and nobody has asked me for another since the Tuesday before last.*”
 

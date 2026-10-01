@@ -6,7 +6,7 @@ Sixth day of the hundred and thirty-fifth week. His five hundred and forty-fifth
 
 The water was about four inches over the bottom of that cut at about the seventh hour, one day of the coming back, and the man of forty-three said the figure and the working and the day.
 
-Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and about four of them walk past it.
+Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of last week and about four of them walk past it.
 
 “*Four inches over the bottom of that cut at the seventh hour, and it is one day since it came off, and those ninety steps can be walked from the top down to about the fortieth one.*”
 
@@ -28,7 +28,7 @@ Then the man of thirty-eight read the line, gave the count, and said the number 
 
 Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it. He has said the number of names out loud every morning since the Friday of a fortnight ago and gave the reason once.
 
-“*Four names, and it is the seventeenth morning, and it is the seventeenth and it is not going to stop being four because I say it every morning.*”
+“*Four names, and it is the fifteenth morning, and it is the fifteenth and it is not going to stop being four because I say it every morning.*”
 
 “*Eighty-five is seven hundred and ninety-five less seven hundred and ten, and I read the ninth, and nobody has asked me for a second line since the Tuesday of the week before last.*”
 
@@ -86,7 +86,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirte
 
 “*It is not. It is five more than Wednesday, and I have been counting since a Monday with a crumb of bread in my hand and I have never once decided anything.*”
 
-Wat Marshe is thirteen and has been in this county a hundred and forty-two days. He carried five counts for about nine weeks, put the sixth down on the Thursday of the week before last, and held nineteen minutes at the top of ninety cut steps on the Friday of the week before last.
+Wat Marshe is thirteen and has been in this county a hundred and forty-two days. He carried five counts for about nine weeks, put the sixth down on the Thursday of last week, and held nineteen minutes at the top of ninety cut steps on the Friday of last week.
 
 “*A hundred and forty-two days, and I counted them in the lane and it is two more than Friday.*”
 
@@ -98,7 +98,7 @@ Ilyan Vester is thirty-one and has been in this county two hundred and forty-one
 
 “*The want is unchanged and I am going to keep saying it is unchanged until it stops being true, and it is going to stop being true, and I do not know how.*”
 
-“*The mistake is the eleventh of the same mistake and it is one day old. I read that to you this morning in a list of seven things and I told you the list was the case, and about four of you wrote it down, and a woman of sixty-four then read out nineteen words from nineteen years ago that are a better case than anything on my list.*”
+“*The mistake is the eleventh of the same mistake and it is one day old. I read that to you this morning in a list of six things and I told you the list was the case, and about four of you wrote it down, and a woman of sixty-four then read out nineteen words from nineteen years ago that are a better case than anything on my list.*”
 
 “*Ninety-five days. Ninety-five is seven hundred and ninety-five less seven hundred, and none of it is an answer and I have said that ninety-four times.*”
 

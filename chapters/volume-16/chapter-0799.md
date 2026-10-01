@@ -50,7 +50,7 @@ Nevin Trask is sixty-one and has kept a book of heads and carts in this county f
 
 Then a woman of twenty-nine came up that bank and read the ninth line in the open because she can read, and was not asked anything, and said one word on her own and nobody repeated it.
 
-Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy days, and her name is in ink on that ninth line and there has never been a day against it. She said five words out of that reed on the Saturday of the hundred and thirty-third week, which is seven hundred and eighty, and they were that nobody asked any of us, and she answered one word to a woman of forty about ground on the Monday of that week.
+Marda Vell is twenty-nine and has been in a reed about a hundred yards off that drain a hundred and seventy days, and her name is in ink on that ninth line and there has never been a day against it. She said five words out of that reed on the Saturday of the hundred and thirty-third week, which is seven hundred and eighty, and they were that nobody asked any of us, and she answered one word to a woman of forty about ground on the Monday of the week after, which is seven hundred and eighty-nine.
 
 “*I can read. Nobody knew that until this morning, and I have been in that reed a hundred and seventy days and about four of you have walked past me and looked down, and not one of you ever asked whether I could read.*”
 

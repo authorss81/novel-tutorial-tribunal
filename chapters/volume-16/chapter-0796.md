@@ -6,7 +6,7 @@ Seventh day of the hundred and thirty-fifth week. His five hundred and forty-six
 
 The water was about eight inches on that cut at about the seventh hour, two days of the coming back, and the man of forty-three said the figure and gave the day-names in order because it is the last day of a week.
 
-Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and about four of them walk past it every day and about nine of them do not.
+Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of last week and about four of them walk past it every day and about nine of them do not.
 
 “*Eight inches at the seventh hour, and it is two days since it came off, and about the first seventy of those ninety steps can be walked.*”
 
@@ -38,7 +38,7 @@ Garrin Tolley is thirty-eight and has a child of nine and a board in the inside 
 
 “*He is right and it is the second time he has been right at me and about four of you have noticed both.*”
 
-“*So I am not giving the count today. I am giving the number of names, which is four, and it is the eighteenth morning of that, and I am giving it because a man of thirty-eight who can be asked should be able to stop.*”
+“*So I am not giving the count today. I am giving the number of names, which is four, and it is the sixteenth morning of that, and I am giving it because a man of thirty-eight who can be asked should be able to stop.*”
 
 “*The board has been in this coat ninety-eight days, and ninety-eight is seven hundred and ninety-six less six hundred and ninety-eight, and I have given that figure on every morning of the seventeen before this one and I am giving it today because it is the last one I am going to give.*”
 
@@ -46,7 +46,7 @@ Garrin Tolley is thirty-eight and has a child of nine and a board in the inside 
 
 Then a woman of forty said out loud that a case is not a set of figures, and said how long she has been saying it, and asked a man of thirty-one a question in front of about nine people.
 
-Wenna Callow is forty and has asked for a day against a name for eleven years and has never once asked for a reason instead. She went down that bank on the Monday of the week before last and asked a woman in a reed one question about ground and got one word back.
+Wenna Callow is forty and has asked for a day against a name for eleven years and has never once asked for a reason instead. She went down that bank on the Monday of last week and asked a woman in a reed one question about ground and got one word back.
 
 “*I have said since Wednesday that a case is not a set of figures, and I said it to myself on Wednesday and I am saying it out loud this morning for the first time, and I am about nine days late.*”
 
@@ -74,7 +74,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 Then a woman of forty-four gave three counts, and a boy of thirteen gave his own and gave the second figure, and a man of thirty-one gave the want and the mistake and the cost and said the word *figure* out loud as a thing he has been doing.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about. She said on the Monday of this week that a case is not a set of figures, and that she is nine days late saying it.
+Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about. She said on the Wednesday of this week that what to do about her three numbers is somebody else’s morning, and she said it again this morning about a figure a man of thirty-eight has stopped giving.
 
 “*One: a sheet of printed paper with three columns on that counter fifty-two mornings with nothing in any of the three.*”
 
@@ -86,7 +86,7 @@ Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirte
 
 “*They are all of things. That is what my three numbers are. They are not of people and they never were, and I have said that every morning for a fortnight and nobody has argued with me about it because I have not let anybody get past the first one.*”
 
-Wat Marshe is thirteen and has been in this county a hundred and forty-three days. He carried five counts for about nine weeks, put the sixth down on the Thursday of the week before last, and has been counting the mornings about four of them repeat a figure since Saturday.
+Wat Marshe is thirteen and has been in this county a hundred and forty-three days. He carried five counts for about nine weeks, put the sixth down on the Thursday of last week, and has been counting the mornings about four of them repeat a figure since Saturday.
 
 “*A hundred and forty-three days, and I counted them in the lane and it is one more than Saturday.*”
 

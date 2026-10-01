@@ -48,7 +48,7 @@ Simon Rook is about fifty-two and cannot see well and is the fifth line of one o
 
 “*And I had three of those wrong by a day when I started saying them, and about four of you heard me, and I am not going to leave that in the air.*”
 
-“*I said ninety-one for that counter this morning and it is ninety-three. Ninety-one is the figure for Tuesday. I have been carrying a day from yesterday in a thing I said I was checking, and I caught it because a man of thirteen has been standing about four feet from me counting something else, and he did not say a word.*”
+“*I said ninety-two for that counter this morning and it is ninety-three. Ninety-two is the figure for Tuesday. I have been carrying a day from yesterday in a thing I said I was checking, and I caught it because a man of thirteen has been standing about four feet from me counting something else, and he did not say a word.*”
 
 “*That is the whole of the argument for doing this in the open and it cost me about four seconds of standing there.*”
 
@@ -100,7 +100,7 @@ Wat Marshe is thirteen and has been in this county a hundred and forty-five days
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and forty-four days, two hundred and forty-four being seven hundred and ninety-eight less five hundred and fifty-four. The cut across that palm is a hundred and thirteen days old, a hundred and thirteen being seven hundred and ninety-eight less six hundred and eighty-five, and he has asked six times in about a fortnight whether it will keep and nobody has said.
 
-“*A man of about fifty-two has checked eleven of my figures out loud in front of about nine of you and ten of them are right and one of them he cannot check at all, and he said that before anybody used it, which is what he said he would do on the Thursday of the week before last.*”
+“*A man of about fifty-two has checked eleven of my figures out loud in front of about nine of you and every one of the eleven is right, and there is a twelfth he cannot check at all, and he said that before anybody used one of them, which is what he said he would do on the Thursday of the week before last.*”
 
 “*And a thing said four things back to me on Tuesday in about nine people’s hearing and said in the fourth of them that it read that line, and I have had two days with it and I still cannot do one single thing with it that anybody would take.*”
 
@@ -118,7 +118,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*A sheet with three columns and nothing in them. Four leaves with a number and no room and no names. Nine days on a fourth line. A line with no day on it. A mark. A sentence in a hand. A name in ink.*”
 
-“*Seven things and not one person, and I have walked about four miles and counted a strip of a bank in paces of two yards, and a man has checked eleven figures against four lines and the one figure that matters most is four hundred miles and he cannot check it.*”
+“*Seven things and not one person, and I have walked about three miles and counted a strip of a bank in paces of two yards, and a man has checked eleven figures against four lines and the one figure that matters most is four hundred miles and he cannot check it.*”
 
 “*I cannot win a case on the surviving record alone, and I am not going to stand on this bank and ask about nine of you to pretend otherwise, and nobody is going to be thanked for standing here while I say it.*”
 
@@ -136,4 +136,4 @@ A man of about fifty-two checked eleven figures out loud against four lines unde
 
 Nine people asked a woman of sixty-four to say a word again between the seventh hour and the ninth hour, and she said no nine times, and then she said that a gap is not the same as a wall.
 
-Seven things were on a list he made on Wednesday, and not one of them was a person, and he read all seven out loud on that bank this morning.
+Seven things were on a list he read out loud on that bank this morning, and not one of them was a person, and the list before it had six and was read three days ago.

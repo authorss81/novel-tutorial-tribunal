@@ -34,7 +34,7 @@ Then the man of thirty-eight read it at the bottom of the cut and gave the count
 
 Garrin Tolley is thirty-eight and has a child of nine, and there is a board in the inside of his coat with thirty-two notches cut in the edge of it. He read at the bottom of that cut this morning because a man of fifty-four asked to be where the paper is.
 
-“*Four names, and it is the sixteenth morning, and I said it yesterday from the top of that cut and I am saying it now from the bottom of it, and about four of you heard both and I am not going to give you the reason twice.*”
+“*Four names, and it is the fourteenth morning, and I said it yesterday from the top of that cut and I am saying it now from the bottom of it, and about four of you heard both and I am not going to give you the reason twice.*”
 
 “*Eighty-four is seven hundred and ninety-four less seven hundred and ten, and I read the ninth, and I read it down here because a man of fifty-four asked to be where the paper is.*”
 
