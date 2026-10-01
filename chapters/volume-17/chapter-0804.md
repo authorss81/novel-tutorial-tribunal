@@ -9,11 +9,11 @@ And the man of forty-three gave the reading and the working and said that the we
 
 Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and about four of them walk past it every day and one of them carried a cart up ninety steps on Tuesday with a bad knee.
 
-“*About eight inches at the seventh hour, and that is two days of the coming back, and it was off all ninety yesterday morning for the seventeenth time.*”
+“*About eight inches at the seventh hour, and that is two days of the coming back, and it was off all ninety on Sunday morning for the seventeenth time.*”
 
-“*Four inches a day is the working underneath the holding, and the next time is eight days from the Monday that closes this week.*”
+“*Four inches a day is the working underneath the holding, and the next time is six days from this morning, which is the Monday that closes this week.*”
 
-“*And that is the eighteenth time, and that is eight days from tomorrow and not eight days from yesterday.*”
+“*And that is the eighteenth time, and that is six days from this morning and not six days from tomorrow.*”
 
 “*And the week turned in the night. A man of forty-three has said a thing on this bank about three mornings a week for nineteen years and about four of you could do it in your sleep and I have never once had anybody do it for me.*”
 

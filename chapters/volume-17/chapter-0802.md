@@ -13,9 +13,9 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*Four inches a day going up is the working, and the last one was the Saturday of the hundred and thirty-fifth week, which is eight days ago.*”
 
-“*And the fifteen before that one was the Friday of the week before it, and that is eight days also, and the two before those were not eight.*”
+“*And the fifteen before that one was the Friday of the week before it, and that is eight days also, and the three at the head of it were not eight.*”
 
-“*And the next time is eight days from tomorrow, and that is the Monday that closes this week, and it will be the eighteenth time.*”
+“*And the next time is eight days from this morning, and that is the Monday that closes the week after, and it will be the eighteenth time.*”
 
 “*And I have got that from the last two and not from the first one and I have said so.*”
 

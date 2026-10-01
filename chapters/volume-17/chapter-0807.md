@@ -33,7 +33,7 @@ Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read
 
 “*And I have now been out there and I have not got to the bottom of it either.*”
 
-“*So the two of us have been to two hundred yards off that landing and neither of us can say what it is and I am a man who cannot read and he is a man who has been in an ash a hundred and seventy-five days and about four of you are the ones who have to go and look and I am not going to say that out loud twice this week.*”
+“*So the two of us have been to two hundred yards off that landing and neither of us can say what it is and I am a man who cannot read and he is a man who has been in an ash a hundred and seventy-seven days and about four of you are the ones who have to go and look and I am not going to say that out loud twice this week.*”
 
 Then a man of forty-three was asked by about nine of them to go and look, and he said no, and gave the whole of the reason in one sentence, and nobody treated it as an answer to a question.
 

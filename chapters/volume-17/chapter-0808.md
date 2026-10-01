@@ -11,7 +11,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*About sixteen inches at the seventh hour, and it is a full bank, and it is six days since it came off.*”
 
-“*And it went off all ninety on Sunday of this week for the seventeenth time and it goes on the Monday that closes this week for the eighteenth.*”
+“*And it went off all ninety on the Sunday of the week before for the seventeenth time and it goes on the Monday that closes this week for the eighteenth.*”
 
 “*Four inches a day is the working underneath the holding.*”
 
@@ -99,9 +99,9 @@ Tomas Elrick is forty-four and pushed a handcart up that cart road for twenty-si
 
 Then a boy of thirteen gave his own figure and a figure of about four of them, and said he was starting one, and a man of thirty-eight said what the last morning of a week is for.
 
-Wat Marshe is thirteen and has been in this county a hundred and fifty-four days, and he counted them in the lane this morning and it is one more than yesterday.
+Wat Marshe is thirteen and has been in this county a hundred and fifty-five days, and he counted them in the lane this morning and it is one more than yesterday.
 
-“*A hundred and fifty-four days.*”
+“*A hundred and fifty-five days.*”
 
 “*And I am not giving a count of about four of you this morning and I am starting a new one and I am saying both of those out loud on a Saturday because about four of you have been letting me have about a week of not doing it and I would rather somebody said something.*”
 

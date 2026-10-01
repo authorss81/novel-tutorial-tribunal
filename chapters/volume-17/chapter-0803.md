@@ -13,7 +13,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*Four inches a day is the working, and the first time off all ninety was the Saturday of the hundred and nineteenth week.*”
 
-“*And tomorrow is eight days from the last one, and the eighteenth time is the Monday that closes this week.*”
+“*And tomorrow is two days from the last one, and the eighteenth time is the Monday that closes the week after.*”
 
 “*And here is a thing I have not said before. A shaft comes out of a socket and everybody sees it. A thing that used to be let and is not let any more, nobody sees that at all.*”
 

@@ -15,7 +15,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*Four inches a day is the working underneath the holding, and a full bank holds at sixteen until it goes.*”
 
-“*And it went on the Sunday of this week for the seventeenth time and it goes again on the Monday that closes this week for the eighteenth.*”
+“*And it went on the Sunday of the week before for the seventeenth time and it goes again on the Monday that closes this week for the eighteenth.*”
 
 “*And the sixth thing I said on Wednesday morning was that there were about nine of us where there had been about four on Saturday. I said I did not do that. I want to correct about a fifth of it and I have had two days to think about it.*”
 
@@ -24,7 +24,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 “*And that has not happened to me in nineteen years and I have not said that out loud until this morning.*”
 
 Then a woman of twenty-nine came up that bank at about the ninth hour out of a reed about twenty feet off the edge of that drain a hundred yards along it.
-And she had been in that reed one hundred and seventy-eight days, and she said four sentences and about nine of them did not interrupt her.
+And she had been in that reed one hundred and seventy-seven days, and she said four sentences and about nine of them did not interrupt her.
 
 Marda Vell is twenty-nine and can read and came up that bank on her own on the Thursday of the hundred and thirty-sixth week and on the Friday of last week. And her name is in ink on that ninth line and has never had a day against it. And she has said that four of them are her people and nobody is going to be sent for about any of the four.
 
@@ -34,7 +34,7 @@ Marda Vell is twenty-nine and can read and came up that bank on her own on the T
 
 “*One. There were about four of you on that bank on Saturday and there are about nine of you now, and it was not the water and it was not a thing coming apart.*”
 
-“*And I have been in a reed a hundred and seventy-eight days watching who walks onto it and about four of you were walking onto it out of the water and about five of you have come up that road for other reasons and I have watched all nine of you and I am not saying it is good.*”
+“*And I have been in a reed a hundred and seventy-seven days watching who walks onto it and about four of you were walking onto it out of the water and about five of you have come up that road for other reasons and I have watched all nine of you and I am not saying it is good.*”
 
 “*Two. A man of thirty-four came up that bank yesterday on his own two feet and said three things and nobody asked him a fourth.*”
 
@@ -176,7 +176,7 @@ Ilyan Vester is thirty-one and belongs to nobody, and has been in this county tw
 
 “*And a man of fifty-four is about to walk about two hundred yards at about the ninth hour this morning because of me and I am not going to watch him do it.*”
 
-“*Nobody is relieved of a man of forty-four and nine years of his, or of a woman of twenty-nine and a hundred and seventy-eight days of hers. Nobody is to be thanked and nobody is to be told they were brave about any of it.*”
+“*Nobody is relieved of a man of forty-four and nine years of his, or of a woman of twenty-nine and a hundred and seventy-seven days of hers. Nobody is to be thanked and nobody is to be told they were brave about any of it.*”
 
 “*And about four of you are going to work out that a man of thirty-one arranged for most of the last four days of this bank and I have said it out loud before about nine of you and I am not going to unarrange it.*”
 

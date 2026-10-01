@@ -14,9 +14,9 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*And fourteen of those were eight days apart and three of them were not, and I have not found out why and I am not going to.*”
 
-“*Four inches a day is the working, and it goes on now at about four inches and it will be about four and eight and twelve and sixteen on Wednesday.*”
+“*Four inches a day is the working, and it goes on now at about four inches and it will be about four and eight and twelve and sixteen on Friday.*”
 
-“*And it comes off again eight days after tomorrow, which is a Monday the week after, and that will be the nineteenth time and I have not got to it yet.*”
+“*And it comes off again eight days after tomorrow, which is a Tuesday and the first day of the hundred and thirty-ninth week, and that will be the nineteenth time and I have not got to it yet.*”
 
 Then a man of fifty-four had the ninth line read to him in the open, eighty-ninth morning.
 And said that about four of you have been giving him his own figure before he asks and that he wanted to be the one to say it this morning.
@@ -95,9 +95,9 @@ Orla Fennimore is forty-four and has put her crumb of bread in her apron and her
 
 Then a boy of thirteen gave one figure and said what it was for, and a man of about fifty-two said he was not going to check it because he could not see it from where he was standing.
 
-Wat Marshe is thirteen and has been in this county a hundred and fifty-five days, and he counted them in the lane this morning and it is one more than yesterday.
+Wat Marshe is thirteen and has been in this county a hundred and fifty-seven days, and he counted them in the lane this morning and it is one more than yesterday.
 
-“*A hundred and fifty-five days and I counted them in the lane.*”
+“*A hundred and fifty-seven days and I counted them in the lane.*”
 
 “*And one figure and I am going to say what it is for, because about four of you have been letting me give figures for a week and a man of thirty-eight said on Saturday that a man of fifty-four has not been thanked for anything and I have not been thanked either and I have been giving them anyway.*”
 
@@ -142,7 +142,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*I have been giving two hundred and fifty-six as though it were how long I had been here. It is not. It is how long ago I came. And about nine of us on this bank have been treating every figure we have said this week as a figure of how we are.*”
 
-“*And a man of forty-four has had nine years of standing about two hundred yards off and a boy of thirteen has a hundred and fifty-five days in a lane and a man of thirty-four has a hundred and seventy-nine days in an ash.*”
+“*And a man of forty-four has had nine years of standing about two hundred yards off and a boy of thirteen has a hundred and fifty-seven days in a lane and a man of thirty-four has a hundred and eighty days in an ash.*”
 
 “*And about four of us on this bank have been here about four weeks.*”
 
