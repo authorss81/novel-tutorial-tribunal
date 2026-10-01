@@ -8,7 +8,7 @@ The bank was about four inches over the top step at about the seventh hour and i
 
 Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday, and he gave the figure for the next time on Wednesday by counting down to this morning, and that count is over.
 
-“*About four inches at the seventh hour, and it is one day of the coming back, and all ninety of those steps were dry at the sixth hour and are dry now.*”
+“*About four inches at the seventh hour, and it is one day of the coming back, and the water is on the flat and off that cut, and I am not going to tell you how far up it is, and you have not had one off me since Monday.*”
 
 “*And the next time about ninety steps can be walked is in seven days, and that is the fourth day of the hundred and forty-second week, and there is nothing to count down to.*”
 
@@ -84,7 +84,7 @@ Ivo Kellow is thirty-four and has been in an ash about twenty feet off the low s
 
 Then a man of about fifty-two asked for a working at the foot of the fourth leaf to be read out loud a second time. It was read. He gave the figure in it and said what a precedent is, and a man of sixty-one read it in the ordinary voice and did not improve it.
 
-Simon Rook is about fifty-two and cannot see well. He put a mark on one of two sheets of deal, four lines under him, eleven years ago, because he was the only one of nine who was not asked what the line was for. He has checked figures out loud on four mornings this week and named a fifth thing he cannot check on Friday.
+Simon Rook is about fifty-two and cannot see well. He put a mark on one of two sheets of deal, four lines under him, eleven years ago, because he was the only one of nine who was not asked what the line was for. He has checked figures out loud on four mornings this week and named a fifth thing he cannot check on the third day of last week.
 
 “*A man of sixty-one read a working at the foot of that leaf on the Wednesday of last week. He read it the way it is written and about nine of you have not thought about it since.*”
 
@@ -92,7 +92,7 @@ Simon Rook is about fifty-two and cannot see well. He put a mark on one of two s
 
 “*The working is three figures and the third one is the bridge, and the third one is a figure of the bed of that drain at the abutment.*”
 
-Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He has refused since the second day of the hundred and thirty-sixth week to write a bench’s notice in it. He read all four leaves of a thing on a flat in about nine ears on three mornings, one leaf a morning.
+Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He has refused since the second day of the hundred and thirty-sixth week to write a bench’s notice in it. He read all four leaves of a thing on a flat in about nine ears on four mornings, one leaf a morning.
 
 “*The third figure, then, and I am reading it as it is written and not as it was on the Wednesday.*”
 

@@ -74,7 +74,7 @@ Then a man of fifty-four asked for the figures of the two margins to be said a s
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has a hundred and thirteen mornings and the figure is one more than the morning before.
 
-“*A hundred and thirteen mornings. One more than yesterday, and the twenty-third morning of that run.*”
+“*A hundred and thirteen mornings. One more than yesterday, and the twenty-fourth morning of that run.*”
 
 “*Say the two lengths again. I want the forty and the sixty and I want the yards, and I am not going to pretend I can do anything with a yard.*”
 
@@ -114,7 +114,7 @@ Wat Marshe is thirteen and has been in this county a hundred and eighty-one days
 
 Then a man of thirty-one said what he had wanted, what he had got wrong, and what it had cost, and gave the figure for the standing offer in his own mouth with the subtraction in it.
 
-“*Here is the want. I want the two margins to be somewhere the water cannot get to, and I know the high one is, and I have marked the low one forty paces long on ground that will be under in three days.*”
+“*Here is the want. I want the two margins to be somewhere the water cannot get to, and I know the high one is, and I have marked the low one forty paces long on ground that will be under in four days, which is the day the bank is full again.*”
 
 “*That is the want and it is not a good one and I have had it since the fourth hour.*”
 
@@ -128,7 +128,7 @@ Then a man of thirty-one said what he had wanted, what he had got wrong, and wha
 
 “*Nobody is relieved of a man of thirty-four who said he was not going and gave a figure of a day in an ash instead of a reason, and who said out loud that what a margin is not, when he did not have to.*”
 
-“*Nobody is relieved of a man of fifty-four who asked for two figures to be said twice and then said he would stand where the figure puts him, and who is going to be in eighty yards of lime on Saturday.*”
+“*Nobody is relieved of a man of fifty-four who asked for two figures to be said twice and then said he would stand where the figure puts him, and who is going to be in eighty yards of lime on Monday, which is the day the bank is full again.*”
 
 “*Nobody is relieved of a boy of thirteen who told it twice at a door because he had been told to tell everybody twice, and who has said so, and who is not going to be told that saying so was brave.*”
 

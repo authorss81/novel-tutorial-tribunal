@@ -14,7 +14,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*And the next time about ninety steps can be walked is in seven days.*”
 
-“*And that is this morning plus eight, and the twentieth was yesterday, and the twenty-first is eight days on from yesterday.*”
+“*And that is this morning plus seven, and the twentieth was yesterday, and the twenty-first is eight days on from yesterday.*”
 
 “*And I have not got to the twenty-first morning, and I am not going to pretend to about nine of you that I have.*”
 
@@ -38,7 +38,9 @@ Then he said a thing about the fourth leaf that he had not said at the tenth hou
 
 “*I am going to tell about nine of you that it is there, and that it is the only figure on that flat I can put my hand on.*”
 
-Then a boy of thirteen asked how a mark gets made, and was not answered for two days, and a man of about fifty-two said he could not help with it and gave the reason, and a man of thirty-eight said he had a board in the inside of his coat and had not opened it.Wat Marshe is thirteen and has been in this county a hundred and seventy-four days, and he has counted them in a lane, and the figure is one more than the morning before. He has a figure of eight that is a count of times and not a clock, and it went up on the third day of the hundred and thirty-ninth week.
+Then a boy of thirteen asked how a mark gets made, and was not answered for two days, and a man of about fifty-two said he could not help with it and gave the reason, and a man of thirty-eight said he had a board in the inside of his coat and had not opened it.
+
+Wat Marshe is thirteen and has been in this county a hundred and seventy-four days, and he has counted them in a lane, and the figure is one more than the morning before. He has a figure of eight that is a count of times and not a clock, and it went up on the third day of the hundred and thirty-ninth week.
 
 “*A hundred and seventy-four days, and it is one more than the morning before, and I counted it in the lane before the light came up.*”
 

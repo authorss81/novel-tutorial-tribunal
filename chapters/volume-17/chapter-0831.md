@@ -18,7 +18,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*I have given you how many of those ninety steps are under on most mornings for nineteen years.*”
 
-“*On the Saturday, at that height of the water, I gave you one figure. On the Sunday after it, at that same height, I gave you a smaller one. I have not been down on that flat since that Sunday because it has been under.*”
+“*On the Saturday I gave you one figure. On the Sunday after it, which was the morning the bank was full, I gave you a smaller one. I have not been down on that flat since that Sunday because it has been under.*”
 
 “*I do not know which of the two is right. I have had the weekend on it and I have not found out, and I am not going to give you a third and let it be the one you remember.*”
 
@@ -90,7 +90,7 @@ Marda Vell is twenty-nine and has been in a reed about twenty feet off the low s
 
 Then a man of thirty-one said he would work the figure out himself, and a man of about fifty-two said he would do it, and the man of thirty-one did it anyway and got it wrong, and the man of about fifty-two did it and got it right, and said the whole of it out loud in about nine ears.
 
-Simon Rook is about fifty-two and cannot see well. He put a mark on one of two sheets of deal, four lines under him, eleven years ago, because he was the only one of nine who was not asked what the line was for. He named a fifth thing he cannot check on Friday.
+Simon Rook is about fifty-two and cannot see well. He put a mark on one of two sheets of deal, four lines under him, eleven years ago, because he was the only one of nine who was not asked what the line was for. He named a fifth thing he cannot check on the third day of last week.
 
 “*The man of thirty-one is going to work it and I am going to let him. Then I am going to do it. About nine of you are going to find something out about me from the order of those two things.*”
 
@@ -114,7 +114,7 @@ Nobody on that cart road said anything for a while. Then a man of forty-four sai
 
 “*Fifteen yards. The last fifteen yards of that stretch cannot belong to both of them. That is a figure of a remedy, and about nine of you can go and look at it.*”
 
-Then a man of thirty-one said what he had wanted, what he had got wrong, and what it had cost, and gave the figure for the standing offer in his own mouth with the subtraction in it, and said that this was the eleventh morning of a run that has gone eleven weeks.
+Then a man of thirty-one said what he had wanted, what he had got wrong, and what it had cost, and gave the figure for the standing offer in his own mouth with the subtraction in it, and said that this was the eleventh morning of a run that has gone eleven mornings.
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and seventy-seven days, two hundred and seventy-seven being eight hundred and thirty-one less five hundred and fifty-four. The cut across that palm is a hundred and forty-six days old, a hundred and forty-six being eight hundred and thirty-one less six hundred and eighty-five.
 

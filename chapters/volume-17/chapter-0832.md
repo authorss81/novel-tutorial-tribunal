@@ -12,7 +12,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has not 
 
 “*And it is six days of the coming back, and a bank that is full holds at sixteen until it comes off.*”
 
-“*And the next time about ninety steps can be walked is in two days, and that is tomorrow, and I gave you three days for that yesterday morning and the three was right.*”
+“*And the next time about ninety steps can be walked is in two days, and that is the day after tomorrow, and I gave you three days for that yesterday morning and the three was right.*”
 
 “*Here is the new way of saying it, and I would rather give it than have about four of you think I have stopped keeping the count.*”
 
@@ -54,7 +54,7 @@ Simon Rook is about fifty-two and cannot see well. He put a mark on one of two s
 
 “*And I did not ask him his name, and I have had eleven years to think of a way of saying that I would ask him his name if I had it to do again, and I have not found one.*”
 
-Then a man of thirty-one walked about nine hundred paces of ground and said the figures out loud as he went, and a boy of thirteen counted the houses, and a woman of forty-four stopped him cutting two things into one post.
+Then a man of thirty-one walked about six hundred and forty paces of ground and said the figures out loud as he went, and a boy of thirteen counted the houses, and a woman of forty-four stopped him cutting two things into one post.
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and seventy-eight days, two hundred and seventy-eight being eight hundred and thirty-two less five hundred and fifty-four. The cut across that palm is a hundred and forty-seven days old, a hundred and forty-seven being eight hundred and thirty-two less six hundred and eighty-five.
 
@@ -136,7 +136,7 @@ Then a man of thirty-one came to the end of the morning with a want and a mistak
 
 “*And the right of refusal is not restored this morning. A zone is not it. A mark on a post is not it. A line of lime that will be gone by Saturday is not it, and a person being careful about a day is not it.*”
 
-About nine of them were on a bank and then on a cart road and then on about nine hundred paces of low ground on the first day of the hundred and forty-first week, with sixteen inches of water over the top step above them, and a zone had been walked and its figures said out loud, and there was no figure of it on any paper anywhere, and a man of about fifty-two had read eight mornings of his own that he had not said in eleven years.
+About nine of them were on a bank and then on a cart road and then on about six hundred and forty paces of low ground on the first day of the hundred and forty-first week, with sixteen inches of water over the top step above them, and a zone had been walked and its figures said out loud, and there was no figure of it on any paper anywhere, and a man of about fifty-two had read eight mornings of his own that he had not said in eleven years.
 
 ---
 

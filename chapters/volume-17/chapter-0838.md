@@ -1,4 +1,4 @@
-# Chapter 838: Seventh Day Of The Hundred And Forty-First Week, And A Monday, And Sixteen Inches And Four Days Of The Coming Back And A Full Bank, And The Answer Is Given In The Open And It Is A Gap Of Two Hundred And Six Days In A Figure Of A Book, And A Woman Of Sixty-Four Is Told Her Nineteen Years Are The Same Shape And Gives Them Away A Second Time In One Week, And A Man Of Thirty-One Says There Is A Third Of These
+# Chapter 838: Seventh Day Of The Hundred And Forty-First Week, And A Monday, And Sixteen Inches And Four Days Of The Coming Back And A Full Bank, And The Answer Is Given In The Open And It Is A Gap Of Two Hundred And Six Days In A Figure Of A Book, And A Woman Of Sixty-Four Is Told Her Nineteen Years Are The Same Shape And Gives Them Away A Third Time In Twenty-Three Days, And A Man Of Thirty-One Says There Is A Third Of These
 
 Seventh day of the hundred and forty-first week. His five hundred and eighty-eighth morning. Four hundred and thirty-eight days after the settlement. The fever seventy-nine weeks and two days. Three hundred and ninety-two days since the division. Three hundred and thirty-eight days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -16,7 +16,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has not 
 
 Then at about the ninth hour the answer was given in the open, and a man of sixty-one read it, and said what reading it had cost him, and gave the two counts on either side of it, and a man of about fifty-two did the subtraction and named what he could not check.
 
-Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He has refused since the second day of the hundred and thirty-sixth week to write a bench’s notice in it. He read all four leaves of a thing on a flat in about nine ears on three mornings, one leaf a morning. He has never read an answer out loud in about nine ears before this morning.
+Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He has refused since the second day of the hundred and thirty-sixth week to write a bench’s notice in it. He read all four leaves of a thing on a flat in about nine ears on four mornings, one leaf a morning. He has never read an answer out loud in about nine ears before this morning.
 
 “*It came at about the eighth hour. I am not going to say how, because I do not know how, and I have been on this bank eleven days saying out loud what I do not know. This is the largest one yet.*”
 
@@ -58,7 +58,7 @@ Wat Marshe is thirteen and has been in this county a hundred and eighty-five day
 
 “*A hundred and eighty-five days, and it is one more than the morning before, and I counted it in the lane before the light came up.*”
 
-“*And here is the other count and I have been keeping it since Thursday and I have not given it to anybody.*”
+“*And here is the other count and I have been keeping it since Wednesday and I have not given it to anybody.*”
 
 “*It is how many of you have said yes to a thing this week. Not a promise, and not a yes to a person. A yes to a piece of work.*”
 
@@ -82,7 +82,7 @@ Ada Renk is sixty-four and has a name in ink on that ninth line of a book four h
 
 “*So the gap is not mine. It never was mine. It is the arrangement’s own way of doing things, done once before, and it can be shut by the same arrangement without a single thing being written about me, and I have relied on it every morning of nineteen years.*”
 
-“*That is the second time in one week I have given those nineteen years away in front of about nine of you, and the first time I said they were mine and not evidence, and this morning they are not mine and they are not evidence either. They are the arrangement’s, and I have been living in them.*”
+“*That is the third time in twenty-three days I have given those nineteen years away in front of about nine of you, and the first time I said they were mine and not evidence, and this morning they are not mine and they are not evidence either. They are the arrangement’s, and I have been living in them.*”
 
 Then a woman of twenty-nine in a reed said out loud that she wanted to thank her, and a woman of sixty-four refused the thanks in the same sentence, and a woman of twenty-nine said she had said it and was not going to unsay it and was not going to say it again.
 
@@ -108,11 +108,11 @@ Garrin Tolley is thirty-eight and has a child of nine. He has a board in the ins
 
 “*And I have got a different reason today and I am not going to give you Friday’s, because Friday’s is still true and a true reason does not stop being true because a second one arrives.*”
 
-“*Here is the second one. On Saturday a man of about fifty-two went into a drain on his own and came out with a palm. A man of thirty-four said in about nine ears that the drain he asked for twice found a bridge out. A woman of twenty-nine said what a well costs, which is four hundred yards there and four hundred yards back four times a day.*”
+“*Here is the second one. On Saturday a man of about fifty-two went into a drain on his own and came out with a palm. A man of thirty-four said in about nine ears that the drain he asked for twice found a bridge out. A woman of twenty-nine said what a well costs, which is six hundred yards there and six hundred yards back four times a day.*”
 
 “*About nine of you have had three things this week that were not anybody’s fault and that all of us will be carrying. I am not going to be the fourth thing that happens to this bank on a Monday, and I am not going to decide anything today about a boy of thirteen and a coat.*”
 
-“*And the day. The seventh day of the hundred and forty-second week, and that is eight days from today, and I have worked it out from the week this bank is in and not off a calendar, and a man of about fifty-two can check it and I would rather he did.*”
+“*And the day. The seventh day of the hundred and forty-second week, and that is seven days from today, and I have worked it out from the week this bank is in and not off a calendar, and a man of about fifty-two can check it and I would rather he did.*”
 
 “*And I am not saying next week, because I said not this week last week and that turned out to be a way of saying nothing, and I have heard myself do it.*”
 
@@ -134,7 +134,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*And when it is done, it will not be me asking, and I am saying that now so that about four of you can hold me to it in about a week.*”
 
-“*Here is the want and it is eight mornings old and it is the same want and I have not improved it.*”
+“*Here is the want and it is nine mornings old and it is the same want and I have not improved it.*”
 
 “*I want somebody else to carry the figures, and on the fourth day of the hundred and thirty-ninth week I said out loud that a thing with a nail in it would take the eleventh hour off me.*”
 
@@ -156,7 +156,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*I do not know what will restore it and I have stopped saying that I do, because I have said it nine mornings running and about four of you have worked out that saying it is a way of not deciding.*”
 
-“*Nobody is relieved of a woman of sixty-four who was told in about nine ears that a gap she had relied on every morning for nineteen years was the arrangement’s own, and who gave those years away a second time in one week.*”
+“*Nobody is relieved of a woman of sixty-four who was told in about nine ears that a gap she had relied on every morning for nineteen years was the arrangement’s own, and who gave those years away a third time in twenty-three days.*”
 
 “*Nobody is relieved of a woman of twenty-nine in a reed who paid for that in about nine of your ears by saying out loud that she wanted to thank her, and who is not going to say it again.*”
 
@@ -176,7 +176,7 @@ The fever was seventy-nine weeks and two days old. He had been in that county tw
 An answer was given in the open and a man of sixty-one read it, and it said that between the first entry ever made in any linked field and the second there are two hundred and six days, and that in those days the arrangement entered no day and no name, and answered every question, and recorded none of the answers.
 And a man of about fifty-two did the subtraction out loud and said the subtraction was his and the two counts were not, and called them his seventh thing he cannot check, and refused to give the gap in weeks.
 
-A woman of sixty-four was told that her nineteen years were the same shape as that gap and were not hers, and gave them away a second time in one week.
+A woman of sixty-four was told that her nineteen years were the same shape as that gap and were not hers, and gave them away a third time in twenty-three days.
 A woman of twenty-nine said out loud that she wanted to thank her, and she refused the thanks in the same sentence and said the woman of twenty-nine was the one who had paid.
 
 And a man of thirty-eight said that today was the Monday he had named on Friday, that he had not opened what is in the inside of his coat, and that he had a second reason as well as the first.

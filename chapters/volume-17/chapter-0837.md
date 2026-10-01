@@ -6,9 +6,9 @@ Sixth day of the hundred and forty-first week. His five hundred and eighty-seven
 
 The bank was about twelve inches over the top step at about the seventh hour and it was three days of the coming back. The man of forty-three gave the reading and the working and the figure for the next time, and said that the three failures he named on Wednesday had now had one of them, and did not say which, because he had not been told.
 
-Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday, and on this Sunday he gave a different reason for not giving it, and the reason was that nobody had asked him for it since Friday.
+Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday, and on this Sunday he gave a different reason for not giving it, and the reason was that nobody had asked him for it since Monday.
 
-“*About twelve inches at the seventh hour, and it is three days of the coming back, and about seventy of those ninety steps are dry at the sixth hour and are dry still.*”
+“*About twelve inches at the seventh hour, and it is three days of the coming back, and it is eight inches higher than it was on Friday morning, and I am not going to count the steps for you this morning.*”
 
 “*And the next time about ninety steps can be walked is in five days, and that is five forward with nothing counting down, and the boy does not like it and he is right.*”
 
@@ -28,7 +28,7 @@ Marda Vell is twenty-nine and has been in a reed about twenty feet off the low s
 
 “*Here is the cost and it is a person and not a figure of a well.*”
 
-“*It is four hundred yards there and four hundred yards back, four times a day, and it is a bucket, and I have been doing it since yesterday, and I am going to be doing it on Monday.*”
+“*It is six hundred yards there and six hundred yards back, four times a day, and it is a bucket, and I have been doing it since yesterday, and I am going to be doing it on Monday.*”
 
 “*And a man of thirty-four in an ash has been carrying it up for me since yesterday, and he has a day against his name, and he has not asked for anything for it, and I am not going to thank him for it in about nine of your ears because he would have to say something.*”
 
@@ -56,7 +56,7 @@ Then five people were asked, one at a time, in about nine ears, and each of them
 
 Ada Renk is sixty-four and has a name in ink on that ninth line of a book four hundred miles off and has never had a day against it. She got up out of a book of heads and carts in the open nineteen years ago. On Sunday of last week she said the nineteen years are hers and are not a leaf, and that she is not afraid of the eleventh line and is also tired of it.
 
-“*Yes, and I am going to say what it costs before he asks me twice, and it is the second time I have given those nineteen years away in about nine of your ears in one week.*”
+“*Yes, and I am going to say what it costs before he asks me twice, and it is the second time I have given those nineteen years away in about nine of your ears in twenty-two days.*”
 
 “*The first time was on the fifth day of the hundred and thirty-eighth week and I said they were mine and not evidence, and a man of thirty-four has been careful with me about it since and I have noticed him being careful.*”
 
@@ -70,7 +70,7 @@ Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read
 
 “*Yes, and I want it said in about nine ears that I said yes before I knew what was coming back.*”
 
-“*A hundred and sixteen mornings. One more than yesterday, and the twenty-sixth morning of that run.*”
+“*A hundred and sixteen mornings. One more than the morning before, and the twenty-seventh morning of that run.*”
 
 “*Here is the cost and I have had it since the second day of this week and I have not said it out loud.*”
 
@@ -138,9 +138,9 @@ Then a man of thirty-one said what he had wanted, what he had got wrong, and wha
 
 “*A hundred and thirty-seven days. A hundred and thirty-seven is eight hundred and thirty-seven less seven hundred, and none of it is an answer, and a question is not an answer, and I have got two of them said no to me on a Sunday morning.*”
 
-“*Nobody is relieved of a woman of twenty-nine in a reed who said what a well costs when it goes off, which is four hundred yards there and four hundred yards back four times a day, and who is not going to thank a man of thirty-four for carrying it.*”
+“*Nobody is relieved of a woman of twenty-nine in a reed who said what a well costs when it goes off, which is six hundred yards there and six hundred yards back four times a day, and who is not going to thank a man of thirty-four for carrying it.*”
 
-“*Nobody is relieved of a woman of sixty-four who said yes to a question before she knew what was coming back and named the cost out loud, and who has now given those nineteen years away twice in one week.*”
+“*Nobody is relieved of a woman of sixty-four who said yes to a question before she knew what was coming back and named the cost out loud, and who has now given those nineteen years away twice in twenty-two days.*”
 
 “*Nobody is relieved of a woman of twenty-eight who said no and lost nothing, and who is not going to be called careful for it, and who has still not said the second of her two things.*”
 
@@ -156,7 +156,7 @@ A man of thirty-one put the question out loud in about nine ears at about the el
 
 The fever was seventy-nine weeks and one day old. He had been in that county two hundred and eighty-three days, and the cut across that palm was a hundred and fifty-two days old, and a hundred and thirty-seven days after an offer that was asked at the seven-hundredth and has not been answered.
 
-A woman of twenty-nine in a reed said the well had gone off in the night and was four foot higher in the shaft and not cold and not clear, and said what it costs a person, which is four hundred yards there and four hundred yards back four times a day.
+A woman of twenty-nine in a reed said the well had gone off in the night and was four foot higher in the shaft and not cold and not clear, and said what it costs a person, which is six hundred yards there and six hundred yards back four times a day.
 And a woman of sixty-four said yes to a question before she knew what was coming back, and named the cost, which is that nineteen years of a gap she had relied on every morning may turn out to be the arrangement’s own way of doing things.
 
 A man of thirty-eight was not asked this week, by a decision a man of thirty-one made out loud, and a man of about fifty-two said yes from the top of ninety cut steps with a wet hand and said that asking to be read is not being able to check.

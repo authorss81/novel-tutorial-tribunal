@@ -40,11 +40,11 @@ Then a man of thirty-one told it again in a different shape, and gave the cost o
 
 “*Not what is going to happen. Here is what is going to be done, and here is what each of it costs, and here is who pays.*”
 
-“*One. We are going to dig. It is about nine hundred yards of drain, from the cart road at the turn down to that bridge, taken eighteen inches deeper at the top end.*”
+“*One. We are going to dig. It is about eight hundred and eighty yards of drain, from the cart road at the turn down to that bridge, taken eighteen inches deeper at the top end.*”
 
 “*That nine hundred is my figure and I have not walked it and I am saying so at the sixth hour on a Wednesday, which is earlier than I would have said it.*”
 
-“*A man of forty-four wants a hole under his road and a woman of twenty-nine wants the water off her reed, and the two of them cannot both have the first forty yards. The one that gave way was his.*”
+“*A man of forty-four wants a hole under his road and a woman of twenty-nine wants the water off her reed, and there are fifteen yards of the first forty that the two of them cannot both have. The one that gave way was his.*”
 
 “*That costs a man of forty-four nine feet of hole and four feet of depth and eleven years of a road that answers to nobody. He is the one who pays and he is standing here and he has already said so.*”
 
@@ -72,7 +72,7 @@ Then a man of fifty-four asked for the whole of it again, and gave the figure fo
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has a hundred and twelve mornings and the figure is one more than the morning before.
 
-“*A hundred and twelve mornings this morning. That is one more than a hundred and eleven, and it is the twenty-second morning of that run.*”
+“*A hundred and twelve mornings this morning. That is one more than a hundred and eleven, and it is the twenty-third morning of that run.*”
 
 “*I cannot read. I have said that on this bank in about nine ears more often than any other thing I have said on it, and I have never once been wrong to say it.*”
 
@@ -132,8 +132,8 @@ Nobody on that bank answered for about as long as it takes a man of forty-three 
 
 “*And the right of refusal is not restored this morning. A thing that may fail is not it. Telling about nine people in about nine ears is not it, and a question that nobody answers is not it, and a gap is not it.*”
 
-About nine of them were on that bank at about the ninth hour of a Wednesday, with sixteen inches of water over the top step above them.
-A zone about eighteen hundred yards long had been told out loud in about nine ears. Three things had been named as things that may fail, and the digging had been named as the likeliest cause of all three. A woman of forty-four had asked which of two things matters more, and nobody had answered.
+About nine of them were on that bank at about the sixth hour of a Wednesday, with sixteen inches of water over the top step above them.
+A zone about one thousand two hundred and eighty yards long had been told out loud in about nine ears. Three things had been named as things that may fail, and the digging had been named as the likeliest cause of all three. A woman of forty-four had asked which of two things matters more, and nobody had answered.
 
 ---
 

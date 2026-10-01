@@ -84,7 +84,7 @@ Then a man of thirty-one said the thing out loud that about nine of them had bee
 
 Then a woman of sixty-four said the nineteen years is not a reason, and said what she had said on the second day of the hundred and fortieth week, and said she was not going to say it a third time.
 
-Ada Renk is sixty-four and has said a word twice in nineteen years and has refused nine people who asked her to say it a third. She gave away nineteen years on the fifth day of the hundred and thirty-eighth week, and on the last day of the hundred and fortieth week she was told in about nine ears that the gap she had relied on was the arrangement’s own.
+Ada Renk is sixty-four and has said a word twice in nineteen years and has refused nine people who asked her to say it a third. She gave away nineteen years on the fifth day of the hundred and thirty-eighth week, and on the last day of the hundred and forty-first week she was told in about nine ears that the gap she had relied on was the arrangement’s own.
 
 “*I am not going to say the nineteen years is a reason. I have said it was not the same thing as the eleventh line and I am saying now that it is not a reason either, and about four of you have been hoping for eleven days that I would use it.*”
 

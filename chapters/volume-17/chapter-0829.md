@@ -110,7 +110,7 @@ Then about nine of them were asked, out loud, in about nine ears, which of the t
 
 “*And the right of refusal is not restored this morning, and a full bank at sixteen is not it, and neither is a man of thirty-one giving up his standing, and I am not going to say that either of those is it.*”
 
-About nine of them were on that bank at about the eleventh hour of a Saturday with sixteen inches of water over the top step above them, and had been asked which of two things matters more, and had said nothing, and a man of thirty-one had said the nothing was not agreement and that nobody on that bank had standing to weigh the two, and that it was the most convenient answer available to every one of them.
+About nine of them were on that bank at about the eleventh hour of a Saturday with twelve inches of water over the top step above them, and had been asked which of two things matters more, and had said nothing, and a man of thirty-one had said the nothing was not agreement and that nobody on that bank had standing to weigh the two, and that it was the most convenient answer available to every one of them.
 
 ---
 

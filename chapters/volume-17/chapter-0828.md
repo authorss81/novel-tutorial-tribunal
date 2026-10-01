@@ -118,7 +118,7 @@ Nobody on that bank said anything for about a minute. Then a man of thirty-one s
 
 “*And I am not going to put it anywhere except in about nine ears on a bank on a Friday morning, and that is where it is going to stay unless about four of you can tell me a better place.*”
 
-Then a man of thirty-one came to the end of it. He said what he wanted, what he had got wrong, and what it cost, and gave the figure for the standing offer in his own mouth with the subtraction in it, which is the eleventh morning of that run and which he is not going to stop.
+Then a man of thirty-one came to the end of it. He said what he wanted, what he had got wrong, and what it cost, and gave the figure for the standing offer in his own mouth with the subtraction in it, which is the eighth morning of that run and which he is not going to stop.
 
 “*Here is the want and it has moved shape four times in four days, and I am not going to give you the shapes.*”
 

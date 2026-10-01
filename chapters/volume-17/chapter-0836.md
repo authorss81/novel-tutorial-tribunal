@@ -8,7 +8,7 @@ The bank was about eight inches over the top step at about the seventh hour and 
 
 Corvin Tace is forty-three and has kept that landing nineteen years. He has not given the figure of how many of those ninety steps are under since Monday. He has given a whole number of weeks of the fever out loud twice before, and both times it was a Saturday, and about four of them have been counting the Saturdays as well as the weeks.
 
-“*About eight inches at the seventh hour, and it is two days of the coming back, and about ninety of those steps are dry at the sixth hour and are dry still.*”
+“*About eight inches at the seventh hour, and it is two days of the coming back, and it is four inches higher than it was at this hour yesterday, and I am not going to tell you how far up that cut it is.*”
 
 “*And the next time about ninety steps can be walked is in six days, and that is six days forward from this morning with nothing counting down, and a boy of thirteen does not like that and he is right not to like it.*”
 
@@ -22,7 +22,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. He has not 
 
 Then a man of about fifty-two went into a drain at about the sixth hour before the light and put a rod down through a silted sill, and a bridge came down about two feet, and a man of thirty-four in an ash said what that cost him before anybody asked him to say it.
 
-Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He read all four leaves of a thing on a flat in about nine ears on three mornings, one leaf a morning, and the third figure of the fourth leaf is a figure of the bed of a drain at an abutment.
+Nevin Trask is sixty-one and has a book of heads and carts and two numbers in it in eleven years. He read all four leaves of a thing on a flat in about nine ears on four mornings, one leaf a morning, and the third figure of the fourth leaf is a figure of the bed of a drain at an abutment.
 
 “*Four foot six below the top of the sill. That is what is written, and I read it on the Friday at the seventh hour and about four of you heard it and about four of you have not thought about it since.*”
 
@@ -62,7 +62,7 @@ Ivo Kellow is thirty-four and has been in an ash about twenty feet off the low s
 
 “*The drain is my remedy. It is a woman of twenty-nine’s remedy too, and she gave me half of it on the second day of this week, and she has not taken it back.*”
 
-“*And the drain is the thing that found that bridge out. Not the rain and not the water and not a person coming in the night. Eighteen inches deeper for about nine hundred yards, and the toe of that sill went.*”
+“*And the drain is the thing that found that bridge out. Not the rain and not the water and not a person coming in the night. Eighteen inches deeper for about eight hundred and eighty yards, and the toe of that sill went.*”
 
 “*I asked for the drain on the seventh day of last week and I asked for it again on the fourth day of this week, at about nine of your ears, twice, and I did not think about the bridge once.*”
 
@@ -80,7 +80,7 @@ Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hu
 
 “*The arrangement can answer that bridge in nine days. And it will answer it on four foot six, because four foot six is the figure it was given, and it will build a sill two feet deep on a bed that is not there.*”
 
-“*And to build a sill on a bed that is not there, you fill the bed up. You put about nine hundred yards of drain back to the level the old figure says it was.*”
+“*And to build a sill on a bed that is not there, you fill the bed up. You put about eight hundred and eighty yards of drain back to the level the old figure says it was.*”
 
 “*And if the drain goes back up, the water stands in a reed again, and the reed is a woman of twenty-nine’s, and the ash is mine, and the answer to the bridge is the un-doing of the answer to the reed.*”
 
