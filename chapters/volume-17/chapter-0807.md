@@ -1,109 +1,170 @@
-# Chapter 807: Fourth Day Of The Hundred And Thirty-Seventh Week, And A Friday, And Four Hundred And Seven Days After The Settlement, And The Bank Is Full On The Second Morning Of It And Holds At Sixteen Inches, And A Man Of Sixty-One Asks A Man Of Thirty-One For One Figure He Can Write Down And Check In A Year
+# Chapter 807: Fourth Day Of The Hundred And Thirty-Seventh Week, And A Friday, And A Man Of Thirty-One Is Asked For A Thing He Cannot Say He Wants And Says He Does Not Know And A Woman Of Forty Says That Is The Fourth Time In Nine Days And Asks Him The Thing Nobody Has Asked Him, And He Answers It
 
 Fourth day of the hundred and thirty-seventh week. His five hundred and fifty-seventh morning. Four hundred and seven days after the settlement. The fever seventy-four weeks and six days. Three hundred and sixty-one days since the division. Three hundred and seven days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The water was about sixteen inches on that cut at about the seventh hour and it was five days of the coming back, and the man of forty-three gave the figure and the working and said that a full bank holds and that a man who says otherwise can come and stand in it.
+The bank was about sixteen inches over the top step at about the seventh hour, five days of it.
+And the man of forty-three gave the reading and the working and gave the day on the word and said that about nine of them had stopped writing it down and he had not stopped saying it.
 
-Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and a fourth he only says when somebody asks, and a fifth he keeps.
+Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and has not been asked about it by anybody. And a woman of twenty-eight came up that road on Saturday and nobody told him there was a woman on it until he was told.
 
-“*Sixteen inches at the seventh hour, and it is five days since it came off, and that is the second morning of a full bank and it holds there, and it will hold at sixteen until it comes off and not one inch more.*”
+“*About sixteen inches at the seventh hour, and it is a full bank, and it is five days since it came off.*”
 
-“*Four inches a day is the working underneath the holding, and the next time all ninety of those steps can be walked is in three days, and that is the Monday of this week, and it will be the eighteenth time.*”
+“*And it went off all ninety on Sunday for the seventeenth time and it goes on Monday for the eighteenth.*”
 
-“*And I said four yesterday and I said five on Wednesday and I am not going to say a figure for that road in the same words three times. A man of sixty-one has got five thousand eight hundred and eighty yards in a book and I have got four inches a day and neither of us can put a line under the other's.*”
+“*Four inches a day is the working underneath the holding, and I have said that every morning this bank has been full.*”
 
-“*And the fifth thing is still kept and still is not written down, and I am not going to refuse it in the same words again this week. I have said no to writing it down five mornings running and about four of you have stopped asking, and being left alone is not the same as being agreed with, and I would like somebody to say that out loud who is not me.*”
+“*And I said on Thursday morning that a man has told me he did not need me to repeat myself, and I have not needed him to tell me twice.*”
 
-Then a man of fifty-four asked for the ninth line to be read to him in the open, eighty-sixth morning, and a man of thirty-eight read it and gave no figure for the second morning running and said that was the point of it.
+“*And the first time off all ninety was the Saturday of the hundred and nineteenth week. The last seventeen of them are not all eight days apart and I have said that and I have never worked out why and I am not going to work it out in front of about nine people on a Friday morning because I have not found out.*”
 
-Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week, and on Friday of last week he asked for a day against that line and was not granted one, and there is a heap of his gravel at a turn four hundred yards up that road with nobody standing at it.
+Then a man of fifty-four had the ninth line read to him in the open, eighty-sixth morning, and said what his two hundred yards was on Wednesday and did not give a figure for how long it took him.
 
-“*Eighty-six mornings, and eighty-six is eight hundred and seven less seven hundred and twenty-one, and there has not been one morning of them with nothing read on it.*”
+Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. And asked at the top of a cut on Sunday for the second time, and walked about two hundred yards along the edge of that drain on Wednesday at about the ninth hour.
 
-“*And a man of thirty-eight has now read that line twice without giving a figure and about four of you have stopped noticing the second time, and he has noticed you stop noticing, and he says that is what he was doing, and I am not going to ask him for a figure he has decided not to give.*”
+“*Eighty-six mornings.*”
 
-“*Three loads yesterday and three today and I am not going to promise a number for Monday because a number I promise is a number I have not got. That is the end of what I have to say this morning.*”
+“*I am not going to say how long the two hundred yards took and I want that to be a thing I have chosen and not a thing I have hidden. I did it at about the ninth hour and I came back at about half past and it is not a figure I am going to put on this bank.*”
 
-Then a man of sixty-one asked a man of thirty-one for a figure, in the ordinary voice, and said out loud that he was not going to refuse it.
+“*And about four of you worked out what I did and about four of you did not and neither of you is going to be told.*”
 
-Nevin Trask is sixty-one and has kept a book of heads and carts in this county for eleven years and has written two numbers in it in eleven years and has refused a third three times, and on Wednesday of last week he read a notice out of a Bench in the ordinary voice and would not write it down, and he said the number of figures in that book out loud so that about four of them would know what the third one would have been.
+“*And I am not going to say what is out there, because I have been holding gravel on that landing for nineteen years and a man of thirty-four said on Wednesday that he has not got to the bottom of whether a thing he saw is a thing he has been carrying about in his head.*”
 
-“*I am going to ask you for one figure and I am not going to refuse it, and I am saying that first because I have refused three and I am sixty-one and everybody here knows it.*”
+“*And I have now been out there and I have not got to the bottom of it either.*”
 
-“*That book has a column for heads and a column for carts. Eleven years. Two figures in it. Both of those are a count of things a person can walk up a road and count with his own eyes, and that is the only kind of figure I have ever been willing to put in it.*”
+“*So the two of us have been to two hundred yards off that landing and neither of us can say what it is and I am a man who cannot read and he is a man who has been in an ash a hundred and seventy-five days and about four of you are the ones who have to go and look and I am not going to say that out loud twice this week.*”
 
-“*I need a third column and I am not going to invent a column at sixty-one. So I am asking you for one figure of yourself that I can write down this morning and check in a year. One figure. Not what the county is doing. Not how many anybody is. One figure of a man, and I will date it, and I will not ask you what it is of, and you may not tell me.*”
+Then a man of forty-three was asked by about nine of them to go and look, and he said no, and gave the whole of the reason in one sentence, and nobody treated it as an answer to a question.
 
-“*And I am not going to ask you twice, and if you say no I am going to write nothing and say so out loud, and about four of you will hear that number stay at two.*”
+Corvin Tace is forty-three and has kept that landing nineteen years and has not left that landing for more than a day at a time in nineteen years.
 
-“*One hundred and seven.*”
+“*No. I am not going to add to it and I am not going to take any of it back.*”
+
+“*That is the whole of it and I am giving the whole of it in one sentence because a man of fifty-four has just told you why he is not giving a figure and I want to be a man who can say a thing in one sentence.*”
+
+“*I have not been further off that landing than the low gate in nineteen years and I have not walked about two hundred yards on the low side of the drain once in nineteen years.*”
+
+“*And I have just been asked by about nine of you in one morning to go, and I am not going to.*”
+
+“*And that is not a thing I am proud of and it is also not a thing anybody here can be sent for.*”
+
+Then a man of thirty-one was asked for a thing by about nine of them and could not say he wanted it and said he did not know.
+And a woman of forty counted the number of times out loud and asked him the thing nobody has asked him.
 
 Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and fifty-three days, two hundred and fifty-three being eight hundred and seven less five hundred and fifty-four. The cut across that palm is a hundred and twenty-two days old, a hundred and twenty-two being eight hundred and seven less six hundred and eighty-five.
 
-“*I am going to say what that figure is before I say anything else about it, because a man of sixty-one has just promised not to ask me and I am not going to keep the figure and let him think the promise was worth something.*”
+“*Somebody asked me at about the eighth hour this morning to go with a man of fifty-four to that ground, and to do it every week.*”
 
-“*It is the number of days I have been carrying a thing that has not been answered. It was asked at seven hundred. Eight hundred and seven less seven hundred is a hundred and seven, and I have given it every morning since the fifty-first, and this morning is the hundred and seventh of those mornings, and none of those two figures is a figure of a man and I am saying that in front of nine people before anybody puts it in a book.*”
+“*And to be the one who goes, and to say so out loud on this bank so that if I stop going somebody can notice.*”
 
-“*He asked for a figure of a man that he can check in a year. I gave him a figure of a day-count. Those are not the same figure and I knew that at about the eleventh hour last night and I gave it to him anyway because it was the only figure I have ever had of myself.*”
+“*And I am not going to say I want that and I am going to tell you exactly what happened instead, because I have tried it out in my head about four times since Wednesday and every time it comes out as me standing at the top of a cut at the ninth hour being a man who goes to a piece of ground once a week.*”
 
-“*And I have just told him what it is of after he said out loud that he was not going to ask. That is my mistake and it is not his and I have put it in his hearing before he can write it, and I would rather about four of you heard it from me than worked it out from the number.*”
+“*That is a man with a morning. That is not a man going to look at anything. I have been on this bank four weeks saying that a case cannot be served and a man of fifty-eight told us on Monday that about nine of us each think about the other eight and the one who thinks hardest goes alone.*”
 
-Nevin Trask did not write the figure down, and drew a column, and said the number of figures in that book out loud again, and said why.
+“*And what they have just asked me for is the version where I get to be the one who goes and it is called standing watch.*”
 
-“*It is two figures, and a column I drew this morning with nothing in it, and I have not drawn a column in that book in eleven years.*”
+“*And I do not know whether that is a good thing to want or a bad thing to want.*”
 
-“*I have kept that book eleven years and I can tell the difference between a figure and an answer, and I am not going to say to this bank which of those two you meant, because you have not told me either, whatever you think you have just done.*”
+“*And I have known that about four things on this bank and not one of them has turned out well.*”
 
-“*A man of about fifty-two has told us that being listened to and being able to be checked are two different things, and I have written a column for it, and I am sixty-one and I am not going to fill it in myself, and if nobody ever puts anything in it then that is the truest thing this book has ever said and it will be in ink.*”
+Then about nine of them were on that bank and a woman of forty said out loud how many times a man of thirty-one had said he did not know in nine days.
+And then asked him the thing nobody has asked him, and he answered it.
 
-Then a woman of forty-four gave three counts, and a boy of thirteen gave two of his own and one of a man of forty-three's.
+Wenna Callow is forty and has asked for a day against a name for eleven years and said out loud that a case is not a set of figures, and she will not name a room.
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about, and she read that line out loud yesterday and has not been asked to read it again.
+“*Four times in nine days. I have been counting and I am not going to pretend I have not been counting.*”
 
-“*One: a sheet of printed paper with three columns on that counter sixty-three mornings with nothing in any of the three.*”
+“*And a man of fifty-eight told us on Monday that about nine of us each think about the other eight.*”
 
-“*Two: four leaves of a hearing on that counter fifty-seven mornings with a number on them and nothing to write a name in and no names on them.*”
+“*And I have been counting you the same way I have been counting you for eleven years.*”
 
-“*And three: one hundred and two mornings of that bank, and one hundred and two is eight hundred and seven less seven hundred and five, and a woman of sixty-three stood on that counter yesterday and said that a figure of two hundred and six is not a refusal, and I have three figures of things and one of them is a hundred and two mornings of nothing, and I am not going to add them up.*”
+“*Friday of last week to a woman of twenty-nine about a name on a line. Sunday to a boy of thirteen. Wednesday to about nine of us, when you said you were not going to go and look. And this morning to about nine of us again, about a piece of ground.*”
 
-Wat Marshe is thirteen and has been in this county a hundred and fifty-four days, a hundred and fifty-four being eight hundred and seven less six hundred and fifty-three, and he has been counting the mornings about four of them do not say a figure.
+“*And here is what nobody on this bank has asked you and I am asking it.*”
 
-“*A hundred and fifty-four days, and it is one more than yesterday.*”
+“*And I am asking it in front of all of them and not in private, because that is what you have been arranging for four days and I am not going to give you the other thing.*”
 
-“*And sixty-nine is the figure for the thing a man of forty-three is keeping, and sixty-nine is eight hundred and seven less seven hundred and thirty-eight, and he has still not written the day down and I have still not given him the figure twice.*”
+“*What do you want?*”
 
-“*And I am going to say one thing about the man of sixty-one and then I am going to stop. He has got two figures in eleven years and both of them are about carts and heads. And I have got four counts and every one of them is about about four of us. And this morning he asked for a fifth and the man of thirty-one gave him a number about days, and I do not know what a book with a figure of a person in it is for, and I am going to find out.*”
+“*Not what you want done. Not what you want settled. What you want. I have asked you for eleven years in my own way about a day against a name and I have never once asked you that.*”
 
-Then he gave the want and the mistake and the cost, and the figure of the thing he has not answered, and it was not an answer.
+“*And a man of thirty-eight has stood on that bank at the ninth hour for four mornings and a man of fifty-four has walked two hundred yards and not given a figure for it.*”
 
-Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and fifty-three days, and the cut across that palm is a hundred and twenty-two days old, and he has not asked this week whether it will keep and a man of sixty-three told him on Thursday that nobody on that bank wants anything from him and that is the reason he is not asked.
+“*And about four of you have told a man of thirty-one what you cannot do.*”
 
-“*The thing I cannot say is the want. That is the first morning in eleven that the want is the part I cannot get out and the part I am going to be quiet about.*”
+“*And nobody has told you what you want, because you have been extremely careful and careful is the thing I am looking at.*”
 
-“*What I want is to be checkable. Not trusted. Checkable. There is a man of about fifty-two on this bank with four lines under him and he has used them every morning since Wednesday and caught himself once, and there is a woman of sixty-three with two hundred and six in her head and no lines at all, and I have eleven days of people telling me things and not one line anywhere under me, and a man of about fifty-two said on Wednesday that nobody has ever been able to check me and he was right.*”
+Then a man of thirty-one answered it, and it was the first thing he has said on that bank that was not a figure, a rule, a want about a day, or a mistake, and about four of them did not believe it.
 
-“*And I cannot say that out loud to a man of sixty-one with a book in his hands, because the second I say it, him writing it down is a favour to me, and everything I have been asking for on this bank for eleven days is that nothing be a favour.*”
+Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and fifty-three days, and has asked seven times in about a fortnight whether a cut across his right palm will keep and nobody has said.
 
-“*So he asked me for a figure and I could not say what I wanted and I gave him a figure anyway, and it was of a day-count and not of a man, and he saw that and said so out loud in front of about nine of us, and he has drawn an empty column for it and filled in nothing, and I am not going to fill it in either, and that is the correct thing for both of us and it costs me more than a sentence would have.*”
+“*I want somebody to be able to come to this bank and tell me that I am wrong.*”
 
-“*The mistake is the twenty-third of the same mistake and it is one day old and it is the same mistake with a want in it. I gave a man a number instead of a sentence because I could not stand there and say I want to be checked, and a number is easier to hand over and it does not cost the person receiving it anything.*”
+“*That is it and it is the same thing I said on the first morning of last week and it is what I have said every morning since.*”
 
-“*A hundred and seven days, and a hundred and seven is eight hundred and seven less seven hundred, and I have given that figure every morning since the fifty-first and this morning is the hundred and seventh of those mornings, and none of it is an answer, and a figure a man has asked for is not an answer, and I am leaving both of them alone.*”
+“*And I have been saying it as a want about somebody else for four weeks and it is about me and it has been about me the whole time.*”
 
-“*The cost is that I told a man of sixty-one a thing he had asked not to be told, because I wanted him to have it, and wanting him to have it is the mistake and not the telling. And a boy of thirteen has just said he is going to find out what a book with a figure of a person in it is for, and I am not going to stop him, and I do not know how that ends and neither does he.*”
+“*Not somebody who can say no to me once. Somebody who can come back the next morning and say it again. That is what I have said every morning and I have never once said why I want that instead of a person who could end it.*”
 
-“*Nobody is relieved of any of this morning. Nobody thanks me for giving a figure away instead of a sentence. And the right of refusal is not restored this morning and it is not given to anybody, and a man of fifty-four asked on Monday for a day against a line and was not granted one, and a man of sixty-one asked me for a figure this morning and was refused it by me and by himself, and those are not the same thing and about four of you will want them to be.*”
+“*And I am not going to give you the reason today and I am not going to pretend that is modesty. I have been asked by about nine people in one morning to go and stand at a piece of ground once a week and be a man who goes.*”
 
-About nine of them were on that bank at about the eleventh hour of a Friday with sixteen inches of water on that cut, the second morning of a full bank, and a book of heads and carts that still has two figures in it after eleven years.
+“*And if there is one person on four hundred miles who can come to this bank and tell me that I am wrong, then there is one person who can also come and tell me that I am wrong about going.*”
+
+“*That is what I want. About four of you have been hearing a man of thirty-one ask for the right to be checked for four weeks and I have been asking for it in a form where the person who checked me would have to be somebody nobody in this county can be sent for.*”
+
+“*And a woman of forty counted it four times this morning and asked it out loud and I am answering it on a Friday morning at about the eleventh hour with sixteen inches of water over the top step.*”
+
+“*And about four of you do not believe it and I am not going to argue with the four of you, because a man of thirty-eight told us on Thursday that he has got nothing and is not going to pretend he has.*”
+
+“*And the cost is that about nine of you now know what a man of thirty-one wants. About four of you are going to behave differently toward him by the middle of next week and I have done that to this bank for a fortnight without meaning to, and I did not get to choose whether it happened.*”
+
+“*A hundred and seven days. A hundred and seven is eight hundred and seven less seven hundred, and none of it is an answer, and I have given that figure every morning since the fifty-first and this morning I said a thing out loud before I gave it.*”
+
+“*Nobody is relieved of a man of thirty-four or of a woman of twenty-eight or of a bad knee. Nobody says a word of thanks to me for answering a question, and nobody is to be told I was brave about it, and about four of you are not going to believe a word of it and I have said that out loud before about nine of you.*”
+
+“*And the right of refusal is not restored this morning and I am not going to say it was. A man of fifty-four has not been granted and has not been refused. A woman of twenty-eight has not been asked. A man of thirty-four said three things and stopped at three. A man of forty-three said no in one sentence and gave the whole of the reason in that one sentence.*”
+
+“*And the one that looks most like it is me answering what I want. That is not a right of refusal. A man answering a question about himself is a man being asked, and about four of you have spent a week watching me arrange to be asked, and this morning somebody asked me and I answered and it is still me on that bank at about the eleventh hour and not one single thing about this county has changed.*”
+
+Then a man of forty-four said the thing that had been said about a barrow all week and said it a second time because nobody had answered it, and a man of about fifty-two said what a day is and did not check a figure.
+
+Tomas Elrick is forty-four and pushed a handcart up that cart road for twenty-six years and its near shaft let go on the Saturday before last. And has said twice in a week that he has not asked anybody for anything in nine years that he can remember.
+
+“*I said it on Tuesday and about four of you did not answer it and I am saying it again on Friday because a man of forty-three carried my cart up ninety steps on Tuesday and not one of you has asked me how I am and I am not going to complain about that, I am going to keep saying my thing until somebody answers it.*”
+
+“*The thing is this. About four of you have watched that cart go up ninety steps twice this week and about four of you watched two men do it on Tuesday morning and one of them had a bad knee.*”
+
+“*And about nine of you stood on that bank for six days and watched about nine of you find a morning.*”
+
+“*And I was one of the four and I did not find one, and I have got a handcart and a gravel bed that is not going to be laid.*”
+
+“*Nobody has to lift anything for me. I am not asking for a barrow. I said on Saturday that I wanted a man with a barrow and I have said that twice now and I want to be exact that what I am saying this morning is not that.*”
+
+“*What I am saying is that four people about four of us on this bank have been given a thing to carry and I have not.*”
+
+“*And that has been true for six days, and about nine of you have not looked at it once.*”
+
+Orla Fennimore is forty-four and has put her crumb of bread in her apron and her pencil in her sleeve and is not giving the third figure this morning or any morning after it. And there is a figure of about four of them on that bank that she is going to give instead.
+
+“*I am going to say a figure of about four of you this morning and it is not on that counter and it is not in my book and it is not going in either of them, and I am giving it once.*”
+
+“*One man of forty-four has said the same thing twice this week and been ignored twice. One man of forty-three carried a cart up ninety steps on Tuesday and has a bad knee and told nobody but the man he was carrying it with. One man of fifty-four has been asked for nothing for nineteen years and has not complained and is not complaining this morning either.*”
+
+“*Three. And a woman of twenty-nine said in four sentences on Thursday that about four of you have become about nine of you and it was not the water.*”
+
+“*And I have been on this bank four mornings this week and she is the only person who has counted anything on it.*”
+
+“*Four is the man of thirty-one and I am not going to give a reason and he is the one who is going to use it as a fence and I have watched him do that three mornings running.*”
+
+About nine of them were on that bank at about the eleventh hour of a Friday with a full bank about sixteen inches over the top step above them.
+And a man of forty-four had said the same thing twice and been ignored twice, and nobody had been relieved of anything.
 
 ---
 
-The fever was seventy-four weeks and six days old. He had been in that county two hundred and fifty-three days, and a hundred and twenty-two days after an offer that has not been answered.
+The fever was seventy-four weeks and six days old. He had been in that county two hundred and fifty-three days.
+And a man of thirty-four had come up that bank on Wednesday and a man of fifty-four had walked two hundred yards on Wednesday and neither of them had been asked for a figure.
 
-A man of sixty-one asked for one figure of a man he could check in a year, and was given a figure of a day-count that was one out and was told what it was of, and wrote nothing down.
-
-And a man of thirty-one said out loud that the thing he wanted was to be checkable, and then said he could not say that to a man with a book, because a favour is the one thing he has been asking this bank not to do for eleven days.
-
-And the number of days he has carried an unanswered thing was given every morning and was not an answer on any of them.
+A man of forty-three said no, in one sentence, to being asked to go and look at two hundred yards of ground he has not walked in nineteen years.
+And a woman of forty counted the number of times a man of thirty-one had said he did not know in nine days and asked him what he wanted.
+And he said that he wanted somebody who could come back the next morning and tell him that he was wrong.

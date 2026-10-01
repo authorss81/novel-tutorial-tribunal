@@ -1,123 +1,165 @@
-# Chapter 803: Seventh And Last Day Of The Hundred And Thirty-Sixth Week, And A Monday, And Four Hundred And Three Days After The Settlement, And A Man Of Sixty-One Says Out Loud That Two Things Went Wrong On One Road On The Same Morning And Neither Of Them Knew About The Other
+# Chapter 803: Seventh Day Of The Hundred And Thirty-Sixth Week, And A Monday, And A Man Of Fifty-Eight Comes Down Four Miles From The Low Gate To Say A Right Has Stopped, And A Woman Of Sixty-Four Says She Was Not Asked And Was Not Going To Be, And A Man Of Thirty-One Says He Was Not Going To Say It Would Be Easier And Does Not Say It
 
 Seventh day of the hundred and thirty-sixth week. His five hundred and fifty-third morning. Four hundred and three days after the settlement. The fever seventy-four weeks and two days. Three hundred and fifty-seven days since the division. Three hundred and three days since a page was read out in a room with the door shut, in a town in another county.
 
 ---
 
-The water was about four inches on that cut at about the seventh hour and it was one day of the coming back, and the man of forty-three gave the figure and the working and said the days run out on Monday and it is the last day of this week.
+The bank was about four inches over the top step at about the seventh hour, one day of the coming back.
+And the man of forty-three gave the reading and the working and said that a thing which has stopped is not a thing which has let go, and he had not said that before this morning.
 
-Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning, and a fourth he only says when somebody asks, and a fifth he keeps.
+Corvin Tace is forty-three and has kept that landing nineteen years. Three things every morning. He named a stone on that bank on the Sunday of the week before last and has not been asked about it by anybody. And he has said so out loud twice this week.
 
-“*Four inches at the seventh hour, and it is one day since it came off, and about the first seventy of those steps can be walked and I have walked them and the bottom two are wet and the rest are not.*”
+“*About four inches at the seventh hour, and that is one day of the coming back, and about the first eight or nine of those ninety steps are under.*”
 
-“*Four inches a day is the working underneath it and it will be sixteen on Thursday, and then it holds, and then it comes off again, and that is the whole of the water on this landing and I have said it four hundred mornings.*”
+“*Four inches a day is the working, and the first time off all ninety was the Saturday of the hundred and nineteenth week.*”
 
-“*And the next time all ninety of them can be walked is in seven days, and that is the Monday of next week, and it will be the eighteenth time.*”
+“*And tomorrow is eight days from the last one, and the eighteenth time is the Monday that closes this week.*”
 
-“*And the fifth thing is still kept and still is not written down, and a boy of thirteen has a figure for it and I have not asked him for it twice, and about four of you can see that that is the first time in two months I have not asked anybody anything.*”
+“*And here is a thing I have not said before. A shaft comes out of a socket and everybody sees it. A thing that used to be let and is not let any more, nobody sees that at all.*”
 
-Then a man of fifty-four asked for the ninth line to be read to him in the open, eighty-second morning, and said that he was not carrying anything today and was not going to be asked to.
+“*And I have kept that landing nineteen years and there is more of the second kind on it than of the first.*”
 
-Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week, and on Friday he asked for a day to be put against that line and was not granted one.
+Then a man of fifty-eight came down that cart road on foot at about the ninth hour and said that a right had stopped, and it was not his right, and he had walked four miles to say so.
 
-“*Eighty-two mornings, and eighty-two is eight hundred and three less seven hundred and twenty-one.*”
+Kem Barlew is fifty-eight and keeps no books and has kept nothing for nineteen years and has carried for eleven of them, and he came down that cart road because a barrow came down it empty on Saturday morning and he did not.
 
-“*I am not carrying anything today and I am not going to be asked to, and I am saying it out loud so that nobody has to spend the morning deciding whether to offer.*”
+“*I am not here about the cart on the flat of that bank and I have not looked at it. I have looked at it from about forty yards off and I have thought about it the whole way down and I have not got anything for it.*”
 
-“*The cart that goes up that road goes on a Wednesday and it went up on Wednesday of this week empty, because my wheel went on the Tuesday night before it. Eleven years and it has not gone up empty once. That is eleven years and about nine houses at the end of it and a bakehouse, and I am not going to give you a figure of how much bread is a thing because I do not know how much bread is.*”
+“*Eleven years ago the four houses at the low gate had a right to send one handcart down this road on a Tuesday morning and fill it off that landing at whatever the man of forty-three let them fill, and take it up again.*”
 
-“*And that cart will go up again on Wednesday of next week and it will be loaded then, because I can do five loads in two days and I have two days.*”
+“*And I have gone with that cart or sent my brother’s boy for forty-something Tuesdays.*”
 
-Then a man of sixty-one said out loud what he had found in a book of heads and carts, and a man of thirty-one answered a question about it, and the answer was two.
+“*And I have not counted them and I am not going to give you a figure this morning because I would get it wrong and about four of you would take it off me.*”
 
-Nevin Trask is sixty-one and has kept a book of heads and carts for eleven years and has two numbers written in it, and he has not written a third, and on Wednesday of last week a load of gravel came down that cart road behind a notice from a Bench and he read the notice out in the ordinary voice and did not write it down.
+“*On Tuesday of last week a man at the low gate who is not one of us stopped the cart. Not unkindly. He said the road was being measured now and he could not let a cart down it till he had said so to somebody.*”
 
-“*I am going to say a thing and then I am going to stop and I am not going to be asked a second question about it.*”
+“*And he has said so to nobody, and I do not know his name and I have not asked.*”
 
-“*That load of gravel was tipped at that low gate. That gate is three miles and six hundred yards up that road from this landing, and I have got that figure in this book and it came out of two other figures in this book and I checked it on Saturday because I check everything in this book twice.*”
+“*And here is the thing I have come down here to say out loud.*”
 
-“*And since that gravel went down, the second cart off that gate has not come down. It was to come down on the Saturday and it did not, and it was to come down on the Friday before that and it did not, and it is a Monday morning and that is two mornings it has not come down.*”
+“*And it is the whole of it. Nothing let go. Nothing broke. There is no hole in that road and no shaft out of anything and no water in the wrong place. Somebody just stopped.*”
 
-“*And here is the part I do not have a habit of saying out loud. That load of gravel was tipped at that gate on the Wednesday. The cart from this landing went up that road on the Wednesday morning, it went up empty, and it came back down it in the afternoon, and it went up past that gate and past that turn on the same day that gravel was tipped at the top of it.*”
+“*And he did it quietly, and four houses have had no lime and gravel for a week.*”
 
-“*And they did not know about each other. One of them was on that road for about an hour and the other one was on it for about ten minutes and neither of them saw the other, and I am saying that because it is the part I have not got a column for.*”
+Then about nine of them on that bank worked out what a right was, and a woman of sixty-four who had come up on her own two feet said that nobody had asked her about it and that nobody was going to.
 
-“*A thing that goes wrong twice has a cause and you can go and look for the cause. Two things that go wrong on one road on the same morning and do not know about each other have got no cause anybody can carry, and I have kept this book eleven years and there is a column for heads and a column for carts and there is no column for that, and I am not making one at sixty-one.*”
+Ada Renk is sixty-four and has a name in ink on that ninth line and has never had a day against it. And she got up out of a book of heads and carts in the open nineteen years ago and it cost her one thing a day of them.
 
-Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and forty-nine days, two hundred and forty-nine being eight hundred and three less five hundred and fifty-four. The cut across that palm is a hundred and eighteen days old, a hundred and eighteen being eight hundred and three less six hundred and eighty-five.
+“*I have come up on my own this morning and I am not going to say why and I am not going to be asked.*”
 
-“*Two, and I cannot prove they are two, and that is the answer and I am giving it in this morning before anybody asks me for a better one.*”
+“*I am going to say the thing I have come up to say. A man of fifty-eight has come down four miles on two feet to tell us that a thing has been stopped.*”
 
-“*I do not know that those are two things. I know that the wheel went on Wednesday night and that the gravel went down on Wednesday and that the two carts did not know about each other, and that is three facts and not one cause, and I am not going to stand on this bank and tell about nine of you that it is one cause because I would like it to be one cause and that is not a reason.*”
+“*And every one of you has looked at him, and not one of you has looked at this counter.*”
 
-“*A man of about fifty-two has told you that being listened to and being able to be checked are two different things and that nobody has ever been able to check me. This is me saying the same about a wheel and a gate, and I have been working on this for about a minute and the honest answer is that I cannot tell them apart and I have been standing on this bank for ten days looking for the place where they join.*”
+“*There is a notice on that road that says a thing will be decided somewhere else, later, by somebody.*”
 
-“*And I am going to say the reason I want it to be one cause, because it is the reason and it is not the working. It is easier for me when it is one thing, because one thing is one argument and I know what to do with an argument.*”
+“*And a man of sixty-one read it out in the ordinary voice and would not write it in his book. And I have been in this county nineteen years and I have seen the shape of that stop four hundred times and there was never a hole in the road and there was never a shaft.*”
 
-“*I do not know that it is one thing. That is the whole of the answer.*”
+“*A person in an office stops a thing and it does not break. It just is not there in the morning.*”
 
-Then a woman of twenty-nine in a reed said the thing about her four of us that she has been carrying since Thursday, and did not ask anybody for anything.
+“*And the people it was for find out on the day they wanted it, and that is the whole of it and nobody has to be cruel.*”
 
-Marda Vell is twenty-nine and has been in that reed a hundred and seventy-four days, a hundred and seventy-four being eight hundred and three less six hundred and twenty-nine, and she can read, and her name is in ink on that ninth line and there has never been a day against it.
+“*That is what I have come up to say and I have said it and I am not going to be thanked for coming up about nine steps, because I am sixty-four and I can still do that without it costing anybody anything except me.*”
 
-“*I have four people in that place with me and one of them is me and none of the four of us has a cart.*”
+Then a man of fifty-four had the ninth line read to him in the open, eighty-second morning, at about the tenth hour, and said what he had done at the top of those steps on Sunday and did not ask again.
 
-“*And that is not what I came up for. What I came up for is that on Friday I could not find out anything about that road from where I am, and neither could the three of them, and that has been true for a hundred and seventy-four days and I did not say so on Thursday because I did not think it was worth a morning.*”
+Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. And asked at the top of a cut on Sunday for the second time and was not granted it and was told that nobody had refused him either.
 
-“*It is worth a morning. There is a road three miles and six hundred yards from this landing with two carts on it and about four houses off a gate at the top of it, and I cannot tell one thing that has happened on it this week, and there is a bank nine feet above me where I can tell you what a man of thirty-eight said on the Monday.*”
+“*Eighty-two mornings, and I am not going to say the rest of that.*”
 
-“*I am not saying that is anybody’s fault and I am not saying it ought to be different. I am saying that it is the shape of this week and the shape of this week is that we know what is said in here and nothing that is done out there.*”
+“*I am not going to ask at the top of that cut again. I said on Sunday that I would not be able to say that the steps were dry.*”
 
-“*And I am not going to be asked to go up that road and I am going to say that now so that nobody has to decide about it later.*”
+“*And that was the reason I asked, and the reason is finished now, and I am not going to find a second reason in about four weeks and come up here with it.*”
 
-Then a woman of forty-four gave three counts and a boy of thirteen gave two, and a man of thirty-one gave the want and the mistake and the cost.
+“*And a man of fifty-eight has walked down four miles to tell us that a thing has been stopped by a person who cannot be sent for.*”
 
-Orla Fennimore is forty-four and has kept a book of twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years, and she is not a keeper of anything anybody can be sent for about.
+“*And I have been asking eighty-two mornings for a thing that cannot be done.*”
 
-“*One: a sheet of printed paper with three columns on that counter fifty-nine mornings with nothing in any of the three.*”
+“*And I would like to say that I see those two things next to each other and I cannot. That is what I would like to say and I am not saying it.*”
 
-“*Two: four leaves of a hearing on that counter fifty-three mornings with a number on them and nothing to write a name in and no names on them.*”
+Then a boy of thirteen said a figure of about four of them and said what it was, and a man of thirty-eight had nothing again and said so a second time, and said what he had learned from the first time.
 
-“*And three: ninety-eight mornings of that bank, and ninety-eight is eight hundred and three less seven hundred and five, and tomorrow is a hundred and I am telling you on a Monday evening so that it cannot be a surprise on a Wednesday morning.*”
+Wat Marshe is thirteen and has been in this county a hundred and fifty days, and he counted them in the lane this morning and it is one more than yesterday.
 
-“*And a man of sixty-one has just said that a load of gravel came down that road on Wednesday behind a notice, and about four of you have gone quiet, and I am not going to say what that is about and I am not going to be thanked for not saying it.*”
+“*A hundred and fifty days.*”
 
-Wat Marshe is thirteen and has been in this county a hundred and fifty days, a hundred and fifty being eight hundred and three less six hundred and fifty-three, and he has been counting the mornings about four of us do not say a figure.
+“*And my fourth count is eight. It went up by one again and it has gone up by one every morning since I gave it to you and I want to say out loud that I do not think that is because about four of you are getting better at saying things.*”
 
-“*A hundred and fifty days, and it is one more than yesterday.*”
+“*I think it is because about four of you have started saying things that are not figures. A man of fifty-eight said a right had stopped and a woman of sixty-four said nobody had to be cruel. Those are not figures. That is my whole count and I have got it and I am not going to pretend to have got anything else.*”
 
-“*And I have been up that cart road twice this week and I have said no reason for it and there was no reason for it, and I want to say that on this bank because a boy who goes up a road for no reason and comes back and says nothing is a boy who knows something, and I did not know anything.*”
+Garrin Tolley is thirty-eight and has a child of nine and a board in the inside of his coat with thirty-two notches cut in the edge of it, and he has given no figure since the twentieth morning and the last of them.
 
-“*And I am not going to stop doing it. I have got a count of sixty-four that a man of forty-three will not use and a count of one hundred and forty-nine that is my own, and I am going to keep the first one and check it, and I am going to keep going up that road when there is no reason, because there is no reason this week and that is when a road is worth walking.*”
+“*Nothing this morning, same as Saturday and same as Sunday.*”
 
-Ilyan Vester is thirty-one and has been in this county two hundred and forty-nine days. The cut across that palm is a hundred and eighteen days old and nobody has said whether it will keep, and he has not asked again because there is a gravel cart going up on Wednesday and he has decided not to put himself in the middle of a road with a loaded cart in it.
+“*And I am not going to keep telling you that because a man of thirty-eight saying nothing three mornings running is not a fact about the bank, it is a fact about me.*”
 
-“*The want is the same and it did not change shape this morning, and that is because nothing happened this morning that was about me.*”
+“*And I gave the fact about me on the Monday of last week and I am not going to give it four times.*”
 
-“*I want somebody who can be asked who says no and comes back the next morning and is asked again, and a man of sixty-one asked me one this morning and I gave him a straight answer and it was the second straight answer I have given in two days, and a man of fifty-four gave one yesterday without being asked, and I am not going to build anything out of two mornings.*”
+“*And a man of fifty-eight came down four miles on two feet to say a thing had been stopped, and about nine of you are standing here asking him questions about his cart.*”
 
-“*The mistake is the nineteenth of the same mistake and it is two days old and this morning I found out what the list is for.*”
+“*And I have watched about four of you do it and I am not going to say anything about it yet. I might on Thursday.*”
 
-“*The list of five things has six things on it and four of them are about people, and this morning it had a seventh, and the seventh is not a thing that has stopped. The seventh is a road that has not told anybody what it did.*”
+Then a man of thirty-one came to the end of it and said what he wanted and what it had cost, and gave the figure for the standing offer in his own mouth with the subtraction in it, and then said out loud four words of a sentence he did not finish.
+And gave the figure for the standing offer in his own mouth with the subtraction in it, and said out loud the sentence he was not going to be allowed to finish.
 
-“*So I have spent two days building a list of things about people to put in front of a thing four hundred miles off, and this morning the thing I could have put on it was three miles and six hundred yards up a cart road, and I did not go up it, because I have been asking about nine of you for things for ten days and I did not think of asking that road.*”
+Ilyan Vester is thirty-one and is nobody’s, and has been in this county two hundred and forty-nine days, two hundred and forty-nine being eight hundred and three less five hundred and fifty-four. The cut across that palm is a hundred and eighteen days old, a hundred and eighteen being eight hundred and three less six hundred and eighty-five. He has asked seven times in about a fortnight whether it will keep and nobody has said, and nobody on that bank has said, and he is not going to ask an eighth time this week.
 
-“*That is the mistake and it is not a new mistake and it is the same one and it is two days old and it will be the same one tomorrow.*”
+“*There is a sentence I have had in my mouth since about the eighth hour and I am going to give the whole of it and then stop.*”
 
-“*A hundred and three days. A hundred and three is eight hundred and three less seven hundred, and none of it is an answer, and it is Monday and the days run Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, Monday, and it starts again on the Tuesday, and I am saying that once in this volume and about four of you have it wrong already.*”
+“*And about four of you will know what I am not finishing and I am not going to let you finish it for me either.*”
 
-“*The cost is that I walked four hundred yards up that cart road to that turn this morning at about the tenth hour and I stood at that turn for a quarter of an hour and I did not see anything, and I did not walk the other three miles and six hundred yards, and about four of you know what I am telling you when I say that.*”
+“*It would be easier. That is four words and they are true and they are about nothing. They are not about this bank and they are not about that cart and they are not about a man of fifty-eight walking four miles on two feet.*”
 
-“*Nobody is relieved of any of it and nobody thanks me for walking up a road and coming back down it. And the right of refusal is not restored this morning and I am not going to say it was, and a woman of twenty-nine has said out loud that she will not be asked to go up that road and that she said it first so that nobody had to decide.*”
+“*And I am not going to finish it, because the whole of this four weeks is a man who could make it easy for about nine people in this county and it is the reason he has a cut across his right hand.*”
 
-About nine of them were on that bank at about the eleventh hour of a Monday, the last morning of that week, with four inches of water on that cut above them and a wheel of iron still in the mud at the foot of that stair.
+“*Here is the want. It has moved and I want to be exact about how.*”
+
+“*On Saturday I wanted somebody to have tried something. On Sunday a boy of thirteen asked me whether I was going to ask somebody or keep saying what I wished somebody had done.*”
+
+“*And I gave him the word I have been giving a woman of twenty-nine since Friday, which is that I do not know.*”
+
+“*And this morning I do not want anybody to have tried anything. I want that man of fifty-eight to be able to say one more name out loud today.*”
+
+“*And there is nobody in this county he can say it to who can be sent for.*”
+
+“*And I cannot be the one he says it to because I have been the one he says things to since the Monday of last week and I have a habit of it now and I do not want to be a habit in my thirties.*”
+
+“*That is the want. It is worse than the first one because it is about a person and not about a morning.*”
+
+“*The mistake is the eighteenth of the same mistake and it is about four hours old.*”
+
+“*And I gave it to myself at about the eighth hour and then a woman of sixty-four came up two steps and corrected it without looking at me.*”
+
+“*I had it in my head that this is a week where things are coming apart.*”
+
+“*And I was going to give that morning to about nine of you as a week where things are coming apart.*”
+
+“*And it is not that. A man of fifty-four is fifty-four on a bank and a man of fifty-eight is fifty-eight on a road and neither of them has a day this week that anybody has to be given.*”
+
+“*And a man of forty-three said something this morning I have been thinking about for an hour. He said there is more of the second kind on that landing than of the first. He has kept it nineteen years. I have stood on it about four weeks and I have been watching one thing come apart and calling it a pattern.*”
+
+“*And the cost is that a man of fifty-eight walked down four miles this morning to say a name out loud and the only person on this bank he can say it to is the one he came here to say it to, and that is me.*”
+
+“*A hundred and three days. A hundred and three is eight hundred and three less seven hundred, and none of it is an answer.*”
+
+“*And a man of fifty-eight has said that a thing stopped and I cannot be the one it is given to and he walked down four miles to tell us and not one of us can serve it on anybody.*”
+
+“*Nobody is relieved of a right that stopped. Nobody says a word of thanks to me for not finishing a sentence about a cart and a road. Nobody gets told I was brave about a fortnight of standing on a bank and I am not going to use the word.*”
+
+“*And a woman of sixty-four came up about nine steps this morning and I am not going to call that brave either.*”
+
+“*And the right of refusal is not restored this morning. A man of fifty-eight did not refuse anything. A person he cannot name stopped a cart and did it quietly and was not cruel.*”
+
+“*And that is not the right of anybody at all and it is not anybody refusing and I am not going to put a name on it at about the eleventh hour because I have had a sentence in my mouth all day that would have made it one.*”
+
+About nine of them were on that bank at about the eleventh hour of a Monday, the last morning of that week, with about four inches of water over the top step above them.
+And a man of fifty-eight had come down four miles to say that a thing had been stopped by somebody none of them could be sent for.
 
 ---
 
-The fever was seventy-four weeks and two days old. He had been in that county two hundred and forty-nine days, and a hundred and three days after an offer that has not been answered.
+The fever was seventy-four weeks and two days old. He had been in that county two hundred and forty-nine days, and a man of thirty-eight had not given a figure for the third morning running.
 
-A man of sixty-one said out loud that a load of gravel went down that road on Wednesday behind a notice, and that the second cart off that gate has not come down since Friday, and that the two things that went wrong on that road went wrong on the same morning and did not know about each other.
-
-And a man of thirty-one was asked whether it was one thing or two and said two, and said that he could not prove it was two, and gave the reason in the same breath.
-
-And a woman of twenty-nine in a reed said that four people in her place cannot find out what has happened on a road three miles and six hundred yards away, and said first that she would not be asked to go and find out.
+A man of fifty-eight said that a right had stopped on a road and that nothing had broken.
+And a woman of sixty-four came up two steps on her own feet and said that she had seen that shape four hundred times in nineteen years and that nobody had to be cruel for it.
+And a man of thirty-one gave four words of a sentence about what would be easier and did not finish it.
+And said that a man of fifty-four walking up ninety steps had not been refused and had not been granted, and neither of those is the right of refusal either.
