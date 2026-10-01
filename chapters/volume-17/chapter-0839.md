@@ -1,4 +1,4 @@
-# Chapter 839: First Day Of The Hundred And Forty-Second Week, And A Tuesday, And A Full Bank Holds At Sixteen For The Second Morning And The Next Time Is In Three Days, And A Thing On A Flat Has A Fifth Leaf On It And A Man Of Sixty-Four Reads The First Two Lines Of It And Says Stop And A Man Of Thirty-One Says He Is Not Going To Stop Reading On Friday
+# Chapter 839: First Day Of The Hundred And Forty-Second Week, And A Tuesday, And A Full Bank Holds At Sixteen For The Second Morning And The Next Time Is In Three Days, And A Thing On A Flat Has A Fifth Leaf On It And A Woman Of Sixty-Four Says Stop And A Man Of Sixty-One Reads The First Two Lines Of It And A Man Of Thirty-One Says He Is Not Going To Answer The Thing On That Flat On Friday By Accident
 
 First day of the hundred and forty-second week. His five hundred and eighty-ninth morning. Four hundred and thirty-nine days after the settlement. The fever seventy-nine weeks and three days. Three hundred and ninety-three days since the division. Three hundred and thirty-nine days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -10,7 +10,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*About sixteen inches at the seventh hour, and it is five days of the coming back, and that is a full bank and it holds.*”
 
-“*And the next time about ninety steps can be walked is in three days, which is the third day of this week, and that is four days after the morning it is full, and the morning it was full was Sunday.*”
+“*And the next time about ninety steps can be walked is in three days, which is the fourth day of this week, and that is four days after the morning it is full, and the morning it was full was Monday.*”
 
 “*And four inches a day is underneath all of it and anybody here can work the next one out without me, and I have been saying that for a week and about four of you have stopped asking me which is the correct number of times to stop being asked.*”
 

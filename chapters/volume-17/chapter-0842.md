@@ -10,7 +10,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*It came off at about the sixth hour and all ninety of those steps are walkable now, and there is no figure of inches to give you this morning and that is the first time in nineteen years I have been glad there is not.*”
 
-“*It is the twenty-second time. The last time was eight days ago and that was the twentieth, and the one before that was eight days before that, and eight days on from the twentieth is the twenty-first and eight days on from that is this morning.*”
+“*It is the twenty-second time. The last time was eight days ago at about the sixth hour, and that was the twenty-first, and the one before that was eight days before that and was the twentieth, and eight days on from the twentieth is the twenty-first and eight days on from that is this morning.*”
 
 “*And the next time about ninety steps can be walked is in eight days, and I know that without the water-stone and I have not looked at it.*”
 

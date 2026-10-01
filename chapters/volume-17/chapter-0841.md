@@ -14,7 +14,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years. Three thing
 
 “*And the nineteen before the last one were eight days apart, and it is eight on from the last one, and there is nothing in that I had to look up this morning.*”
 
-Then a man of sixty-one read the rest of the fifth leaf whole on that flat, in about nine ears, in the open, and read the two lines he had stopped on on Tuesday a second time, and then read eight more, and said there was nothing on the back and the back was blank.
+Then a man of sixty-one read the rest of the fifth leaf whole on that flat, in about nine ears, in the open, and read the two lines he had stopped on on Tuesday a second time, and then read the rest of it, and said there was nothing on the back and the back was blank.
 
 Nevin Trask is sixty-one, and has a book of heads and carts and two numbers in it in eleven years, and has refused since the second day of the hundred and thirty-sixth week to write a bench’s notice in it. He read four leaves a morning for four mornings, stopped on the ninth word of the fifth one when a woman of sixty-four stood up, and said on Tuesday that he would read it whole on the third day of this week or not at all.
 
@@ -24,7 +24,7 @@ Nevin Trask is sixty-one, and has a book of heads and carts and two numbers in i
 
 “*Line two: it may be taken by the person the arrangement has already named, and that person is the man of thirty-one.*”
 
-“*And then eight more, and I am going to give you the eight and not a summary of the eight, because a woman of sixty-four has spent nineteen years on a summary once already this week and none of us needed that again.*”
+“*And then the rest of it, and I am going to give you nine lines of it out loud and not a summary of the rest of it, because a woman of sixty-four has spent nineteen years on a summary once already this week and none of us needed that again.*”
 
 “*Nine: the seal may be taken now, and the taking is not a vote and cannot be counted as one.*”
 
@@ -38,7 +38,7 @@ Nevin Trask is sixty-one, and has a book of heads and carts and two numbers in i
 
 “*Fourteen: a bridge four hundred yards from where a man of thirty-four is standing would be open, and he would not be asked about it.*”
 
-“*Fifteen: and no person in this county could be sent for, for anything on those nine, and that is the last of the eight and it is the one I have been reading twice.*”
+“*Fifteen: and no person in this county could be sent for, for anything on those nine, and that is the last line of it and it is the one I have been reading twice.*”
 
 “*And that is the leaf. There is no sixteenth line and the back is blank and I turned it over on Tuesday and I am turning it over again for the same people.*”
 
@@ -88,7 +88,7 @@ Ada Renk is sixty-four and has said a word twice in nineteen years and has refus
 
 “*I am not going to say the nineteen years is a reason. I have said it was not the same thing as the eleventh line and I am saying now that it is not a reason either, and about four of you have been hoping for eleven days that I would use it.*”
 
-“*You are sixty-one and you have said you are sixty-one, and you have read sixteen lines off a page and turned it over twice, and you have done that in about nine of our ears and I am not going to be the one who tells you to stop.*”
+“*You are sixty-one and you have said you are sixty-one, and you have read fifteen lines off a page and turned it over twice, and you have done that in about nine of our ears and I am not going to be the one who tells you to stop.*”
 
 “*And I am going to say this once and then I am going to be finished with this week. I have given away nineteen years. It is gone. A thing on a flat says those two hundred and six days would be entered as answered, and it is going to enter them, and I am not frightened of it and I am tired of it.*”
 
@@ -102,7 +102,7 @@ About nine of them were on that bank at about the eleventh hour of a Thursday wi
 
 The fever was seventy-nine weeks and five days old. He had been in that county two hundred and eighty-seven days, and the cut across that palm was a hundred and fifty-six days old, and a hundred and forty-one days after an offer that was asked at the seven-hundredth and has not been answered.
 
-A man of sixty-one read the rest of the fifth leaf whole, sixteen lines and a blank back, and said line fifteen is that no person in this county could be sent for about any of the nine, and that he had read it twice.
+A man of sixty-one read the rest of the fifth leaf whole, fifteen lines and a blank back, and said line fifteen is that no person in this county could be sent for about any of the nine, and that he had read it twice.
 And a man of thirty-one verified every figure he could verify with the working, named the three of nine that are not on the ground, and said the thing on that flat is good and works and is not a threat wearing a gift.
 
 He said a lesser man than him would have said yes on Tuesday on the child alone and would have been right to, and put it in about nine ears so that nobody could say afterwards that he was given eleven days.
