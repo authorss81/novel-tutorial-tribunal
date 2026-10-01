@@ -34,7 +34,7 @@ Then a man of fifty-four said his figure and said what going down those ninety s
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has got up about half an hour earlier every morning since the Wednesday of last week. He said on Monday of last week that he would go down ninety cut steps on his own.
 
-“*Ninety-six, and that is one more than ninety-five, and I have got it before you this morning for the eighth day running.*”
+“*Ninety-seven, and that is one more than ninety-six, and I have got it before you this morning for the eighth day running.*”
 
 “*And I went down them at about the sixth hour, before the man of forty-three gave the reading. I went all the way down to the landing, and I stood on the stones at the bottom, and I came back up.*”
 

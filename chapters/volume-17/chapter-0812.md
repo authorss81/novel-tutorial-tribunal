@@ -114,7 +114,7 @@ Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read
 
 “*Ninety-one.*”
 
-“*And ninety-one is one more than ninety and I have got it before any of you this morning for the fourth day running and I am not going to stop doing that.*”
+“*And ninety-one is one more than ninety and I have got it before any of you this morning for the second day running and I am not going to stop doing that.*”
 
 “*I was asked at about the ninth hour by a man of forty-four whether I would go to that room four hundred miles off.*”
 

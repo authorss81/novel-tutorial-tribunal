@@ -114,7 +114,7 @@ Then a man of fifty-four said his figure, said what he is going to do with the t
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has got up about half an hour earlier every morning since the Wednesday of the week before last, and went down ninety cut steps yesterday morning before the reading.
 
-“*Ninety-seven, and one more than ninety-six, and I have got it before you for the ninth day running.*”
+“*Ninety-eight, and one more than ninety-seven, and I have got it before you for the ninth day running.*”
 
 “*And about four of you have stopped being surprised, and that is the right order for that to happen in.*”
 

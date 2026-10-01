@@ -118,7 +118,7 @@ Then a man of fifty-four gave his figure, said what he is going to do about tomo
 
 Barnaby Crove is fifty-four and holds the gravel on that landing and cannot read. He has asked for that line in the open every morning since the Thursday of the hundred and twenty-fifth week. He has got up about half an hour earlier every morning since the Wednesday of last week. On Tuesday he said out loud that he has not said no to a person in nineteen years.
 
-“*Ninety-five. And that is one more than ninety-four and I have got it before you this morning for the seventh day running.*”
+“*Ninety-six. And that is one more than ninety-five and I have got it before you this morning for the seventh day running.*”
 
 “*And here is what I am going to do tomorrow, and I am saying it now, because a man of thirty-eight told us in an earlier week that a thing said the morning before is a thing you cannot get out of.*”
 
