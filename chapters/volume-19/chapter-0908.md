@@ -76,6 +76,6 @@ Sena Dorr entered today’s line on the ninth run at about the tenth hour and re
 
 “That is the fifty-first morning in front of anybody, and it is a figure of mornings, and I entered it, and there was no gap in it while I was writing.”
 
-“This week was five keepers and one man with a board and one woman holding a sentence about a gate, and not one of those six things was about the nine, and none of them was entered on anything of mine, and I am not going to be asked whether they ought to have been. If somebody says to me that a line in a pound and a line on the ninth run are the same kind of thing, I will tell them to go and stand in the pound at dusk, and then they can decide.”
+“This week there were keepers on that step, and a man with a board, and a woman holding a sentence about a gate, and not one of those things was about the nine, and none of them was entered on anything of mine, and I am not going to be asked whether they ought to have been. If somebody says to me that a line in a pound and a line on the ninth run are the same kind of thing, I will tell them to go and stand in the pound at dusk, and then they can decide.”
 
 The week went out at midnight with a line in one book saying a man did not know and a man on a bank knowing which road a man of thirty-eight would come up in the morning, and neither of those things was put on anything else.

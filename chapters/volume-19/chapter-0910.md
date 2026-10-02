@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “Sixteen at the seventh hour and that is a full bank, four days of the coming back, and about sixty of those ninety steps under, on the second day of the hundred and fifty-second week, and it is a Wednesday.”
 
-“It comes off on the sixth day of the hundred and fifty-second week, which is a Sunday, at about the sixth hour, and all ninety of those steps will be walkable by about the seventh, and there will be no figure of inches on that morning and no figure of steps under, and that is the thirty-first time. I have said that day three times this week and I am not going to say it again until it has happened.”
+“It comes off on the sixth day of the hundred and fifty-second week, which is a Sunday, at about the sixth hour, and all ninety of those steps will be walkable by about the seventh, and there will be no figure of inches on that morning and no figure of steps under, and that is the thirty-first time. I have named a coming-off three times on that step and I am not going to name another until it has happened.”
 
 The woman who holds an account of what somebody else did said what she was going to do with it, out loud, in front of anybody who wanted to hear, and she said it on a morning with nothing to be about rather than on a morning with something.
 
@@ -42,13 +42,13 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 “Fifty wrong things in fifty mornings. And I have found the use. It is this. There is a thing in this county that a nobody may give, and a nobody cannot be checked and cannot be shown, and so the only men who can ever give it are men who are nobody’s. That is me, and I have been it for three hundred and fifty-six days, and it turns out that is the one thing I had.”
 
-Not one person answered him. One woman shifted her weight on the step. Nobody on that landing told him he was right and nobody told him he was wrong, and the man who keeps the pound said later, to nobody in particular, that he had heard a great many men find a use for themselves and that she had never once heard one turn into anything.
+Not one person answered him. One woman shifted her weight on the step. Nobody on that landing told him he was right and nobody told him he was wrong, and the woman who keeps the pound said later, to nobody in particular, that she had heard a great many men find a use for themselves and that she had never once heard one turn into anything.
 
-Barnaby Crove asked for a day against the ninth line for the hundred and eighty-ninth morning, and said that he had asked nobody anything this week and had been the worse for it.
+Barnaby Crove asked for a day against the ninth line for the hundred and eighty-ninth morning, and said that he had asked people what they did this week and had told nobody what any of them said, and that it had got him nothing.
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and eighty-nine mornings, which is nine hundred and ten less seven hundred and twenty-two, and then one.
 
-“A hundred and eighty-ninth. And I asked three people what they did this week and I have told nobody what any of them said, and I am no nearer a day against that ninth line than I was on Monday, and I am going to keep asking them and I am going to keep not saying.”
+“A hundred and eighty-ninth. And I have asked people what they did this week and I have told nobody what any of them said, and I am no nearer a day against that ninth line than I was on Monday, and I am going to keep asking them and I am going to keep not saying.”
 
 “That is a strange way to spend a week.”
 

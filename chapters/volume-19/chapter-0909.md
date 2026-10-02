@@ -120,6 +120,6 @@ Sena Dorr entered today’s line on the ninth run at about the tenth hour and re
 
 “That is the fifty-second morning in front of anybody, and it is a figure of mornings, and I entered it, and there was no gap in it while I was writing.”
 
-“I am not entering anything anybody said on that step this week. Not the gate, not the oven, not the heifer, not the chair. They are five people telling me what they did and it is the correct size for it, and I am a clerk of a run of days and a run of days takes a line about a day, and this is not a day.”
+“I am not entering anything anybody said on that step this week. Not the gate, not the oven, not the heifer, not the chair. They are people telling me what they did and it is the correct size for it, and I am a clerk of a run of days and a run of days takes a line about a day, and this is not a day.”
 
 Somebody had asked a woman of forty-four what she did and had not asked her again, and the woman of forty-four had said out loud that it was not to be thanked and had not been thanked, and the thing was still small and was still open and was still hers.

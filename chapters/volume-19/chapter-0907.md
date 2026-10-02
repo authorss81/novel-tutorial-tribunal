@@ -44,7 +44,7 @@ He did not sit down.
 
 “No. And it is not my board and I have not been asked about it and I am not going to be asked about it, and if I were asked about it I would tell you that I keep a yard and not a board, and that the two things are not in the same county as each other.”
 
-Nobody on that landing told him he was right and nobody told him he was wrong, and he said he would come on the first day of the hundred and fifty-second week, which is the day after this one, and nobody stopped him, and the woman who keeps the pound said that he could come and that it would not help him.
+Nobody on that landing told him he was right and nobody told him he was wrong, and he said he would come on the first day of the hundred and fifty-second week, which is two days after this one and not the morning after, and nobody stopped him, and the woman who keeps the pound said that he could come and that it would not help him.
 
 Then a man of thirty-one said that a heifer that did not come into a yard and a calf that came into a byre and went out again were two lines that could be put together, and was refused by a man who had come down the low side to look at a wall and had not meant to speak to anybody.
 

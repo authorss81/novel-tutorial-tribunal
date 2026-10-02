@@ -84,7 +84,7 @@ Wat Marshe is thirteen, has been in this county two hundred and fifty-two days, 
 
 “Nobody asked me for the count I am keeping. That is forty-four mornings of them, and a man of thirty-eight has been coming up that road all week and he is going to be here again, and he is going to ask somebody something, and I am not going to tell him what the number is when he does.”
 
-Sena Dorr entered today’s line on the ninth run at about the tenth hour and read it out herself on the fourth day of the hundred and fifty-first week, and said that the week had five keepers in it and no new position among them.
+Sena Dorr entered today’s line on the ninth run at about the tenth hour and read it out herself on the fourth day of the hundred and fifty-first week, and said that the week had keepers in it and no new position among them.
 
 “That is the forty-eighth morning in front of anybody, and it is a figure of mornings, and I entered it, and there was no gap in it while I was writing.”
 
