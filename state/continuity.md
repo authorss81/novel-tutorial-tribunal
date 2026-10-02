@@ -238,3 +238,7 @@ PREAMBLE
 ## 0AE.3 ⚠ ⚠ THE TWO THINGS THIS PASS COULD NOT REPAIR, ⚠ ⚠ AND ⚠ ⚠ NEITHER IS THE WRITER'S
 
 **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-continuity-block-0AD.md`, at the writing of the Volume 17 close, because this file stood at 26104 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
+---
+
+## 0AK. THE REVIEW REPAIR OF BAND 0003 — MOVED WHOLE, NOT ONE WORD CUT, TO `reviews/volume-18/batch-0003-repair-continuity-block-0AK.md`, BECAUSE `state/continuity.md` WENT TO SIXTY THOUSAND THREE HUNDRED AND SIX AGAINST A HARD CAP OF 60,000. **NOTHING ON THE PAGE MOVED: ZERO THREADS CLOSED, THE STANDING OFFER IS STILL UNANSWERED AT ONE HUNDRED AND EIGHTY DAYS, WHAT THREE OF THE NINE POSITIONS ARE IS STILL OPEN, THE MIDPOINT IS STILL SPENT AT `866`, AND THE WEEK BOUNDARY IS STILL `880`/`881`.** IT CARRIES THREE FIGURES AFFECTED BY THE DELETION OF THE TEN SYNOPSIS BLOCKS, THE REPAIR OF THE WEEK ORDINAL IN `877` LINES 23 AND 31, AND THE FOUR GROUND FIGURES BAND 0004 IS HANDED. NOTHING WAS SUMMARISED AND NOTHING IS CUT. THE ASSERTION IS BY FOOTPRINT: 0 LINES HERE AND **22** THERE, AS `wc -l` COUNTS THEM.
