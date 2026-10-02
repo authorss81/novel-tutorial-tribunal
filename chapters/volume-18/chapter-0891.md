@@ -8,7 +8,7 @@ Four inches came up on the top step at about the seventh hour. That was seven da
 
 Corvin Tace is forty-three, has held that landing nineteen years, gives four figures off one stone, and has never once given a fifth.
 
-“It was sixteen, two days of the coming back and about sixty of those ninety steps under on the third day of the hundred and forty-ninth week, and it came off all ninety at about the sixth hour this morning.”
+“It was sixteen, two days of the coming back and about sixty of those ninety steps under, and it came off all ninety at about the sixth hour, and that was the third day of the hundred and forty-ninth week.”
 
 “This morning it is four inches, seven days of the coming back, and about ninety of those ninety steps under. That is all three and I am not going to give you a fourth out of habit this morning.”
 
