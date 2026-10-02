@@ -26,7 +26,7 @@ Ezekiel Moss keeps a lock at the head of a cut a mile and a bit above the ash, h
 
 He took his hands out from behind his back and did not know what to do with them.
 
-“Leaving a catch loose so that a man can check it later is a good thing for about one morning. After that it is just a catch that is loose, and it is not honest, and it is not brave either. It is a thing I did so that I could walk away from it and say I had not touched it.”
+“Leaving a catch loose so that a man can check it later is a good thing for about one morning. After that it is just a catch that is loose, and it is not honest, and it is not good either. It is a thing I did so that I could walk away from it and say I had not touched it.”
 
 “You could have said that on Monday.”
 

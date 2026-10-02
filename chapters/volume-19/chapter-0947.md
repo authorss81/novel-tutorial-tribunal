@@ -50,7 +50,7 @@ He did not come further down the steps.
 
 “It was never going to be a man.”
 
-“No, and that is the part you have had three weeks to work out and I am not going to help you with it this morning.” He picked the broom up again. “And it is not going on that stone. Four is not about water and there is no line under it and there is not going to be one. If it went on that stone then every figure I have said for nineteen years would have something next to it, and a thing next to it, and you would not need anybody to be brave about anything. You would only need a man with a broom and a habit.”
+“No, and that is the part you have had three weeks to work out and I am not going to help you with it this morning.” He picked the broom up again. “And it is not going on that stone. Four is not about water and there is no line under it and there is not going to be one. If it went on that stone then every figure I have said for nineteen years would have something next to it, and a thing next to it, and you would not need anybody to be honest about anything. You would only need a man with a broom and a habit.”
 
 Then the boy came up out of the lane and gave his figure and did not look at the man of thirty-one and did not go and stand near him, and said one sentence about the morning and would not be drawn on it.
 

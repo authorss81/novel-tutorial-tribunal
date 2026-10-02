@@ -60,7 +60,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “I said on Friday I was going to stop and I meant it and it lasted ten days and it cost me more than the asking did, and I have found out that the wanting does not go anywhere while you are not asking, it just gets louder and you have more time to listen to it.”
 
-He set the barrow down. “I am going to ask again tomorrow morning and I am going to be refused, and I have worked out that I would rather be refused than be a man with nothing in his mouth, and that is not a brave thing and I am not going to stand here and make it one.”
+He set the barrow down. “I am going to ask again tomorrow morning and I am going to be refused, and I have worked out that I would rather be refused than be a man with nothing in his mouth, and that is not a good thing and I am not going to stand here and make it one.”
 
 “You are going back to asking for a day against the ninth line.”
 
