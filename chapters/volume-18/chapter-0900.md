@@ -20,7 +20,7 @@ Then the woman of forty-four said what has happened to the account, out loud, in
 
 Orla Fennimore is forty-four, has kept twenty-nine chairs for nineteen years, has put her question down five times, and is not going to put it down a sixth. She has one line in another person’s hand and nothing has been settled.
 
-“An incomplete account stays incomplete. That is the resolution and I am saying it on a Sunday morning in about nine of your ears and I am not saying it because I have got a better one.”
+“An incomplete account stays incomplete. That is what it is, and I am saying it on a Sunday morning in about nine of your ears and I am not saying it because I have got a better one.”
 
 “And it stays in use. That is the other half and it is the half that matters and nobody has ever said it to me in that shape and I have been waiting nineteen years to have to say it.”
 
@@ -52,7 +52,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 Barnaby Crove asked for a day against the ninth line for the hundred and seventy-ninth morning, and said he was not going to say anything else.
 
-Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and seventy-nine mornings, which is eight hundred and ninety less seven hundred and twenty-two, and then one.
+Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and seventy-nine mornings, which is nine hundred less seven hundred and twenty-two, and then one.
 
 “A hundred and seventy-nine. And that is the whole of what I am going to say and I am not going to add anything to it, because I have said something every morning for eleven years and I have run out of new things to say and I would rather stop than say one of the old ones again.”
 

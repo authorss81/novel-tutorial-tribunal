@@ -6,7 +6,7 @@ First day of the hundred and fiftieth week. His six hundred and forty-fifth morn
 
 The bank was up and had stopped. Sixteen inches on the top step at about the seventh hour and holding at that figure, three days of the coming back and about sixty of those ninety steps under. The man of forty-three gave the three figures and confirmed the day he had named on the Monday, with the week on it, in about nine ears.
 
-Corvin Tace is forty-three, has held that landing nineteen years, gives three figures off one stone at about the seventh hour, and has never once given a fourth.
+Corvin Tace is forty-three, has held that landing nineteen years, gives four figures off one stone at about the seventh hour, and has never once given a fifth.
 
 “Sixteen at the seventh hour and it holds, three days of the coming back, and about sixty of those ninety steps under, on the first day of the hundred and fiftieth week, which is a Tuesday.”
 

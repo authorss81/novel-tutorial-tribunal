@@ -20,7 +20,7 @@ Then the woman of forty-four said the room was hers, and said what would have to
 
 Orla Fennimore is forty-four, has kept twenty-nine chairs for nineteen years at thirteen shillings and fourpence a year, has put her question down five times, and is not going to ask a sixth person for it.
 
-“Yes. It is my room and it is for the second day of the hundred and fiftieth week, which is a Wednesday, and I am not going to be asked twice and I am not going to be thanked for saying yes on a Monday.”
+“Yes. It is my room and it is for the third day of the hundred and fiftieth week, which is a Thursday, and I am not going to be asked twice and I am not going to be thanked for saying yes on a Monday.”
 
 “There are twenty-nine chairs in it and I move them. That is the whole of what I do in that room in the morning and it has been the whole of what I do in that room in the morning for nineteen years.”
 
@@ -44,7 +44,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 “If the door is open then there is no room. If there is no room then a thing said in there is said on that step in about nine ears, and about nine ears is where everything on this landing has been said for weeks now, and every figure that has ever left that step has left it in under a day.”
 
-“And I do not act on a figure that arrives with a mouth on it. I act on a figure that arrives with a hand on it. I said that on the first day of the hundred and forty-ninth week and I have said it since and it is not improving with the day of the week.”
+“And I do not act on a figure that arrives with a mouth on it. I act on a figure that arrives with a hand on it. I said that on the first day of the hundred and forty-ninth week and I have said it since and it is not improving as the week goes on.”
 
 “You are asking me to take a thing said in a room and treat it as a thing said in public, and then I am a woman who acts on what a public mouth said, and I have spent twenty-three years not being that woman in a room with nine clerks in it.”
 
@@ -76,4 +76,4 @@ Sena Dorr entered today’s line on the ninth run at about the tenth hour and re
 
 “Today is the seventh and last day of the hundred and forty-ninth week and tomorrow is the first day of the hundred and fiftieth week and it is a Tuesday. A man of forty-three said both of those at the seventh hour and I am saying them at the tenth hour because I write the day down and he does not, and one of us is going to be the record.”
 
-A chair that had been in that passage all week was still standing against the wall of it at about the eleventh hour with its back to the room, and it was not the chair, and everybody who came up that road in the morning had walked past it without once asking which of the twenty-nine it was.
+A chair that had stood in that passage for years was still against the wall of it at about the eleventh hour with its back to the room, and it was not one of the twenty-nine, and everybody who came up that road in the morning had walked past it without once asking where it came from.

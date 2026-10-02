@@ -23,6 +23,7 @@ Orla Fennimore is forty-four, keeps twenty-nine chairs, and has kept them for ni
 “You are all going to want to know who chose the four of you. Nobody did. I said on the seventh and last day of the hundred and forty-ninth week that I am not choosing, and the first four people who came up my road at the second hour are the four people who are going in, and two of them I had spoken to that morning and two of them I had not spoken to that week.”
 
 “And it does not matter which two those were and I am not going to be asked. It is a room. It is not a reward for turning up and I am not going to have it turned into one by about four of you in the next two days.”
+
 Then a man of thirty-one said the count should be read into the ninth run as the explanation of the gap, and was refused by the woman who keeps it, in her own mouth.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred and forty-two days. The cut across that palm is two hundred and eleven days old.

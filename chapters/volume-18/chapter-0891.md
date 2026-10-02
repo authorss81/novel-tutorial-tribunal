@@ -8,7 +8,7 @@ Four inches came up on the top step at about the seventh hour. That was seven da
 
 Corvin Tace is forty-three, has held that landing nineteen years, gives four figures off one stone, and has never once given a fifth.
 
-“It was sixteen, two days of the coming back and about sixty of those ninety steps under, and it came off all ninety at about the sixth hour, and that was the third day of the hundred and forty-ninth week.”
+“It was sixteen on the second day of the hundred and forty-ninth week, one day of the coming back and about sixty of those ninety steps under, and yesterday it came off all ninety at about the sixth hour, and that was the third day of the hundred and forty-ninth week.”
 
 “This morning it is four inches, seven days of the coming back, and about ninety of those ninety steps under. That is all three and I am not going to give you a fourth out of habit this morning.”
 
@@ -62,7 +62,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 Then the woman who holds the ninth of the nine said what she is going to do with a figure when she gets one, out loud, on a Friday, with nobody in the room yet.
 
-Sena Dorr is forty-nine, has read for a living for twenty-three years in a room four hundred miles off with nine clerks in it, and holds the ninth of the nine positions, which is a public archive and not a stone, and has entered a line in front of anybody every morning since the first day of the hundred and forty-eighth week.
+Sena Dorr is forty-nine, has read for a living for twenty-three years in a room four hundred miles off with nine clerks in it, and holds the ninth of the nine positions, which is a public archive and not a stone, and has entered a line in front of anybody every morning since the sixth day of the hundred and forty-fourth week.
 
 “If a count comes into this bank with a hand on it, then it is mine to act on or not act on, and there is nobody on this landing who can make me do either.”
 
