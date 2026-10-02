@@ -76,7 +76,7 @@ Ilyan Vester, thirty-one, took it back. He said he had three wants on the ground
 
 “*And I am nobody’s, and I am going to be nobody’s for a while yet, and a man of about fifty-two has just told me in about nine of your ears that a description outgrows a wedge. I have heard that sentence about four times in about nine days about different things, and I have never once been the man who heard it and agreed.*”
 
-About nine of them were on that landing at about the tenth hour of a Wednesday with a full bank over the top step. A woman of thirty-six had entered today’s line on the last leaf of a wedge, and a man of about fifty-two had a figure of thirteen and four days of his own fortnight left in him.
+About nine of them were on that landing at about the tenth hour of a Wednesday with a full bank over the top step. A woman of thirty-six had entered today’s line on the last leaf of a wedge, and a man of about fifty-two had a figure of thirteen and eight days of his own fortnight left in him.
 
 ---
 
