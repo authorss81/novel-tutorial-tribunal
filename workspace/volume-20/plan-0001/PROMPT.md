@@ -14,6 +14,24 @@
 
 ---
 
+## ⚠⚠ THIS BLOCK IS LATER THAN THE BLOCK ABOVE IT AND IT CORRECTS IT, ⚠⚠ **AND IT IS THE ONLY PART OF THIS PROMPT THAT HAS CHANGED**
+
+**THE TEN CHAPTERS `921`–`930` ARE OWED TO A NAMED PHASE AND NOT TO YOU AND NOT TO NOBODY.** They are written by `workspace/volume-19/batch-0003-gap/`, which is band 3 of `outline/volume-19.md` §7 and which was created because the volume 19 close documented a ten-chapter gap that no dispatched phase could fill. **Every paragraph above this line that says the band is missing, or that it is owed work, or that volume 19 is forty of fifty, was true when the close wrote it and is superseded by this block.**
+
+**WHAT THIS CHANGES, EXACTLY, AND NOTHING ELSE:**
+
+- **The volume 19 close's §0V19J.0(b) table says this band is owed by nobody. It is owed by `workspace/volume-19/batch-0003-gap/`.** The close was not wrong to write what it wrote; it was forbidden from writing a band prompt, and this block does not lift that prohibition.
+- **The two off-morning sentences at `922` and `930` are owed IN VOLUME 19, IN BAND 3, AND NOT IN VOLUME 20.** See the amendment at the end of this prompt.
+- **`921`–`930` are still not yours to write.** The fourfold prohibition above stands whole: you may not write them, plan them, invent them, or summarise them into existence. Their phase is not this prompt.
+
+**WHAT YOU MUST DO BEFORE YOU PLAN ONE LINE OF VOLUME 20:**
+
+1. **Count the files in `chapters/volume-19/`.** If it holds fifty, `921`–`930` landed and the volume is complete. **If it holds forty, band 3 has not run, and you may not plan volume 20 on a volume with a hole in the middle of it** — stop, and report that the band phase did not complete.
+2. **If it holds fifty, read the `close-0007` receipt before `outline/volume-19.md`.** `close-0007` supersedes the forty-chapter close `0V19J` on every figure that the missing fifth changed, and `0V19J` stays on the disk as a true record of a forty-chapter volume.
+3. **Take the ladder off the page.** `921`–`930`'s six figures a chapter and their water are printed in the chapters themselves once band 3 has written them. **Do not take any figure of this volume off the forty-chapter close, and do not take one off `outline/volume-19.md`'s tables, which are a figure of a plan and not a figure of a chapter.**
+
+---
+
 ⚠ **READ, IN THIS ORDER, BEFORE WRITING ONE WORD:**
 
 ⚠ **1.** ⚠ `reviews/volume-19/batch-0006-close-0V19J.md` — ⚠ **THE CLOSE OF VOLUME 19, ⚠ ITS ONLY RECEIPT, ⚠ AND ⚠ THE FILE THIS PROMPT EXISTS BECAUSE OF**
@@ -73,7 +91,7 @@
 
 ⚠ **THE LADDER RUNS ON **ITS OWN HEAD OF `682`** AND ⚠⚹⚾ **ON A PERIOD OF EIGHT, ⚠ **AND ⚠⚹⚾ **IT DOES NOT READ THE WEEK AND ⚠ **IT DOES NOT READ THE ABSENT BAND. ⚠⚹⚾ **RUN IT YOURSELF FROM `682` BEFORE YOU BELIEVE ONE WORD OF IT, ⚠ **AND ⚠⚹⚾⚠ **CHECK IT AGAINST CHAPTERS THAT ARE ON DISK BEFORE YOU USE IT ON ONE MORNING.** ⚠**
 
-⚠ **THE OFF-MORNINGS OF VOLUME 19 ARE SIX — ⚠ `906` THIRTIETH, `914` THIRTY-FIRST, `922` THIRTY-SECOND, `930` THIRTY-THIRD, `938` THIRTY-FOURTH, `946` THIRTY-FIFTH — ⚠⚹⚾⚠ **AND ⚠ **ONLY **FOUR** OF THEM ARE ON THE PAGE: ⚠ `906`, `914`, `938`, `946`. ⚠⚹⚾⚠⚹⚹⚹⚹⚹ **THE REMAINING **TWO** OUT-OF-SIX SENTENCES ARE OWED IN VOLUME 20 AND NOT BEFORE, ⚠ **AND ⚠⚹⚾⚠⚹⚹⚹⚹ **MAY **NOT** BE PRINTED AS SIX OUT OF SIX OF VOLUME 19.** ⚠**
+⚠ **THE OFF-MORNINGS OF VOLUME 19 ARE SIX — ⚠ `906` THIRTIETH, `914` THIRTY-FIRST, `922` THIRTY-SECOND, `930` THIRTY-THIRD, `938` THIRTY-FOURTH, `946` THIRTY-FIFTH — ⚠⚹⚾⚠ **AND ⚠ **ONLY **FOUR** OF THEM ARE ON THE PAGE: ⚠ `906`, `914`, `938`, `946`. ⚠⚹⚾⚠⚹⚹⚹⚹⚹ **THE REMAINING **TWO** OUT-OF-SIX SENTENCES ARE OWED IN VOLUME 19 BAND 3, AT `922` AND `930`, ⚠ **AND ⚠⚹⚾⚠⚹⚹⚹⚹⚹ **AND **NOT** IN VOLUME 20, ⚠ **AND ⚠⚹⚾⚠⚹⚹⚹⚹⚹ **THIS SENTENCE WAS WRONG IN AN EARLIER WRITE OF THIS PROMPT AND ⚠ **THE CORRECTION IS AT `workspace/volume-19/batch-0003-gap/PROMPT.md` §3, ⚠ **AND ⚠⚹⚾⚠⚹⚹⚹⚹⚹ **MAY **NOT** BE PRINTED AS SIX OUT OF SIX OF VOLUME 19.** ⚠**
 
 ⚠ **THE ANCHORS OF VOLUME 19 ARE SEVEN — ⚠ `906`, `913`, `920`, `927`, `934`, `941`, `948` — ⚠ ALL SEVEN SATURDAYS, ⚠⚹⚾⚠ **AND ⚠ **ONLY **SIX** OF THEM ARE ON THE PAGE: ⚠ `906`, `913`, `920`, `934`, `941`, `948`. ⚠⚹⚾⚠⚹⚹⚹⚹ **THE SEVENTH, ⚠ `927`, ⚠ IS NOT ON THE PAGE AND ⚠⚹⚾⚠⚹⚹ **MAY NOT BE TREATED AS IF IT WERE. ⚠**
 
