@@ -1,0 +1,69 @@
+## 0V19H. ⚠ THE INDEX BLOCK FOR VOLUME 19 BAND 0005, ⚠ CHAPTERS `941`–`950`, ⚠ ⚠ ⚠ THE COUNT, ⚠ THE LAST TEN OF VOLUME 19, ⚠⚠ ⚠ **AND ⚠ THIS IS A POINTER AND NOT A SUMMARY OF A SUMMARY, ⚠⚠ ⚠ **AND ⚠ EVERY FIGURE IN IT IS A **CLAIM ABOUT A CHAPTER** AND NOT A FACT ABOUT ONE, INCLUDING THE ONES THAT ARE RIGHT.**
+
+### 0V19H.1 ⚠ PER-CHAPTER LENGTH, AS THE INSTRUMENT COUNTS THEM AFTER THE LAST EDIT
+
+⚠ `941` **2,290** · `942` **2,052** · `943` **2,158** · `944` **2,694** · `945` **2,396** · `946` **2,518** · `947` **2,203** · `948` **2,149** · `949` **2,385** · `950` **2,319**. ⚠ **AND ⚠ **THE METHOD IS NAMED BECAUSE ⚠⚹ **A LENGTH NAMED BY AN UNSTATED METHOD CANNOT BE CHECKED: ⚠ **THESE ARE THE FIGURES `reviews/volume-10/instrument.py` COUNTS, ⚠⚹ **AND `wc -w` COUNTS **ONE** MORE ON EVERY ONE OF THE TEN — ⚠ **2,291 · 2,053 · 2,159 · 2,695 · 2,397 · 2,519 · 2,204 · 2,150 · 2,386 · 2,320 — ⚠⚹ **AND ⚠ **THE TWO SETS ARE BOTH RIGHT AND NEITHER IS THE OTHER.** ⚠ **THE BAND IS 23,164 WORDS BY THE INSTRUMENT AND 23,174 BY `wc -w`, IN 1,021 SENTENCES, MEDIAN 15, OVER SIXTY 4.41%, LONGEST PARAGRAPH 119, LONGEST SENTENCE 89, AND **NO** PANEL.** ⚠⚹ **THE RANGE IS **2,052** TO **2,694** AND ⚠ **THOSE TWO ARE **NOT** THE FIRST AND THE LAST, ⚠⚹⚹ **AND ⚠⚹ **THE TWO LONGEST ARE `944` AND `946` AND ⚠ **BOTH ARE THE MORNINGS ILYAN VESTER'S BLOCK WAS ADDED TO, ⚠⚹⚹⚹ **AND ⚠ **THAT IS A FIGURE OF TWO CHAPTERS AND NOT A FIGURE OF A RULE.** ⚠
+
+### 0V19H.2 ⚠ WHAT THE BAND SPENT, ⚠ AND WHAT IT DID NOT
+
+⚠ **SPENT: ONE OFF-MORNING OF SIX — `946`, THE THIRTY-FIFTH · TWO ANCHORS OF SEVEN — `941` AND `948` · ONE COUNT OF ASKING, GIVEN ONCE AT `947:37` · THE BOY'S SILENCE ABOUT WHAT SENA DORR SAID · ORLA FENNIMORE'S ANSWER, WHICH WAS NOT AN ANSWER · THE FIGURE OF SENA DORR'S OWN MORNINGS ENTERED, ON FOUR MORNINGS ONLY.** ⚠⚹⚾⚾ **NOT SPENT: A SINGLE DAY ON THE STANDING OFFER, WHICH STANDS UNANSWERED AT **TWO HUNDRED AND FIFTY** · THE STONE, WHICH CORVIN TACE HAS NOT LET GO OF ON ANY OF THE TEN MORNINGS · A THREAD, OF WHICH **NONE** IS CLOSED · THE FIGURE OF THE WOMAN OF TWENTY-EIGHT, WHICH IS NOT SPOKEN AND IS CORRECT · ANY RELIEF AND ANY THANKS · ANY HEAD COUNT · ANY ACCOUNT WRITTEN DOWN.** ⚠
+
+### 0V19H.3 ⚠⚹ THE FIGURES THIS BAND GOT WRONG ON ITS OWN PAGE, ⚠ AND WHERE EACH ONE WAS PUT RIGHT
+
+⚠⚹⚾ **AND ⚹ EVERY ONE OF THEM WAS PUT RIGHT **INSIDE A CHAPTER FILE** AND ⚠⚹⚾ **NOT ONE WAS PUT RIGHT IN A STATE FILE AND ⚠⚹⚾ **NOT ONE WAS PUT RIGHT IN AN OUTLINE.** ⚠⚹⚾⚾ **THE FINDING WAS MADE BY A PERSON READING THE PAGE AND BY A GATE THAT KNOWS NOTHING OF THE HOUSE, ⚠ **AND ⚠ **THE NAMED-DAY DEFECT WAS FOUND BY A PERSON READING ALL **TWENTY** BACKWARD REFERENCES OF THIS BAND AND NOT BY A GATE.** ⚠
+
+| # | the figure | where it was wrong | what it was put right to | class |
+|---|---|---|---|---|
+| 1 | A FIGURE OF **SIX** | `947` | CUT FROM THE PAGE | head count |
+| 2 | A FIGURE OF **FOUR**, RE-PRINTED | `948` | CUT FROM THE PAGE | figure repeated |
+| 3 | A FIGURE OF **TWO MEN** | `947:83` | CUT FROM THE LINE | head count |
+| 4 | A FIGURE OF ASKING, IN **THREE** PLACES | `948` | CUT, AND THE MOUTH SAYS THE REFUSAL INSTEAD | figure asked for |
+| 5 | THE FIGURES OF INCHES AND DAYS IN ONE SENTENCE | `949:5` | PULLED APART | figure used as a reason |
+| 6 | ONE **SEASON** WORD | `946:85` | REPLACED BY HER OWN MOUTH | month or season |
+| 7 | A NAMED DAY, `932` FOR `939` | `947:5` | PUT RIGHT TO `939` | named day |
+
+⚠ **SIX BYTE-IDENTICAL LINES STOOD ACROSS THE TEN CHAPTERS ON THE FIRST MEASUREMENT, ⚠ **AND ⚠⚹ **THREE OF THEM CAME BACK AFTER THE PARAGRAPH WORK AND WERE CUT AGAIN, ⚠⚹⚹ **AND ⚠ **THE FIGURE OF BYTE-IDENTICAL LINES IS NOW **ZERO** AND WAS MEASURED, NOT ASSUMED.** ⚠⚹
+
+⚠ **AND ⚠⚹⚾⚾⚾ **THE FIGURE OF DUPLICATE SIX-WORD WINDOWS OF THIS BAND IS **923**, ⚠⚹⚾ **AND ALL OF THEM ARE THE VOLUME'S OWN FRAME, LADDER, DATE-LINE, ANCHOR, OFF-MORNING AND CHARACTER REGISTER, ⚠⚹⚾⚾ **AND ⚠⚹⚾⚾⚾ **THE RECEIPT'S EARLIER FIGURE OF **ZERO** FOR THAT CHECK WAS THE FIGURE OF A CALIBRATION BAND AND WAS WRONG, ⚠⚹⚾⚾ **AND IT IS CORRECTED AT `reviews/volume-19/batch-0005-batch-summary-0V19F.md` §0V19F.10, ⚠⚹⚾ **WHERE THE OLDER ROWS ARE LEFT AS PRINTED AND MARKED RATHER THAN SILENTLY REWRITTEN.** ⚠⚹⚾⚾⚾⚾
+
+### 0V19H.4 ⚠ THE SIX SIZES, `stat`-ed **LAST** AND **AFTER** THE LAST EDIT, ⚠ AND ⚠ `state/index.md` IS EXCLUDED FROM ITS OWN LIST
+
+| file | bytes | under 60,000 |
+|---|---|---|
+| `state/batch-summary.md` | **55,899** | yes |
+| `state/continuity.md` | **54,546** | yes |
+| `state/current.md` | **55,114** | yes |
+| `state/open-threads.md` | **50,523** | yes |
+| `state/character-state.md` | **57,895** | yes |
+| `state/chapter-summaries.md` | **47,329** | yes |
+
+⚠ **SIX FIGURES, SEVEN FILES, **SIX** UNDER THE CAP.** ⚠⚹ **AND ⚠⚹⚹ **EVERY ONE OF THESE SIX IS A FIGURE OF A FILE **AT THE MOMENT IT WAS `stat`-ed** ⚠ **AND ⚠⚹⚹⚹ **THE CLOSE MUST MEASURE ALL SIX AGAIN THE MORNING IT IS WRITTEN AND ⚠⚹⚹ **MUST NOT CARRY THESE SIX FORWARD.** ⚠⚹⚹⚹ ⚠ **AND `state/index.md` IS EXCLUDED FROM THIS LIST AND THAT IS EXCLUDED IN THE BLOCK ITSELF AND NOT ONLY HERE.** ⚠⚹⚹
+
+### 0V19H.5 ⚠ WHERE EVERY BLOCK OF THIS BAND IS, ⚠ AND THE FOOTPRINT ASSERTED **AFTER** EACH MOVE
+
+| the block | the whole of it is at | the pointer is |
+|---|---|---|
+| THE RECEIPT | `reviews/volume-19/batch-0005-batch-summary-0V19F.md` | `state/batch-summary.md` §0V19F |
+| THE GROUND | `reviews/volume-19/batch-0005-continuity-block-0AS.md` | `state/continuity.md` §0AS |
+| THE CURRENT RECORDS | `reviews/volume-19/batch-0005-current-records-0U.md` | `state/current.md` §0U |
+| THE THREADS | `reviews/volume-19/batch-0005-open-threads-block-1AO.md` | `state/open-threads.md` §1AO |
+| THE PEOPLE | `reviews/volume-19/batch-0005-character-state-block-2u.md` | `state/character-state.md` §2u |
+| THE SUMMARIES | `reviews/volume-19/batch-0005-chapter-summaries-0V19G.md` | `state/chapter-summaries.md` §0V19G |
+| THE INDEX | `reviews/volume-19/batch-0005-index-block-0V19H.md` | `state/index.md` §0V19H |
+
+⚠ **THE FOUR WHOLE-BLOCK MOVES MADE THIS BAND, EVERY ONE WITH ITS FOOTPRINT ASSERTED **AFTER** THE MOVE AND NOT BEFORE:** ⚠
+
+| moved whole | to | lines, `wc -l` | bytes, `stat` | own text left in the state file |
+|---|---|---|---|---|
+| `state/open-threads.md` §1AK | `reviews/volume-19/batch-0005-open-threads-moved-block-1AK.md` | **32** | **12,314** | **0** |
+| `state/chapter-summaries.md` `843`–`850` | `reviews/volume-19/batch-0005-chapter-summaries-moved-block-843-850.md` | **17** | **13,572** | **0** |
+| `state/index.md` §0V19A | `reviews/volume-19/batch-0005-index-moved-block-0V19A.md` | **30** | **9,193** | **0** |
+| `state/continuity.md` §0AB | `reviews/volume-19/batch-0005-continuity-moved-block-0AB.md` | **44** | **6,285** | **0** |
+
+⚠ **AND ⚠⚹ **NOT ONE WORD OF ANY OF THE FOUR WAS SUMMARISED OR CUT, ⚠⚹ **AND ⚠⚹⚹ **ALL FOUR ARE STILL CANON AND ⚠⚹⚹ **ONLY THE RULE IS CARRIED FORWARD FROM ANY OF THEM AND NOT ITS FIGURES.** ⚠⚹⚹⚾
+
+⚠ **AND THE TWO FOOTPRINTS THAT ARE **NOT** MOVES: ⚠⚹ **TEN NUMBERED THREADS, `1` THROUGH `10`, IN `reviews/volume-19/batch-0005-open-threads-block-1AO.md`, ⚠ AND **0** IN `state/open-threads.md`, ⚠ AND THE POINTER IS ONE LINE · ⚠ AND **0** NUMBERED DATA ROWS IN `state/current.md`, ⚠ **WHICH IS ITS RULE AND WHICH IS ASSERTED HERE AFTER THE WRITE.** ⚠⚹
+
+### 0V19H.6 ⚠ THE EXACTLY-ONE-NEXT-PHASE ASSERTION
+
+⚠ **VOLUME 19 IS COMPLETE AT `950`. ⚠⚹⚾ **THEREFORE THE NEXT PHASE IS **ONE** AND IT IS **ONE**: ⚠ `workspace/volume-19/close-0006/PROMPT.md`, ⚠⚹⚾ **THE VOLUME 19 CLOSE, ⚠ WHICH OWES NO PROSE AND WILL WRITE NONE.** ⚠⚹⚾⚾ **AND ⚠⚹⚾ **NO SECOND PHASE WAS CREATED AND ⚠⚹⚾ **NO PHASE WAS CREATED UNDER `workspace/volume-20/` BY THIS BAND.** ⚠⚹⚾⚾ **AND ⚠ **VOLUME 19 IS NOT THE ENDING OF THE MANUSCRIPT, ⚠⚹⚾ **AND THE PLANNED ENDING IS UNCHANGED BY ANYTHING IN THIS BAND.** ⚠
