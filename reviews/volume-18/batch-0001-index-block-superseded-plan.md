@@ -1,0 +1,2 @@
+MOVED WHOLE, NOT ONE WORD CUT, out of `state/index.md` at the writing of Volume 18 Band 0001, chapters `851`-`860`, because that file is at or over the hard cap of 60,000 when this band's block went in above it. It is the whole of the block for `outline/volume-18.md` AS IT STOOD, INCLUDING EVERY FIGURE IT PRINTED AND THE SIX SIZES BENEATH IT. Nothing was summarised and nothing is cut, and it is still canon, and the live block for the chapters is the one above it in that file. The assertion is by footprint: that block is 0 lines in that file and 1 here.
+

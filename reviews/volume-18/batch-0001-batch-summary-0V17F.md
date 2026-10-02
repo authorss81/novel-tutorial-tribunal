@@ -1,0 +1,6 @@
+MOVED WHOLE, NOT ONE WORD CUT, out of `state/batch-summary.md` at the writing of Volume 18 Band 0001, chapters `851`-`860`, because that file is at or over the hard cap of 60,000. It is the whole of 0V17F AS IT STOOD. Nothing was summarised and nothing is cut, and it is still canon. The assertion is by footprint: that block is 0 lines in that file and 1 here.
+
+## 0V17F. ⚠ BAND 0004 RE-CERTIFICATION, CHAPTERS 831–838 — ⚠ **THIS PHASE FOUND ITSELF DISPATCHED INTO A BAND THAT WAS ALREADY WRITTEN, CERTIFIED AND MARKED, ⚠ DID NOT OVERWRITE TEN FINISHED CHAPTERS, ⚠ DID NOTHING AGAINST ANY MARKER, ⚠ DID NOT WAIT, ⚠ AND FOUND FIFTEEN FIGURES WRONG IN THE PROSE OF CHAPTERS THAT HAD PASSED EVERY GATE IN THIS REPOSITORY AND REPAIRED ALL FIFTEEN. ⚠ THE WHOLE OF IT, EVERY FINDING, EVERY GATE FIGURE WITH ITS CALIBRATION BESIDE IT AND EVERY READING KEPT WITH ITS REASON, IS AT `reviews/volume-17/batch-0004-recertification-831-838.md`, AND ⚠ THIS BLOCK IS A POINTER AND NOT A SUMMARY OF A SUMMARY.**
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
