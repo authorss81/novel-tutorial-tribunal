@@ -49,7 +49,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 Then a woman of forty-one who holds a seat with no stone behind it asked for the figure of houses so that the bank could plan something, and was refused in a mouth with the working.
 
-Ivet Quillon is forty-one and holds a seat that has no stone behind it, and has never once pretended there was going to be one, and has said the ordinary form in about nine ears more than once and has never once given it a name. There are two of us of forty-one on that step this morning, and she washes lime and I hold a seat with nothing behind it, and about four of you have had us the wrong way round since the sixth hour.
+Ivet Quillon is forty-one and holds a seat that has no stone behind it, and has never once pretended there was going to be one, and has said the ordinary form in about nine ears more than once and has never once given it a name. There are two of them of forty-one on that step this morning, and one of them washes lime and the other one holds a seat with nothing behind it, and about four of you have had them the wrong way round since the sixth hour.
 
 “Then give me the number. Not for writing down. For planning. I will go and be the one who asks at the doors and you will not have to go at all, and we will do it in an order instead of at random.”
 
@@ -67,7 +67,7 @@ Marda Vell is twenty-nine, and there is a run of days for her that is in a reed,
 
 “A figure of houses is not a figure of people. That is the whole of what she said and she said it first, and I am not going to say it a second time.”
 
-“And I am going to say the thing that makes it true for me, which is that I keep a figure. One of them. My own. Two hundred and fifty-two mornings of it and I write it down and nobody has ever asked me for it and nobody ever will.”
+“And I am going to say the thing that makes it true for me, which is that I keep a figure. One of them. My own. Two hundred and fifty-five mornings of it and I write it down and nobody has ever asked me for it and nobody ever will.”
 
 “That is the only figure I have and I have never once used it on anything else. Not on how many houses I have lived in. Not on how many people are in any of them. A figure you have kept about one thing does not get to go out and stand for other things, and about four of you have been letting it out all week without asking me.”
 
@@ -75,13 +75,13 @@ Marda Vell is twenty-nine, and there is a run of days for her that is in a reed,
 
 “And I am going to say the other half of it, which is that I would still rather be a figure of nobody than a figure of one of something.”
 
-“You do not know that about me. You have known it since the third day of the hundred and forty-seventh week, when a man of thirty-one used my name as an example and got a thing out of it, and about four of you have been trying to put me on that bank since then, and I have said no and you have written it down and here we are on the fourth day of another week.”
+“You do not know that about me. You have known it since the second day of the hundred and forty-seventh week, when a man of forty-seven put my name into an argument of his own and got a thing out of it, and about four of you have been trying to put me on that bank since then, and I have said no and you have written it down and here we are on the fourth day of another week.”
 
 “You want a woman in a reed to be the fifth ordinary thing on a landing with a ferry and a drain and a school and a gate. I would be the fifth and there would be a figure of five, and I would rather be nobody and have it be four.”
 
 “And I am going to say one more thing and then I am finished. There is not one person on this bank who has ever asked me how many houses I have lived in, and there is not one person on this bank who would know what to do with the answer.”
 
-“You have all spent a week learning it from two people who cannot tell two kinds of number apart standing next to each other. I can tell them apart. It is the only thing I have ever been asked for and I have never once said yes to it.”
+“You have all spent a week learning it from two people standing next to each other, and you still cannot tell one figure from the other. I can tell them apart. It is the only thing I have ever been asked for and I have never once said yes to it.”
 
 Barnaby Crove asked for a day against the ninth line for the hundred and sixty-third morning, and asked the woman in the reed for one, and got what she gave him.
 

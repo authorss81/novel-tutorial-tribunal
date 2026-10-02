@@ -34,7 +34,7 @@ Orla Fennimore is forty-four, has kept twenty-nine chairs at thirteen shillings 
 
 “I am going to say it, and I want the whole bank to notice that I am saying it, and I am not saying it because I have found it. It has been said on this landing for eleven days in four or five mouths and every one of you has heard it.”
 
-“A complete account is not the right of refusal. It has never been that, and a person cannot get it back by asking for the pages.”
+“A complete account is not the right of refusal. It has never been that, and there is a name on that landing that may not be put on it in a mouth, and a person cannot buy an answer by asking somebody for the pages.”
 
 “A run with a hole at the front of it is not it either. That is not a discovery either. A man who keeps a boat said that on the first day of the hundred and forty-seventh week and it is true and it is not what we are looking for.”
 
@@ -42,13 +42,13 @@ Orla Fennimore is forty-four, has kept twenty-nine chairs at thirteen shillings 
 
 Then the woman who rings the bell at the seventh of the nine had three sentences of her own, and she had had them since she took the seventh, and she said them out loud so that about four of you would have heard the shape out loud three times in one morning.
 
-Hessa Vinch is thirty-six and holds the seventh of the nine positions and has a hand-bell on a bracket by the stone, and she rings it on the mornings the work is done, and she has never once entered a day on a leaf.
+Hessa Vinch is thirty-six and holds the seventh of the nine positions and has a hand-bell on a bracket with nothing behind it, and she rings it on the mornings the work is done, and she enters the day on a leaf like anybody else, and the front of that run was burnt before she took it.
 
 “A bell is not it. A bell rung for a thing that did not happen is not a day somebody did the work, and a bell rung for a thing that did happen is not a day either. It is a bell.”
 
 “A run with a hole at the front of it is not it. I have heard it said on this landing by four or five people in a fortnight and I am saying it now and it is the same sentence.”
 
-“An incomplete account is not it. And I hold the seventh of the nine and it is a stone and it is the one position anybody standing in front of it can look at, and it is still not it, and if that does not stop nine of you then nothing will.”
+“An incomplete account is not it. And I hold the seventh of the nine and there is no stone behind it, and the front of that run was burnt before I took it and what is left of it is a wedge, and that is the one position on that page nobody can go and look at, and it is still not it, and if that does not stop nine of you then nothing will.”
 
 “Now here is what I am not doing this morning. I am not putting it down a sixth time. One word of it has never moved and it is not going to move, and I would rather carry it unanswered for nineteen more years than hand it to a phrase.”
 

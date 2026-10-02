@@ -10,7 +10,7 @@ Corvin Tace is forty-three, has held that landing nineteen years, gives four fig
 
 “Four at the seventh hour, seven days of the coming back, and about ninety of those ninety steps under, and it came up four inches since the sixth hour yesterday and all ninety of them were dry at the seventh hour.”
 
-“Ninety. Not sixty. I said about sixty on the Saturday of the hundred and forty-seventh week and it came off all ninety this morning at the sixth hour, which is why it is ninety and not sixty, and I would rather be out by thirty than in by thirty.”
+“Ninety. Not sixty. I said about sixty on the Saturday of the hundred and forty-eighth week and it came off all ninety this morning at the sixth hour, which is why it is ninety and not sixty, and I would rather be out by thirty than in by thirty.”
 
 Then a man of thirty-eight came up with a case, and it took one morning, and nobody on that bank used the word world.
 

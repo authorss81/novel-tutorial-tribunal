@@ -16,7 +16,7 @@ Corvin Tace is forty-three, has held that landing nineteen years, gives four thi
 
 “Nineteen years. Every eighth morning the four things have nothing to be about, and I have got up at the fifth hour on every one of them and walked to a step and said so out loud to whoever turned up.”
 
-“That is not a practice anybody taught me and it is not on a page. It is a man who cannot stand on a wet step by himself finding out once and then getting up at the fifth hour about two hundred more times to be sure.”
+“That is not a practice anybody taught me and it is not on a page. It is a man who cannot stand on a wet step by himself finding out once, and then getting up at the fifth hour on every one of them since, to be sure.”
 
 “About four of you have thought that was superstition. It is the opposite of superstition. It is the only thing I have got that is the same every eighth morning.”
 
@@ -34,31 +34,31 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 “I will pay for the lime. That is the answer to the eleven days. You wash and I pay for the lime out of what I have got, and there is not enough, and everybody here knows there is not enough, and I am offering it anyway because it is mine to offer.”
 
-Hannah Voss said what paying for the lime is, and gave the working for the fifth time, in one sentence.
+Hannah Voss said what paying for the lime is, and gave the fifth piece of the working again, in one sentence.
 
-“No. And that is the wrong shape and it is the wrong shape because you have been trying for four days to become two people and now you have tried to buy your way into the second half of it.”
+“No. And that is the wrong shape and it is the wrong shape because you have been trying for five days to become two people and now you have tried to buy your way into the second half of it.”
 
 “Paying for the lime does not put a second person in a cold room for eleven days who is allowed to say stop and who goes home to a different house at night. Money does not do that. There is no arrangement in this county that does that.”
 
 “And I want to say the other half, because I have been asked to be harder and I am not going to be.”
 
-“Now I am going to say the other half and it is not for you. Four people have said no to a man this week and one of them is me and I have not enjoyed a syllable of it, and I would rather you had not come up that road at all and I would rather still that the second person was standing on this step this morning instead of you.”
+“Now I am going to say the other half and it is not for you. A man has been told no five times since the first day of the hundred and forty-eighth week and it has been two people saying it, and one of the two is me and I have not enjoyed a syllable of it, and I would rather you had not come up that road at all and I would rather still that the second person was standing on this step this morning instead of you.”
 
 “That is what the refusing costs. It is mine. It is not yours and I am not going to hand it to you and call that fairness.”
 
-“This is the one I am refusing. Because it is the shape that lets a man be two people, and I have been refusing that shape since the first day of the hundred and forty-eighth week, and I would have refused it whether you had offered me money or a week of my own life or nothing at all, which is what I would rather you had.”
+“This is the one I am refusing. Because it is the shape that lets a man be two people, and I have been refusing that shape every morning since you first offered, and I would have refused it whether you had offered me money or a week of my own life or nothing at all, which is what I would rather you had.”
 
 “That is the whole of the working and I have said five pieces of it across three mornings. It may not be done alone. The asking and the reading are two jobs. A refusal at a door cannot be carried. And the second person is not a pair of hands, it is somebody who can say no and does not sleep in my house.”
 
-“You have been refused three times and about four of you have been waiting to see whether this one was softer. It was not softer. It was the same one with a different thing in your mouth.”
+“You have been refused five times since the first day of the hundred and forty-eighth week and about four of you have been waiting to see whether this one was softer. It was not softer. It was the same one with a different thing in your mouth.”
 
 Then a man of fifty-four asked for a day against the ninth line for the hundred and sixty-ninth morning, and said what a figure of working days sounded like to a man who cannot read.
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and sixty-nine mornings, which is eight hundred and ninety less seven hundred and twenty-two, and then one.
 
-“A hundred and sixty-nine. And I have said that figure one hundred and sixty-nine times and I could not read it if it was written down in front of me.”
+“A hundred and sixty-nine. And I have said that figure a hundred and sixty-nine times and I could not read it if it was written down in front of me.”
 
-“And there is a number on that step now that everybody has heard twice and that is eleven, and it belongs to a woman who washes lime, and I have been trying for two days to work out what it is.”
+“And there is a number on that step now that everybody has heard twice and that is eleven, and it belongs to a woman who washes lime, and I have been trying for five days to work out what it is.”
 
 “Eleven days is not a number of days like mine. Mine is a number of mornings I have stood here and asked. Hers is a number of days somebody worked with her hands up a ladder in rooms that are not hers.”
 
@@ -72,12 +72,12 @@ Wat Marshe is thirteen, has been in this county two hundred and thirty-seven day
 
 “And nobody has asked me to count anything this week. Nobody. Not the gap, not the stitching, not the eleven. I counted the houses from the top step on the first day of the hundred and forty-eighth week and I have not said my number and I am not going to.”
 
-Sena Dorr entered today’s line on the ninth run at about the tenth hour and read it out herself on the twenty-eighth off-morning, and said what four days had come to.
+Sena Dorr entered today’s line on the ninth run at about the tenth hour and read it out herself on the twenty-eighth off-morning, and said what the ten mornings had come to.
 
 “That is the thirty-third morning in front of anybody, and it is a figure of mornings, and I entered it, and today is not a gap.”
 
 “And the arrangement is four hundred miles off and it is still answering, and it answered inside this week, and there is still not one person on this landing in the room where it answers.”
 
-“And nothing was done in the last four days that I am going to have to report to nine clerks, because nothing was done. A woman said no to a man on three mornings and a man said a barrow belonged to a boy on the third day of the hundred and forty-eighth week and a man of fifty-four stood on a step and heard a difference between two figures. That is the fortnight and that is most of it.”
+“And nothing was done since the first day of the hundred and forty-eighth week that I am going to have to report to nine clerks, because nothing was done. A woman who washes lime said no to a man on three mornings and a woman of forty-four said no to him on two, and a man said a barrow belonged to a boy on the third day of the hundred and forty-eighth week, and a man of fifty-four stood on a step and heard a difference between two figures. That is the ten mornings and that is most of it.”
 
 About four of them were still on that bank when the light came off the top of it, and the woman who washes lime had gone down the cut with an empty bucket, and the man of thirty-one was still on the step with a hundred and ninety days in his mouth that nobody had answered and nobody was going to, and all ninety of those steps were dry.

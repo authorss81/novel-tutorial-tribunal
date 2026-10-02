@@ -16,9 +16,9 @@ Corvin Tace is forty-three, has held that landing nineteen years, and gave four 
 
 Then the woman who washes lime said the last piece of the working, which is about the second person, and would not say who it is.
 
-Hannah Voss is forty-one and washes lime, and has said four pieces of a working on the fifth day of the hundred and forty-eighth week and has not been asked for any of them.
+Hannah Voss is forty-one and washes lime, and has said five pieces of a working on the fifth day of the hundred and forty-eighth week and has not been asked for any of them.
 
-“There is a fifth piece and I have been sitting on it since Saturday and I am giving it this morning because nobody asked and I would rather have it out of me than have it sitting in a bucket.”
+“There is a fifth piece and I said it on the fifth day of the hundred and forty-eighth week and I have been sitting on it since, and I am saying it again this morning because nobody asked and I would rather have it out of me than have it sitting in a bucket.”
 
 “The second person is not a set of hands. That is what everybody thinks. A man of thirty-one offered me eleven of his own mornings, and a woman of forty-one who holds a seat with nothing behind it offered to go and be the one who asked at the doors so that I would not have to go at all, and both of them were offering to be a second pair of hands, and a second pair of hands on a ladder is worth nothing.”
 
@@ -70,9 +70,9 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “I asked a woman of twenty-nine on the fourth day of the hundred and forty-eighth week, in front of all of you, for a day. And she said no in one word and gave me no figure and no reason and was not unkind about it and was not troubled about it.”
 
-“I have been holding that no for three days and I am not going to use it for anything. It is not a notch and it is not an entry and it is not a thing I am going to bring up on a Friday and say she said no again.”
+“I have been holding that no for five days and I am not going to use it for anything. It is not a notch and it is not an entry and it is not a thing I am going to bring up on a Friday and say she said no again.”
 
-“And I have not asked the woman who washes lime. I told this bank on the first day of the hundred and forty-eighth week that I was not going to ask her anything and I have kept to it, and I want that kept in the record too, because about four of you have been waiting three days for me to break it.”
+“And I have not asked the woman who washes lime. I told this bank on the first day of the hundred and forty-eighth week that I was not going to ask her anything and I have kept to it, and I want that kept in the record too, because about four of you have been waiting five days for me to break it.”
 
 “And here is why I am not going to ask her either. If she said a name on that step then that person would be doing it because nine of us were here. I have been doing this eleven years with nobody watching and I am not going to be the reason somebody gets watched.”
 
@@ -84,4 +84,4 @@ Wat Marshe is thirteen, has been in this county two hundred and thirty-six days,
 
 “I am thirteen and I am on this bank and I read things out in three pieces. That is not the same as standing in somebody’s cold room for eleven days and being allowed to say stop. Nobody has asked me and nobody is going to and I would like it said on this step that nobody asked me.”
 
-Four days in a row, about four of them had looked at the boy of thirteen every time a thing was proposed on that step, and on the fourth day a woman of forty-one said out loud that a figure she keeps about one thing does not get to go out and stand for other things, and nobody has repeated it since and about four of them had written it down.
+On four mornings in a row about four of them had looked at the boy of thirteen every time a thing was proposed on that step, and the first of the four was the fourth day of the hundred and forty-eighth week, a Friday, when a woman of twenty-nine in a reed said out loud that a figure she keeps about one thing does not get to go out and stand for other things, and nobody has repeated it since and about four of them had written it down.

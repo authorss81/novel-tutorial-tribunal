@@ -74,8 +74,6 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years in a room 
 
 “And the reason is the oldest one on this landing. The leaves it stands for were cut out and used, and nobody alive saw them cut, and a thing nobody saw cannot be turned back into a count of mornings by anybody, including me, including a boy of thirteen, including a man of forty-three with his hand on a stone.”
 
-“A count of stitches in a gap is not a count of days and it cannot be turned into one, because the leaves it stands for were cut out and used and nobody alive saw them cut. I have said that and I am saying it again in my own mouth and it is the same sentence.”
-
 “That is the thirty-first morning in front of anybody, and it is a figure of mornings, and I entered it on the first day of the hundred and forty-ninth week, and there is no gap in it and there was no gap in it this morning.”
 
 Barnaby Crove asked for a day against the ninth line for the hundred and sixty-seventh morning, and said what he thought about a morning where nothing was counted.

@@ -66,7 +66,7 @@ Garrin Tolley is thirty-eight, has a child of nine, and has a board in the insid
 
 “You have been given it on the seventh and last day of the hundred and forty-fifth week and on the fourth day of the hundred and forty-seventh week and on the sixth day of the hundred and forty-seventh week. Same words every time. You are going to keep asking and nobody is going to change, and I am not going to improve it to be kind to you.”
 
-“And I will tell you the whole of what I have, since you have asked me twice this week. Knowing which of the nine a person can be shown is not knowing what the other three are. That is all of it. You have had that since the Wednesday of the hundred and forty-second week and it will not move.”
+“And I will tell you the whole of what I have, since you have asked me twice this week. Knowing which of the nine a person can be shown is not knowing what the other three are. That is all of it. You have had the six and the three since the Wednesday of the hundred and forty-second week, and you have had that sentence since the Thursday of the hundred and forty-seventh week, and it will not move.”
 
 Barnaby Crove asked for a day against the ninth line for the hundred and sixty-sixth morning, and said what a Monday is for.
 

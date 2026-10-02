@@ -26,11 +26,11 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 “So take eleven mornings of mine. That is not a favour, that is the trade. I have got them and you have not, and a man of thirty-one walking four hundred miles is cheaper than a woman of forty-one on a ladder, and everybody on that bank knows it.”
 
-Hannah Voss put the brush across the top of the bucket and gave the working in four pieces, and he was not told he was right.
+Hannah Voss put the brush across the top of the bucket and gave the working in four pieces and then the fifth, and he was not told he was right.
 
 “I am not going to say whether that was a good offer. I am going to tell you what you have just done, and then you can go away and decide about yourself for as long as you like.”
 
-“No, and here is the working, in four pieces, and I am going to say all four because about four of you will take the first and stop.”
+“No, and here is the working, in four pieces, and I am going to say all four because about four of you will take the first and stop. And then there is a fifth, and you are all going to want the fifth before you have had the four.”
 
 “One. It may not be done alone, and you are the only man in this county who has offered, so you are the last man here who can be asked. That is not a compliment. It is the shape of it.”
 
@@ -40,9 +40,11 @@ Hannah Voss put the brush across the top of the bucket and gave the working in f
 
 “Four. So it is two people, and the two of them cannot be two halves of one person, and a man who offers his mornings is offering to be two people, and he does not get to be two people. That is not me refusing your offer. That is the offer not being the shape of the job.”
 
-“And the cost, since somebody was going to ask for it and I would rather hand it over than have it taken out of me. It is eleven days of my working. Eleven. That is the whole figure and it is mine and it belongs to nobody on that bank.”
+“And the cost, since somebody was going to ask for it and I would rather hand it over than have it taken out of me. It is eleven days of my working, and that is one lane and eleven houses and it took me eleven days, and I am not going to have anybody do that sum for me in a different direction. Eleven. That is mine and it belongs to nobody on that bank.”
 
-“It is a figure of working days and it is not a figure of miles, and there is no figure of miles on this landing, and I am not going to have one put beside it.”
+“It is a figure of working days for one lane of it and it is not a figure of miles, and the four hundred miles of it has no figure of days in it at all, because a house that lets me in is a day and I am not going to tell you how many houses there are.”
+
+“Five. And this is the fifth piece and I have not said it to anybody before today, and it is the smallest one and it is the one that stops it. There has to be a person with me who is allowed to say stop, and there is nobody on this landing I am willing to name for it, and until there is, it does not happen.”
 
 Then a man of about fifty-two said, out loud, that about four of them had already done the arithmetic, and that the arithmetic was the mistake.
 
