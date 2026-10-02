@@ -12,7 +12,7 @@ Corvin Tace is forty-three, has held that landing nineteen years, and gave four 
 
 “And I said yesterday that it would be a full bank on the seventh and last day of the hundred and forty-eighth week, and it is the sixth day of the hundred and forty-eighth week and it is a full bank, and I said it a day early. I would rather be out by a day than in by one.”
 
-Then a man of thirty-one got as far as the name of a thing, and stopped one word late, and the woman who owns the question finished it for him and refused it.
+Then a man of thirty-one got as far as the name of a thing, and stopped one word late, and the woman who owns the question told him to finish it, and he stopped in his own mouth instead.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred and thirty-two days. The cut across that palm is two hundred and one days old.
 
