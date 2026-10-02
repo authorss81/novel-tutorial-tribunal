@@ -22,7 +22,7 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years in a room 
 
 “*The ninth line is not mine. It is the arrangement’s own record for the ninth position, and it is a run of days as well, and it has a leaf for every day, and there is not one line entered on one of those leaves, and there never has been.*”
 
-“*A woman of sixty-four has a name in ink on the index of that one. A man of fifty-four has asked for a day against it for a hundred and thirty-seven mornings. Neither of those is a day on it, and I am not going to let about four of you put the two books together because they both have leaves in them.*”
+“*A woman of sixty-four has a name in ink on the index of that one. A man of fifty-four has asked for a day against it for a hundred and thirty-eight mornings. Neither of those is a day on it, and I am not going to let about four of you put the two books together because they both have leaves in them.*”
 
 “*Two runs, and the same shape, and one of them is full from here forward and one of them is empty from the first leaf to the last. Nobody on this landing can say which of them is worse, because they are not the same kind of thing.*”
 
@@ -79,7 +79,7 @@ About nine of them were on that landing at about the eleventh hour of a Monday w
 About four inches stood over the top step with seven days of the coming back, and about ninety of the ninety steps were under, and the man of forty-three gave the figure before the inches for the second morning running.
 The ninth run and the ninth line went side by side on the dry stone and a woman of forty-nine said they are not the same book. The ninth run is hers, with one line on a leaf for a day and a gap in the stitching at the front. The ninth line is the arrangement’s own record, also a run of days, with a leaf for every day and not one line entered on any of them.
 
-A woman of sixty-four has a name in ink on its index, and a man of fifty-four has asked for a day against it for a hundred and thirty-seven mornings. Two runs of the same shape, one full from here forward and one empty from the first leaf to the last.
+A woman of sixty-four has a name in ink on its index, and a man of fifty-four has asked for a day against it for a hundred and thirty-eight mornings. Two runs of the same shape, one full from here forward and one empty from the first leaf to the last.
 And a man of thirty-one said the ordinary form makes a position checkable, and a woman of forty-four said it makes a record checkable, and that those are two different days, and that about four of them had been using one of them for a week and calling it the other.
 
 And a man of thirty-one asked a woman of forty-four to write the ordinary form in her book, and she said no, and said her book is twenty-nine chairs, and that in about four weeks a man of thirty-one would have written the right of refusal into a keeper’s book of chairs, and that about nine people who were not in that room would read it and find out what it was for from the page. And that if it went under no chair it would not be in the book.

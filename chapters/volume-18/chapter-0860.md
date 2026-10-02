@@ -16,7 +16,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and gives f
 
 At about the ninth hour a man of fifty-four asked for a day against the ninth line for the hundred and thirty-ninth morning, and then asked for something else. He said the second thing was smaller and available, and about nine of them heard both.
 
-Barnaby Crove is fifty-four, holds the gravel on that landing, cannot read, and has asked for a day against the ninth line for a hundred and thirty-eight mornings, which is eight hundred and sixty less seven hundred and twenty-two, and then one.
+Barnaby Crove is fifty-four, holds the gravel on that landing, cannot read, and has asked for a day against the ninth line for a hundred and thirty-nine mornings, which is eight hundred and sixty less seven hundred and twenty-two, and then one.
 
 “*A hundred and thirty-nine, and I have asked it every morning of this week and six mornings of the week before, and I am going to keep asking it, and I am not going to be at you about it.*”
 

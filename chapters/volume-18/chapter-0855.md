@@ -50,7 +50,7 @@ Barnaby Crove is fifty-four, holds the gravel there, cannot read, and has asked 
 
 “*Then I am going to ask you for it anyway, and I am going to say why, and it is the first time in about nine days I have wanted a thing on this bank that I could have had.*”
 
-“*I have been asking for a day on a book four hundred miles off for a hundred and thirty-three mornings, and a figure of stitches is the first thing anybody has put in front of me this week that somebody counted themselves.*”
+“*I have been asking for a day on a book four hundred miles off for a hundred and thirty-four mornings, and a figure of stitches is the first thing anybody has put in front of me this week that somebody counted themselves.*”
 
 “*And I am not asking you to tell me. I am asking you to say that you counted it. You have said that. I am going on Monday and I am going to ask for the count, and about four of you can go with me or not.*”
 
