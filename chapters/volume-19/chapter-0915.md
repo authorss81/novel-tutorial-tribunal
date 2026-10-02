@@ -16,7 +16,7 @@ Then the woman who keeps twenty-nine chairs came up at the tenth hour and said t
 
 Orla Fennimore is forty-four, has kept twenty-nine chairs for nineteen years at thirteen shillings and fourpence a year, has put her question down five times, and is not going to put it down a sixth. She was asked what she did on one morning by a woman who holds an account, once, and has not been asked again.
 
-“A woman asked me on Tuesday what I did on a Wednesday in June, once, and told me before she asked that she would not ask me again, and she has not, and I want to say something about that and I have been standing in that yard for a week working out how to say it without it sounding like gratitude, because it is not gratitude and I am not going to thank anybody for it.”
+“A woman asked me on Tuesday what I did on a Wednesday, once, and told me before she asked that she would not ask me again, and she has not, and I want to say something about that and I have been standing in that yard for a week working out how to say it without it sounding like gratitude, because it is not gratitude and I am not going to thank anybody for it.”
 
 “What is it, then.”
 
@@ -46,9 +46,9 @@ Orla Fennimore is forty-four, has kept twenty-nine chairs for nineteen years at 
 
 Then Pol Dunnage came up the cart road with flour on his hands and a piece of chalk in his coat, and said the thing he keeps not saying, and it turned out to be about a wall.
 
-Pol Dunnage keeps the bakehouse four miles up that cart road, in the village the road goes through, is the second house on the left after the wall, and came up the road on a Friday morning with a cold chisel in his coat where anybody could see it.
+Pol Dunnage keeps the bakehouse four miles up that cart road, in the village the road goes through, is the second house on the left after the wall, and came up the road on a Monday morning with a piece of chalk in his coat where anybody could see it.
 
-“The damp in that wall has got worse since Michaelmas and I have done nothing about it, and I am going to say that on this step to a man I have not met, and I would like it understood that I am not asking you to advise me and I am not going to advise you.”
+“The damp in that wall has got worse since the frost and I have done nothing about it, and I am going to say that on this step to a man I have not met, and I would like it understood that I am not asking you to advise me and I am not going to advise you.”
 
 “What are you doing about it.”
 

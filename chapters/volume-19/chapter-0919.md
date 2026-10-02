@@ -40,7 +40,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 “Fifty-nine wrong things in fifty-nine mornings, and here is the fifty-ninth. Nine days of people saying what they did and nobody doing anything, and one man four miles up that road going to take a wall down with his own hands in the middle of it. That is the first thing all fortnight that has been about a thing and not about anybody.”
 
-“It is about me,” said Pol Dunnage. “It is entirely about me, and you have made it into a public act by saying it in front of a landing, and I would have done it quietly in a week. I am going to open that wall because I am tired of deciding not to, and that is a thing about me, and if you go up that road on Saturday and find my oven out you will find a man in a flour sack and not a thing in this county.”
+“It is about me,” said Pol Dunnage. “It is entirely about me, and you have made it into a public act by saying it in front of a landing, and I would have done it quietly in a week. I am going to open that wall because I am tired of deciding not to, and that is a thing about me, and if you go up that road on Sunday and find my oven out you will find a man in a flour sack and not a thing in this county.”
 
 “You would get bread sooner with the damp.”
 
@@ -58,11 +58,11 @@ Pol Dunnage keeps the bakehouse four miles up that cart road, in the village the
 
 “My oven will be out on Sunday and it will be out until the middle of next week, and I will bake on a temporary fire in the far corner with half the flour I can get and the loaf will be worse and the village will say so, and I will lose bread.”
 
-“And on Thursday I will find out what is actually in the wall, and it may be a course of stone that costs me more than the damp did, and I do not know which it is, and I have decided to find out on a Friday rather than carry it to the end of the year.”
+“And on Saturday I will find out what is actually in the wall, and it may be a course of stone that costs me more than the damp did, and I do not know which it is, and I have decided to find out tomorrow rather than carry it to the end of the year.”
 
 “That is a decision about a wall.”
 
-“It is a decision about a man of forty-one years who has been carrying a wall about since Michaelmas and has got nothing to show for it, and I would rather know what is in it. Nobody here is to tell me I am bold and nobody here is to thank me. I have not done a bold thing. I have done a late thing.”
+“It is a decision about a man of forty-one years who has been carrying a wall about since the frost and has got nothing to show for it, and I would rather know what is in it. Nobody here is to tell me I am bold and nobody here is to thank me. I have not done a bold thing. I have done a late thing.”
 
 Wat Marshe came up out of the lane and gave his figure and then asked for the one thing he has ever wanted from anybody in this county, and asked it plainly and to the step and not to a person, and nobody gave it to him.
 
@@ -82,11 +82,11 @@ Then Barnaby Crove came up last and gave his figure and said that he had asked h
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and ninety-eight mornings, which is nine hundred and nineteen less seven hundred and twenty-two, and then one.
 
-“A hundred and ninety-eighth. And I asked myself this morning whether the morning she gave me on Wednesday is mine, and I sat down on the step to do it properly, and I answered, and it is not.”
+“A hundred and ninety-eighth. And I asked myself this morning whether the morning she gave me on Thursday is mine, and I sat down on the step to do it properly, and I answered, and it is not.”
 
-“That is not a discovery. You told us on Wednesday it was not.”
+“That is not a discovery. You told us on Thursday it was not.”
 
-“I know what I told you on Wednesday. What has happened since Wednesday is that I have caught myself starting to think of it as something I am doing for her. That is a different thing and it is worse and it took me a whole morning to catch it. On Wednesday I was holding a thing that was hers.”
+“I know what I told you on Thursday. What has happened since Thursday is that I have caught myself starting to think of it as something I am doing for her. That is a different thing and it is worse and it took me a whole morning to catch it. On Thursday I was holding a thing that was hers.”
 
 “This morning I was holding a thing I was doing for her, and there is a man on this landing who would call that the same thing and he would be wrong, and I could not tell you in what it is wrong except that in one of them she is carrying it and in the other one I am.”
 

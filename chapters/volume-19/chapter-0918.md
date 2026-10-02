@@ -36,7 +36,7 @@ She stood on the bottom step and looked out at the water going over the top of t
 
 “That is what he said.”
 
-“That is what he said and he said it once and I have it once and it is still his. It is not going to become a thing between us because I have told you what I did on a Tuesday, and I would like that said in front of everybody standing here, because I can feel that it is going to be read the other way by about the time tomorrow.”
+“That is what he said and he said it once and I have it once and it is still his. It is not going to become a thing between us because I have told you what I did on a Wednesday, and I would like that said in front of everybody standing here, because I can feel that it is going to be read the other way by about the time tomorrow.”
 
 Nobody said the other way. A man at the top of the steps said *what she has just said is not a thing about a gate*, and she said *no, and you are right, and it is not a thing about a gate and it never was and it is not going to stop being one*.
 

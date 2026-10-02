@@ -14,7 +14,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 Then Aldis Rook came up the cart road at about the eighth hour without being asked to by anybody, and stood at the low wall, and named a man.
 
-Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and no seat and no board, and he was asked what he did in that passage twice this fortnight and gave the same words both times, and nobody told him he was right and nobody told him he was wrong.
+Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and no seat and no board, and has told the woman he works for the same thing about his mornings every time she has come to the back of that passage, and a man of fifty-four asked him a different question on Thursday evening and got no, and nobody told him he was right and nobody told him he was wrong.
 
 “A man came to the back of my passage on Thursday evening and asked me whether Orla Fennimore had a right account of a morning she had done,” he said.
 
