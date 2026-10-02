@@ -84,7 +84,7 @@ Wat Marshe is thirteen, has been in this county two hundred and seventeen days, 
 
 “*And a man of thirty-one has just said there will not be a fifteenth, and I want to say that I am the only person on that landing who has been keeping a figure that nobody has asked him for, and about four of you have worked out that by now, and it is nine mornings, and I am still not going to say it.*”
 
-“*Nobody is going to be thanked for any of it. I have said that on about nine mornings of this week and this is about the ninth and I am still counting, and a man of fifty-four is going to ask somebody for something on Monday and I am not going to ask him what it is either.*”
+“*Nobody is going to be thanked for any of it, and I am still counting, and a man of fifty-four is going to ask somebody for something on Monday and I am not going to ask him what it is either.*”
 
 About nine of them were on that landing at about the eleventh hour of a Friday with a full bank over the top step and four days of the coming back, and a man of thirty-one who had been refused by the man whose figure he had offered to stop saying, and a man of fifty-four who was going to ask for something on Monday and did not say what.
 

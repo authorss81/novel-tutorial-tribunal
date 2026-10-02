@@ -30,11 +30,11 @@ Garrin Tolley is thirty-eight and has a child of nine, and there is a board with
 
 “*And you are not going to be thanked for it tomorrow and neither am I, and about four of you are not to write down that a man of thirty-eight was given a job with a wet foot in it on this Sunday morning.*”
 
-Then a man of thirty-one said he could count them better than a man of thirty-eight, and was told by the man of forty-three that this was the first wrong thing said on that landing in four days, and that it had been said about arithmetic.
+Then a man of thirty-one said he could count them better than a man of thirty-eight, and was told by the man of forty-three that this was the first wrong thing about a figure said on that landing in four days, and that it had been said about arithmetic.
 
 “*I could count them better. I have counted about ninety things a morning for nineteen days on the strength of a boy of thirteen’s subtraction and I am faster than a man who has a child of nine and a board in his coat.*”
 
-“*Yes. And that is the first wrong thing anybody has said on this landing in four days, and it was said about arithmetic.*”
+“*Yes. And that is the first wrong thing about a figure anybody has said on this landing in four days, and it was said about arithmetic.*”
 
 “*You have been wrong five times in five days in about nine of your ears, and I have been listening to all five of them. You offered to read a man of fifty-two’s sentence for him on the Wednesday. You said you could put a line under a leaf being gone on the Thursday. You made three books into one on the Friday. You said a sentence is the same whoever says it on the Saturday. And a man of fifty-four told you on Monday that a leaf is not a stone.*”
 
@@ -54,7 +54,7 @@ Then a man of fifty-four who cannot read asked for a day against the ninth line 
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and forty-four mornings, which is eight hundred and sixty-five less seven hundred and twenty-two, and then one.
 
-“*A hundred and forty-four, and I have said the figure for four days running now and I have not said anything about it either morning, and about four of you have probably decided that I am going to stop.*”
+“*A hundred and forty-four, and I have said the figure for two days running now and I have not said anything about it either morning, and about four of you have probably decided that I am going to stop.*”
 
 “*I am not going to stop. I am going to say it until one of you gives me a day or until there is no longer a me to say it to, and those are two different ends and I know which one I am nearer.*”
 
@@ -91,7 +91,7 @@ The man of forty-three said that tomorrow at about the sixth hour about ninety s
 
 He gave a man of thirty-eight the job of counting the dry steps at the top of the cut, and told him he did not want it counted right. The figure has been a figure of a man of forty-three for nineteen years and there is no way on that landing for it to be a figure of a landing, and if the two figures disagree on the morning then one of them is wrong and it will not be the man of thirty-eight.
 
-A man of thirty-one said he could count them better than a man of thirty-eight with a board in his coat, and was told that this was the first wrong thing said on that landing in four days and that it had been said about arithmetic. Four of his five wrong things in those five days were not about figures. This one was.
+A man of thirty-one said he could count them better than a man of thirty-eight with a board in his coat, and was told that this was the first wrong thing about a figure said on that landing in four days and that it had been said about arithmetic. Four of his five wrong things in those five days were not about figures. This one was.
 
 A man of fifty-four asked for a day for the hundred and forty-fourth morning and said he is not going to stop, and said he could not have done the second half of a job with ninety steps in it. A man of about fifty-two said not one of his fourteen things he cannot check is a figure of times, and that a figure a person has never been shown is worth less than nothing.
 A boy of thirteen has been keeping a count for four mornings, and nobody on that landing has asked him for it, and he has told them all that he is keeping one.

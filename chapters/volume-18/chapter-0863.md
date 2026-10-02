@@ -50,19 +50,19 @@ Simon Rook is about fifty-two and cannot see well, and has a palm and a forearm,
 
 “*No. And I said that on the Friday of last week with my hand flat on this stone, and that is seven days back, and eight hundred and sixty-three less eight hundred and fifty-six is seven, and I did not have to be asked to work that out because it is the same day of the week.*”
 
-“*Six, three and four, and there is no sum of those three, and I said that on the Wednesday of the hundred and forty-second week as well, and that is three of these weeks back, and I have not found a fourteenth thing that changes it and I am not looking for one.*”
+“*Six, three and four, and there is no sum of those three, and I said that on the Wednesday of the hundred and forty-second week as well, and that is three of these weeks and two days back, and I have not found a fourteenth thing that changes it and I am not looking for one.*”
 
 “*And here is the part I have not said in about four days. A figure of days is a figure of days only if a person knows what a leaf is worth. I know what a leaf is worth on one of those three books. I do not know what a leaf is worth on the other two and neither does about nine of you.*”
 
 “*So a figure of days cannot even be written on that stone, let alone added. About four of you have been waiting for me to produce a number there and there is no number there and there was never going to be one.*”
 
-Then a boy of thirteen refused the three figures for the second time this week. He gave a different reason from the one he gave last time. He said the reason from last time was still good.
+Then a boy of thirteen refused the three figures for the second time. He gave a different reason from the one he gave last time. He said the reason from last time was still good.
 
 Wat Marshe is thirteen, has been in this county two hundred and ten days, and counted the figure in the lane before the light came up. Two hundred and ten is eight hundred and sixty-three less six hundred and fifty-three.
 
 “*Two hundred and ten days, and it is one more than the morning before, and I counted it in the lane before the light came up.*”
 
-“*I am not adding them again. Last Friday I told you the reason and it was that a figure said out loud on a Thursday has got four hundred miles by the Saturday, and that reason is still good and I am not replacing a reason that still works.*”
+“*I am not adding them again. The Thursday of last week I told you the reason and it was that a figure said out loud on a Thursday has got four hundred miles by the Saturday, and that reason is still good and I am not replacing a reason that still works.*”
 
 “*Here is the other one and it is a different one. Three is a figure of figures and not a figure of anything on that stone, and I said that on the Friday of last week and I am saying it on a Friday this week, and that is the first thing I have said twice this week on the same day.*”
 

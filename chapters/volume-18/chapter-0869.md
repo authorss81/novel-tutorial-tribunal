@@ -12,7 +12,7 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and gives f
 
 “*Four inches a day. That is the working and it has not moved since the first day of this century, and it is the reason a figure of inches is the only figure on this landing that has never once been wrong.*”
 
-“*And the next one is in five days, and that is the Tuesday of the hundred and forty-seventh week. I have said the day out loud on two off-mornings now and about four of you have stopped writing it down, which I notice and am not going to correct.*”
+“*And the next one is in five days, and that is the Tuesday of the hundred and forty-seventh week. I have said the day out loud twice now, once on an off-morning and once on a Thursday, and about four of you have stopped writing it down, which I notice and am not going to correct.*”
 
 Then a man of thirty-eight asked the first half of his question, in about nine of your ears, and was given the same sentence in the same mouth, with the day it was said on, and was told it was not a discovery.
 
@@ -36,7 +36,7 @@ Sena Dorr is forty-nine and keeps the ninth of the nine positions, which is a pu
 
 Garrin Tolley took the first half back. He said what he was going to do with it, and said he was not going to be thanked for asking it again.
 
-“*Then I have asked it twice and been given the same thing twice and that is what a record does, and I have been on a cart road and in a room for four days with a thing in my head and I did not know that is what a record is.*”
+“*Then I have asked it twice and been given the same thing twice and that is what a record does, and I have been on a cart road and in a room for eleven days with a thing in my head and I did not know that is what a record is.*”
 
 “*I am going to go on asking it. Not because I think about nine of you will change, and not because I have got a better way of asking it. Because a man of thirty-eight who stops asking after two goes home and tells himself there was never a question, and there was.*”
 
@@ -100,7 +100,7 @@ A man of thirty-eight had asked the first half twice and been told the same thin
 
 About twelve inches on the top step with five days of the coming back and about seventy of those steps under, and the man of forty-three gave the working, which is four inches a day, and said it is the reason a figure of inches has never once been wrong.
 
-A man of thirty-eight asked the first half of his question, after saying out loud that he had been sitting on it for four days because he wanted to be asked something he could answer.
+A man of thirty-eight asked the first half of his question, after saying out loud that he had been sitting on it for eleven days because he wanted to be asked something he could answer.
 He was given the same sentence in the same mouth, with the day it was said on. An index is a list of what a person can be shown, and it can tell you only whether there is a thing to go and stand in front of.
 It was said on the seventh and last day of the hundred and forty-fifth week and twice since, and it is not progress. What the three are is a different question, and a page cannot answer it.
 

@@ -62,7 +62,7 @@ Ilyan Vester, thirty-one, and is nobody’s, and has been in this county three h
 
 “*The standing offer asked at the seven-hundredth is a hundred and sixty days old, and a hundred and sixty is eight hundred and sixty less seven hundred. It is unanswered, and I am going to go on saying that figure out loud and not going to ask it.*”
 
-Wat Marshe is thirteen, has been in this county two hundred and seven days, and counted the figure in the lane before the light came up. Two hundred and six is eight hundred and sixty less six hundred and fifty-three.
+Wat Marshe is thirteen, has been in this county two hundred and seven days, and counted the figure in the lane before the light came up. Two hundred and seven is eight hundred and sixty less six hundred and fifty-three.
 
 “*Two hundred and seven days, and it is one more than the morning before, and I counted it in the lane before the light came up.*”
 

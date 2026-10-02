@@ -18,7 +18,7 @@ Then a man of fifty-four who cannot read said out loud that the ordinary form he
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and forty-six mornings, which is eight hundred and sixty-seven less seven hundred and twenty-two, and then one. On the Saturday of the hundred and forty-fourth week he said out loud, in about nine of your ears, that a run with a hole in its beginning is still entered on today.
 
-“*A hundred and forty-six, and I said it five days running now and about four of you have stopped writing it down.*”
+“*A hundred and forty-six, and I said it four days running now and about four of you have stopped writing it down.*”
 
 “*And I am going to say the thing I have been not saying since Saturday, and it is that the thing I said does not reach me.*”
 
@@ -34,7 +34,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 Then a man of thirty-one made a rule out of the fourteenth thing a man of about fifty-two cannot check, and it was refused by the man of about fifty-two and then by the man of fifty-four, in that order, and neither of them gave the same reason.
 
-Simon Rook is about fifty-two and cannot see well. He named a fourteenth thing he cannot check on the third day of this week. It is that a leaf and a day are the same number, and he named it on the day he said he would.
+Simon Rook is about fifty-two and cannot see well. He named a fourteenth thing he cannot check on the third day of the hundred and forty-fifth week. It is that a leaf and a day are the same number, and he named it on the day he said he would.
 
 “*You have taken the fourteenth and put a rule on it. A leaf and a day are the same number, and therefore a position may be looked at from the day the thread starts, and not before it. That is the sentence you said on the Monday and it has got my thing inside it and it did not have it on Monday.*”
 

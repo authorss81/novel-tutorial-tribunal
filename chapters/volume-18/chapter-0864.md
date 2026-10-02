@@ -10,7 +10,7 @@ Corvin Tace is forty-three, has kept that landing nineteen years, and gives four
 
 “*Sixteen at the seventh hour, two days of the coming back, about sixty of those ninety steps under.*”
 
-“*And there is a third figure on that landing this morning and it is not about the water. The fever came out to eighty-three weeks and no days this morning. Five hundred and eighty-one days, and eighty-one is seven times eighty-three, and there is nothing left over.*”
+“*And there is a third figure on that landing this morning and it is not about the water. The fever came out to eighty-three weeks and no days this morning. Five hundred and eighty-one days, and eighty-three is seven times eighty-one, and there is nothing left over.*”
 
 “*It came out the same way on the Saturday of the hundred and forty-fourth week, and that is seven days back. That is the whole of what this figure is. There are six mornings out of seven where I could not say that and I have not said it, and this is the second of these Saturdays this fortnight and not the first of anything.*”
 
@@ -88,7 +88,7 @@ About nine of them were on that landing at about the eleventh hour of a Saturday
 
 ---
 
-Sixteen inches holding with two days of the coming back and about sixty of those steps under. The man of forty-three gave a third figure that was not about the water: the fever came out to eighty-three weeks and no days, five hundred and eighty-one days, eighty-one being seven times eighty-three, and it came out the same way on the Saturday of the hundred and forty-fourth week, seven days back. He said there are six mornings out of seven where he could not say that, and that he is not going to give it a number of the time.
+Sixteen inches holding with two days of the coming back and about sixty of those steps under. The man of forty-three gave a third figure that was not about the water: the fever came out to eighty-three weeks and no days, five hundred and eighty-one days, eighty-three being seven times eighty-one, and it came out the same way on the Saturday of the hundred and forty-fourth week, seven days back. He said there are six mornings out of seven where he could not say that, and that he is not going to give it a number of the time.
 
 A woman of forty-nine said out loud, in about nine of your ears, the ordinary form of a run with a hole at the front of it.
 
@@ -102,4 +102,4 @@ And a man of thirty-one said the sentence was the same whoever said it, and was 
 
 A man of fifty-four asked for a day for the hundred and forty-third morning and said he has not got a second thing he wants. A boy of thirteen asked whether the fourteenth can be checked by standing in front of the hole, was told no, and kept an opposite he has not given out loud, and said he would like one of them to be thanked and is not going to ask.
 
-Nobody was thanked. The fever came out whole, a sentence was said twice by two people who do not the same work, and a boy of thirteen went back down to the cut with something in his head he has decided not to give.
+Nobody was thanked. The fever came out whole, a sentence was said twice by two people who do not do the same work, and a boy of thirteen went back down to the cut with something in his head he has decided not to give.

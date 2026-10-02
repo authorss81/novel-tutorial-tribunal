@@ -90,13 +90,13 @@ Simon Rook is about fifty-two and cannot see well. He named a fourteenth thing h
 
 “*A woman of forty-nine has said something this morning that about four of you want to be a reason. It is not a reason. It is a thing about a page. It does not put a stone anywhere, and it does not make a bell rung on a Thursday checkable on a Friday, and it does not put a day on a book four hundred miles off.*”
 
-“*I have got fourteen things I cannot check and that sentence is not one of them and I am not adding it. And about four of you have been waiting eight days for me to say something better than the sentence I said on Wednesday, and there is nothing better, and I told you on Wednesday that there was nothing better, and you waited eight days anyway.*”
+“*I have got fourteen things I cannot check and that sentence is not one of them and I am not adding it. And about four of you have been waiting five days for me to say something better than the sentence I said on Wednesday, and there is nothing better, and I told you on Wednesday that there was nothing better, and you waited five days anyway.*”
 
 At about the ninth hour a man of fifty-four who cannot read asked for a day against the ninth line for the hundred and forty-fifth morning, and a woman of forty-nine entered today’s line on the ninth run and gave the figure of mornings, and a boy of thirteen gave his own.
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for a hundred and forty-five mornings, which is eight hundred and sixty-six less seven hundred and twenty-two, and then one.
 
-“*A hundred and forty-five, and it is a Monday, and I have said that figure in about nine of your ears on every morning of this week, and this week has run seven mornings, and I have not once said anything about Mondays. About four of you have been waiting for me to say something about the day and I am not going to.*”
+“*A hundred and forty-five, and it is a Monday, and I have said that figure in about nine of your ears on every morning of this week but one, and this week has run seven mornings, and I have not once said anything about Mondays. About four of you have been waiting for me to say something about the day and I am not going to.*”
 
 “*A woman of forty-nine has said a sentence about a page this morning that about four of you have been carrying off that bank like bread. It is about a page. I cannot read a page. I have been asking for a day on one for eleven years and a page is not a day and I have known that since the Saturday of last week.*”
 
@@ -115,7 +115,7 @@ Wat Marshe is thirteen, has been in this county two hundred and thirteen days, a
 “*That is the same shape as me and I am not comparing myself to a man of thirty-eight in about nine of your ears. I am saying that about ninety of us on this landing have found a way of doing something this week without being thanked and I have counted that and it is not my count to give.*”
 
 About nine of them were on that landing at about the eleventh hour of a Monday with all ninety of those steps dry, and a sentence about a page said once in about nine of your ears, and two figures of about ninety steps said twice by two people and agreed.
-
+---
 
 The water came off all ninety steps at about the sixth hour, and that was the twenty-fifth time, and there was no figure of inches and no figure of steps under. The next one is in eight days, which is the Tuesday of the hundred and forty-seventh week.
 

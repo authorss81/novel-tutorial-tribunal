@@ -1,4 +1,4 @@
-# Chapter 868: Second Day Of The Hundred And Forty-Sixth Week, And A Wednesday, And Eight Inches On The Top Step With Six Days Of The Coming Back And About Eighty Of Those Steps Under, And A Woman Of Forty-Four Repeats In A Third Person’s Mouth The Figure A Man Of Fifty-Four Said On The Friday Of Last Week While He Is Down The Cut Getting Gravel, And A Boy Of Thirteen Adds It Up Because A Hundred And Cannot Be Trusted, And The Two Figures Agree
+# Chapter 868: Second Day Of The Hundred And Forty-Sixth Week, And A Wednesday, And Eight Inches On The Top Step With Six Days Of The Coming Back And About Eighty Of Those Steps Under, And A Woman Of Forty-Four Repeats In A Third Person’s Mouth The Figure A Man Of Fifty-Four Said On The Sunday Of Last Week While He Is Down The Cut Getting Gravel, And A Boy Of Thirteen Adds It Up Because A Hundred And Cannot Be Trusted, And The Two Figures Agree
 
 Second day of the hundred and forty-sixth week. His six hundred and eighteenth morning. Four hundred and sixty-eight days after the settlement. The fever eighty-three weeks and four days old. Four hundred and twenty-two days since the division. Three hundred and sixty-eight days since a page was read out in a room with the door shut, in a town in another county.
 
@@ -14,13 +14,13 @@ Corvin Tace is forty-three and has kept that landing nineteen years, and gives f
 
 “*So there is no figure of mornings on this landing until about the eleventh hour, and I am not going to make one up and give it to about four of you so that the morning looks like the other six.*”
 
-At about the ninth hour a woman of forty-four said out loud, in about nine of your ears, the figure a man of fifty-four had given on the Friday of last week, and gave the working with it, and would not let anybody tell her she had it from a page.
+At about the ninth hour a woman of forty-four said out loud, in about nine of your ears, the figure a man of fifty-four had given on the Sunday of last week, and gave the working with it, and would not let anybody tell her she had it from a page.
 
 Orla Fennimore is forty-four and has kept twenty-nine chairs at thirteen shillings and fourpence a year for nineteen years. Eleven of those chairs have a name against them in her book and nobody in them, and on the Friday of the hundred and forty-third week she said the first of those two has no day written down against it because there is no form that asks for one.
 
 “*On the Sunday of last week a man of fifty-four told about nine of us that it was a hundred and forty-four mornings. He is not on this landing. He is down the cut with a barrow and he will not be back before about the eleventh hour.*”
 
-“*And here is the working, out loud, so that nobody has to take it off me. Eight hundred and sixty-five less seven hundred and twenty-two is one hundred and forty-three, and then one is one hundred and forty-four. That is his figure for Friday and he gave it in about nine of your ears.*”
+“*And here is the working, out loud, so that nobody has to take it off me. Eight hundred and sixty-five less seven hundred and twenty-two is one hundred and forty-three, and then one is one hundred and forty-four. That is his figure for Sunday and he gave it in about nine of your ears.*”
 
 “*I am not a woman who holds a page. I hold twenty-nine chairs and I cannot read his face at half a mile and I did not write it down. I am repeating a figure a man said in a room because that is the only kind of record this landing has ever had, and it is a very poor one.*”
 
@@ -52,7 +52,7 @@ Orla Fennimore, forty-four, said the three was hers and the subtraction was the 
 
 “*And I am going home on Saturday up that cart road, and I am going to open my book, and I am going to do the same thing I have done for nineteen years, and that is not a decision and nobody is going to call it one.*”
 
-“*I have a question I have asked three times and a man of fifty-four has been on this landing for six days and a woman of forty-nine has said a true thing about a page and about four of you think that is the answer to my question. It is not. A chair is either got in my book or it is not, and that is still true on Saturday.*”
+“*I have a question I have asked three times and a man of fifty-four has been on this landing for five days and a woman of forty-nine has said a true thing about a page and about four of you think that is the answer to my question. It is not. A chair is either got in my book or it is not, and that is still true on Saturday.*”
 
 Then a man of thirty-one said the ninth line and the ninth run were the same shape with a different person writing on them, and a woman of forty-nine told him what the difference was, and told him what his sentence had done.
 
@@ -82,7 +82,7 @@ About nine of them were on that landing at about the eleventh hour of a Wednesda
 
 Eight inches on the top step with six days of the coming back and about eighty of those steps under, and no man of fifty-four on the landing until the eleventh hour, and the man of forty-three would not make a figure of mornings to fill the gap.
 
-A woman of forty-four repeated in a third person’s mouth the figure a man of fifty-four had given on the Friday of last week, with the working: eight hundred and sixty-five less seven hundred and twenty-two is one hundred and forty-three, and then one is one hundred and forty-four. A boy of thirteen added it up and said why. A hundred and is a spelling and not a figure, and there is nothing in this county that would catch a man who says it wrong, so the only defence there is a person adding it up.
+A woman of forty-four repeated in a third person’s mouth the figure a man of fifty-four had given on the Sunday of last week, with the working: eight hundred and sixty-five less seven hundred and twenty-two is one hundred and forty-three, and then one is one hundred and forty-four. A boy of thirteen added it up and said why. A hundred and is a spelling and not a figure, and there is nothing in this county that would catch a man who says it wrong, so the only defence there is a person adding it up.
 
 He came up the cut at the eleventh hour and gave a hundred and forty-seven before anybody told him, and a woman of forty-four said three mornings is hers and the subtraction is the boy’s, and that she is going home on Saturday to do the same thing she has done for nineteen years, and that this is not a decision and her question is not answered by a sentence about a page.
 
