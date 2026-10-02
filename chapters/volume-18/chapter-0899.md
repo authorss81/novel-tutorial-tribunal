@@ -4,7 +4,7 @@ Fifth day of the hundred and fiftieth week. His six hundred and forty-ninth morn
 
 ---
 
-Four inches came up on the top step at about the seventh hour, with seven days of the coming back and about ninety of those ninety steps under, and that was a man able to walk all ninety dry-footed again by the seventh hour on a Saturday. The man of forty-three gave the three figures and gave the shape of the morning, because it comes out on a Saturday.
+Four inches on the top step at about the seventh hour, seven days of the coming back, about ninety of those ninety steps under, and that was a man able to walk all ninety dry-footed again by the seventh hour on a Saturday. The man of forty-three gave the three figures and gave the shape of the morning, because it comes out on a Saturday.
 
 Corvin Tace is forty-three, has held that landing nineteen years, gives four figures off one stone, and has never once added to a figure he has given on a seventh Saturday.
 

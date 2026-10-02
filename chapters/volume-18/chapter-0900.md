@@ -4,7 +4,7 @@ Sixth day of the hundred and fiftieth week. His six hundred and fiftieth morning
 
 ---
 
-Eight inches came up on the top step at about the seventh hour, with six days of the coming back and about eighty of those ninety steps under. The man of forty-three gave the three figures and said that this was a Sunday and that about half of that bank would go down early and that he would be here anyway.
+The water was at eight inches on the top step at about the seventh hour, six days of the coming back, about eighty of those ninety steps under. The man of forty-three gave the three figures and said that this was a Sunday and that about half of that bank would go down early and that he would be here anyway.
 
 Corvin Tace is forty-three, has held that landing nineteen years, and does not give the figure of the settlement or the figure of the division or any figure of a thing that is not standing in front of him on a stone. He gives four figures and has never once given a fifth.
 

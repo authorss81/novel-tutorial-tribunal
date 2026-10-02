@@ -1,0 +1,21 @@
+## 0V17F. ⚠ BAND 0004 RE-CERTIFICATION, CHAPTERS 831–838 — ⚠ **THIS PHASE FOUND ITSELF DISPATCHED INTO A BAND THAT WAS ALREADY WRITTEN, CERTIFIED AND MARKED, ⚠ DID NOT OVERWRITE TEN FINISHED CHAPTERS, ⚠ DID NOTHING AGAINST ANY MARKER, ⚠ DID NOT WAIT, ⚠ AND FOUND FIFTEEN FIGURES WRONG IN THE PROSE OF CHAPTERS THAT HAD PASSED EVERY GATE IN THIS REPOSITORY AND REPAIRED ALL FIFTEEN. ⚠ THE WHOLE OF IT, EVERY FINDING, EVERY GATE FIGURE WITH ITS CALIBRATION BESIDE IT AND EVERY READING KEPT WITH ITS REASON, IS AT `reviews/volume-17/batch-0004-recertification-831-838.md`, AND ⚠ THIS BLOCK IS A POINTER AND NOT A SUMMARY OF A SUMMARY.** — **MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-18/batch-0001-batch-summary-0V17F.md`, at the writing of Volume 18 Band 0001, because `state/batch-summary.md` is at or over the hard cap of 60,000. It is the whole of the block AS IT STOOD, INCLUDING EVERY FINDING AND EVERY FIGURE IN IT. Nothing was summarised and nothing is cut, and it is still canon. The assertion is by footprint: that block is 0 lines in that file and 1 here.**
+
+## 0V17F.1 ⚠ THE FIRST FIFTEEN, AND ⚠ FOURTEEN OF THEM ARE IN THE BAND, ONE IS AT `828`, AND ⚠ ⚠ THE COUNT IN THE HEADING OF THE RE-CERTIFICATION FILE SAID ELEVEN AND IT WAS WRONG, ⚠ ⚠ WHICH IS THE ELEVENTH TIME IN THIS VOLUME THAT A FIGURE IN A RECORD OF THIS PASS HAS BEEN WRONG, ⚠ AND ⚠ IT IS CORRECTED HERE AND ⚠ **AND ⚠ THE BAND WAS THEN HANDED TO AN INDEPENDENT READING, WHICH FOUND EIGHTEEN MORE, ⚠ AND ⚠ THE TOTAL IS ⚠ THIRTY-TWO FIGURES IN THIRTY-TWO PLACES ACROSS ELEVEN CHAPTERS ⚠ AND ⚠ THE SECOND EIGHTEEN ARE IN §0V17F.5 AND IN THE RE-CERTIFICATION FILE §8**
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
+## 0V17F.2 ⚠ THE GATES AFTER THE REPAIRS, EVERY FIGURE TAKEN FROM THE FILES AFTER THE LAST EDIT
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
+## 0V17F.3 ⚠ THE SEVENTH GATE, RUN AGAINST THE SAME SIX OWED LINES, AND ⚠ NO REPAIR CHANGED WHAT ANY OWED LINE OWED
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
+## 0V17F.4 ⚠ WHAT WAS NOT TOUCHED, AND ⚠ THE ROUTING FACT
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
+
+## 0V17F.5 ⚠ THE SECOND ROUND, ⚠ EIGHTEEN MORE FIGURES, ⚠ AND ⚠ THEY CAME FROM A READING AND NOT FROM A GATE
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-batch-summary-0V17F.md`, at the writing of the Volume 17 close, because this file stood at 34999 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block, and of every sub-block under it, which did not move out with it and is still here. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**

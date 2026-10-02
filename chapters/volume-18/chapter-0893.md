@@ -10,7 +10,7 @@ Corvin Tace is forty-three, has held that landing nineteen years, gives four fig
 
 “Twelve at the seventh hour, five days of the coming back, and about seventy of those ninety steps under, on the sixth day of the hundred and forty-ninth week.”
 
-“I am naming tomorrow in advance and I am going to be a day out. Sixteen, a full bank, four days of the coming back and about sixty under, on the seventh and last day of the hundred and forty-ninth week, which is a Monday. I will say on Monday that I said it on Sunday and I will be wrong, and I would rather be out by a day than in by one.”
+“I am naming tomorrow in advance and I am naming it a day early, on purpose, in about nine of your ears. Sixteen, a full bank, four days of the coming back and about sixty under, on the seventh and last day of the hundred and forty-ninth week, which is a Monday. That is three figures and a day, and the day is not one of them, and I am not going to fold it in.”
 
 Then the woman who holds the ninth of the nine said where the arrangement is, and did not put a day on it, and said why not.
 

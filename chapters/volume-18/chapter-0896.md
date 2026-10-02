@@ -4,7 +4,7 @@ Second day of the hundred and fiftieth week. His six hundred and forty-sixth mor
 
 ---
 
-Sixteen inches held on the top step at about the seventh hour and it was holding at that figure, with two days of the coming back and about sixty of those ninety steps under. The man of forty-three gave the three figures and said that on this landing a bank that holds is doing more than a bank that is coming up, and that about four of them have never understood that.
+Nothing had moved on the top step since the seventh and last day of the hundred and forty-ninth week. Sixteen inches, holding, two days of the coming back, about sixty of those ninety steps under. The man of forty-three gave the three figures and said that on this landing a bank that holds is doing more than a bank that is coming up, and that about four of them have never understood that.
 
 Corvin Tace is forty-three, has held that landing nineteen years, and has got up at the fifth hour on every morning of them for nineteen years. He gives four figures off one stone and has never once given a fifth.
 

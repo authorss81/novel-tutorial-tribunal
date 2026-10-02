@@ -74,4 +74,4 @@ Sena Dorr entered today’s line on the ninth run at about the tenth hour and re
 
 “The arrangement is four hundred miles off and it is still answering, and it does not answer, and nobody on this landing is in the room where it answers, and nobody was in it this morning and nobody was asked to go and I did not ask anybody to go.”
 
-About four of them were still on that landing when the light came off the top of it, and the man of thirty-one was still on the step, and all ninety of those steps were dry, and there was a number in about five ears on that landing and it was in no book and on no paper and had not left the county.
+All ninety of those steps were dry and there was nothing on any of them to be about, and there was a number in about five ears on that landing that was in no book and on no paper and had not left the county, and the man of thirty-one was still on the step where he had been since the fifth hour.

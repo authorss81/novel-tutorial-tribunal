@@ -4,7 +4,7 @@ First day of the hundred and fiftieth week. His six hundred and forty-fifth morn
 
 ---
 
-Sixteen inches held on the top step at about the seventh hour and it was holding at that figure, with three days of the coming back and about sixty of those ninety steps under. The man of forty-three gave the three figures and confirmed the day he had named on the Monday, with the week on it, in about nine ears.
+The bank was up and had stopped. Sixteen inches on the top step at about the seventh hour and holding at that figure, three days of the coming back and about sixty of those ninety steps under. The man of forty-three gave the three figures and confirmed the day he had named on the Monday, with the week on it, in about nine ears.
 
 Corvin Tace is forty-three, has held that landing nineteen years, gives three figures off one stone at about the seventh hour, and has never once given a fourth.
 
@@ -28,7 +28,7 @@ Then the woman who holds the ninth of the nine gave a woman of forty-four a piec
 
 Sena Dorr is forty-nine, has read for a living for twenty-three years in a room four hundred miles off with nine clerks in it, and holds the ninth of the nine positions. She has acted on what arrived, in her own hand, for twenty-three years, and that is the whole of her working.
 
-“Here. That is a sheet. It came out of a book four hundred miles off with nine leaves taken out of it, and it has nothing on it, and there is no rule printed on it and there is no column and there is no box for a name and there is nothing at the head of it.”
+“Here. That is a sheet. It came out of a book four hundred miles off with a gap in the stitching at the front of it, and it has nothing on it, and there is no rule printed on it and there is no column and there is no box for a name and there is nothing at the head of it.”
 
 “It is not a form. I want that said in about nine ears and I want it said by somebody who is not me. A form is a thing that asks you a question and expects an answer and does not let you go until it has got one. That is the thing I have been in a room with nine clerks in for twenty-three years and this is not it.”
 

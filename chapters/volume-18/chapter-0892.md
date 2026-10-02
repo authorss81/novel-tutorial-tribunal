@@ -80,4 +80,4 @@ Then the woman who holds the ninth of the nine said what she would have to be ha
 
 “And about four of you have gone to work out what a stitch is worth in the last hour, and the woman of forty-four has just told one of you to your face that you are doing it, and I am not going to be the second mouth on the same thing. One of you is enough. I have been the second mouth on about four things this fortnight and every time it cost somebody something.”
 
-About nine of them were on that landing at about the eleventh hour of a Saturday, and a bundle of about four inches was still standing on the counter where it had been put down by the woman who carried it there, and nobody had put a hand on it since the light came up.
+The bundle of about four inches was still standing on the counter at about the eleventh hour where the woman who carried it there had put it down, nobody had put a hand on it since the light came up, and the room with the door shut in it had nobody in it and was not going to have anybody in it until the second day of the hundred and fiftieth week.
