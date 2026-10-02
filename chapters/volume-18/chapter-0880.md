@@ -36,9 +36,9 @@ Sena Dorr is forty-nine. For twenty-three years she has read for a living in a r
 
 “No. And I am going to do the thing I have done four times this fortnight and I am going to do it out loud, because half of you have noticed and half of you have not.”
 
-“Wednesday of the hundred and forty-fourth week. You put four figures of leaves in a column and called the column six hundred and sixteen days. Thursday of the hundred and forty-sixth week. You told a man of thirty-one what to ask for. Friday of the hundred and forty-sixth week. You said the ordinary form was the answer to a question of his. Saturday of the hundred and forty-seventh week. You said a run with nothing wrong with it was not a record, and then you said out loud that you wanted it to be true. Sunday of the hundred and forty-seventh week. You said other people could keep somebody else’s run.”
+“Saturday of the hundred and forty-seventh week. You put four figures of leaves in a column and called the column six hundred and sixteen days. Seventh and last day of the hundred and forty-sixth week. You told a man of fifty-four what to ask for. Friday of the hundred and forty-seventh week. You said the ordinary form was the answer to a question of his. Second day of the hundred and forty-seventh week. You said a run with nothing wrong with it was not a record, and then you said out loud that you wanted it to be true. Sunday of the hundred and forty-seventh week. You said other people could keep somebody else’s run.”
 
-“That is six mornings and it is one shape. You keep putting a person in a list because a person in a list can be counted, and it is the same mistake five ways, and half of you have been correcting the shape instead of the thing.”
+“That is five mornings and it is one shape. You keep putting a person in a list because a person in a list can be counted, and it is the same mistake five ways, and half of you have been correcting the shape instead of the thing.”
 
 “Now the working, and I am going to give it as four pieces, and half of you will take the first one.”
 
