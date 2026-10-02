@@ -26,7 +26,7 @@ Orla Fennimore is forty-four, has kept twenty-nine chairs for nineteen years at 
 
 “And on the second day of the hundred and fiftieth week I am going to have to take one of them out into the passage and leave it there overnight, and it is going to be standing in my passage when I go to bed and it is going to be standing there when anybody who comes up that road in the morning walks past it, and I will have put it there and I will have carried it back on the third day of that week.”
 
-“I am telling the whole bank that now, on a Monday, a week early, because I am not going to be the one who is surprised on Wednesday and I am not going to be asked on Thursday whether I did a thing.”
+“I am telling the whole bank that now, on a Monday, two days early, because I am not going to be the one who is surprised on Wednesday and I am not going to be asked on Thursday whether I did a thing.”
 
 “And nobody is to enter it. I am not asking anybody to write down that I moved a chair out of my own room in my own passage. If it wants entering then somebody who was not me enters it, in their own hand, on the day it happened, and if nobody enters it then a chair stood in a passage for one night and that is the whole of what happened to it.”
 

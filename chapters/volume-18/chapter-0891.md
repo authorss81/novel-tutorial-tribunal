@@ -4,7 +4,7 @@ Fourth day of the hundred and forty-ninth week. His six hundred and forty-first 
 
 ---
 
-Four inches came up on the top step at about the seventh hour. That was seven days of the coming back, and about ninety of those ninety steps were under, and a man could walk all of them dry-footed at the seventh hour for the first time since the third day of the hundred and forty-ninth week, which was a Thursday, and that was the twenty-eighth time.
+Four inches came up on the top step at about the seventh hour. That was seven days of the coming back, and about ninety of those ninety steps were under, and a man could walk all of them dry-footed at the seventh hour for the first time since yesterday morning, which was a Thursday, and that was the twenty-eighth time.
 
 Corvin Tace is forty-three, has held that landing nineteen years, gives four figures off one stone, and has never once given a fifth.
 
