@@ -38,7 +38,7 @@ He picked the broom up.
 
 “And I am not going to be thanked for saying any of it, and nobody on this landing is going to be thanked for not answering it, and that goes both ways and it goes on the record this morning.”
 
-Nobody was thanked either way.
+Both of those went without thanks.
 
 Then the woman who saws lengths came up the cart road from down it with her saw handle under her arm and stood at the bottom of the steps and said the thing that had been sitting in her since Tuesday, which was that there is no way on earth to tell a thing that has been in a place from a thing that somebody is keeping in it, and that the only sign there is, and the sign is the same sign.
 
@@ -60,7 +60,7 @@ She put her hand down.
 
 “And it has not been touched,” she said, before anybody could get there. “Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. And I have said that on this landing before and I am not going to keep saying it, and if any of you have started to think I am the one who carries it for this landing, I would like that stopped, because I have a bench of my own and a cup on it that nobody has asked me about and I would like to go back to it.”
 
-Nobody thanked her and nobody told her she was right about the sign and nobody told her she was wrong about it.
+She got no word of thanks and nobody told her she was right about the sign or that she was wrong about it.
 
 Then the man of fifty-four came up at about the sixth hour on a Sunday and asked in the same words at the same hour and was refused in the same way and was not thanked, and he said that he had noticed the whole of the morning going on without him and that he had said the whole number last Saturday and had not been asked what it was for, and that he had thought about that all week and had not come up with anything.
 
@@ -76,9 +76,9 @@ He put his hand flat on the barrow.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses, and it was the same, and it was the last one of that week. “And I am going to say one more thing about it and then I am not going to say anything about it again till the week turns. If it is the wrong question, then I have asked it two hundred and fifty-six times and I would do it again, and I would like that to be on the record.”
 
-Nobody said whether it was the wrong question.
+Whether it was the wrong question was not said.
 
-Nobody on that landing gave it a verdict, nobody owed him a reply, nobody said the asking had cost him anything, and nobody thanked him, and he had not asked to be thanked.
+It got no verdict off that landing, nobody owed him a reply, nobody said the asking had cost him anything, and nobody thanked him, and he had not asked to be thanked.
 
 Then the man of thirty-one came up at about the eighth hour and gave his figures and the figure of the offer with the subtraction out loud, and asked for nothing, and then told a man with a broom that he had got a question, and did not finish the sentence, and was refused the question before he had finished it.
 
@@ -98,7 +98,7 @@ The man with the broom did not move.
 
 “You have told me you have got a question and you have not finished it, and I am not going to take it off you, and I am not going to answer it.” He held the broom in both hands. “And here is the working and it is the only working I have got. If you finish that sentence on this landing, somebody is going to answer it. And then we will all be standing here on a morning we have agreed to have.”
 
-Nobody finished it and nobody else asked it either.
+The sentence stayed unfinished and nobody else asked it.
 
 “I do not hand out mornings,” Corvin Tace said. “I have said that on this landing three times in three weeks and I am saying it again and I am going to keep saying it, and it is not because I want to be asked things I do not want to answer. It is because a landing that knows what is coming is a landing that has stopped being walked on.”
 
@@ -108,6 +108,6 @@ Nobody used it.
 
 “A hundred and seventeen,” the man of thirty-one said. “And here is the rest of it and it is the plainest thing I have said this week. I did not finish the sentence because he told me not to, and I am not going to be unrelieved about having been told not to, and I am going to stand at the bottom of these steps for the rest of this morning with nothing in my mouth, and that is the first unpaid thing I have done in this county.”
 
-Nobody paid him for it and nobody told him it was unpaid.
+Nothing was paid for it and nobody told him that it was unpaid.
 
 He swept all ninety, and went round the fortieth one, and went round the chair, and did not touch the thing in the seam and did not sit on the chair. Nothing has been pulled, or turned over, or weighed in a hand, or read aloud, or carried inside, or put back where it was, or used. A man said out loud on that landing what a thing in a step is going to do to him for the rest of his working life, and nobody up there answered him, and he did not ask.

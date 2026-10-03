@@ -22,11 +22,11 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “No, and I have been thinking about what I said on Sunday about there being a morning coming when I stop, and I have worked out that saying that out loud was the only way I was ever going to stop and not be relieved about it.” He set the barrow down. “So I am not stopping. I am going to go on being asked whether I have stopped. That is the same as not stopping and it costs me more, and I would like it recorded that it costs me more.”
 
-Nobody recorded it and nobody argued with it.
+It was not recorded and nobody argued with it.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And it is the last one this week and I am not going to change it for the last one of anything.”
 
-Nobody answered that question on the second morning of a week, and nobody told Barnaby Crove he was owed an answer, nobody thanked him, and nobody was going to thank him for the last morning of asking on it.
+That question was not answered on the second morning of a week, nobody told Barnaby Crove he was owed an answer, nobody thanked him, and nobody was going to thank him for the last morning of asking on it.
 
 Then the man of thirty-one came up at about the eighth hour with eight inches above his boots and gave his figures and the figure of the offer with the subtraction out loud, and asked for nothing, and gave a whole figure of himself out loud in a column, and nobody on that landing said one word about it in any direction.
 
@@ -52,13 +52,13 @@ Nobody told him he had found anything, and nobody told him he had not found anyt
 
 He took a breath and it was not a steady one. “And I am going to stand here for the rest of this morning with a whole figure in my mouth and nothing whatever done about it, and that is the second time I have done that in this county and I am not going to do it a third time, and I am not telling you what the third time is going to be.”
 
-Nobody asked him what the third time was going to be.
+The third time was to stay unsaid until somebody opened their mouth.
 
 Then the man who moves chairs said out loud, in front of everybody, that there was a thing he had been carrying up the cart road in his mouth since the Monday before last. He had decided this morning he was leaving it at the wall, and a woman was standing at the wall.
 
 Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, has been told not to come up that bank and has come anyway, and on the second day of the hundred and sixty-second week said out loud that he was not going to carry the morning up the cart road.
 
-“There is a thing I have had in my mouth since the Monday before last and I am leaving it at that wall.” He did not point at her and nobody did either. “I move chairs up that road. I have been up it four mornings this week. And I am not going to be carrying any part of this landing up it, not this morning and not when the chairs are done, and I would like it noticed that I noticed it again on Monday and said nothing about it until this morning.”
+“There is a thing I have had in my mouth since the Monday before last and I am leaving it at that wall.” He did not point at her and nobody did either. “I move chairs up that road. I have been up it four mornings this week. And I am not going to be carrying any part of this landing up it, not this morning and not when the chairs are done, and I would like it noticed that I noticed it on the Monday before last and said nothing about it until this morning.”
 
 Nobody noticed it before him.
 
@@ -66,9 +66,9 @@ Nobody noticed it before him.
 
 Orla Fennimore is forty-four, keeps twenty-nine chairs at a house that is not in this county, was asked once what she did and has not been asked since, and was at the wall on the second day of the hundred and sixty-second week before the seventh hour with the wind off it.
 
-“Nobody is to come up this road and tell me anything.” She said it without coming past the wall. “Not about a thing in a step, not about a man whose work got easier, not about a man of thirty-one who came up that bank and said something out loud on Tuesday that he should not have said out loud to a woman who asked him one question and gave him nothing back for it, and not about this landing at all.”
+“Nobody is to come up this road and tell me anything.” She said it without coming past the wall. “Not about a thing in a step, not about a man whose work got easier, not about what a man of thirty-one said out loud on Tuesday after a woman had put one question to him in front of the whole landing, and not about this landing at all.”
 
-Nobody on that landing had said anything to her.
+Nothing on that landing had been said to her.
 
 “You did not hear that from me on Tuesday,” she said, “and if you did, then somebody on this landing has been carrying a morning up that road, and I would like that to stop this morning and I would like it to stop without an inquiry.”
 
@@ -94,7 +94,7 @@ Nobody on that landing agreed with him and nobody disagreed.
 
 “I have moved furniture into houses for nineteen years and that is the only sentence about a trade I have ever needed. I have needed it because I have spent nineteen years putting things in rooms where somebody works and going out of the door before they come in. That is a way of working. It is not a gift and it is not a kindness, and nobody on this step is going to say either of those words about it.”
 
-Nobody said either of those words about it.
+Not one of those two words was said about it.
 
 “And it has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, said this morning by me. I have said them before on this landing and I am not going to say them again. There is a man who sweeps this stone who has not said them in a fortnight because he gave them up, and I would like that noted as a thing he gave up and not as a thing he is owed.”
 

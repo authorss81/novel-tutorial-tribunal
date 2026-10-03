@@ -26,7 +26,7 @@ She sat down on the bottom step, on the swept part, which nobody else does.
 
 “All right. I have been walking up that road since the fourth hour with that and I want to say the whole of it before anybody says anything kind to me about having worked it out.”
 
-Nobody said anything kind to her.
+What she got was not kindness.
 
 “Here is the working, and I have done it the way I do a line, which is from the outside in. A landing owes a man his own work. That is the first one and it is nineteen years old on this stone and nobody has ever collected on it. A landing owes a person the right to be asked or not asked about his own step, and this landing does not collect on that either, and a man can be told or not told and either way he keeps the step.” She looked at her own hands. 
 
@@ -44,7 +44,7 @@ She said the rest of it looking at the ground.
 
 “It is not a debt, because a debt can only be owed to a person, and it cannot be owed to a person who does not know it was done, and it cannot be owed to a person who does. It is not a gift, because I am not going to use that word about it and I would like this landing to notice that I have had it in my mouth twice this morning and put it down both times.”
 
-Nobody asked her why she put it down.
+Why she put it down was not asked.
 
 “And it is not even a thing that happened. It is an object with a person standing next to it who is not the person who brought it.” She took her hands off her knees. “So there is nothing in it. I have looked at that step from every side a person can look at a thing from without touching it, and there is nothing in it, and I came up this road at the fourth hour expecting there to be something and there is not.”
 
@@ -56,7 +56,7 @@ He closed his mouth.
 
 “I am not being hard. I am being exact, and there is a difference and you know there is a difference, because you have spent your life unable to check things and you have never once let anybody help you by pretending.” She did not raise her voice and did not turn round. “Do not be kind to me about having found nothing. I did not find nothing. I found the answer, and the answer is nothing, and it took me a fortnight and a quarter of a morning’s walking, and nobody has to put a hand on me for it.”
 
-Nobody put a hand on her and nobody comforted her and nobody thanked her.
+No hand went on her, and she got no comfort and no thanks.
 
 “And I will say the other half, because it is mine to say and it is the part that is easy to get wrong.” She straightened up. “We do this. A thing put down where somebody works is not put down again the next morning by the same person. We do that, all of us, in about nine trades, and nobody on this landing has ever given it a name and nobody is going to, because the day this landing gives it a name it is a rule, and a rule on this landing is a thing with a person inside it.”
 
@@ -78,11 +78,11 @@ Wat Marshe is thirteen, has been in this county three hundred and twenty-two day
 
 “And I would like to know what it is called and I am not going to look it up.”
 
-Nobody told him what it was called and nobody looked it up for him.
+He was not told what it was called and nobody looked it up for him.
 
 “There is nowhere to look it up,” he said, as though answering her. “I have been in this county for three hundred and twenty-two days and there is a landing and a cart road and a shed with a bench in it and a low wall, and that is the whole of what I have got to look things up in, and none of it is a book.” He sat down on the wall on his own coat. “So I am going to go on not knowing what it is called, and that is fine, and nobody is to tell me I was right about not looking and nobody is to tell me I was wrong about it.”
 
-Nobody told him he was right and nobody told him he was wrong.
+He was told neither that he was right nor that he was wrong.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and was refused in the same way and was not thanked, and he said that a woman had said a whole thing out loud and that he had not understood about half of it and that he was glad there had been more than half.
 
@@ -98,7 +98,7 @@ Nobody reported him.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And it is the fourth one this week and I have not changed a word of it and I am not going to.”
 
-Nobody answered him. Nobody told him he was owed an answer, nobody told him he was not owed one, and nobody thanked him for two hundred and fifty-four mornings of turning up with the same question.
+Nothing came back. He was not told he was owed an answer, not told he was not owed one, and nobody thanked him for two hundred and fifty-four mornings of turning up with the same question.
 
 Then the man of thirty-one came up at about the eighth hour and gave his figures and the figure of the offer with the subtraction out loud, and asked for nothing, and said out loud that he had got the clearest answer anybody had given him all fortnight and that he was not going to be unrelieved about it.
 
@@ -110,7 +110,7 @@ He got to the bottom of the steps and did not go further, and stood there.
 
 “A hundred and fifteen wrong things in a hundred and fifteen mornings, and here is the hundred and fifteenth, and it is the plainest answer anybody has given me in this county and it is about a landing owing a thing nothing.” He looked up at the woman on the step. “I have been standing on this bank a fortnight trying to work out what I would be owed if I ever put something down on a stone where a man works, and I have got eleven answers in my head and every one of them had me in it.”
 
-Nobody asked him what the eleven answers were.
+The eleven answers were not asked after.
 
 “And the answer is that I would be owed nothing, and that is the first one out of eleven that has not had me in it, and I am not going to be unrelieved about it, and I am not going to be relieved about it, and I would like it noticed that a woman who has read for twenty-three years walked up that road at the fourth hour to tell a man who sweeps steps that he is owed nothing by an iron wedge and nobody thanked her for it and nobody is going to.”
 

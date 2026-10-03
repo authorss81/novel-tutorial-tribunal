@@ -72,7 +72,7 @@ She put the saw handle round to the other arm.
 
 “And it has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Not this morning and not any morning of this fortnight, and I have said it once and I am not going to say it again this fortnight, and if you want it said again there is a man on this landing who says it out loud for a living.”
 
-Nobody thanked her for the working and nobody told her she had got it right.
+She got no word of thanks for the working and nobody told her she had got it right.
 
 Then a woman was standing at the low wall at the other end of the landing, past the cart road, where she had been before the seventh hour with the wind off it, and a man who moves chairs turned round and saw her and did not go up the road.
 
@@ -88,11 +88,11 @@ Nobody asked him what it was.
 
 “I said you are not to, Aldis, and you did it on Monday before you noticed and I have let it stand because there was nothing in it that would have done me any harm, and that is the last time there will be.” She did not come past the wall. “Nineteen years and I have kept out of this county’s business by not knowing what was on the other side of that wall, and it has cost me nothing, because I have never wanted to know, and I am not going to start wanting to know about a piece of iron in a man’s step.”
 
-Nobody on that landing said she had kept out of it or that she had not.
+It was not said on that landing that she had kept out of it, and it was not said that she had not.
 
 “And I am not going to be thanked for standing at this wall. I want that said now, this morning, before anybody walks up this road and decides I stood here for something. There is nothing to thank me for, and I am not going to be thanked for saying there is nothing to thank me for, and if somebody does thank me for it that person has turned a thing I have kept out of into a thing I did.”
 
-Nobody thanked her and nobody said they wished they had, and nobody on that landing went up that cart road after her.
+She got no word of thanks, nobody said they wished they had, and nobody on that landing went up that cart road after her.
 
 She went back down it at the pace she had come up, and nothing was said on that road behind her back.
 
@@ -104,7 +104,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Nobody asked you for it. I am not going to tell you the morning before was different, because it was not.”
 
-“No, and I have noticed that more of us on this landing have been asked nothing this week than have been asked every morning, and I counted it, because I am the man who counts and I could not help it, and I am not going to give anybody the figure.”
+“No, and I have noticed that more of us on this landing have been asked nothing this week than have been asked every morning, and I have counted us twice because I am the man who counts and I could not help it, and I am not going to give anybody the figure.”
 
 Nobody took his figure.
 
@@ -122,13 +122,13 @@ He got to the bottom of the steps and stayed on the lowest one.
 
 “A hundred and thirteen wrong things in a hundred and thirteen mornings, and here is the hundred and thirteenth, and it is about a man carrying a board.”
 
-Nobody said anything about the board.
+The board was not asked about.
 
 “A man of thirty-eight came up that bank and said what tomorrow was going to be like and a man of forty-three took it apart and did it in four sentences and I have not stopped hearing it.” 
 
 He kept his hands behind his back. “And what I have noticed is that neither of them is the man who it is about, and that both of them spent the whole morning on it, and that the man who is thirty-eight went down that bank at the ninth hour and did not come back up it, and he was the only man on this landing today who left it better than he found it and nobody has said so to him.”
 
-Nobody said so to him and nobody went after him with it.
+It was not said to him and nobody went after him with it.
 
 “And I have got no part in it, and I would like that written down as a thing about me rather than as a thing about this landing. A hundred and thirteen mornings and I have not once been the man whose work a thing made easier, and I have not once been the man a sentence was about, and I went down that bank on the last morning of the last week and it did not make anything easier, and that was the correct thing to do and nobody has thanked me for it and nobody is going to.”
 

@@ -4,7 +4,7 @@ Fifth day of the hundred and sixty-first week. His seven hundred and twenty-sixt
 
 Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures and then stood at the top of the steps while a man who cannot read gave a whole figure out loud at the sixth hour and nobody worked it out for him, and then somebody asked him what it was for.
 
-Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and on the fifth day of the hundred and sixty-first week said out loud that a whole figure that keeps coming out as a whole figure is a habit and that he was not going to take a habit off a man who cannot read.
+Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and on the fifth day of the hundred and sixty-first week said out loud that a whole figure produced three times is a habit and that he was not going to take a habit off a man who cannot read.
 
 “Sixteen at the seventh hour and it holds, two days of the coming back, and about sixty of those ninety steps under, on the fifth day of the hundred and sixty-first week, and it is a Saturday. Three figures.”
 
@@ -20,7 +20,7 @@ Nobody had worked it out for him.
 
 “I want it said by me and not worked out by one of you, because I am the man who cannot read and you are the people who can, and that is exactly the way round for a thing like this, and it has been exactly the way round for four Saturdays now and it is going to stay that way round.”
 
-Nobody on that landing worked it out for him.
+It was not worked out for him by anybody on that landing.
 
 “It has come out as a whole figure four times now and it has gone up by one each time, and it was ninety-six weeks the first morning I stood up here and said one out loud, and it is ninety-nine weeks this morning, and I have said every one of them on a landing full of people who can read them for me.” He took his hands off the wall. “And nobody on this step has asked me what it is for. Not once. Not on the first one and not on the second one and not on this one, and I have noticed it four times now.”
 
@@ -44,11 +44,11 @@ The landing went the other quiet.
 
 “Not because it comes on a Saturday. I have worked that out this morning while I was walking up and I had not worked it out before, and I am telling you I had not worked it out before rather than pretending otherwise. I say it on a Saturday because a Saturday is the only morning of the week I have got nothing else in my mouth.”
 
-Nobody on that landing had noticed that about a Saturday before him.
+That about a Saturday was new to the landing.
 
 “And I have got nothing else in my mouth on a Saturday because I have been asking the same question every morning for two hundred and fifty-five mornings, and on every other morning that question is what I say, and it fills it, and on a Saturday it does not fill it and the whole number comes up.”
 
-Nobody said a word back to him about that.
+Nothing came back to him about that.
 
 “That is the one thing I have added and that is all of it, and I am not going to take it back, and I would like somebody to have asked me before this morning.”
 
@@ -56,7 +56,7 @@ Nobody had asked him before this morning, and nobody asked him anything now, and
 
 The man with the broom came down three steps and stopped.
 
-“I said on this landing that I had given up a habit and named it, and it is on the record and I am not going to pretend I have not said it.” He held the broom in both hands. “A whole figure that keeps coming out as a whole figure is a habit. That is what it is, and he is not the only man on this landing who has one, and I am going to say the other half of it and then sweep.”
+“I said on this landing that I had given up a habit and named it, and it is on the record and I am not going to pretend I have not said it.” He held the broom in both hands. “A whole figure produced three times is a habit. That is what it is, and I am going to say the other half of it and then sweep.”
 
 Nobody stopped him.
 
@@ -64,7 +64,7 @@ Nobody stopped him.
 
 “And the difference between us is not that one of us is better informed. It is that he has to stand in front of people to hand it over and I do not, and that is a cost, and it is his, and I am not going to be the one who tells him to be quieter about it.”
 
-Nobody told him he was right about the Saturday and nobody told him he was wrong about the habit.
+He was told nothing about the Saturday and nothing about the habit.
 
 “I am not going to take it off him,” Corvin Tace said. “And I am not going to be thanked for saying that either, because nobody on this landing thanks anybody and this one is not going to start on a Saturday. And I am going to sweep now and I am not going to sweep it up as a thing.”
 
@@ -74,7 +74,7 @@ Then the man who moves chairs said the seven of them out loud on the way down th
 
 “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Not this morning, not on a full bank, and not on a Saturday either, and I am not going to say it a fourth time this fortnight, and there is a man on that landing who says it out loud for a living and he can have the mornings I have left.”
 
-Nobody told the man with the broom that he had the mornings left.
+The man with the broom was not told he had the mornings left.
 
 Then the man of fifty-four asked his question in the same words at the same hour and was refused in the same way and was not thanked, and he said out loud that he had put a whole figure on the landing that morning and that the whole figure had been taken up and used by two other people before he got to his own question, and that he did not mind.
 
@@ -82,7 +82,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses, on a Saturday, after a whole figure of his own. “And that is the fifth one this week and it is the same one and I am not going to move it because there was a whole number on this landing this morning. A man cannot carry a whole figure and a question up a hill in his mouth at the same time and get either of them there.”
 
-Nobody answered him, and he was not told he was owed an answer, and nobody thanked him for the whole figure of weeks he had given out loud at the sixth hour, and nobody was going to thank him for this.
+It was not answered, he was not told he was owed an answer, and nobody thanked him for the whole figure of weeks he had given out loud at the sixth hour, and nobody was going to thank him for this.
 
 Then the man of thirty-one came up at about the eighth hour on the morning the fever came out as a whole figure, and gave his figures, and gave the figure of the offer with the subtraction out loud, and asked for nothing, and said the one thing about a whole figure that he had been carrying up the bank for three days.
 

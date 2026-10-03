@@ -12,7 +12,7 @@ He left the broom standing against the wall beside him.
 
 “There is going to be a great deal of standing up here this week saying that it is a new week, as though a week were a thing that got put down and somebody had to pick it up.” He looked along the top step. “A week is a figure of nothing. It is not a new landing and it is not a new morning and nothing on this step has changed because the word went round. The water went off on Monday and it was back on the top step by this morning, and that is the whole of what happened in between.”
 
-Nobody on that landing said anything had changed.
+The landing did not say that anything had changed.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and was refused in the same way and was not thanked, and said out loud that this was the first morning of a week and that he was not going to start it differently.
 
@@ -28,7 +28,7 @@ He set the barrow down.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And it is the first one of a week and it is the same question and I am not going to come up here with a new one dressed up so that it looks like I have been thinking.”
 
-Nobody said he had been thinking and nobody said he had not.
+Whether he had been thinking went unsettled.
 
 It got nothing back on the first morning of a new week, and nobody on that landing told him he was owed an answer, and nobody thanked him for turning up, and nobody was going to.
 
@@ -44,7 +44,7 @@ Nobody took a turn at it.
 
 Nobody gave any morning a name.
 
-“And I am not going to be thanked for asking, because I asked on Monday and nobody thanked me then either and I have stopped expecting it, and I would like somebody to notice that I have stopped expecting it rather than notice that I am still expecting it.”
+“And I am not going to be thanked for asking, because I said the thing I had been carrying since Friday out loud on Monday and nobody thanked me for that either and I have stopped expecting it, and I would like somebody to notice that I have stopped expecting it rather than notice that I am still expecting it.”
 
 He came away from the wall and started down with his hand out and nobody helped him.
 
@@ -82,7 +82,7 @@ He stopped, and it took him longer than it should have.
 
 “That is the whole of it. Four steps and the last one is the expensive one, and the expensive one is not the carrying. The expensive one is that a man carrying a thing nobody can see is a man who is going to be asked about it eventually, and if he is ever asked about it he is going to have to answer, and he is not going to be able to answer without putting himself on the landing.”
 
-Nobody on that landing said that was a good answer or a bad one.
+Whether that was a good answer or a bad one was not said on the landing.
 
 “And you have made me say that out loud, on the first morning of a week, on a landing where an iron wedge has been sitting in a step for a fortnight making a man’s work easier.” He looked round. “So I would like somebody to have not asked me that this morning. Not because it was cruel. Because I have spent four hundred and twenty-five days not being asked anything and I had got quite good at it.”
 
@@ -100,15 +100,15 @@ Then the man of thirty-one said the thing he had been carrying up the bank since
 
 “I have wanted one thing since I was nineteen and I have never said it out loud in this county and I am going to say it now because a woman asked me a question I could not get round this morning and I have run out of other sentences.”
 
-Nobody stopped him, and nobody had wanted to.
+Nothing stopped him, and nobody up there had wanted to.
 
 “I want to be somebody.” He said it and then stood there while it sat there. “Not a witness and not a man with figures. Somebody. And I have worked out this fortnight, on your steps, from the bottom of them, that the only road to being somebody in this county is to be useful to a man who works here, and that a man who works here has not needed me for one minute of nineteen years, and that I have been given nothing to do.”
 
 Nobody on that landing gave him anything to do.
 
-“And that is not a thing anybody has done to me and I am not going to put it on this landing, because this landing has not had a hand in it. It is the shape of me.” He turned round. “And a small thing is not a lesser thing and I am not going to be told it is, and I am not going to be thanked for saying it, and nobody is going to help me with it, and I have not asked.”
+“And that is not a thing anybody has done to me and I am not going to put it on this landing, because this landing has not had a hand in it. It is the shape of me.” He turned round. “And a small thing is not a lesser thing and I am not going to be told it is, and I am not to be thanked for saying it, and nobody is going to help me with it, and I have not asked.”
 
-Nobody helped him with it, nobody told him it was a small thing, nobody told him it was not, and nobody thanked him for saying it.
+Nothing was done for him, nobody told him it was a small thing, nobody told him it was not, and nobody thanked him for saying it.
 
 Ninety swept, the chair left standing and the seam left alone, and nothing has been pulled, or turned over, or weighed in a hand, or read aloud, or carried inside, or put back where it was, or used. A man of thirty-one said out loud on the first morning of the hundred and sixty-second week that he did not know what he would do, and nobody helped him with it and nobody told him he was right.
 

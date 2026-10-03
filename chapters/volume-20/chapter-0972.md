@@ -32,7 +32,7 @@ Nobody said the first part was not settled.
 
 “It is that the only person who could say why it is there is a person who does not work here, and putting that person on this landing to ask them is the one move that this landing has spent a fortnight not making.”
 
-Nobody on the steps moved and nobody on the steps spoke.
+Not a sound came off that landing.
 
 “So here is the finding and I would like it taken in exactly the size it is. We cannot find out whether it helped. Not cannot find out this morning. Cannot find out. There is no morning on which that comes out, and everybody standing on these steps has known that since before the first of you got here and I have said out loud on this landing that I know it.”
 
@@ -40,7 +40,7 @@ He stopped there and did not go on.
 
 “No,” said the man with the broom, from the bottom step. “And I am not going to say the figure again. You have got to the end of it in one morning. I got to the end of it in nineteen years and I got there by stopping, and I am not going to stand up here and say a number that you have just made unnecessary by being quicker than me. That would be me handing the same thing round twice and there is enough of that in this county already.”
 
-Nobody thanked the man who moves chairs for the working and nobody said it was a good one, and nobody told him he had got it right.
+The working got no thanks, nobody said it was a good one, and nobody told him he had got it right.
 
 Then the boy came up out of the lane and gave his own count before anybody could ask him for it, in the voice of a boy who has been counting something in the dark and is perfectly satisfied to keep going on with it.
 
@@ -48,11 +48,11 @@ Wat Marshe is thirteen, has been in this county three hundred and nineteen days,
 
 “Three hundred and nineteen days, and it is one more than the morning before, and I counted it in the lane before the light came up.” He looked round the landing. “And a man who cannot see well asked me yesterday, coming up the lane, whether the light comes up at the same time every morning in the year, and I said yes, and that was the whole of what he asked me, and he said good morning and went on up.”
 
-Nobody asked the boy why a man who cannot see well wanted to know that.
+The boy was not asked why a man who cannot see well wanted to know that.
 
 “And I am not going to tell you what I think he wanted it for,” he said, “because I do not think anything about it, and if I did I would have to keep it, and I am not going to have a view about a thing on a landing. And nobody has told me I had that right.”
 
-Nobody told the boy he had it right and nobody told him he had it wrong either.
+Nobody told the boy he had it right and nobody told him he had it wrong.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and was refused in the same way and was not thanked, and he had noticed on the way up that the top step had a full week in front of it.
 
@@ -64,13 +64,13 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “No, and a whole week of water has come down since I asked you about it and gone back up again, and there was a morning in the middle of it with nothing on that stone at all, and I have not said a word about that morning to anybody either, and there are two of us on this landing who keep a figure to ourselves and neither of us has told the other one what it is for.”
 
-Nobody on that landing knew which two he meant.
+Which two he meant was not a thing anybody up there knew.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And it is the first one of a week now and I am not going to soften it for that.”
 
 The question got nothing back. Nobody told Barnaby Crove he was owed an answer, nobody said the refusal was final, nobody thanked him for it, and nobody thanked him for the figure he had given first.
 
-Then the man of thirty-one came up at about the eighth hour with eight inches above his boots and gave his figures and the figure of the offer with the subtraction out loud, and asked for nothing, and asked the man who moves chairs one question and got the answer in a sentence and did not take it well and did not take it badly either.
+Then the man of thirty-one came up at about the eighth hour with eight inches above his boots and gave his figures and the figure of the offer with the subtraction out loud, and asked for nothing, and asked the man who moves chairs one question and got the answer in a sentence, and took it neither well nor badly.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and eighteen days. The cut across that palm is two hundred and eighty-seven days old.
 
@@ -100,7 +100,7 @@ He looked at the man with the broom.
 
 “He is in it too. You are the only person up here who is in it because you have just got here, and that is not a thing you can be talked out of in a fortnight, and I am not going to pretend to you that you can.”
 
-Nobody helped him with that and nobody argued with it, and nobody told him what his question had been worth.
+He got no help with that and no argument against it, and nobody told him what his question had been worth.
 
 He swept his ninety, and went round the fortieth one, and went round the chair where it stood, and did not sit down on it, and did not put a hand on the thing in the seam. Nothing that has been put down anywhere on that landing has been pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was or used. Nobody up there found out whether the thing had helped, and the man whose work it was easier said out loud that he was not going to spend the rest of his life on a question that has no experiment in it, and nobody asked him how he meant to spend it.
 

@@ -12,7 +12,7 @@ He laid the broom down on the stone instead of leaning it.
 
 “I am going to say a fourth thing and I am going to say it having said it before this week, and I want that on the record before I say it, because the second time a man says a thing on a landing it gets smaller, and I am not going to have this one get smaller.”
 
-Nobody said they had heard it smaller.
+It had not been heard smaller.
 
 “Four days is a figure of the water.” He said it slowly, one clause at a time, the way he says the things he means to last. “It tells you nothing about this landing. It tells you nothing about this morning. And it has nothing to do with Thursday, whatever Thursday turns out to be like.”
 
@@ -20,11 +20,11 @@ He looked along the top step.
 
 “Yesterday a man told me what tomorrow was going to be like and he was right about the water. That is what he was right about. He was right about sixteen inches standing on the top step at the seventh hour, and everything else he said was him deciding in advance, and the two of those got put in the same sentence and it came out of his mouth as a Thursday.”
 
-Nobody on that landing said a word about it.
+The landing said nothing about it.
 
 “I have given three figures off this stone every morning for nineteen years and I have never given one of them a name, and the reason is that they are about the bank and not about us. A bank takes no notice whatever of a landing and I have never once pretended otherwise.” He picked the broom up. “So here is the whole of it and I have said it twice this fortnight now and I am not going to say it a third time on this bank. Take the four off this stone and it stops being a figure of the bank and it starts being a day, and a day is a thing people arrange themselves around.”
 
-Nobody on that landing carried the four off that stone, and nobody said anything on a full bank that was not said on every other morning.
+The four stayed where they were, and nothing was said on a full bank that was not said on every other morning.
 
 Then the man of fifty-four came up at about the sixth hour and asked on a full bank in the same words at the same hour and was refused in the same way and was not thanked, and he noticed that nobody had asked him to come back tomorrow either.
 
@@ -36,13 +36,13 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “No, and I have been thinking about what I said to you on Tuesday about the two of us keeping a figure to ourselves, and I have worked out that I do not know which two I meant, and I am not going to ask, and that is the first thing I have worked out in a fortnight.”
 
-Nobody said he had it right about the two mornings and nobody said he had it wrong.
+It was not settled for him, and not unsettled.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And I have noticed that today is the third day in this week that I have asked and it is the first day in this week that somebody stood on that step and said a whole sentence out loud without anybody needing a figure of the water to stand it on, and I would like somebody to notice that.”
 
 Somebody noticed it and nobody acted on it.
 
-Nobody gave that question an answer and nobody gave him an answer either, on a full bank, in the words he uses, and nobody thanked him and nobody was going to be thanked for refusing him either.
+That question got no answer on a full bank, in the words he uses, and nobody thanked him and nobody was going to be thanked for refusing him.
 
 Then the man who moves chairs came up the cart road with nothing on his shoulder for the fourth morning running and stood at the flat of the steps and said the thing he had been carrying since Monday, which was that a person cannot find out what is in a step without picking it up, and that picking it up is the one thing that has been forbidden on that landing for a fortnight.
 
@@ -102,10 +102,10 @@ He got to the bottom of the steps and stood on it, which nobody else does.
 
 “A hundred and fourteen wrong things in a hundred and fourteen mornings, and here is the hundred and fourteenth, and it is about four days.” He did not move his hands. “A man of forty-three has spent this morning telling a landing that a figure of the water is not a figure of the morning. I have been doing the opposite since Monday. I have been standing on this bank finding out what a figure of the water is going to let me say, and it has let me say four days, and I am not going to say what for.”
 
-Nobody asked him what the four days were for.
+He did not say what the four days were for and nobody asked.
 
-“And I am not going to be thanked for saying so, and I am not going to be unrelieved, and I have spent a whole morning choosing not to use a morning that was handed to me, which is the only kind of skill I have got, and there is nobody on this step to hand me another one.” He looked up the top step. “And the offer is at two hundred and seventy-four days and it is unanswered and I have not asked it and I am not going to ask it on a morning like this one.”
+“And I am not going to be thanked for saying so, and I am not unrelieved about it, and I have spent a whole morning choosing not to use a morning that was handed to me, which is the only kind of skill I have got, and there is nobody on this step to hand me another one.” He looked up the top step. “And the offer is at two hundred and seventy-four days and it is unanswered and I have not asked it and I am not going to ask it on a morning like this one.”
 
-Nobody asked him about the offer and nobody offered him anything.
+The offer was not asked after, and nothing was offered him.
 
 He swept his ninety and went round the fortieth one and round the chair, and left both alone, and nothing on that landing was pulled, or turned over, or weighed in a hand, or read aloud, or carried inside, or put back where it was, or used. The bank stood full over the top step, and four days was a figure of the water and nothing else whatever, and not one person on that landing carried it off that stone as a kind of day to have a conversation on.

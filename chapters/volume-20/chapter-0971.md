@@ -12,13 +12,13 @@ He set the broom down flat on the stone rather than lean it, which is what he do
 
 “Three figures, and there is no fourth, and I want everybody standing on this step to notice that there is no fourth, because what I am going to say now is going to sound like a fourth and it is not a figure and it is not off my stone.”
 
-Nobody said anything.
+Not a word came back at him.
 
-“The fortieth one.” He did not point at it. “The one with the chip off the top left. I have never been able to sweep that stretch the way I was taught to sweep it and I have known which stretch it was in my first week, and I have never once told a soul which one it was, because a man who sweeps ninety steps a day does not need to be told and if he does need to be told he is not the man who sweeps them.”
+“The fortieth one.” He did not point at it. “The one with the chip off the top left. It has moved under me every morning for nineteen years. It is the only one of these ninety that has ever moved and I have known which one it was in my first week, and I have never once told a soul which one it was, because a man who sweeps ninety steps a day does not need to be told and if he does need to be told he is not the man who sweeps them.”
 
 He picked the broom up and turned it in his hands and set it down again.
 
-“The working is this and I am giving it to you whole. A step moves when the ends of the stone are carrying it and the middle is not. You can feel it from the outside edge, where your heel goes when you have learned the step, and from the outside edge I have been able to tell you since the morning I came to this bank whether that one had gone or not. This week my heel has been going in the chip at the corner. Dead on the seam. And it has not moved once, and I have put my whole weight on it twice a day every morning this week and it has not moved.”
+“The working is this and I am giving it to you whole. A step moves when the ends of the stone are carrying it and the middle is not. You can feel it from the outside edge, where your heel goes when you have learned the step, and from the outside edge it has moved every morning since I came to this bank. This week my heel has been going in the chip at the corner. Dead on the seam. And it has not moved once, and I have put my whole weight on it twice a day every morning this week and it has not moved.”
 
 He stopped there and let it stand.
 
@@ -32,7 +32,7 @@ Nobody thanked him and nobody congratulated him and nobody asked him how he knew
 
 “And I am not going to say who put it there.” He said it flat and he said it once. “Not this morning and not on any other morning, and that is not a new thing and I am not announcing it, and I would like it noticed that I have just told this landing that my work has got easier and in the same breath I have declined to tell them who did it, and that nobody has found anything wrong with the order of them.”
 
-Nobody found anything wrong with the order of them, and nobody asked him, and he went back to the broom.
+The order of them stood, and nobody asked him about it, and he went back to the broom.
 
 Then a man who cannot see well got up onto the flat of the steps at about the tenth hour and put his hand out in front of him and found the wall with it, and asked for the rule, and did not ask for anything else.
 
@@ -48,7 +48,7 @@ Simon Rook is about fifty-two, cannot see well, has a list of things he cannot c
 
 “Then it has not been touched and it is not going to be. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used.” He said the seven of them without stopping and without looking at anybody. “Seven things. I have said them to you because I would like them said by a mouth that is not mine this morning, and because if I am the only man on this landing holding them then they are a thing I am doing, and I would rather they were a thing this landing is doing.”
 
-Nobody thanked him for saying them.
+Saying them out loud got him nothing back.
 
 “And I am not going to add that step to my list,” he said. “I have a list and I have never added a thing to it that I could have checked by asking one man, and this is one thing I could have checked by asking one man, and he has declined, in front of everybody, and that is the end of it.”
 
@@ -60,15 +60,15 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Two hundred and fiftieth. Nine hundred and seventy-one less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
 
-“Nobody asked you for it, and nobody is going to ask you about that either.”
+“Nobody asked you for it, and nobody did yesterday.”
 
 “No, and I have asked on every morning I have come up and been refused on every morning I have come up, and I have watched a man tell this landing that his work has got easier and not one person up here has asked him a single thing about it, and I have been thinking about that on the road up.”
 
-Nobody had thought about that on the road up.
+Not one of them had been thinking about that on the road up.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And that is the last one of this week and I am not going to change it for the last one of anything.”
 
-Nobody on that landing gave the question a verdict, nobody told the man of fifty-four he was owed an answer, nobody thanked him for asking it, and nobody was ever going to.
+The question got no verdict off that landing, nobody told the man of fifty-four he was owed an answer, nobody thanked him for asking it, and nobody was ever going to.
 
 He set the barrow against the bottom step and stood at the foot of the steps where he has stood every morning of this business and was not thanked, and the hundred and sixtieth week went out with four inches on the top step and nothing on the stone about it.
 
@@ -94,7 +94,7 @@ Nobody on that landing said anything about the shape of it.
 
 “Nothing, and that is the first time in eleven years I have stood on a step with nothing prepared for it, and I would like that said out loud by somebody who is not me.” He did not move his hands. “And I am not going to be unrelieved about it, because being unrelieved is the other side of being relieved and I have had enough of both from this landing.”
 
-Nobody was relieved about it and nobody was unrelieved about it either.
+Relief and its other side both stayed where they were.
 
 “And here is my cost and I am going to say it once this morning because it is a Monday and there is nothing else on the stone. Asking is the only thing that costs me nothing. Everything else I do costs me something I can name. I could pay for this standing here this morning out of what is left of me, and I could pay for asking nobody anything at all out of nothing at all, and that is why I have asked for nothing for four hundred and seventeen days and why I am going to keep on not doing it.”
 
