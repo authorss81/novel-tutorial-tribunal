@@ -66,7 +66,7 @@ He came to the top step and stopped and did not look at the strip.
 
 “One hundred and forty-third wrong things in one hundred and forty-third mornings, and this is the hundred and forty-third, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+Nobody took either half of that and nobody asked him to say it slower.
 
 “I am going to say one sentence and it is not a speech and I am not going to say it twice.” He turned round to the middle of the landing and then turned back to the wall. “Nobody on this landing has said what I found, and nobody is going to, and I am not going to hand my own mouth a thing to say about a thing I put down. That is my want and my cost both in one sentence. I want to be somebody and I have worked out that the cheapest way to be somebody on this landing this week is to be the man who worked something out, and I am not going to do it, and it has cost me nothing at all, which is the whole of my trouble and I have said it out loud on this stone.”
 

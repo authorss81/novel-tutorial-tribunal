@@ -1,4 +1,4 @@
-# Chapter 1010: The Last Morning Of This Band And A Man With A Broom Said The Three Things He Had Said Before On An Earlier Morning In Entirely Different Words And Nobody Asked Him To Say Them Again, And A Man Of Thirty-One Gave An Offer At Three Hundred And Ten Days Out Loud With The Subtraction And Nobody Answered It And Nobody Was Relieved, And Two Pieces Of Wood Were Still On A Dry Strip At The Top Of Those Steps
+# Chapter 1010: The Last Morning Of This Band And A Man With A Broom Said The Three Things He Had Said Before On An Earlier Morning In Entirely Different Words And Nobody Asked Him To Say Them Again, And A Man Of Thirty-One Gave The Figure Of An Offer At Three Hundred And Ten Days Out Loud With The Subtraction And Said Out Loud That He Had Not Asked It And Nobody Answered It And Nobody Was Relieved, And Two Pieces Of Wood Were Still On A Dry Strip At The Top Of Those Steps
 
 The water came off that bank in the night and the man with the broom was the first one up it, which he had not been since the bank filled, because there was nothing to sweep on the dry stone and there was nothing to sweep on the wet stone either and he came up anyway.
 
@@ -52,7 +52,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 “Four hundred and fifty-six days in this county, and the cut across that palm is three hundred and twenty-five days old, and the standing offer asked at the seven-hundred-and-sixtieth is three hundred and ten days old, which is one thousand and ten less seven hundred.” He said it without stopping on any part of it. “It is unanswered. I have not asked it on any morning this week. Nobody has offered me a way out of it and I did not ask for one. I am not relieved and I am not unrelieved and I am not going to be either of those things quietly.”
 
-Nobody said he was relieved and nobody said he was unrelieved.
+Nobody said it had been worth the waiting and nobody said it had been a waste of it.
 
 “One hundred and fiftieth wrong things in one hundred and fiftieth mornings, and this is the hundred and fiftieth, and it is a whole figure, and nobody has told me what kind of figure it is and nobody has told me that I found anything, and I have noticed that a man on this landing said a whole figure out loud on a Saturday with nothing beside it and nobody asked him what it was for, and I am not going to ask him either.”
 

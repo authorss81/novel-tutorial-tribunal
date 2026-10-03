@@ -54,7 +54,7 @@ He put his face to the cold stone and stayed there long enough that his breath c
 
 “One hundred and forty-sixth wrong things in one hundred and forty-sixth mornings, and this is the hundred and forty-sixth, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+It went out over the water and nobody on that landing took hold of either end of it.
 
 “And here is the sentence. I have been standing on this landing all week waiting for somebody to hand me a sentence and I have worked out that nobody is going to, and I am going to use one that has been going round this county in other mouths, and I am going to stand here with my back to that wood and use it, and nobody is to stop me and nobody is to tell me I am the first one to say it.”
 

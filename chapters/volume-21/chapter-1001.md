@@ -66,11 +66,11 @@ He said all of that standing on the second step from the bottom with the water o
 
 “One hundred and forty-first wrong things in one hundred and forty-first mornings, and this is the hundred and forty-first, and it is a whole figure, and nobody is going to tell me what kind of figure it is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+Nobody answered him on either half of it, and nobody asked him which half he meant.
 
 “My want is to be somebody and it has not changed since I said it out loud and I am not going to say it in a new shape because a new shape would sound as though the old one had gone stale.” He turned the hand over and shut it. “My cost is that asking costs me nothing. Four hundred and forty-seven mornings in this county and I have not asked anybody for one thing, and I want both halves of that said out loud, and I want neither half of it improved.”
 
-Nobody said he was relieved and nobody said he was unrelieved.
+Nobody comforted him and nobody told him to stop, and those are the two things that would have been the same thing.
 
 “And I am going to say the last part and then I am going to go down that bank, and it is about a morning I am not going to have again this week, so nobody is to go up and look.” He looked at the water and not at the strip. “There was a morning four mornings back when that water came off that bank and every one of those ninety steps was walkable from the bottom to the top with nothing in the way. That was the morning a man could have walked up there and put a hand on that wood. I know that. I have known it since the water went off. And I was not one of the people who went up, and I am not going to be thanked for that, because not going up is not doing anything and anybody who stays behind can do it.”
 

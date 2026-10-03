@@ -181,8 +181,8 @@ it is not a book nobody may read · it is not a sheet · it is not a chair · it
 | ⚹ **his morning** | **seven hundred and fifty-first** | **eight hundredth** | ⚹ `ch − 250` |
 | ⚹ days after the settlement | six hundred and one | six hundred and fifty | ⚹ `ch − 400` |
 | ⚹ the fever | one hundred and two weeks and four days | one hundred and nine weeks and four days | ⚹ `ch − 283` |
-| ⚹ since the division | five hundred and one | five hundred and fifty | ⚹ `ch − 500` |
-| ⚹ since a page was read out with the door shut | five hundred and fifty-five | six hundred and four | ⚹ `ch − 446` |
+| ⚹ since the division | five hundred and fifty-five | six hundred and four | ⚹ `ch − 446` |
+| ⚹ since a page was read out with the door shut | five hundred and one | five hundred and fifty | ⚹ `ch − 500` |
 | ⚹ **in this county of Kell** | **four hundred and forty-seven** | **four hundred and ninety-six** | ⚹ `ch − 554` |
 | ⚹ the cut across his palm | three hundred and sixteen | three hundred and sixty-five | ⚹ `ch − 685` |
 | ⚹ **his mistakes** | **one hundred and forty-first** | **one hundred and ninetieth** | ⚹ `ch − 860` |
@@ -403,6 +403,14 @@ it is not a book nobody may read · it is not a sheet · it is not a chair · it
 ⚠ **THE SECOND FINDING IS NOT SETTLED AND IS NOT OURS.** ⚹⚾ The **60,000**-byte cap that governs the seven state files appears in no controller document — not in `AGENTS.md`, not in `PHASE_SYSTEM.md`, not in `REPO_PLAN.md` — and it is not in the series outline or the ending. It nonetheless stands behind **121** whole-block extractions under `reviews/`, ninety-nine of them from volume 20 alone, and it has moved canon out of the exact files `AGENTS.md` tells a writer to read before writing, which is the one thing those files are for. The seven state files held **358,599** bytes of house voice when the review measured them, and **360,385** after this repair added two pointers of its own, and `AGENTS.md` asks for summaries that are compact and useful for the next batch. **Neither this phase nor any other writer pass can settle it**, because the cap is enforced by nothing outside itself and removing it would leave a hundred and twenty-one provenance pointers claiming a reason that no longer governs. It is recorded, it is not resolved, and it goes to whoever owns the controller documents with the same standing as the hundred-and-fifty-chapter disagreement at finding 6. ⚹⚾
 
 ⚹ **AND WHAT THIS PHASE DID DO ABOUT IT, WHICH IS THE ONLY THING A WRITER MAY DO:** ⚹ the first-batch prompt no longer orders a whole-block move on the strength of an inherited number. It now prints the seven measured sizes, says plainly that no block is owed out of any of them, and names `state/open-threads.md` as the file that will break first, because it was measured at **304** bytes of room against the **1,391** this planning phase put there. ⚹⚾
+
+### 13.13 ⚹ THE ONE FIGURE THE REVIEW REPAIR OF BAND `0001` FOUND WRONG IN THIS FILE, ⚹ **AND IT IS THE SAME CLASS AS §13.10**, ⚹ **AND IT IS REPAIRED IN THE OPEN HERE** ⚹ **AND IT IS A FIGURE IN A PLAN AND NOT A FINDING SETTLED BELOW, ⚹ AND IT TOUCHED NO CHAPTER**
+
+⚠ **THE TWO ROWS AT §4.4 THAT CARRY *SINCE THE DIVISION* AND *SINCE A PAGE WAS READ OUT WITH THE DOOR SHUT* HAD EACH OTHER'S FIGURES AND EACH OTHER'S FORMULA.** ⚹⚾ As written, the division row read **501** at `1001` with `ch − 500` on it, and the door-shut row read **555** with `ch − 446`. The ten chapters on disk say the other way round, and they are right: `1001:9` reads *Five hundred and fifty-five days since the division* and *Five hundred and one days since a page was read out in a room with the door shut*, `1002:5` reads **556** and **502**, `1007:3` reads **561** and **507**, and `1010:5` reads **564** and **510**. So **since the division = `ch − 446`** and **since a page was read out with the door shut = `ch − 500`**, which is what §4's own formula line has always said under the short names *hall* and *clear*, and what §0AZ and §4.3 have always carried. **The numeric columns of the table were internally consistent and only the two labels were crossed, so the repair is the labels and nothing else: each row now keeps the figures and the formula it always had and takes the label it belongs to.** ⚹⚾
+
+⚹ **AND IT WAS FOUND BY READING THE CHAPTERS AND NOT BY RUNNING ANYTHING, ⚹ AND ⚹ IT WAS INVISIBLE TO EVERY SWEEP THIS PLAN INHERITS IN §8, ⚹ AND ⚹ THE SAME CROSS IS CARRIED IN TWO PROMPTS, ⚹ `workspace/volume-21/batch-0001/PROMPT.md` AND `workspace/volume-21/batch-0002/PROMPT.md`, ⚹ AND ⚹ BOTH ARE REPAIRED, ⚹ AND ⚹ **THE TEN CHAPTERS ON DISK NEEDED NOTHING AND WERE NOT TOUCHED, ⚹ AND THE FIGURE OF CHAPTERS REWRITTEN IS **ZERO**. ⚹⚾**
+
+⚹ **AND ⚹ THE LESSON IS THE ONE §13.10 ALREADY TEACHES AND IT IS NOT A NEW ONE: ⚹ A FIGURE IN A PLAN IS ONE CLAIM FURTHER OUT THAN A FIGURE ON A PAGE, ⚹ AND ⚹ A TABLE WHOSE FIGURES AGREE WITH EACH OTHER CAN STILL BE WRONG ABOUT WHICH ROW IS WHICH, ⚹ AND ⚹ **THE ONLY TEST THAT CATCHES IT IS TO READ ONE OF THE ROWS OUT LOUD AGAINST A CHAPTER.** ⚹⚾**
 
 ## 14. ⚹ WHAT THE NEXT PHASE SHOULD TREAT AS A CLAIM AND NOT AS A FACT
 

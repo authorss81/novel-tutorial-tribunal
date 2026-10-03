@@ -78,7 +78,7 @@ He looked down the cart road for a while and then stopped looking at it.
 
 “One hundred and forty-seventh wrong things in one hundred and forty-seventh mornings, and this is the hundred and forty-seventh, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+He waited for one of them to come back and neither of them did.
 
 “My want is to be somebody and a man of thirty-eight has come up that road this morning to say a thing is his, and I am not going to be jealous of him in front of you. I am going to be jealous of him down that bank where you cannot see it, and I am saying it out loud here so that nobody can say I hid it, and I am not going to do anything about it.”
 

@@ -56,7 +56,7 @@ He stood on the top step on the other side of her from the strip.
 
 “One hundred and forty-eighth wrong things in one hundred and forty-eighth mornings, and this is the hundred and forty-eighth, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+Nobody picked the figure up and nobody put it down again, and both of those are the same silence.
 
 “A woman of thirty-eight stood on this step and used a shape and said out loud that she was waiting for somebody to tell her she ought not to have said a thing she said a week ago, and that nobody came, and that the not-coming did not make the saying smaller. I am not going to say anything about that.” He put his hands behind his back, which is what she had done. “I want it noticed that I could say something about that and I have decided not to, and I am not going to be thanked for not saying it, and I am not going to be asked afterwards what I would have said.”
 
@@ -74,7 +74,7 @@ He turned his face towards the water and not towards the strip.
 
 Then everybody went down that bank by about the tenth hour and the man of thirty-one went last and stopped at the top step and looked back along the strip for a moment before he went down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went round the fortieth one, and went round the chair, and did not sit on it. He did not touch the iron in the seam of the fortieth step and he did not touch either piece of wood on the dry strip. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end and two shallow notches cut in the flat of it, one of the two run out of the side.
+He did the whole flight before the others were off it, and he did the thirty that were out first and the sixty that were under after, and he went round the fortieth one both times, and he went round the chair, and he did not sit on it. The iron in the seam of the fortieth step was under his hand twice and he took his hand off it twice. Neither piece of wood on the dry strip was under his hand at all. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end and two shallow notches cut in the flat of it, one of the two run out of the side.
 
 Nothing on that landing was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used, and nobody laid a hand on that wood in order to take anything off it.
 

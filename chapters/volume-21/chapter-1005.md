@@ -66,7 +66,7 @@ He came up and stood with his back to the strip, which is a thing he has not don
 
 “One hundred and forty-fifth wrong things in one hundred and forty-fifth mornings, and this is the hundred and forty-fifth, and nobody is going to tell me what kind of figure it is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+Nobody said a word against the figure and nobody said a word for it either.
 
 “A woman of forty-nine has just used a shape against a room and a man of forty-three has said out loud what it cost her, and neither of them said one word about me, and I want that said, because I have been standing on this landing all week waiting for somebody to use something at me and they have not and I do not know what to do with that.”
 

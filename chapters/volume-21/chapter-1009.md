@@ -58,7 +58,7 @@ He came up the steps that were out and stood on the top one.
 
 “One hundred and forty-ninth wrong things in one hundred and forty-ninth mornings, and this is the hundred and forty-ninth, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.”
 
-Nobody said anything to him about either of those.
+Nobody answered the figure and nobody answered the other thing, and it was the same silence for both.
 
 “My want is to be somebody and my cost is that asking costs me nothing and I have not asked for one thing in four hundred and fifty-five mornings, and I am going to be neither relieved nor unrelieved about that and I would like that said by somebody who is not me.”
 
@@ -90,7 +90,7 @@ Nobody thanked him.
 
 Then everybody went down that bank and the man of thirty-one went last and stood at the top of those steps and looked at the strip for a while without going near it.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went round the fortieth one, and went round the chair, and did not sit on it. He did not touch the iron in the seam of the fortieth step and he did not touch either piece of wood on the dry strip. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end and two shallow notches cut in the flat of it, one of the two run out of the side.
+He swept the top thirty while the water was still deciding and came back to the rest of it an hour later, and he did the fortieth one on both passes without stopping on it, and he went round the chair the way he goes round anything he has decided not to sit on. The iron in the seam of the fortieth step was under his hand and he knew it was and did not stop for it. He had not touched either piece of wood on the dry strip and he was not going to before he went down. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end and two shallow notches cut in the flat of it, one of the two run out of the side.
 
 Nothing on that landing was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used, and nobody laid a hand on that wood in order to take anything off it.
 

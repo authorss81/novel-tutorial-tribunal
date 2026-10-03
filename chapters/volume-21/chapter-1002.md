@@ -66,7 +66,7 @@ Nobody worked it out for him.
 
 “My want is to be somebody. My cost is that asking costs me nothing and I have not asked for one thing in four hundred and forty-eight mornings, and it is the same both halves and I am carrying both up that bank myself.”
 
-Nobody said he was relieved and nobody said he was unrelieved.
+There was no sound off that landing of the kind a man makes when something has finally gone one way or the other.
 
 “And now the part I have not been able to put down since before the light, and I am putting it down here because this is the only morning in a week where a man could walk up to that strip and touch it and nothing about it would be remarkable.” He did not move his hands out from behind his back. “I did not come up here to touch it. I am not going to touch it. And I am not going to tell you why not, because the reason not is a thing about me and I have found that the reasons I have about myself are worth exactly nothing to anybody on a landing.”
 
