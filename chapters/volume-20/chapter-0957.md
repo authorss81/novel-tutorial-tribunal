@@ -72,11 +72,11 @@ He got the barrow up onto his shoulder.
 
 The landing did not thank either of them.
 
-“No one came up the road from the village this morning,” said Sena Dorr, who had been up the road since before the light and had not come up the steps. “Nobody has come up that road all week. I am not going to say she is not coming up because she says she is not going to be asked again and she has not been asked, and she has kept to that, and the rest of it is not mine to keep either.
+“No one came up the road from the village this morning,” said Sena Dorr, who had been up the road since before the light and had not come up the steps. “Nobody has come up that road all week. I am not going to say she is not coming up because she says she is not going to be asked again and she has not been asked, and she has kept to that, and the rest of it is not mine to keep either.”
 
 “She said one thing on the last morning of the week behind that and she said it plainly and she said she was not going to be thanked for it. And there is nothing this week that she is owed, because the whole of what this week has been is things that nobody owed anybody.”
 
-Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, and has given her question up on the second morning of this week and has not taken it back.
+Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, and has given her question up on the sixth morning of this week and has not taken it back.
 
 “That is all I am going to say about her and I would be obliged if nobody on this step went up that road to say anything about what I have just said. She will hear about it in a week and she will not be able to do one single thing about it, which is the correct outcome, and I would still rather she never heard about it at all.”
 

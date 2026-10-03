@@ -1,4 +1,4 @@
-# Chapter 959: Sixteen Inches On The Top Step And It Holds, And About Sixty Of Those Ninety Steps Under, And Three Days Of The Coming Back, And A Man Put A Chair Down On A Landing Where He Does Not Work And Nobody Would Say What It Was For
+# Chapter 959: Sixteen Inches On The Top Step And It Holds, And About Sixty Of Those Ninety Steps Under, And Three Days Of The Coming Back, And There Is A Chair On That Landing And The Man Who Moves Chairs Says He Did Not Put It There And Nobody Would Say What It Was For
 
 Second day of the hundred and fifty-ninth week. His seven hundred and ninth morning. Five hundred and fifty-nine days after the settlement. The fever ninety-six weeks and four days old. Five hundred and thirteen days since the division. Four hundred and fifty-nine days since a page was read out in a room with the door shut, in a town in another county, and four hundred and five days in this county of Kell.
 
@@ -42,7 +42,7 @@ Corvin Tace looked at the chair for a while.
 
 His hands went behind him again.
 
-“That is the whole of my trade and it is why I am the only man on this landing who can be told this week and not be surprised by it. I carry it in. I put it down where somebody works. I am not in the house. I do not work in that house. I am not coming back the next morning to put another one down, and the person it went in for is not going to be asked whether they took it or whether they would rather not have it.
+“That is the whole of my trade and it is why I am the only man on this landing who can be told this week and not be surprised by it. I carry it in. I put it down where somebody works. I am not in the house. I do not work in that house. I am not coming back the next morning to put another one down, and the person it went in for is not going to be asked whether they took it or whether they would rather not have it.”
 
 “Eleven years, about nine hundred houses, and not one person in any of them has ever heard a word about it from me, and not one of them has ever thanked me, and I would like to know that as a fact and not as a favour.”
 
@@ -64,9 +64,9 @@ He took his hands out from behind him, slowly.
 
 Corvin Tace put his hand on the broom and did not look at the chair again.
 
-“That is the plainest thing anybody has put on this landing since I came to it and I am not going to thank you for it, and I am going to tell you why I am not, because you will go away thinking I did not care. I did not know that was the shape of it either. I have been on this landing nineteen years and I have given about nine people the water figures off this stone and I have thought that was giving.
+“That is the plainest thing anybody has put on this landing since I came to it and I am not going to thank you for it, and I am going to tell you why I am not, because you will go away thinking I did not care. I did not know that was the shape of it either. I have been on this landing nineteen years and I have given about nine people the water figures off this stone and I have thought that was giving.”
 
-“And a thing that is put down beside you with nothing attached to it is not a gift, because a gift comes from somebody who is there. That is the part I have not had. Nineteen years on this step and I have never once been able to say who was in the room, and I have put that down to a county that does not answer and I have just worked out on a Wednesday afternoon that some of it might have been about a chair.”
+“And a thing that is put down beside you with nothing attached to it is not a gift, because a gift comes from somebody who is there. That is the part I have not had. Nineteen years on this step and I have never once been able to say who was in the room, and I have put that down to a county that does not answer and I have just worked out this morning that some of it might have been about a chair.”
 
 He did not sit on it.
 
@@ -96,12 +96,12 @@ He looked at the chair and had it in his mouth within a second and somebody at t
 
 He kept the hands behind him where they had been.
 
-“Tomorrow it is a whole figure and it will be on this step in my own mouth and I will give it. Nobody will help me with it and nobody will tell me what it is.
+“Tomorrow it is a whole figure and it will be on this step in my own mouth and I will give it. Nobody will help me with it and nobody will tell me what it is.”
 
 “I have got nothing left that is free except asking, and asking is what the man with the barrow does. I would rather be the man who does that than be the man somebody helps with a hundred.”
 
 Barnaby Crove came up at about the ninth hour and asked his question in the same words and was refused in the same way and was not thanked, and then asked whether anybody had worked out what the chair was for, and was told by the man of fifty-four that nobody had, and did not ask again.
 
-The chair stayed where it had been put. It was not pulled, not turned over, not weighed in the hand, not read aloud, not carried inside, not put back where it was, and not used. Nobody said who had put it there, and nobody on that landing ever said, and the man of forty-three swept around it for the rest of the morning and did not sit on it, and the water stood at sixteen inches on the top step and held there, and on the landing there was now a thing that could be read by anybody who could read and had not been read, 
+The chair stayed where it had been put. It was not touched. It was not pulled, not turned over, not weighed in the hand, not read aloud, not carried inside, not put back where it was, and not used. Nobody said who had put it there, and nobody on that landing ever said, and the man of forty-three swept around it for the rest of the morning and did not sit on it, and the water stood at sixteen inches on the top step and held there, and on the landing there was now a thing that could be read by anybody who could read and had not been read,
 
 And about nine people stood within thirty feet of it and said nothing about it.

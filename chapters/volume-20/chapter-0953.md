@@ -18,9 +18,7 @@ Jonas Trill is fifty-eight, carries coal a mile up the high side of that landing
 
 He put his hand flat against his chest where the sack had been.
 
-
-
-“And the reason I came a mile to say it is that I take both hands on that rail two hundred mornings a year and I have worked out this week that the whole difference between me and a man who has a rail and a man who has not got a rail is that one of us is standing on a thing that somebody worked out for him before he got there.
+“And the reason I came a mile to say it is that I take both hands on that rail two hundred mornings a year and I have worked out this week that the whole difference between me and a man who has a rail and a man who has not got a rail is that one of us is standing on a thing that somebody worked out for him before he got there.”
 
 “That is all it is. It is not a kindness and it is not a gift and it is not a favour and nobody has to be thanked for it, because the person who cut that rail did not do it for me and I have never met them and I could not tell you their name.”
 
@@ -30,7 +28,7 @@ Corvin Tace came out and gave the three figures before he came down a single ste
 
 “That is three and I counted them.”
 
-“Nobody counts them but me and that is the arrangement and it is not a complaint.” He leaned the broom against the wall. “A rail cut for a man before he gets to it is one of the best things there is, and it has no giver in it that the railer can use.
+“Nobody counts them but me and that is the arrangement and it is not a complaint.” He leaned the broom against the wall. “A rail cut for a man before he gets to it is one of the best things there is, and it has no giver in it that the man who rails can use.”
 
 “I have been on this landing nineteen years and I have watched about nine of those get put in in my time, for people who were not here when I started, and not one of them ever got asked whether they were using it. And that is the best thing about a rail.”
 
@@ -72,7 +70,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He put his hands behind his back and left them there.
 
-“If nobody in this county has standing to do that, then nobody in this county is going to stand there. And the thing on that step is going to go on being a thing on that step, and the woman at the yard is going to go on not being asked about her rail, and I am going to go on being a man who can walk down a bank and leave, and there is not one thing in this morning that any of us can put down.
+“If nobody in this county has standing to do that, then nobody in this county is going to stand there. And the thing on that step is going to go on being a thing on that step, and the woman at the yard is going to go on not being asked about her rail, and I am going to go on being a man who can walk down a bank and leave, and there is not one thing in this morning that any of us can put down.”
 
 “I have spent nineteen years wanting somebody in this county to ask me a question and every single morning this week there has been a moment when somebody could have, and it has been the wrong moment every time, and I am starting to think that is the shape of it and not a series of accidents.”
 

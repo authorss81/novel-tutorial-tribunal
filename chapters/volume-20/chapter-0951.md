@@ -4,7 +4,7 @@ First day of the hundred and fifty-eighth week. His seven hundred and first morn
 
 Barnaby Crove came up the cart road at about the sixth hour with the barrow in front of him and the barrow empty, and he had not stood on that landing for ten mornings, and he stopped at the foot of the steps and set the barrow down against the bottom one and did not come up.
 
-Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He carried two hundred and thirty mornings of asking for a day against the ninth line, which is nine hundred and fifty-one less seven hundred and twenty-two, and then one, asked for nothing on ten mornings running, and gave the step notice on the ninth day of the hundred and fifty-seventh week that the asking would start again on the morning after it.
+Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He carried two hundred and thirty mornings of asking for a day against the ninth line, which is nine hundred and fifty-one less seven hundred and twenty-two, and then one, asked for nothing on ten mornings running, and gave the step notice on the Sunday inside that run of ten mornings that he would be up on the Monday morning, and was not.
 
 “I gave you a notice on Sunday that I would be up here on Monday morning,” he said. “I was not up here on Monday morning.”
 
@@ -28,9 +28,9 @@ Corvin Tace came out with the broom and stopped at the top of the steps and gave
 
 He did not stop coming down.
 
-“No, and you are not going to ask me to pull it, and I want this landing to hear that I have said both of those out loud before you thought of them. A man who has not said a thing can be asked it later. A man who has said it cannot.
+“No, and you are not going to ask me to pull it, and I want this landing to hear that I have said both of those out loud before you thought of them. A man who has not said a thing can be asked it later. A man who has said it cannot.”
 
-There is an iron wedge in the seam of one of those ninety steps. It is in the step with the corner chipped off the top left. One face of it is worn smooth and smooth is the only word I have for what a boot heel does to iron when it happens twice a day for longer than I can count.
+“There is an iron wedge in the seam of one of those ninety steps. It is in the step with the corner chipped off the top left. One face of it is worn smooth and smooth is the only word I have for what a boot heel does to iron when it happens twice a day for longer than I can count.”
 
 He got to the flat of the steps and put his foot down flat on it.
 
@@ -90,15 +90,15 @@ He looked at the man with the barrow, and then at the road up past the green gat
 
 “You are owed nothing.”
 
-“That is why I want to go. If a man goes because he is owed, then the going is a favour and the favour is a rope. If a man goes because nobody owes him anything, then the going is only a man walking.” He put his hands behind his back. “And I have one thing left that nobody can take off me. Nineteen years on this landing and eleven years of nobody else’s and I can walk down that bank and leave, and no keeper, no clerk and no woman with a day against a line can take that off me.
+“That is why I want to go. If a man goes because he is owed, then the going is a favour and the favour is a rope. If a man goes because nobody owes him anything, then the going is only a man walking.” He put his hands behind his back. “And I have one thing left that nobody can take off me. Nineteen years on this landing and eleven years of nobody else’s and I can walk down that bank and leave, and no keeper, no clerk and no woman with a day against a line can take that off me.”
 
-That is the whole of what I have got and it is the only thing in this county I have never had to be given.”
+“That is the whole of what I have got and it is the only thing in this county I have never had to be given.”
 
 “Go up the road, then.”
 
-“No.” He took his hands out from behind his back, and it was not fast. “
+“No.” He took his hands out from behind his back, and it was not fast.
 
-No, and I want the whole of this landing to hear why, and then I am not going to say anything about it again. If I go up that road and look at that thing, then this week has a man in it who went and looked at a thing nobody put down. And then the next one is easier. And then somebody in this county is going to work out that the way to be somebody is to go and stand near things that nobody put down, and that is a road a man can walk for the rest of his life without anybody ever paying him for it, and every step of it is free.”
+“No, and I want the whole of this landing to hear why, and then I am not going to say anything about it again. If I go up that road and look at that thing, then this week has a man in it who went and looked at a thing nobody put down. And then the next one is easier. And then somebody in this county is going to work out that the way to be somebody is to go and stand near things that nobody put down, and that is a road a man can walk for the rest of his life without anybody ever paying him for it, and every step of it is free.”
 
 He looked up the bank at the man of forty-three.
 
@@ -112,9 +112,9 @@ Corvin Tace stood at the bottom of the steps with the broom in his hand and did 
 
 “Even though I could. And that is not a virtue. It is a man who has worked out that the counting would be a figure and a figure would be a thing to say out loud on a morning when somebody wants a fifth thing.”
 
-He leaned the broom against the wall. 
+He leaned the broom against the wall.
 
-“Nobody on this landing is owed a thing this week. Not a day, not a figure, not a chair, not a step. I have worked out this morning that the whole of what has happened on this landing since the water came back is a thing put down where a man works, by somebody who does not work there. Nobody was owed it. Nobody has been thanked for it, and nobody is going to be.
+“Nobody on this landing is owed a thing this week. Not a day, not a figure, not a chair, not a step. I have worked out this morning that the whole of what has happened on this landing since the water came back is a thing put down where a man works, by somebody who does not work there. Nobody was owed it. Nobody has been thanked for it, and nobody is going to be.”
 
 “That is the ground and there is nothing under it.”
 

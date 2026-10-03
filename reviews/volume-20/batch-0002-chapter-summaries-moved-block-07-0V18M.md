@@ -1,0 +1,72 @@
+# MOVED WHOLE, NOT ONE WORD CUT
+
+Out of `state/chapter-summaries.md`, at the writing of VOLUME 20 BAND 1, CHAPTERS `951`–`960`, because `state/chapter-summaries.md` had no room for this band's ten summaries against a hard cap of 60,000. It is the whole of that block — block **7** of the file, whose heading began `## 0V18M.` — including every chapter summary in it, every figure it printed and every finding it recorded. Nothing was summarised and nothing is cut, and it is still canon, and the chapters it summarises are on disk.
+
+THE COUNTING BASIS: **62** lines and **14734** bytes, from this block's own `##` heading line through the line before the next `##` heading, as `wc -l` and `stat` count them in `state/chapter-summaries.md` BEFORE the move.
+
+THE ASSERTION IS BY FOOTPRINT AND IT IS MADE **AFTER** THE MOVE: **0** lines of this block's own text in `state/chapter-summaries.md`.
+
+---
+
+## 0V18M. ⚠⚠ THE CHAPTER SUMMARIES FOR THE CLOSE OF VOLUME 18, ⚠⚠ `851`–`900`, ⚠⚠ FIFTY CHAPTERS, ⚠⚠ ⚠ ⚠⚠ ⚠⚠ **AND ⚠ ⚠ ⚠⚠ ⚠⚠ ⚠⚠ **EVERY FIGURE IN THEM IS A **CLAIM ABOUT A CHAPTER** AND NOT A FACT ABOUT ONE, ⚠⚠ INCLUDING THE ONES THAT ARE RIGHT**
+
+⚠ **THE RECEIPT IS `reviews/volume-18/batch-0008-close-0V18N.md`. ⚠ ⚠⚠⚠ ⚠⚠ ⚠⚠ **THE PER-BAND SUMMARIES ARE IN THE FIVE BAND BLOCKS AND ⚠ ⚠⚠⚠ ⚠⚠ ⚠⚠ **THIS BLOCK IS **THE FIFTY CHAPTERS READ AGAINST THE FIFTY OWED LINES**, ⚠ ⚠⚠⚠ ⚠⚠ ⚠⚠ **AND ⚠ ⚠ ⚠⚠ ⚠⚠ ⚠⚠ **IT IS A HALF-LINE A CHAPTER AND ⚠ NOT A PARAGRAPH, ⚠ ⚠⚠ ⚠ ⚠ ⚠⚠ ⚠⚠ **AND ⚠ ⚠ ⚠⚠ ⚠ ⚠⚠ ⚠⚠ **IT IS WRITTEN IN THE HOUSE FORM: **WHAT THE CHAPTER DID, ⚠ AND WHAT IT DID **NOT** DO.** ⚠ ⚠⚠ ⚠ ⚠ ⚠⚠ ⚠⚠ **⚠⚶ A CLOSE MAY NOT SUMMARISE THE WORKING ⚠ AND ⚠⚶ MAY NOT LET A CHARACTER SUMMARISE IT ⚠ AND ⚠⚶ MAY NOT IMPROVE IT, ⚠ ⚠⚠ ⚠ ⚠ ⚠⚠ ⚠⚠ **⚠⚶ BECAUSE ⚠ THE WORKING IS ABOUT PEOPLE AND ⚠⚶ THE COUNT IS ABOUT STITCHES ⚠ AND ⚠⚶ PUTTING THEM IN ONE SENTENCE IS A FIGURE OF ONE KIND OF THING PUT ON A THING OF ANOTHER KIND.**
+
+| ch | week / day | what the chapter did | ⚠ what it did **not** do |
+|---|---|---|---|
+| 851 | 143 / 6 Sun | OPENS FROM A RUN BEING ENTERED ON. A man of thirty-one is told a figure of eleven years for how long a line has been empty and a boy of thirteen takes it back in one sentence. | ⚠ Did **not** open on a water figure. ⚠ Did **not** restate the question. ⚠ Did **not** give the fourth thing — that is owed to `852`. |
+| 852 | 143 / 7 Mon | ⚠ **THE FOURTH THING'S FIRST FIGURE, ON THE MONDAY, OUT OF THE SAME PLACE.** A man of forty-three corrects a thing he has had wrong in his own head. | ⚠ Did **not** give it a day early. ⚠ Did **not** print the length of the run. |
+| 853 | 144 / 1 Tue | Three holders, three losses, three figures, and a woman of twenty-nine in a reed named in a mouth. | ⚠ Did **not** add the three figures together. ⚠ Did **not** name Nell Prince. |
+| 854 | 144 / 2 Wed | A full bank holds at sixteen until it comes off, and a man of about fifty-two names a thirteenth thing he cannot check. | ⚠ Did **not** print how many leaves are gone. ⚠ Did **not** say who the figure of a woman is. |
+| 855 | 144 / 3 Thu | The working of a wedge of burnt leaves, with the figure anchored to a scorch on a hearthstone. | ⚠ Did **not** convert the wedge into a count of days. |
+| 856 | 144 / 4 Fri | A man of thirty-one offers eleven mornings. A woman of forty-four says no to a day-book and not to the wanting. | ⚠ Did **not** take the offer. ⚠ Did **not** put her question down a sixth time. |
+| 857 | 144 / 5 Sat | ⚠ **THE ORDINARY FORM IS SAID IN A MOUTH.** The fever comes out at a whole number of weeks. | ⚠ Did **not** call the ordinary form the right of refusal. ⚠ Did **not** call it a seal. |
+| 858 | 144 / 6 Sun | ⚠ **THE TWENTY-FOURTH OFF-MORNING.** A man of sixty-one's index with three of nine left blank **on purpose** is said out loud. | ⚠ Gave **no figure of inches** and **no figure of steps**, and said so out loud. ⚠ Did **not** let the question be answered. |
+| 859 | 144 / 7 Mon | The two books are kept apart and told apart. A woman of sixty-four hands a thing to a boy of thirteen. | ⚠ Did **not** write it down. |
+| 860 | 145 / 1 Tue | A figure is a figure and not a letter, and a boy of thirteen says a mark is a third shape. | ⚠ Did **not** pretend to a man who cannot read that he reads a sentence. |
+| 861 | 145 / 2 Wed | A boy of thirteen reads nothing out loud this morning and says why. | ⚠ Did **not** read it. |
+| 862 | 145 / 3 Thu | A man of fifty-four refuses the fourteenth. The next off-morning is named with its week. | ⚠ Did **not** say the figure of a settlement out loud. |
+| 863 | 145 / 4 Fri | ⚠ A boy of thirteen refuses the column for the second time in a **different shape**. A woman of twenty-nine in a reed named in a mouth. | ⚠ Did **not** turn the three lengths into a sum. ⚠ Did **not** put the woman near the stone. |
+| 864 | 145 / 5 Sat | A sentence said twice by two people who do not do the same work. | ⚠ Did **not** say it once and mean it once. |
+| 865 | 145 / 6 Sun | A boy of thirteen has been keeping a count for four mornings and told them so. | ⚠ Did **not** give it. ⚠ Nobody asked him for it. |
+| 866 | 145 / 7 Mon | ⚠⚠ **THE MIDPOINT: ⚠ *Those three were never blanks.*** ⚠ The twenty-fifth off-morning. The ordinary form is refused in a mouth. | ⚠ Did **not** answer what three of the nine are. ⚠ Gave **no figure of inches** and said so. |
+| 867 | 146 / 1 Tue | A man of fifty-four says the ordinary form does not reach him and says what his line is. | ⚠ Did **not** say the form settles the question. |
+| 868 | 146 / 2 Wed | ⚠ A woman of forty-four repeats in a third person's mouth the figure a man of fifty-four gave, with the working. | ⚠ Did **not** let anybody tell her she was owed thanks. |
+| 869 | 146 / 3 Thu | The eleventh run is asked about out loud and answered with what a run of days is for. | ⚠ Did **not** give a figure of how many people anything would have saved. |
+| 870 | 146 / 4 Fri | ⚠ **A MAN OF FIFTY-FOUR SAYS HE IS GOING TO STOP SAYING A FIGURE OUT LOUD** ⚠ AND IS REFUSED FOR IT, ⚠ ⚠ **AND THE STANDING OFFER'S **ONE** REFUSAL IN FIFTY CHAPTERS IS SPENT HERE.** | ⚠ Did **not** get the day. ⚠⚠ **⚠ `870:95` IS **121** WORDS AND IS ONE WORD OVER THE INSTRUMENT'S ROUND FIGURE OF ABOUT 120.** |
+| 871 | 146 / 5 Sat | ⚠ The eleventh thing he cannot check is a question asked out loud. | ⚠ Did **not** say there would be a fifteenth. |
+| 872 | 146 / 6 Sun | Ordinary cases: a drain walked twice and a gate shut, and nothing written on either walk. | ⚠ Did **not** fix a name or an age for either. |
+| 873 | 146 / 7 Mon | What three of the nine are is still open and is said out loud by a man who keeps a gate. | ⚠ Did **not** answer it. ⚠ Did **not** call the ordinary form a gate. |
+| 874 | 147 / 1 Tue | ⚠ **THE TWENTY-SIXTH OFF-MORNING.** A man of thirty-eight asks the first half again. | ⚠ Gave **no figure of inches** and said so. ⚠ Did **not** get an answer. |
+| 875 | 147 / 2 Wed | ⚠ **A FIGURE OF ABOUT FOUR OF THEM WHO WILL SPEAK IS **NOT** CONSENT** ⚠ AND IS REFUSED IN A MOUTH. | ⚠ Did **not** spend it a seventh time. |
+| 876 | 147 / 3 Thu | ⚠ **A RUN OF DAYS IS NOT FOR CHECKING A POSITION.** ⚠ A man of fifty-four's own sentence said again out loud, and he says there will not be a fifth. | ⚠ Did **not** say it in a new wording. ⚠ Did **not** say what would stop him. |
+| 877 | 147 / 4 Fri | The full bank is named with the day and the week on it, **and it comes out right.** | ⚠ Did **not** let anybody carry a figure forward unchecked. |
+| 878 | 147 / 5 Sat | ⚠ A figure of leaves is put in a column and called a number of days, and it is refused in three mouths. | ⚠ Did **not** let the column stand. |
+| 879 | 147 / 6 Sun | A woman of twenty-eight's own count is given once and taken away again. | ⚠ Did **not** go up that cart road. ⚠ Did **not** say what is on it. |
+| 880 | 147 / 7 Mon | ⚠ **THE WEEK BOUNDARY IS NAMED ON BOTH SIDES.** ⚠ Three asks of a man of thirty-eight, and a boy of thirteen hears the sentence go and does not write it down. | ⚠ Did **not** settle anything. ⚠ Nobody had gone anywhere. |
+| 881 | 148 / 1 Tue | A case that required no argument about the world. | ⚠ Did **not** take the case. |
+| 882 | 148 / 2 Wed | ⚠ **THE TWENTY-SEVENTH OFF-MORNING.** ⚠ The midpoint said again, the same words, about a page. | ⚠ Gave **no figure of inches** and said so. ⚠ Did **not** let it become a record. |
+| 883 | 148 / 3 Thu | A barrow goes up the cut twice more and nothing is argued about the world. | ⚠ Did **not** argue about the world. |
+| 884 | 148 / 4 Thu | ⚠ A woman of twenty-nine in a reed is on the bank and is not put near a stone. | ⚠ Did **not** give a figure of how many houses. |
+| 885 | 148 / 5 Sat | ⚠ **ILYAN OFFERS TO CARRY THE LOOKING FOUR HUNDRED MILES** ⚠ AND IS REFUSED IN FIVE PIECES WITH THE WORKING GIVEN, ⚠ ⚠ **AND ⚠⚠⚠ `885:13` NAMES THE FULL BANK ONE DAY LATE.** | ⚠ Was **not** told he was right. ⚠⚠ **⚠ THE ONLY FIGURES OF THE NUMBER IN THE FIFTY ARE FOUR HUNDRED MILES, ⚠ AND NOT ONE OF THE EIGHTY-SEVEN IS A FIGURE OF WHAT A MAN COULD CARRY.** |
+| 886 | 148 / 6 Sun | ⚠ `886:7` SAYS **THAT WAS A FULL BANK** ⚠ WITH FOUR DAYS OF THE COMING BACK, ⚠ ⚠ **AND ⚠⚠⚠ `886:13` REPEATS THE WRONG WEEK-ORDINAL AND COVERS IT.** | ⚠ Did **not** stop being wrong on the step. |
+| 887 | 148 / 7 Mon | ⚠ **THE SEVENTH AND LAST DAY IS NAMED ON BOTH SIDES.** ⚠ A man of fifty-two is asked what would stop him. | ⚠ Did **not** describe what would stop him. ⚠ Did **not** answer what three of the nine are. |
+| 888 | 149 / 1 Tue | ⚠⚠ **COUNTING IT IS CHEAP AND ACTING ON IT IS NOT.** ⚠ A gap in some stitching is named with **no figure in it at all**. ⚠⚠ **AND ⚠ `888:9` NAMES THE MORNING BEFORE AND `887` IS WEEK 148 DAY 7, **SO IT IS RIGHT AND §0V18N.12.2 SAYS SO.*** | ⚠ Put **no figure** in the gap. ⚠ Did **not** make the boy a clerk. |
+| 889 | 149 / 2 Wed | The next off-morning is named with the day and the week and a weekday on it. | ⚠ Did **not** give a fifth thing. |
+| 890 | 149 / 3 Thu | ⚠ **THE TWENTY-EIGHTH OFF-MORNING.** ⚠ The twenty-ninth is named twice with the week on it. ⚠ A man of thirty-one is still on the step with a hundred and ninety days in his mouth. | ⚠ Gave **no figure of inches** and said so. ⚠ Nobody had answered the offer. |
+| 891 | 149 / 4 Fri | ⚠ A room with the door shut is offered by a woman of forty-four, ⚠ and a boy of thirteen says where he will count and where he will not. ⚠⚠ **AND ⚠ `891:11` PUT THE OFF-MORNING ON *THIS MORNING*, ⚠⚠⚠ ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠ ⚠⚠⚠⚠⚠⚠⚠⚠⚠ ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠ **REPAIRED IN PLACE AT §0V18N.12.1.** | ⚠ Did **not** say the figure was a figure of days. ⚠ Did **not** leave the room in anybody. |
+| 892 | 149 / 5 Sat | ⚠ **A BOY OF THIRTEEN REFUSES WHAT A STITCH IS WORTH** ⚠ IN HIS OWN MOUTH, ⚠ WITH THE REASON GIVEN. | ⚠ Did **not** give his own count. ⚠ Did **not** say how many. |
+| 893 | 149 / 6 Sun | ⚠⚠ **THE THREE WORDS ARE SAID OUT LOUD: ⚠ A RUN WITH A HOLE IN IT IS NOT IT, ⚠ AN INCOMPLETE ACCOUNT IS NOT IT, ⚠ AND A THING THAT HAS BEEN WORKED AT IS NOT A THING THAT HAS FAILED.** ⚠ The word *seal* is **stopped in a mouth.** | ⚠ Did **not** restore the right of refusal. ⚠ Did **not** re-discover any of the three. ⚠ Did **not** say the ordinary form was a seal. |
+| 894 | 149 / 7 Mon | ⚠ **A PIECE OF PAPER WITH NOTHING ON IT** ⚠ IS HANDED OVER, ⚠ AND **IT IS NOT A FORM**, ⚠ SAID FOUR TIMES. | ⚠ Did **not** let anybody thank her for it. ⚠ Did **not** put a rule at the head of it. |
+| 895 | 150 / 1 Tue | ⚠ **THE PIECE OF PAPER AND NOT A FORM**, ⚠⚠ **AND ⚠ `895:31` HAD PRINTED *NINE LEAVES TAKEN OUT OF IT* ⚠⚠ ⚠⚠⚠ **AND THAT FIGURE WAS CUT INSIDE ITS OWN LINE, ⚠⚠ ⚠⚠ ⚠ ⚠⚠ **AND IT WAS THE ONLY FIGURE OF ITS CLASS IN FIFTY CHAPTERS.** | ⚠⚠ **⚠⚶ **NOBODY IS TO BE THANKED FOR IT.** ⚠ Did **not** turn a figure of leaves into a figure of days. |
+| 896 | 150 / 2 Wed | Four of them go up a road with a bundle, and a chair stands in a passage the whole time. | ⚠ Did **not** take the figure four hundred miles. |
+| 897 | 150 / 3 Thu | ⚠⚠⚠ **THE CLIMAX. ⚠⚠⚠ SIXTY-THREE STITCHES, ⚠⚠⚠ COUNTED BY A BOY OF THIRTEEN, ⚠⚠⚠ IN A ROOM WITH THE DOOR SHUT, ⚠⚠⚠ IN ABOUT FIVE EARS, ⚠⚠⚠ SAID ONCE, ⚠⚠⚠ AT `897:45`.** ⚠⚠ ⚠ **A SECOND COUNT IS REFUSED IN A MOUTH.** ⚠⚠ **⚠⚶ ⚠⚶ THE FIGURE OF THE WOMAN OF FORTY-NINE'S OWN MORNINGS ENTERED IS **ABSENT AT THIS CHAPTER** ⚠ AND ⚠ **THAT IS AN ABSENT BEAT AND NOT A WRONG FIGURE.** | ⚠⚠ Did **not** say the figure twice. ⚠ Did **not** turn a figure of stitches into a figure of days or leaves. ⚠ Did **not** put it on the sheet. ⚠ **NOTHING WAS WRITTEN ON ANYTHING.** |
+| 898 | 150 / 4 Fri | ⚠ **THE TWENTY-NINTH OFF-MORNING.** ⚠ What three of the nine are is said out loud to be still open. ⚠ A woman's working is given again in a mouth. | ⚠ Gave **no figure of inches** and said so. ⚠ Did **not** answer the question. ⚠ Did **not** help anybody answer it. ⚠ Did **not** let the figure of miles be carried. |
+| 899 | 150 / 5 Sat | ⚠ **ONE LINE ON A SHEET IN A HAND THAT IS NOT HERS**, ⚠ about one thing, on one day, by one person. | ⚠⚠ Did **not** let a second thing be put on it. ⚠ Did **not** let anybody thank her for it. |
+| 900 | 150 / 6 Sun | ⚠⚠ **THE LAST MORNING OF VOLUME 18.** ⚠⚠ **AN INCOMPLETE ACCOUNT STAYS INCOMPLETE **AND** IT STAYS IN USE** ⚠⚠ ⚠ ⚠ **SAID IN A MOUTH, ⚠ OUT LOUD, ⚠ ON A SUNDAY MORNING, ⚠ IN ABOUT NINE EARS.** ⚠⚠ **⚠⚶ ⚠⚶ THE STANDING OFFER IS GIVEN ITS FIGURE OF ⚠ **TWO HUNDRED DAYS** ⚠⚶ ⚠ ⚠⚠ **AND ⚠⚶ ⚠ ⚠⚠ **IT IS **UNANSWERED** ⚠ ⚠⚠ ⚠ ⚠⚠ **AND ⚠ ⚠⚠ ⚠ ⚠⚠ **⚠⚶ ⚠⚶ **NOBODY WAS TO BE ANSWED.** | ⚠ Did **not** improve the resolution. ⚠ Did **not** settle her question. ⚠ Did **not** put a day on the arrangement's schedule. ⚠⚠ **⚠⚶ ⚠⚶ **DID NOT ANSWER THE OFFER, ⚠ AND ⚠⚶ ⚠ ⚠⚠ **⚠⚶ ⚠⚶ **DID NOT OFFER IT A WITHDRAWAL.** |
+
+---
+
+⚠ **AND ⚠⚠⚠ ⚠⚠ ⚠⚠ **THE FIGURES THAT ARE WRONG ON THE FIFTY CHAPTERS, ⚠⚠⚠ **AND §0V18N.12 CORRECTS THE COUNT FROM **THREE** TO ⚠⚠⚠ **ONE**, ⚠⚠⚠ ⚠⚠ ⚠⚠ **AND ⚠ ⚠ ⚠⚠ ⚠⚠ ⚠⚠ ⚠⚠ **THEY ARE ⚠⚶ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ ⚠⚠ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ **ONE NAMED DAY, ⚠⚶ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ **NOT ONE CHAPTER SUMMARISED WRONGLY** ⚠ ⚠⚠ ⚠ ⚠⚠ ⚠ ⚠⚠ ⚠⚶ ⚠⚶ ⚠⚶ **AND THE ONE THAT WAS WRONG **IS** REPAIRED, AT §0V18N.12.1, AND THE OTHER FOUR ARE **NOT** REPAIRED BECAUSE THEY ARE NOT WRONG ⚠⚶ ⚠⚶ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ ⚠⚠ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ **AND ⚠⚶ ⚠ ⚠⚠ ⚠ ⚠ ⚠⚶⚶ ⚠⚶⚶ ⚠ ⚠⚠ ⚠ ⚠⚠ ⚠⚶ ⚠⚶ ⚠⚶ **A SUMMARY THAT REPEATED THEM WOULD BE A FIFTH PLACE THEY HAD GOT INTO.** ⚠ ⚠⚠ ⚠ ⚠⚠ ⚠⚶ ⚠⚶ ⚠⚶ ⚠⚶ ⚠ **THE FULL WORKING IS AT `reviews/volume-18/batch-0008-close-0V18N.md` §0V18N.1 AND THE REVIEW THAT CORRECTS IT IS AT §0V18N.12.**
+
+---

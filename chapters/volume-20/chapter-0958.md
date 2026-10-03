@@ -1,4 +1,4 @@
-# Chapter 958: Sixteen Inches On The Top Step At About The Seventh Hour And That Was A Full Bank And Four Days Of The Coming Back And About Sixty Of Those Ninety Steps Under, And It Is The First Morning Of The Hundred And Fifty-Ninth Week, And A Man Described One Thing On That Landing In The Same Words He Has Used Every Morning And Would Not Change A Word Of It
+# Chapter 958: First Day Of The Hundred And Fifty-Ninth Week, And A Man Described One Thing On That Landing In The Same Words He Has Used Every Morning And Would Not Change A Word Of It, And A Man With A Broom Told Him To Stop And Then Let Him Go On Carrying It
 
 First day of the hundred and fifty-ninth week. His seven hundred and eighth morning. Five hundred and fifty-eight days after the settlement. The fever ninety-six weeks and three days old. Five hundred and twelve days since the division. Four hundred and fifty-eight days since a page was read out in a room with the door shut, in a town in another county, and four hundred and four days in this county of Kell.
 
@@ -84,7 +84,7 @@ Corvin Tace looked at him. “The four days are yours and they are water.”
 
 Nobody thanked him for that either.
 
-The water stood at sixteen inches on the top step and held there, and the man of forty-three made sure of it himself at about the tenth hour by going up and standing beside it and not in it, and about sixty of those ninety steps were under, 
+The water stood at sixteen inches on the top step and held there, and the man of forty-three made sure of it himself at about the tenth hour by going up and standing beside it and not in it, and about sixty of those ninety steps were under,
 
 And the water would be four days off that bank, and then there would be a morning with nothing at all on the stone.
 

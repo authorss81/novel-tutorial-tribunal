@@ -16,11 +16,11 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “That is a rule and it is the first one I have ever said out loud, and I want it known that it is a rule and not a virtue, because a virtue is a thing you are praised for and I am not going to be standing on this step being praised about a corner of it.” He picked the broom up again.
 
-“And the reason for it is not moral. It is that the only way anybody in this county would ever find out what that thing is holding is to pull it out. And that is an experiment, and an experiment has to be run by somebody with standing to run it, and there is nobody on this landing with standing to run it and there is not going to be one.
+“And the reason for it is not moral. It is that the only way anybody in this county would ever find out what that thing is holding is to pull it out. And that is an experiment, and an experiment has to be run by somebody with standing to run it, and there is nobody on this landing with standing to run it and there is not going to be one.”
 
 “If a man runs it because nobody stopped him then he has not found out anything. He has only found out that he was the one who did it.”
 
-Corvin Tace came down the steps and stopped on the fortieth one on his way, on his way past it and not on it, and carried on.
+Corvin Tace came down the steps and went by the fortieth one without stopping and carried on.
 
 “And I am not going to be asked to pull it. Nobody is going to ask me. And if anybody in this county asks me, they will be asking a man with a broom and nineteen years, and I will say no, and they will go and ask somebody else, and that somebody else will not have a broom and will have a lever, and then this landing will have done it out of plain slowness, without anybody meaning to.”
 
@@ -36,7 +36,7 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the
 
 “You wrote a day.”
 
-“I wrote a place.” She had the book shut and kept it shut. “On Thursday morning a man on this step asked me for six stones and I told him the day was the part he could not have. And this week I have done what I told him to do, because I have had nothing else to do since Wednesday and it turns out I am very good at it. I have written down a place. No day on it. No morning. No what was said and no who was standing there. One place, and it is a place a person works, and I am not going to say which one.”
+“I wrote a place.” She had the book shut and kept it shut. “Two mornings ago a man on this step asked me for six stones and I told him the day was the part he could not have. And this week I have done what I told him to do, because I have had nothing else to do since Wednesday and it turns out I am very good at it. I have written down a place. No day on it. No morning. No what was said and no who was standing there. One place, and it is a place a person works, and I am not going to say which one.”
 
 “Why not.”
 
@@ -44,15 +44,15 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the
 
 Nobody asked her which place. Nobody asked her to write another one.
 
-“You have not asked your question.”
+“You have not asked your question and I have not asked it either, and I would like that noticed.”
 
-“I have not, and I have stopped going to, which is a different thing and I am not going to soften it into the other.” She put the book inside her coat. “I had one question and it was going to be asked on a morning with nothing on the stone so that it could not be said to be about the stone, and there has not been one of those since the third morning of this week, and I have made my choice about it and I chose badly and I am not going to be comforted about it by anybody here.”
+“I have not, and I have stopped going to, which is a different thing and I am not going to soften it into the other.” She put the book inside her coat. “I had one question and it was going to be asked on a morning with nothing on the stone so that it could not be said to be about the stone, and there was one on the fourth morning of this week and I stood on it and said nothing, and I have made my choice about it since and I chose badly and I am not going to be comforted about it by anybody here.”
 
 The man who moves chairs came up the cart road and went past the wall and up to the step and stood at the back of it, where he can see the road down to the village, and did not go down it.
 
 Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, and stood at the back of that landing five mornings with his hands behind him and did not go to the door.
 
-“I have been up here every morning this week and I have not gone to that door once, and I am not going to this morning either.” He looked down the road. “And I am going to say one more thing and then I am going to be quiet all week. On Thursday morning a man with a broom said that nineteen years of saying nothing is a habit and not a rule, and I have been sitting on that. I move chairs. That is my rule and I have never said it out loud because a man who moves chairs has no business standing on a step giving rules.”
+“I have been up here every morning this week and I have not gone to that door once, and I am not going to this morning either.” He looked down the road. “And I am going to say one more thing and then I am going to be quiet all week. Earlier this morning a man with a broom said that nineteen years of saying nothing is a habit and not a rule, and I have been sitting on that. I move chairs. That is my rule and I have never said it out loud because a man who moves chairs has no business standing on a step giving rules.”
 
 Nobody stopped him.
 

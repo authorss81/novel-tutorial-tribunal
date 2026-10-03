@@ -52,7 +52,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 He stood where he could see both the road up past the green gate and the low side down along the drain.
 
-“Ninety-two wrong things in ninety-two mornings, and here is the ninety-second, and it is not a speech, it is one line of work.
+“Ninety-two wrong things in ninety-two mornings, and here is the ninety-second, and it is not a speech, it is one line of work.”
 
 “There are places. There is a step six hundred yards up that road and there is a stone half a mile down that drain and there are probably eleven more between them, and every one of them has somebody who works at it. If somebody wrote the places down then we would not have to keep finding them out. I am not asking for who put anything anywhere. I am asking for the stones. Give me the stones and I will carry them up here and put them on a wall and this landing will know where it is standing at.”
 

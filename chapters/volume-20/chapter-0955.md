@@ -42,9 +42,7 @@ Elgar Slee is sixty-one, cannot come down a bank, works at the front window of h
 
 “Tell it to the step.”
 
-
-
-“I have told it to about nine people on the way down here and I am going to tell it to this step and then I am going home, and I have not put anything on it and I have not taken anything off it, and it is not going into my house.” He did not take his hands off the wall.
+“I have told it to about nine people on the way down here and I am going to tell it to this step and then I am going home, and I have not touched it and I have not put anything on it and I have not taken anything off it, and it is not going into my house.” He did not take his hands off the wall.
 
 “I cannot come down a bank. I have said that out loud on this landing before and I have been told not to say it, so I am going to say it as part of this. I work at that window with my hands. And there is a thing on the sill I did not put there, and I am not going to ask the woman who lives in the next house whether she put it there, because I have not, I am not going to, and I would like it noticed that the woman who lives in the next house has not been asked anything by anybody about any of this.”
 
@@ -88,7 +86,7 @@ He turned round at the bottom of the steps and said the last of it up the landin
 
 Nobody thanked him for it. Nobody agreed with it. Nobody told him what a thing with no giver in it was worth.
 
-What no mouth on that landing said that morning, and what the landing had worked out by about the ninth hour without anybody putting it in a sentence, was that the sill was still outside the window and had not come in, and the handrail was still where it had been put and no hand had gone past it, and the trough was still on the trough and nobody had put a weight on it, and the tub was still on the stone and nobody had looked at it twice, and the step with the chip in the corner was still not rocking. 
+What no mouth on that landing said that morning, and what the landing had worked out by about the ninth hour without anybody putting it in a sentence, was that the sill was still outside the window and had not come in, and the handrail was still where it had been put and no hand had gone past it, and the trough was still on the trough and nobody had put a weight on it, and the tub was still on the stone and nobody had looked at it twice, and the step with the chip in the corner was still not rocking.
 
 The water came up the bank about four inches at a time.
 

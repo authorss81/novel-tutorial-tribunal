@@ -30,9 +30,9 @@ Nobody asked him to be one.
 
 “That is a figure of the landing.”
 
-“It is a figure of the landing and I am aware of that and I am not going to argue with you about it in front of about nine people on a Thursday.” He picked the broom up. “And I will tell you what it is not, and then I am finished. It is not how many things are on this landing. I have not counted that and neither is going to.
+“It is a figure of the landing and I am aware of that and I am not going to argue with you about it in front of about nine people on a Thursday.” He picked the broom up. “And I will tell you what it is not, and then I am finished. It is not how many things are on this landing. I have not counted that and neither is going to.”
 
-“There is a thing in the fortieth step and there is a chair about a yard from where I work and there is a thing on the top of that chair that nobody put there and nobody has picked up. And if you want to know how many things are on this landing then you are asking the wrong man. I have been asking myself all week and I have not come up with a figure, and I am not going to, and I would rather it stayed not come up with.”
+“There is a thing in the fortieth step and there is a chair about a yard from where I work, and nobody put that down either. And if you want to know how many things are on this landing then you are asking the wrong man. I have been asking myself all week and I have not come up with a figure, and I am not going to, and I would rather it stayed not come up with.”
 
 Nobody on that landing tried to work it out out loud, and about nine of them tried to work it out and got nothing.
 
@@ -42,7 +42,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 “Four hundred and six days in this county, and the cut across that palm is two hundred and seventy-five days old, and the standing offer asked at the seven-hundred-and-tenth is two hundred and sixty days old, which is nine hundred and sixty less seven hundred, and it is unanswered, and I have not asked it, and nobody has asked it, and nobody has offered me a way out of it.”
 
-He stood at the top of the steps with his hands behind his back, which is what he has done every morning of this business, 
+He stood at the top of the steps with his hands behind his back, which is what he has done every morning of this business,
 
 And he gave the last figure standing up.
 
@@ -50,7 +50,7 @@ And he gave the last figure standing up.
 
 The landing was very quiet and about nine people on it took a breath in a way that a landing does not usually take a breath.
 
-“I have got it out. I have had it out since Monday and I have been refusing it, and this morning I have decided to have it out, and here it is, and it is a whole figure and I have said it, and I am now going to stand here and find out what happens.” He looked round at the step. “And nothing is going to happen. That is what has happened. Nobody has told me it is a lot. Nobody has told me it is nothing. Nobody has told me it is a hundred mornings of the county’s business and nobody has told me it is a hundred mornings of mine.
+“I have got it out. I have had it out since Monday and I have been refusing it, and this morning I have decided to have it out, and here it is, and it is a whole figure and I have said it, and I am now going to stand here and find out what happens.” He looked round at the step. “And nothing is going to happen. That is what has happened. Nobody has told me it is a lot. Nobody has told me it is nothing. Nobody has told me it is a hundred mornings of the county’s business and nobody has told me it is a hundred mornings of mine.”
 
 “I have got a whole figure and this landing has decided that a whole figure does not get an answer. I would like it noted that I did not get an answer, and that I am not going to be given one, and that I am not going to be relieved about it either.”
 
@@ -76,22 +76,14 @@ Nobody made one for him.
 
 Then the woman who reads the ninth run came up and entered the morning and did not open the book in front of anybody, which is a thing she has never done before, and the boy was not there, and the man who cannot see well was not there, and the man who moves chairs stood at the back of the landing where he could see the road down to the village and did not go down it.
 
-Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, and gave her question up on the second morning of this week and has not taken it back.
+Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, and gave her question up on the sixth morning of this week and has not taken it back.
 
 “That is the hundredth morning in front of anybody, and I entered it, and I did not open the book on that wall and I am not going to explain why, and nobody is going to ask me, and if you are all standing there ready not to ask me then thank you, and that is me being helped and I am taking it.”
 
 Nobody asked her.
 
-Corvin Tace swept the top step from the high end to the low end and went round the chair and went round the fortieth step, and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing on the seat of it, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.
+Corvin Tace swept the top step from the high end to the low end and went round the chair and went round the fortieth step, and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.
 
-That week there was a thing on a doorstep up the cart road, and a thing on a stone by a tub down the low side, and a thing on a handrail up the high side, and a thing on a trough past the gravel, and a thing on a window sill where a man who cannot come down a bank works.
+Nobody on that landing was thanked for anything and nobody was relieved and nobody was told they had been right about anything. That week there was a thing on a doorstep up the cart road, and a thing on a stone by a tub down the low side, and a thing on a handrail up the high side, and a thing on a trough past the gravel, and a thing on a window sill where a man who cannot come down a bank works, and a chair on that landing where a man has swept for nineteen years, and a thing in the seam of the fortieth step that has stopped it rocking.
 
-There was a chair on a landing where a man has swept for nineteen years, and a thing in the seam of the fortieth step that has stopped it rocking.
-
-Not one of them had been picked up. Not one of them had a giver in it. And nobody had been thanked.
-
-The man of fifty-four asked again on Saturday.
-
-The man of thirty-one gave his figure out loud and would not be helped with it, and went down the bank on foot with his hands behind his back.
-
-The water was two days off that bank, and there was a morning coming when there would be nothing at all on the stone. And no mouth on that landing said who had put the last one down, and did not say it either.
+Not one of them was pulled, or turned over, or weighed in the hand, or read aloud, or carried inside, or put back where it was, or used, and not one of them had a giver in it. The man of thirty-one gave his figure out loud and would not be helped with it, and went down the bank on foot with his hands behind his back. Sixteen inches and two days of the coming back were on that landing that morning and no mouth on it said who had put the last one down, and did not say it either.

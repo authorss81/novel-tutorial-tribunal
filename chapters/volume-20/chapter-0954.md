@@ -64,7 +64,7 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the
 
 “That is the ninety-seventh morning in front of anybody, and I entered it, and there was nothing in it, and I entered that too.”
 
-“You still have not asked it.”
+“You still have not asked it, and I have stopped noticing that you have not.”
 
 “I have not, and I am going to be exact this morning because on a morning with nothing on the stone everybody thinks they have room.” She set the book on the wall and did not open it. “A morning with no figure on it is not a clean morning. It is the worst morning there is for asking somebody anything, because anybody can ask on a morning like this and then everybody can say afterwards that the asking was all the morning deserved. I worked that out about six days ago and I have been standing on about nine empty mornings ever since, and not one of them was empty.”
 
@@ -82,7 +82,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred d
 
 Nobody said anything about four hundred.
 
-“It is a whole figure,” he said, before anybody could be polite about it. “I have worked out that it is a whole figure and that is why about nine of you have gone quiet, and I am saying it now so that nobody on this landing has to spend the morning being careful.
+“It is a whole figure,” he said, before anybody could be polite about it. “I have worked out that it is a whole figure and that is why about nine of you have gone quiet, and I am saying it now so that nobody on this landing has to spend the morning being careful.”
 
 “It is a figure of days. It is not one of mine, it does not mean anything, it is not a morning, it is not a year, and I am not going to stand here and be helped to find out what it is. If anybody on this step starts it I will go down this bank before they get to the end of the sentence and I will not come back up it until it is a different morning.”
 
