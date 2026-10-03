@@ -90,7 +90,7 @@ Garrin Tolley is thirty-eight, has a child of nine, came back up a road he said 
 
 Nobody on that landing named a day.
 
-“And I am not going to name a day for the man of thirty-one either, and I am not going to tell him not to go and I am not going to tell him to stay, and I would like both of those noticed in the same breath because I know what it looks like from outside and it looks like a threat and it is not one. It is the only thing I have got that is mine and I am giving it away for nothing, which is a habit I have and which I am not going to give up today.”
+“And I am not going to name a day for the man of thirty-one either. I am not going to tell him not to go and I am not going to tell him to stay, and I would like both of those noticed in the same breath because I know what it looks like from outside and it looks like a threat and it is not one. It is the only thing I have got that is mine and I am giving it away for nothing, which is a habit I have and which I am not going to give up today.”
 
 Nobody thanked him for giving it away.
 

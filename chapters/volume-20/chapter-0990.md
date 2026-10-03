@@ -28,7 +28,7 @@ No one on that landing worked it out for him.
 
 “And it has come out whole six times and it has gone up by one each time, and it was ninety-six weeks the first morning I stood up here and said one out loud.” He took his hands off the wall. “And I am going to say the thing I have noticed six times now and I have never said. Nobody on this step has ever asked me what one of these is for.”
 
-“Not once in six of them, and one of you came up here on the fourth of these and had it in your mouth and shut it, and I watched you shut it.”
+“Not once in six of them, and one of you came up here on the fifth of these and had it in your mouth and shut it, and I watched you shut it.”
 
 Nobody commented on the mouth that had shut.
 
@@ -38,7 +38,7 @@ Nobody commented on the mouth that had shut.
 
 Nobody answered him on a Saturday with a full bank behind him, nobody told Barnaby Crove he was owed an answer, and nobody thanked him, and nobody explained one hundred and one weeks to him, and the morning went on.
 
-Then the man of thirty-one came up at about the ninth hour, and gave his figures, and gave the figure of the offer with the subtraction out loud for the hundred and thirty-first morning of this county, and it was unanswered, and he asked for nothing.
+Then the man of thirty-one came up at about the ninth hour, and gave his figures, and gave the figure of the offer with the subtraction out loud, and it was unanswered, and he asked for nothing.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and thirty-six days. The cut across that palm is three hundred and five days old.
 
@@ -92,7 +92,7 @@ Nobody on that landing had said she was owed it and nobody said they wished she 
 
 “He said a thing he has been saving nineteen years and he said it standing on a road I did not ask him to come up, and that is his whole right and nobody has to give me a piece of it and nobody is going to.” She put her hands behind her back. “I have been at this wall twice this week and I have not been up that road once. I did not stand on that wall this morning so that anything would get put down.”
 
-“I stood on it so that when somebody later asks who put a thing on that landing, there is one person in this county who was in the room in her own mouth and says she put nothing and asked for nothing.”
+“I stood on it so that when somebody later asks who put a thing on that landing, there is somebody in this county who can say out loud, in her own mouth, that she put nothing down and asked for nothing.”
 
 Nobody asked her whether she had put anything down.
 

@@ -96,7 +96,7 @@ Then the man who moves chairs came up the cart road and stood where he could see
 
 Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, has been told not to come up that bank and has come anyway, and said on the third day of the hundred and sixty-third week that the seven things are a good rule and that a good rule is worth exactly as much as the care somebody takes when they are the one who might break it.
 
-“Simon, I am going to say one thing and you are not going to like it.” He did not come past the bottom step. “You have had that rule read at you six times this week by six people who work here and can see, and it did nothing to your hand. It was not the rule that stopped your hand.”
+“Simon, I am going to say one thing and you are not going to like it.” He did not come past the bottom step. “You have had that rule read at you all week by everybody up here who can see, and it did nothing to your hand. It was not the rule that stopped your hand.”
 
 “It was that the man sweeping this stone has been walking that wall line in his head for nineteen years and knew exactly where your hand was before you got there.”
 
@@ -121,7 +121,5 @@ Wenna Pyle is thirty-eight, who saws lengths and sets studs at a bench in an ope
 “By Saturday it will have gone soft at the corner and hard in the middle, and at that point it is firewood and not a handle, and on Saturday morning it will be firewood in the same way the iron in the fortieth step is iron. That is the whole of what I am going to say about it.”
 
 Nobody thanked her for saying it and nobody asked her to say it again.
-
-Eight inches and about eighty of those ninety steps under and six days of the coming back, and the water standing on the landing rather than in the bank. 
 
 Eight inches and about eighty of those ninety steps under and six days of the coming back, and the water standing on the landing rather than in the bank. The ash on the dry strip had not been turned over, had not been weighed in a hand, had not been used, and a man who cannot see well had set his hand on it and taken it off without anybody helping him, and nobody up there treated it as a thing worth saying out loud, and nobody was relieved.

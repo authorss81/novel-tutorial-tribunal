@@ -14,7 +14,7 @@ He stood with the broom across both hands and did not put it down.
 
 He looked at the top step.
 
-“Four days is a figure of the water and it is not a figure of this landing and it is not a figure of this morning and it has nothing to do with a Friday, whatever a Friday turns out to be like, and there is not going to be one person on these ninety steps who carries four days off that stone and has a conversation on it, and if one does I will put the broom down.”
+“Four days is a figure of the water and it is not a figure of this landing and it is not a figure of this morning and it has nothing to do with a Friday, whatever a Friday turns out to be like, and nobody is going to carry four days off that stone and have a conversation on it, and if anybody does I will put the broom down.”
 
 Nobody carried it off the stone.
 
@@ -48,7 +48,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 Nobody looked at him and nobody looked away.
 
-“I said a sentence yesterday at the eighth hour and three people heard it and one of them said the other half of it back at me before I had got to the top of the steps. And I have thought about that all night at the bottom of the lane and I have worked out that a refusal of a thing three people happen to be standing near is not a refusal. It is a remark. So I am going to say it again, and I am going to say it in front of this landing, and I am going to say all of it this time.”
+“I said a sentence yesterday at the eighth hour and it was heard, and the other half of it was said back at me before I had got to the top of the steps. And I have thought about that all night at the bottom of the lane and I have worked out that a refusal of a thing anybody happens to be standing near is not a refusal. It is a remark. So I am going to say it again, and I am going to say it in front of this landing, and I am going to say all of it this time.”
 
 He turned round so that he was looking down the steps and not along them.
 

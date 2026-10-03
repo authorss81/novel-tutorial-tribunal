@@ -1,4 +1,4 @@
-# Chapter 987: The Water Came Back On That Bank At Four Inches And About Ninety Of Those Ninety Steps Were Under, And There Was Nothing On That Landing To Sweep For Four Days, And The Thing He Had Put Down Went Under The Water Where Nobody Can Reach It, And He Spent The Whole Of His Mistake Out Loud In One Mouth And It Resolved Nothing
+# Chapter 987: The Water Came Back On That Bank At Four Inches And About Ninety Of Those Ninety Steps Were Under, And There Was Nothing On That Landing To Sweep For Seven Days, And The Thing He Had Put Down Was On The Dry Strip Where The Water Had Not Been And Where Nobody Came For It, And He Spent The Whole Of His Mistake Out Loud In One Mouth And It Resolved Nothing
 
 Second day of the hundred and sixty-third week. His seven hundred and thirty-seventh morning. Five hundred and eighty-seven days after the settlement. The fever one hundred weeks and four days old. Five hundred and forty-one days since the division. Four hundred and eighty-seven days since a page was read out in a room with the door shut, in a town in another county, and four hundred and thirty-three days in this county of Kell.
 
@@ -20,7 +20,7 @@ He stood with his hands empty.
 
 Nobody on that landing said anything about it, and nobody said he ought to go home, and nobody told him he was needed anywhere.
 
-Then the man of fifty-four came up at about the sixth hour, which he could not have done at the seventh, and asked in the same words at the same hour and was refused in the same way and was not thanked, and said out loud that a man of fifty-four standing on the top step in a foot and a half of a stranger’s water was the most honest he had ever been.
+Then the man of fifty-four came up at about the sixth hour, which he could not have done at the seventh, and asked in the same words at the same hour and was refused in the same way and was not thanked, and said out loud that a man of fifty-four standing on the top step in four inches of a stranger’s water was the most honest he had ever been.
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He carried two hundred and sixty-sixth mornings of asking for a day against the ninth line, which is nine hundred and eighty-seven less seven hundred and twenty-two, and then one.
 
@@ -28,7 +28,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Nobody asked you for it, and you are standing in my water.”
 
-“I am standing in your water,” said Barnaby Crove, “and I have been coming up this bank two hundred and sixty-six mornings and I have never once been able to say that I have got nothing standing between me and this county, and this morning there is a foot and a half of a stranger’s water between me and everything I have come up here for, and I am not going to pretend I do not like it.”
+“I am standing in your water,” said Barnaby Crove, “and I have been coming up this bank two hundred and sixty-six mornings and I have never once been able to say that I have got nothing standing between me and this county, and this morning there is four inches of a stranger’s water between me and everything I have come up here for, and I am not going to pretend I do not like it.”
 
 Nobody told him he ought to.
 

@@ -108,6 +108,4 @@ Then the boy said the rule out loud, in his own words, in the shape he had been 
 
 Nobody told him that was right and nobody told him that it was wrong.
 
-Sixteen inches and it holds, about sixty under, two days of the coming back. A question had been refused with the working given. The man who put the thing down had answered it out loud to a landing and not to a boy, and nobody had helped him with one word of it. 
-
-Sixteen inches and it holds, about sixty under, two days of the coming back. A question had been refused with the working given. The man who put the thing down had answered it out loud to a landing and not to a boy, and nobody had helped him with one word of it. Nothing on that step had been handled, weighed, read out, carried inside or put back, and a giver was in the piece of ash, and not one person up there had named that as a thing that needed naming.
+Sixteen inches and it holds, about sixty under, two days of the coming back. A question had been refused with the working given. The man who put the thing down had answered it out loud to a landing and not to a boy, and nobody had helped him with one word of it. Nothing on that step had been handled, weighed, read out, carried inside or put back, and a giver was in the piece of ash, and nobody up there had named that as a thing that needed naming.

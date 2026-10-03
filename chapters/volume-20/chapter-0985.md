@@ -106,6 +106,6 @@ Then the man of thirty-one said the rest of what was left in him, and asked for 
 
 Nobody took that off him either and nobody put anything in its place.
 
-Ninety were out and walkable by the last hour and he swept every one of them, and went round the fortieth one, and went round the chair, and did not sit on the chair and did not touch the iron in the seam and did not touch the ash on the wall. A whole figure of three hundred days had been said out loud on the last morning of the hundred and sixty-second week and nobody had made anything of it and nobody had put it beside anything. 
+The bank was still full over the top step at the last hour and he swept what the water had left him, and went round the fortieth one, and went round the chair, and did not sit on the chair and did not touch the iron in the seam and did not touch the ash on the wall. A whole figure of three hundred days had been said out loud on the last morning of the hundred and sixty-second week and nobody had made anything of it and nobody had put it beside anything. 
 
 The week turned at midnight and nothing about that turning made any difference to the thing on the flat of the top step, and the giver was still in it, and nobody had been thanked for anything by anybody on that landing.

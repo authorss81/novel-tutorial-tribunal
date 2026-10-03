@@ -104,6 +104,4 @@ Nobody told him the want was a good one and nobody told him it was a bad one.
 
 Nobody asked him how near he came to it.
 
-The stone was bare and ninety steps were out and walkable and a man swept every one of them, and went round the fortieth one, and went round the chair, and did not sit on the chair and did not touch the iron in the seam and did not touch the ash on the wall. 
-
-The stone was bare and ninety steps were out and walkable and a man swept every one of them, and went round the fortieth one, and went round the chair, and did not sit on the chair and did not touch the iron in the seam and did not touch the ash on the wall. Three absences had been named out loud in the same shape for the thirtieth time and cannot be recalled, and the thing he had put down came through a morning with nothing on that stone at all and came out the other side of it with a giver still in it, and not one person on that landing thanked anybody for anything.
+The stone was bare and ninety steps were out and walkable and a man swept every one of them, and went round the fortieth one, and went round the chair, and did not sit on the chair and did not touch the iron in the seam and did not touch the ash on the wall. Three absences had been named out loud in the same shape for the thirtieth time and cannot be recalled, and the thing he had put down came through a morning with nothing on that stone at all and came out the other side of it with a giver still in it, and nobody on that landing thanked anybody for anything.
