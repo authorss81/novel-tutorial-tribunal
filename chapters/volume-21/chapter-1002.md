@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “I have no figure of inches for you this morning. I have no figure of steps under. I have no figure of days of the coming back. Three things I do not have, on the third day of the hundred and sixty-fifth week, and it is a Thursday, and I am giving all three of them out loud because a morning with nothing on it looks from the top of a bank like a morning where nothing happened, and something happened. The water came off this bank in the night. That is the whole of what I have got and I am not going to dress it up into a figure I have not got.”
 
-Nobody stopped him. Nobody asked him which morning it was, and no figure of an ordinal came out of anybody's mouth on that landing.
+Nobody stopped him. Nobody asked him which morning it was, and no figure of an ordinal came out of anybody’s mouth on that landing.
 
 The landing stood open from the wall to the lip of the water, and the grit that had been under for two days was lying on the stone in grey lines where the water had left it, and the chair was standing where it had been put since a thing nobody had claimed was put on a strip above it, and the dry strip along the wall had two pieces of wood on it and neither of them had moved while the water was off the bank.
 

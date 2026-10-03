@@ -70,9 +70,9 @@ Nobody thanked her.
 
 Then the man of thirty-one came up at about the ninth hour with sixteen inches above his boots and gave his figures and gave the figure of the offer with the subtraction out loud, and did not ask for anything, and stood at the top of the steps and looked down the cart road at the wall without saying one word about what was at it.
 
-Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-three days. The cut across that palm is three hundred and twenty-one days old.
+Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-three days. The cut across that palm is three hundred and twenty-two days old.
 
-“Four hundred and fifty-three days in this county, and the cut across that palm is three hundred and twenty-one days old, and the standing offer asked at the seven-hundred-and-fifty-seventh is three hundred and seven days old, which is one thousand and seven less seven hundred. It is unanswered, and I have not asked it, and nobody has offered me a way out of it and I did not ask for one.”
+“Four hundred and fifty-three days in this county, and the cut across that palm is three hundred and twenty-two days old, and the standing offer asked at the seven-hundred-and-fifty-seventh is three hundred and seven days old, which is one thousand and seven less seven hundred. It is unanswered, and I have not asked it, and nobody has offered me a way out of it and I did not ask for one.”
 
 He looked down the cart road for a while and then stopped looking at it.
 

@@ -2,7 +2,7 @@
 
 The broom went along the stone and stopped short, and then went on again, and the stopping was the whole of his morning.
 
-The landing was forty feet across and there was a strip of it at the top end, dry, where the wall had taken the weather for three hundred years and the stone under it had gone the colour of a duck's egg. Two lengths of wood lay on that strip. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end, and two shallow notches cut in the flat of it, and one of the two run out of the side because the saw went off at the corner.
+The landing was forty feet across and there was a strip of it at the top end, dry, where the wall had taken the weather for three hundred years and the stone under it had gone the colour of a duck’s egg. Two lengths of wood lay on that strip. The first was a forearm long and had been split down the middle the way wood splits when it is meant to, with the thick end left as it came apart. The second was the same and had a saw mark on the square end, and two shallow notches cut in the flat of it, and one of the two run out of the side because the saw went off at the corner.
 
 Corvin Tace swept up to the strip and stopped short of it and went along the front of the strip and came off the end of it and went round the back of it and came up to where he had started from, and the grit went with him and the wood stayed where it was. He did the same thing the whole length of the landing. He did not go across the strip and he did not put the broom near either piece of wood, and when the wind came off the water and moved the grit he waited for the wind to finish rather than shorten the distance.
 
@@ -30,7 +30,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Two hundred and eightieth. One thousand and one less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
 
-“Nobody asked you for it, and it has not stopped. I want that said on the stone because somebody is going to think this week that a thing started. It did not start. It has not stopped. There is a man on this bank at the sixth hour on this Wednesday doing what he did at the sixth hour on the last Wednesday of the last week and he is going to do it at the sixth hour on the first morning of the next week, and that is not an event, and I would like it entered nowhere.”
+“Nobody asked you for it, and it has not stopped. I want that said on the stone because somebody is going to think this week that a thing started. It did not start. It has not stopped. There is a man on this bank at the sixth hour on the second morning of the hundred and sixty-fifth week doing what he did at the sixth hour on the second morning of the hundred and sixty-fourth week, and he is going to do it at the sixth hour on the first morning of the hundred and sixty-sixth week, and that is not an event, and I would like it entered nowhere.”
 
 Nobody entered it anywhere.
 

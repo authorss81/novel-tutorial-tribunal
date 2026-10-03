@@ -46,9 +46,9 @@ Nobody thanked him.
 
 Then the man of thirty-one came up at about the ninth hour with sixteen inches above his boots and gave his figures, and gave the figure of the standing offer with the subtraction out loud, and came all the way to the top of those steps, and turned his back on the dry strip and faced the wall, and used a shape out loud in front of it.
 
-Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-two days. The cut across that palm is three hundred and twenty days old.
+Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-two days. The cut across that palm is three hundred and twenty-one days old.
 
-“Four hundred and fifty-two days in this county, and the cut across that palm is three hundred and twenty days old, and the standing offer asked at the seven-hundred-and-fifty-sixth is three hundred and six days old, which is one thousand and six less seven hundred. It is unanswered. I have not asked it. I am not going to be relieved about it and I am not going to be unrelieved about it and I am not going to ask anybody whether I ought to be.”
+“Four hundred and fifty-two days in this county, and the cut across that palm is three hundred and twenty-one days old, and the standing offer asked at the seven-hundred-and-fifty-sixth is three hundred and six days old, which is one thousand and six less seven hundred. It is unanswered. I have not asked it. I am not going to be relieved about it and I am not going to be unrelieved about it and I am not going to ask anybody whether I ought to be.”
 
 He put his face to the cold stone and stayed there long enough that his breath came back off it.
 

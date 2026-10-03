@@ -36,6 +36,10 @@ Nobody said anything about the carefulness.
 
 Nobody told her she was the one who had started it. Nobody said she was not the one who had started it. Nobody asked her.
 
+“And I am going to use it once before I go up, because I have worked out where it came from and I am not going to say, and a thing a person carries up a hill for nothing is a thing they pay for on the way down.” She did not look at the strip. “A name said out loud over a thing is not the thing and it is not the man it names either, and that is the whole of it, and I have read that in other people’s words for twenty-three years without once standing on a stone and saying it. I am not saying it because it came to me this morning. I am saying it because it does not cost the person who says it anything, and I have spent the morning watching what it costs.”
+
+Nobody asked her where she got it, and nobody gave that sentence a name, and she stood at the foot of those steps with the book shut against her knee until somebody else began.
+
 “If anybody asks me where it came from I am going to say I do not know, and I am going to say it in the flat voice I use on a page, and it will be the only time in twenty-three years that I have said a sentence to a person that I have not read.” She turned the book over against her knee. “And I am not going to be thanked for not saying it. A person who knows where a thing came from and does not say it has not done anything and there is nothing to thank.”
 
 Nobody thanked her.
@@ -46,9 +50,9 @@ Nobody said how many weeks anything had been going round.
 
 Then the man of thirty-one came up at about the ninth hour with sixteen inches above his boots and gave his figures and gave the figure of the offer with the subtraction out loud and asked for nothing, and then said a thing about a lane that nobody on that landing had asked him to say anything about.
 
-Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-five days. The cut across that palm is three hundred and twenty-three days old.
+Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-five days. The cut across that palm is three hundred and twenty-four days old.
 
-“Four hundred and fifty-five days in this county, and the cut across that palm is three hundred and twenty-three days old, and the standing offer asked at the seven-hundred-and-fifty-ninth is three hundred and nine days old, which is one thousand and nine less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to ask for one before the water is off those steps again.”
+“Four hundred and fifty-five days in this county, and the cut across that palm is three hundred and twenty-four days old, and the standing offer asked at the seven-hundred-and-fifty-ninth is three hundred and nine days old, which is one thousand and nine less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to ask for one before the water is off those steps again.”
 
 He came up the steps that were out and stood on the top one.
 

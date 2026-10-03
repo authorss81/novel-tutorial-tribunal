@@ -48,9 +48,9 @@ Nobody thanked her and nobody told her she had got anything right and nobody tol
 
 Then the man of thirty-one came up at about the ninth hour, and had been standing at the bottom of the steps for the last part of it, and came up, and did not say what he had seen, and everybody on that landing waited for him to.
 
-Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-four days. The cut across that palm is three hundred and twenty-two days old.
+Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-four days. The cut across that palm is three hundred and twenty-three days old.
 
-“Four hundred and fifty-four days in this county, and the cut across that palm is three hundred and twenty-two days old, and the standing offer asked at the seven-hundred-and-fifty-eighth is three hundred and eight days old, which is one thousand and eight less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to.”
+“Four hundred and fifty-four days in this county, and the cut across that palm is three hundred and twenty-three days old, and the standing offer asked at the seven-hundred-and-fifty-eighth is three hundred and eight days old, which is one thousand and eight less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to.”
 
 He stood on the top step on the other side of her from the strip.
 

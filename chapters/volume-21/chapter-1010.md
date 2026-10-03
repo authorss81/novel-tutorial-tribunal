@@ -1,6 +1,6 @@
 # Chapter 1010: The Last Morning Of This Band And A Man With A Broom Said The Three Things He Had Said Before On An Earlier Morning In Entirely Different Words And Nobody Asked Him To Say Them Again, And A Man Of Thirty-One Gave An Offer At Three Hundred And Ten Days Out Loud With The Subtraction And Nobody Answered It And Nobody Was Relieved, And Two Pieces Of Wood Were Still On A Dry Strip At The Top Of Those Steps
 
-The water came off that bank in the night and the man with the broom was the first one up it, which he has not been for a month, because there was nothing to sweep on the dry stone and there was nothing to sweep on the wet stone either and he came up anyway.
+The water came off that bank in the night and the man with the broom was the first one up it, which he had not been since the bank filled, because there was nothing to sweep on the dry stone and there was nothing to sweep on the wet stone either and he came up anyway.
 
 Fourth day of the hundred and sixty-sixth week. His seven hundred and sixtieth morning. Six hundred and ten days after the settlement. The fever one hundred and three weeks and six days old. Five hundred and sixty-four days since the division. Five hundred and ten days since a page was read out in a room with the door shut, in a town in another county, and four hundred and fifty-six days in this county of Kell.
 
@@ -48,9 +48,9 @@ Nobody thanked him and nobody told him he had been right.
 
 Then the man of thirty-one came up at about the ninth hour and gave his figures and gave the figure of the offer with the subtraction out loud and asked for nothing, and there was a want in him that he did not give, and everybody on that landing could see there was one.
 
-Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-six days. The cut across that palm is three hundred and twenty-four days old.
+Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and fifty-six days. The cut across that palm is three hundred and twenty-five days old.
 
-“Four hundred and fifty-six days in this county, and the cut across that palm is three hundred and twenty-four days old, and the standing offer asked at the seven-hundred-and-sixtieth is three hundred and ten days old, which is one thousand and ten less seven hundred.” He said it without stopping on any part of it. “It is unanswered. I have not asked it on any morning this week. Nobody has offered me a way out of it and I did not ask for one. I am not relieved and I am not unrelieved and I am not going to be either of those things quietly.”
+“Four hundred and fifty-six days in this county, and the cut across that palm is three hundred and twenty-five days old, and the standing offer asked at the seven-hundred-and-sixtieth is three hundred and ten days old, which is one thousand and ten less seven hundred.” He said it without stopping on any part of it. “It is unanswered. I have not asked it on any morning this week. Nobody has offered me a way out of it and I did not ask for one. I am not relieved and I am not unrelieved and I am not going to be either of those things quietly.”
 
 Nobody said he was relieved and nobody said he was unrelieved.
 
