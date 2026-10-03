@@ -1,4 +1,4 @@
-# Chapter 963: Four Inches On The Top Step And About Ninety Of Those Ninety Steps Under And Seven Days Of The Coming Back, And A Man Who Moves Chairs For A Living Asked What A Thing Put Down And Not Used Is Doing To A Landing
+# Chapter 963: A Chair About A Yard From Where He Works And The Fortieth Step With A Chip In The Corner, And A Man Who Moves Chairs For A Living Asked What A Thing Put Down And Not Used Is Doing To A Landing
 
 Sixth day of the hundred and fifty-ninth week. His seven hundred and thirteenth morning. Five hundred and sixty-three days after the settlement. The fever ninety-seven weeks and one day old. Five hundred and seventeen days since the division. Four hundred and sixty-three days since a page was read out in a room with the door shut, in a town in another county, and four hundred and nine days in this county of Kell.
 
@@ -52,7 +52,7 @@ Nobody told him. Nobody told him the other thing either.
 
 Then the woman who reads the ninth run came up the road, entered the morning, and told that landing that she had not given a figure of her own out loud since Thursday and that she was not going to start again this week, and gave no reason that anybody could use.
 
-Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, has one question she set aside to ask and gave up on the sixth morning of that week and has not taken back, and has not spoken a figure of her own out loud since the morning she gave it up.
+Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, has one question she set aside to ask and gave up on the sixth morning of the hundred and fifty-eighth week and has not taken back, and has not spoken a figure of her own out loud since the morning she gave it up.
 
 “I entered this morning and there is a thing in it and I am not going to say what it is, and that is not new and it is not a refusal either. There will be no figure from me this week.” She had the book shut against her knee and kept it shut.
 
@@ -90,7 +90,7 @@ He had the whole of it ready and he said it in one breath, the way he says the t
 
 “And a thing left beside a person is not a version of what that person has wanted, and it is not going to turn into one this week whatever either of us does with it.”
 
-Nobody on that landing said it was a good argument.
+Nobody on that landing said it was a good argument, and the landing did not say it was a bad one either.
 
 The man of thirty-one stood at the top of the steps for a while after that with his hands behind his back, and then he went down the bank at about the ninth hour without saying another word about the chair, and did not put his weight on the fortieth step on the way down, and nobody thanked him for the question and nobody told him what it was worth.
 

@@ -1,4 +1,4 @@
-# Chapter 969: Sixteen Inches And It Holds And One Day Of The Coming Back And About Sixty Of Those Ninety Steps Under, And A Man Who Cannot Read Gave A Whole Figure Of Weeks Out Loud For The Third Time And Was Asked What It Was For And Said He Did Not Know
+# Chapter 969: The Third Time A Man Who Cannot Read Has Said A Whole Figure Of Weeks Out Loud On That Landing, And He Was Asked What It Was For And Said He Did Not Know
 
 Fifth day of the hundred and sixtieth week. His seven hundred and nineteenth morning. Five hundred and sixty-nine days after the settlement. The fever ninety-eight weeks old. Five hundred and twenty-three days since the division. Four hundred and sixty-nine days since a page was read out in a room with the door shut, in a town in another county, and four hundred and fifteen days in this county of Kell.
 
@@ -22,7 +22,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 The landing went the other quiet, the one it goes when a man who cannot read has said a whole figure and is waiting to see whether anybody picks it up.
 
-“Ninety-eight weeks. On this Saturday. And that is the third time I have said a whole one of those out loud on this step and the second time this week, and I said the first one myself before any of you worked it out, and I am saying this one myself too, and if I have got it wrong then I have got it wrong out loud and not in my head where a man can work at it.”
+“Ninety-eight weeks. On this Saturday. And that is the third time I have said a whole one of those out loud on this step and the first time this week, and I said the first one myself before any of you worked it out, and I am saying this one myself too, and if I have got it wrong then I have got it wrong out loud and not in my head where a man can work at it.”
 
 Nobody told him he had it right and nobody told him he had it wrong.
 
@@ -48,7 +48,7 @@ Nobody took him up on it.
 
 “I am not proud of it. I have said on this step before that nobody is thanked for asking on this landing and I am not going to start being thanked for carrying a figure.” He set the barrow against the bottom step.
 
-“And I am not going to be told it means anything. Not by a man with a broom and not by a woman with a book and not by a boy and not by a man who is nobody’s. I have been on this landing nineteen years and I have never once had it explained to me and I am not going to start explaining it to nine people this morning because they have decided a whole number is a door.”
+“And I am not going to be told it means anything. Not by a man with a broom and not by a woman with a book and not by a boy and not by a man who is nobody’s. I have been on this landing nineteen years and I have never once had it explained to me and I am not going to start explaining it to whoever is standing here this morning because they have decided a whole number is a door.”
 
 Nobody said what a whole number was a door to.
 

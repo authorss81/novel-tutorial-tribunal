@@ -1,4 +1,4 @@
-# Chapter 964: Eight Inches On The Top Step And About Eighty Of Those Ninety Steps Under And Six Days Of The Coming Back, And A Woman Who Reads For A Living Got Most Of The Way Through A Sentence And Was Stopped By The Man With The Broom
+# Chapter 964: The Last Morning Of The Hundred And Fifty-Ninth Week, And A Woman Who Reads For A Living Got Most Of The Way Through A Sentence And Was Stopped By The Man With The Broom
 
 Seventh and last day of the hundred and fifty-ninth week. His seven hundred and fourteenth morning. Five hundred and sixty-four days after the settlement. The fever ninety-seven weeks and two days old. Five hundred and eighteen days since the division. Four hundred and sixty-four days since a page was read out in a room with the door shut, in a town in another county, and four hundred and ten days in this county of Kell.
 
@@ -90,6 +90,6 @@ Nobody laughed and nobody agreed.
 
 The man of fifty-four went down the bank with the barrow and asked again halfway down, to nobody, in the same words, and said that he would ask again on the first morning of the next week and would rather have it, and nobody answered him, because there was nobody there.
 
-Corvin Tace swept his way up eighty-nine steps and went round the fortieth and went round the chair and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.
+Corvin Tace swept his way up eighty-nine of the ninety and left the one at the bottom of the bank for the end of the morning, and went round the fortieth and went round the chair and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere had been lifted, or turned over, or weighed in a hand, or read out, or carried indoors, or set back where it was, or used.
 
 And the hundred and fifty-ninth week closed on a landing where a shape was in use for the second week running and had still not been given a name by anybody on it, where a sentence about a person who was not there had got as far as a woman’s mouth and had been stopped on a Monday because Mondays are the mornings a keeper is worst on, and where the water was eight inches and going up about four inches a day and nobody had said what any of it was for.

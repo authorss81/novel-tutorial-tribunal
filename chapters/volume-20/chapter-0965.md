@@ -1,4 +1,4 @@
-# Chapter 965: Twelve Inches On The Top Step And About Seventy Of Those Ninety Steps Under And Five Days Of The Coming Back, And The Man Who Holds That Landing Worked Out Something About How Long A Thing Can Be Left And Then Refused To Say The Figure Of It
+# Chapter 965: A Whole Working Out With No Figure At The End Of It, And A Woman Who Saws Lengths At A Bench Said She Could Put One On Inside A Minute And Did Not
 
 First day of the hundred and sixtieth week. His seven hundred and fifteenth morning. Five hundred and sixty-five days after the settlement. The fever ninety-seven weeks and three days old. Five hundred and nineteen days since the division. Four hundred and sixty-five days since a page was read out in a room with the door shut, in a town in another county, and four hundred and eleven days in this county of Kell.
 
@@ -36,7 +36,7 @@ Nobody waited for it.
 
 “A figure of zero for how long a thing has been in a place. Yes. It means that a person in this county does not know how long a thing has been there and is not going to be told, and that anybody who works out that number has not found out a fact about the thing. He has found out that he is the kind of man who counts.” He looked round the landing.
 
-“I am not that man and I have not been that man since the first morning of this week, and I gave it up on purpose on the sixth morning of that week, in front of witnesses, and nobody has thanked me for giving it up and nobody is going to, and I did not do it for that.”
+“I am not that man and I have not been that man since the first morning of this week, and I gave it up on purpose on the sixth morning of the hundred and fifty-eighth week, in front of witnesses, and nobody has thanked me for giving it up and nobody is going to, and I did not do it for that.”
 
 Nobody thanked him for it.
 

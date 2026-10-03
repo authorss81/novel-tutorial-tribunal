@@ -94,6 +94,6 @@ The man of fifty-four went down the bank with the barrow. The man of thirty-one 
 
 Corvin Tace finished all ninety steps and set the broom against the wall where it has been every morning for nineteen years.
 
-And the water was not on that bank at all and about ninety of those ninety steps were out and walkable, and there was one whole figure of weeks on the landing that a man who cannot read had put there himself before anybody worked it out for him, and nobody on that landing said a whole sentence about a thing.
+And the water was not on that bank at all and every one of those ninety steps was out and walkable, and there was one whole figure of weeks on the landing that a man who cannot read had put there himself before anybody worked it out for him, and nobody on that landing said a whole sentence about a thing.
 
 The cup on a bench three hundred yards away was still standing where it had been standing and had not been touched, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.

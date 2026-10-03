@@ -1,4 +1,4 @@
-# Chapter 961: Sixteen Inches And It Holds And One Day Of The Coming Back, And A Woman Who Saws Lengths At A Bench Used The Whole Of It A Second Time And Did Not Give It A Name
+# Chapter 961: The Morning After The Week Turned, And A Woman Who Saws Lengths At A Bench Used The Whole Of It A Second Time And Did Not Give It A Name
 
 Fourth day of the hundred and fifty-ninth week. His seven hundred and eleventh morning. Five hundred and sixty-one days after the settlement. The fever ninety-six weeks and six days old. Five hundred and fifteen days since the division. Four hundred and sixty-one days since a page was read out in a room with the door shut, in a town in another county, and four hundred and seven days in this county of Kell.
 
@@ -100,7 +100,7 @@ Nobody told him either of those things.
 
 Nobody on that landing gave the thing a name, and nobody said a word about who put down the last one, and the landing did not do anything with it except stand in the same weather it had been standing in before.
 
-Barnaby Crove went down the bank with the barrow and asked again halfway down, to nobody, in the same words, and nobody answered him, because there was nobody there. The woman who saws lengths went back down the cart road to a shed with a bench in it and did not put her cup on the bench, and did not put it anywhere else either, and did not put a second thing down anywhere in that shed.
+Barnaby Crove went down the bank with the barrow and asked again halfway down, to nobody, in the same words, and nobody answered him, because there was nobody there. The woman who saws lengths went back down the cart road to a shed with a bench in it and put her own cup on that bench where it goes every morning, and did not touch the other one, and did not put a second thing down anywhere in that shed.
 
 Corvin Tace swept the top step from the high end to the low end, went round the chair, went round the fortieth step, and set the broom against the wall where it has been every morning for nineteen years.
 

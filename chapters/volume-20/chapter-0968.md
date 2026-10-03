@@ -1,8 +1,8 @@
-# Chapter 968: Sixteen Inches And It Holds And Two Days Of The Coming Back And About Sixty Of Those Ninety Steps Under, And A Man Sat Down On The Wall To Work Something Out Slowly And In The Wrong Order And Got Hold Of The One Part Of It That Is Not An Answer
+# Chapter 968: A Day On Which Nothing Happens And Is Sayed, And A Man Sat Down On The Wall To Work Something Out Slowly And In The Wrong Order And Got Hold Of The One Part Of It That Is Not An Answer
 
 Fourth day of the hundred and sixtieth week. His seven hundred and eighteenth morning. Five hundred and sixty-eight days after the settlement. The fever ninety-seven weeks and six days old. Five hundred and twenty-two days since the division. Four hundred and sixty-eight days since a page was read out in a room with the door shut, in a town in another county, and four hundred and fourteen days in this county of Kell.
 
-Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures and then said that he was not going to say anything else about the morning unless somebody asked him, and four people on that landing came close to it.
+Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures and then said that he was not going to say anything else about the morning unless somebody asked him, and more than one voice on that landing came close to it.
 
 Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and said on the fourth morning of the hundred and sixtieth week that a landing where nothing happens is the only kind of landing a man can get wrong twice.
 
@@ -10,11 +10,11 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 Nobody asked him for a fourth thing.
 
-Then the man who moves chairs came up the cart road, and he did not go to the back of the landing, and he did not stand where he stands, and he sat down on the wall in the sun with his saw — no, with nothing — and put his hands on his knees, and said he was going to do something on that landing that nobody had ever seen him do.
+Then the man who moves chairs came up the cart road, and he did not go to the back of the landing, and he did not stand where he stands, and he sat down on the wall in the sun with his hands empty and put them on his knees, and said he was going to do something on that landing that nobody had ever seen him do.
 
 Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, said a thing about a chair on the second morning of the hundred and sixtieth week and has not repeated it since, and sat down on a wall on the fourth morning of it to work out what he was left with.
 
-“I am going to work this out in front of you and I am going to do it in the wrong order on purpose, because I did it in the wrong order on Saturday and I have been getting the same wrong answer for two days and I would rather be wrong in front of you than right in the lane.” He put his hands flat on his knees. “And I want it understood that what I come out with this morning is not going to be an answer, and that I know it is not going to be an answer before I start, and that is not modesty, it is that I have checked.”
+“I am going to work this out in front of you and I am going to do it in the wrong order on purpose, because I did it in the wrong order on Sunday and I have been getting the same wrong answer for two days and I would rather be wrong in front of you than right in the lane.” He put his hands flat on his knees. “And I want it understood that what I come out with this morning is not going to be an answer, and that I know it is not going to be an answer before I start, and that is not modesty, it is that I have checked.”
 
 Nobody stopped him where he stood.
 
@@ -50,7 +50,7 @@ Simon Rook is about fifty-two, cannot see well, has named about nine things he c
 
 “There is nobody going to ask you.”
 
-“Nobody has asked me twice and that is two more than most people get.” He did not turn round. “And I am not going to say what that is worth and I am not going to be told what it is worth. The man who moves chairs said on Saturday that he is not going to let anything on this landing become a question by being watched, and I would like him to know that I have thought about what he said and that it applies to me as well and I would rather said it than not said it.”
+“Nobody has asked me twice and that is two more than most people get.” He did not turn round. “And I am not going to say what that is worth and I am not going to be told what it is worth. The man who moves chairs said on Sunday that he is not going to let anything on this landing become a question by being watched, and I would like him to know that I have thought about what he said and that it applies to me as well and I would rather said it than not said it.”
 
 “I did not say that about you.”
 

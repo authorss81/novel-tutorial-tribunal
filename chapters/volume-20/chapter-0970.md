@@ -1,4 +1,4 @@
-# Chapter 970: The Water Came Off That Bank At About The Sixth Hour And All Ninety Of Those Steps Were Walkable By About The Seventh And That Was The Thirty-Eighth Time, And A Man With A Broom Said The Whole Of A Rule Out Loud One Last Time And A Man Of Thirty-One Gave A Whole Figure And Was Told Nothing About It
+# Chapter 970: The Thirty-Eighth Time The Water Came Off That Bank And All Ninety Of Those Steps Were Walkable, And A Man With A Broom Said The Whole Of A Rule Out Loud One Last Time And A Man Of Thirty-One Gave A Whole Figure And Was Told Nothing About It
 
 Sixth day of the hundred and sixtieth week. His seven hundred and twentieth morning. Five hundred and seventy days after the settlement. The fever ninety-eight weeks and one day old. Five hundred and twenty-four days since the division. Four hundred and seventy days since a page was read out in a room with the door shut, in a town in another county, and four hundred and sixteen days in this county of Kell.
 
@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He said on the sixth morning of the hundred and sixtieth week that a thing put down where somebody works is not a given thing and that he was going to say it once more out loud because a fortnight of mornings is nearly enough to let it get worn out.
 
-“There is no figure of inches. Not one, and I am not going to round it and I am not going to give you a feeling of it instead. No number of steps under either, and no number of days of the coming back, because when all ninety are out there is no coming back to count out from.” He put the broom down flat on the stone. “That is the shape of it. That is the thirty-eighth time.”
+“There is no figure of inches on that bank this morning and I am not going to reach for one out of habit, and there is not a feeling of it either, because a feeling of it is a figure in a worse coat. Not a number of steps under, and not a number of days of the coming back. A man counts days off a line of water and there is no line this morning to count them off.” He put the broom down flat on the stone. “That is the shape of it, and it is the thirty-eighth time.”
 
 He stood there with his hand on the handle.
 
@@ -22,7 +22,7 @@ Nobody on that landing stopped him.
 
 “Has it been touched,” said a voice from the wall, and it was the first anybody had said that morning.
 
-“Not touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used.” He set the broom against the wall. “Seven things and not one of them a figure of anybody and not a fifth figure off my stone, and I said them out loud on the sixth morning of the hundred and fifty-eighth week and I have not had to say them since.”
+“Not touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used.” He set the broom against the wall. “Seven things and not one of them a figure of anybody and not a fifth figure off my stone. I said them out loud on the sixth morning of the hundred and fifty-eighth week and I have had to say them once since, which was on this morning last week, and after this morning I am not going to say them again on this landing.”
 
 He went and swept all ninety of them, and he went round the fortieth, and he did not put the broom on it.
 
@@ -34,7 +34,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Nobody asked you for it, same as nobody asked you for it yesterday.”
 
-“No, and I have asked on every morning I have come up and been refused on every morning I have come up, and I have said a whole number of weeks out loud twice this week and nobody on this landing has asked me what it was for.”
+“No, and I have asked on every morning I have come up and been refused on every morning I have come up, and I have said a whole number of weeks out loud once this week and nobody on this landing has asked me what it was for.”
 
 “That is the best fortnight of asking I have ever had, and I am not going to explain what I mean by that and neither are you.”
 
@@ -42,7 +42,7 @@ Nobody explained it.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And that is the last one of this week and I am not going to change it for the last one of anything.”
 
-Nobody answered him. Nobody told him the question was good or foolish, and nobody told him he was owed an answer, and nobody thanked him for it and nobody was going to.
+Nobody answered him, and the question got no verdict from anybody on that landing, and he was not told he was owed an answer, and nobody thanked him for it and nobody was going to.
 
 Then the man of fifty-four said the thing he said at the end of last week, and said it again because it was the shape of the morning and not a habit, and it was the only part of his whole life that was working, and it was the only part of his whole life he could not be thanked for and so nobody was.
 
@@ -66,11 +66,11 @@ He stood with his hands behind his back and looked round the landing.
 
 The landing was very quiet.
 
-“Nothing is going to happen. That is what happens. Nobody on this step will tell me that a hundred and ten is a lot. Nobody will tell me that it is nothing. Nobody will tell me it is a hundred and ten mornings of this county’s business, and nobody will tell me it is a hundred and ten mornings of mine, and nobody will tell me I was right about any of it, and nobody will tell me I was wrong about any of it.” He took a breath and it was not a steady one.
+“Nothing is going to happen. That is what happens. Not one person on this step is going to tell me that a hundred and ten is a lot, and not one is going to tell me that it is nothing, and not one is going to tell me it is a hundred and ten mornings of this county’s business or a hundred and ten mornings of mine, and I will be told neither that I was right about any of it nor that I was wrong about any of it.” He took a breath and it was not a steady one.
 
 “And I am not going to be unrelieved about it. And I am not going to be relieved about it. And I am not going to owe this landing thanks for the second one, because the second one is the reason I have spent this fortnight.”
 
-Nobody was relieved. Nobody was unrelieved, and nobody owed anybody thanks, and nobody was told anything about a hundred and ten at all.
+Nobody was relieved and nobody was unrelieved, thanks were owed to nobody by anybody, and nothing whatever was said to him about a hundred and ten.
 
 “And I am not going to be thanked for saying it, and there is nobody on this landing who thinks there is anything to thank.”
 
@@ -80,16 +80,16 @@ Nobody had.
 
 Nobody said it twice by anybody.
 
-Nobody on that landing did anything about the morning before that, or the morning before that, or the morning before that. Nobody wrote anything down, entered anything on a line, minuted anything, recorded anything, copied anything, or carried anything off that bank. Nobody convened a proceeding, a hearing, a sitting, a petition, a return, or an appointment of anybody to anything, because there was nothing to hear and there is nobody on that landing who could hold one.
+Nobody on that landing did anything about the morning before that, or the morning before that, or the morning before that. Nothing was written down, entered on a line, minuted, recorded, copied, or carried off that bank, and nothing was convened — no proceeding, no hearing, no sitting, no petition, no return, no appointment of anybody to anything — because there was nothing to hear and nobody on that landing who could hold one.
 
 Corvin Tace finished all ninety steps and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and did not say who had put it there, and the chair stood where it had been put and had never once been sat on and had never once been touched.
 
-The man of fifty-four went down the bank with the barrow and asked again halfway down, to nobody, in the same words, and nobody answered him, because there was nobody there.
+The man of fifty-four went down the bank with the barrow and asked again halfway down, in the same words, and there was nobody on that bank but him to answer it.
 
 And the man of thirty-one went down that bank on foot at about the ninth hour with his hands behind his back, which is the one thing nobody on that landing can take off him, and did not use it, and did not turn round at the wall, and did not stop at the bottom of the steps, and went down.
 
-He did not come back up it that week.
+He did not come back up it that day.
 
 And what nobody owed that landing was said out loud one last time in a mouth that had held a broom for nineteen years and had given three figures off one stone every morning of it and had never once given a fifth.
 
-There is no giver in anything that is standing on that landing, and the offer was at two hundred and seventy days and unanswered, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used, and the account was incomplete and it was still in use.
+There is no giver in anything that is standing on that landing, and the offer was at two hundred and seventy days and unanswered, and nothing that has been put down anywhere has been lifted or turned over or weighed in a hand or read out loud or carried indoors or set back where it was or used, and the account is incomplete and it is still in use.

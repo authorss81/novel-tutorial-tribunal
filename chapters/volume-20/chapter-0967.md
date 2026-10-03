@@ -1,4 +1,4 @@
-# Chapter 967: Sixteen Inches And It Holds And Three Days Of The Coming Back And About Sixty Of Those Ninety Steps Under, And Nobody On That Landing Did One Thing About A Thing That Was Said The Morning Before, And One Man Said That Was Not Going To Change
+# Chapter 967: The Morning After The Midpoint, And Nobody On That Landing Did One Thing About A Thing That Was Said The Morning Before, And One Man Said That Was Not Going To Change
 
 Third day of the hundred and sixtieth week. His seven hundred and seventeenth morning. Five hundred and sixty-seven days after the settlement. The fever ninety-seven weeks and five days old. Five hundred and twenty-one days since the division. Four hundred and sixty-seven days since a page was read out in a room with the door shut, in a town in another county, and four hundred and thirteen days in this county of Kell.
 
@@ -52,7 +52,7 @@ Nobody said they needed it again.
 
 Then the man who moves chairs came up the cart road and stood at the top of the steps and said the last of it, and it was short.
 
-Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, and said on the fourth morning of the hundred and sixtieth week that he was not going to say the thing he had said the day before in any other words.
+Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, and said on the third morning of the hundred and sixtieth week that he was not going to say the thing he had said the day before in any other words.
 
 “I am not going to say it again,” he said. “Not softer, not harder, not to explain it, not to answer anybody who has been thinking about it since six o’clock, and not to agree with myself about whether I meant it.” He put his hands behind him. “I said it once, in about nine ears, on a Wednesday, and I said in front of about nine ears that I would not say it again while I kept coming up this bank, and I am here to say that I meant that and not merely that I said it.”
 

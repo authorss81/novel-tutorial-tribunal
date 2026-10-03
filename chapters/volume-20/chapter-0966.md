@@ -1,4 +1,4 @@
-# Chapter 966: A Full Bank, And The Man With The Broom Said Out Loud That Four Days Is A Figure Of The Water And Not A Figure Of The Morning, And Then A Man Who Moves Chairs For A Living Said A Sentence About A Chair
+# Chapter 966: A Full Bank, And The Man With The Broom Said Out Loud That The Figure Of The Coming Back Is A Figure Of The Water And Not A Figure Of The Morning, And Then A Man Who Moves Chairs For A Living Said A Sentence About A Chair
 
 Second day of the hundred and sixtieth week. His seven hundred and sixteenth morning. Five hundred and sixty-six days after the settlement. The fever ninety-seven weeks and four days old. Five hundred and twenty days since the division. Four hundred and sixty-six days since a page was read out in a room with the door shut, in a town in another county, and four hundred and twelve days in this county of Kell.
 
@@ -84,7 +84,7 @@ He stood at the top of the steps with his hands behind his back and did not say 
 
 Nobody was relieved and nobody was unrelieved.
 
-Nobody on that landing acted on the sentence. Nobody wrote it down, entered it on a line, minuted it, recorded it, copied it, or carried it off that bank. Nobody said it back to the man who had said it. And nothing was convened, because nothing was going to be, because there was nothing to hear.
+Nobody on that landing acted on the sentence. Nothing was written down, entered on a line, minuted, recorded, copied, or carried off that bank, and nobody said it back to the man who had said it. And nothing was convened, because nothing was going to be, because there was nothing to hear.
 
 Then the man who moves chairs said the last of it, and it was not about the sentence and it was the reason he had come up.
 
@@ -95,6 +95,26 @@ Nobody said anything about her.
 “And nobody is to thank her either, before anybody gets there, and there is nothing to thank her for, and if somebody does thank her for it then that person has turned a thing she was kept out of into a thing she did.” He looked round. “I move her chairs. That is all I have got to do with her and I have never asked her for anything else and I am not going to start on the morning a man says something about an absence.”
 
 Nobody thanked her and nobody said they wished they had, and nobody on that landing went up that road.
+
+Then a woman came up the cart road on her own time, past the low wall and no further, and stopped at the wall, and it turned out she had been standing there since before the seventh hour with the wind off it and the sound of that landing coming down to her over the stone.
+
+Orla Fennimore is forty-four, keeps twenty-nine chairs at a house that is not in this county, was asked once what she did and has not been asked since, and was not on that landing this morning and is not going up that road to find out what was said on it.
+
+“You are all talking as though I am a thing somebody left.” She did not come past the wall. “I have been at this wall since before your man called his figures and I have heard the whole of it and I am not coming up those steps and nobody is going to come to me.”
+
+Not one of them came to her.
+
+“So here is what I want said, and I want it said by me and not by a man who moves my chairs. Nobody put me in that. Nobody set a morning up so that I would be the reason a thing got left anywhere, and nobody has gone up this road this morning to make me one, and if one of you goes up it after I have walked off then you have made me one with a day on it.”
+
+Nobody said anything about it either way.
+
+“And I am not going to be thanked for standing at a wall. I want that said now, before anybody gets to this road and decides I stood here for something. There is nothing to thank me for, and I am not going to be thanked for saying there is nothing to thank me for, and the man who said that about his chairs has it right and he should have said it about me first.”
+
+The man who moves chairs said nothing at all.
+
+“He has it right about the half of it that is about him. The other half was mine to say and I have said it and I am going back down this road now.” She turned for the cart road. “And if anybody on this landing has anything for me they can put it on this wall, because I am not coming up those steps and they are not coming to me.”
+
+She went back down the cart road at the pace she had come up it, and nobody on that landing went up it after her, and nothing was said on that road behind her back.
 
 Corvin Tace swept all ninety steps and went round the fortieth and went round the chair and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.
 
