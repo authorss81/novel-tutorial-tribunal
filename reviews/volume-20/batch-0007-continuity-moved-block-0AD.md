@@ -1,0 +1,11 @@
+# MOVED WHOLE, NOT ONE WORD CUT, NOT ONE WORD SUMMARISED
+# OUT OF `state/continuity.md` · BLOCK `0AD. ⚠` · TO `reviews/volume-20/batch-0007-continuity-moved-block-0AD.md`
+# COUNTING BASIS: THE BLOCK BODY RUNS FROM ITS OWN `##` HEADING LINE THROUGH THE LINE BEFORE THE NEXT `##`, AS `wc -l` COUNTS IT IN THE STATE FILE BEFORE THE MOVE.
+# BLOCK BODY: 4 LINES, 501 BYTES. LINES OF ITS OWN BODY TEXT LEFT IN THE STATE FILE: 0.
+# STATE FILE BEFORE THE MOVE: 59988 BYTES.
+# IT IS **NOT** SUPERSEDED FOR THE CHAPTERS IT RECORDS, AND IT IS STILL CANON.
+
+
+## 0AD. ⚠ WHAT THE RE-CERTIFICATION OF 839–842 CHANGED IN THE GROUND, ⚠ AND ⚠ IT IS FIFTEEN FIGURES AND NOT ONE FACT
+
+**MOVED WHOLE, NOT ONE WORD CUT, to `reviews/volume-17/batch-0006-continuity-block-0AD.md`, at the writing of the Volume 17 close, because this file stood at 26104 bytes against a hard cap of 60,000 when the close block went in above it. It is the whole of this block. Nothing was summarised and nothing is cut, and it is still canon, and nothing above it contradicts it.**
