@@ -8,7 +8,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “Sixteen at the seventh hour, that is a full bank, four days of the coming back, and about sixty of those ninety steps under, on the third day of the hundred and sixty-first week, and it is a Thursday. Three figures.”
 
-He set the broom down rather than lean it.
+He laid the broom down on the stone instead of leaning it.
 
 “I am going to say a fourth thing and I am going to say it having said it before this week, and I want that on the record before I say it, because the second time a man says a thing on a landing it gets smaller, and I am not going to have this one get smaller.”
 
@@ -20,7 +20,7 @@ He looked along the top step.
 
 “Yesterday a man told me what tomorrow was going to be like and he was right about the water. That is what he was right about. He was right about sixteen inches standing on the top step at the seventh hour, and everything else he said was him deciding in advance, and the two of those got put in the same sentence and it came out of his mouth as a Thursday.”
 
-Nobody said anything about it.
+Nobody on that landing said a word about it.
 
 “I have given three figures off this stone every morning for nineteen years and I have never given one of them a name, and the reason is that they are about the bank and not about us. A bank takes no notice whatever of a landing and I have never once pretended otherwise.” He picked the broom up. “So here is the whole of it and I have said it twice this fortnight now and I am not going to say it a third time on this bank. Take the four off this stone and it stops being a figure of the bank and it starts being a day, and a day is a thing people arrange themselves around.”
 
@@ -54,7 +54,7 @@ Nobody looked at it.
 
 “Now here is the rest and I would rather somebody sat down for it.” Nobody sat down. “There is exactly one experiment anybody in this county has for that step and it is a bad one and it is the only one. You pull it. Or you turn it over. Or you get a thumb under it and lift, and you find out what it is holding, and you put it back, and then you know.”
 
-He put his hands behind him.
+He put both hands behind his back.
 
 “And that is the only road in this world from not knowing to knowing about a thing left in a place. There is no other road. Not asking, because there is nobody here to ask. Not waiting, because nobody is going to put themselves on that step by standing still. Not a wise man, because there is no wise man on this landing and there is not going to be one, and a wise man is the same shape as a person who is allowed to do it.”
 

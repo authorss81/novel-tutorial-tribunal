@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He sat down on the bottom step and put the broom across his knees.
 
-“I am not going to say the fourth thing. The man who cannot read put a whole figure on this landing on Saturday and I am not going to come back at it with another one, and I am not going to say a figure of weeks either, because one of you has been carrying the same one all morning and it is no more a figure of anything than mine is.”
+“I am not going to say the fourth thing. The man who cannot read put a whole figure on this landing on Saturday and I am not going to come back at it with another one, and I am not going to say a figure of weeks either, because one of you has been carrying the same one since Saturday and it is no more a figure of anything than mine is.”
 
 The man who moves chairs came up the cart road without a barrow and stood at the top of the steps where he has stood all fortnight, and did not come further down.
 
@@ -32,7 +32,7 @@ Nobody said the first part was not settled.
 
 “It is that the only person who could say why it is there is a person who does not work here, and putting that person on this landing to ask them is the one move that this landing has spent a fortnight not making.”
 
-The landing did not make a sound.
+Nobody on the steps moved and nobody on the steps spoke.
 
 “So here is the finding and I would like it taken in exactly the size it is. We cannot find out whether it helped. Not cannot find out this morning. Cannot find out. There is no morning on which that comes out, and everybody standing on these steps has known that since before the first of you got here and I have said out loud on this landing that I know it.”
 
@@ -52,7 +52,7 @@ Nobody asked the boy why a man who cannot see well wanted to know that.
 
 “And I am not going to tell you what I think he wanted it for,” he said, “because I do not think anything about it, and if I did I would have to keep it, and I am not going to have a view about a thing on a landing. And nobody has told me I had that right.”
 
-Nobody told him he had it right and nobody told him he had it wrong.
+Nobody told the boy he had it right and nobody told him he had it wrong either.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and was refused in the same way and was not thanked, and he had noticed on the way up that the top step had a full week in front of it.
 

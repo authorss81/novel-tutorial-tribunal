@@ -14,13 +14,13 @@ He set the broom down flat on the top step and stood on the fortieth one.
 
 Nobody tried.
 
-“On the second morning of this week I said on this step that my work has got easier, and that I was not going to say who did it, and that nobody had found anything wrong with the order of them.” He looked down at his own heel in the chip. “I have been standing here six days with that. And here is what it is going to do to me.”
+“On the Monday at the end of last week I said on this step that my work has got easier, and that I was not going to say who did it, and that nobody had found anything wrong with the order of them.” He looked down at his own heel in the chip. “I have been standing here six days with that. And here is what it is going to do to me.”
 
 He stopped there for a while.
 
 “Not what it did. What it is going to do. I have worked on this landing nineteen years and I have got the way I sweep and I have got the place I put my heel and I have got which steps I take short and I have got the order I do them in, and none of that is written down anywhere and all of it is mine.”
 
-Nobody on that landing said anything.
+Nobody on that landing said one word.
 
 “And the step with the chip has changed how I sweep that stretch, and I have not decided to change it, and I am not going to decide to change it back. So I am going to be a man who stands in the chip on that one and stands outside it on the rest, and in about a year nobody on this landing is going to remember which one he does on the fortieth, and neither am I, and that will be in my work.”
 
@@ -48,7 +48,7 @@ Wenna Pyle is thirty-eight, who saws lengths and sets studs at a bench in an ope
 
 “Say the whole of it then,” said the man with the broom, and picked the broom up while he was saying it.
 
-“A thing that has been in a place. And a thing that somebody is keeping in that place. From outside a step, on a Monday, in this weather, with the water where it is.” She shifted the saw handle. “There is no difference. None. Not a small one. I have stood in a workshop with things in it that I could not tell apart, and I have been wrong about which of the two it was, and I was wrong because I assumed, and assuming is the whole of what you would have to do here.”
+“A thing that has been in a place. And a thing that somebody is keeping in that place. From outside a step, on a morning of this week, in this weather, with the water where it is.” She shifted the saw handle. “There is no difference. None. Not a small one. I have stood in a workshop with things in it that I could not tell apart, and I have been wrong about which of the two it was, and I was wrong because I assumed, and assuming is the whole of what you would have to do here.”
 
 Nobody on that landing said they had not assumed.
 

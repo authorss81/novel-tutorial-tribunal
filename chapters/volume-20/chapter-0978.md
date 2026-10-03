@@ -72,7 +72,7 @@ Nobody asked him which one.
 
 Nobody answered him on a morning when there was nothing on the stone to answer him with, and nobody told him he was owed an answer, and nobody thanked him, and there was a morning coming when he was going to stop asking.
 
-Then the man of thirty-one came up at about the eighth hour with no water on the steps at all to lean his own figures on, and gave his figures, and gave the figure of the offer with the subtraction out loud, and asked for nothing, and then said the whole of the rule out loud for the first time in his life, which he had been carrying up that bank since Monday.
+Then the man of thirty-one came up at about the eighth hour with no water on the steps at all to lean his own figures on, and gave his figures, and gave the figure of the offer with the subtraction out loud, and asked for nothing, and then said the whole of the rule out loud for the first time in his life, which he had been carrying up that bank since the end of last week.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and twenty-four days. The cut across that palm is two hundred and ninety-three days old.
 
@@ -80,7 +80,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 He got to the bottom of the steps and stayed there.
 
-“A hundred and eighteen wrong things in a hundred and eighteen mornings, and here is the hundred and eighteenth, and it is not about the water and it is not about a step.” He kept his hands behind his back. “Since Monday I have been carrying a sentence up this bank and it has been getting longer all week and this morning it is the only thing on this landing I have not said.”
+“A hundred and eighteen wrong things in a hundred and eighteen mornings, and here is the hundred and eighteenth, and it is not about the water and it is not about a step.” He kept his hands behind his back. “Since the end of last week I have been carrying a sentence up this bank and it has been getting longer all week and this morning it is the only thing on this landing I have not said.”
 
 Nobody asked him what the sentence was.
 
@@ -90,7 +90,7 @@ He put his hands down at his sides.
 
 “And I have heard it said out loud on that landing all fortnight and I have never once said it, and the reason I have not is that a man who says the rule counts himself in it, and I have stood on these steps a fortnight and I have not wanted anybody up here to count me. And I have worked out this morning that that was not honour and it was not care. It was that I wanted one thing to be mine that nobody else had to hold.”
 
-Nobody said anything about that.
+Nobody on that landing said a word about that.
 
 “So I am saying it out loud on a morning with nothing on the stone, and I am not going to be thanked for it, and nobody is to tell me it was well said, and if it saves anybody on this landing a morning then it has done what it was for and I am not going to want anything out of that.”
 
@@ -102,5 +102,5 @@ Nobody helped him with that and nobody paid him for it.
 
 All ninety were out and walkable and he swept every one of them, and went round the fortieth one, and went round the chair, and did not touch the thing in the seam and did not sit on the chair. Nothing has been pulled, or turned over, or weighed in a hand, or read aloud, or carried inside, or put back where it was, or used.
 
-A morning with no figure of anything on its stone went out with that thing still in that seam and still unaccounted for, and the water will be back on that bank and it will be a full bank again, and nothing about the thing will have changed by then, and that is a figure of the water and not of the step.
+A morning with no figure of anything on its stone went out with that thing still in that seam and still unaccounted for, and the stone had nothing else on it to account for it with, and the two of them went out exactly as they came in, and nobody on that landing has said a word about what either of them is for.
 

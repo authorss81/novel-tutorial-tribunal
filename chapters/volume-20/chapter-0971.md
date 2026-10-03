@@ -14,11 +14,11 @@ He set the broom down flat on the stone rather than lean it, which is what he do
 
 Nobody said anything.
 
-“The fortieth one.” He did not point at it. “The one with the chip off the top left. It has moved under me every morning for nineteen years. It is the only one of these ninety that has ever moved and I have known which one it was in my first week and I have never once told a soul which one it was, because a man who sweeps ninety steps a day does not need to be told and if he does need to be told he is not the man who sweeps them.”
+“The fortieth one.” He did not point at it. “The one with the chip off the top left. I have never been able to sweep that stretch the way I was taught to sweep it and I have known which stretch it was in my first week, and I have never once told a soul which one it was, because a man who sweeps ninety steps a day does not need to be told and if he does need to be told he is not the man who sweeps them.”
 
 He picked the broom up and turned it in his hands and set it down again.
 
-“The working is this and I am giving it to you whole. A step moves when the ends of the stone are carrying it and the middle is not. You can feel it from the outside edge, where your heel goes when you have learned the step, and from the outside edge it has moved every morning since I came to this bank. This week my heel has been going in the chip at the corner. Dead on the seam. And it has not moved once, and I have put my whole weight on it twice a day every morning this week and it has not moved.”
+“The working is this and I am giving it to you whole. A step moves when the ends of the stone are carrying it and the middle is not. You can feel it from the outside edge, where your heel goes when you have learned the step, and from the outside edge I have been able to tell you since the morning I came to this bank whether that one had gone or not. This week my heel has been going in the chip at the corner. Dead on the seam. And it has not moved once, and I have put my whole weight on it twice a day every morning this week and it has not moved.”
 
 He stopped there and let it stand.
 
@@ -26,7 +26,7 @@ He stopped there and let it stand.
 
 Nobody asked him a question about it.
 
-“And I am going to say the rest of it out loud, because I have been not saying it since the seventh hour and I am fifty-one years old and I do not have another fortnight in me for not saying things. The work on this landing has got easier. Nineteen years it has not got easier. That is the whole of the news and there is nothing on this stone under it.”
+“And I am going to say the rest of it out loud, because I have been not saying it since the seventh hour and I am forty-three years old and I do not have another fortnight in me for not saying things. The work on this landing has got easier. Nineteen years it has not got easier. That is the whole of the news and there is nothing on this stone under it.”
 
 Nobody thanked him and nobody congratulated him and nobody asked him how he knew.
 
@@ -60,7 +60,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Two hundred and fiftieth. Nine hundred and seventy-one less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
 
-“Nobody asked you for it, same as nobody asked you for it yesterday.”
+“Nobody asked you for it, and nobody is going to ask you about that either.”
 
 “No, and I have asked on every morning I have come up and been refused on every morning I have come up, and I have watched a man tell this landing that his work has got easier and not one person up here has asked him a single thing about it, and I have been thinking about that on the road up.”
 
@@ -94,7 +94,7 @@ Nobody on that landing said anything about the shape of it.
 
 “Nothing, and that is the first time in eleven years I have stood on a step with nothing prepared for it, and I would like that said out loud by somebody who is not me.” He did not move his hands. “And I am not going to be unrelieved about it, because being unrelieved is the other side of being relieved and I have had enough of both from this landing.”
 
-Nobody was relieved and nobody was unrelieved.
+Nobody was relieved about it and nobody was unrelieved about it either.
 
 “And here is my cost and I am going to say it once this morning because it is a Monday and there is nothing else on the stone. Asking is the only thing that costs me nothing. Everything else I do costs me something I can name. I could pay for this standing here this morning out of what is left of me, and I could pay for asking nobody anything at all out of nothing at all, and that is why I have asked for nothing for four hundred and seventeen days and why I am going to keep on not doing it.”
 

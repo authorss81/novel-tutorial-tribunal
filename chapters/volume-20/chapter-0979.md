@@ -8,9 +8,9 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “Four at the seventh hour, seven days of the coming back, and about ninety of those ninety steps under, on the first day of the hundred and sixty-second week, and it is a Tuesday. Three figures.”
 
-He leaned the broom against the wall.
+He left the broom standing against the wall beside him.
 
-“There is going to be a great deal of standing up here this week saying that it is a new week, as though a week were a thing that got put down and somebody had to pick it up.” He looked along the top step. “A week is a figure of nothing. It is not a new landing and it is not a new morning and nothing on this step has changed because the word went round. The water went off on Sunday and it came back on today and that is the whole of what happened in between.”
+“There is going to be a great deal of standing up here this week saying that it is a new week, as though a week were a thing that got put down and somebody had to pick it up.” He looked along the top step. “A week is a figure of nothing. It is not a new landing and it is not a new morning and nothing on this step has changed because the word went round. The water went off on Monday and it was back on the top step by this morning, and that is the whole of what happened in between.”
 
 Nobody on that landing said anything had changed.
 
@@ -20,9 +20,9 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Two hundred and fifty-eighth. Nine hundred and seventy-nine less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
 
-“Nobody asked you for it. A Monday does not get an answer and a Tuesday does not either.”
+“Nobody asked you for it. A Tuesday does not get an answer any more than a Monday did.”
 
-“No, and it is a Monday I am asking on and it is a Tuesday now and it does not make a difference and I am not going to try and make it one.”
+“No, and I asked on Monday as well and it did not make a difference then and it is not going to make one now and I am not going to try and make it one.”
 
 He set the barrow down.
 
@@ -44,7 +44,7 @@ Nobody took a turn at it.
 
 Nobody gave any morning a name.
 
-“And I am not going to be thanked for asking, because I asked on Friday and I asked on Saturday and nobody thanked me then either and I have stopped expecting it, and I would like somebody to notice that I have stopped expecting it rather than notice that I am still expecting it.”
+“And I am not going to be thanked for asking, because I asked on Monday and nobody thanked me then either and I have stopped expecting it, and I would like somebody to notice that I have stopped expecting it rather than notice that I am still expecting it.”
 
 He came away from the wall and started down with his hand out and nobody helped him.
 

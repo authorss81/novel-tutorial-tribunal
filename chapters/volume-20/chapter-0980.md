@@ -54,11 +54,11 @@ He took a breath and it was not a steady one. “And I am going to stand here fo
 
 Nobody asked him what the third time was going to be.
 
-Then the man who moves chairs said out loud, in front of everybody, that there was a thing he had been carrying up the cart road in his mouth since Monday. He had decided this morning he was leaving it at the wall, and a woman was standing at the wall.
+Then the man who moves chairs said out loud, in front of everybody, that there was a thing he had been carrying up the cart road in his mouth since the Monday before last. He had decided this morning he was leaving it at the wall, and a woman was standing at the wall.
 
 Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no stone and has no seat and no board, has never once been asked what he did, has been told not to come up that bank and has come anyway, and on the second day of the hundred and sixty-second week said out loud that he was not going to carry the morning up the cart road.
 
-“There is a thing I have had in my mouth since Monday and I am leaving it at that wall.” He did not point at her and nobody did either. “I move chairs up that road. I have been up it four mornings this week. And I am not going to be carrying any part of this landing up it, not this morning and not when the chairs are done, and I would like it noticed that I noticed it on Monday and said nothing about it until Wednesday.”
+“There is a thing I have had in my mouth since the Monday before last and I am leaving it at that wall.” He did not point at her and nobody did either. “I move chairs up that road. I have been up it four mornings this week. And I am not going to be carrying any part of this landing up it, not this morning and not when the chairs are done, and I would like it noticed that I noticed it again on Monday and said nothing about it until this morning.”
 
 Nobody noticed it before him.
 
@@ -66,11 +66,11 @@ Nobody noticed it before him.
 
 Orla Fennimore is forty-four, keeps twenty-nine chairs at a house that is not in this county, was asked once what she did and has not been asked since, and was at the wall on the second day of the hundred and sixty-second week before the seventh hour with the wind off it.
 
-“Nobody is to come up this road and tell me anything.” She said it without coming past the wall. “Not about a thing in a step, not about a man whose work got easier, not about a man of thirty-one who came up that bank and said something out loud on Wednesday that he should not have said out loud to two strangers, and not about this landing at all.”
+“Nobody is to come up this road and tell me anything.” She said it without coming past the wall. “Not about a thing in a step, not about a man whose work got easier, not about a man of thirty-one who came up that bank and said something out loud on Tuesday that he should not have said out loud to a woman who asked him one question and gave him nothing back for it, and not about this landing at all.”
 
 Nobody on that landing had said anything to her.
 
-“You did not hear that from me on Wednesday,” she said, “and if you did, then somebody on this landing has been carrying a morning up that road, and I would like that to stop this morning and I would like it to stop without an inquiry.”
+“You did not hear that from me on Tuesday,” she said, “and if you did, then somebody on this landing has been carrying a morning up that road, and I would like that to stop this morning and I would like it to stop without an inquiry.”
 
 Nobody started an inquiry.
 

@@ -4,7 +4,7 @@ Fifth day of the hundred and sixty-first week. His seven hundred and twenty-sixt
 
 Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures and then stood at the top of the steps while a man who cannot read gave a whole figure out loud at the sixth hour and nobody worked it out for him, and then somebody asked him what it was for.
 
-Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and on the fifth day of the hundred and sixty-first week said out loud that a whole figure produced three times is a habit and that he was not going to take a habit off a man who cannot read.
+Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and on the fifth day of the hundred and sixty-first week said out loud that a whole figure that keeps coming out as a whole figure is a habit and that he was not going to take a habit off a man who cannot read.
 
 “Sixteen at the seventh hour and it holds, two days of the coming back, and about sixty of those ninety steps under, on the fifth day of the hundred and sixty-first week, and it is a Saturday. Three figures.”
 
@@ -32,7 +32,7 @@ Aldis Rook moves the chairs for Orla Fennimore and keeps nothing and has no ston
 
 Nobody thanked him for coming up anyway.
 
-Barnaby Crove did not turn round.
+Barnaby Crove kept his face to the wall.
 
 “I do not know what a whole figure of weeks is for,” he said. “That is the same answer I have given three times and it is the only answer I have got, and I am not going to improve on it for you this morning.”
 
@@ -56,7 +56,7 @@ Nobody had asked him before this morning, and nobody asked him anything now, and
 
 The man with the broom came down three steps and stopped.
 
-“I said on this landing that I had given up a habit and named it, and it is on the record and I am not going to pretend I have not said it.” He held the broom in both hands. “A whole figure produced three times is a habit. That is what it is. And I am going to say the other half of it and then sweep.”
+“I said on this landing that I had given up a habit and named it, and it is on the record and I am not going to pretend I have not said it.” He held the broom in both hands. “A whole figure that keeps coming out as a whole figure is a habit. That is what it is, and he is not the only man on this landing who has one, and I am going to say the other half of it and then sweep.”
 
 Nobody stopped him.
 

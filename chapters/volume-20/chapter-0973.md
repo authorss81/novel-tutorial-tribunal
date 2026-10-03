@@ -104,7 +104,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Nobody asked you for it. I am not going to tell you the morning before was different, because it was not.”
 
-“No, and I have noticed that three of us on this landing have been asked nothing this week and one of us has asked every morning, and that is four of us, and I have counted us twice because I am the man who counts and I could not help it, and I am not going to give anybody the figure.”
+“No, and I have noticed that more of us on this landing have been asked nothing this week than have been asked every morning, and I counted it, because I am the man who counts and I could not help it, and I am not going to give anybody the figure.”
 
 Nobody took his figure.
 
@@ -132,7 +132,7 @@ Nobody said so to him and nobody went after him with it.
 
 “And I have got no part in it, and I would like that written down as a thing about me rather than as a thing about this landing. A hundred and thirteen mornings and I have not once been the man whose work a thing made easier, and I have not once been the man a sentence was about, and I went down that bank on the last morning of the last week and it did not make anything easier, and that was the correct thing to do and nobody has thanked me for it and nobody is going to.”
 
-Nobody thanked him for it.
+Nobody thanked him for saying so.
 
 All ninety of them were swept, and the chair went round and the thing in the seam went round, and the chair has not been sat on and the thing has not been touched. Nothing has been pulled, or turned over, or weighed in a hand, or read aloud, or carried inside, or put back where it was, or used. The rule went into a third mouth that morning and it is still not called anything by anybody, and nobody on that landing has said what the thing in the fortieth step is for.
 
