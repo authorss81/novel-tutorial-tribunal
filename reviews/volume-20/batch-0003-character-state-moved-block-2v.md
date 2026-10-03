@@ -1,0 +1,22 @@
+# MOVED WHOLE, NOT ONE WORD CUT
+#
+# This block was moved whole out of `state/character-state.md` into this file, at the writing of
+# VOLUME 20 BAND 2, CHAPTERS `961`-`970`, because that state file went over the
+# HARD CAP OF 60,000 BYTES when this band's block was appended above it.
+# NOTHING WAS SUMMARISED AND NOTHING WAS CUT.
+# THE BLOCK BELOW IS THE WHOLE OF IT, INCLUDING EVERY NAME, EVERY AGE, EVERY
+# FIGURE AND EVERY FINDING, AND IT IS STILL CANON.
+#
+# BLOCK ID             : 2v
+# SOURCE FILE          : state/character-state.md
+# DESTINATION          : reviews/volume-20/batch-0003-character-state-moved-block-2v.md
+# BLOCK BODY IN SOURCE : 2 LINES AND 1,058 BYTES,
+#   counted from its own `##` heading line through the line before the next
+#   `##`, as `wc -l` and `stat` count them IN THE STATE FILE BEFORE THE MOVE.
+# THIS FILE WHOLE      : 22 LINES AND 2,206 BYTES.
+# THE DIFFERENCE BETWEEN THOSE TWO FIGURES IS EXACTLY THIS TEN-LINE HEADER,
+#   WHICH THE MOVE PUT ABOVE THE BLOCK AND NOT INSIDE IT.
+# FOOTPRINT            : 0 LINES OF THIS BLOCK'S OWN BODY TEXT IN `state/character-state.md`,
+#   MEASURED LINE BY LINE AFTER THE MOVE.
+#
+## 2v. ⚠ THE PEOPLE AT THE CLOSE OF VOLUME 19, ⚠ ⚠ **AND ⚠ EVERY FIGURE IN IT IS A FIGURE OF **THE FORTY CHAPTERS THAT EXIST** ⚠ AND ⚠⚹⚾⚠ **A FIGURE OF FORTY CHAPTERS IS NOT A FIGURE OF A PERSON.** ⚠ **WHOLE: `reviews/volume-19/batch-0006-close-0V19J.md`** `§0V19J.10.1` — ⚠ **ILYAN VESTER ON FORTY**, ⚠ **WAT MARSHE ON THIRTY-NINE** ⚠ (AND **NOT** AT `949`, ⚠ WHICH IS **NOT** A GAP, ⚠ BECAUSE ⚠ **HE IS NOT ON THE PAGE THAT MORNING**) · ⚠ **SENA DORR ON SEVEN** ⚠ — ⚠⚹⚾⚠ **AND THE FIGURE OF THE COUNT OF ASKING DID NOT REACH HER ⚠ AND IT WAS NOT FIXED** · ⚠ ORLA FENNIMORE, ALDIS ROOK, BARNABY CROVE, CORVIN TACE, GARRIN TOLLEY, ⚠ THE FIVE KEEPERS OF THE FIVE ORDINARY THINGS · ⚠⚹⚾ **AND ⚠⚹⚾ **THE PEOPLE OF THE LAST TEN MORNINGS OF VOLUME 19 ARE AT `reviews/volume-19/batch-0005-character-state-block-2u.md` §2u AND THIS BLOCK DOES NOT REPLACE THEM AND DOES NOT SUMMARISE THEM.** ⚠ **AND `921`–`930` ARE OWED BY `workspace/volume-19/batch-0003-gap/`, — OWED WORK, NOT A HOLE.**

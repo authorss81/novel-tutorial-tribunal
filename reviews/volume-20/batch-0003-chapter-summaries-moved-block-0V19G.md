@@ -1,0 +1,22 @@
+# MOVED WHOLE, NOT ONE WORD CUT
+#
+# This block was moved whole out of `state/chapter-summaries.md` into this file, at the writing of
+# VOLUME 20 BAND 2, CHAPTERS `961`-`970`, because that state file went over the
+# HARD CAP OF 60,000 BYTES when this band's block was appended above it.
+# NOTHING WAS SUMMARISED AND NOTHING WAS CUT.
+# THE BLOCK BELOW IS THE WHOLE OF IT, INCLUDING EVERY NAME, EVERY AGE, EVERY
+# FIGURE AND EVERY FINDING, AND IT IS STILL CANON.
+#
+# BLOCK ID             : 0V19G
+# SOURCE FILE          : state/chapter-summaries.md
+# DESTINATION          : reviews/volume-20/batch-0003-chapter-summaries-moved-block-0V19G.md
+# BLOCK BODY IN SOURCE : 2 LINES AND 830 BYTES,
+#   counted from its own `##` heading line through the line before the next
+#   `##`, as `wc -l` and `stat` count them IN THE STATE FILE BEFORE THE MOVE.
+# THIS FILE WHOLE      : 22 LINES AND 1,990 BYTES.
+# THE DIFFERENCE BETWEEN THOSE TWO FIGURES IS EXACTLY THIS TEN-LINE HEADER,
+#   WHICH THE MOVE PUT ABOVE THE BLOCK AND NOT INSIDE IT.
+# FOOTPRINT            : 0 LINES OF THIS BLOCK'S OWN BODY TEXT IN `state/chapter-summaries.md`,
+#   MEASURED LINE BY LINE AFTER THE MOVE.
+#
+## 0V19G. ⚠⚠ CHAPTER SUMMARIES FOR VOLUME 19 BAND 0005, ⚠⚠⚾ ⚠ **THE COUNT, ⚠ CHAPTERS `941`–`950`, ⚠ THE LAST TEN OF VOLUME 19** — **WHOLE: `reviews/volume-19/batch-0005-chapter-summaries-0V19G.md`**, ⚠⚠⚾ ⚠ **ONE SUMMARY PER CHAPTER, EACH WITH ITS DATE LINE, ITS WATER, WHAT WAS SPENT, WHAT CHANGED AND WHAT THE CHAPTER ENDED ON, ⚠ AND ⚠⚾ **NOT ONE OF THE TEN ENDED ON A FIGURE OF DAYS AND THE LAST ONE ENDED ON A BOY WHO WAS NOT TOLD HE WAS RIGHT.** ⚠ **AND ⚠ ⚠⚾ NO SUMMARY BELOW IS CUT OR PARAPHRASED AND NOTHING WAS SUMMARISED HERE.** ⚠ **AND ⚠ ⚠⚾ CHAPTERS `921`–`930` HAVE **NO** SUMMARIES IN THIS FILE AND THAT IS BECAUSE THEY ARE **NOT ON DISK**, ⚠ AND ⚠⚾ **THE CLOSE MAY NOT INVENT THEM.** ⚠ **NEXT: `workspace/volume-19/close-0006/PROMPT.md`, EXACTLY ONE.** ⚠
