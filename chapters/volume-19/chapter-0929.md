@@ -20,7 +20,7 @@ Then a young man came up from the low side of the ash with his coat open and sto
 
 Ivo Kellow is thirty-four, keeps nothing, holds no stone and no seat and no run and has a day against his own name, and has known since the second day of the hundred and fifty-fourth week that a man on that step has been asking the county for a thing he has got.
 
-“I heard it on the low side, and I have had it since Sunday, and I did not come up on Sunday because I did not think it was mine to come up about. There is a day against my name. That is all. I have not got a book and I have not got a line and there is nobody who would put a day against my name if they were not asked to.”
+“I heard it on the low side, and I have had it since the sixth day of the hundred and fifty-fourth week, and I did not come up on the sixth day of the hundred and fifty-fourth week because I did not think it was mine to come up about. There is a day against my name. That is all. I have not got a book and I have not got a line and there is nobody who would put a day against my name if they were not asked to.”
 
 Nobody on that landing said one word for long enough that the water going over the top of the drain could be heard from the bottom step.
 
@@ -90,12 +90,12 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred 
 
 Barnaby Crowe did not hear any of that, because he was already on the low side with the barrow, and the man with the book came up the cart road at about the eleventh hour and said he was not going to open the book again this week and was not going to give the reason a second time.
 
-Nevin Trask is sixty-one, keeps a book of heads and carts, has the same Saturday twice and one morning before it, has not opened the book in seven days, and has come up a road for the last time this week to say that nothing about any of it has changed.
+Nevin Trask is sixty-one, keeps a book of heads and carts, has the fifth day of the hundred and fifty-third week twice and one morning before it, has not opened the book in seven days, and has come up a road for the last time this week to say that nothing about any of it has changed.
 
-“Seven days. I have not opened it and I am not going to this week, and I am not going to say why again because I said the reason on Saturday and it was the true one and it will not be truer for saying it again.”
+“Seven days. I have not opened it and I am not going to this week, and I am not going to say why again because I said the reason on the fifth day of the hundred and fifty-fourth week and it was the true one and it will not be truer for saying it again.”
 
 “Will anything change.”
 
-“Yes. Someday one of those mornings will come out of my head different from the way it went in, and when it does I will not know whether it changed or whether I changed, and there is nobody in this county who can tell me.” He put the book away. “And I have worked out that this week has not made anybody better off. A baker and the man at his bench told a step the same Saturday and it is still the same Saturday and nobody can do anything with it, and a man at that bench gave a morning up on a Sunday for nothing and says he would give it again. That is the week.”
+“Yes. Someday one of those mornings will come out of my head different from the way it went in, and when it does I will not know whether it changed or whether I changed, and there is nobody in this county who can tell me.” He put the book away. “And I have worked out that this week has not made anybody better off. A baker and the man at his bench told a step the same morning and it is still the same morning and nobody can do anything with it, and a man at that bench gave a morning up for nothing and says he would give it again. That is the week.”
 
 Nobody on that landing told the man with the book he was right and nobody told him he was wrong, and sixteen inches lay on the top step with one day of it to run and about sixty of those ninety steps under, and a week went out of itself at midnight without one thing on it having been settled.

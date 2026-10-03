@@ -34,7 +34,7 @@ Barnaby Crowe came up off the low side at that and put his barrow down and said 
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for two hundred and three mornings, which is nine hundred and twenty-four less seven hundred and twenty-two, and then one.
 
-“Two hundred and third. And I have got the answer to that man’s thing and I have been carrying it since Tuesday.”
+“Two hundred and third. And I have got the answer to that man’s thing and I have been carrying it since the first day of the hundred and fifty-fourth week.”
 
 “Go on.”
 
@@ -52,11 +52,11 @@ Wat Marshe is thirteen, has been in this county two hundred and seventy-one days
 
 “That is not a compliment to a yard.”
 
-“No. It is a compliment to a yard and I am the one saying it and I am thirteen and I have been holding a thing for a fortnight that nobody will ask me about, and I went and stood in a yard on Saturday on purpose to see whether it was better in there, and it is not better in there, it is only quieter.”
+“No. It is a compliment to a yard and I am the one saying it and I am thirteen and I have been holding a thing for a fortnight that nobody will ask me about, and I went and stood in a yard on the fifth day of the hundred and fifty-third week on purpose to see whether it was better in there, and it is not better in there, it is only quieter.”
 
 “That is a different complaint.”
 
-“It is the same complaint and I know it is and I did not think of a better word on Saturday.” He put his hands in his pockets. “A quiet place is not the same as a place where nobody is going to come. Somebody has to come, once. That is all I have ever wanted and it has nothing to do with being in a yard or not being in one.”
+“It is the same complaint and I know it is and I did not think of a better word on the fifth day of the hundred and fifty-third week.” He put his hands in his pockets. “A quiet place is not the same as a place where nobody is going to come. Somebody has to come, once. That is all I have ever wanted and it has nothing to do with being in a yard or not being in one.”
 
 Nobody on that step told the boy he had it right and nobody told him he had it wrong, and a woman said *he is asking for the same thing you are asking for and he has been asking for it longer*, and nobody took that up.
 

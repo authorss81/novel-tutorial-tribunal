@@ -12,7 +12,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 “Before I put the broom down I want to say the thing that goes with one day, and then I am going to stop. It comes off tomorrow. Not at night. Off. And after it comes off there is nothing on that stone for the morning, and I have said that before on this bank and I am not going to stand here tomorrow with my mouth shut while people work out that I hid it.”
 
-“You could have said that on Friday.”
+“You could have said that on the fourth day of the hundred and fifty-third week.”
 
 “I could have and I did not, and the reason I did not is that I do not trust myself to be right about tomorrow, and the reason I am saying it today is that I have found out I am right about tomorrow on four separate occasions in nineteen years and there is no reason at all for there not to be a fifth.”
 
@@ -44,7 +44,7 @@ Nevin Trask is sixty-one, keeps a book of heads and carts that he has kept for l
 
 “Did you tell him why.”
 
-“I told him I was going to open the wall on the Sunday. That is all the reason there has ever been and there is not going to be another one in front of anybody.”
+“I told him I was going to open the wall on the sixth day of the hundred and fifty-third week. That is all the reason there has ever been and there is not going to be another one in front of anybody.”
 
 Trask took the book out from under his arm and did not open it, and stood holding it the way a man holds a thing he has decided something about.
 
@@ -60,7 +60,7 @@ Trask took the book out from under his arm and did not open it, and stood holdin
 
 “So it goes in your head.”
 
-“It goes in my head.” He shut the book again. “I am sixty-one. I have had it in my head since yesterday afternoon. It is not going to be in my head next Thursday and there is nobody in this county I could give it to without giving them the wrong shape of it, and I am not going to ask you for it a second time to see whether you say it differently.”
+“It goes in my head.” He shut the book again. “I am sixty-one. I have had it in my head since yesterday afternoon. It is not going to be in my head on the third day of the hundred and fifty-fourth week and there is nobody in this county I could give it to without giving them the wrong shape of it, and I am not going to ask you for it a second time to see whether you say it differently.”
 
 “That would be twice.”
 
@@ -116,4 +116,4 @@ Wat Marshe is thirteen, has been in this county two hundred and sixty-eight days
 
 “No. I said it because it was true and because there is a man stood on this step with a book under his arm who has just put one thing in his head and kept it there, and I wanted him to know that I know what the other version of that feels like.”
 
-Nobody on that step told the boy he had it right and nobody told him he had it wrong, and Nevin Trask put his hand flat on the book and said *that is fair* and nothing else, and the baker went down the cart road on the temporary fire he had built in a corner of his own bakehouse, and sixteen inches stood on the top step with one day of it to run and about sixty of those ninety steps under, and a man with a book walked up the road with a Saturday in his head and nowhere to put it.
+Nobody on that step told the boy he had it right and nobody told him he had it wrong, and Nevin Trask put his hand flat on the book and said *that is fair* and nothing else, and the baker went down the cart road on the temporary fire he had built in a corner of his own bakehouse, and sixteen inches stood on the top step with one day of it to run and about sixty of those ninety steps under, and a man with a book walked up the road with the fifth day of the hundred and fifty-third week in his head and nowhere to put it.

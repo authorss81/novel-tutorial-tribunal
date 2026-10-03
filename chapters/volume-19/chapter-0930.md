@@ -4,11 +4,11 @@ First day of the hundred and fifty-fifth week. His six hundred and eightieth mor
 
 ---
 
-The water came off that bank at about the sixth hour and all ninety of those steps were walkable by about the seventh, and that was the thirty-third time. There is no figure of inches on this morning and there is no figure of steps under, and there is no figure of days of the coming back either, and that is not a gap in the morning. It is the shape of the morning, and it is also the first morning of a week, and it was a Tuesday.
+The water came off that bank at about the sixth hour and all ninety of those steps were walkable by about the seventh, and that was the thirty-third time. There is no figure of inches on this morning and there is no figure of steps under, and there is no figure of days of the coming back either, and that is not a gap in the morning. It is the shape of the morning.
 
 Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth thing, and has said the three missing ones out loud on every off-morning since the first of them and is not going to stop on the thirty-third.
 
-“Not one figure this morning. The water is off the top of that drain and there is nothing standing in it, and I am telling you that plainly, because a man who is honest at the fifth hour looks like a man who has come out early with nothing in his hands.”
+“Not one figure this morning, and I am going to name the three that are not here, so that nobody goes down that road certain one was said and one was dropped. Inches, I have none, the drain is off the top and there is nothing standing in it. Steps under, I have none, and the answer is all ninety, and there is no figure of a thing that is the whole of itself. Days of the coming back, none, and I am not going to make one up to be even with the morning. A man who is honest at the fifth hour looks like a man who has come out early with nothing in his hands.”
 
 “You could put a mark up anyway.”
 
@@ -28,7 +28,7 @@ Wat Marshe is thirteen, has been in this county two hundred and seventy-seven da
 
 “Say it.”
 
-“There is not one person in this county who could not have stood on this step this morning and asked me one thing out loud and walked away, and not one of them did, and that is because it is the only morning of the week anybody can.” He looked along at the man with the gravel. “I worked out on Friday that I did not want to be asked because I did not want it to be a thing somebody did to satisfy something. And the honest version of that is that on a morning like this I would have taken it from anybody who offered, and I did not want to find that out about myself today.”
+“There is not one person in this county who could not have stood on this step this morning and asked me one thing and walked away, and not one of them did, because it is the only morning of the week anybody can.” He looked at the man with the gravel. “I worked out on the fourth day of the hundred and fifty-fourth week that I did not want to be asked because I did not want it to be a thing somebody did to satisfy something. And the honest version is that on a morning like this I would have taken it from anybody who offered, and I did not want to find that out about myself today.”
 
 “So what do you want instead.”
 
@@ -64,11 +64,11 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years in a room 
 
 “That is thinner than last week.”
 
-“It is a Monday and there is no water on a step and everybody in this county is on a road, and I am not going to write a thin line and then go back over it on Thursday and fatten it up because it looked bad next to the week before.” She closed the book. “The arrangement is four hundred miles off and it is still answering. It did not answer this week and it has not answered for a long time, and nobody in this county is in the room where it answers, and nobody was asked to go and I did not ask anybody to go.”
+“It is a Tuesday and there is no water on a step and everybody in this county is on a road, and I am not going to write a thin line and then go back over it on the third day of the hundred and fifty-fifth week and fatten it up because it looked bad next to the week before.” She closed the book. “The arrangement is four hundred miles off and it is still answering. It did not answer this week and it has not answered for a long time, and nobody in this county is in the room where it answers, and nobody was asked to go and I did not ask anybody to go.”
 
 Nobody on that landing thanked her for the morning and nobody asked her whether her lines were right, and she shouldered the book and went up the cart road with it.
 
-Then Ilyan Vester came up the bank and said his figure, and said that a man who has kept a thing in his mouth for two hundred and thirty days with no answer coming back ought to be given something else to put in it, and was told by a woman with wet sleeves to take his own mouth back.
+Then Ilyan Vester came up the bank and said his figure, and said that a man who has kept one thing in his mouth every morning with no answer coming back ought to be given something else to put in it, and was told by a woman with wet sleeves to take his own mouth back.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county three hundred and seventy-six days. The cut across that palm is two hundred and forty-five days old.
 

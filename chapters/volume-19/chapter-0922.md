@@ -54,7 +54,7 @@ Nevin Trask is sixty-one, keeps a book of heads and carts, asked a baker about t
 
 “There is one man who could tell you about it.”
 
-“There is one man who has not been asked about it and is not going to be asked about it, and those are different, and if he were asked he would say something true and it would be about his hands and his wall and not about what happened in that room on Saturday, and it would be the third account and it would not be a check on the other two either. It would be a third man talking.”
+“There is one man who has not been asked about it and is not going to be asked about it, and those are different, and if he were asked he would say something true and it would be about his hands and his wall and not about what happened in that room on the fifth day of the hundred and fifty-third week, and it would be the third account and it would not be a check on the other two either. It would be a third man talking.”
 
 “Then what is the good of it.”
 

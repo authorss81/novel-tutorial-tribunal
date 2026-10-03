@@ -4,7 +4,7 @@ First day of the hundred and fifty-fourth week. His six hundred and seventy-thir
 
 ---
 
-Four inches on the top step at about the seventh hour, seven days of the coming back, and about ninety of those ninety steps under. The man of forty-three gave those three figures and gave no fourth thing, and he said that about ninety out of ninety is the whole of what he has, and that a bank four inches on a step is not going to be a different figure by Friday whatever anybody wants off it.
+Four inches on the top step at about the seventh hour, seven days of the coming back, and about ninety of those ninety steps under. The man of forty-three gave those three figures and gave no fourth thing, and he said that about ninety out of ninety is the whole of what he has, and that a bank four inches on a step is not going to be a different figure by the fourth day of the hundred and fifty-fourth week whatever anybody wants off it.
 
 Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and has been asked twice this week what his three figures are for.
 
@@ -56,7 +56,7 @@ The man who sets Pol Dunnage’s bread has set that bread for nine years and was
 
 Then Nevin Trask said that the thing was in two places now and that one of the two places was him, and that he was going to have to say what he was going to do about it, and he said it on the step, and it was not a decision and he said so first.
 
-Nevin Trask is sixty-one, keeps a book of heads and carts, has the same Saturday twice in his head and none of it in the book, and has just been handed a morning before it by a man who was not asked for it.
+Nevin Trask is sixty-one, keeps a book of heads and carts, has the fifth day of the hundred and fifty-third week twice in his head and none of it in the book, and has just been handed a morning before it by a man who was not asked for it.
 
 “I have got a baker’s Saturday and I have got the day before it and they do not fit each other and I am not going to make them. That is the whole of what I have got and it is worth more than what I had yesterday, which was two of the same thing, and I am aware that that is a strange sentence.”
 
@@ -70,7 +70,7 @@ Wat Marshe is thirteen, has been in this county two hundred and seventy days, an
 
 “Why not.”
 
-“Because if I came up with it then either somebody asked me about it or nobody asked me about it. If somebody asked me about it then I would be answering a question, and the whole point of it is that nobody asks. And if nobody asked me about it then I would just be a boy saying a thing on a step to see what happens, and I worked out on Wednesday that I do not want to find out what happens.”
+“Because if I came up with it then either somebody asked me about it or nobody asked me about it. If somebody asked me about it then I would be answering a question, and the whole point of it is that nobody asks. And if nobody asked me about it then I would just be a boy saying a thing on a step to see what happens, and I worked out on the second day of the hundred and fifty-third week that I do not want to find out what happens.”
 
 “That is a very grown thing to have worked out on a Tuesday.”
 

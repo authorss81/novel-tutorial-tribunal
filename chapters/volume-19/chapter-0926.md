@@ -36,7 +36,7 @@ Nobody on that step answered him for long enough that the water going over the t
 
 “Then it is worth something.”
 
-“It is worth exactly what a man’s word is worth and not one penny more.” He looked down at the boy and then up at the step. “What would set those two accounts against the Saturday itself is the Saturday itself, and the Saturday itself is a room with an oven in it and a wall on the other side, and there is nobody in this county who can be asked what was in that room, and there is nobody who could be asked again either, because they were asked once and there was nothing wrong with it.”
+“It is worth exactly what a man’s word is worth and not one penny more.” He looked down at the boy and then up at the step. “What would set those two accounts against the morning itself is the morning itself, and that morning is a room with an oven in it and a wall on the other side, and there is nobody in this county who can be asked what was in that room, and there is nobody who could be asked again either, because they were asked once and there was nothing wrong with it.”
 
 “You are telling me there is no third person.”
 
@@ -48,7 +48,7 @@ Nobody on that step answered him for long enough that the water going over the t
 
 Nobody on that landing told him he was right and nobody told him he was wrong, and a woman coming down said *that is the first time anybody has put a gate and a mouth out of the way separately*, and the man who holds the landing said *they were never in the same place and that is the whole of it*.
 
-Then the man of thirty-eight said the other half of it, which he had not come up the road to say, and said that he had worked out on Friday what his real reason had been and it was not checking, and he was not going to describe it, and then he said the thing about his coat that he has been carrying for a fortnight.
+Then the man of thirty-eight said the other half of it, which he had not come up the road to say, and said that he had worked out on the fourth day of the hundred and fifty-fourth week what his real reason had been and it was not checking, and he was not going to describe it, and then he said the thing about his coat that he has been carrying for a fortnight.
 
 “I am going to tell you why I am going up that road, and I am not going to, and I want the not-going-to said on this step so that nobody spends the week working it out.”
 
@@ -64,7 +64,7 @@ Barnaby Crowe came up off the low side at that and said his figure and said he h
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for two hundred and five mornings, which is nine hundred and twenty-six less seven hundred and twenty-two, and then one.
 
-“Two hundred and fifth. And I did not ask anybody, and I am not going to say I have a reason for it, because I gave a reason on Tuesday and it turned out to be about me and not about the step.”
+“Two hundred and fifth. And I did not ask anybody, and I am not going to say I have a reason for it, because I gave a reason on the first day of the hundred and fifty-fourth week and it turned out to be about me and not about the step.”
 
 “That is a first,” said Nevin Trask from the low wall.
 

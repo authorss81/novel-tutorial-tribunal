@@ -18,7 +18,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 Then the man with the book came up the cart road at about the eighth hour with the book in his coat instead of under his arm, and said that he had not opened it in six days, and that he had been carrying it round the house at night looking at it, and had worked out why.
 
-Nevin Trask is sixty-one, keeps a book of heads and carts, has the same Saturday twice in his head and one morning before it, and has not opened the book since the seventh and last day of the hundred and fifty-third week.
+Nevin Trask is sixty-one, keeps a book of heads and carts, has the fifth day of the hundred and fifty-third week twice in his head and one morning before it, and has not opened the book since the seventh and last day of the hundred and fifty-third week.
 
 “Five days. I have not opened it. I have taken it out of the press twice and looked at the two lines that are in it for that week and shut it again, and both times I did it to see whether I wanted to write something.”
 
@@ -28,7 +28,7 @@ Nevin Trask is sixty-one, keeps a book of heads and carts, has the same Saturday
 
 “So it goes nowhere.”
 
-“It goes in here and it will be in here when I am not able to hold it, and by then it will be a baker’s Saturday with something added to it and I will not be able to tell what.” He put it back. “And there is a worse one and I will say it because you would all get at it by Friday. If I write it down then it is a thing a man can come back to, and a thing a man can come back to is a reason to come back to.”
+“It goes in here and it will be in here when I am not able to hold it, and by then it will be a baker’s Saturday with something added to it and I will not be able to tell what.” He put it back. “And there is a worse one and I will say it because you would all get at it inside a week. If I write it down then it is a thing a man can come back to, and a thing a man can come back to is a reason to come back to.”
 
 “And I have wanted to go and stand in his yard, and that is not the same as wanting to ask, and if I go and stand in his yard then in a month I will have asked. I know that about myself and I did not know it a fortnight ago.”
 
@@ -44,9 +44,9 @@ Wat Marshe is thirteen, has been in this county two hundred and seventy-four day
 
 “Then ask somebody.”
 
-“No. Because then it is a thing I did to make a story, and it would be a story, and I have not got a story. I have got a thing I did in the dark and nobody has asked me and that is the whole of what I have got, and I would rather have that than have a story.” He put his hands in his pockets. “And I am not saying that to anybody in a week’s time. I am saying it now because I have worked out that a rule nobody hears is not a rule, and I have had this one since Wednesday and I have not said it out loud in one place yet.”
+“No. Because then it is a thing I did to make a story, and it would be a story, and I have not got a story. I have got a thing I did in the dark and nobody has asked me, and that is the whole of it, and I would rather have that than have a story.” He put his hands in his pockets. “And I am not saying that to anybody in a week’s time. I am saying it now because a rule nobody hears is not a rule, and I have had this one since the second day of the hundred and fifty-fourth week and I have not said it out loud in one place.”
 
-Barnaby Crowe came up off the low side and said his figure and said that a man of thirty-eight had told a whole step a thing on Friday and had said he was stopping, and would not say when, and that he had not asked him a single question about it, and that the not-asking was going to be the hardest week of his life.
+Barnaby Crowe came up off the low side and said his figure and said that a man of thirty-eight had told a whole step a thing on the fourth day of the hundred and fifty-fourth week and had said he was stopping, and would not say when, and that he had not asked him a single question about it, and that the not-asking was going to be the hardest week of his life.
 
 Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He has asked for a day against the ninth line for two hundred and six mornings, which is nine hundred and twenty-seven less seven hundred and twenty-two, and then one.
 
