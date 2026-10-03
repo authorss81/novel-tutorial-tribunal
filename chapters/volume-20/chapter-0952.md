@@ -1,4 +1,4 @@
-# Chapter 952: Sixteen Inches And About Sixty Of Those Ninety Steps Under, And A Woman Has Come Half A Mile Up From A Wash-Tub To Say She Is Not Going To Be Asked Whether She Took It
+# Chapter 952: Sixteen Inches And About Sixty Of Those Ninety Steps Under, And A Woman Has Come Half A Mile Up To Say She Is Not Going To Be Asked Whether She Took It
 
 Second day of the hundred and fifty-eighth week. His seven hundred and second morning. Five hundred and fifty-two days after the settlement. The fever ninety-five weeks and four days old. Five hundred and six days since the division. Four hundred and fifty-two days since a page was read out in a room with the door shut, in a town in another county, and three hundred and ninety-eight days in this county of Kell.
 
@@ -14,7 +14,7 @@ Bess Farrar is forty-five, washes at a tub at the low side of that landing about
 
 “You could have come down the lane.”
 
-“I could have come down the lane and about nine people who pass that way before light would have had a thing to talk about by the time I was back up here, and I do not need nine people to carry it and I am not going to say how many people it would be.”
+“I could have come down the lane and the people who pass that way before light would have had a thing to talk about by the time I was back up here, and I do not need nine people to carry it and I am not going to say how many people it would be.”
 
 She wiped her hands on the mat and left them there.
 

@@ -1,4 +1,4 @@
-# Chapter 958: First Day Of The Hundred And Fifty-Ninth Week, And A Man Described One Thing On That Landing In The Same Words He Has Used Every Morning And Would Not Change A Word Of It, And A Man With A Broom Told Him To Stop And Then Let Him Go On Carrying It
+# Chapter 958: First Day Of The Hundred And Fifty-Ninth Week, And A Man Described One Thing In The Same Words He Uses Every Morning, And A Man With A Broom Told Him To Stop, Then Let Him Go On
 
 First day of the hundred and fifty-ninth week. His seven hundred and eighth morning. Five hundred and fifty-eight days after the settlement. The fever ninety-six weeks and three days old. Five hundred and twelve days since the division. Four hundred and fifty-eight days since a page was read out in a room with the door shut, in a town in another county, and four hundred and four days in this county of Kell.
 
@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He set the broom down rather than lean it.
 
-“And before about nine of you spend the morning on that: a full bank is four days. It is not a good morning. It is not a day of reckoning. It is not the day anything gets decided on. It is the day the water has been in the same place for as long as it is going to be in the same place, and the only thing anybody can do with it is wait for it, and I have been waiting for it for nineteen years and I have never once got anything out of the waiting.”
+“And before the rest of you spend the morning on that: a full bank is four days. It is not a good morning. It is not a day of reckoning. It is not the day anything gets decided on. It is the day the water has been in the same place for as long as it is going to be in the same place, and the only thing anybody can do with it is wait for it, and I have been waiting for it for nineteen years and I have never once got anything out of the waiting.”
 
 Nobody asked him for a fifth thing.
 
@@ -34,7 +34,7 @@ He put his hands in front of him and looked at them.
 
 Corvin Tace stood at the top of the steps with the broom in his hand and did not say anything for long enough that two people looked at him.
 
-“That is the cleverest thing anybody has said on this step since he came to it and I have no answer to it and I am not going to have one in front of about nine people.”
+“That is the cleverest thing anybody has said on this step since he came to it and I have no answer to it and I am not going to have one in front of the whole lot of you.”
 
 “You do not have to have one.”
 
@@ -72,7 +72,7 @@ He said the last of it while he was still coming up the steps, which was new.
 
 Nobody said anything about it.
 
-“I am not going to think about it between now and Thursday. I have got a whole figure coming and it will be here on Thursday morning whatever I do with Wednesday and Thursday, and there is not one thing in this county I can do with it, and I have watched about nine men this week get handed a figure and go off and make a meaning out of it, and I am not one of them, and I am saying so now while it is still cheap to say so.”
+“I am not going to think about it between now and Thursday. I have got a whole figure coming and it will be here on Thursday morning whatever I do with Wednesday and Thursday, and there is not one thing in this county I can do with it, and I have watched men get handed a figure this week and go off and make a meaning out of it, and I am not one of them, and I am saying so now while it is still cheap to say so.”
 
 He stopped at the top of the steps.
 
@@ -84,7 +84,7 @@ Corvin Tace looked at him. “The four days are yours and they are water.”
 
 Nobody thanked him for that either.
 
-The water stood at sixteen inches on the top step and held there, and the man of forty-three made sure of it himself at about the tenth hour by going up and standing beside it and not in it, and about sixty of those ninety steps were under,
+The water stood at sixteen inches on the top step and held there, and the man of forty-three made sure of it himself at about the tenth hour by going up and standing beside it and not in it, and about sixty of those ninety steps were under.
 
 And the water would be four days off that bank, and then there would be a morning with nothing at all on the stone.
 

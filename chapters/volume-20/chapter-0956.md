@@ -1,4 +1,4 @@
-# Chapter 956: Eight Inches On The Top Step At About The Seventh Hour And About Eighty Of Those Ninety Steps Under And Six Days Of The Coming Back, And A Man Said The Whole Of One Thing Out Loud On Purpose Because He Has Not Said It Before
+# Chapter 956: Eight Inches On The Top Step At About The Seventh Hour, About Eighty Of Those Ninety Steps Under, Six Days Of The Coming Back, And A Man Said One Whole Thing Out Loud On Purpose
 
 Sixth day of the hundred and fifty-eighth week. His seven hundred and sixth morning. Five hundred and fifty-six days after the settlement. The fever ninety-six weeks and one day old. Five hundred and ten days since the division. Four hundred and fifty-six days since a page was read out in a room with the door shut, in a town in another county, and four hundred and two days in this county of Kell.
 

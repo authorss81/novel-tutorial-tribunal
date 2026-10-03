@@ -1,10 +1,10 @@
-# Chapter 960: Sixteen Inches On The Top Step And It Holds, And About Sixty Of Those Ninety Steps Under, And Two Days Of The Coming Back, And A Man Who Holds That Landing Walked Down It And Put His Weight On Every One Of Them And Came Back Up And Gave A Figure That Is About The Steps And Not About Anything Else
+# Chapter 960: Sixteen Inches And It Holds, Two Days Of The Coming Back, And A Man Walked Down Ninety Of Those Steps And Gave A Figure That Is About Steps And Not About Anything Else
 
 Third day of the hundred and fifty-ninth week. His seven hundred and tenth morning. Five hundred and sixty days after the settlement. The fever ninety-six weeks and five days old. Five hundred and fourteen days since the division. Four hundred and sixty days since a page was read out in a room with the door shut, in a town in another county, and four hundred and six days in this county of Kell.
 
 Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures, and then went down his own bank at about the eighth hour with nothing in his hands, and came back up it, and gave a fourth figure, and would not let anybody make anything of it.
 
-Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and gave a fourth figure at about the ninth hour on the third morning of the hundred and fifty-ninth week, and stood there while about nine people tried to make it into a verdict.
+Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and gave a fourth figure at about the ninth hour on the third morning of the hundred and fifty-ninth week, and stood there while everybody who had come up tried to make it into a verdict.
 
 “Sixteen at the seventh hour and it holds, two days of the coming back, and about sixty of those ninety steps under, on the third day of the hundred and fifty-ninth week. Three figures.”
 
@@ -30,25 +30,23 @@ Nobody asked him to be one.
 
 “That is a figure of the landing.”
 
-“It is a figure of the landing and I am aware of that and I am not going to argue with you about it in front of about nine people on a Thursday.” He picked the broom up. “And I will tell you what it is not, and then I am finished. It is not how many things are on this landing. I have not counted that and neither is going to.”
+“It is a figure of the landing and I am aware of that and I am not going to argue with you about it in front of this lot on a Thursday.” He picked the broom up. “And I will tell you what it is not, and then I am finished. It is not how many things are on this landing. I have not counted that and neither is going to.”
 
 “There is a thing in the fortieth step and there is a chair about a yard from where I work, and nobody put that down either. And if you want to know how many things are on this landing then you are asking the wrong man. I have been asking myself all week and I have not come up with a figure, and I am not going to, and I would rather it stayed not come up with.”
 
-Nobody on that landing tried to work it out out loud, and about nine of them tried to work it out and got nothing.
+Nobody on that landing tried to work it out out loud, and everybody who tried it got nothing.
 
-Then the man of thirty-one came up and gave his four figures and a hundred of something, and about nine people got ready to say something helpful to him, and he took it off them.
+Then the man of thirty-one came up and gave his four figures and a hundred of something, and half of that landing got ready to say something helpful to him, and he took it off them.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and six days. The cut across that palm is two hundred and seventy-five days old.
 
 “Four hundred and six days in this county, and the cut across that palm is two hundred and seventy-five days old, and the standing offer asked at the seven-hundred-and-tenth is two hundred and sixty days old, which is nine hundred and sixty less seven hundred, and it is unanswered, and I have not asked it, and nobody has asked it, and nobody has offered me a way out of it.”
 
-He stood at the top of the steps with his hands behind his back, which is what he has done every morning of this business,
-
-And he gave the last figure standing up.
+He stood at the top of the steps with his hands behind his back, the way he had done every morning of this business, and gave the last figure standing up.
 
 “A hundred wrong things in a hundred mornings.”
 
-The landing was very quiet and about nine people on it took a breath in a way that a landing does not usually take a breath.
+The landing was very quiet and the front of it took a breath in a way that a landing does not usually take a breath.
 
 “I have got it out. I have had it out since Monday and I have been refusing it, and this morning I have decided to have it out, and here it is, and it is a whole figure and I have said it, and I am now going to stand here and find out what happens.” He looked round at the step. “And nothing is going to happen. That is what has happened. Nobody has told me it is a lot. Nobody has told me it is nothing. Nobody has told me it is a hundred mornings of the county’s business and nobody has told me it is a hundred mornings of mine.”
 
@@ -82,8 +80,8 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the
 
 Nobody asked her.
 
-Corvin Tace swept the top step from the high end to the low end and went round the chair and went round the fortieth step, and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and nothing that had been put down anywhere was pulled, turned over, weighed in the hand, read aloud, carried inside, put back where it was, or used.
+Corvin Tace swept the top step from the high end to the low end and went round the chair and went round the fortieth step, and set the broom against the wall where it has been every morning for nineteen years, and did not sit on the chair, and did not touch the thing in the seam of the fortieth step, and whatever other hands had carried up that week was still standing where those hands had put it, in the same dust, at the same angle, with nobody's prints added to it since.
 
 Nobody on that landing was thanked for anything and nobody was relieved and nobody was told they had been right about anything. That week there was a thing on a doorstep up the cart road, and a thing on a stone by a tub down the low side, and a thing on a handrail up the high side, and a thing on a trough past the gravel, and a thing on a window sill where a man who cannot come down a bank works, and a chair on that landing where a man has swept for nineteen years, and a thing in the seam of the fortieth step that has stopped it rocking.
 
-Not one of them was pulled, or turned over, or weighed in the hand, or read aloud, or carried inside, or put back where it was, or used, and not one of them had a giver in it. The man of thirty-one gave his figure out loud and would not be helped with it, and went down the bank on foot with his hands behind his back. Sixteen inches and two days of the coming back were on that landing that morning and no mouth on it said who had put the last one down, and did not say it either.
+Not one of them was pulled, or turned over, or weighed in the hand, or read aloud, or carried inside, or put back where it was, or used, and not one of them had a giver in it. The man of thirty-one gave his figure out loud and would not be helped with it, and went down the bank on foot with his hands behind his back. Sixteen inches and two days of the coming back were on that landing that morning, and no mouth on it said who had put the last one down, and no mouth on that landing was ever going to.

@@ -1,4 +1,4 @@
-# Chapter 955: Four Inches On The Top Step At About The Seventh Hour And About Ninety Of Those Ninety Steps Under And Seven Days Of The Coming Back, And The Fever Is Ninety-Six Weeks Old And It Is A Whole Figure And A Man Who Cannot Read Says So Out Loud Before Anybody Works It Out For Him
+# Chapter 955: Four Inches On The Top Step At About The Seventh Hour, About Ninety Of Those Ninety Steps Under, Seven Days Of The Coming Back, And A Man Who Cannot Read Says So Out Loud
 
 Fifth day of the hundred and fifty-eighth week. His seven hundred and fifth morning. Five hundred and fifty-five days after the settlement. The fever ninety-six weeks old. Five hundred and nine days since the division. Four hundred and fifty-five days since a page was read out in a room with the door shut, in a town in another county, and four hundred and one days in this county of Kell.
 
@@ -6,7 +6,7 @@ Four inches on the top step at about the seventh hour, about ninety of those nin
 
 Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and said this week that about ninety out of ninety is the whole of what he has.
 
-“Four at the seventh hour, seven days of the coming back, and about ninety of those ninety steps under, on the fifth day of the hundred and fifty-eighth week, and it is a Saturday. Three figures. A bank four inches on a step is not a different kind of thing than a bank eight inches on it, and about nine men in this county have found that out at some cost.”
+“Four at the seventh hour, seven days of the coming back, and about ninety of those ninety steps under, on the fifth day of the hundred and fifty-eighth week, and it is a Saturday. Three figures. A bank four inches on a step is not a different kind of thing than a bank eight inches on it, and the men in this county who have found that out have all found it out at some cost.”
 
 The man of fifty-four had been sitting on the wall since before the light and he stood up when that was finished, and he stood up wrong, too fast, the way a man stands up when he has been sitting on something for an hour and has been holding a thought the whole time.
 
@@ -38,11 +38,11 @@ Elgar Slee is sixty-one, cannot come down a bank, works at the front window of h
 
 “Tell it to the step, and tell it where your sill is, because nobody on this landing has got you on a map.”
 
-“About half a mile down the low side, past where that drain turns, and up the second rise. That is the whole of the directions and I have given them to about nine people on the way down here and I am not going to give them again.”
+“About half a mile down the low side, past where that drain turns, and up the second rise. That is the whole of the directions and I have given them to everybody I passed on the way down here and I am not going to give them again.”
 
 “Tell it to the step.”
 
-“I have told it to about nine people on the way down here and I am going to tell it to this step and then I am going home, and I have not touched it and I have not put anything on it and I have not taken anything off it, and it is not going into my house.” He did not take his hands off the wall.
+“I have told it to every person I passed on the way down here and I am going to tell it to this step and then I am going home, and I have not touched it and I have not put anything on it and I have not taken anything off it, and it is not going into my house.” He did not take his hands off the wall.
 
 “I cannot come down a bank. I have said that out loud on this landing before and I have been told not to say it, so I am going to say it as part of this. I work at that window with my hands. And there is a thing on the sill I did not put there, and I am not going to ask the woman who lives in the next house whether she put it there, because I have not, I am not going to, and I would like it noticed that the woman who lives in the next house has not been asked anything by anybody about any of this.”
 
@@ -60,7 +60,7 @@ The boy came up out of the lane while the man of sixty-one was still at the wall
 
 Wat Marshe is thirteen, has been in this county three hundred and two days, and counted the figure in the lane before the light came up. Three hundred and two is nine hundred and fifty-five less six hundred and fifty-three.
 
-“Three hundred and two days, and it is one more than the morning before, and I counted it in the lane before the light came up. And I have worked out that the step with the chip in the corner has got about nine of you standing near it this week and nobody has put anything near it, and I want it said out loud that I have noticed that, and I am not asking anybody to tell me I got it right, and if anybody tells me I got it right I am going down into the lane and staying there until you have all stopped.”
+“Three hundred and two days, and it is one more than the morning before, and I counted it in the lane before the light came up. And I have worked out that the step with the chip in the corner has got a knot of you standing near it this week and nobody has put anything near it, and I want it said out loud that I have noticed that, and I am not asking anybody to tell me I got it right, and if anybody tells me I got it right I am going down into the lane and staying there until you have all stopped.”
 
 Nobody told him he had it right. Nobody told him he had it wrong, either.
 

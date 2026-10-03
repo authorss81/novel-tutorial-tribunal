@@ -1,4 +1,4 @@
-# Chapter 957: Twelve Inches On The Top Step At About The Seventh Hour And About Seventy Of Those Ninety Steps Under And Five Days Of The Coming Back, And A Man Of Fifty-Four Asked Again At The Same Hour In The Same Words And Was Refused In The Same Way, And It Is The Last Day Of The Hundred And Fifty-Eighth Week
+# Chapter 957: Twelve Inches, About Seventy Of Those Ninety Steps Under, Five Days Of The Coming Back, And A Man Of Fifty-Four Asked Again In The Same Words And Was Refused In The Same Way
 
 Seventh and last day of the hundred and fifty-eighth week. His seven hundred and seventh morning. Five hundred and fifty-seven days after the settlement. The fever ninety-six weeks and two days old. Five hundred and eleven days since the division. Four hundred and fifty-seven days since a page was read out in a room with the door shut, in a town in another county, and four hundred and three days in this county of Kell.
 
@@ -64,7 +64,7 @@ Barnaby Crove did not turn round.
 
 “You have not heard it.”
 
-“I have heard all of it and there is nothing in it.” He lifted the barrow handle and got it onto his shoulder without hurrying. “You have been in this county four hundred and three days and I have been on this landing nineteen years and I have heard a man make this offer before. He did it with a chair and I did it, and there have been about nine of us carrying it ever since, and what it turned into was two men who both wanted something, standing in the same place, and me with my hand on a barrow, and nobody able to say afterwards which of us had been the reason the other was there.”
+“I have heard all of it and there is nothing in it.” He lifted the barrow handle and got it onto his shoulder without hurrying. “You have been in this county four hundred and three days and I have been on this landing nineteen years and I have heard a man make this offer before. He did it with a chair and I did it, and there have been a run of us carrying it ever since, and what it turned into was two men who both wanted something, standing in the same place, and me with my hand on a barrow, and nobody able to say afterwards which of us had been the reason the other was there.”
 
 He got the barrow up onto his shoulder.
 

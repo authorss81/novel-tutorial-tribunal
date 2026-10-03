@@ -1,4 +1,4 @@
-# Chapter 954: The Water Came Off That Bank At About The Sixth Hour And All Ninety Of Those Steps Were Walkable By About The Seventh, And That Was The Thirty-Sixth Time, And A Man Said Out Loud That There Is No Figure Of Inches On This Morning
+# Chapter 954: The Water Came Off That Bank At About The Sixth Hour And All Ninety Of Those Steps Were Walkable By About The Seventh, And A Man Said Out Loud That There Is No Figure Of Inches
 
 Fourth day of the hundred and fifty-eighth week. His seven hundred and fourth morning. Five hundred and fifty-four days after the settlement. The fever ninety-five weeks and six days old. Five hundred and eight days since the division. Four hundred and fifty-four days since a page was read out in a room with the door shut, in a town in another county, and four hundred days in this county of Kell.
 
@@ -6,7 +6,7 @@ The water came off that bank at about the sixth hour and all ninety of those ste
 
 Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and this morning said the absence out loud and then went and swept eighty-nine steps instead of one.
 
-“There is no figure of inches. Not one, and I am not going to round it and I am not going to hedge it and I am not going to give you a feeling of it instead, because a feeling of it is still a figure and I have watched about nine men put those on this step in a fortnight and call them something else. No number of steps under either. And no number of days, and there is not one to give you, because when all ninety are out there is no coming back to count out from. That is the shape of it. That is the thirty-sixth time.”
+“There is no figure of inches. Not one, and I am not going to round it and I am not going to hedge it and I am not going to give you a feeling of it instead, because a feeling of it is still a figure and I have watched men put those on this step in a fortnight and call them something else. No number of steps under either. And no number of days, and there is not one to give you, because when all ninety are out there is no coming back to count out from. That is the shape of it. That is the thirty-sixth time.”
 
 He put the broom down flat on the top step.
 
@@ -30,7 +30,7 @@ He looked at the man of thirty-one.
 
 “You left it.”
 
-“I swept eighty-nine steps and I did not leave anything, and I am not going to be praised for the fortieth and I am not going to be told I was careful with it, because a man being careful with a step is a figure of a decision and I have had a fortnight of about nine of them from people who are not me.” He picked the broom up again. “And I am not going to be asked to pull it either, and nobody is going to ask me, and if anybody in this county does ask me then they are asking a man who has nothing to pull it with and never had.”
+“I swept eighty-nine steps and I did not leave anything, and I am not going to be praised for the fortieth and I am not going to be told I was careful with it, because a man being careful with a step is a figure of a decision and I have had a fortnight of them from people who are not me.” He picked the broom up again. “And I am not going to be asked to pull it either, and nobody is going to ask me, and if anybody in this county does ask me then they are asking a man who has nothing to pull it with and never had.”
 
 The man who moves chairs came up the cart road and came past the wall and stopped at the bottom of the steps because there was nothing on the top of them to look at.
 
@@ -82,7 +82,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred d
 
 Nobody said anything about four hundred.
 
-“It is a whole figure,” he said, before anybody could be polite about it. “I have worked out that it is a whole figure and that is why about nine of you have gone quiet, and I am saying it now so that nobody on this landing has to spend the morning being careful.”
+“It is a whole figure,” he said, before anybody could be polite about it. “I have worked out that it is a whole figure and that is why the front of you have gone quiet, and I am saying it now so that nobody on this landing has to spend the morning being careful.”
 
 “It is a figure of days. It is not one of mine, it does not mean anything, it is not a morning, it is not a year, and I am not going to stand here and be helped to find out what it is. If anybody on this step starts it I will go down this bank before they get to the end of the sentence and I will not come back up it until it is a different morning.”
 

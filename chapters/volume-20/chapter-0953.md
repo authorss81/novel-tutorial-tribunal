@@ -1,4 +1,4 @@
-# Chapter 953: Sixteen Inches And One Day Of The Coming Back, And A Man Of Fifty-Eight Has Come A Mile Up The High Side To Say There Is A Thing On A Hand-Rail Where He Takes Both His Hands
+# Chapter 953: Sixteen Inches And One Day Of The Coming Back, And A Man Of Fifty-Eight Has Come A Mile Up The High Side To Say There Is A Thing On A Hand-Rail
 
 Third day of the hundred and fifty-eighth week. His seven hundred and third morning. Five hundred and fifty-three days after the settlement. The fever ninety-five weeks and five days old. Five hundred and seven days since the division. Four hundred and fifty-three days since a page was read out in a room with the door shut, in a town in another county, and three hundred and ninety-nine days in this county of Kell.
 
@@ -30,11 +30,11 @@ Corvin Tace came out and gave the three figures before he came down a single ste
 
 “Nobody counts them but me and that is the arrangement and it is not a complaint.” He leaned the broom against the wall. “A rail cut for a man before he gets to it is one of the best things there is, and it has no giver in it that the man who rails can use.”
 
-“I have been on this landing nineteen years and I have watched about nine of those get put in in my time, for people who were not here when I started, and not one of them ever got asked whether they were using it. And that is the best thing about a rail.”
+“I have been on this landing nineteen years and I have watched a run of those get put in in my time, for people who were not here when I started, and not one of them ever got asked whether they were using it. And that is the best thing about a rail.”
 
 “Then say it about the wedge in the step.”
 
-“I have said what I say about it and I am not going to say it twice in a morning because a man has come a mile with coal on his shoulder.” He looked along the step. “And I am not going to have anybody use that word about it either. It is not a rail. It is not put in for anybody. Nobody asked for it and nobody said it was wanted and the step with the chip in the corner of it was doing its work that day without it, and there is a difference. And I have watched about nine of you confuse the two in a fortnight.”
+“I have said what I say about it and I am not going to say it twice in a morning because a man has come a mile with coal on his shoulder.” He looked along the step. “And I am not going to have anybody use that word about it either. It is not a rail. It is not put in for anybody. Nobody asked for it and nobody said it was wanted and the step with the chip in the corner of it was doing its work that day without it, and there is a difference. And I have watched the two get confused in a fortnight by men who came up after me.”
 
 The man of fifty-four was already at the bottom of the steps with his barrow when the man of fifty-eight was still talking, and he came up the steps in his own time and stopped three steps from the top, which is where a man who has been coming up here for nineteen years stops when he wants to be heard from below.
 
