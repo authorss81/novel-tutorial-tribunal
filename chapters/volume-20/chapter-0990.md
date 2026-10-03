@@ -16,7 +16,7 @@ He leaned the broom against the wall on the dry strip, clear of the ash, in the 
 
 “It is that once that is said out loud on this landing then the landing is a number and everything on it is a line under that number, including the iron in the fortieth step, and including the wood, and I have had nineteen years of the other thing and I am not giving it up on a Saturday because a man said a whole figure of weeks at the sixth hour.”
 
-Nobody counted anything on that landing.
+Nothing was counted on that landing.
 
 Then the man of fifty-four came up at about the sixth hour and gave a whole figure out loud before anybody on that landing had finished its morning, and asked his question in the same words at the same hour, and was refused in the same way and was not thanked.
 
@@ -24,13 +24,13 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “One hundred and one weeks.” He put both hands flat on the wall, which is what he does. “Not one hundred and one weeks and a bit. One hundred and one weeks, on this Saturday, and it is the sixth one of those since I started saying it out loud.”
 
-No one on that landing worked it out for him.
+It was not worked out for him on that landing.
 
 “And it has come out whole six times and it has gone up by one each time, and it was ninety-six weeks the first morning I stood up here and said one out loud.” He took his hands off the wall. “And I am going to say the thing I have noticed six times now and I have never said. Nobody on this step has ever asked me what one of these is for.”
 
 “Not once in six of them, and one of you came up here on the fifth of these and had it in your mouth and shut it, and I watched you shut it.”
 
-Nobody commented on the mouth that had shut.
+The mouth that had shut drew no comment.
 
 “And I am not going to ask you to ask me. I would have asked you by now if I was going to.” He set the barrow down. “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.”
 
@@ -60,7 +60,7 @@ He did not come up the steps.
 
 “A thing put down where somebody works is not put down again the next morning by the same person, and the person it was put down for is not asked whether they took it.”
 
-Nobody on that landing named it.
+It was not named on that landing.
 
 “And I am not going to name it. I am going to say that I have been waiting nineteen years for somebody on this landing to hand me a word for that and I am not going to take the word, because the day this landing gives it a word it stops being a thing we do and it starts being a thing somebody decided, and then it is a rule, and a rule on this landing is a thing with a person inside it, and I have not got room for another person inside anything I own.”
 
@@ -68,7 +68,7 @@ Nobody handed him a word and nobody gave him a name for it.
 
 “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have said them three times on this landing now and I am not going to be thanked for this one either, and one day somebody is going to ask me to stop and I am going to take a long time over the answer.”
 
-Nobody thanked him then or afterwards.
+He was thanked neither then nor afterwards.
 
 “And now the half of it I have been not saying all week, and I am saying it to the man of thirty-one and to nobody else, and he is going to hear it and he is not going to like it.” He looked up at the dry strip. “That does not get anybody out of anything they have said out loud on this landing. Not you. Not me. Not the man who cannot read and not the woman who reads for a living.”
 
@@ -94,13 +94,13 @@ Nobody on that landing had said she was owed it and nobody said they wished she 
 
 “I stood on it so that when somebody later asks who put a thing on that landing, there is somebody in this county who can say out loud, in her own mouth, that she put nothing down and asked for nothing.”
 
-Nobody asked her whether she had put anything down.
+She was not asked whether she had put anything down.
 
 “I have twenty-nine chairs in a house that is not in this county and I have been asked about them once in my life and never since, and that is the life I have, and I am not going to have it made into a thing this week because a man who carries furniture into rooms has finally said out loud what he has been doing for nineteen years.” She did not come past the wall. “And I am not to be thanked.”
 
 “I am going to say that now, before any of you finishes that morning and walks up here and decides I stood at a wall on purpose, because that is what happens, and then I am the reason somebody came up a road, and I will not have it.”
 
-Nobody thanked her.
+She was not thanked.
 
 “Nobody is to come up here and find out what I said to that wall either, and nobody is to tell me they wished I had been on the landing. I have not come down this road to be wished for and I have not come down it to be on anything. I am going back down it now at the pace I came up.”
 

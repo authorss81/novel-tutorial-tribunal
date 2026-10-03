@@ -12,7 +12,7 @@ He set the broom down and then picked it up again, which is not a thing he does.
 
 “The water is on my landing this morning. Not in the bank. On it. And the strip along the foot of the wall is dry and it is the only dry stone here and it is the strip nobody sweeps, and that is where anything ever gets put down on this landing by anybody, including by me, and I have never once said that out loud in nineteen years because it is a figure about where things go and not about the things.”
 
-Nobody said anything about where things go.
+Nothing was said about where things go.
 
 “Simon is coming up at the tenth hour. He does it most mornings. He puts his hand out before his feet, because that is the only way he has, and he finds the wall and he puts his hand down along it.” Corvin Tace looked at the foot of the wall. “And there is a piece of ash on that strip.”
 
@@ -52,11 +52,11 @@ He looked down at his own boots.
 
 “On Thursday I did not know where it was.”
 
-Nobody on that landing told him what it was.
+He was not told what it was on that landing.
 
 “One hundred and twenty-eight wrong things in one hundred and twenty-eight mornings, and this is the hundred and twenty-eighth, and nobody is going to tell me what kind of figure it is, and nobody is going to tell me I found anything, and I am not going to tell anybody how close my boots were.”
 
-Nobody told him anything about his boots.
+He was told nothing about his boots.
 
 Then Simon Rook came up onto the landing at about the tenth hour with his hand out in front of him and did what he has done on most mornings for a fortnight, which is to find the wall before he puts his feet down.
 
@@ -72,23 +72,23 @@ Nobody shouted. Nobody moved. Nobody put a hand on him.
 
 Simon took his hand off it. He did it himself, and he did it fast, and he put the hand behind his back and stood against the wall about where the water was not.
 
-“I am going to say the whole of it and I am going to say it in order and I am not going to be helped with any of it.” His voice was not steady and he did not pretend it was. “That is a piece of ash on the dry strip and I could not see it. My hand went along that wall because my hand has gone along that wall a hundred mornings and there has never been anything on it except the wall.”
+“I am going to say the whole of it and I am going to say it in order and nobody is going to help me with any of it.” His voice was not steady and he did not pretend it was. “That is a piece of ash on the dry strip and I could not see it. My hand went along that wall because my hand has gone along that wall a hundred mornings and there has never been anything on it except the wall.”
 
 “I put a piece of ash on a wall that a blind man uses to find out where he is, and I did it at the eighth hour on a Thursday without one thought about it, and I have not said one word about that all week and I am saying it now.”
 
-Nobody made any sound.
+No sound came out of him.
 
 “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have not said them in that order before, I have always had them in a different order, and I have just said them in the order they go.” He still had his hand behind his back. “Nobody said it had been touched. Nobody said I nearly did.”
 
 “Nobody said anything at all except a man telling me where my hand was, and I would like that in a book, and I am not going to ask for it.”
 
-Nobody made a mark against what he said.
+No mark was made against what he said.
 
 “And I am not going to be asked what stopped my hand going any further along that wall, because I have been asked that once in this county and I refused it and I am going to refuse it the same way and I would like it noticed that I have got the same answer ready that I had the first time and that it has not worn down.”
 
-Nobody put that question to him.
+That question was not put to him.
 
-“I am not going to be thanked for taking my hand back. Taking my hand back was not a good thing I did. It was the only thing available and I did it and now the morning is going to carry on as though I had not done it.” He came away from the wall. “And I am not going to be unrelieved about having said any of this either, and I know that sounds like nothing, and it is not nothing, and I have got no other word for it and I am not going to go looking for one.”
+“I am not going to be thanked for taking my hand back. Taking my hand back was not a good thing I did. It was the only thing available and I did it and now the morning is going to carry on as though I had not done it.” He came away from the wall. “And I am not going to be unrelieved about having said any of this either, and I know that sounds like nothing, and it is not nothing, and I have got no other word for it and I am not looking for one.”
 
 Nobody relieved him and nobody unrelieved him.
 

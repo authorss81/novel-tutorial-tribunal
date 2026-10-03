@@ -12,7 +12,7 @@ He leaned the broom up against the wall and stood in front of it rather than bes
 
 “There is going to be a question asked on this landing today about the wood up on that flat step, and I am saying now, at the seventh hour, with nobody else on these steps, that I have thought about who has the right to ask it and that the answer is nobody, and that when it comes I am going to refuse it. Not because of who asks it. Because of what a question asked on a landing turns into.”
 
-Nobody asked him what it turned into.
+What it turned into was not asked.
 
 “And that is not mine to decide and I am not deciding it. It turns into whatever the person who asks it decides it turns into, and I have watched a man on this landing spend a fortnight putting his own shape on things and then be surprised when other people found the shape and used it. So a question is a morning, and I do not hand out mornings, and if a question gets asked about that wood it is going to get asked with me standing at the top of my own steps being part of it.”
 
@@ -28,7 +28,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “If somebody asks him about that wood today, I want it written on that landing that I did not put the wood in front of it.”
 
-Nobody wrote it down, and nobody told him he was owed the writing.
+It was not written down, and he was not told he was owed the writing.
 
 Then the man of thirty-one came up at about the eighth hour and gave his figures and the figure of the offer with the subtraction out loud and asked for nothing, and stood at the bottom of the steps with a boy in front of him, and a boy asked him one question.
 
@@ -48,7 +48,7 @@ Nobody recorded it.
 
 “What did you do at the bottom of the lane before the light came up.”
 
-Nobody on that landing breathed.
+On that landing, nobody breathed.
 
 And the man with the broom said no, from the top of the steps, and gave the working.
 
@@ -60,7 +60,7 @@ He put his thumb on the broom handle.
 
 “The moment it is asked on these stones it stops being his and it becomes a thing that happened here, and then I am the man it happened on. I have worked this stone nineteen years and I have never once been a thing that happened.”
 
-Nobody there said anything at all.
+Not one of them said anything at all.
 
 “And the second half of the working, which is the half that actually refuses it. There is nobody on this landing entitled to ask him that. Not you, not me, not the woman who reads for a living, not the man who moves furniture. Entitlement is not a thing anybody on these steps is holding. The only person who can ask a man a question about himself is somebody who has already stood at the bottom of that lane, and not one of you has, and asking him is not the same as having been there. So the question is not refused because it is cruel. It is refused because there is no one here to ask it.”
 
@@ -82,7 +82,7 @@ Nobody helped him with any of it.
 
 “And I cut one end square with a saw that went off at the corner. And I put my coat round it and I carried it up that bank and I stood at the bottom of these steps for a quarter of an hour working out whether to put it down. And I knew at the bottom of the steps that a thing put down where somebody works is not a given thing, because I had heard the man with the broom say it on Thursday morning before he had looked at what was under my arm.”
 
-Nobody on that landing told him anything about that.
+He was told nothing about that by anybody on that landing.
 
 “And I put it down anyway. And I am not going to tell anybody I have been carrying it in my coat for the length of a morning like that is an excuse, because it is not an excuse, it is just what happened, and I said it out loud on Thursday because I wanted a giver in it and I have wanted a giver in it since the day I came into this county.”
 

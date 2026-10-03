@@ -10,9 +10,9 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He put the head of the broom down flat and stood on it.
 
-“I am going to be short of things to say today and I will not fill the gap. Three weeks back I said a thing at the end of a week that I have not been able to take back, and I am not going to stand up here on a Monday and pretend there is a lesson in it. There is no lesson. I said it, it did not go away, and I have been saying one thing about the ends of weeks since then and I am not going to say a second.”
+“I am going to be short of things to say today and I will not fill the gap. Three weeks back I said a thing at the end of a week that I have not been able to take back, and I am not standing up here on a Monday pretending there is a lesson in it. There is no lesson. I said it, it did not go away, and I have been saying one thing about the ends of weeks since then and I am not saying a second.”
 
-Nobody asked him what the first one had been.
+What the first one had been was not asked.
 
 Then the woman who saws lengths came up the cart road at about the eighth hour and asked him a straight question about the water, and he refused it, and he refused it in her own trade and not in his.
 
@@ -32,7 +32,7 @@ He put his hand flat against the wall and said the rest of it before she could m
 
 “And I am not thanking you for asking and you are not to be thanked for asking, and I am aware that I have said that sentence on this landing so many times this week that it has stopped meaning anything, and it has not stopped meaning anything, and I have run out of new ways to say it and I am going to keep saying the old one.”
 
-Nobody thanked her for asking.
+She was not thanked for asking.
 
 Then the man of fifty-four came up at about the sixth hour with a barrow and asked in the same words at the same hour for the last time in that week, and was refused in the same way and was not thanked, and said out loud that a week ending was not an occasion.
 
@@ -44,7 +44,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “No, and I am going to say that out loud so that nobody up here decides this is a big morning for me, because if one of you decides that then I have spent a whole week on a Monday.” He set the barrow down, and looked at the ash on the flat of the top step for a moment, and turned his head away from it and did it slowly, the way a man turns his head off a thing he has decided not to have an opinion about. “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.”
 
-“And it is the last one this week and tomorrow it is the same question and I am not going to bring you a new one for a new week, because you have all had new weeks and I have had none of them.”
+“And it is the last one this week and tomorrow it is the same question and I am not bringing you a new one for a new week, because you have all had new weeks and I have had none of them.”
 
 Nobody told him he had had none of them either.
 
@@ -60,7 +60,7 @@ He got to the bottom of the steps and turned his left hand over and showed it, w
 
 “Three hundred days on that palm. A whole figure. It has come out whole and I am going to say it out loud and then I am going to stand here, and I want to say before I say it that I know what it looks like coming out of my mouth on the last morning of a week, and I am going to say it anyway, and I will not apologise for saying it afterwards either.”
 
-Nobody made anything of it.
+It was not made anything of.
 
 “It is a figure of days. It is not a figure of a life. It is a figure of days on a hand, and the hand is mine, and there is nobody on this landing that it is owed to, and nobody has ever been owed anything by it. I would like it understood that I am not standing here this morning with three hundred days of something. I am standing here with a cut that has taken three hundred days to be the shape it is.”
 
@@ -78,7 +78,7 @@ Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the
 
 “It is the whole of what a page like that is for.”
 
-Nobody made a face about that.
+No face was made about that.
 
 “So I could say three hundred days. I could say it in a voice. And then whoever hears it would have a figure about a man, and you would all be carrying it, and nobody on this landing would have said a word and a column would have got itself a name.” She turned round. “I am not going to do it and I am not going to be thanked for not doing it and I am not going to be asked whether I regret it.”
 
@@ -90,11 +90,11 @@ Nobody asked her whether she regretted it.
 
 “The day somebody puts them in a line together they become one sentence, and that sentence will be about the iron, and it will be the only sentence anybody makes about that iron for the rest of time.”
 
-Nobody put them together.
+They were not put together.
 
 “And I am not going to be thanked for that either, and I would like it noticed that I have now said four of those on this landing in a week and that a woman who says them like that is a woman who has never once been thanked for anything, and that this is not a complaint about the landing, it is a fact about me, and I am not going to be turned into a lesson by anybody.”
 
-Nobody turned her into a lesson.
+She was not turned into a lesson.
 
 “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have said them before on this landing and I am going to keep saying them and I am going to keep not being thanked for it, and one day somebody is going to ask me to stop and I am going to think about it for a long time first.”
 

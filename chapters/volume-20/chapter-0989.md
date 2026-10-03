@@ -24,15 +24,15 @@ Nobody thought it was a big thing and nobody asked him why.
 
 “A rule is a thing a man says so that he does not have to do the work, and I gave it away two weeks ago because saying it out loud was easier than carrying it, and yesterday I found out what carrying it costs.”
 
-Nobody said anything about what it cost.
+Nothing was said about what it cost.
 
-“So here they are, in my mouth, again, in the order they go, and I am not going to change the words because I am not going to dress it up. It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and not one of them a figure of anybody, and not a fifth figure off my stone, and I have said them twice on this landing in nineteen years and I have given them away once.”
+“So here they are, in my mouth, again, in the order they go, and I am not going to change the words because I am not dressing it up. It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and not one of them a figure of anybody, and not a fifth figure off my stone, and I have said them twice on this landing in nineteen years and I have given them away once.”
 
-Nobody thanked him for taking them back.
+He was not thanked for taking them back.
 
 “And I am not going to be thanked for saying that giving them away was not honour. It was not honour and it was not care. It was that I wanted one thing on this landing that nobody else had to hold, and I have wanted that my whole life, and I have got it out of a rule, and I would like somebody to notice that I have just said it and not to notice it very hard.”
 
-Nobody noticed it very hard.
+It was not noticed very hard by anybody.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and was refused in the same way and was not thanked, and said out loud that he had been right about the water on Monday and that he was not going to be told he had been right about it.
 
@@ -58,9 +58,9 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 He got to the dry strip and stopped with his boots where they were on Thursday.
 
-“I am going to say two things that are true and then I am going to stand here and nobody is going to check either of them, and I am not going to ask anybody to.”
+“I am going to say two things that are true and then I am going to stand here and nobody is going to check either of them, and nobody is going to be asked by me.”
 
-Nobody checked either of them.
+Neither of them was checked.
 
 “The first is that Barnaby Crove is going to come up this bank tomorrow morning and the morning after that and the morning after that, and he is going to ask that question in those words, and nobody on this landing is going to answer him, and that includes me, and it is going to keep not being answered until one of us can put up our hands and say why not.” He did not move his feet.
 
@@ -70,7 +70,7 @@ Nobody told him he had got it right and nobody told him he had not.
 
 “The second is about my own week. On Wednesday morning I said out loud that I would not be the one to say what that piece of ash turns into. Not on that landing, and not later, not when it comes out of the weather. And I have not said it, and there is a woman on this landing who did say it yesterday in her own mouth before any of us could, and I have said nothing since. That is the only thing I have got right this week and I have not got anything out of it and I am not going to get anything out of it.”
 
-Nobody got anything out of it.
+Nothing was got out of it.
 
 “One hundred and twenty-nine wrong things in one hundred and twenty-nine mornings, and this is the hundred and twenty-ninth, and nobody is going to tell me what kind of figure it is and nobody is going to tell me I found anything.”
 
@@ -88,7 +88,7 @@ Garrin Tolley is thirty-eight, has a child of nine, came back up a road he said 
 
 “There is no third of it and anybody who says there is a third of it has not been up a hill with a bag.”
 
-Nobody on that landing named a day.
+No day was named on that landing.
 
 “And I am not going to name a day for the man of thirty-one either. I am not going to tell him not to go and I am not going to tell him to stay, and I would like both of those noticed in the same breath because I know what it looks like from outside and it looks like a threat and it is not one. It is the only thing I have got that is mine and I am giving it away for nothing, which is a habit I have and which I am not going to give up today.”
 
@@ -102,7 +102,7 @@ He came away from the road and went and stood with his back to the bank and look
 
 Then the man of thirty-one said the last of it and it was about the one thing he has left, and he did not say a figure, and nobody relieved him.
 
-“There is one thing left in this county that nobody can take off me. I can walk down that bank at any hour and leave. Not today and not tomorrow morning and not at the end of this week. I am not going to do it, and I am not going to tell anybody how near I came to doing it, and nobody is to thank me for not doing it, because a thing you do not do cannot be thanked for.” He took his hands out from behind him.
+“There is one thing left in this county that nobody can take off me. I can walk down that bank at any hour and leave. Not today and not tomorrow morning and not at the end of this week. I am not going to do it, and nobody is going to hear how near I came to doing it, and nobody is to thank me for not doing it, because a thing you do not do cannot be thanked for.” He took his hands out from behind him.
 
 “A man of thirty-eight has just told me that is not staying and he is right and I am not going to argue with him and nobody is going to tell me he is right either.”
 

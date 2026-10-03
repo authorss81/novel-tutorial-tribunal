@@ -20,7 +20,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “No,” said Barnaby Crove. “And I have worked out that a week turning is a thing that happens to everybody on a bank at once, and it has not once in two hundred and sixty mornings made anybody give me an afternoon. So I am not going to stand up here and pretend the third day of a week is a kind of door.”
 
-Nobody pretended anything of the sort.
+Not one of them pretended anything of the sort.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And I will say that it is the same question and I have got it ready before I got to the top and I did not stop to think about it on the way up, which is the only thing I have got better at.”
 
@@ -32,19 +32,19 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 “Four hundred and twenty-seven days in this county, and the cut across that palm is two hundred and ninety-six days old, and the standing offer asked at the seven-hundred-and-thirty-first is two hundred and eighty-one days old, which is nine hundred and eighty-one less seven hundred. It is unanswered. I have not asked it this morning and I am not going to, and I am going to carry a thing up these steps in front of everybody and that is not asking, and I would like it noticed which of the two it is.”
 
-Nobody said which of the two it was.
+Which of the two it was went unsaid.
 
 Then the man with the broom, from the top of the steps, without turning round and without going down to look, said the sentence.
 
 “A thing put down where somebody works is not a given thing. It has no giver in it. You do not work here.”
 
-Nobody on that landing moved.
+On that landing, nobody moved at all.
 
 “I have said that about the iron in the fortieth step for a fortnight and I have said it in that shape and I am saying it in that shape now about whatever is under your arm, and I am not saying it to be unkind to you and I am not saying it because I have worked you out. I am saying it because I have been on this stone nineteen years and I know exactly what it costs to hand a thing to a man who works here and what it costs the man, and neither of those two figures is going in this county.”
 
 He picked the broom up off the stone.
 
-“You can put it down or you can take it back down that bank and I am not going to stop you and nobody else is going to stop you either. But if you put it down and then say out loud that you put it down, you have not given me a thing. You have put my name on it and I have not agreed to that and I cannot agree to it, because a man cannot be agreed to anything by a stranger at the top of a bank.”
+“You can put it down or you can take it back down that bank and I will not stop you and nobody else is going to stop you either. But if you put it down and then say out loud that you put it down, you have not given me a thing. You have put my name on it and I have not agreed to that and I cannot agree to it, because a man cannot be agreed to anything by a stranger at the top of a bank.”
 
 The man of thirty-one did not take it back down the bank. He went up the steps.
 
@@ -56,7 +56,7 @@ Then he said it out loud, to the whole landing, before anybody had asked him a q
 
 “I put that there. I split it out of a fallen branch at the bottom of the lane before the light came up and I put it there on the flat of the step where your broom does not go, and I am saying it out loud so that there is a giver in it, because a thing with no giver in it cannot be thanked and I have wanted to be thanked for something for four hundred and twenty-seven days.”
 
-Nobody on that landing thanked him.
+He was not thanked on that landing.
 
 “And I know what that is. I know what it looks like. I stood at the bottom of those steps and I worked out what saying it out loud would do before I said it, and I did it anyway, and I am not going to stand here and tell anybody that I did not know.”
 
@@ -68,7 +68,7 @@ Wenna Pyle is thirty-eight, who saws lengths and sets studs at a bench in an ope
 
 “That is ash.” She said it the way she says what a thing is when she has just seen it. “Split down the middle and one end cut square, and the cut has gone off at the corner because the saw wanted sharpening, and that is the whole of what is wrong with it. It is a handle blank. Not a present and not a length of firewood. It is a piece of wood that somebody has already done half the work on and stopped in the middle of.”
 
-Nobody said the word.
+The word was not said.
 
 “And I want to say the working, because I have a bench and I do this all day and I am the only person standing on this landing who knows what that object is for.” She did not come up the steps. “A thing put down where somebody works is not a given thing. Not by me, not by him, not by anybody. It cannot be thanked, because a man cannot be owed something by an object.”
 
@@ -80,7 +80,7 @@ Nobody said the word.
 
 Nothing on the landing made a sound.
 
-“And the other half, because I am not going to leave it out and let somebody else say it better. It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have said them on this landing before, and I am not going to be thanked for saying them now any more than I was the last time.”
+“And the other half, because I am not leaving it out for somebody else to say better. It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have said them on this landing before, and I am not going to be thanked for saying them now any more than I was the last time.”
 
 Nobody thanked her for saying them.
 
@@ -88,20 +88,20 @@ She looked up at the flat of the step.
 
 “It will go hard out there and it will go soft where it lies and by the time anybody wants a handle off it there will not be one in it. And I am not going to say that to make anybody feel worse, because I have a bench and I have thrown away about nine blanks for the same reason and it is not a lesson. It is weather.”
 
-Nobody turned it over.
+It was not turned over.
 
 Then the man of thirty-one stood at the foot of his own steps and gave the whole of what he had come up that bank with, and nobody on that landing helped him with any of it.
 
 “One hundred and twenty-one wrong things in one hundred and twenty-one mornings, and this is the hundred and twenty-first, and it is not a figure of me and nobody on this step is going to make it one, and nobody is going to tell me it is a small figure or a large one, and nobody is going to tell me that I found anything, because I have not found anything. I have made a piece of wood.”
 
-Nobody told him he had found anything and nobody told him he had not found anything.
+He was told neither that he had found anything nor that he had not found anything.
 
 “And here is what it cost, in the only words I have got for it. Asking is the only thing that costs me nothing. Four hundred and twenty-seven days and I have asked for nothing on every one of them and not one of you has ever once been able to give me anything for it, and that is the trade I have. And this morning I did the other thing. I did not ask. I put a thing down and I said out loud that I put it there, and that is not asking, and I want it written on this landing in words I chose myself so that nobody can tell me afterwards that I asked for something.”
 
-Nobody put a mark of any kind against it.
+No mark of any kind was put against it.
 
-“And it is a given thing now, or it is not, and I am not going to be told which, because if somebody tells me it is not a given thing then I have thrown a piece of ash on that step for nothing and I will do it again, and if somebody tells me it is one then there is a man on this landing who has been thanked for something and it is not true, and I would rather have the first.”
+“And it is a given thing now, or it is not, and nobody is going to tell me which, because if somebody tells me it is not a given thing then I have thrown a piece of ash on that step for nothing and I will do it again, and if somebody tells me it is one then there is a man on this landing who has been thanked for something and it is not true, and I would rather have the first.”
 
-Nobody told him which it was.
+He was not told which it was.
 
 Twelve inches, about seventy under, five days of the coming back, and the water will be a full bank on the fourth day from now. The ash was lying where it had been put and had not been touched and had not been called anything. The man who had put it down had said out loud that he put it there, and nobody had thanked him for it, and the week did not turn, and the thing was still on that landing with his name in it.

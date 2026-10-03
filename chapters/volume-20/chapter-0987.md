@@ -42,7 +42,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 “Four hundred and thirty-three days in this county, and the cut across that palm is three hundred and two days old, and the standing offer asked at the seven-hundred-and-thirty-seventh is two hundred and eighty-seven days old, which is nine hundred and eighty-seven less seven hundred. It is unanswered, and I have not asked it, and I am going to spend the rest of that morning saying the other thing out loud from the beginning to the end, and I would like anybody who wants to write any of it down to go ahead, and I am not going to thank them and I am not going to ask them to.”
 
-Nobody took out anything to write on.
+Nothing was taken out to write on.
 
 “Thursday morning of last week. I got up in the dark because I could not sleep and I went down the lane as far as a fallen ash and I sat down in the wet with a wedge and a block of wood and split a length down the middle because that is the only thing I have ever been able to do with my hands that comes out right.” He was not looking at anybody. “I cut one end square with a saw that went off at the corner.”
 
@@ -56,11 +56,11 @@ He stopped and let it sit.
 
 “Friday. A man who moves furniture told me that saying it out loud does not make it a given thing and that in fact it takes the last thing away from a thing that has no name on it yet. And he gave his trade as the reason and he did it without being unkind to me and he was not thanked either. And I worked out that morning that I had wanted the refusal, and I said so, out loud, on this landing, and nobody gave me a piece of it.”
 
-Nobody gave him a piece of it.
+He was given no piece of it.
 
 “Saturday. A man who cannot see well said out loud that this landing rests on there being no giver in anything standing on it, and that it stopped being true on Thursday at the eighth hour, and that a landing which has run on one sentence for nineteen years and then finds it is not true gets a hole in the shape of the old one and not a new sentence.”
 
-Nobody said that was true.
+That went unsaid.
 
 “Sunday. A boy asked me one question about it and a man with a broom refused the question and gave the working, and I answered it out loud to the landing and not to the boy. Monday. A woman who reads for a living refused to give a figure of three hundred days any shape and refused to put it beside the iron in the fortieth step. Tuesday. That man came back and said the same thing about a hole and said it differently, because he is a man who works things out on his own and gets them different each time.”
 
@@ -80,7 +80,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read, 
 
 “I have never read it. I cannot read and there is not a person in this county who has ever offered to read it to me and I have never asked.” He shifted the barrow in the wet. “And I know all seven of them in the order they go because a woman who reads for a living said them once on this landing in the fourth hour of the day when I was standing behind her, and I have had them in that order in my mouth for a fortnight and I have said them out loud four mornings running now and nobody has stopped me and nobody has thanked me.”
 
-Nobody stopped him and nobody thanked him.
+He was neither stopped nor thanked.
 
 “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things.” He wiped his mouth with the back of his hand. “And I am going to say the half of it that belongs to me and nobody else. The water is the only thing on this landing that has been in any of them all week.”
 
@@ -98,11 +98,11 @@ Orla Fennimore is forty-four, keeps twenty-nine chairs at a house that is not in
 
 “Nobody is to come up this road and tell me anything about that landing.” She said it without coming past the wall. “And I am not coming up it, and I have not come past this wall, and I would like whoever is up there counting the mornings to notice that I am not one of them and that whatever is in the water at the top of those steps is not in my house and is not my business and did not come from me.”
 
-Nobody on that landing counted her.
+She was not counted on that landing.
 
 “And I will say the seven from here because I can say them from a wall and it costs me the same as saying them from a step, which is nothing.” She did not raise her voice to do it. “It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used.”
 
-“Seven things, and I am not going to be thanked for saying them from a wall and I am not going to be told I have no standing here either, because I have been at this wall twice this week and I have not been up that road once and that is the whole of my claim and I am not making more of it.”
+“Seven things, and I am not going to be thanked for saying them from a wall and nobody is going to tell me I have no standing here either, because I have been at this wall twice this week and I have not been up that road once and that is the whole of my claim and I am not making more of it.”
 
 Nobody thanked her and nobody told her she had no standing.
 

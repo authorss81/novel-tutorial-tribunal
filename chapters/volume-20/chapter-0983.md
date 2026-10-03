@@ -10,7 +10,7 @@ Corvin Tace is forty-three, holds that landing nineteen years, gives four figure
 
 He set the broom down and stayed where he was.
 
-“That is all I am going to say about this morning and the reason is that a man said a whole number out loud at the sixth hour and I heard it, and I have got nineteen years of saying nothing on this landing behind me and I am not going to spend any of it on somebody else’s figure.”
+“That is all I am going to say about this morning and the reason is that a man said a whole number out loud at the sixth hour and I heard it, and I have got nineteen years of saying nothing on this landing behind me and none of it is going on somebody else’s figure.”
 
 Barnaby came up at about the sixth hour and said it before the water had been read off the stone, which is what he has done on five Saturdays running now.
 
@@ -34,7 +34,7 @@ He stood there with his hand half up.
 
 “I am not going to ask you that and I am going to say out loud that I was about to, because a man who cannot read has said a whole figure five Saturdays running and I have asked you once already and you gave me the same answer you have given three times, and today I came up that road with the question ready and it is the wrong thing to do and I have worked out why it is the wrong thing to do on the way up.”
 
-Nobody asked him why it was the wrong thing to do.
+Why it was the wrong thing to do was never asked him.
 
 “It is because you cannot read it and I can, and the day the first one of us asks you what a whole figure is for, that whole figure stops being yours and starts being mine. It becomes a thing I have an opinion about. And then it is not a number you said on a Saturday because a Saturday is the morning you have got nothing else in your mouth. It is a number about something, and I would be the one who made it about something.”
 
@@ -44,7 +44,7 @@ Nobody had anything to say about the shutting of it.
 
 “So I am not asking. And I am not going to ask on any Saturday after this one either, and if you keep saying it out loud then it keeps being yours, and if one of us ever does ask then you are entitled to stand on that wall and tell us to go and ask the water.”
 
-Nobody asked the water anything.
+The water was asked nothing.
 
 Then the man of thirty-one came up at about the eighth hour, and gave his figures, and gave the figure of the offer with the subtraction out loud, and asked for nothing, and then stood under a whole figure of one hundred weeks that a man who cannot read had put in the air, and did not explain it.
 
@@ -76,7 +76,7 @@ Nobody asked him about the board in the inside of his coat.
 
 “That includes the wood. That includes the iron in the fortieth step. That includes the piece of ash up there that a man of thirty-one has explained to us twice. And I am not going to be told that repeating a rule in my own words is the same as keeping it, because I have read about men who did that.”
 
-Nobody told him whether it was.
+He was not told whether it was.
 
 “And nobody is to thank me for saying them again, and nobody is to ask me to say them a third time, and I have a boy of nine at home who does not know I come up here and he is not going to be told either.”
 
@@ -84,11 +84,11 @@ Then the man who cannot see well came up onto the flat of the steps with his han
 
 Simon Rook is about fifty-two, cannot see well, has a list of things he cannot check and has said out loud more than once that the list is a list and not a complaint, and said on the fifth day of the hundred and sixty-second week that the whole of this landing rests on there being no giver in a thing, and that there is one now, and that it got there in one mouth and it was not his.
 
-“I want to start by saying that I cannot see that step and I am not going to pretend I can, and that what I am about to say is about a thing I have never looked at and could not look at if I tried.” He put his back against the wall. “This landing runs on there being no giver in a thing.”
+“I want to start by saying that I cannot see that step and I am not pretending I can, and that what I am about to say is about a thing I have never looked at and could not look at if I tried.” He put his back against the wall. “This landing runs on there being no giver in a thing.”
 
 “That is the sentence under everything anybody has said about the iron in the fortieth step for a fortnight, and nobody has ever had to say it out loud, and every single one of you has been relying on it without putting a name on it.”
 
-Nobody put a name on it.
+No name was put on it.
 
 “And it has stopped being true on Thursday morning at the eighth hour. Not because of the wood. Because a man said out loud that he put it there. There is a giver in that thing now, and it got there in one mouth, and it was not mine, and I have been standing here for two days with a list of things I cannot check and this is the first one that is not a thing at all. It is a person.”
 
@@ -96,9 +96,9 @@ Nobody on that landing took that up.
 
 “I cannot put a person in a list. That is not a complaint and it is not a loss. A list is for things I cannot check and a person is a thing I can check by asking, and I am not going to ask him, because he said it himself on Thursday and there is nothing to ask about. So it is a person on my landing and it is not in the list and it is not going in.”
 
-Nobody asked him to put it in.
+He was not asked to put it in.
 
-“I have got nothing else this morning. I have not got a figure and I have not got a grievance and I have not got anything to say to the man of thirty-one that would help him, and I am not going to look for one, and I would like it noticed that there was a whole figure said out loud on this landing an hour ago and I have not asked anybody what it is for either.”
+“I have got nothing else this morning. I have not got a figure and I have not got a grievance and I have not got anything to say to the man of thirty-one that would help him, and I am not looking for one, and I would like it noticed that there was a whole figure said out loud on this landing an hour ago and I have not asked anybody what it is for either.”
 
 Nobody asked.
 

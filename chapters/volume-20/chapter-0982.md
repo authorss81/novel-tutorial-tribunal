@@ -16,7 +16,7 @@ He looked at the top step.
 
 “Four days is a figure of the water and it is not a figure of this landing and it is not a figure of this morning and it has nothing to do with a Friday, whatever a Friday turns out to be like, and nobody is going to carry four days off that stone and have a conversation on it, and if anybody does I will put the broom down.”
 
-Nobody carried it off the stone.
+It did not go off the stone.
 
 “Four days is a figure of the water,” he said. “That is the fourth. I am finished with it.”
 
@@ -32,11 +32,11 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “I am fifty-four and I cannot read and I know what a handle looks like because I have held one every day of my working life, and that is a piece of ash with one end cut square, and I have not touched it, and I am not going to.”
 
-Nobody told him he had been right not to touch it.
+He was not told he had been right not to touch it.
 
 “Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it.” He said it in the words he uses. “And I have worked out this week that the wood on that step and my question are not the same thing and that I am not going to use one to get at the other.”
 
-“I have been trying to get things out of people on this landing for two hundred and sixty-one mornings and I am not going to start trying to get something out of a piece of ash.”
+“I have been trying to get things out of people on this landing for two hundred and sixty-one mornings and I am not starting to get something out of a piece of ash.”
 
 Nobody answered him on the fourth day of the hundred and sixty-second week, and nobody told Barnaby Crove he was owed an answer, and nobody thanked him for not using the wood.
 
@@ -46,7 +46,7 @@ Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred a
 
 “Four hundred and twenty-eight days in this county, and the cut across that palm is two hundred and ninety-seven days old, and the standing offer asked at the seven-hundred-and-thirty-second is two hundred and eighty-two days old, which is nine hundred and eighty-two less seven hundred. It is unanswered. I have not asked it and I am not going to ask it, and I am not going to ask anybody to look at me while I say that.”
 
-Nobody looked at him and nobody looked away.
+As for looking, nobody did it and nobody avoided it either.
 
 “I said a sentence yesterday at the eighth hour and it was heard, and the other half of it was said back at me before I had got to the top of the steps. And I have thought about that all night at the bottom of the lane and I have worked out that a refusal of a thing anybody happens to be standing near is not a refusal. It is a remark. So I am going to say it again, and I am going to say it in front of this landing, and I am going to say all of it this time.”
 
@@ -56,7 +56,7 @@ He turned round so that he was looking down the steps and not along them.
 
 “And I am saying that out loud so that there is a giver in it. That is why I am saying it. Not so that anybody uses it. So that it is a thing with a man in it.”
 
-Nobody on that landing used it.
+It was not used on that landing.
 
 Then a man came up the cart road without a barrow and stood at the flat of the steps and asked to be allowed to give the working, and he gave it before anybody asked him to, in his own trade, and it took the rest of that morning.
 
@@ -74,11 +74,11 @@ Nobody on those steps had an opinion about that.
 
 “Nowhere in that is a giver. Nowhere in that is a receiver either. And it is not a sad story and I am not telling it as one. It is a way of working and it works, and the only thing that has ever changed about it in nineteen years is that a man of thirty-one has come up a bank and put a name on a piece of ash and told me what it is cut for, and I would like him to know that he has taken the last of it out.”
 
-Nobody told him he had taken the last of it out.
+He was not told he had taken the last of it out.
 
 “And the rule as it stands on this landing, in the shape it is in and nobody has ever given it a name, is this. It has not been touched. Not pulled, not turned over, not weighed in the hand, not read out loud, not carried inside, not put back where it was, and not used. Seven things, and I have said them twice on this landing and I am not going to be thanked for saying them a third time and I am not going to be asked to say them again after this.”
 
-Nobody thanked him and nobody asked him to say them again.
+No thank you came, and nobody asked him to say them again.
 
 Then the man of thirty-one said the thing he had been saying out loud in his own head since the eighth hour, and it was the part of this morning that nobody on that landing had expected from him.
 
@@ -88,11 +88,11 @@ Then the man of thirty-one said the thing he had been saying out loud in his own
 
 “Somebody could have done it today. It would have been easy. It would have been the kindest thing anybody could have done for me in the sense of being finished with me.”
 
-Nobody on that landing said a word.
+Not a word came off that landing.
 
-“And nobody has said it. I have been standing up here for the best part of an hour with that on me and nobody has said it, and I am not going to say thank you for it, and I want that in words too. Because being unkind to me on purpose would have been a thing that was done to me.”
+“And nobody has said it. I have been standing up here for the best part of an hour with that on me and nobody has said it, and no thank you from me for it, and I want that in words too. Because being unkind to me on purpose would have been a thing that was done to me.”
 
-“This is not that. Nothing has been done to me. Nobody has held any of it against me either and nobody has condemned me. Nobody has relieved me of a thing. I would like somebody to have noticed the difference between those three things by now and I am not going to get anybody to notice it.”
+“This is not that. Nothing has been done to me. Nobody has held any of it against me either and nobody has condemned me. Nobody has relieved me of a thing. I would like somebody to have noticed the difference between those three things by now and nobody is going to notice it for me.”
 
 Nobody noticed it, and nobody relieved him of it.
 
@@ -100,12 +100,12 @@ Then the man of thirty-one gave the figure of his mistakes out loud in a mouth a
 
 “One hundred and twenty-two wrong things in one hundred and twenty-two mornings, and this is the hundred and twenty-second, and it is a figure of mistakes and it is not a figure of a man, and nobody on this step is going to tell me what kind of figure it is, and nobody is going to tell me that I found anything.”
 
-Nobody told him what kind of figure it was, and nobody told him he had found anything.
+He was told neither what kind of figure it was nor that he had found anything.
 
 “And here is my want, because I said it out loud on this landing for the first time in this county and I am not going to take it back down the bank to keep it out of a morning.” He looked at the ash. “I want to be somebody. And I have worked out this week, standing on your steps from the bottom of them, that the only road to being somebody in this county is to be useful to a man who works here.”
 
 “And I have put a piece of ash on that step and told you what it is cut for and it is not that road, and I knew it was not that road when I said the second sentence, and I said the second sentence anyway, and that is the hundred and twenty-second.”
 
-Nobody told him it was not that road, and nobody told him it was.
+He was told neither that it was that road nor that it was not.
 
 The bank was full at sixteen inches and held, and about sixty of those ninety steps were under, and four days of the coming back. The conversion was refused in a mouth with the working given, and nothing else was done about it. The man who had said the sentence out loud had not been thanked for saying it and had not been thanked for the refusal of it either. There was a giver in the ash now and it could not be taken back out.
