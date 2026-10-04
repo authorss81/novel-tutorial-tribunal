@@ -110,11 +110,22 @@ on none. It was not asked again so that somebody could finally say something. **
   volume 21 close.** `chapter-1001.md` through `chapter-1030.md` carried whole plot
   summaries of sixty to a hundred and thirty-two words each. **All thirty were cut to
   two to six words against the body, naming nothing and printing no figure, with no prose
-  touched**; `1016` was cut from *A Second Mouth* to *Another Mouth* because a title in
-  this volume prints no numeral. **Two band 4–5 titles still carry a spelled numeral**
-  (`1035` *One Of Mine*, `1037` *One More Notch*) and were left, because the close's
-  title remit was bands 1–3 and a numeral counting a notch is not on the forbidden list.
-  See `reviews/volume-21/volume-21-close.md` §1.
+  touched by any of the thirty cuts**; `1016` was cut from its seventy-six-word summary to
+  *Another Mouth*. **Three titles of the fifty carry a plain count-word** — `1003` *A Thing
+  Said Twice*, `1035` *One Of Mine*, `1037` *One More Notch* — and **none of the three is
+  barred by the five prohibitions of `outline/volume-21.md` §7**, which forbid the name of
+  a thing, a giver, the age of a thing in a place, the ordinal of an off-morning and any
+  count of asking. The close first gave the rule as *a title prints no numeral*, which is
+  not the rule, and first counted two such titles instead of three; both are corrected in
+  the close record at §1.1 and §3.2. See `reviews/volume-21/volume-21-close.md` §1.
+- **The volume 21 close's weekday calibration did not reproduce and had no instrument.** It
+  is repaired: the instrument is preserved at
+  `reviews/volume-21/volume-21-close-weekdays-0V21L.py` and the bare relative named days for
+  volumes 18, 19 and 20 are **252, 274 and 184**, not the 224, 268 and 174 first printed.
+  Volume 21's twenty-nine and the whole anchored column reproduced and stand, so the
+  finding stays a finding and the margin around it is wider than first recorded. **This
+  thread is closed as a defect in the record; nothing about the chapters changed.**
+  `reviews/volume-21/volume-21-close.md` §2.2 and §11.
 - **The water ladder runs backwards** — more water puts fewer steps under — and it is
   a known hazard rather than a settled fact. It is stated with its warning in
   `state/continuity.md`. It is owed to a person and is not settled here.

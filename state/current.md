@@ -12,14 +12,25 @@ record only. Anything that belongs to a finished band lives in
 - **Current volume:** 21, *The Name Already On It*, chapters 1001–1050. **Closed.**
 - **Bands written:** 1001–1010, 1011–1020, 1021–1030, 1031–1040, 1041–1050. All five
   written, reviewed and repaired. **Volume complete at fifty chapters.**
-- **Next phase:** none written here. The volume 21 close owed no chapter and created no
-  directory; the self-dispatch workflow selects what comes next.
+- **Next phase, named here because nothing on the prose side was designating one:** the
+  manuscript owes no chapter and volume 21 is closed, so the successor is **a volume 22
+  planning phase owned by whoever owns `outline/series.md` and `outline/ending.md`** —
+  specifically, the length decision below, which has to be settled before a volume 22
+  outline can say what a volume is. **No prompt directory was created and none should be
+  until that decision is taken**, because a batch prompt written now would have to invent
+  the answer the close recorded as unowned. `state/phase-ledger.json` still reads
+  `batch-0002` and volume 1; it is controller-owned and a writer does not edit it. **This
+  line is the designation until the ledger is corrected by the controller.**
 - **Chapters on disk:** 1050, in 21 directories of 50 each.
 - **The close record:** `reviews/volume-21/volume-21-close.md` — the thirty band 1–3
   titles cut against the body, the seven sweeps and their methods, the two repairs with
   both wordings, the five findings left on the page with the reason in each, the
-  nineteen band 5 references re-verified, what the seven lines did, and what is true at
-  `1050` in words.
+  twenty `CHAPTER:LINE` references re-verified, what the seven lines did, and what is true
+  at `1050` in words. **§11 of that file is the review of the close: eight findings in the
+  record, what was done about each, and the one thing a review flagged that this file may
+  not touch — the stale controller ledger, which is recorded there and here and not
+  edited.** Its weekday figures are the output of
+  `reviews/volume-21/volume-21-close-weekdays-0V21L.py`, which is kept beside it.
 
 ## The live record at chapter 1050
 
@@ -56,23 +67,55 @@ Neither is a writer's decision and no chapter is to be written to satisfy either
 
 - **Thirty titles, `1001`–`1030`,** cut from whole plot summaries of sixty to a hundred
   and thirty-two words each to two to six words, against the body, naming nothing and
-  printing no figure. **No prose was touched to do it.**
-- **`1016:1`** cut from *A Second Mouth* to *Another Mouth*, because a title in this
-  volume prints no numeral.
+  printing no figure. **No prose was touched by any of the thirty cuts.**
+- **`1016:1`** cut from its seventy-six-word summary to *Another Mouth*. The close first
+  gave the reason *a title in this volume prints no numeral*, which is not the rule; the
+  rule is the five prohibitions of `outline/volume-21.md` §7, and *Another Mouth* passes
+  them. The closing record also first said the title *had been* *A Second Mouth*, a
+  wording that never reached disk in any commit. Both are corrected in the record.
 - **`1010:21` and `1010:23`:** the gravel's spoken subtraction read *one thousand and
   nine* less seven hundred and twenty-two and then one, which is two hundred and
   eighty-eighth, against an ordinal of two hundred and eighty-ninth on the same page.
   Corrected to **one thousand and ten** in both places. The figure did not change and no
-  `CHAPTER:LINE` in this repository moved.
+  `CHAPTER:LINE` in this repository moved. **These two lines are prose and the close prompt
+  said not to touch prose; the deviation is named in the close record at §3.1a, with the
+  rejected alternative and the reversible action.**
 - **Five findings were recorded and deliberately not repaired**, with the reading and the
   reason in each: the palm figure written in two forms on `1026`, one duration given as
   *about three weeks* at `1010:45`, a count of times over a span at `1045:43`, the
-  volume's twenty-nine bare relative named days measured against three certified
-  volumes in front of it, and two band 4–5 titles that carry a spelled numeral.
+  volume's twenty-nine bare relative named days measured against three certified volumes in
+  front of it, and three titles of the fifty that carry a plain count-word.
 - **`outline/volume-21.md` §4.1 is wrong in one sentence about the seven off-mornings'
   weekdays** and says the missing Thursday sat at `1018`, which is a Saturday on the
   plan's own formula. The chapters are right; the plan is wrong; nothing was repaired in
   a chapter for it.
+
+## What the review of the close changed
+
+`logs/close-0006.review.log` found eight defects, **all of them in the record and none in
+the fifty chapters.** No chapter was restarted, no prose rewritten, no title changed, no
+figure on a page changed and no plot moved. The record was repaired in the open and
+`reviews/volume-21/volume-21-close.md` §11 carries the table. The four that change what a
+later writer inherits:
+
+1. **The calibration table in the close's §2.2 was wrong in three of its eight cells** and
+   had no instrument behind it. It now names one —
+   `reviews/volume-21/volume-21-close-weekdays-0V21L.py` — and the bare relative named days
+   for volumes 18, 19 and 20 are **252, 274 and 184**, not the 224, 268 and 174 first
+   printed. Volume 21's own twenty-nine across twelve chapters and the whole anchored
+   column reproduced exactly and stand. **The conclusion did not weaken; the margin went
+   from about six to nine times to about six to ten.**
+2. **The close's proof that no prose had changed was false.** A gate reading
+   `body-changed chapters: NONE` sat three lines above the disclosure of the two words
+   that did change. The true gate is printed now: thirty title lines changed, two body
+   lines changed, both at `1010`, twenty chapters untouched, zero references moved.
+3. **The byte-identical refrain in §2.5 was cited as a contiguous run** `1038`–`1050` and
+   does not stand byte-identical at `1039` or `1040`, where the sentence opens a longer
+   speech on the same line. Corrected to `1038` and `1041`–`1050`; the count of eleven
+   stands.
+4. **The reference count in §5 was ambiguous.** Nineteen `CHAPTER:LINE` references are in
+   the band 5 block and twenty are in the whole of `state/batch-summary.md`; the twentieth
+   is `1045:43` in the close's own block. All twenty were re-verified.
 
 ## Archive
 
@@ -80,5 +123,6 @@ Pre-reset state blocks, review receipts and verification scripts are under
 `reviews/volume-01/` … `reviews/volume-21/`. They are evidence, not live state. The
 repair passes for bands 4 and 5 are written up in
 `reviews/volume-21/batch-0005-review-repair.md` and
-`reviews/volume-21/batch-0006-review-repair.md`, and the close is
-`reviews/volume-21/volume-21-close.md`.
+`reviews/volume-21/batch-0006-review-repair.md`, the close is
+`reviews/volume-21/volume-21-close.md`, and the instrument its weekday figures come from
+is `reviews/volume-21/volume-21-close-weekdays-0V21L.py`.

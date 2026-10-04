@@ -25,18 +25,32 @@ the six opens a chapter.
 
 **WHAT THE CLOSE CHANGED: THIRTY TITLES, `1001`–`1030`, CUT FROM WHOLE PLOT SUMMARIES OF
 SIXTY TO A HUNDRED AND THIRTY-TWO WORDS TO TWO TO SIX WORDS AGAINST THE BODY, NAMING
-NOTHING AND PRINTING NO FIGURE, WITH NO PROSE TOUCHED; ONE TITLE AT `1016` CUT FROM *A
-SECOND MOUTH* TO *ANOTHER MOUTH*; AND TWO WORDS INSIDE TWO LINES AT `1010`, WHERE THE
-GRAVEL'S SPOKEN SUBTRACTION SAID *ONE THOUSAND AND NINE* AGAINST ITS OWN ORDINAL OF TWO
-HUNDRED AND EIGHTY-NINTH AND NOW SAYS *ONE THOUSAND AND TEN*. NO `CHAPTER:LINE` IN THIS
-REPOSITORY MOVED, ALL NINETEEN BAND 5 REFERENCES WERE RE-VERIFIED, AND NO STATE FIGURE
-NEEDED CORRECTING.**
+NOTHING AND PRINTING NO FIGURE, WITH NO PROSE TOUCHED BY ANY OF THE THIRTY CUTS; ONE TITLE
+AT `1016` CUT FROM ITS SEVENTY-SIX-WORD SUMMARY TO *ANOTHER MOUTH*; AND TWO WORDS INSIDE
+TWO LINES AT `1010`, WHERE THE GRAVEL'S SPOKEN SUBTRACTION SAID *ONE THOUSAND AND NINE*
+AGAINST ITS OWN ORDINAL OF TWO HUNDRED AND EIGHTY-NINTH AND NOW SAYS *ONE THOUSAND AND
+TEN*. NO `CHAPTER:LINE` IN THIS REPOSITORY MOVED, ALL TWENTY `CHAPTER:LINE` REFERENCES
+WERE RE-VERIFIED — NINETEEN IN THE BAND 5 BLOCK AND ONE IN THE CLOSE BLOCK ABOVE — AND NO
+STATE FIGURE NEEDED CORRECTING. THE TWO WORDS AT `1010` ARE PROSE AND THE CLOSE PROMPT
+SAID NOT TO TOUCH PROSE; THE DEVIATION IS NAMED AT §3.1a OF THE CLOSE RECORD.**
 
 **WHAT THE CLOSE FOUND AND LEFT ON THE PAGE, WITH THE REASON IN EACH CASE: the palm
 figure written in two forms on one page at `1026`; one duration given as *about three
-weeks* at `1010:45`; a count of times over a span at `1045:43`; twenty-nine bare
-relative named days against 224, 268 and 174 in volumes 18, 19 and 20 measured by the
-same detector; and two band 4–5 titles carrying a spelled numeral.**
+weeks* at `1010:45`; a count of times over a span at `1045:43`; twenty-nine bare relative
+named days against 252, 274 and 184 in volumes 18, 19 and 20 measured by the same
+detector; and three titles of the fifty carrying a plain count-word — `1003`, `1035`,
+`1037` — none of which is an off-morning ordinal or a count of asking.**
+
+**AND WHAT THE REVIEW OF THAT CLOSE REPAIRED, ALL OF IT IN THE RECORD AND NONE OF IT IN A
+CHAPTER: the three calibration figures above, which were first printed as 224, 268 and 174
+by an instrument that was not preserved and did not reproduce, are corrected beside the
+withdrawn figures and the instrument is now kept at
+`reviews/volume-21/volume-21-close-weekdays-0V21L.py`; the close's proof that no prose had
+changed was false and is replaced by a true gate; the byte-identical refrain's chapter
+list is `1038` and `1041`–`1050` and not `1038`–`1050`; and the `1016` reason is now the
+five prohibitions of `outline/volume-21.md` §7 rather than *a title prints no numeral*,
+which is not the rule. Full table at §11 of the close record. NO CHAPTER WAS RESTARTED, NO
+PROSE REWRITTEN, NO TITLE CHANGED, NO FIGURE ON A PAGE CHANGED AND NO PLOT MOVED.**
 
 **AND ONE FIGURE OF THE PLAN IS WRONG: `outline/volume-21.md` §4.1 lists the seven
 off-mornings' weekdays and then says there is no Thursday among them, and puts the

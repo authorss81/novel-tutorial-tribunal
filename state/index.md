@@ -22,8 +22,21 @@ Where every chapter is, and where the next one goes.
 
 **Volume 21 is closed at `1050`** — week 172 day 2, a Wednesday, on the seventh
 off-morning of the fifty. The close record is
-`reviews/volume-21/volume-21-close.md`. It owed no chapter, wrote none, and created no
-directory; the self-dispatch workflow selects the next phase.
+`reviews/volume-21/volume-21-close.md`; §11 of it is the review of that close and what was
+repaired in it. It owed no chapter, wrote none, and created no directory.
+
+## Where the next chapter goes
+
+Nowhere yet, and that is stated here rather than left blank. **The manuscript owes no
+chapter.** Volume 21 closed at `1050` and the successor is a **volume 22 planning phase**,
+owned by whoever owns `outline/series.md` and `outline/ending.md`, and the first thing it
+owes is the length decision recorded below — a volume 22 outline cannot say what a volume
+is while `series.md` says eight hundred and fifty chapters and the book is at one thousand
+and fifty. **No prompt directory has been created and none should be until that is
+settled.** `state/phase-ledger.json` still reads `batch-0002`, volume 1, chapters 11–20;
+it is controller-owned and was not edited, so this section is the designation until the
+controller corrects it. The self-dispatch workflow still chooses which phase runs — this
+section is what it would be choosing.
 
 ## What each state file is for
 
@@ -48,7 +61,9 @@ directory; the self-dispatch workflow selects the next phase.
 | how it ends, and what stays open | `outline/ending.md` |
 | this volume | `outline/volume-21.md` |
 | volume 21, closed | `reviews/volume-21/volume-21-close.md` |
-| the phase before this one | `workspace/volume-21/close-0006/PROMPT.md` |
+| the review of that close, and its eight repairs | `reviews/volume-21/volume-21-close.md` §11 |
+| the weekday figures the close certifies | `reviews/volume-21/volume-21-close-weekdays-0V21L.py` |
+| the phase before the close's review | `workspace/volume-21/close-0006/PROMPT.md` |
 | the work | `chapters/volume-21/` |
 
 ## Known disagreement, unresolved
