@@ -1,180 +1,395 @@
-# VOLUME 21, BAND 5 — CHAPTERS `1041`–`1050`, ⚹ TEN CHAPTERS, ⚹ **AND THIS IS THE LAST BAND OF VOLUME 21 AND THE MIDPOINT IS SPENT AND THE CONFIRMING AND THE CLIMAX AND THE ORDINARY FORM ARE OWED HERE AND ARE NOT SPENT BEFORE**
+# VOLUME 21, BAND 5 — CHAPTERS `1041`–`1050`
 
-**VOLUME 21, *THE NAME ALREADY ON IT*, `1001`–`1050`. ⚹ THIS BAND IS CHAPTERS `1041`–`1050` AND NOBODY ELSE, ⚹ AND ⚹ THE FIGURE OF CHAPTERS OWED IN THIS VOLUME IS FIFTY AND THE FIGURE OWED IN THIS BAND IS TEN, ⚹ AND THOSE ARE **TWO** FIGURES AND NEITHER IS THE OTHER.** ⚹ **AND ⚹ THE FIGURE OF WHAT IS MISSING FROM THE FIFTY OWED IS **TEN** AT THE START OF THIS BAND, ⚹ WHICH IS FORTY CHAPTERS ON DISK OF FIFTY OWED AND IS A FIGURE OF WHAT IS MISSING AND **NOT** A FIGURE OF WHAT IS DONE, ⚹ AND THE TWO MAY NOT BE ADDED AND NEITHER MAY BE PRINTED AS THE OTHER, ⚹⚾ AND ⚹⚾ IT IS **ZERO** AT THE END OF THIS BAND AND NOT AT THE START OF IT, ⚹⚾ AND ⚹⚾ **AND A FIGURE OF ZERO AT THE END OF A VOLUME IS **NOT** A FIGURE OF A FINISHED MANUSCRIPT, ⚹⚾ AND `outline/ending.md` STILL GOVERNS AND VOLUME 21 IS **NOT** THE ENDING OF THE MANUSCRIPT BY ANY DECISION OF ANY FILE IN THIS REPOSITORY.** ⚹
-
----
-
-## ⚹ WHAT THIS BAND MUST BE
-
-⚹ **TEN MORE MORNINGS ON ONE LANDING ABOVE A BANK OF ABOUT NINETY CUT STEPS, ⚹ IN A HOUSE WHOSE FIGURES ARE SPOKEN OUT LOUD BY THE PERSON THEY BELONG TO AND IN NO PANEL AND IN NO CHARTER AND IN NO PAGE.** ⚹
-
-⚹ **AND ⚹ BAND 4 IS ON DISK AND IS **NOT** TO BE REWRITTEN. ⚹ IT IS `1031`–`1040`, ⚹ ITS RECEIPT IS §0V21K IN THE SEVEN STATE FILES, ⚹ AND ITS OWN POINTERS FOR THE WHOLE BLOCKS THAT WENT OUT ARE IN `state/batch-summary.md`, `state/chapter-summaries.md`, `state/character-state.md` AND `state/current.md`, ⚹⚾ **AND SIX WHOLE BLOCKS LEFT THREE OF THOSE FILES DURING THAT BAND, ALL WHOLE AND ALL STILL CANON, ALL IN `reviews/volume-21/`, ⚹⚾ AND ⚹⚾ THE FIGURE OF WHAT THOSE SIX BLOCKS COST IN PROSE IS **NOT** PRINTED HERE, ⚹⚾ AND ⚹⚾ WHAT IS ON DISK IS THAT NOT ONE CHAPTER OF BAND 3 OR OF BAND 4 HAS BEEN RESTARTED, MOVED, SHORTENED OR ADVANCED.** ⚹
-
-⚹ **AND ⚹ THE ONE THING THAT IS TRUE AS THIS BAND OPENS IS THAT A NAME WENT OFF THAT LANDING WITHOUT A CARRIER, ⚹ THAT THE WOMAN IT REACHED IS THE ONLY PERSON THERE WHO KNOWS WHAT THAT PIECE OF WOOD IS, ⚹ THAT A MAN WITH A BROOM HAS SAID OUT LOUD THAT HE DOES NOT KNOW WHICH OF THEM THAT NAME IS FOR AND IS NOT GOING TO FIND OUT, ⚹ AND THAT **THE CONFIRMING IS OWED HERE AND HAS BEEN OWED SINCE BAND 1 AND HAS BEEN SPENT NOWHERE.** ⚹**
-
-⚹ **AND ⚹ THE THREE THINGS OWED IN THIS BAND AND IN NO EARLIER ONE, ⚹ AND ⚹⚾ EACH MAY LAND ON **ONE** MORNING ONLY, ⚹ AND ⚹⚾ AND **NONE** OF THEM MAY LAND ON AN OFF-MORNING, ⚹ AND ⚹⚾ AND NONE OF THEM MAY LAND BEFORE ITS OWN FLOOR:** ⚹
-
-1. ⚹ **THE CONFIRMING — §7.5, §1.6 — **ON `1041` OR AFTER, ⚹ IN THE MOUTH OF THE WOMAN OF THIRTY-EIGHT WHO SAWS LENGTHS AND WHO NAMED THE WOOD OUT OF HER OWN TRADE AT `992`, ⚹ AND IT IS THAT SHE SAYS OUT LOUD WHAT THAT PIECE OF WOOD IS, ⚹ AND THAT SHE IS **CONFIRMING A NAME AND IS **NOT** GIVING A THING**, ⚹ AND ⚹⚾ **AND THAT THE CONFIRMING MAKES THAT NAME **OWED AND NOT GIVEN**, ⚹⚾ AND ⚹⚾ **A THING THAT IS OWED AND NOT GIVEN IS THE SAME ON A LANDING AS A THING THAT IS NAMED WRONG.** ⚹⚾ AND NO MOUTH MAY SAY THAT LAST SENTENCE AND IT IS NOT SAID IN ANY WORDING, AND THE CONFIRMING DOES NOT RESOLVE ANYTHING AND IS NOT MEANT TO.** ⚹
-2. ⚹ **THE CLIMAX — §1.5, §7.5 — **ON `1046` OR AFTER, ⚹ AND IT IS THAT THE MAN OF THIRTY-ONE ASKS THE MAN WHO CANNOT READ **ONE** QUESTION: **WHETHER THE BARROW THAT WOOD WAS CUT FOR IS THE BARROW THAT COMES UP THAT BANK.** ⚹ **ASKING HIM IS ASKING HIM TO BE THE PERSON WHO SAYS THE THING BELONGS TO HIM, ⚹ AND A MAN WHO CANNOT READ THE NAME ON A PIECE OF WOOD CANNOT REFUSE THAT IN THE SAME WORDS, ⚹ HE REFUSES IT, ⚹ AND ⚹⚾ HE IS NOT TOLD HE WAS WRONG AND HE IS NOT TOLD HE WAS RIGHT, ⚹⚾ AND ⚹⚾ **ASKING, WHICH HAS COST HIM NOTHING FOR FOUR HUNDRED AND NINETY-SIX MORNINGS, COSTS HIM SOMETHING FOR THE FIRST TIME, ⚹⚾ AND ⚹⚾ **THE SOMETHING IS **NOT** PRINTED AND IS **NOT** GIVEN A FIGURE IN ANY WORDING AND IS **NOT** THE ANSWER.** ⚹**
-3. ⚹ **THE ORDINARY FORM OF §3.4 — IN A MOUTH, BY THE WOMAN OF FORTY-FOUR, FROM THE WALL AT THE BOTTOM OF THAT CART ROAD, ⚹ AND ⚹⚾ SHE SAYS, **BEFORE ANYBODY IS TO THANK HER**, THAT IT DOES **NOT** ANSWER HER QUESTION AT `1000:53` AND IS **NOT** MEANT TO, ⚹⚾ AND ⚹⚾ **NOBODY IS TO THANK HER AND NOBODY IS TO ASK HER WHETHER SHE IS IN IT, ⚹⚾ AND ⚹⚾ HER QUESTION IS NOT ANSWERED AND IS NOT TO BE ANSWERED, ⚹⚾ AND ⚹⚾ NOBODY IS TO TELL HER THAT NOBODY IS ANSWERING IT.** ⚹**
-
-⚹ **AND ⚹ THE SENTENCE ABOVE IS NOT TO BE CALLED THE RIGHT OF REFUSAL, ⚹ AND ⚹⚾ NO MOUTH MAY CALL IT THAT AND THE WORDS *RIGHT OF REFUSAL* STAND NOWHERE AT ALL, ⚹⚾ AND ⚹⚾ A NAME IS NOT A RIGHT AND THE SMALLEST FIGURE ON THAT LIST IS NOT A LESSER ONE.** ⚹
-
-⚹ **AND ⚹ THE ACCOUNT IS STILL INCOMPLETE AND STILL IN USE, ⚹ THE OFFER IS UNANSWERED, ⚹ THE NAME IS STILL WRONG, ⚹ AND NOBODY IS TO BE TOLD THAT ANY OF THAT IS FINISHED, ⚹⚾ AND ⚹⚾ **AT `1050` IT IS ALL STILL TRUE AND NOBODY IS RELIEVED.** ⚹**
+Ten chapters. The last band of the volume. Write the morning, not the compliance
+demonstration.
 
 ---
 
-## ⚹ THE CALENDAR, ⚹ COMPUTED BY RUNNING THE FORMULA AND NOT BY READING BAND 4's TABLE
+## 1. What this band is
 
-`shelf = ch − 125` · `week = 40 + (ch − 125) ÷ 7` · `day = (ch − 125) mod 7 + 1`, **day 1 = TUESDAY** · `morning = ch − 250` · `settlement = ch − 400` · `fever = ch − 283` days, **printed as weeks and the leftover days** · `hall = ch − 446` · `clear = ch − 500` · **his days in the county of Kell = `ch − 554`** · **the cut across his palm = `ch − 685`** · **his mistakes = `ch − 860`** · **the boy's days = `ch − 653`** · **the gravel = `1 + (ch − 722)`, spelled *`ch` LESS SEVEN HUNDRED AND TWENTY-TWO, **AND THEN ONE***, ⚹ **AND ⚹ NEITHER PIECE OF IT IS ADDED TO A DATE LINE.** ⚹ AND ⚹ THE STANDING OFFER = `ch − 700`, SPOKEN IN HIS OWN MOUTH WITH THE SUBTRACTION OUT LOUD, ⚹ **AND ⚹ IT IS **NOT** IN ANY DATE LINE AND IT IS **NEVER** ASKED, ANSWERED OR WITHDRAWN.** ⚹ `ch − 410`, **THE RAIL, IS RETIRED AND IS IN NO DATE LINE AT ALL.** ⚹
+Ten more mornings on one landing above a bank of about ninety cut steps. A man with
+a broom gives three figures off one stone every morning at the seventh hour and has
+never given a fifth. A man who cannot read asks the same question at the sixth hour
+and has not been answered in four hundred and eighty-six mornings. A man who cannot
+see well keeps a list of things he cannot check, and the list is empty. A woman who
+saws lengths three hundred yards down the cart road has a name in her head that she
+cannot put down. A woman who keeps twenty-nine chairs stands at the wall at the
+bottom of that road. A woman who reads for a living has the ninth of the nine
+positions, which is a public archive and not a stone, and her book is shut. A man of
+thirty-eight has a board with thirty-two notches in it inside his coat. A boy of
+thirteen counts his own days and will not turn them into a count of anything.
 
-⚹ **AND ⚹ THE TWO COUNTERS **SINCE THE DIVISION** AND **SINCE A PAGE WAS READ OUT WITH THE DOOR SHUT** ARE **NOT** CROSSED, ⚹ **AND THE FIGURES WERE NEVER WRONG: DIVISION = `ch − 446`** ⚹ **AND THE DOOR SHUT = `ch − 500`, ⚹ WHICH IS WHAT ALL FORTY CHAPTERS ON DISK SAY.** ⚹⚾
+And a man of thirty-one has been nobody for four hundred and eighty-six mornings and
+wants to be somebody, and the only thing that costs him nothing is asking.
 
-⚹ **THE WATER LADDER, ⚹ RUN FROM ITS OWN HEAD OF `686` AND **NOT** READ OFF ANY TABLE AND **NOT** READ OFF THE LAST CELL OF BAND 4, ⚹ **AND THE HEAD SENTENCE IS **NOT** ALL EIGHTS: 686→689 THREE DAYS, 689→695 SIX, 695→702 SEVEN, AND EIGHT EVERY TIME AFTER THAT. ⚹ IT IS RUN ON THE **RESIDUE OF `ch` UPON `EIGHT`** AND NOT ON THE WEEK, ⚹ **AND A RESIDUE IS **NOT** A CHAPTER NUMBER AND YOU MAY NOT USE IT AS ONE.** ⚹
+**Three things happen in this band that have not happened before. Each lands on one
+morning. None of them lands on an off-morning. None of them lands early.**
 
-⚹ **THE TEN MORNINGS OF THIS BAND, ⚹ WORKED OUT BY RUNNING THE FORMULA, ⚹ AND EVERY FIGURE IN IT IS A **CLAIM ABOUT A CHAPTER THAT DOES NOT EXIST** AND NOT A FACT ABOUT ONE, ⚹ **AND THE METHOD IS REPRODUCIBLE IN ONE LINE OF ARITHMETIC, ⚹ AND YOU OWN THESE TEN ROWS AND YOU OWN THEM MORNING BY MORNING. ⚹ RUN IT YOURSELF BEFORE YOU WRITE AND IF A ROW DISAGREES WITH YOUR OWN RUN, ⚹ **THE ROW IS WRONG AND NOT YOUR RUN.** ⚹**
+### The confirming — `1041` or after
 
-| `ch` | week / day | weekday | the water | the offer | the boy | the palm | the mistakes | his gravel |
+The woman who saws lengths says out loud what that piece of wood is. She says she is
+confirming a name and not giving a thing. It resolves nothing and is not meant to.
+Nobody may print, in any wording, what the confirming does to the name; she does not
+say it and no chapter says it for her. **She is not to be used for her own account.**
+She has owed this since the first band of the volume.
+
+Write the morning so that she says it **and something else happens** — somebody wants
+something, somebody else gives a reason they cannot, a decision is made, a cost is
+paid. A chapter in which the confirming is said and nothing else happens has spent it
+and resolved nothing.
+
+### The climax — `1046` or after
+
+The man of thirty-one asks the man who cannot read one question: whether the barrow
+that wood was cut for is the barrow that comes up that bank.
+
+Asking him is asking him to be the person who says the thing belongs to him, and a
+man who cannot read the name on a piece of wood cannot refuse that in the same words.
+He refuses. **He is not told he was wrong and he is not told he was right.** Nobody
+labels the answer for him afterwards, and Ilyan will want to.
+
+Asking has cost Ilyan nothing for four hundred and eighty-eight mornings. On this
+morning it costs him something. **The something is not printed, is not given a figure,
+and is not the answer.** That cost is what the band exists to spend, and no one is
+permitted to put a number on it.
+
+### The ordinary form — in a mouth, by the woman of forty-four
+
+From the wall at the bottom of that cart road. A thing made for a use is not the
+user's. She says it, and **before anybody is allowed to thank her** she says that it
+does not answer her question and is not meant to. Nobody thanks her. Nobody asks her
+whether she is in it. Nobody tells her that nobody is answering it. Her question from
+`1000` is not answered and is not to be.
+
+**The ordinary form is not the right of refusal and no mouth may call it that.** The
+words *right of refusal* stand nowhere at all in this volume. A name is not a right,
+and the smallest figure on that list is not a lesser one.
+
+---
+
+## 2. The calendar
+
+Run the formulas yourself before you write. If a row below disagrees with your own
+run, the row is wrong and not your run.
+
+`shelf = ch − 125` · `week = 40 + (ch − 125) ÷ 7` · `day = (ch − 125) mod 7 + 1`,
+day 1 = Tuesday · `morning = ch − 250` · `settlement = ch − 400` ·
+`fever = ch − 283` days, printed as weeks and the leftover days · `hall = ch − 446` ·
+`clear = ch − 500` · `days in the county of Kell = ch − 554` ·
+`the cut across his palm = ch − 685` · `his mistakes = ch − 860` ·
+`the boy's days = ch − 653` · `the gravel = 1 + (ch − 722)`, spelled *`ch` less seven
+hundred and twenty-two, **and then one*** · `the standing offer = ch − 700`, spoken
+in his own mouth with the subtraction out loud, **never** in a date line.
+
+The two counters since the division and since the door-shut page are **not** crossed
+and have never been wrong: division is `ch − 446`, the door shut is `ch − 500`.
+
+**The water ladder runs from its own head of `686`, not off any table and not off
+the last cell of band 4.** The head sentence is not all eights: 686→689 three days,
+689→695 six, 695→702 seven, and eight every time after. It runs on the residue of
+`ch` upon eight, and a residue is not a chapter number.
+
+Every figure in this table is a claim about a chapter that does not exist yet.
+
+| ch | week / day | weekday | the water | offer | the boy | the palm | the mistakes | his gravel |
 |---|---|---|---|---|---|---|---|---|
 | `1041` | 170 / 7 | **Monday** | sixteen that holds · about sixty under · **one** day | 341 | 388 | 356 | 181 | 320th |
-| `1042` | **171 / 1** | **Tuesday** | ⚹ **NONE** · **NONE** · **NONE** — ⚹ **THE SIXTH OFF-MORNING, ⚹ AND ⚹ THE MORNING NAMED BY THE SIXTH WEEK BOUNDARY INSIDE THE FIFTY, WHICH FALLS BETWEEN `1041` AND THIS MORNING, ⚹ AND ⚹ THE TWO SETS LAND ON **ONE** MORNING AND THAT IS THE TRAP `885` WAS** | 342 | 389 | 357 | 182 | 321st |
+| `1042` | **171 / 1** | **Tuesday** | **none · none · none** — the sixth off-morning, and the morning named by the sixth week boundary, which falls **between** `1041` and this one | 342 | 389 | 357 | 182 | 321st |
 | `1043` | 171 / 2 | Wednesday | four inches · about ninety under · seven days | 343 | 390 | 358 | 183 | 322nd |
 | `1044` | 171 / 3 | Thursday | eight inches · about eighty under · six days | 344 | 391 | 359 | 184 | 323rd |
 | `1045` | 171 / 4 | **Friday** | twelve inches · about seventy under · **five** days | 345 | 392 | 360 | 185 | 324th |
-| `1046` | 171 / 5 | **Saturday** | ⚹ **SIXTEEN INCHES AND IT HOLDS, A FULL BANK, AND THE LAST FULL BANK IN THE VOLUME** · about sixty under · **four** days — ⚹ **AND THE SEVENTH ANCHOR, ⚹ AND THE FEVER AT `1046` IS **ONE HUNDRED AND NINE WEEKS** EXACTLY, ⚹ AND ⚹⚾ THE QUESTION TO THE MAN WHO CANNOT READ MAY LAND HERE AND **NOT** BEFORE** | 346 | 393 | 361 | 186 | 325th |
+| `1046` | 171 / 5 | **Saturday** | **sixteen that holds, a full bank, and the last full bank in the volume** · about sixty under · **four** days — the seventh anchor, and the fever here is **one hundred and nine weeks** exactly | 346 | 393 | 361 | 186 | 325th |
 | `1047` | 171 / 6 | Sunday | sixteen that holds · about sixty under · **three** days | 347 | 394 | 362 | 187 | 326th |
-| `1048` | **171 / 7** | **Monday** | sixteen that holds · about sixty under · **two** days — ⚹ **AND THE MORNING NAMED BY THE SEVENTH WEEK BOUNDARY IS THE MORNING AFTER THIS ONE, ⚹ AND THIS BAND CARRIES **TWO** BOUNDARIES AND NOT ONE** | 348 | 395 | 363 | 188 | 327th |
-| `1049` | **172 / 1** | **Tuesday** | sixteen that holds · about sixty under · **one** day — ⚹ **AND THE BOUNDARY FALLS BETWEEN THE MORNING BEFORE AND THIS ONE, ⚹ AND ⚹ NO CHAPTER MAY BE CUT AT A WEEK BOUNDARY INSIDE ITS OWN DATE LINE** | 349 | 396 | 364 | 189 | 328th |
-| `1050` | **172 / 2** | **Wednesday** | ⚹ **NONE** · **NONE** · **NONE** — ⚹ **THE SEVENTH OFF-MORNING, ⚹ AND ⚹ THE LAST MORNING OF VOLUME 21, ⚹ AND ⚹ THE FIGURE OF THE OFFER IS **THREE HUNDRED AND FIFTY** ON IT AND IT IS UNANSWERED AND NOBODY IS RELIEVED, ⚹ AND ⚹ THE NAME IS STILL ON THAT STRIP IN THE MOUTHS AND IS STILL WRONG, ⚹ AND ⚹⚾ **NOTHING MAY COME OUT OF THE STONE ON IT, ⚹⚾ AND ⚹⚾ NO WHOLE FIGURE OF WEEKS, NO FIGURE OF INCHES, NO FIGURE OF STEPS UNDER, NO FIGURE OF DAYS, NO FIGURE OF THINGS LEFT, NO FIGURE OF TIMES ANYTHING WAS SAID, ⚹⚾ AND ⚹⚾ NO ORDINAL OF ANY KIND, ⚹⚾ AND ⚹⚾ AND NOBODY IS TO BE TOLD THAT ANYTHING IS FINISHED.** ⚹ | 350 | 397 | 365 | 190 | 329th |
+| `1048` | **171 / 7** | **Monday** | sixteen that holds · about sixty under · **two** days — the seventh boundary falls **after** this morning; this band carries **two** boundaries, not one | 348 | 395 | 363 | 188 | 327th |
+| `1049` | **172 / 1** | **Tuesday** | sixteen that holds · about sixty under · **one** day — the boundary falls between the morning before and this one | 349 | 396 | 364 | 189 | 328th |
+| `1050` | **172 / 2** | **Wednesday** | **none · none · none** — the seventh off-morning, and the last morning of volume 21 | 350 | 397 | 365 | 190 | 329th |
 
-⚹ **AND ⚹ ⚠ RE-RUN BOTH FORMULAS FOR ALL TEN MORNINGS YOURSELF BEFORE YOU WRITE, ⚠ AND NOT OFF THIS TABLE.** ⚹⚾ ⚹ **THE REMAINING COUNTERS FOR BAND 5, ⚹ BECAUSE A DATE LINE OWES ALL OF THEM:** ⚹ his morning **seven hundred and ninety-first** through ⚹ **eight hundredth** on `1050` · ⚹ days after the settlement **six hundred and forty-first** through ⚹ **six hundred and fiftieth** · ⚹ **five hundred and ninety-five** days since the division on `1041` and ⚹ **six hundred and four** on `1050` · ⚹ **five hundred and forty-one** days since a page was read out with the door shut on `1041` and ⚹ **five hundred and fiftieth** on `1050` · ⚹ **four hundred and eighty-seven** days in the county of Kell on `1041` and ⚹ **four hundred and ninety-six** on `1050` · ⚹ the fever **one hundred and eight weeks and two days** on `1041`, ⚹ **one hundred and nine weeks exactly** on `1046`, ⚹ and **one hundred and nine weeks and four days** on `1050` · ⚹ and **every one of those runs UP BY ONE ON EACH OF THE TEN MORNINGS.** ⚹⚾ ⚹ **AND ⚹ FOUR THINGS LAND ON TOP OF EACH OTHER IN THIS BAND AND ⚹ EACH IS A FIGURE OF A DIFFERENT KIND AND ⚹ NONE MAY BE PRINTED AS ANOTHER: ⚹ `1042` IS **BOTH** THE SIXTH OFF-MORNING **AND** THE MORNING NAMED BY THE SIXTH WEEK BOUNDARY · ⚹ `1046` IS **BOTH** A FULL BANK **AND** AN ANCHOR · ⚹ `1048`/`1049` IS THE SEVENTH WEEK BOUNDARY · ⚹ `1050` IS THE LAST MORNING OF THE VOLUME **AND** IS AN OFF-MORNING.** ⚹
+The rest of the counters, all of which run up by one on each of the ten mornings:
+his morning seven hundred and ninety-first through eight hundredth on `1050`; days
+after the settlement six hundred and forty-first through six hundred and fiftieth;
+five hundred and ninety-five days since the division on `1041` and six hundred and
+four on `1050`; five hundred and forty-one days since the door-shut page on `1041`
+and five hundred and fiftieth on `1050`; four hundred and eighty-seven days in the
+county of Kell on `1041` and four hundred and ninety-six on `1050`; the fever one
+hundred and eight weeks and two days on `1041`, one hundred and nine weeks exactly on
+`1046`, one hundred and nine weeks and four days on `1050`.
+
+**Four things land on top of each other in this band, each a figure of a different
+kind, and none may be printed as another:** `1042` is both the sixth off-morning and
+the morning named by the sixth boundary · `1046` is both a full bank and an anchor ·
+`1048`/`1049` is the seventh boundary · `1050` is the last morning of the volume and is
+an off-morning.
+
+**Nothing may come out of the stone on `1042` or on `1050`.** On an off-morning a
+whole figure is the one way a band prints that morning's place in a run by accident.
 
 ---
 
-## ⚹ THE TEN OWED LINES, ⚹ ONE PER CHAPTER, ⚹ READ BY A PERSON AT THE END OF EVERY CHAPTER
+## 3. The ten owed lines
 
-⚹ **⚹ NOT ONE GATE IN THIS REPOSITORY MEASURES WHETHER THE EVENT A VOLUME OWES IS ON THE PAGE. ⚹ AT THE END OF EVERY CHAPTER a PERSON — YOU — READS THE CHAPTER AGAINST THE LINE THAT OWES IT AND WRITES DOWN THE `CHAPTER:LINE` OF WHAT THE LINE OWED, ⚹ AND ⚹⚾ A `CHAPTER:LINE` THAT DOES NOT RESOLVE IS A FIGURE THAT WAS WRONG ONCE, ⚹⚾ AND ⚹⚾ **EVERY FIGURE YOU PRINT MUST BE RE-`GREP`-ED AGAINST DISK BEFORE THE BAND IS FINISHED, ⚹⚾ AND ⚹⚾ BAND 2 SHIPPED **FOURTEEN** WRONG `CHAPTER:LINE` FIGURES AND EVERY ONE OF THEM WAS WRONG **IN THE STATE FILES** AND NONE WAS WRONG IN A CHAPTER, ⚹⚾ WHICH IS THE ARGUMENT: ⚹ THE FIGURE IS THE THING THAT BREAKS, NOT THE PROSE.** ⚹
+No instrument in this repository measures whether the event a volume owes is on the
+page. At the end of every chapter, read the chapter against the line that owes it and
+write down the `CHAPTER:LINE` of what the line owed. Every figure you print must be
+re-grepped against disk before the band is finished. Band 2 shipped fourteen wrong
+`CHAPTER:LINE` figures and every one of them was wrong in the state files and none was
+wrong in a chapter. The figure is the thing that breaks, not the prose.
 
-⚹ **⚹ THE TEN LINES BAND 4 WROTE ARE **UNCHANGED** AND THE FIGURE OF CHAPTERS REWRITTEN IS **ZERO**, ⚹ AND THE TEN DATA ROWS AND THE BOLD ELEVENTH IN §0V21K ARE **UNCHANGED** FOR THE TEN MORNINGS THEY COVER, ⚹ AND ⚹⚾ **0** DATA ROWS ARE IN `state/current.md`. ⚹⚾
-
-| # | the line that owes it | what it owes, in half a line |
+| # | what it owes | in half a line |
 |---|---|---|
-| 1 | §7.5, §1.6 | **the confirming is on the page, in the mouth of the woman of thirty-eight, on `1041` or after, ⚹ and she says she is confirming a name and is not giving a thing, ⚹ and ⚹⚾ nobody may print that it makes the name owed and not given — ⚹⚾ and it resolves nothing** |
-| 2 | §7.5, §1.5 | **the man of thirty-one asks the man who cannot read one question, on `1046` or after, ⚹ and the man who cannot read refuses it, ⚹ and ⚹⚾ he is not told he was wrong and he is not told he was right, ⚹⚾ and the ask costs him something and the something is not printed and is not the answer** |
-| 3 | §3.4, §7.5 | **the ordinary form is said in a mouth by the woman of forty-four from the wall, ⚹ and she says before anybody thanks her that it does not answer her question and is not meant to, ⚹ and ⚹⚾ nobody thanks her and nobody asks her whether she is in it and nobody tells her nobody is answering her** |
-| 4 | §4, the standing offer | **the standing offer is **three hundred and forty-one** at `1041` and one higher on each of the ten mornings to **three hundred and fifty** at `1050`, **asked on none**, **answered on none**, **withdrawn on none**, and nobody is relieved** |
-| 5 | §9, the first expensive prohibition | **no new name is put on anything, ⚹ and the figure of how many new names are put on anything in this volume is not printed, and neither is the figure of zero, and the word *zero* does not occur on any of the ten pages** |
-| 6 | §10 item 9, and §9 | **nobody lays a hand on that ash**, not pulled, not turned over, not weighed in the hand, not read aloud, not carried inside, not put back where it was, not used, **not laid on in order to take a name off it**, and not laid on after the band-2 sentences either — ⚹ **and every chapter says so in words** |
-| 7 | §9, the third prohibition | **nobody answers a question about that name** — ⚹ **not yes, not no, not a counter-question, and not a figure of how many mornings ago — ⚹⚾ AND THE ONE QUESTION THE MAN OF THIRTY-ONE ASKS **IS** ABOUT A BARROW AND **NOT** ABOUT THE NAME, ⚹⚾ AND ⚹⚾ NOBODY ANSWERS **THAT** ONE EITHER, EXCEPT THE MAN IT IS FOR, WHO REFUSES IT IN HIS OWN WORDS AND NOT IN THE ASKER'S** |
-| 8 | §9, the head-count prohibition and §5.2 | **the figure of how many people were in a room, on a step, or hearing anything is absent, in any wording, including *about nine*, including *not one of them*, including *two men*, including *one of them*, including *both of them*, including inside a quotation, ⚹ and ⚹⚾ **BAND 4's FIGURE OF WHAT THAT CLASS COST IS ON DISK AND IS **NOT** INHERITED AND NOT PRINTED, ⚹⚾ AND ⚹⚾ WHAT **IS** ON DISK IS THAT **NOT ONE** HEAD COUNT SURVIVES IN ANY OF ITS TEN, ⚹⚾ AND THAT IS A FIGURE YOU MAY **NOT** INHERIT** |
-| 9 | §10 item 8, and §3.4 | **every name in the chapter traces, on the page, to a mouth that said it**, ⚹ and the ordinary form is said in a mouth by the woman of forty-four and is **still given no name**, **still not called the right of refusal**, and a thing named for a person is not that person's** |
-| 10 | §9, the fourth prohibition, and §5.2 | **the figure of how many things are left on that landing is not given again in any wording, is not rebuilt, is not printed as *three*, is not in any title, and no figure of zero is printed either** |
+| 1 | the confirming | on the page `1041` or after, in the mouth of the woman of thirty-eight, saying she is confirming a name and not giving a thing, and it resolves nothing |
+| 2 | the climax | on the page `1046` or after, the man of thirty-one asks the man who cannot read one question about a barrow and not about the name, he refuses it, he is not told he was wrong and not told he was right, and the ask costs the asker something that is not printed and is not the answer |
+| 3 | the ordinary form | said in a mouth by the woman of forty-four from the wall, who says first that it does not answer her question, and nobody thanks her, nobody asks her whether she is in it, and nobody tells her nobody is answering her |
+| 4 | the standing offer | three hundred and forty-one on `1041`, one higher each morning, three hundred and fifty on `1050`; **asked on none, answered on none, withdrawn on none**; nobody is relieved |
+| 5 | the first expensive prohibition | no new name on anything, and neither the figure of how many nor the figure of zero is printed, and the word *zero* does not occur on any of the ten pages |
+| 6 | the hand | nobody lays a hand on that ash — not pulled, not turned over, not weighed in the hand, not read aloud, not carried inside, not put back, not used, not laid on to take a name off it — and **every chapter says so in its own words** |
+| 7 | the unanswered question | nobody answers a question about that name: not yes, not no, not a counter-question, not a figure of how many mornings ago — **and nobody answers the barrow question either, except the man it is for, who refuses it in his own words** |
+| 8 | no head counts | no figure of how many people were in a room, on a step, or hearing anything, in any wording, including *about nine*, *not one of them*, *two men*, *one of them*, *both of them*, including inside a quotation |
+| 9 | the ordinary form again | every name in the chapter traces on the page to a mouth that said it; the ordinary form is still given no name; a thing named for a person is not that person's |
+| 10 | things left | the figure of how many things are left on that landing is not given again in any wording, not rebuilt, not printed as *three*, not in any title, and no figure of zero is printed either |
 
 ---
 
-## ⚹ ⚹⚾ THE PROSE GATE, ⚹ **WHICH IS **NOT** A TOOL AND IS **NOT** OPTIONAL**, ⚹ **AND IT IS THE **ONE** THING IN THIS FILE THAT MEASURES WHETHER THE CHAPTER IS ANY GOOD** ⚹⚾
+## 4. How to write the morning
 
-⚹ **⚹ BAND 4 MEASURED ITSELF AND THE FIGURES BELOW ARE **ITS** FIGURES AND **NOT** A HOUSE FIGURE AND ARE **NOT** CARRIED FORWARD AND ARE **MEASURED BY YOU.** ⚹⚾ **BAND 3 ARRIVED WITH **NINETY-FIVE** *NOBODY* PARAGRAPHS ANYWHERE IN ITS TEN, ⚹ FOLDED **NINETY-ONE** OF THEM INTO THE SPEECH OR NARRATION THEY FOLLOWED, ⚹ AND CAME DOWN TO **FOUR** AFTER A DIALOGUE BLOCK AND **FOUR** OPENINGS. ⚹ BAND 4 CAME DOWN TO **ONE** AFTER A DIALOGUE BLOCK AND **FOUR** OPENINGS, ⚹ **AND ⚹⚾ IT CAME DOWN TO **TEN** CLOSING LINES ON **TEN** DIFFERENT DEVICES AND ⚹⚾ **NOT ONE** OF THE TEN CARRIED THE OFFER, THE ACCOUNT OR *NOBODY IS RELIEVED*.** ⚹
+**Make something happen.** Band 4 read as a compliance demonstration: nine people
+formally refusing something in sequence, every morning, with the figures on top.
+This band has three events in it. Put a want in the room. Somebody asks somebody for
+something they want for themselves, and the other one gives a reason they cannot, and
+the giving is neither virtue nor refusal — it is a person with their own hold on a
+thing.
 
-⚹ **BAND 5 OWES THE SAME MEASUREMENT AND IT IS NOT TO BE INHERITED. ⚹ THREE THINGS, AND ALL THREE COST NOTHING:**
+**A person may be wrong on this band, and may be wrong in a way that matters, and may
+be told so by another person.** That is the opposite of a licence. The question to the
+man who cannot read is answered by a refusal that is not a shape a person can work
+with. A band in which every mouth gave a clean working on `1050` would have avoided
+its own last morning.
 
-1. ⚹ **NOT EVERY SILENCE GETS ITS OWN PARAGRAPH. ⚹ OWEING LINE 7 IS MET IF THE CHAPTER SAYS SO **ONCE**, ⚹ INSIDE A SPEECH, ⚹ INSIDE THE SWEEP, ⚹ INSIDE THE LAST LINE, ⚹ **WHEREVER IT GOES IS NOT THE POINT.** ⚹⚾ **ON THIS BAND THE FIGURE OF *NOBODY* PARAGRAPHS THAT FOLLOW A DIALOGUE BLOCK IS **AT MOST FIVE** ACROSS **TEN** CHAPTERS, ⚹ AND NOT *AT MOST FIVE PER CHAPTER*, ⚹⚾ AND ⚹⚾ THE FIGURE OF *NOBODY* OPENINGS ANYWHERE IN THIS BAND IS **UNDER THIRTY**, ⚹⚾ AND ⚹⚾ THAT FIGURE IS COUNTED BY YOU AND PRINTED IN YOUR RECEIPT AND IS **NOT** A FIGURE YOU MAY INHERIT.** ⚹
-2. ⚹ **A CLOSING IS A BEAT AND IS NOT A STATUS REPORT. ⚹ ⚹ A CHAPTER MAY NOT END BY RESTATING THE OFFER, THE ACCOUNT AND WHO IS NOT RELIEVED. ⚹ NOT ONE OF THE TEN CLOSINGS IN THIS BAND MAY CARRY ALL THREE, ⚹ AND **AT MOST FOUR** OF the ten MAY CARRY THE OFFER AT ALL, ⚹ AND THE FIGURE OF HOW MANY CARRY IT IS A FIGURE YOU MEASURE. ⚹ END ON SOMETHING THAT HAPPENED IN THE LAST PARAGRAPH: ⚹ A DECISION, ⚹ A COST, ⚹ A REVERSAL, ⚹ A DISCOVERY, ⚹ A QUESTION ASKED, ⚹ OR SOMETHING A PERSON DID WITH THEIR HANDS. ⚹⚾ **AND ⚹⚾ THE LAST MORNING OF THIS VOLUME IS `1050` AND IT IS AN OFF-MORNING, ⚹⚾ AND ⚹⚾ A BAND THAT ENDS BY NAMING ANYTHING HAS NAMED IT IN ITS LAST LINE AND HAS SPENT THE NEXT BAND'S FIRST MORNING, ⚹⚾ AND ⚹⚾ `1030` NAMED NOTHING AND `1040` NAMED NOTHING AND `1050` MUST NAME NOTHING EITHER, ⚹⚾ AND ⚹⚾ **A CHAPTER MAY NOT END ON AN INVENTORY OF WHAT IS STILL UNFINISHED, ⚹⚾ BECAUSE ON THE LAST MORNING OF A VOLUME THAT IS A SUMMING-UP AND NOT A MORNING.** ⚹**
-3. ⚹ **PEOPLE WANT THINGS FROM EACH OTHER, ⚹ NOT FROM THE READER. ⚹ ⚹ SOMEONE ASKS SOMEBODY FOR SOMETHING THEY WANT FOR THEMSELVES, ⚹ AND THE OTHER ONE GIVES THEM A REASON NOT TO, ⚹ AND THE GIVING IS NOT VIRTUE AND IS NOT REFUSAL EITHER — ⚹ IT IS A PERSON WITH THEIR OWN HOLD ON A THING.** ⚹⚾ **BAND 4 OWED ITS OWN THREE AND ⚹⚾ BAND 5 OWES ITS OWN, ⚹⚾ AND ⚹⚾ NONE OF THEM MAY BE SPENT AS A PERSON BEING POLITE ABOUT SILENCE.** ⚹⚾ **AND ⚹⚾ ON THIS BAND A PERSON MAY BE WRONG, ⚹ AND MAY BE WRONG IN A WAY THAT MATTERS, ⚹ AND MAY BE TOLD SO BY ANOTHER PERSON, ⚹⚾ AND ⚹⚾ THAT IS THE FIRST TIME IN FIVE VOLUMES THAT IS PERMITTED ON THIS LANDING AND IT IS **NOT** A LICENCE, ⚹⚾ IT IS THE **OPPOSITE** OF IT: ⚹⚾ THE QUESTION TO THE MAN WHO CANNOT READ IS ANSWERED BY A REFUSAL THAT IS **NOT** A SHAPE A PERSON CAN WORK WITH, ⚹⚾ AND ⚹⚾ A BAND IN WHICH EVERY MOUTH GAVE A CLEAN WORKING ON `1050` WOULD BE A BAND THAT HAD AVOIDED ITS OWN LAST MORNING.** ⚹
+**Vary the sentences.** A repeated silence must be written as a different sentence
+every morning. The refusal ritual is this volume's voice and it stays, but ten
+chapters of the same clause in the same order is a copy, not a voice. On band 4 the
+figures were: `nobody` paragraphs immediately after a dialogue block, one across ten
+chapters, against a cap of five; `nobody` openings anywhere, four. Measure your own
+and do not inherit those numbers.
 
-⚹ **AND ⚹ ONE MEASUREMENT YOU MUST PRINT: ⚹⚹ FOR EACH OF THE TEN CHAPTERS, THE `CHAPTER:LINE` OF THE LINE THAT ENDS IT, ⚹ AND ⚹⚹ THOSE TEN LINES MUST NOT BE THE SAME LINE OF WORK. ⚹⚾ IF TWO OF THEM ARE THE SAME DEVICE — A FIGURE, AN INVENTORY, A REFUSAL TO BE NAMED — ⚹ THE CHAPTER HAS FAILED THIS GATE AND IS REWRITTEN BEFORE THE BAND IS FINISHED.** ⚹⚾
+**A closing is a beat, not a status report.** At most four of the ten may carry the
+offer at all, and no closing may carry the offer, the account and *nobody is relieved*
+together. End on something that happened in the last paragraph: a decision, a cost, a
+reversal, a discovery, a question asked, something a person did with their hands. The
+ten closing lines must not be the same device twice — a figure, an inventory, a
+refusal to be named. `1050` may not end on an inventory of what is still unfinished,
+because on the last morning of a volume that is a summing-up and not a morning, and it
+may not name anything.
 
-⚹ **⚹ AND ⚹ WHAT IS **NOT** IN THIS SECTION, ⚹ SO THAT IT IS NOT MISREAD AS A LICENCE: ⚹ ⚹ THE TEN OWED LINES ABOVE ARE UNCHANGED AND EVERY PROHIBITION BELOW IS UNCHANGED, ⚹⚾ AND ⚹⚾ NOT ONE FIGURE, DATE, COUNTER OR PROHIBITION IS RELAXED BY ANYTHING IN THIS SECTION, ⚹⚾ AND ⚹⚾ BAND 4 IS NOT REWRITTEN, ⚹⚾ AND THE PLOT OF THIS BAND IS THE PLOT THE CARDS OWE AND IS NOT THE PLOT YOU IMPROVE.** ⚹
-
----
-
-## ⚹ ⚹⚾ THE FIGURES YOU MAY **NOT** PRINT, ⚹ AND THE ONES THAT COST SOMETHING
-
-- ⚹ **THE FIGURE OF HOW MANY NEW NAMES ARE PUT ON ANYTHING IN THIS VOLUME IS **ZERO**, ⚹ **AND ⚹ YOU MAY **NOT** PRINT THE FIGURE **ZERO**, ⚹ AND YOU MAY NOT PRINT ANY OTHER FIGURE OF IT EITHER.** ⚹
-- ⚹ **THE FIGURE OF HOW MANY THINGS ARE LEFT ON THAT LANDING. ⚹ GIVEN ONCE, AT `995`, SPENT. ⚹ MAY NOT BE GIVEN AGAIN IN ANY WORDING, INCLUDING *THREE*, AND MAY NOT BE IN ANY TITLE, AND MAY NOT BE REBUILT AND GIVEN LATER, AND **NO FIGURE OF ZERO MAY BE PRINTED EITHER.** ⚹**
-- ⚹ **THE COUNT OF ASKING. ⚹ GIVEN ONCE, AT `947`, SPENT, ⚹ AND ⚹ IT WAS SPENT A THIRD TIME ON `1019` AND ⚹ THAT WAS THE LAST OF IT, ⚹ AND ⚹ A BAND 5 THAT GOES BACK ON IT IS SPENDING IT A FOURTH TIME. ⚹ MAY NOT BE PUT INTO SENA DORR's MOUTH, ⚹ AND ⚹ IF IT IS TO REACH HER IT REACHES HER ONCE, IN A MOUTH, BECAUSE A PERSON ASKED HER, ⚹ AND ⚹ **IT IS **NOT** OWED IN THIS BAND.** ⚹**
-- ⚹ **THE FIGURE OF SIXTY-THREE STITCHES. ⚹ ON NO PAGE, NOT RE-COUNTED, NOT GIVEN TO A SECOND PERSON, AND NOBODY IS TO TELL THE BOY HE FOUND ANYTHING.** ⚹
-- ⚹ **ANY HEAD COUNT OF PEOPLE, IN ANY WORDING, INCLUDING *ABOUT NINE*, INCLUDING *ABOUT NINE OF THEM* AS A FIGURE OF A LANDING, INCLUDING *NOT ONE OF THEM*, INCLUDING *TWO MEN*, INCLUDING *ONE OF THEM*, INCLUDING *BOTH OF THEM*, INCLUDING INSIDE A QUOTATION. ⚹ ⚹ AND ⚹ THE MIDPOINT'S OWN FIGURE OF HOW MANY HEARD IT IS **NOT** PRINTED AND WAS **NOT** PRINTED IN BAND 4 AND MAY **NOT** BE PRINTED NOW THAT IT IS IN THE PAST. ⚹**
-- ⚹ **ANY FIGURE OF HOW MANY TIMES ANYTHING WAS SAID, INCLUDING *THAT WORD WENT ROUND*, ⚹ AND ANY FIGURE OF HOW LONG A NAME HAS BEEN A NAME OR HAS STOOD ON THAT ASH, ⚹ **AND NEITHER IS PRINTED EVEN AS *ABOUT N WEEKS*, ⚹ AND THIS IS THE WHOLE SUBJECT OF THE VOLUME AND IT IS THE ONE FIGURE THE VOLUME IS FORBIDDEN TO PRINT.** ⚹⚾ ⚹⚾ **THOSE ARE **THREE** PROHIBITIONS AND **THREE** FIGURES AND MAY NOT BE ADDED.** ⚹**
-- ⚹ **THE FIGURE OF HOW FAR THE VOICE WENT DOWN THAT CART ROAD. ⚹ GIVEN NOWHERE AND OWED **ZERO**, ⚹ AND THE FIGURE OF HOW FAR A MAN OF FORTY-FOUR CAME UP THAT ROAD PAST HER OWN WALL IS OWED **ZERO**, ⚹ AND THE FIGURE OF HOW FAR A BOY WENT DOWN THAT LANE IS OWED **ZERO**, ⚹ AND ⚹⚾ **ON `1018` A FIGURE OF THAT WALKING WAS GIVEN AS A FIGURE OF A FLIGHT OF STEPS THAT EXISTED BEFORE HIM AND NOT OF HIM, ⚹⚾ AND THAT IS THE ONLY WAY IT MAY EVER BE GIVEN AGAIN, ⚹⚾ AND ⚹⚾ THE FIGURE OF WHERE A THING WAS PUT DOWN IS A PLACE AND NOT A JOURNEY, ⚹⚾ AND A JOURNEY HAS AN AUTHOR.** ⚹
-- ⚹ **ANY FIGURE OF HOW LONG ANY PERSON WAS IN ANY ROOM; ANY FIGURE OF HOW LONG ANY THING HAS BEEN IN A PLACE; ANY FIGURE OF HOW OLD A SHAPE IS.** ⚹
-- ⚹ ANY MONTH, ANY SEASON, any word standing for one · ANY RELATIVE NAMED DAY, **INCLUDING INSIDE A QUOTATION AND INCLUDING A QUOTATION OF SOMEBODY ELSE'S ERROR** · ANY FIGURE OF THE WORLD, OF A REGION, OF A CHARTER SEAT, OR OF HOW MANY PEOPLE ANYTHING WOULD HAVE SAVED · ANY FIGURE OF FOUR HUNDRED OF ANYTHING EXCEPT THE ARRANGEMENT
-- ⚹ `citizen`, `Veyra`, `System`, `a panel`, `amendment`, `the rail`, `brave`, `worth it`, `redeemed`, `forgiven`, `sorry`, `grateful`, `testimony` — **all at zero and not to be introduced for the first time** ⚹
-- ⚹ **AND ⚹ THE WORDS *gift*, *offered*, *given*, *left*, *provided*, *kept* AND *meant*, ⚹ MAY NOT BE USED OF THAT ASH IN ANY CHAPTER, ⚹ **AND ⚹ A CHAPTER MAY **NOT** REFUSE ALL SEVEN AGAIN FOR THE LOOK OF IT.** ⚹⚾ ⚹ **AND ⚹ THE FIGURE OF *gift* WAS ALREADY REFUSED IN A MOUTH ON `1011`, ⚹ AND THAT WAS REFUSED IN THE MATTER OF A FIGURE AND NOT OF THE ASH, ⚹ AND IT IS SPENT, ⚹ AND A BAND 5 THAT REFUSES ANOTHER OF THE SEVEN IS GOING BACK ON IT.** ⚹
-- ⚹ **THE ORDINAL OF AN OFF-MORNING, AND OF AN ANCHOR, AND OF any other figure's place in a run. ⚹ `1042` AND `1046` AND `1050` CARRY **NONE**, ⚹ AND ⚹ THE RUN ON THE PAGE IS BROKEN AT `986` AND `994` AND ⚹ A WRITER WHO DERIVES AN ORDINAL FROM VOLUME 20's FIGURE WILL DERIVE A WRONG ONE.** ⚹
-- ⚹ **THE AGE OF A BOARD WITH THIRTY-TWO NOTCHES IN IT. ⚹ OWED **ZERO**, NOT PRINTED, NOT AS *ABOUT N WEEKS*, AND NOT PRINTED AS ZERO.** ⚹**
-- ⚹ **AND ⚹⚾ ON THE LAST MORNING OF THE VOLUME, ⚹⚾ **THE FIGURE OF WHAT IS MISSING FROM THE FIFTY OWED MAY **NOT** BE PRINTED, ⚹⚾ AND ⚹⚾ NEITHER MAY THE FIGURE OF WHAT IS DONE, ⚹⚾ AND ⚹⚾ NEITHER MAY BE PRINTED AS THE OTHER, ⚹⚾ AND ⚹⚾ AND THE FIGURE OF ZERO IS **NOT** TO BE PRINTED ON `1050` FOR ANY CLASS, ⚹⚾ INCLUDING THIS ONE.** ⚹
-
----
-
-## ⚹ ⚹⚾ WHAT BAND 4 FOUND AND LEFT ON THE PAGE, ⚹ ALL OF IT A RULE AND NOT A FIGURE
-
-1. ⚹ **THE CUT ACROSS THAT PALM MUST BE WRITTEN **IN THE DESCRIPTOR LINE **AND** IN THE SPEECH LINE** ON EVERY MORNING, ⚹ **AND ⚹⚾ BOTH PLACES CHECKED AGAINST `ch − 685` BEFORE THE CHAPTER IS FINISHED, ⚹⚾ AND ⚹⚾ A FIGURE WRITTEN ONCE AND CHECKED ONCE IS A FIGURE THAT WAS WRONG ONCE.** ⚹⚾ ⚹ **AND ⚹⚠ AT `1046` THAT FIGURE IS **THREE HUNDRED AND SIXTY-ONE**, ⚠ AND THE FIGURE AT `1045` IS **THREE HUNDRED AND SIXTY** ⚠ AND NOT ONE SHORTER, ⚠ AND THE FIGURE AT `1042` IS **THREE HUNDRED AND FIFTY-SEVEN** ⚠ AND IS THE ONE A DROP-HAND GETS WRONG.** ⚹
-2. ⚹ **THE HOUSE FIGURE OF RELATIVE NAMED DAYS IS **ZERO** IN EVERY CHAPTER, ⚹ **AND ⚹ EVERY NAMED DAY IS WRITTEN *THE MONDAY OF THE HUNDRED AND SEVENTIETH WEEK*, WHICH RESOLVES FOR ANY READER AND FOR ANY TOOL.** ⚹⚾ ⚹ **⚠ AND ⚠ BAND 4'S OWN SWEEP, RUN BY HAND WITH THE AUDITOR'S OWN REGEX, REPORTED **FORTY-NINE** ANCHORED PHRASES ACROSS ITS TEN CHAPTERS, ⚠ **ZERO** BACKWARD REFERENCES AND **ZERO** UNANCHORED OR IMPOSSIBLE, ⚠ ⚠ AND ⚠ THAT IS A FIGURE OF WHAT THE INSTRUMENT CAN COUNT AND IS **NOT** A FIGURE YOU MAY INHERIT, ⚠ ⚠ AND ⚠ A BARE WEEKDAY NAME IS A DEFECT AND NOT A STYLE, ⚠ ⚠ AND ⚠ A DAY THAT CANNOT BE RESOLVED AGAINST THE WEEK ORDINAL IS NOT A DAY, IT IS A MOOD, ⚠ ⚠ AND ⚠ A **HABITUAL PLURAL** — *NINETEEN YEARS OF FRIDAYS* — IS NOT A DAY AND IS **NOT** A LICENCE EITHER.** ⚹
-3. ⚹ **NO MONTH AND NO SEASON AND NO WORD STANDING FOR ONE, ⚹ **AND ⚹ **NO FIGURE OF HOW LONG A THING HAS BEEN IN A PLACE EITHER, ⚹ AND ⚹ IF YOU WANT TO SAY HOW LONG A MAN HAS BEEN DOING SOMETHING, SAY WHAT HE WAS DOING, ⚹ AND NOT HOW LONG.** ⚹⚾ ⚹ **⚠ AND ⚠ A MONTH SWEEP MUST BE CASE-SENSITIVE AND WORD-BOUNDED, ⚹ ⚠ BECAUSE A SWEEP THAT MATCHES `May` WITHOUT A CAPITAL IS MEASURING THE MODAL VERB, ⚹ ⚠ AND ⚠ THE WORD *MONTH* ITSELF STANDS NOWHERE AT ALL IN BAND 4's TEN CHAPTERS AS THEY ARE ON DISK, ⚹ ⚠ AND ⚠ AND THOSE CHAPTERS ALSO STAND IN **ONE** COMMIT WITH **NO** FIRST WRITE TO COUNT AN EARLIER FIGURE AGAINST, ⚹ ⚠ AND ⚠ AND SO NO FIGURE OF WHAT THAT WORD COST IS PRINTED HERE.** ⚹
-4. ⚹ **THE CARD GAP: ⚹ READ EACH CARD'S OWN GOAL AND FIND THE `CHAPTER:LINE` WHERE SOMEBODY ON THE PAGE ATTEMPTS IT. ⚹ ⚹ A CARD WITH NO LINE TO POINT AT IS A CARD THAT WAS NOT FILLED, ⚹ AND ⚹⚾ EVERY `CHAPTER:LINE` YOU PRINT IS RE-`GREP`-ED AGAINST DISK BEFORE THE BAND IS FINISHED, ⚹⚾ AND ⚹⚾ **BAND 2 SHIPPED **FOURTEEN** WRONG `CHAPTER:LINE` FIGURES AND EVERY ONE OF THEM WAS WRONG **IN THE STATE FILES** AND NONE WAS WRONG IN A CHAPTER, ⚹⚾ WHICH IS THE ARGUMENT: ⚹ THE FIGURE IS THE THING THAT BREAKS, NOT THE PROSE.** ⚹
-5. ⚹ **THE ORDINAL OF AN OFF-MORNING IS **NOT** PRINTED AND **NOT** PRINTED AS ZERO, ⚹ AND ⚹ THE SAME IS TRUE OF EVERY OTHER FIGURE OF A PLACE IN A RUN IN THIS VOLUME.** ⚹
-6. ⚹ **THREE MORNINGS ON DISK STILL DO NOT AGREE ABOUT WHETHER THE SECOND PIECE OF ASH HAS A GIVER IN IT: `991:99`, `993:59`, `995:45` AND `995:49`. ⚹ YOU MAY NOT PICK A SIDE AND NO CHAPTER OF THIS BAND MAY SETTLE IT, ⚹ AND NO MOUTH MAY USE *giver* OR *receiver* OF THAT ASH IN ANY WORDING, ⚹ AND NO CHAPTER MAY PRINT THE FIGURE OF HOW MANY MORNINGS HAVE PASSED SINCE THE NAME WAS SAID.** ⚹ **⚹⚾ AND ⚹⚾ THE CONFIRMING DOES NOT SETTLE IT EITHER, ⚹⚾ AND ⚹⚾ A WOMAN CONFIRMING WHAT A PIECE OF WOOD IS HAS STILL NOT SAID WHO PUT IT DOWN, ⚹⚾ AND ⚹⚾ A WRITER WHO MAKES HER SAY SO HAS SETTLED A FINDING NO CHAPTER OWNS.** ⚹
-7. ⚹ **A REPEATED SILENCE MUST BE WRITTEN AS A DIFFERENT SENTENCE EVERY MORNING, ⚹⚾ AND ⚹⚾ ON BAND 4 THE FIGURE OF *NOBODY* PARAGRAPHS IMMEDIATELY AFTER A DIALOGUE BLOCK WAS **ONE** ACROSS TEN MORNINGS AGAINST A CAP OF FIVE, ⚹⚾ AND ⚹⚾ THE FIGURE OF *NOBODY* OPENINGS ANYWHERE WAS **FOUR**, ⚹⚾ AND ⚹⚾ THAT IS THE CHEAPEST QUALITY WORK IN THIS BAND AND THE ONE NOBODY WILL ASK YOU FOR.** ⚹
-8. ⚹ **NO TWO CONSECUTIVE CHAPTERS OF A BAND MAY END ON THE SAME INVENTORY, ⚹⚾ AND ⚹⚾ THE ACCOUNT, THE OFFER AND *NOBODY IS RELIEVED* ARE THE STANDING INVENTORY AND NOT THE ONLY INVENTORY, ⚹⚾ AND ⚹⚾ A CLOSING THAT CARRIES ALL THREE IS A CLOSING THAT COULD BE ANY OTHER CHAPTER'S.** ⚹
-9. ⚹ **THE TEN OWED LINES ARE **NOT** PERMITTED TO BE THE SHAPE OF THE CHAPTER. ⚹ ⚹ AND ⚹⚾ THE THREE THINGS OWED IN THIS BAND ARE **NOT** PERMITTED TO BE THE SHAPE OF THE CHAPTER EITHER: ⚹⚾ ⚹⚾ A CHAPTER IN WHICH THE CONFIRMING IS SAID AND NOTHING ELSE HAPPENS IS A CHAPTER THAT HAS SPENT THE CONFIRMING AND RESOLVED NOTHING, ⚹⚾ AND ⚹⚾ A CHAPTER IN WHICH THE QUESTION TO THE MAN WHO CANNOT READ IS ASKED AND ANSWERED AND NOTHING ELSE HAPPENS IS A CHAPTER THAT HAS TURNED THE VOLUME'S LAST EVENT INTO A PLOT DEVICE, ⚹⚾ AND ⚹⚾ A CHAPTER IN WHICH THE WOMAN OF FORTY-FOUR SAYS THE ORDINARY FORM AND IS THANKED IS A CHAPTER THAT HAS BROKEN THE ONLY RULE THAT GOVERNS HER.** ⚹**
-10. ⚹ **A MORNING WITH NOTHING ON THE STONE IS A MORNING WITH **NO** FIGURE COMING OUT OF IT, ⚹⚾ AND ⚹⚾ SO A WHOLE FIGURE COMING OUT OF AN OFF-MORNING IS THE ONE WAY A BAND PRINTS THAT PLACE BY ACCIDENT. ⚹⚾ `1042` AND `1050` ARE THIS BAND'S OFF-MORNINGS, ⚹⚾ AND ⚹⚾ `1042` IS ALSO THE MORNING NAMED BY THE SIXTH WEEK BOUNDARY, ⚹⚾ AND ⚹⚾ THE TWO SETS LAND ON **ONE** MORNING, ⚹⚾ AND ⚹⚾ AND NOTHING MAY COME OUT OF THE STONE ON IT, ⚹⚾ AND ⚹⚾ **AND ON `1050` THE FIGURE OF THE OFFER IS SPOKEN IN A MOUTH AND IS **NOT** IN ANY DATE LINE, ⚹⚾ AND ⚹⚾ AND A DATE LINE ON THE LAST MORNING OF A VOLUME THAT CARRIES A FIGURE IS A DATE LINE THAT HAS PRINTED THE STANDING OFFER BY ACCIDENT.** ⚹**
+**Band 4 ends with a woman sitting on a wall with a book open on her knee and a page
+turned with her thumb that she does not read.** A band that opens by turning that page
+has spent a page. `1041` opens on something else. The confirming may land on `1041`
+and may not land on a morning that opens by finishing what the morning before ended
+on.
 
 ---
 
-## ⚹ EVERY GATE, ⚹ ITS CALIBRATION RUN FIRST AND PRINTED FIRST, ⚹ AND ⚹ EVERY FIGURE TAKEN FROM THE FILES **AFTER THE LAST EDIT**
+## 5. Figures that may not be printed
 
-| gate | the calibration you must run first | what it will give |
+- The figure of how many new names are put on anything in this volume is zero, and
+  **neither that figure nor any other figure of it may be printed.**
+- The figure of how many things are left on that landing. Given once, at `995`.
+  Spent. Not to be given again in any wording, including *three*, not in any title,
+  not rebuilt, and no figure of zero either.
+- The count of asking. Given once at `947` and spent a third time on `1019`. Not to be
+  put into Sena Dorr's mouth. If it is to reach her it reaches her once, in a mouth,
+  because a person asked her. Not owed in this band.
+- The figure of sixty-three stitches. On no page, not recounted, and nobody is to tell
+  the boy he found anything.
+- Any head count of people, in any wording — see owed line 8.
+- Any figure of how many times anything was said, including *that word went round*, and
+  any figure of how long a name has been a name or has stood on that ash. **Neither is
+  printed even as *about n weeks*.** That is the whole subject of the volume and the one
+  figure the volume is forbidden to print.
+- Any figure of how far the voice went down that cart road, how far the woman of
+  forty-four came up that road past her own wall, or how far the boy went down that
+  lane. A named thing is a place and not a journey, and a journey has an author.
+- Any figure of how long any person was in any room, how long any thing has been in a
+  place, or how old any shape is. If you want to say how long a man has been doing
+  something, say what he was doing.
+- Any month, any season, any word standing for one. Any relative named day, including
+  inside a quotation and including a quotation of somebody else's mistake. Any figure
+  of the world, a region, a charter seat, or how many people anything would have saved.
+  Any figure of four hundred of anything except the arrangement.
+- `citizen`, `Veyra`, `System`, `a panel`, `amendment`, `the rail`, `brave`,
+  `worth it`, `redeemed`, `forgiven`, `sorry`, `grateful`, `testimony` — all at zero,
+  and none of them is to be introduced for the first time.
+- The words *gift*, *offered*, *given*, *left*, *provided*, *kept* and *meant* may not
+  be used of that ash in any chapter, and a chapter may not refuse all seven again
+  for the look of it. *Gift* was already refused in a mouth on `1011` and that was
+  refused in the matter of a figure, not of the ash. It is spent.
+- The ordinal of an off-morning, of an anchor, or of any other figure's place in a run.
+  `1042`, `1046` and `1050` carry none. The run on the page is broken at `986` and
+  `994`; a writer who derives an ordinal from volume 20's figure will derive a wrong
+  one.
+- The age of a board with thirty-two notches in it.
+- On `1050`: the figure of what is missing from the fifty owed, the figure of what is
+  done, either printed as the other, and the figure of zero for any class.
+
+---
+
+## 6. Traps this volume has already sprung
+
+1. **The cut across that palm is written twice on every page** — in the descriptor
+   line and in the speech line — and both places are checked against `ch − 685`
+   before the chapter is finished. A figure written once and checked once is a figure
+   that was wrong once. At `1042` it is three hundred and fifty-seven and at `1046`
+   three hundred and sixty-one; those are the two a drop-hand gets wrong.
+2. **Every named day is anchored**: *the Monday of the hundred and seventy-first week*,
+   never a bare weekday. A bare weekday name is a defect, not a style. A day that
+   cannot be resolved against the week ordinal is not a day, it is a mood. A habitual
+   plural — *nineteen years of Fridays* — is not a day and is not a licence either.
+   No month, no season, and no figure of how long a thing has been in a place.
+3. **No chapter may be cut at a week boundary inside its own date line.** `1042` is
+   also the morning named by the sixth boundary and `1048`/`1049` is the seventh: both
+   sides of both boundaries say which side they are on.
+4. **Three mornings on disk still disagree about whether the second piece of ash has a
+   giver in it** — `991:99`, `993:59`, `995:45`, `995:49`. Do not pick a side. No
+   chapter of this band settles it. No mouth may use *giver* or *receiver* of that ash.
+   The confirming does not settle it either: a woman saying what a piece of wood is has
+   still not said who put it down, and a writer who makes her say so has settled a
+   finding no chapter owns.
+5. **The ten owed lines are not the shape of the chapter, and the three events are not
+   the shape of the chapter.** See section 1.
+6. **A morning with nothing on the stone has no figure coming out of it.**
+7. **Ilyan is named in every chapter**, in the prose and not only in a descriptor line,
+   and has a want, a mistake and a cost of his own in every chapter, including the ones
+   where he is right. Band 4 spent ten mornings with him as *the man of thirty-one* in
+   the prose and his own name on the page once a chapter. That was a defect against
+   this volume's own guardrail and it is fixed.
+8. **No paragraph may appear twice in the band.** Band 4 carried a paragraph that was
+   byte-identical in nine of its ten chapters. Every morning's version of any repeated
+   sentence is written fresh, and the whole band is swept for byte-identical lines
+   before it is finished.
+9. **Titles are short.** Band 4's ran to 125–159 words each and were unusable. Two to
+   six words, written last against the body, naming nothing: not a thing, not a giver,
+   not the age of a thing in a place, not the ordinal of an off-morning, not any count
+   of asking.
+10. **Descriptor paragraphs carry identity, not summary.** A paragraph of the form
+    *Corvin Tace is forty-three, holds that landing nineteen years …* is there so the
+    reader knows who is speaking and what they can and cannot do. It may not restate
+    the speech underneath it. Same for Ilyan's descriptor line.
+11. **Paragraphs are paragraphs.** Split anything over about a thousand characters at a
+    beat. A speech is two or three paragraphs, not one wall.
+
+---
+
+## 7. Gates
+
+Run each calibration first and print it. Every figure is taken from the files after
+your last edit.
+
+| gate | calibration first | what it gives |
 |---|---|---|
-| ⚹ `python3 reviews/volume-16/batch-0001-datelines.py 741 750 volume-15` | ⚹ **RUN THIS BEFORE THE BAND** | ⚹ **10 rows and 0 hits, reproduced row for row including the day names** |
-| ⚹ `python3 reviews/volume-16/batch-0001-datelines.py 1041 1050 volume-21` | — | ⚹ **WILL RAISE `FileNotFoundError` UNTIL YOU HAVE WRITTEN THE CHAPTERS, ⚹ AND ONCE THEY EXIST IT WILL REPORT A HIT ON EVERY ONE OF THE TEN, ⚹ AND ⚹ EVERY ONE OF THOSE HITS IS FALSE.** ⚹ **DO NOT FIX A CHAPTER TO SATISFY IT.** ⚹ |
-| ⚹ `python3 reviews/volume-16/batch-0001-arithmetic.py 741 750 volume-15` | ⚹ **RUN THIS BEFORE THE BAND** | ⚹ **0 flagged, WITH 5 ONE OUT and 44 NOT SPOKEN on its own read-back — BOTH FIGURES PRINTED BESIDE THE PASS, ⚹ BECAUSE ⚹ THAT IS A FIGURE OF AN INSTRUMENT AND NOT OF A VOLUME AND IT IS **NOT** CARRIED FORWARD** |
-| ⚹ `python3 reviews/volume-16/batch-0001-arithmetic.py 1041 1050 volume-21` | — | ⚹ **IT FLAGS THE SAME CLASS ON BAND 3's AND BAND 4's OWN CERTIFIED BANDS — **18** ON `1021`–`1030`, **20** ON `1031`–`1040` ⚠ (all ten of the one-outs being BARNABY CROVE's OWN COUNT, WHICH THE INSTRUMENT READS AS `threehundred-ten` WHERE THE HOUSE FORM IS *THREE HUNDRED AND TENTH*), ⚠ ⚠ AND THAT IS THE PROOF THAT ⚹ THAT IS AN INSTRUMENT AND NOT A CHAPTER.** ⚹ ⚠ READ EVERY ONE-OUT BY HAND AGAINST `1 + (ch − 722)` BEFORE YOU BELIEVE IT, ⚹ AND DO NOT REPAIR A CHAPTER FOR THIS TOOL.** ⚹ |
-| ⚹ `python3 reviews/volume-16/batch-0001-dayrefs.py 1041 1050 volume-21` | — | ⚹ **⚹ ITS PATH IS BUILT AS `chapter-0%d.md`, WHICH IS ZERO-PADDED TO FIVE DIGITS AND IS THEREFORE **NOT** THE FILE YOU HAVE, ⚹ AND IT WILL PRINT TEN `MISSING` LINES AND THEN *0 PHRASES, 0 HITS*, WHICH READS AS A PASS OVER A SWEEP THAT NEVER RAN.** ⚹ ⚹ **A MISSING CHAPTER IS NOT A HIT AND AN EMPTY SWEEP IS NOT A CLEARANCE. ⚹ SO RUN THE SWEEP BY HAND, WITH ITS OWN REGEX, ⚹ AND THE BAND 4 SWEEP PRINTS EVERY WEEKDAY MENTION IN THE TEN CHAPTERS ONE A LINE FOR A PERSON TO READ, ⚹ AND THAT IS THE SWEEP YOU OWE.** ⚹ |
-| ⚹ `python3 reviews/volume-18/batch-0005-namedday-audit.py 1041 1050 volume-21` | — | ⚹ **⚹ YOU MUST CARRY **ZERO** UNANCHORED PHRASES, ⚹ AND ⚹ ON BAND 4 IT REPORTED **FORTY-NINE** ANCHORED PHRASES ACROSS ITS TEN CHAPTERS AND **ZERO** UNANCHORED OR IMPOSSIBLE, ⚹ AND THAT IS THE FIGURE YOU ARE AIMING AT AND IT IS A FIGURE OF WHAT THE TOOL CAN COUNT AND **NOT** ONE YOU MAY INHERIT.** ⚹ |
-| ⚹ the structural sweep | ⚹ ⚠ **`reviews/volume-16/batch-0001-structure.py` **HARD-CODES `chapters/volume-16/`**, ⚹ **SO COPY IT OUT OF THE REPOSITORY, RE-POINT THE ONE `FILES` LINE AT `chapters/volume-21/`, ADD AN `assert os.path.exists` OVER IT, AND RUN THE COPY.** ⚹ **⚹ DO NOT EDIT THE INSTRUMENT IN PLACE. ⚹ AND ⚹ A CLEAN ZERO FROM THE WRONG DIRECTORY IS THE WORST FIGURE IN THIS TABLE BECAUSE IT IS CHECKED AND IT PASSES.** ⚹ | ⚹ **THE HOUSE FIGURES YOU MUST HOLD AT ZERO, AND YOU MUST COUNT THEM YOURSELF, NOT INHERIT THEM:** ⚹ **NO LINE BEGINNING WITH A PIPE · `**` · `citizen` · `Veyra` · `sorry` · `grateful` · `forgiven` · `redeemed` · `worth it` · `brave` · `amendment` · `a panel` · `System` · MONTHS AND SEASONS SWEPT CASE-SENSITIVE AND WORD-BOUNDED · ⚹ STRAIGHT ASCII APOSTROPHES** ⚹ **AND ⚹ THE SIX-WORD-WINDOW CLASS WILL FLAG *AND I AM NOT GOING TO*, ⚹ ⚠ AND THAT IS A FIGURE OF THE HOUSE VOICE AND NOT OF A DEFECT, ⚹ ⚠ AND THE HOUSE FIGURE ON BAND 4's OWN CERTIFIED CHAPTERS IS **SIX**, AGAINST **TEN** ON BAND 1's AND **SIX** ON BAND 2's, ⚹ ⚠ AND THE HOUSE VOICE OF THAT LANDING **IS** *AND I AM NOT GOING TO*, ⚹ ⚠ AND STRIPPING IT TO SATISFY A SIX-WORD WINDOW WOULD BE THE ONE TRADE THIS FLEET DOES NOT MAKE.** ⚹ |
-| ⚹ the whole-band byte-identical-line sweep | ⚹ **RUN BY HAND** | ⚹ **NO ONE SENTENCE MAY STAND VERBATIM MORE THAN FIVE TIMES INSIDE ONE CHAPTER, ⚹ AND NO SENTENCE MAY OPEN TWO CHAPTERS OF THIS BAND, ⚹ AND A REFUSAL MAY NOT BE REFUSED TWICE IN THE SAME WORDS ACROSS CHAPTERS — ⚠ **AND ⚹⚠ **ON THE LAST MORNING OF THIS VOLUME A REFUSAL MAY NOT BE REFUSED TWICE IN THE SAME WORDS EITHER, ⚹⚠ BECAUSE A BAND THAT ENDS ON A REPEAT IS A BAND THAT HAS SPENT ITS LAST MORNING.** ⚹** ⚹⚾ ⚹ **AND ⚹⚾ THAT PIECE OF ASH **MAY** BE DESCRIBED IN THE SAME WORDS ACROSS CHAPTERS, ⚹ AND THE NOT-PULLED LINE **MAY** STAND IN EVERY CHAPTER, ⚹ BECAUSE ⚹⚾ OWEING LINE 6 REQUIRES IT IN EVERY CHAPTER, ⚹⚾ AND ⚹⚾ DESCRIBING THE SAME THING THE SAME WAY IS WHAT HAPPENS WHEN A THING IS NOT TOUCHED. ⚹⚾ **AND ⚹⚾ ON BAND 4 THE FIGURE OF BYTE-IDENTICAL WHOLE LINES ACROSS ITS TEN CHAPTERS WAS **ONE** GROUP, ⚹⚾ WHICH IS THE NOT-PULLED LINE AND NOTHING ELSE, ⚹⚾ AND THAT IS A FIGURE YOU MEASURE AND NOT ONE YOU INHERIT.** ⚹ |
-| ⚹ `thanked`, read by a person | ⚹ **READ EVERY ONE** | ⚹ **EVERY OCCURRENCE MUST BE A REFUSAL, A NEGATION, OR A LIST OF WHO IS **NOT** TO BE THANKED. ⚹ ⚠ AND ⚹⚠ **ON THE MORNING THE WOMAN OF FORTY-FOUR SAYS THE ORDINARY FORM, ⚹⚠ THE FIRST THING TO CHECK IS THAT NOBODY THANKS HER, ⚹⚠ AND ⚹⚠ THE SECOND IS THAT SHE SAYS BEFORE ANYBODY CAN, ⚹⚠ AND ⚹⚠ AND IF ANYBODY ON THAT LANDING THANKED HER IT WOULD BE A CHAPTER THAT HAS SPENT THE RESOLUTION.** ⚹ ⚠ **AND ⚹⚠ BAND 4 CARRIED **27** OCCURRENCES OF THE WORD *THANKED* ACROSS ITS TEN CHAPTERS AND **46** ON THE WHOLE FAMILY, ⚹⚠ AND EVERY ONE WAS A REFUSAL, A NEGATION OR A WARNING AGAINST BEING THANKED, ⚹⚾ AND ⚹⚾ THOSE ARE FIGURES OF ONE WORD ON ONE BASIS AND NEITHER IS CARRIED FORWARD.** ⚹ |
-| ⚹ the Kell figure | ⚹ **READ EVERY ONE OF THEM** | ⚹ **EXPECT A HIT ON EVERY `four hundred and …` IN THE `ch − 554` KELL COUNTER ON ALL TEN MORNINGS, ⚹ ⚠ **AND ⚹⚠ BAND 4 CARRIED **TWENTY-FOUR** SUCH MENTIONS ACROSS ITS TEN CHAPTERS AND ⚹⚠ EVERY ONE OF THE TWENTY-FOUR CARRIES THE KELL FIGURE `ch − 554` AND **NOT** A FIGURE OF FOUR HUNDRED OF ANYTHING ELSE, ⚹⚾ AND ⚹⚾ THAT IS A FIGURE YOU MEASURE AND NOT ONE YOU INHERIT.** ⚹ |
+| `python3 reviews/volume-16/batch-0001-datelines.py 741 750 volume-15` | run before the band | 10 rows and 0 hits, reproduced row for row including the day names |
+| `python3 reviews/volume-16/batch-0001-datelines.py 1041 1050 volume-21` | — | raises `FileNotFoundError` until the chapters exist; once they exist it reports a hit on every one of the ten and **every one of those hits is false**. Its regex stops at four hundred, and `settlement`, `hall` and `clear` are all past that by `1001`. Do not fix a chapter to satisfy it. |
+| `python3 reviews/volume-16/batch-0001-arithmetic.py 741 750 volume-15` | run before the band | 0 flagged, with 5 one-out and 44 not spoken on its own read-back. Both figures are printed beside the pass, because that is a figure of an instrument and not of a volume, and it is not carried forward |
+| `python3 reviews/volume-16/batch-0001-arithmetic.py 1041 1050 volume-21` | — | flags the same class on bands 3 and 4 — 18 on `1021`–`1030`, 20 on `1031`–`1040` — and every one-out is Barnaby Crove's own count, which the instrument reads as `threehundred-ten` where the house form is *three hundred and tenth*. Read every one-out by hand against `1 + (ch − 722)` before believing it, and do not repair a chapter for this tool |
+| `python3 reviews/volume-16/batch-0001-dayrefs.py 1041 1050 volume-21` | — | its path is built as `chapter-0%d.md`, zero-padded to five digits, so it prints ten `MISSING` lines and then *0 phrases, 0 hits*, which reads as a pass over a sweep that never ran. **A missing chapter is not a hit and an empty sweep is not a clearance.** Run the sweep by hand with its own regex |
+| `python3 reviews/volume-16/batch-0001-structure.py` | — | hard-codes `volume-16`. Run against the wrong directory it raises `FileNotFoundError`, and a clean zero from the wrong directory is worse than a hit, because a hit sends somebody to look |
+| byte-identical line sweep | run by hand over `chapters/volume-21/` | must be empty for this band. See trap 8 |
+| the standing act | before the instruments | read the closing lines of two consecutive chapters against each other, once per pair, and each closing block against itself |
+
+**The standing act, in detail.** On the band boundary `1040`/`1041` — a Sunday that is
+the sixth day of the hundred and seventieth week, and a Monday that is the seventh —
+`1040` ends on a woman sitting on a wall with a book open on her knee and a page
+turned with her thumb that she does not read, and the page stayed where her thumb had
+put it. `1041` opens on something else. On `1042`, no chapter may be cut at the
+boundary inside its own date line; a chapter that says the week has already turned on
+`1041` has a wrong calendar in it. On `1048`/`1049`, this band carries **two**
+boundaries and not one, and no chapter is cut at either.
 
 ---
 
-## ⚹ THE STANDING ACT, ⚹ WHICH IS AN ACT AND NOT A GATE, ⚹ AND IT IS OWED **BEFORE** THE INSTRUMENT RUNS
+## 8. What this band owes the state files
 
-⚹ **READ THE CLOSING LINES OF TWO CONSECUTIVE CHAPTERS AGAINST EACH OTHER, ONCE PER PAIR, ⚹ AND READ EACH CLOSING BLOCK AGAINST ITSELF AS WELL.** ⚹
+The six state files were reset on the review of band 4 and are now compact. **Keep them
+that way.** They are for the next writer, not for the record: no self-measurement, no
+footprints, no pointer chains, no counts of what a paragraph cost. If a file passes
+60,000 bytes, cut the oldest finished-band material out of it and leave one line
+pointing at `reviews/volume-21/`, where the older blocks are whole. Do not append to a
+file that is already large.
 
-⚹ **⚹ ON THE BAND BOUNDARY `1040`/`1041`, ⚹ WHICH IS ⚹ A SUNDAY THAT IS THE SIXTH DAY OF THE HUNDRED AND SEVENTIETH WEEK ⚹ AND A MONDAY THAT IS THE SEVENTH DAY OF IT, ⚹ ⚹ AND `1040` ENDS ON A WOMAN SITTING ON A WALL WITH A BOOK OPEN ON HER KNEE AND A PAGE TURNED WITH HER THUMB AND NOTHING READ OFF IT, ⚹ ⚹ AND ⚹⚾ THE PAGE STAYED WHERE HER THUMB HAD PUT IT, ⚹⚾ AND ⚹⚾ A BAND THAT OPENS BY TURNING A PAGE HAS SPENT A PAGE, ⚹⚾ AND ⚹⚾ `1041` OPENS ON SOMETHING ELSE AND ⚹⚾ **THE CONFIRMING MAY LAND ON `1041` AND ⚹⚾ AND ⚹⚾ IT MAY NOT LAND ON A MORNING THAT OPENS BY FINISHING WHAT THE MORNING BEFORE ENDED ON.** ⚹**
+- **`state/batch-summary.md`** — this band's own block: what it did, what it left, what
+  it owes, and the ten owed lines with the `CHAPTER:LINE` that satisfied each.
+- **`state/chapter-summaries.md`** — one compact entry per chapter, and no figure in it
+  that is not on the page.
+- **`state/continuity.md`** — any new place and its distance, the closing devices, and
+  nothing else. A named thing must not become a journey.
+- **`state/current.md`** — where the book stands after `1050`, and the two decisions in
+  section 10 restated in one line each.
+- **`state/character-state.md`** — what each of them wanted, refused, gave and withheld
+  on these ten mornings, and on the morning the question is asked, what the man who
+  cannot read did **and did not** say, and what the man of thirty-one lost, **without
+  giving that a figure in any wording**.
+- **`state/open-threads.md`** — what advanced and what closed, in words. A thread
+  advances when a person does a thing in a mouth. A close is not a chapter. At `1050`
+  say what is still true, in words, and do not print the figure of what is missing as a
+  count.
 
-⚹ **⚹ AND ⚹ ON `1042`, THE MORNING NAMED BY THE SIXTH WEEK BOUNDARY INSIDE THE FIFTY: ⚹ ⚹ NO CHAPTER MAY BE CUT AT A WEEK BOUNDARY INSIDE ITS OWN DATE LINE, ⚹ ⚹ THE BOUNDARY FALLS BETWEEN `1041` AND `1042`, ⚹ ⚹ A CHAPTER THAT SAYS THE WEEK HAS ALREADY TURNED ON `1041` IS A CHAPTER WITH A WRONG CALENDAR IN IT, ⚹ ⚹ AND ⚹⚾ `1042` IS ALSO AN OFF-MORNING WITH NOTHING ON THE STONE, ⚹⚾ AND ⚹⚾ THE TWO SETS FALL ON **ONE** MORNING IN COMMON AND THAT IS THE TRAP `885` WAS.** ⚹
+At the end, run `git status --porcelain` and print it. That is a figure of your own
+work and not of a chapter.
 
-⚹ **⚹ AND ⚹ ON `1048`/`1049`, ⚹ THE SEVENTH AND LAST WEEK BOUNDARY INSIDE THE FIFTY: ⚹ ⚹ **THIS BAND CARRIES **TWO** BOUNDARIES AND NOT ONE, ⚹⚹ AND ⚹⚾ A WRITER WHO BELIEVED THE OLD FIGURE OF ONE WOULD WRITE A BAND WITH A SINGLE BOUNDARY IN IT, ⚹⚾ AND ⚹⚾ BOTH SIDES OF BOTH BOUNDARIES SAY WHICH SIDE THEY ARE ON, ⚹⚾ AND ⚹⚾ AND NO CHAPTER IS CUT AT EITHER.** ⚹**
+**Then create exactly one next phase: `workspace/volume-21/close-0006/PROMPT.md`,** the
+volume 21 close, which owes no chapter. `1050` completes the volume. Not a second
+directory, and not another band directory — a phase that writes a second one sends the
+next phase to a place nothing owes.
 
 ---
 
-## ⚹ THE THINGS THIS BAND OWES THE STATE FILES, ⚹ AND ⚹ ⚠ THE SEVEN SIZES ARE `wc -c`-ed BY YOU YOURSELF, ⚹ AT THE START AND AGAIN AT THE END, ⚹ AND NOTHING IN THIS PROMPT IS A SIZE YOU MAY RELY ON** ⚹⚾
+## 9. What this band leaves behind
 
-⚹⚾ **⚠⚾ THE FIGURES BELOW ARE **STALE THE MOMENT THIS PROMPT IS FINISHED**, ⚠⚾ AND ⚠⚾ THAT IS THE WHOLE ARGUMENT IN ONE INCIDENT: ⚠⚾ A SIZE IN A PROMPT IS WRONG AS SOON AS THE PROMPT IS WRITTEN. ⚠⚾ RUN YOUR OWN AT THE END, ⚹⚾ AND ⚹⚾ IF A FILE IS OVER 60,000, ⚹⚾ MOVE **A WHOLE BLOCK** OUT OF IT TO `reviews/volume-21/`, WHOLE AND NOT ONE WORD CUT, ⚹⚾ AND ⚹⚾ LEAVE A POINTER LINE AND A FOOTPRINT ASSERTION, ⚹⚾ AND ⚹⚾ **AND NOT ONE WORD OF YOUR OWN POINTER BLOCK IN `state/current.md` MAY BE CUT OR SHORTENED TO MAKE ROOM.** ⚹⚾**
-
-⚹⚾ **AND ⚹⚾ SIX WHOLE BLOCKS WENT OUT OF THREE STATE FILES DURING BAND 4, ⚹⚾ AND ⚹⚾ BAND 5 WILL FIND ROOM, AND ⚹⚾ **THE FIGURE OF HOW MANY WILL GO OUT DURING BAND 5 IS **NOT** PRINTED HERE, ⚹⚾ AND ⚹⚾ IT IS MEASURED BY YOU AND IT IS A FIGURE OF THE FILE AND **NOT** A FIGURE OF THE CHAPTERS.** ⚹⚾
-
-- ⚹ **`state/batch-summary.md`** — ⚹ **THIS BAND'S OWN BLOCK, WITH **TEN** NUMBERED DATA ROWS, ONE PER CHAPTER, AND A **BOLD ELEVENTH WHICH IS THE WATER.** ⚹**
-- ⚹ **`state/chapter-summaries.md`** — ⚹ **ONE COMPACT ENTRY PER CHAPTER, AND NO FIGURE IN IT THAT IS NOT ON THE PAGE. ⚹ ⚹ THREE** OF THE SEVEN FILES ARE UNDER THEIR CAP BY SINGLE FIGURES ⚹ AND ⚠ **A WHOLE BLOCK GOES OUT, WHOLE AND NOT ONE WORD CUT, TO `reviews/volume-21/`, ⚹ AND LEAVE A POINTER LINE AND A FOOTPRINT ASSERTION.** ⚠**
-- ⚹ **`state/continuity.md`** — ⚹ **EVERY FIGURE YOU INVENTED THAT A LATER WRITER WILL NEED: ANY NEW PLACE AND ITS DISTANCE, AND NOTHING ELSE. ⚹ ⚹ AND ⚹⚾ **THE FIGURE OF HOW FAR THE VOICE WENT DOWN THAT CART ROAD IS A FIGURE YOU DID NOT INVENT AND MUST NOT INVENT, ⚹⚾ AND ⚹⚾ A NAMED THING MUST NOT BECOME A JOURNEY, ⚹⚾ BECAUSE ⚹⚾ A JOURNEY HAS AN AUTHOR.** ⚹⚾**
-- ⚹ **`state/current.md`** — ⚹ **A POINTER BLOCK AND NOT ONE NUMBERED DATA ROW, ⚹ AND THAT IS THIS FILE'S OWN RULE AND NOT AN OMISSION, ⚹ AND THE POINTER BLOCK GOES IN WHOLE AND NOTHING IS CUT OUT OF IT, ⚹ AND ONLY IF YOUR OWN `wc -c`, RUN AT THE END, FINDS IT OVER, ⚹ DOES A WHOLE BLOCK GO OUT OF IT, AND NOT ONE WORD OF THE POINTER.** ⚹**
-- ⚹ **`state/character-state.md`** — ⚹ **THE FIGURE OF EVERY SPEECH, EVERY REFUSAL, EVERY FIGURE GIVEN OUT LOUD AND EVERY FIGURE **WITHHELD** ON THESE TEN MORNINGS, ⚹ AND ⚹ EVERY FIGURE THAT DESCRIBES THE MORNING **BEFORE** IS CHECKED AGAINST THE MORNING BEFORE AND NOT AGAINST THE CHAPTER'S OWN DATE LINE, ⚹ AND ⚹ EVERY COUNT IS MEASURED AND NOT INHERITED.** ⚹⚾ ⚹ **AND ⚹⚾ ON THE MORNING THE QUESTION IS ASKED, ⚹⚾ THE BLOCK NAMES WHAT THE MAN WHO CANNOT READ DID AND **DID NOT** SAY, ⚹⚾ AND ⚹⚾ IT NAMES WHAT THE MAN OF THIRTY-ONE LOST AND ⚹⚾ **DOES NOT GIVE THAT A FIGURE IN ANY WORDING, ⚹⚾ AND ⚹⚾ THAT IS THE FIGURE THIS BAND EXISTS TO SPEND AND ⚹⚾ IT MAY BE GIVEN A FIGURE BY NOBODY.** ⚹⚾
-- ⚹ **`state/open-threads.md`** — ⚹ **WHAT THIS BAND ADVANCED AND WHAT IT CLOSED, ⚹ AND THE HOUSE FIGURE FOR BOTH IN A BAND LIKE THIS ONE IS **OWED AND **NOT PRINTED**, ⚹ SO THE BLOCK SAYS WHAT ADVANCED AND WHAT CLOSED IN WORDS AND **NOT** AS TWO NUMBERS.** ⚹⚾ ⚹ **AND ⚹⚾ AT `1050` THE FIGURE OF WHAT IS MISSING FROM THE FIFTY OWED IS **ZERO** AND ⚹⚾ **MAY NOT BE PRINTED AS A COUNT IN THAT BLOCK EITHER, ⚹⚾ AND ⚹⚾ THE BLOCK SAYS WHAT IS STILL TRUE ON THE LAST MORNING IN WORDS.** ⚹⚾ ⚹ **AND ⚹⚾ THE THREE REFUSALS OWED ON `1024`, `1028` AND `1030` WERE CARRIED AS NEW THREADS BY BAND 3, ⚹⚾ AND ⚹⚾ A REFUSAL THAT IS OWED AND NOT PAID IS **NOT** A CLOSURE EITHER, ⚹⚾ AND ⚹⚾ THE FIGURE OF HOW MANY OF THEM ARE STILL OWED IS **NOT** PRINTED AS A COUNT.** ⚹
-- ⚹ **`state/index.md`** — ⚹ **ONE POINTER. ⚹**
+`1050` is an off-morning. No figure of inches on that stone, no figure of steps under
+it, no figure of days, no figure of anything else that a figure would settle. The
+standing offer stands unanswered at three hundred and fifty days. The account is
+incomplete and in use. The name is still on that strip and is still wrong. Nobody is
+relieved, nobody is forgiven, nobody is thanked. **Nobody is to be told that any of
+that is finished.** The landing goes on being a landing.
 
 ---
 
-## ⚹ RUN THIS AT THE END AND PRINT THE OUTPUT IN YOUR RECEIPT: ⚹ `git status --porcelain` ⚹ **AND ⚹ IT IS **A FIGURE OF YOUR OWN WORK** AND NOT OF A CHAPTER AND NOT OF THE VOLUME.** ⚹
+## 10. Two things this band does not decide
+
+1. **Where the book ends.** `outline/series.md` gives approximately 850 chapters in
+   seventeen volumes; `outline/ending.md` ends at chapter 850 and that chapter is
+   finished on disk. The manuscript is at 1040 and volume 21 ends at 1050. Nobody has
+   decided whether the outline moves or the book stops, and `outline/volume-21.md` §0
+   records the disagreement with the owner as nobody written down. **Write these ten
+   chapters. Do not resolve it, do not write as though it has been resolved, and do not
+   treat `ending.md` as spent.** A zero at the end of a volume is not a finished
+   manuscript.
+2. **The primary relationship and the System.** `outline/series.md` names Ilyan and Sera
+   Quill as the primary slow-burn relationship, and calls the System the premise.
+   Volumes 19, 20 and 21 do not contain the word *Sera* at all, and *System* stands at
+   zero in volumes 18 through 21. That absence is real and it is not repairable from
+   inside this band: `outline/volume-21.md` §9 puts `System` at zero and forbids
+   introducing it for the first time in this volume, and §6 forbids naming a person
+   who is not already named in a chapter. Bringing either one back is a decision for
+   whoever owns the outline, and it is recorded in `state/open-threads.md`. **Do not
+   inject a character or a panel into this band to satisfy it, and do not write a
+   paragraph about the absence.**
 
 ---
 
-## ⚹ AND ⚹ ASSERT YOUR OWN FOOTPRINT AFTER THE FACT AND PRINT IT: ⚹ **TEN CHAPTER FILES EXIST IN `chapters/volume-21/`, ⚹ **AND ⚹ **AND `state/batch-summary.md` HOLDS **TEN** DATA ROWS IN THIS BAND'S OWN BLOCK, ⚹ **AND ⚹ AND `state/current.md` HOLDS **0** DATA ROWS, ⚹ **AND ⚹ AND NO MARKER WAS WRITTEN BY HAND, ⚹ **AND ⚹ AND EXACTLY **ONE** NEXT-PHASE DIRECTORY EXISTS AND IT IS **NOT** A BAND DIRECTORY, ⚹ `workspace/volume-21/close-0006/PROMPT.md`, ⚹ **AND NOT A SECOND ONE, ⚹ BECAUSE ⚹ A PHASE THAT WRITES A SECOND ONE SENDS THE NEXT PHASE TO A PLACE NOTHING OWES.** ⚹**
+## 11. The last thing
 
----
+Ten mornings of a landing, a bank of about ninety cut steps, a man with a broom who
+gives three figures and never a fifth, a man who cannot read who may now be asked one
+question and only one and it is about a barrow, a man who cannot see well whose hand
+went out past the end of a wall and came back off touching nothing, a woman of
+thirty-eight who heard a name she was not there for and owes the confirming, a woman
+of forty-four who stands at a wall and has come past it once and owes the ordinary
+form and says first that it does not answer her, a woman who reads for a living whose
+book is still shut, a man of thirty-eight who carried a count up a bank and put it
+back and has had no job all week, a man of thirty-one who will ask one question and
+will be refused in words that are not his, a boy of thirteen who laid a yoke across a
+lane that stops nothing, and a piece of ash with a wrong name on it.
 
-## ⚹ AND ⚹ THE LAST THING, ⚹ **AND IT IS THE ONLY THING IN THIS FILE THAT IS NOT A RULE**
+And the confirming, which makes that name owed and not given. And the offer,
+unanswered. And the account, incomplete and in use. And the name, wrong.
 
-⚹ **TEN MORE MORNINGS OF A LANDING, A BANK OF ABOUT NINETY CUT STEPS, A MAN WITH A BROOM WHO GIVES THREE FIGURES AND NEVER A FIFTH ⚹ AND ⚹ WHO SAID OUT LOUD THAT THERE IS A MAN ON THAT LANDING THAT NAME IS FOR AND THAT HE DOES NOT KNOW WHICH, ⚹ A MAN WHO CANNOT READ WHO HAS SAID OUT LOUD THAT HE IS NEVER GOING TO ASK ANYBODY ABOUT THAT NAME ⚹ AND ⚹ WHO MAY NOW BE ASKED ONE QUESTION, AND ONLY ONE, AND IT IS ABOUT A BARROW, ⚹ A MAN WHO CANNOT SEE WELL WHOSE HAND WENT OUT PAST THE END OF A WALL AND CAME BACK OFF TOUCHING NOTHING ⚹ AND ⚹ WHO REFUSED A FIGURE OF A MAN'S OWN COUNT AND A FIGURE OF A MAN'S OWN YEARS, ⚹ A WOMAN OF THIRTY-EIGHT WHO HEARD A NAME SHE WAS NOT THERE FOR ⚹ AND ⚹ WHO HAS THE WRONG WORD AND HAS HANDED IT BACK AND CANNOT BE CORRECTED, ⚹ AND ⚹ WHO OWES THE CONFIRMING AND HAS OWED IT SINCE THE FIRST BAND, ⚹ A WOMAN OF FORTY-FOUR WHO STANDS AT A WALL AND HAS COME PAST IT ONCE ⚹ AND ⚹ WHO OWES THE ORDINARY FORM AND WHO SAYS FIRST THAT IT DOES NOT ANSWER HER, ⚹ A WOMAN WHO READS FOR A LIVING WHOSE BOOK IS STILL SHUT ⚹ AND ⚹ WHO ASKED FOR ONE THING IN HER LIFE AND WAS REFUSED, ⚹ A MAN OF THIRTY-EIGHT WHO CARRIED A COUNT UP A BANK AND PUT IT BACK ⚹ AND ⚹ WHO WAS REFUSED A NOTCH AND HAS HAD NO JOB ALL WEEK, ⚹ A MAN OF THIRTY-ONE WHO PUT HIMSELF IN A NAME TWICE AND WAS REFUSED TWICE AND IS NOT TOLD HE WAS WRONG ⚹ AND ⚹ WHO WILL ASK ONE QUESTION AND WILL BE REFUSED IN WORDS THAT ARE NOT HIS ⚹ AND ⚹ WHO SAID OUT LOUD THAT HE WAS GLAD TO REFUSE A WOMAN, ⚹ A BOY OF THIRTEEN WHO GIVES HIS OWN COUNT AND WILL NOT TURN IT INTO A COUNT OF THINGS ⚹ AND ⚹ WHO LAID A YOKE ACROSS A LANE THAT STOPS NOTHING, ⚹ **AND ⚹ AND A PIECE OF ASH WITH A NAME ON IT THAT IS WRONG, ⚹ **AND ⚹ AND ⚹ AND ⚹ AND THE CONFIRMING, WHICH MAKES THAT NAME OWED AND NOT GIVEN, ⚹ AND ⚹ THE OFFER STANDS UNANSWERED AT THREE HUNDRED AND FIFTY DAYS, ⚹ THE ACCOUNT STAYS INCOMPLETE AND IN USE, ⚹ THE NAME STANDS WRONG, ⚹ AND ⚹ ⚹⚾ AND ⚹⚾ **NOBODY IS TO BE TOLD THAT ANY OF THAT IS FINISHED, ⚹⚾ AND ⚹⚾ AND ⚹⚾ **AND ON `1050`, WHICH IS AN OFF-MORNING AND THE LAST MORNING, ⚹⚾ THERE IS NO FIGURE OF INCHES ON THAT STONE, ⚹⚾ NO FIGURE OF STEPS UNDER IT, ⚹⚾ NO FIGURE OF DAYS, ⚹⚾ AND NO FIGURE OF ANYTHING ELSE THAT A FIGURE WOULD SETTLE, ⚹⚾ AND ⚹⚾ THE LANDING GOES ON BEING A LANDING.** ⚹**
+Nobody is to be told that any of that is finished.
