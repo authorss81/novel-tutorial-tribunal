@@ -1,4 +1,4 @@
-# Chapter 1028: The First Morning Of The Hundred And Sixty-Ninth Week On Which Eight Inches Stood Over That Top Step At About The Seventh Hour And About Eighty Of Those Ninety Steps Were Under And Six Days Of The Coming Back, And A Man With A Broom Asked A Man Of Thirty-One To Let Him Go Down That Lane To The Work At The Low End Of That Drain Where A Woman Has Asked Out Loud For A Person To Stand With Her And Has Not Named Anybody, And Was Refused By The Man Who Had Refused The Same Thing Before In A Different Shape, And A Woman Who Saws Lengths Refused To Carry The Asking Down That Road In Her Mouth, And Nobody Went Down That Lane And The Work Is Not Done
+# Chapter 1028: The Working Instead
 
 The wind had come round from the west in the night and put every leaf that was on the landing against the wall at the top end, all of them lying with their stems one way and their blades the other, so that the wall had a comb of them on it and the strip at its foot was clear of everything for once.
 

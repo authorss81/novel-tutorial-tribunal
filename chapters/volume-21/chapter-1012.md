@@ -1,4 +1,4 @@
-# Chapter 1012: A Sunday And Eight Inches Over That Top Step And About Eighty Of Those Ninety Steps Under And Six Days Of The Coming Back, And A Man Of Thirty-Eight Came Up The Cart Road Before The Landing Was Awake And Said Out Loud That He Would Give Everything He Had To Know Which Morning Of That Week Was Going To Have Something Said On It And Nobody Refused Him And Nobody Answered Him
+# Chapter 1012: Nobody Took It Off Him
 
 Nobody on that landing heard the man of thirty-eight coming. He came up the cart road with his hand pushed up inside his coat against the edge of a board and his boots on the loose stone, and the loose stone took the sound off the boots and gave it back further up the road, so that by the time anybody on the landing could have heard him he was already standing at the bottom of those steps, and the man who reads for a living was at the wall a few yards below him, and neither said one word.
 

@@ -1,4 +1,4 @@
-# Chapter 1024: The Fourth Day Of The Hundred And Sixty-Eighth Week And Sixteen Inches On That Top Step At About The Seventh Hour And It Holds And About Sixty Of Those Ninety Steps Under And Two Days Of The Coming Back, And A Boy Of Thirteen Worked Out Down In A Lane That If A Wrong Thing Was Said First In The Room Where A Sentence Had Been Said To A Woman Who Was Not Standing In It Then The Right Thing Would Have Somebody To Answer To And Would Stop There, And A Woman Of Forty-Four Standing At A Wall At The Bottom Of That Cart Road Put A Hand On His Yoke And Stopped Him Before The Name In It And Did Not Finish It For Him And Was Not Thanked
+# Chapter 1024: Stopped At The Yoke
 
 The two pails in the yoke were full and the yoke had cut a groove in the boy’s shoulder that had been there since about the fourth hour, and he came up out of the lane carrying them the way he always did, which is with the yoke tipped slightly up so that the water does not run at his boots.
 

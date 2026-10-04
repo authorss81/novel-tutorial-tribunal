@@ -1,4 +1,4 @@
-# Chapter 1029: The Second Day Of The Hundred And Sixty-Ninth Week On Which Twelve Inches Stood Over That Top Step At About The Seventh Hour And About Seventy Of Those Ninety Steps Were Under And Five Days Of The Coming Back, And A Man Of Thirty-One Went From One To Another On That Landing Asking What He Was Owed For A Sentence He Had Said Out Loud About A Piece Of Wood And Was Refused A Figure By A Woman Who Saws Lengths And Was Given A Working By A Man Who Keeps A List Of Things He Cannot Check And Found Out That He Is Owed Nothing And Was Not Relieved
+# Chapter 1029: Owed Nothing, Not Relieved
 
 The comb of dry leaves that had been lying all along that wall was gone by the ninth hour and there was a wet line on the stone at the height they had lain, and the line was already going out at both ends, and by the middle of the afternoon there was no sign of the leaves anywhere on that landing and no sign of where they had been either.
 

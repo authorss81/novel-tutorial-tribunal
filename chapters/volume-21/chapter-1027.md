@@ -1,4 +1,4 @@
-# Chapter 1027: The Seventh And Last Morning Of The Hundred And Sixty-Eighth Week On Which Four Inches Came Back Over That Top Step In The Night And About Ninety Of Those Ninety Steps Were Standing In It And Seven Days Of The Coming Back, And A Man Who Cannot See Well Worked Out Loud In Front Of Everybody What A Week Is And Was Corrected By A Man Who Cannot Read That What He Had Described Was An Afternoon, And A Man Of Thirty-One Asked A Man With A Broom To Tell Him In The Morning Whether The Week Had Turned And Was Not Promised
+# Chapter 1027: He Described An Afternoon
 
 Four inches is the shallowest that water ever comes back to on that bank, and it comes back so gently that it makes no noise at all and simply is there in the morning, and what it does to the landing is take the grit off the top of the steps and put it in one long line along the wet edge, where it stands like a rail and is not a rail.
 

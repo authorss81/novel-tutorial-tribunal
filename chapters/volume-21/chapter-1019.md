@@ -1,4 +1,4 @@
-# Chapter 1019: The Sixth Day Of The Hundred And Sixty-Seventh Week On Which A Woman Who Reads For A Living Came Up The Cart Road And Said That A Sentence Of A Man Of Thirty-One’s Had Been Said To Her In A Place He Was Not Standing In And Was Not Going To Say Where It Was Said And Was Not Going To Be Told What It Meant, And A Man With A Broom Gave Her The Answer She Had Promised To Give And Nobody Gave Her A Figure Of Anything
+# Chapter 1019: Said In Another Room
 
 She came up the cart road at about the fourth hour with the book shut against her knee and she did not stop at the wall at the bottom of it, which she has not done before, and she went all the way to the foot of those steps before she opened her mouth, and what she said there was not what anybody on that landing expected to hear at the fourth hour of that morning.
 

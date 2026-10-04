@@ -18,9 +18,12 @@ Where every chapter is, and where the next one goes.
 | 2 | `1011`–`1020` | written, reviewed; the midpoint landed |
 | 3 | `1021`–`1030` | written, reviewed |
 | 4 | `1031`–`1040` | written, reviewed, repaired |
-| 5 | `1041`–`1050` | written, reviewed, repaired — **volume complete** |
+| 5 | `1041`–`1050` | written, reviewed, repaired |
 
-Volume 21 closes at `1050`, week 172 day 2, a Wednesday, on an off-morning.
+**Volume 21 is closed at `1050`** — week 172 day 2, a Wednesday, on the seventh
+off-morning of the fifty. The close record is
+`reviews/volume-21/volume-21-close.md`. It owed no chapter, wrote none, and created no
+directory; the self-dispatch workflow selects the next phase.
 
 ## What each state file is for
 
@@ -44,7 +47,8 @@ Volume 21 closes at `1050`, week 172 day 2, a Wednesday, on an off-morning.
 | the shape of the whole book | `outline/series.md` |
 | how it ends, and what stays open | `outline/ending.md` |
 | this volume | `outline/volume-21.md` |
-| the phase being worked | `workspace/volume-21/close-0006/PROMPT.md` |
+| volume 21, closed | `reviews/volume-21/volume-21-close.md` |
+| the phase before this one | `workspace/volume-21/close-0006/PROMPT.md` |
 | the work | `chapters/volume-21/` |
 
 ## Known disagreement, unresolved

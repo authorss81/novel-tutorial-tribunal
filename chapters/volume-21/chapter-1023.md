@@ -1,4 +1,4 @@
-# Chapter 1023: The Third Day Of The Hundred And Sixty-Eighth Week And Sixteen Inches That Hold On The Top Step At About The Seventh Hour And About Sixty Of Those Ninety Steps Under And Three Days Of The Coming Back, And A Man Of Thirty-Eight Came Up That Cart Road Having Decided On The Way Up It To Stop Saying A Name Out Loud For The Rest Of His Life And Asked A Man With A Broom For The Figure Of How That Name Got Onto That Strip And Was Refused The Figure And Was Not Refused Anything Else, And Was Not Told He Was Right And Was Not Told He Was Wrong
+# Chapter 1023: Refused The Figure
 
 The line of grit on that top step had gone from a line to a few stones, and every one of the stones was sitting in a saucer of its own making, which is what happens when water goes over grit and then goes off again without troubling to move it.
 

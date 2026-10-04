@@ -1,4 +1,4 @@
-# Chapter 1003: A Friday And Four Inches And About Ninety Of Those Ninety Steps Under And Seven Days Of The Coming Back, And A Boy Said A Thing About A Pail The Way His Mother Would Have Said It And Nobody Made It Into Anything, And A Man Who Cannot See Well Came Up Along That Wall With His Hand Out And Said A Thing Out Loud About A Man Of Thirty-One And Was Refused By Nobody Because There Was Nothing To Refuse
+# Chapter 1003: A Thing Said Twice
 
 Four inches came back onto that bank in the night and put themselves into the joints of ninety steps all at once, and the sound of it was the sound of a thing being poured into a trough in the dark, and the boy of thirteen was the only one on that landing who heard it because he slept over the shed.
 

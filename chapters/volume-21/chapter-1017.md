@@ -1,4 +1,4 @@
-# Chapter 1017: The Fourth Day Of The Hundred And Sixty-Seventh Week On Which The Water Was Sixteen Inches And Holding With One Day To Come Back And Everybody Knew What Tomorrow Was Going To Be Like, And A Day’s Notice Was Given Out Loud Before That Morning Arrived Of What Was Not Going To Be Done On It, And Nobody Went Near That Wood On The Last Morning Before The Whole Of That Flight Stood Out Of It
+# Chapter 1017: A Day's Notice
 
 The water stopped going up at about the fourth hour and did not come off it, which is how that bank says that it has made up its mind, and everybody who came up that bank that day could tell from the first step whether they were standing on a morning that would be over or not.
 

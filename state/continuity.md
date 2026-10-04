@@ -1,7 +1,19 @@
 # continuity
 
-What has to stay true across chapters in volume 21. Anything printed here is a fact
-about the page, not a plan.
+What has to stay true across chapters in volume 21, which is **closed at `1050`**.
+Anything printed here is a fact about the page, not a plan.
+
+## The close, and the two things it changed in the prose
+
+- **`1010:21` and `1010:23`** read *one thousand and nine* less seven hundred and
+  twenty-two and then one, against the ordinal two hundred and eighty-ninth on the same
+  page. **One thousand and nine less seven hundred and twenty-two and then one is two
+  hundred and eighty-eighth.** Both now read **one thousand and ten**, which is the
+  figure the house form gives at `1010`, and which the other forty-nine chapters give
+  by naming their own chapter number as the minuend.
+- **Nothing else in the prose changed.** Thirty title lines and one title line, and no
+  `CHAPTER:LINE` anywhere in this repository moved. Verified byte for byte against the
+  same files in `HEAD`.
 
 ## Band 5 closings and places (`1041`–`1050`)
 

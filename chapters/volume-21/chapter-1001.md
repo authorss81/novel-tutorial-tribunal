@@ -1,4 +1,4 @@
-# Chapter 1001: A Wednesday And Sixteen Inches That Hold And One Day Of The Coming Back, And A Man With A Broom Swept Round Two Pieces Of Wood On That Dry Strip Instead Of Across Them And Said Out Loud That What He Wanted Was A Stone He Could Sweep, And Nobody Asked Him What He Had Come Across And Nobody Was Thanked
+# Chapter 1001: A Stone He Could Sweep
 
 The broom went along the stone and stopped short, and then went on again, and the stopping was the whole of his morning.
 

@@ -1,4 +1,4 @@
-# Chapter 1030: The Third Morning Of The Hundred And Sixty-Ninth Week On Which Sixteen Inches Stood On That Top Step At About The Seventh Hour And It Holds And About Sixty Of Those Ninety Steps Under And Four Days Of The Coming Back, And A Line Of Grit Stood Up On That Top Step Where The Water Came Over The Edge In Three Places And Would Be A Dam Against The Next Water, And A Boy Of Thirteen Asked A Man Of Thirty-One To Go Down That Lane With Him And Was Refused In A Mouth And Went Down It Alone With A Yoke And Two Full Pails And Said Nothing, And A Man With A Broom Spent The Whole Of The Afternoon On That Line Of Grit Alone And Got It Down
+# Chapter 1030: The Lip He Took Down
 
 The water came over the edge of that top step in three places that morning, the way it had been doing since the fourth day of the hundred and sixty-eighth week, and in each of those places it had got hold of a line of grit that had been standing on the wet edge since before the light and had packed itself into a lip about the width of two fingers, and the lip was holding water back on the stone the way a finger holds water back in a bowl.
 

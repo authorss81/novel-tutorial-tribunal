@@ -1,4 +1,4 @@
-# Chapter 1006: The Last Morning Of The Hundred And Sixty-Fifth Week And A Man Of Thirty-One Stood At The Top Of Those Steps With His Face To The Wall And Used A Shape Out Loud In Front Of The Wood And Would Not Say The Rest Of It Out Loud, And A Man With A Broom Did His Whole Morning Without Anybody Having To Say Why It Mattered, And Nobody Went Near Anything On A Morning When Every One Of Those Ninety Steps Was Walkable
+# Chapter 1006: Swept Without A Word
 
 Sixteen inches came up over that top step in the night and stood there, and by the seventh hour it had stopped rising and had begun, very slightly, to come off, and that is the only kind of morning there is on that landing where the water is high and still standing and everybody knows which way it is going.
 

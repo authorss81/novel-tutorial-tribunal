@@ -1,7 +1,8 @@
 # open threads
 
-Threads carried at the end of volume 21 band 5 (`1041`–`1050`). A thread advances
-when a person does a thing in a mouth.
+Threads carried out of volume 21, which is closed at `1050`. A thread advances when a
+person does a thing in a mouth. **The close certified the volume and closed two of its
+own housekeeping items; every story thread below is carried, not closed.**
 
 ## What advanced and what closed in band 5
 
@@ -105,13 +106,24 @@ on none. It was not asked again so that somebody could finally say something. **
 - **Volume 21 has zero new people.** The outline forbids naming a person who is not
   already named in a chapter. Any return of Sera Quill would have to respect that rule
   or the volume outline would have to be amended by whoever owns it.
-- **The chapter titles of bands 1–3 are still 60–160 words each.** `chapter-1001.md`
-  through `chapter-1030.md` carry whole plot summaries where a title belongs. Band 4's
-  ten were cut on the review of band 4; bands 1–3 were not, and the work is **owed to
-  the volume 21 close**, which owns no chapter and can commission the change.
+- ~~**The chapter titles of bands 1–3 are still 60–160 words each.**~~ **CLOSED at the
+  volume 21 close.** `chapter-1001.md` through `chapter-1030.md` carried whole plot
+  summaries of sixty to a hundred and thirty-two words each. **All thirty were cut to
+  two to six words against the body, naming nothing and printing no figure, with no prose
+  touched**; `1016` was cut from *A Second Mouth* to *Another Mouth* because a title in
+  this volume prints no numeral. **Two band 4–5 titles still carry a spelled numeral**
+  (`1035` *One Of Mine*, `1037` *One More Notch*) and were left, because the close's
+  title remit was bands 1–3 and a numeral counting a notch is not on the forbidden list.
+  See `reviews/volume-21/volume-21-close.md` §1.
 - **The water ladder runs backwards** — more water puts fewer steps under — and it is
   a known hazard rather than a settled fact. It is stated with its warning in
   `state/continuity.md`. It is owed to a person and is not settled here.
+- **`outline/volume-21.md` §4.1 is wrong in one sentence about the seven off-mornings'
+  weekdays.** It lists them as Thursday through Wednesday and then says there is no
+  Thursday among the seven, and it puts the missing Thursday of volume 20 at `1018`,
+  which is a Saturday on the plan's own formula. **The fifty chapters are right and the
+  plan is wrong, and nothing in any chapter was repaired for it.** Owed to whoever owns
+  the outline. `reviews/volume-21/volume-21-close.md` §2.1.
 
 ## Archive
 

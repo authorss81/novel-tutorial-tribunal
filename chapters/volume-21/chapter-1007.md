@@ -1,4 +1,4 @@
-# Chapter 1007: The First Morning Of The Hundred And Sixty-Sixth Week And A Man Of Thirty-Eight Came Up A Road He Said He Would Not Come Up And Carried A Board Inside His Coat And Said Out Loud That A Shape Was His And Nobody Was To Tell Him Where He Got It, And A Boy Gave A Figure Of His Own And Would Not Turn It Into A Figure Of Anything Else, And A Woman Stood At A Wall At The Bottom Of That Cart Road And Nobody Went Up To Her
+# Chapter 1007: Told It Was His
 
 First day of the hundred and sixty-sixth week. His seven hundred and fifty-seventh morning. Six hundred and seven days after the settlement. The fever one hundred and three weeks and three days old. Five hundred and sixty-one days since the division. Five hundred and seven days since a page was read out in a room with the door shut, in a town in another county, and four hundred and fifty-three days in this county of Kell.
 

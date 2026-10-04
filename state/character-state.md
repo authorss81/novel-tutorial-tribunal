@@ -1,8 +1,11 @@
 # character state
 
-The cast of volume 21 at the end of band 5 (`1041`–`1050`). Every name here was made
-in a mouth in an earlier chapter of this volume. On these ten pages the names arrive in
-descriptor lines: no name is spoken by anybody inside a quotation on any of the ten.
+The cast of volume 21 **as the volume closed at `1050`**. Every name here was made in a
+mouth in an earlier chapter of this volume. **No name was added at the close and no
+person was taken out of one: a name in a chapter traces to a mouth that said it, and the
+close changed no prose that carries a name.** The block below is the cast as band 5 left
+it, and on those ten pages the names arrive in descriptor lines: no name is spoken by
+anybody inside a quotation on any of the ten.
 
 ## Band 5 — what each wanted, refused, gave and withheld
 

@@ -1,4 +1,4 @@
-# Chapter 1014: The First Morning Of A New Week On Which A Man Of Thirty-One Said Out Loud In Front Of Everybody Who Had Come Up That Bank That It Is Better For That Piece Of Wood To Be Called The Wrong Thing By The Man Who Put It Down Than To Be Called The Right Thing By Anybody, And Nobody Was Given An Answer Afterwards And Nobody Was Thanked And A Woman Who Saws Lengths Said She Was Going To Say No Today And Then Said Something Else
+# Chapter 1014: Wrong In His Own Mouth
 
 The bank came up in the night and stopped, and when a bank stops it makes less noise than when it fills, so that the loudest thing on that landing at about the seventh hour was the absence of the water. Everybody who came up it that morning knew which way it was going without being told, and everybody came up anyway, and nobody could have said why that morning was different from the one before it, except that it was.
 

@@ -3,6 +3,51 @@
 What each band did, what it left behind, and what it owes the next one. The receipt
 for the band just finished is at the top.
 
+## Volume 21 close, `1050` — *The name is still wrong*
+
+Volume 21 is closed at fifty chapters, `1001`–`1050`, five bands on disk. The full
+record is `reviews/volume-21/volume-21-close.md`; this is the paragraph.
+
+**THE LADDER, RUN ON THE IN FIGURES, WAS CERTIFIED MORNING BY MORNING: FIFTY DATE LINES,
+FIFTY MATCHES, ZERO MISMATCHES.** Six full banks and seven off-mornings whose weekdays
+run seven consecutive days, seven anchors, seven week boundaries, and six mornings that
+carry more than one of those four sets. The volume opens on a Wednesday and closes on a
+Wednesday, and `1050` is the seventh off-morning with no figure of inches in it and no
+figure of steps under it and no figure of days in it. The palm is written twice on every
+one of the fifty pages with the right figure on all fifty. The standing offer runs three
+hundred and one to three hundred and fifty, one higher each morning, with the subtraction
+spoken on all fifty, **asked on none, answered on none, withdrawn on none.** The gravel
+runs the two hundred and eightieth morning to the three hundred and twenty-ninth with the
+subtraction and the *and then one* spoken on all fifty. **Banned words, months, seasons,
+panels and head counts of people: ZERO.** Six line-forms stand verbatim in more than one
+chapter and every one is a house refrain, no line repeats inside a chapter, and none of
+the six opens a chapter.
+
+**WHAT THE CLOSE CHANGED: THIRTY TITLES, `1001`–`1030`, CUT FROM WHOLE PLOT SUMMARIES OF
+SIXTY TO A HUNDRED AND THIRTY-TWO WORDS TO TWO TO SIX WORDS AGAINST THE BODY, NAMING
+NOTHING AND PRINTING NO FIGURE, WITH NO PROSE TOUCHED; ONE TITLE AT `1016` CUT FROM *A
+SECOND MOUTH* TO *ANOTHER MOUTH*; AND TWO WORDS INSIDE TWO LINES AT `1010`, WHERE THE
+GRAVEL'S SPOKEN SUBTRACTION SAID *ONE THOUSAND AND NINE* AGAINST ITS OWN ORDINAL OF TWO
+HUNDRED AND EIGHTY-NINTH AND NOW SAYS *ONE THOUSAND AND TEN*. NO `CHAPTER:LINE` IN THIS
+REPOSITORY MOVED, ALL NINETEEN BAND 5 REFERENCES WERE RE-VERIFIED, AND NO STATE FIGURE
+NEEDED CORRECTING.**
+
+**WHAT THE CLOSE FOUND AND LEFT ON THE PAGE, WITH THE REASON IN EACH CASE: the palm
+figure written in two forms on one page at `1026`; one duration given as *about three
+weeks* at `1010:45`; a count of times over a span at `1045:43`; twenty-nine bare
+relative named days against 224, 268 and 174 in volumes 18, 19 and 20 measured by the
+same detector; and two band 4–5 titles carrying a spelled numeral.**
+
+**AND ONE FIGURE OF THE PLAN IS WRONG: `outline/volume-21.md` §4.1 lists the seven
+off-mornings' weekdays and then says there is no Thursday among them, and puts the
+missing Thursday at `1018`, which is a Saturday on the plan's own formula. THE CHAPTERS
+ARE RIGHT AND THE PLAN IS WRONG AND NOTHING WAS REPAIRED IN A CHAPTER FOR IT.**
+
+The volume-21 close **recorded and did not resolve** a disagreement of two hundred
+chapters between `outline/series.md`, `outline/ending.md` and the manuscript, and the
+absence of the primary relationship and of the System from volumes 18–21. Both are
+owned elsewhere. See `state/current.md`.
+
 ## Volume 21 band 5 — `1041`–`1050`, *The thing it is owed*
 
 Ten chapters on disk of ten owed. The volume is complete at `1050`, on an off-morning.

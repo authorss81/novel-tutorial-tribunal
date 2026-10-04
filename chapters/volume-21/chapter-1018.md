@@ -1,4 +1,4 @@
-# Chapter 1018: A Saturday On Which The Water Came Off That Bank In The Night And There Was No Figure Of Inches And No Figure Of How Much Of That Flight Was Standing In It And No Figure Of How Long Before It Came Back, And A Man With A Broom Said Three Gaps In A Third Set Of Words And Worked Without Anything To Work Towards, And A Whole Figure Of Weeks Came Out Of A Wall With Nothing Beside It And A Man Who Cannot See Well Came Up And Did Not Go Past The Fortieth Step
+# Chapter 1018: Nothing To Work Towards
 
 The water left that bank in the night and took the sound of the landing with it, so that by first light the whole of that flight stood dry and empty from the bottom to the top, and the landing had never looked so much like a landing, and not one person came up it for hours.
 

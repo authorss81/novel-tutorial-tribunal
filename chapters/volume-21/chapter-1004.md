@@ -1,4 +1,4 @@
-# Chapter 1004: A Saturday And Eight Inches And About Eighty Of Those Ninety Steps Under And Six Days Of The Coming Back, And A Man Who Cannot Read Said One Hundred And Three Weeks Out Loud At The Sixth Hour With No Figure Of Days Beside It And Nobody Asked Him What A Whole Figure Of Weeks Was For, And A Man With A Broom Said Out Loud That He Had Found A Shape Useful And Was Not Going To Say Where He Had Got It
+# Chapter 1004: The Shape He Would Not Name
 
 The fever came out whole on that morning and the man who cannot read had it in his mouth before the light was properly on the wall, and there was no figure of days with it.
 

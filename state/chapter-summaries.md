@@ -4,6 +4,11 @@ One entry a chapter for the current volume; one line a band for the rest of the
 book. The long-form record of what each band was for is in
 `state/batch-summary.md`.
 
+**VOLUME 21 IS CLOSED AT `1050`.** The thirty band 1–3 chapters carry one line each
+below and their titles were cut at the close; the fifty titles are on the chapters
+themselves and are not duplicated here. The close record is
+`reviews/volume-21/volume-21-close.md`.
+
 ## Volume 21 — *The Name Already On It* (1001–1050)
 
 ### Band 5 — `1041`–`1050`, *The thing it is owed* (complete)
@@ -141,11 +146,14 @@ book. The long-form record of what each band was for is in
 
 ### Band 5 — `1041`–`1050`, owed and not written
 
-The confirming on `1041` or after; the climax on `1046` or after, where the man of
-thirty-one asks the man who cannot read whether the barrow that wood was cut for is
-the barrow that comes up that bank; the ordinary form in the mouth of the woman of
-forty-four; the standing offer unanswered at three hundred and fifty days; `1050` an
-off-morning, week 172 day 2, a Wednesday.
+**SUPERSEDED. This is what band 5 was owed before it was written. The band is written,
+reviewed and repaired, and its ten chapters are the live set at the top of this file;
+see `reviews/volume-21/batch-0006-review-repair.md`.** What it was owed, and where each
+thing landed: the confirming on `1041:39`; the climax on `1046:43`, refused in his own
+words at `1046:49`, neither wrong nor right at `1046:55`, the wanting to shape it
+unsatisfied at `1046:57`; the ordinary form from the wall at `1048:39` after she
+forestalled the thanks at `1048:35`; the standing offer unanswered at three hundred and
+fifty days on `1050`; `1050` an off-morning, week 172 day 2, a Wednesday.
 
 ## Volumes 1–20
 

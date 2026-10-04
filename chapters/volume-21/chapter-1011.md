@@ -1,4 +1,4 @@
-# Chapter 1011: A Saturday On Which Four Inches Came Back Over That Stone And About Ninety Of Those Ninety Steps Were Under And Seven Days Of The Coming Back, And A Man With A Broom Said Out Loud Three Gaps That Were Not About Water And Would Not Say A Whole Figure Of Weeks Out Loud Twice, And A Man Of Thirty-One Told The Landing He Was Not Going To Finish A Sentence He Had Started Building In His Own Mouth
+# Chapter 1011: Gaps That Were Not Water
 
 The water came back in the night and stopped four inches deep over the stone, which is the shallowest it has ever come to, and it came so gently that nobody on that landing heard it arrive. What it did instead was find the grit that the broom had been driving to the low edge all week and hold it there, so that in the morning the whole top of that bank was a pale line and nothing in it moved.
 

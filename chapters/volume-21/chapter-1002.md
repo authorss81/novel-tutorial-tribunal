@@ -1,4 +1,4 @@
-# Chapter 1002: A Thursday On Which The Water Came Off That Bank And Every One Of Those Ninety Steps Was Walkable And There Was No Figure Of Inches And No Figure Of Steps Under And No Figure Of Days And The Man With A Broom Said All Three Of Those Absences Out Loud Before Anybody Had Worked Out That They Were Absences, And A Woman Who Saws Lengths Came Up The Cart Road And Would Not Say What The Wood Was A Second Time
+# Chapter 1002: So It Could Not Be Unsaid
 
 The water was not on the bank and Corvin Tace noticed it before he was halfway up the steps, and he stopped, and then went on up, and the stopping was because he had nineteen years of the top step being wet under his boot and it was not.
 

@@ -1,4 +1,4 @@
-# Chapter 1016: The Third Day Of The Hundred And Sixty-Seventh Week On Which A Man Of Thirty-Eight Said Out Loud The Name That Stands On That Strip And Put Himself Inside It In The Same Breath, And A Woman Who Saws Lengths Refused To Be Used And Gave The Working Out Of Her Own Trade And Would Not Say What The Wood Was, And Nobody Told That Man He Was Right And Nobody Told Him He Was Wrong
+# Chapter 1016: Another Mouth
 
 The name went out over that landing at about the eighth hour in a man’s voice that had not used it before, and it took the landing a moment to notice that the mouth it came out of was not the mouth it had come out of before, and by the time it had noticed, the sentence around the name had already been said.
 

@@ -1,4 +1,4 @@
-# Chapter 1021: The First Morning Of The Hundred And Sixty-Eighth Week And Twelve Inches Over That Top Step With About Seventy Of Those Ninety Steps Under And Five Days Of The Coming Back, And A Man Of Thirty-Eight Came Up The Cart Road And Put A Sentence Out Loud In His Own Mouth That A Man Standing On That Landing Had Said There The Week Before, And The Man Who Had Said It Was On The Stone When It Came Back At Him, And Nobody Said He Was Right And Nobody Said He Was Wrong, And He Would Not Say It A Second Time So That Another Man Could Check It
+# Chapter 1021: Said Back To Him
 
 The grit had gone the colour of the stone it was lying on, and there was a line of it along the top step that had not been there the morning before, and the wind came over the bank and went round the line instead of through it.
 

@@ -1,4 +1,4 @@
-# Chapter 1015: The Second Day Of The Hundred And Sixty-Seventh Week On Which A Man With A Broom Swept All Of Those Ninety Steps And Reported Out Loud That A Landing Does Nothing At All With A Thing It Has Heard Once, And A Man Who Cannot Read Said He Had Heard A Sentence And Was Not Going To Repeat It Because A Man Who Repeats A Thing He Cannot Read Has Already Got It Wrong, And A Man Of Thirty-One Worked Out Loud That A Name On A Thing That Is Wrong Can Be Refused For Nothing And A Name On A Thing That Is Right Is A Debt
+# Chapter 1015: Nothing Done About It
 
 Nobody on that landing opened their mouth about it all morning. That is the whole of what happened on the second day of that week, and it took the man with the broom until about the eleventh hour to be sure of it, and he was sure of it because he kept stopping to look up the bank and nobody ever looked back.
 

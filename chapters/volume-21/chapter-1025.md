@@ -1,4 +1,4 @@
-# Chapter 1025: The Fifth Day Of The Hundred And Sixty-Eighth Week And Sixteen Inches On The Top Step At About The Seventh Hour And It Holds And About Sixty Of Those Ninety Steps Under And One Day Of The Coming Back, And A Whole Figure Of Weeks Came Out Of A Man’s Wall With Nothing Beside It For The Second Time It Was Not Easier, And A Man Who Cannot See Well Asked To Be Given One Man’s Own Count And Was Refused And Then A Man Of Thirty-One Offered His Own Count To The Man Who Cannot Read And Was Refused By Him With A Working About Nobody Ever Checking It
+# Chapter 1025: Neither Of Them Took It
 
 The low sun came over the wall at the top end of that landing for a few minutes in the morning and then went behind the hill, and in those few minutes the stone at that end showed every mark on it, and the marks were weather, and a broom head dragged, and the leg of a barrow stood on too hard, and the wall’s own weight on the two lengths of wood lying at its foot where nobody had ever painted or cut anything on either of them.
 

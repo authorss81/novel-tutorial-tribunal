@@ -1,4 +1,4 @@
-# Chapter 1010: The Last Morning Of This Band And A Man With A Broom Said The Three Things He Had Said Before On An Earlier Morning In Entirely Different Words And Nobody Asked Him To Say Them Again, And A Man Of Thirty-One Gave The Figure Of An Offer At Three Hundred And Ten Days Out Loud With The Subtraction And Said Out Loud That He Had Not Asked It And Nobody Answered It And Nobody Was Relieved, And Two Pieces Of Wood Were Still On A Dry Strip At The Top Of Those Steps
+# Chapter 1010: The Same Gaps Again
 
 The water came off that bank in the night and the man with the broom was the first one up it, which he had not been since the bank filled, because there was nothing to sweep on the dry stone and there was nothing to sweep on the wet stone either and he came up anyway.
 
@@ -18,9 +18,9 @@ Nobody said it was a complaint and nobody said it was a virtue.
 
 Then the man of fifty-four came up at about the sixth hour and asked in the same words at the same hour and nobody answered him and nobody thanked him, and said out loud that he had come to the end of what he had to say about it and that he was going to keep saying the same words, and that the landing could do what it liked with that.
 
-Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He carried two hundred and eighty-ninth mornings of asking for a day against the ninth line, which is one thousand and nine less seven hundred and twenty-two, and then one.
+Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. He carried two hundred and eighty-ninth mornings of asking for a day against the ninth line, which is one thousand and ten less seven hundred and twenty-two, and then one.
 
-“Two hundred and eighty-ninth. One thousand and nine less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
+“Two hundred and eighty-ninth. One thousand and ten less seven hundred and twenty-two, and then one. Nobody asked me for it, same as every morning I have come up.”
 
 “Nobody asked you for it, and it is the same words and it is the same hour and it is the same question, and the only thing that has changed on this landing in a fortnight is what people say when they pass each other.”
 

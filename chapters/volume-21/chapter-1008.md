@@ -1,4 +1,4 @@
-# Chapter 1008: The Second Day Of The Hundred And Sixty-Sixth Week And A Woman Who Saws Lengths Came Up The Cart Road And Used A Shape In A Mouth That Owed Something And Would Not Say What It Owed And A Man Of Thirty-One Saw What It Cost Her And Did Not Say So, And Nobody On That Landing Was Told What To Say By A Person Who Wanted It Said
+# Chapter 1008: The Shortest Figure
 
 The two days of the coming back came out of that stone at about the seventh hour in a voice that had been giving figures off it for nineteen years, and it was the shortest figure he gave and it told nobody anything at all, and he said so.
 

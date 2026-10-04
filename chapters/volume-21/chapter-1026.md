@@ -1,4 +1,4 @@
-# Chapter 1026: The Sixth Day Of The Hundred And Sixty-Eighth Week On Which The Water Came Off That Bank In The Night And There Was No Figure Of Inches And No Figure Of How Much Of That Flight Was Standing In It And No Figure Of How Long Before It Came Back, And A Man With A Broom Gave Those Three Absences In A Fourth Set Of Words And Then Gave A Fourth Thing He Had Never Given Before, And A Man Of Thirty-One Asked The Woman Who Reads For A Living To Read Him His Own Account Out Loud And Was Refused By Her On The Ground That A Thing With No Writing On It Is Not A Page
+# Chapter 1026: Not A Page
 
 The water left that bank in the night and took the loudness with it, the way it always does, so that by first light the whole of that flight was standing out of it from the bottom to the top, and the landing had never looked so much like a place where people worked, and it was very quiet on it.
 
