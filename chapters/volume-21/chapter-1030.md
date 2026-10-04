@@ -22,7 +22,7 @@ Barnaby Crove is fifty-four, holds the gravel on that landing, and cannot read. 
 
 “Third morning of this week and I am going to say one thing and then I am going to do a day’s gravel.” He did not take his hands off the wall. “There is a man on this stone who has found something to do this morning that is not about the water and not about the strip and not about anybody’s name, and I am glad of it, and I am not going to stand here and work out what it is, because I have worked out more than one thing this week and most of them were wrong. Whether there is one thing in this county a man who cannot read is wanted for, once, with nothing kept against it. And a man with a broom has been asked things by people on that landing all week and has given some of them a working and some of them nothing, and there is a man of thirty-one who has been round asking what he is owed, and I am not going to use any of it, and my question goes down that bank in the same shape it went up it.” Nobody told him what shape it went up in.
 
-Then the boy of thirteen came up out of the lane with two pails of water in a yoke, carried them to the shed side, set them down, came back, and did not stop at the strip, and stood at the foot of the bank instead, and waited until the man of thirty-one had come up the flight.
+Then the boy of thirteen came up out of the lane with two pails of water in a yoke, carried them to the shed side, set them down, came back, and did not stop at the strip, and stood at the foot of the bank instead, and waited until the man of thirty-one had come up the flight at about the ninth hour.
 
 Wat Marshe is thirteen, has been in this county three hundred and seventy-seventh days, and counted the figure in the lane before the light came up. Three hundred and seventy-seven is one thousand less six hundred and twenty-three.
 
@@ -70,11 +70,11 @@ Wenna Pyle is thirty-eight, who saws lengths and sets studs at a bench in an ope
 
 She turned and went down that cart road with her hands empty and nobody went up the road after her.
 
-Then the man of thirty-one came up at about the ninth hour with sixteen inches above his boots, gave his figures, gave the figure of the standing offer with the subtraction out loud, asked for nothing, and said out loud that a whole figure had come out of his mouth and that he was not going to let the landing do anything with it.
+Then the man of thirty-one went back up the flight and gave his figures with sixteen inches above his boots, gave the figure of the standing offer with the subtraction out loud, asked for nothing, and said out loud that a whole figure had come out of his mouth and that he was not going to let the landing do anything with it.
 
 “Four hundred and seventy-six days in this county, and the cut across that palm is three hundred and forty-five days old, and the standing offer asked at the seven-hundred-and-eightieth is three hundred and thirty days old, which is one thousand and thirty less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to ask for one on the morning I have said a whole figure out loud.”
 
-He stood in the middle of the landing with the wall behind him and did not go up towards the strip.
+He came back down off that top step and stood in the middle of the landing with the wall behind him and did not go up towards the strip.
 
 “One hundred and seventieth wrong things in one hundred and seventieth mornings, and this is the hundred and seventieth, and it is a whole figure, and nobody is going to tell me what kind of figure it is and nobody is going to tell me that I found anything, and nobody is going to stand on this stone this afternoon looking at me and doing arithmetic.”
 

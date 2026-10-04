@@ -72,13 +72,13 @@ And then he said one more, and he said it to the stone and not to the man of thi
 
 That got nothing, and not one of the shapes a thing can come back in came back on it, and the man who keeps a list did not add it to the list.
 
-Then the man of thirty-one came up at about the ninth hour with twelve inches above his boots, gave his figures, gave the figure of the standing offer with the subtraction out loud, asked for nothing, and then told a landing what he had found out, and found out nothing.
+Then the man of thirty-one, who had come up at about the ninth hour and had spent the tenth hour putting a question to a man who cannot see well, came back to the middle of that landing with twelve inches above his boots, gave his figures, gave the figure of the standing offer with the subtraction out loud, asked for nothing, and then told a landing what he had found out, and found out nothing.
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county four hundred and seventy-five days. The cut across that palm is three hundred and forty-four days old.
 
 “Four hundred and seventy-five days in this county, and the cut across that palm is three hundred and forty-four days old, and the standing offer asked at the seven-hundred-and-seventy-ninth is three hundred and twenty-nine days old, which is one thousand and twenty-nine less seven hundred. It is unanswered. I have not asked it. Nobody has offered me a way out of it and I did not ask for one and I am not going to ask for one today when I have been round this landing asking about something else and got nothing that can be spent.”
 
-He stood in the middle of the landing with the wall behind him.
+He stood there with the wall behind him and did not go up towards the strip.
 
 “One hundred and sixty-ninth wrong things in one hundred and sixty-ninth mornings, and this is the hundred and sixty-ninth, and nobody is going to tell me what kind of figure that is and nobody is going to tell me that I found anything.” Nobody answered him on the figure and nobody answered him on the want, and he did not say which of the two mattered more, because he has been told on another morning that it is the same silence for both of them.
 

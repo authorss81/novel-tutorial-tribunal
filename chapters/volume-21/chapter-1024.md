@@ -6,7 +6,7 @@ Fourth day of the hundred and sixty-eighth week. His seven hundred and seventy-f
 
 Sixteen inches on the top step at about the seventh hour and it holds, about sixty of those ninety steps under, and two days of the coming back. The man of forty-three gave those three figures and said that two days was the shortest figure he had in his mouth and that he had been giving it off that same stone for nineteen years and had never once got used to how little a morning it left a man.
 
-Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and said on the fourth day of the hundred and sixty-eighth week that he had swept that same top step at about the seventh hour on nineteen years of Fridays and had noticed on this one that the water was coming up over the edge in three places instead of one, and that he was not going to say what that meant because he had not worked it out and he did not intend to.
+Corvin Tace is forty-three, holds that landing nineteen years, gives four figures off one stone, has never once given a fifth, and said on the fourth day of the hundred and sixty-eighth week that he had swept that same top step at about the seventh hour every day of nineteen years and had noticed on this one that the water was coming up over the edge in three places instead of one, and that he was not going to say what that meant because he had not worked it out and he did not intend to.
 
 “Sixteen at the seventh hour and it holds, two days of the coming back, and about sixty of those ninety steps under, on the fourth day of the hundred and sixty-eighth week, and it is a Friday. Three figures.”
 
