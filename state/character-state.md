@@ -1,8 +1,21 @@
 # character state
 
-The cast of volume 21 at the end of band 4 (`1031`–`1040`). Every name and age here
-was made in a mouth in a chapter. Figures are checked against the page, morning
-against morning, not against the chapter's own date line.
+The cast of volume 21 at the end of band 5 (`1041`–`1050`). Every name and age here
+was made in a mouth in a chapter.
+
+## Band 5 — what each wanted, refused, gave and withheld
+
+- **Ilyan Vester, thirty-one, nobody's.** Want to be somebody, unchanged. Asked the barrow question on `1046` and was refused; asked to explain it on `1047` and was refused; asked for bench time, drain leave is Garrin's, book entry is Sena's, yoke move and broom time and account, all refused with workings. Mistakes: wanted the confirming to finish it; wanted to smooth refusals; wanted the chair to be hers to ease the landing; wanted thanks stopped only by her. Cost: what the Saturday took, carried without shape and without number.
+- **Barnaby Crove, fifty-four, cannot read.** Asked his sixth-hour question every morning, unanswered. On `1046` was asked the barrow question by Ilyan and refused in his own words: will say neither mine nor not mine, as either puts him in it. Was told neither wrong nor right, and nobody shaped it after. Did not explain, did not soften, kept hands on wall and shafts.
+- **Wenna Pyle, thirty-eight.** Confirmed on `1041` what the wood is and that she confirms rather than hands over, settling nothing. Refused bench time to Garrin and re-saying to Wat, each with a working from her own hold.
+- **Orla Fennimore, forty-four.** Asked the chair again on `1045` and was refused; said the ordinary form on `1048` from the wall, forestalling thanks first. Refused book entry to Sena with the checked-against-said working.
+- **Corvin Tace, forty-three.** Gave three figures, never a fifth; three absences on off-mornings in new words. Refused drain leave, yoke move, and broom time, each with stone reasons.
+- **Simon Rook, about fifty-two.** List empty throughout. Asked and got nothing; kept hands off the wood.
+- **Sena Dorr, forty-nine.** Asked for account and for entry, refused with workings; kept book shut.
+- **Garrin Tolley, thirty-eight.** Asked for bench, drain, and got refusals; owned wanting to be the man who went.
+- **Wat Marshe, thirteen.** Gave his own count each morning; asked for re-saying and for yoke move, refused; owned both wants as his own mistakes.
+
+## Earlier bands
 
 ## Ilyan Vester — thirty-one, nobody's
 

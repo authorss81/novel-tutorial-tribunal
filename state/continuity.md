@@ -3,6 +3,12 @@
 What has to stay true across chapters in volume 21. Anything printed here is a fact
 about the page, not a plan.
 
+## Band 5 closings and places (`1041`–`1050`)
+
+No new place. Shed, wall, lane, drain, cart road, fortieth step, chair, dry strip all as before. Cup, pails, yoke, board, broom, book move and return; nothing moves the ash.
+
+Closing devices, all different: cup placed · palm lifted · rings drying · hand stilling board · standing at wall · hands at sides · hands washed · palms warmed · yoke laid · setting down and taking up. No closing carries the offer. `1050` ends on hands and road, naming nothing.
+
 ## Calendar
 
 Volume 21 opens on a Wednesday, the second day of the hundred and sixty-fifth week,

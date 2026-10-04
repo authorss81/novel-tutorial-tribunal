@@ -3,6 +3,48 @@
 What each band did, what it left behind, and what it owes the next one. The receipt
 for the band just finished is at the top.
 
+## Volume 21 band 5 — `1041`–`1050`, *The thing it is owed*
+
+Ten chapters on disk of ten owed. The volume is complete at `1050`, on an off-morning.
+
+### The ten mornings
+
+| ch | week / day | weekday | inches | steps under | days of the coming back |
+|---|---|---|---|---|---|
+| `1041` | 170 / 7 | Monday, last morning of the week | 16, holds | about 60 | 1 |
+| `1042` | 171 / 1 | Tuesday, week turned between `1041` and this | none | none | none |
+| `1043` | 171 / 2 | Wednesday | 4 | about 90 | 7 |
+| `1044` | 171 / 3 | Thursday | 8 | about 80 | 6 |
+| `1045` | 171 / 4 | Friday | 12 | about 70 | 5 |
+| `1046` | 171 / 5 | Saturday, full bank and anchor together | 16, holds | about 60 | 4 |
+| `1047` | 171 / 6 | Sunday | 16, holds | about 60 | 3 |
+| `1048` | 171 / 7 | Monday, boundary after this morning | 16, holds | about 60 | 2 |
+| `1049` | 172 / 1 | Tuesday, boundary between `1048` and this | 16, holds | about 60 | 1 |
+| `1050` | 172 / 2 | Wednesday, off-morning, last morning of the volume | none | none | none |
+
+Counters, read off the page by hand: his morning 791–800; settlement 641–650; division 595–604; door-shut 541–550; Kell 487–496; palm 356–365 twice on every page; offer 341–350 with subtraction spoken; mistakes 181–190; gravel 320–329 with subtraction and then one; boy 388–397 spoken by himself. Fever 108w2d on `1041`, 109w exactly on `1046`, 109w4d on `1050`.
+
+### What the band owed, and whether it is on the page
+
+1. **Confirming** — on the page `1041:39`, in the mouth of the woman of thirty-eight, saying she is confirming a name and not giving a thing, saying what the wood is, resolving nothing.
+2. **Climax** — on the page `1046:43` asked, `1046:49` refused, `1046:55` neither wrong nor right, `1046:57` the wanting to shape it unsatisfied. Man of thirty-one asks man who cannot read about the barrow and not the name; refusal in his own words; cost spent and not printed.
+3. **Ordinary form** — on the page `1048:35` forestall, `1048:39` the form from the wall by the woman of forty-four. Says first it does not answer her question; nobody thanks, asks, or tells.
+4. **Standing offer** — on the page `1041:63` at 341 through `1050:31` at 350, one higher each morning, subtraction spoken. Asked on none, answered on none, withdrawn on none. Nobody relieved.
+5. **No new name** — on the page across all ten. Swept: no new name put on anything; word zero nowhere.
+6. **Hand** — on the page in all ten, each in its own words: `1041:89`, `1042:63`, `1043:77`, `1044:79`, `1045:73`, `1046:79`, `1047:71`, `1048:85`, `1049:75`, `1050:73`.
+7. **Unanswered** — on the page. Name questions asked and unanswered on `1041`–`1045` and `1047`–`1050`; barrow question refused only by the man it was put to on `1046:49`.
+8. **No head counts** — on the page. Swept for about nine, one of them, both of them, two men, including in quotations; remaining hits are steps and things, not people.
+9. **Ordinary form again** — on the page `1048:39`. Every name traces to a mouth that said it; form given no name; thing made for a use is not the user's.
+10. **Things left** — on the page. Figure from `995` not given again, not rebuilt, not in any title.
+
+### What advanced and what closed
+
+Advanced in mouths: confirming said with a refusal of bench work beside it; bench refused and drain refused; chair asked twice and refused twice; explaining asked and refused; book entry asked and refused; yoke move asked and refused; broom asked and refused; barrow asked and refused. Closed: confirming owed since band 1; climax owed since planning; ordinary form owed to woman of forty-four. Left: offer unanswered; account incomplete and in use; name still wrong; landing still a landing.
+
+### The ten closing lines
+
+`1041` a cup set upright where she will find it · `1042` a palm on warmed stone lifted away · `1043` wet rings drying unmarked · `1044` a hand held over a board to still it · `1045` a woman at her wall past going · `1046` hands kept at sides down a flight · `1047` hands washed before taking shafts · `1048` palms warmed against each other · `1049` a yoke laid where it stops nothing · `1050` setting down and taking up again and going on, naming nothing.
+
 ## Volume 21 band 4 — `1031`–`1040`, *The name that travels*
 
 Ten chapters on disk of ten owed. Chapters `1041`–`1050` are what is missing from the

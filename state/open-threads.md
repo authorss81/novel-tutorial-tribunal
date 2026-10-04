@@ -1,7 +1,17 @@
 # open threads
 
-Threads carried at the end of volume 21 band 4 (`1031`–`1040`). A thread advances
-when a person does a thing in a mouth. A close is not a chapter and advances nothing.
+Threads carried at the end of volume 21 band 5 (`1041`–`1050`). A thread advances
+when a person does a thing in a mouth.
+
+## What advanced and what closed in band 5
+
+Advanced in mouths: confirming said; barrow asked and refused; explaining asked and refused; ordinary form said from the wall; bench, drain, chair, entry, yoke, and broom asked and refused with workings. Closed as events: the confirming, the climax question, and the ordinary form owed to this band. The offer, the account, and the name carry on as before.
+
+## At `1050`, still true, in words
+
+The offer stands unanswered. The account is incomplete and in use. The name on the second length is still wrong. Nobody is relieved and nobody is thanked. The landing goes on being a landing. The length decision and the relationship question belong to whoever owns the outline, not to a chapter.
+
+## Earlier threads
 
 ## The standing offer
 

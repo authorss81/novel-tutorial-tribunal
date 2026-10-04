@@ -6,6 +6,19 @@ book. The long-form record of what each band was for is in
 
 ## Volume 21 — *The Name Already On It* (1001–1050)
 
+### Band 5 — `1041`–`1050`, *The thing it is owed* (complete)
+
+- **`1041` · Said Before Wrong · 170/7, Monday · 16 holds, about 60 under, one day.** Wenna Pyle says what the wood is and says she is confirming a name and not giving a thing, settling nothing. Garrin Tolley asks her for half a day at her bench and is refused with the reason that the bench holds a single worker. Ilyan says her saying finishes nothing and that he was wrong to want it to. Ends on a cup set upright for her to find.
+- **`1042` · Stone Gone Quiet · 171/1, Tuesday, off-morning · none.** Week turned between `1041` and this. Sena Dorr asks Ilyan for his account with the landing empty and is refused with her own working handed back. Ilyan owns the glad part of refusing her as unkept. Ends on a palm lifted off warmed stone.
+- **`1043` · Sawdust On Boots · 171/2, Wednesday · 4, about 90, seven days.** Wat Marshe asks Wenna to say again what the wood is and is refused with the reason she will not carry it round handing it out. He owns that knowing would not teach his carrying. Ends on wet rings drying where his pails stood.
+- **`1044` · Asked Downhill · 171/3, Thursday · 8, about 80, six days.** Garrin Tolley asks Corvin Tace for leave to stand with the lime-woman and is refused with the reason of sight and sweeping. He owns he wanted to be the man who went. Ends on a hand held over a board to still it.
+- **`1045` · Water Over Ankles · 171/4, Friday · 12, about 70, five days.** Orla Fennimore asks whether the chair is hers and is refused with the working about doors and voices. She will stop asking. Ilyan owns he wanted her to have it to make the landing easier. Ends on her standing at her wall past going.
+- **`1046` · Asked At The Wall · 171/5, Saturday, full bank and anchor · 16 holds, about 60, four days.** Ilyan asks Barnaby Crove whether the barrow that wood was cut for is the barrow that comes up that bank. Barnaby refuses in his own words and is told neither wrong nor right. Ilyan opens his mouth to shape it and does not. Ends on hands kept at sides down a flight.
+- **`1047` · After The Asking · 171/6, Sunday · 16 holds, about 60, three days.** Ilyan asks Barnaby for leave to explain the asking and is refused with the reason explaining is another thing to carry. He owns the explaining-want as a second mistake. Ends on hands washed before taking shafts.
+- **`1048` · What Use Is Not · 171/7, Monday · 16 holds, about 60, two days.** Orla Fennimore says from the wall first that it does not answer her question, then that a thing made for a use is not the user's. Sena Dorr asks leave to enter the saying and is refused with the reason checked things and said things differ. Nobody thanks her. Ends on palms warmed against each other.
+- **`1049` · Cover Going Down · 172/1, Tuesday · 16 holds, about 60, one day.** Boundary between `1048` and this. Wat Marshe asks Corvin to carry his yoke to the wall and is refused with the reason it would look kept. He owns leaning would not make it his. Ends on a yoke laid where it stops nothing.
+- **`1050` · Going Down Empty · 172/2, Wednesday, off-morning · none.** Last morning of the volume. Ilyan asks Corvin for an hour with the broom and is refused with the reason of hands and stone. He owns wanting to have held it. Ends on setting down and taking up again and going on, naming nothing.
+
 ### Band 4 — `1031`–`1040`, *The name that travels* (complete)
 
 - **`1031` · Nobody Carried It · 169/4, Friday · 16 inches and it holds, about 60
