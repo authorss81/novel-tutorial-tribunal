@@ -1,6 +1,11 @@
 # character state
 
-The cast of volume 21 **as the volume closed at `1050`**. Every name here was made in a
+The cast of volume 21 **as the volume closed at `1050`**, carried unchanged into
+the volume 22 plan. Every name here was made in a mouth in an earlier chapter.
+**Volume 22 adds zero new people by plan** (`outline/volume-22.md` §6); the second
+broom-asking is owed to Ilyan Vester and the ordinary form to Corvin Tace, the
+midpoint sentence to Corvin Tace, and nobody else is given a load-bearing event
+in advance. No name was added by this planning phase and no prose was touched. Every name here was made in a
 mouth in an earlier chapter of this volume. **No name was added at the close and no
 person was taken out of one: a name in a chapter traces to a mouth that said it, and the
 close changed no prose that carries a name.** The block below is the cast as band 5 left

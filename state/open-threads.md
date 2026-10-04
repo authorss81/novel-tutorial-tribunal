@@ -1,8 +1,12 @@
 # open threads
 
-Threads carried out of volume 21, which is closed at `1050`. A thread advances when a
-person does a thing in a mouth. **The close certified the volume and closed two of its
-own housekeeping items; every story thread below is carried, not closed.**
+Threads carried out of volume 21, which is closed at `1050`, into the volume 22
+plan, which opens nothing and closes nothing. A thread advances when a person
+does a thing in a mouth, and planning advances none. **Every story thread below
+is carried, not closed; the close certified the volume and this plan added no
+event.** The plan's narrowings (midpoint, climax, ordinary form, new question)
+are carded in `outline/volume-22.md` §1 and §7 and are claims about chapters
+that do not exist.
 
 ## What advanced and what closed in band 5
 

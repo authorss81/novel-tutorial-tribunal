@@ -6,37 +6,26 @@ Where every chapter is, and where the next one goes.
 
 | volume | chapters | count |
 |---|---|---|
-| 1–20 | `0001`–`1000`, fifty to a volume | 1000 |
-| 21 | `1001`–`1050` | 50 |
-| **total** | | **1050** |
+| 1–21 | `0001`–`1050`, fifty to a volume | 1050 |
+| 22 | `1051`–`1100` | 0 — planned, not open |
 
 ## The current volume
 
-| band | chapters | state |
-|---|---|---|
-| 1 | `1001`–`1010` | written, reviewed |
-| 2 | `1011`–`1020` | written, reviewed; the midpoint landed |
-| 3 | `1021`–`1030` | written, reviewed |
-| 4 | `1031`–`1040` | written, reviewed, repaired |
-| 5 | `1041`–`1050` | written, reviewed, repaired |
-
-**Volume 21 is closed at `1050`** — week 172 day 2, a Wednesday, on the seventh
-off-morning of the fifty. The close record is
-`reviews/volume-21/volume-21-close.md`; §11 of it is the review of that close and what was
-repaired in it. It owed no chapter, wrote none, and created no directory.
+Volume 22, *The Hour Not Lent*, is planned in `outline/volume-22.md`. No band is
+written. Band 1 (`1051`–`1060`) is the owed next phase; bands 2–5 have no prompt
+on disk.
 
 ## Where the next chapter goes
 
-Nowhere yet, and that is stated here rather than left blank. **The manuscript owes no
-chapter.** Volume 21 closed at `1050` and the successor is a **volume 22 planning phase**,
-owned by whoever owns `outline/series.md` and `outline/ending.md`, and the first thing it
-owes is the length decision recorded below — a volume 22 outline cannot say what a volume
-is while `series.md` says eight hundred and fifty chapters and the book is at one thousand
-and fifty. **No prompt directory has been created and none should be until that is
-settled.** `state/phase-ledger.json` still reads `batch-0002`, volume 1, chapters 11–20;
-it is controller-owned and was not edited, so this section is the designation until the
-controller corrects it. The self-dispatch workflow still chooses which phase runs — this
-section is what it would be choosing.
+`workspace/volume-22/batch-0001/PROMPT.md` — volume 22 band 1, chapters
+`1051`–`1060`. That is the exactly-one next phase. **The manuscript still owes
+no chapter until that phase writes one.** The length disagreement
+(`outline/volume-22.md` §0: seventeen volumes and chapter `850` against 1050 on
+disk) is carried as an open item into the band prompt and is not resolved by
+planning. `state/phase-ledger.json` still reads `batch-0002`, volume 1; it is
+controller-owned and was not edited, so this section is the designation until
+the controller corrects it. The self-dispatch workflow still chooses which phase
+runs — this section is what it would be choosing.
 
 ## What each state file is for
 
@@ -59,11 +48,12 @@ section is what it would be choosing.
 |---|---|
 | the shape of the whole book | `outline/series.md` |
 | how it ends, and what stays open | `outline/ending.md` |
-| this volume | `outline/volume-21.md` |
+| this volume, planned | `outline/volume-22.md` |
 | volume 21, closed | `reviews/volume-21/volume-21-close.md` |
 | the review of that close, and its eight repairs | `reviews/volume-21/volume-21-close.md` §11 |
 | the weekday figures the close certifies | `reviews/volume-21/volume-21-close-weekdays-0V21L.py` |
-| the phase before the close's review | `workspace/volume-21/close-0006/PROMPT.md` |
+| the phase before the volume 22 plan | `workspace/continuation/next-0013/PROMPT.md` |
+| the volume 22 plan's first batch | `workspace/volume-22/batch-0001/PROMPT.md` |
 | the work | `chapters/volume-21/` |
 
 ## Known disagreement, unresolved

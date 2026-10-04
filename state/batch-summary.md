@@ -3,6 +3,19 @@
 What each band did, what it left behind, and what it owes the next one. The receipt
 for the band just finished is at the top.
 
+## Volume 22 planning — `1051`–`1100`, *The Hour Not Lent* (planned, not open)
+
+No chapter written and none owed by this phase. The plan is `outline/volume-22.md`:
+seven lines (§1), the twelfth house substance — a broom in one pair of hands, asked
+for for an hour and not lent (§3) — the calendar run from the formula over
+`1051`–`1100` (§4: six off-mornings, six full banks, seven anchors, seven week
+boundaries, five mornings carrying more than one set), and five batch cards in §7
+(midpoint on `1068` or after; second broom-asking on `1094` or after; ordinary form
+on `1096` or after). The exactly-one next phase is
+`workspace/volume-22/batch-0001/PROMPT.md` (band 1, `1051`–`1060`); bands 2–5 have
+no prompt on disk. Length disagreement (two hundred chapters) and the Sera/System
+absence are carried as open items owned elsewhere and resolved in no chapter.
+
 ## Volume 21 close, `1050` — *The name is still wrong*
 
 Volume 21 is closed at fifty chapters, `1001`–`1050`, five bands on disk. The full

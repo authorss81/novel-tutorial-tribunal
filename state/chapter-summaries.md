@@ -9,6 +9,12 @@ below and their titles were cut at the close; the fifty titles are on the chapte
 themselves and are not duplicated here. The close record is
 `reviews/volume-21/volume-21-close.md`.
 
+## Volume 22 — *The Hour Not Lent* (1051–1100, planned, not open)
+
+No chapter on disk. Band 1 (`1051`–`1060`, the refusal stands through a week) is
+prompted at `workspace/volume-22/batch-0001/PROMPT.md`; bands 2–5 are carded in
+`outline/volume-22.md` §7 and have no prompt yet.
+
 ## Volume 21 — *The Name Already On It* (1001–1050)
 
 ### Band 5 — `1041`–`1050`, *The thing it is owed* (complete)

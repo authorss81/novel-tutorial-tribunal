@@ -1,7 +1,34 @@
 # continuity
 
-What has to stay true across chapters in volume 21, which is **closed at `1050`**.
-Anything printed here is a fact about the page, not a plan.
+What has to stay true across chapters. Volume 21 is **closed at `1050`**; volume 22
+is **planned and not open**, and everything in the block below is a claim about
+chapters that do not exist, carried from `outline/volume-22.md` §4. When chapters
+exist they outrank it.
+
+## Volume 22 calendar, carried from the plan
+
+Formulas unchanged: `shelf = ch − 125`; `week = 40 + shelf ÷ 7`;
+`day = shelf mod 7 + 1`, day 1 = TUESDAY; `morning = ch − 250`;
+`settlement = ch − 400`; `fever = ch − 283`; `hall = ch − 446`;
+`clear = ch − 500`; Kell = `ch − 554`; palm = `ch − 685`; mistakes = `ch − 860`;
+boy = `ch − 653`; gravel = `1 + (ch − 722)` with AND THEN ONE; offer = `ch − 700`.
+Rail retired. Water head `686`, period eight, run on `ch` upon eight.
+
+Volume 22 sets, each counted once: six off-mornings (`1058` Thu, `1066` Fri,
+`1074` Sat, `1082` Sun, `1090` Mon, `1098` Tue — no Wednesday among them); six
+full banks (`1054` `1062` `1070` `1078` `1086` `1094`); seven anchors, all
+Saturdays (`1053` 110w, `1060` 111w, `1067` 112w, `1074` 113w, `1081` 114w,
+`1088` 115w, `1095` 116w); seven week boundaries (`1055`/`1056`, `1062`/`1063`,
+`1069`/`1070`, `1076`/`1077`, `1083`/`1084`, `1090`/`1091`, `1097`/`1098`); five
+mornings carrying more than one set (`1062`, `1070`, `1074`, `1090`, `1098`).
+Opens Thursday 172/3, closes Thursday 179/3. Offer 351 at `1051`, 400 at `1100`,
+unanswered. No off-morning ordinal is ever printed.
+
+Places, objects, and house rules for volume 22 are as volume 21 left them — same
+landing, same strip, same two lengths with the name still wrong, same broom in
+the same hands — plus the plan's one addition: the broom-hour asked at `1050`
+and refused with its working, and the second asking owed on `1094` or after and
+nowhere else.
 
 ## The close, and the two things it changed in the prose
 

@@ -1,7 +1,7 @@
 # current
 
-Where the project stands at the end of volume 21 band 5. This file holds the live
-record only. Anything that belongs to a finished band lives in
+Where the project stands after the volume 22 planning phase. This file holds the
+live record only. Anything that belongs to a finished band lives in
 `state/batch-summary.md`; anything long-form lives in `state/continuity.md`.
 
 ## Status
@@ -9,30 +9,23 @@ record only. Anything that belongs to a finished band lives in
 - **Novel:** *The Tutorial Tribunal* — Ilyan Vester, a legal fantasy in which every
   adventure is a bounded case about a real conflict, a real burden, and a remedy
   people have to live with afterward.
-- **Current volume:** 21, *The Name Already On It*, chapters 1001–1050. **Closed.**
-- **Bands written:** 1001–1010, 1011–1020, 1021–1030, 1031–1040, 1041–1050. All five
-  written, reviewed and repaired. **Volume complete at fifty chapters.**
-- **Next phase, named here because nothing on the prose side was designating one:** the
-  manuscript owes no chapter and volume 21 is closed, so the successor is **a volume 22
-  planning phase owned by whoever owns `outline/series.md` and `outline/ending.md`** —
-  specifically, the length decision below, which has to be settled before a volume 22
-  outline can say what a volume is. **No prompt directory was created and none should be
-  until that decision is taken**, because a batch prompt written now would have to invent
-  the answer the close recorded as unowned. `state/phase-ledger.json` still reads
-  `batch-0002` and volume 1; it is controller-owned and a writer does not edit it. **This
-  line is the designation until the ledger is corrected by the controller.**
-- **Chapters on disk:** 1050, in 21 directories of 50 each.
-- **The close record:** `reviews/volume-21/volume-21-close.md` — the thirty band 1–3
-  titles cut against the body, the seven sweeps and their methods, the two repairs with
-  both wordings, the five findings left on the page with the reason in each, the
-  twenty `CHAPTER:LINE` references re-verified, what the seven lines did, and what is true
-  at `1050` in words. **§11 of that file is the review of the close: eight findings in the
-  record, what was done about each, and the one thing a review flagged that this file may
-  not touch — the stale controller ledger, which is recorded there and here and not
-  edited.** Its weekday figures are the output of
-  `reviews/volume-21/volume-21-close-weekdays-0V21L.py`, which is kept beside it.
+- **Current volume:** 22, *The Hour Not Lent*, chapters 1051–1100. **Planned and
+  not open. No chapter of it is on disk.**
+- **Bands written:** none. Band 1 (`1051`–`1060`) is planned in
+  `outline/volume-22.md` §7 and its prompt is
+  `workspace/volume-22/batch-0001/PROMPT.md` — the exactly-one next phase. Bands
+  2–5 have no prompt on disk, and that is correct; each is written by the band
+  before it.
+- **Chapters on disk:** 1050, in 21 volumes of 50 each.
+- **The close record:** `reviews/volume-21/volume-21-close.md`. Its §11 is the
+  review of the close and what was repaired in it. The volume 22 plan is
+  `outline/volume-22.md`; §0 of it carries the length disagreement and §13
+  carries the findings, and neither is resolved here.
 
 ## The live record at chapter 1050
+
+Carried unchanged out of volume 21, which is closed. The plan `outline/volume-22.md`
+§2 lists all twelve carried items; the short form:
 
 - The confirming was said out loud on `1041` by the woman who saws lengths, and it
   settles nothing: she confirmed a name and gave nothing, and the landing went on.
