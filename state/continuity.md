@@ -1,11 +1,55 @@
 # continuity
 
-What has to stay true across chapters. Volume 21 is **closed at `1050`**; volume 22
-is **planned and not open**, and everything in the block below is a claim about
-chapters that do not exist, carried from `outline/volume-22.md` §4. When chapters
-exist they outrank it.
+What has to stay true across chapters. Volume 21 is **closed at `1050`** and volume
+22 **is open at `1051`**. Where a figure below disagrees with a chapter on disk the
+chapter is right, and where it disagrees with `outline/volume-22.md` the chapter is
+right twice over, because the plan is a planner's file.
 
-## Volume 22 calendar, carried from the plan
+## Volume 22 band 1, `1051`–`1060` — what is now true on the page
+
+- **The whole band is ten mornings of a kept refusal standing.** The broom is in the
+  same hands on all ten and the want is in the same mouth on all ten and neither has
+  moved. The second broom-asking was not asked on any of them, in any wording.
+- **Four refusals with workings, in four mouths, given no name:** Corvin Tace against
+  one step (`1052`), Barnaby Crove against the barrow (`1053`), Corvin Tace against
+  the chair and the cloth (`1055`), Garrin Tolley against the pails (`1056`). **None is
+  called the right of refusal and no wording of it was given.**
+- **Three new small events, all on the page:** a man refusing a kindness in his own
+  mouth for the first time (`1056`); a working taken and bent and used on a man, and
+  the man it was used on naming out loud what it cost the man who used it (`1059`);
+  and a broom standing against a wall with nobody holding it and nobody moving it
+  (`1060`).
+- **A boy of thirteen's yoke was split at the bottom of the lane on `1059`** by the
+  man of thirty-eight, who did not go up after the boy with the two halves. **Nobody
+  has told Wat Marshe and nobody is to tell him anything about it in band 2.**
+- **Two openings were cut for the shape of the question and not for the shape of the
+  man:** `1053`, where the man of thirty-one had a true sentence ready for the boy and
+  did not say it; `1057`, where the man of thirty-one asked for the pails and was
+  refused in the plainest words there are, and the cost stayed on one face.
+- **Nothing was lent, nothing was named, and nothing was explained.** No new person
+  and no new name on anything. Nobody was thanked, relieved, forgiven or redeemed.
+
+## THE HOUSE FORMS ON THESE TEN, and they are not all the same form
+
+Six figures that read alike and are not alike. Getting one of these into an ordinal
+is a real defect and band 1 carried six of them in a first write.
+
+| figure | the form on the page | the one that is **not** the form |
+|---|---|---|
+| the county of Kell | cardinal days — *five hundred and six days in this county of Kell* | *five hundredth days in this county of Kell* |
+| the cut across that palm | cardinal days — *three hundred and seventy-five days old*, twice on every page | the ordinal |
+| Wat Marshe's own count | cardinal days — *four hundred and seven. That is mine* | the ordinal |
+| his morning | ordinal — *His eight hundred and tenth morning* | the cardinal |
+| the standing offer | cardinal days, with the subtraction spoken — *three hundred and sixtieth* is **not** the form at `1060`; it is *three hundred and sixty* | an ordinal ending |
+| Barnaby Crove's mornings of asking | ordinal — *three hundred and thirty-ninth*, with the chapter number as the minuend and the *and then one* spoken | reading the minuend as `ch − 722` and printing a cardinal |
+
+**A ROUND HUNDRED IS A CARDINAL IN DAYS AND AN ORDINAL IN A COUNT OF THINGS.** At
+`1054` the county of Kell is **five hundred days** and at `1060` the mistakes are
+**two hundredth wrong things**, and `chapter-0800.md` and `chapter-1021.md` are the
+precedents for both. **THE FIGURE OF THE MORNING IS `ch − 250` AND AT `1051` IT IS
+EIGHT HUNDRED AND FIRST, NOT SEVEN HUNDRED.**
+
+## Volume 22 calendar, as the ten chapters on disk give it
 
 Formulas unchanged: `shelf = ch − 125`; `week = 40 + shelf ÷ 7`;
 `day = shelf mod 7 + 1`, day 1 = TUESDAY; `morning = ch − 250`;
@@ -24,11 +68,24 @@ mornings carrying more than one set (`1062`, `1070`, `1074`, `1090`, `1098`).
 Opens Thursday 172/3, closes Thursday 179/3. Offer 351 at `1051`, 400 at `1100`,
 unanswered. No off-morning ordinal is ever printed.
 
+**BAND 1 SPENT THE FOUR SETS BELOW AND NO OTHERS: one full bank (`1054`), one
+off-morning (`1058`), two anchors (`1053` and `1060`), and one week boundary
+(`1055`/`1056`).** `1053` and `1060` each carry a whole figure of weeks in the fever
+with no figure of days beside it and nobody added days to either.
+
 Places, objects, and house rules for volume 22 are as volume 21 left them — same
 landing, same strip, same two lengths with the name still wrong, same broom in
 the same hands — plus the plan's one addition: the broom-hour asked at `1050`
 and refused with its working, and the second asking owed on `1094` or after and
 nowhere else.
+
+**AND WHAT BAND 1 ADDED TO THE LANDING, ALL OF IT MADE IN A MOUTH:** a barrow-load of
+grit that banked at the turn of the lane overnight and was cleared by hand on
+`1059`; the boy's yoke, split at that bend and lying in two halves; the angle where
+the dry strip stands a step above the water, full of grit, which cannot be got at
+from the strip side; and the water closing over a brush stood in the top step at
+about the twelfth hour on `1060`. **NO DISTANCE WAS PRINTED FOR ANY OF THEM. THE
+BEND IN THE LANE IS NOT PRINTED.**
 
 **Three house rules the volume 22 plan and its band prompt first dropped and that the
 review of that plan restored. All three are rules, none is a figure of volume 22, and
@@ -41,17 +98,22 @@ all three would have been missed by a writer sweeping a list and finding a clean
   only eye on that landing and **may not be given a depth, a grade, a length or a
   distance from any mouth, and may not be walked to and may not be looked into.** The row
   was dropped from the volume 22 §11 distance table while §5.1 still permitted *an eye*
-  as a mouth figure; both are corrected.
+  as a mouth figure; both are corrected. **BAND 1 DID NOT TOUCH IT AND NEARLY DID:
+  THE WORD *SHAFT* WAS USED OF THE BROOM'S STICK IN A FIRST WRITE AND WAS CUT BACK
+  TO *STICK*, AND THE ONLY *SHAFTS* LEFT ON THE TEN PAGES ARE BARNABY CROVE'S BARROW
+  SHAFTS, WHICH ARE ON DISK FROM `1038`, `1040` AND `1046`.**
 - **The `gratitude` ruling**, restated here because the volume 22 files dropped it: the
   nominal is not the banned word *grateful*, it stands at `chapter-1044.md:61` and
-  `chapter-1048.md:41`, in both places as a negation, both were left standing on the review
-  of band 5, and it is not to be re-opened and not to be *fixed*.
+  `chapter-1048:41`, in both places as a negation, both were left standing on the review
+  of band 5, and it is not to be re-opened and not to be *fixed*. **BAND 1 CARRIES
+  NEITHER WORD AND OWES NEITHER PLACE.**
 
 **And two figures of this file that the same review found wrong:** the volume 22 §8
 certified **relative named days at `0`** and the measurement is **29 across twelve
 chapters** on volume 21, against 252, 274 and 184 for volumes 18, 19 and 20, all four
 from `reviews/volume-21/volume-21-close-weekdays-0V21L.py`. **The class is real and
-volume 22's zero is a figure owed and not printed.** And the arithmetic one-out class is
+volume 22's zero is a figure owed and not printed — and band 1's own hand-check found
+and repaired one forward reference of it on `1057`.** And the arithmetic one-out class is
 **the gravel, `1 + (ch − 722)`, not the offer** — the instrument labels it `ASKING` and it
 is a man of fifty-four's mornings; the offer is spelled in full in every mouth.
 

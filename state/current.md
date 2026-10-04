@@ -9,52 +9,91 @@ live record only. Anything that belongs to a finished band lives in
 - **Novel:** *The Tutorial Tribunal* — Ilyan Vester, a legal fantasy in which every
   adventure is a bounded case about a real conflict, a real burden, and a remedy
   people have to live with afterward.
-- **Current volume:** 22, *The Hour Not Lent*, chapters 1051–1100. **Planned and
-  not open. No chapter of it is on disk.**
-- **Bands written:** none. Band 1 (`1051`–`1060`) is planned in
-  `outline/volume-22.md` §7 and its prompt is
-  `workspace/volume-22/batch-0001/PROMPT.md` — the exactly-one next phase. Bands
-  2–5 have no prompt on disk, and that is correct; each is written by the band
-  before it.
-- **Chapters on disk:** 1050, in 21 volumes of 50 each.
-- **The close record:** `reviews/volume-21/volume-21-close.md`. Its §11 is the
-  review of the close and what was repaired in it. The volume 22 plan is
-  `outline/volume-22.md`; §0 of it carries the length disagreement and §13
-  carries the findings, and neither is resolved here.
+- **Current volume:** 22, *The Hour Not Lent*, chapters 1051–1100. **Open.** Band 1
+  (`1051`–`1060`) is on disk. The volume plan is `outline/volume-22.md` and the
+  chapters outrank it.
+- **Bands written:** one, and it is band 1. Bands 2–5 have no prompt on disk, and
+  that is correct; each is written by the band before it.
+- **Chapters on disk:** 1060, in 21 closed volumes of 50 each and volume 22's first
+  ten.
+- **The close record for volume 21:** `reviews/volume-21/volume-21-close.md`. **The
+  record for this band:** the volume 22 band 1 block at the top of
+  `state/batch-summary.md`.
 
-## The live record at chapter 1050
+## Where the next chapter goes
 
-Carried unchanged out of volume 21, which is closed. The plan `outline/volume-22.md`
-§2 lists all twelve carried items; the short form:
+`1061`, the first day of the hundred and seventy-fourth week, a Tuesday. **The
+exactly-one next phase is `workspace/volume-22/batch-0002/PROMPT.md`**, volume 22
+band 2, and it is the phase that carries the midpoint. `state/phase-ledger.json` is
+controller-owned and was not read into this block and was not edited.
 
-- The confirming was said out loud on `1041` by the woman who saws lengths, and it
-  settles nothing: she confirmed a name and gave nothing, and the landing went on.
-- The man of thirty-one asked the man who cannot read one question about the barrow on
-  `1046`, and was refused to his face in the man's own words. Nobody told Barnaby Crove
-  he was wrong and nobody told him he was right, and nobody shaped it for him after.
-  Asking cost the asker something that is not printed and is not the answer.
-- The ordinary form was said from the wall by the woman of forty-four on `1048`, who
-  said first that it does not answer her question. Nobody thanked her, nobody asked her
-  whether she is in it, and nobody told her nobody is answering her.
-- The standing offer stands unanswered at three hundred and fifty days, asked on no
-  morning of the band and answered on none and withdrawn on none.
-- No hand went on that ash on any of the ten mornings, and no new name was put on
-  anything. The name on the second length is still wrong.
-- The account is incomplete and still in use. Nobody is relieved, forgiven or thanked.
+## The live record at chapter 1060
+
+- **A refusal with its working is standing on that landing and nobody smoothed it.**
+  Four of them, in four mouths, across ten mornings: Corvin Tace against one step
+  (`1052`), Barnaby Crove against the barrow (`1053`), Corvin Tace against the chair
+  and the cloth (`1055`), Garrin Tolley against the pails (`1056`). **None is called
+  the right of refusal and no wording of it was given. Nobody was thanked for any of
+  them and nobody was told they were right.**
+- **The broom was asked for on `1050` and refused with a working, and on the ten
+  mornings since it has not been asked for again in any wording.** It stood against a
+  wall on `1060` with nobody holding it and nobody moved it, and nothing whatever was
+  said about that by anybody. **The second asking is owed on `1094` or after and is not
+  owed by this band.**
+- **The explaining was refused at `1047` and has not been asked for since.** The man
+  of thirty-one had a true sentence ready on `1053` and did not say it, and said out
+  loud that he did not say it.
+- **The standing offer stands unanswered at three hundred and sixty days**, spoken in
+  his own mouth with the subtraction out loud on all ten mornings. Asked on none,
+  answered on none, withdrawn on none, and nobody relieved.
+- **No hand went on that ash on any of the ten mornings**, each chapter saying so in
+  its own words, and no new name was put on anything. **The name on the second length
+  is still wrong and what the wood is was not said again in any wording.**
+- **The account is incomplete and still in use.** Nobody is relieved, forgiven,
+  redeemed or thanked, and nobody was asked to be.
+- **Two things are open on the landing that band 1 made and did not close:** the boy's
+  yoke is split in two halves at the bend at the bottom of the lane and nobody has
+  told him, and the man of thirty-one has a working of his own in his head that he
+  bent over another man and cannot put down.
+- **Nobody has answered the woman of forty-four's question and nobody is to.** She
+  stood at her wall on `1055` and was refused about the chair with a working about his
+  own stone, and she was not asked whether she is in anything.
 
 ### The two decisions this file does not make
 
 - **Where the book ends.** `outline/series.md` gives approximately 850 chapters and
-  `outline/ending.md` ends at 850; the manuscript is at 1050, two hundred past the
-  ending its own outline specifies. Nobody has decided whether the outline moves or the
-  book stops. Owned by whoever owns the outline.
+  `outline/ending.md` ends at 850; the manuscript is at 1060, two hundred and ten
+  past the ending its own outline specifies. Nobody has decided whether the outline
+  moves or the book stops. Owned by whoever owns the outline. **Band 1 wrote ten
+  chapters about a landing and resolved no word of this.**
 - **The primary relationship and the System.** `outline/series.md` names Ilyan and Sera
-  Quill as the primary slow-burn relationship and calls the System the premise. Volumes
-  19, 20 and 21 do not contain the word *Sera*, and *System* stands at zero in volumes
-  18 through 21. Owned by whoever owns the outline.
+  Quill as the primary slow-burn relationship and calls the System the premise.
+  Volumes 19, 20 and 21 do not contain the word *Sera*, and *System* stands at zero
+  in volumes 18 through 21 and at zero in volume 22's band 1. Owned by whoever owns
+  the outline.
 
 **Both were re-recorded, unresolved, by the volume 21 close with the same standing.
 Neither is a writer's decision and no chapter is to be written to satisfy either.**
+
+## What the volume 22 plan said and what band 1 found
+
+`outline/volume-22.md` §0 carries a disagreement of two hundred chapters between
+three files, and **no chapter of band 1 mentions it, resolves it, or writes as
+though it had been resolved.** Its §4 table was run from the formula before a word
+was written and **every row of it reproduced**, and the ladder ran from its own head
+of `686` and not off any table. Two things it says that a later writer must not
+re-derive:
+
+- **THE FIGURE OF THE MORNING AT `1051` IS EIGHT HUNDRED AND FIRST.** The morning is
+  `ch − 250` and the plan's §4.3 table agrees; a first write of the band put *seven
+  hundred and first* on all ten pages and it was caught by running the formula, not
+  by eye. The same error ran in the offer's *asked at the* clause. **The full list
+  of the six counter forms that were wrong in a first write is in
+  `state/continuity.md`, under *THE HOUSE FORMS ON THESE TEN*.**
+- **THE OFF-MORNING `1058` CARRIES NO ORDINAL** and carries no figure of inches, no
+  figure of steps under it and no figure of days, and all three absences are said out
+  loud in words of that morning's own. The run on the page is broken at `986` and
+  `994` and no ordinal may be printed.
 
 ## What the volume 21 close changed on the page
 
@@ -113,12 +152,19 @@ later writer inherits:
 ## What the review of the volume 22 plan changed
 
 `logs/next-0013.review.log` found **two critical, eleven major and seven minor defects in
-the plan and the band prompt, and not one of them in prose** — there is no volume 22
-prose to be wrong. **No chapter was restarted, none exists, no title changed, no figure on
-a page changed and no plot moved.** Every repair was made inside the plan or the prompt and
-each is printed in the open with the rejected wording beside it. The receipt is
+the plan and the band prompt, and not one of them in prose** — at the moment it ran,
+there was no volume 22 prose to be wrong. **No chapter was restarted, no title changed, no
+figure on a page changed and no plot moved.** Every repair was made inside the plan or the
+prompt and each is printed in the open with the rejected wording beside it. The receipt is
 `reviews/volume-22/next-0013-review-repair.md`; the findings are also carried at
 `outline/volume-22.md` §13.10–§13.13.
+
+**And what band 1 found on top of all of them, which is not in that review and is not in
+the plan: SIX COUNTER FORMS ON THESE TEN PAGES ARE NOT THE HOUSE FORMS, AND SIX FIGURES
+THAT THE PLAN'S OWN §4.3 TABLE GIVES WERE WRITTEN WRONG ON A FIRST PASS AND CAUGHT BY
+RUNNING THE FORMULA AGAINST THE PAGE.** They are listed in `state/continuity.md` under
+*THE HOUSE FORMS ON THESE TEN*. **A LATER BAND THAT COPIES THE SHAPE OF A BAND 1 PAGE
+WITHOUT RUNNING THE FORMULA WILL REPEAT ALL SIX.**
 
 **The two that would have misled the band 1 writer into writing a wrong chapter:**
 

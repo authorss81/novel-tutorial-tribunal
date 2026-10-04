@@ -1,18 +1,59 @@
 # character state
 
-The cast of volume 21 **as the volume closed at `1050`**, carried unchanged into
-the volume 22 plan. Every name here was made in a mouth in an earlier chapter.
-**Volume 22 adds zero new people by plan** (`outline/volume-22.md` §6); the second
-broom-asking is owed to Ilyan Vester and the ordinary form to Corvin Tace, the
-midpoint sentence to Corvin Tace, and nobody else is given a load-bearing event
-in advance. No name was added by the planning phase and no prose was touched.
-**No name was added at the close and no
-person was taken out of one: a name in a chapter traces to a mouth that said it, and the
-close changed no prose that carries a name.** The block below is the cast as band 5 left
-it, and on those ten pages the names arrive in descriptor lines: no name is spoken by
-anybody inside a quotation on any of the ten.
+The cast of volume 22 **as band 1 left it at `1060`**. Every name here was made in a
+mouth in an earlier chapter and **volume 22 adds zero new people**: the ten pages on
+disk contain no name that is not in a descriptor line on volume 21 or in a mouth in
+an earlier chapter. **The second broom-asking is owed to Ilyan Vester and the ordinary
+form to Corvin Tace, the midpoint sentence to Corvin Tace, and nobody else is given a
+load-bearing event in advance. Neither of those three is on the page yet.**
 
-## Band 5 — what each wanted, refused, gave and withheld
+## Band 1 — every speech, every refusal, every figure given out loud and every figure withheld
+
+| who | what he or she said out loud on these ten mornings | what was refused, and by whom | figures given in their own mouth | figures withheld |
+|---|---|---|---|---|
+| **Corvin Tace**, 43, holds the landing nineteen years, three figures and never a fifth | the standing question is not his; the three figures every morning; the turn of the week named from this side on `1055` and from the new side on `1056`; the whole figure of `1058` said aloud and refused a smaller retelling of it | **three askings refused with a working**: a woman of forty-nine's one step (`1052`, about where the grit goes), a woman of forty-four's cloth and the chair (`1055`, about his own stone and her trade), and the man of thirty-one's pails (`1057`, that a man off his stone is a man watching a pail). Also **the man of thirty-one's leaving the landing** on `1059`. And **a question asked too small**, which he refused flatly and gave no reason for | the three figures every morning; the six days, four days, three days, two days, one day and seven days of the coming back; and on `1058` the three absences, spoken out loud and not to be made smaller by explaining them | no fifth figure; no figure of how much grit there is; no figure of what is on the strip; **the dry strip is never described by him as anything but dry** |
+| **Barnaby Crove**, 54, holds the gravel, cannot read | his standing question every morning at the sixth hour, in the same words, unanswered on all ten; his own count, the chapter number as the minuend and the *and then one* spoken, ten times; the sentence that comes after the silence, **written fresh on every one of the ten and never twice the same** | **the man of thirty-eight's barrow**, on `1053`, in his own words, with the working that he cannot say what it weighs in words and a morning's work would go missing down the road. **This is the first refusal of his in volume 22 and it is about a tool, not about the name** | the thirtieth through the thirty-ninth morning of asking; on `1056` that a new week has not changed the wall; on `1058` that he has been nodding at a thing that has not come for years without putting it in words | the answer to his own question, on every one of the ten; **the figure of how many times anything was said**; **whether the second piece of ash has a giver in it, which he never mentions and which nobody may settle** |
+| **Ilyan Vester**, 31, nobody's | four figures in his mouth every morning and the standing offer with the subtraction; his own count of wrong things, one higher each morning and nobody told him what kind of figure it is; his want, to be somebody, unchanged; his cost, which has no shape and no figure; **his mistake, out loud, every morning, in his own words** | **one asking on these ten: the pails, on `1057`**, refused in the plainest words a man can use. **He asked for nothing else on any of the ten** | days in the county; the cut across that palm, twice a page; the offer at three hundred and fifty-one through three hundred and sixty; one hundred and ninety-first wrong things through two hundredth | the answer to any question about that name, every morning he asked one; **the shape of his own cost, in any wording**; **the second broom-asking**, which he did not make |
+| **Sena Dorr**, 49, reads for a living twenty-three years, the ninth of the nine positions, which is a public archive and not a stone | **one asking on these ten: one step of work**, from the foot of the steps, with the reason for wanting it, which was that her hands have held a shut book for twenty-three years and she came up a bank to find out whether they would still do something that is not holding a book shut | nothing on these ten; **she was on the landing twice, `1052` and `1060`** | her twenty-three years, which is her trade and not a figure of a room | **nothing whatever is put in her book in volume 22, and the book is shut on both mornings and opens by her hand or not at all** |
+| **Wenna Pyle**, 38, saws lengths, the shed about three hundred yards down that cart road | **on `1054` that she came up with a length under her arm and there was one dry place to lay it and she was not going to put it there**, and carried it the whole road back down; **on `1058` that there is iron let into the cut of the fortieth step and bedded in grit, the top of it standing out and one end gone back under, said from above and no nearer**, and that she is not putting her hand in it; **on `1060` that she came up out of the same habit and is standing at the foot and not coming up** | nothing; she refused nobody on these ten | three hundred yards, which is her own figure first given at `973`; a bar of iron in a seam, once, in her mouth, on `1058` | **what that wood is, which she said at `992` and confirmed at `1041` and did not say again on any of the ten; and she was the one woman who could have said it and did not** |
+| **Orla Fennimore**, 44, keeps twenty-nine chairs, stands at the wall at the bottom of that cart road | **on `1055` that she had told him she would stop asking and had stopped, and that what she was about to put was not the chair question and she wanted that on the front of it; and her asking for leave to dust the chair; and the true part of her wanting, which was that she wanted an hour of her own hands meaning something on a landing where it would mean something and it does not mean anything** | **her cloth and the chair, refused by the man with the broom**, with the working that he cannot tell her what the chair is on his stone and that she keeps chairs and would carry it home about her own trade whether he meant it or not | twenty-nine chairs | **her one question is not answered and is not meant to be; nobody asked her whether she is in anything; nobody told her that nobody is answering her; she was not asked to put it down a second time** |
+| **Simon Rook**, about fifty-two, cannot see well, keeps a list that is empty | **on `1054` that the whole landing was walkable and he got to the water's edge and did not take the stride across it, because a foot on that strip would mean he could not afterwards say he had never stood on it**; **on `1057` that he would rather be refused straight out than be let down easy, and that it is a fact about him and not a complaint**; **on `1058` that seeing the whole shape of the landing from the bottom stone gave him nothing he did not have on a wet morning, and that a thing he has been told is not a thing he has found**; his question every morning he was on the landing, and nothing returned on any of them | nothing; nobody refused him on these ten | his age, which is a figure of a person and is the house's own | **his list is empty and stayed empty; nothing went on it on any of the ten; he may not be asked to describe what would stop him a second time, and nobody asked him** |
+| **Garrin Tolley**, 38, thirty-two notches cut in the edge of a board inside his coat | **on `1051` that he was not asking, said first so it could not look like something he had covered up, and that standing there with nothing was harder than asking**; **on `1053` that he wanted the barrow because it is the only thing on that landing refused with a working instead of passed over, and that is not a good reason to want a barrow**; **on `1056` his refusal of the pails, with the working, and the admission that he wanted it and had not known it**; **on `1059` that he is going to say what it cost the man who used a working on him, and then he says it** | **the barrow, by Barnaby Crove, `1053`; a question asked too small, by Corvin Tace, `1056`; a working bent and used on him by Ilyan Vester, `1059`, which he then ignored** | thirty-two notches in the edge of a board, which is a figure of a thing and not of a person | **nobody told him he was right about the barrow and nobody told him he was wrong; nobody told him he was right about refusing the pails and nobody told him he was wrong; nobody shaped the working he was given** |
+| **Wat Marshe**, 13, counts his own days | his own count out loud every morning, three hundred and ninety-eighth through four hundred and seventh, and the refusal to make it a count of anything standing on that landing, ten times, in ten different sentences; **on `1053` that a whole figure of his own can be a figure of a thing or a figure of a clock and he worked it out himself with nobody helping him** | nothing; nobody refused him on these ten | his own days in this county, in his own mouth | **nobody has told him he was right, on any of the ten, and nobody is to tell him in band 2; nobody told him about the yoke and nobody is to** |
+
+**AND THE FIGURES THIS BAND WITHHELD OUTRIGHT, WHICH ARE NOT FIGURES ANYBODY MAY
+PRINT:** the figure of how many new names are put on anything; the figure of how many
+things are left on that landing; the count of asking; the figure of sixty-three
+stitches; the figure of how many times anything was said; the figure of how long a
+name has been a name; any figure of people; the ordinal of an off-morning; and the
+shape of what the man of thirty-one's cost is. **None of these is zero on the page
+and none is printed in any other figure either.**
+
+## Band 1 — the two mouths that gained a refusal of their own
+
+- **Garrin Tolley**, who had asked four times in volume 21 and been refused four times,
+  **refused a man who holds a landing on `1056`** and gave a working for it, and was
+  told nothing whatever about it afterwards. **He is nobody's instrument and he is not
+  the ordinary form and nobody may call him anything.**
+- **Simon Rook**, who has never refused anybody, refused nothing and was refused
+  nothing on these ten, and **said out loud on `1057` that he would rather be refused
+  straight out than be let down easy.** That is his and it is not listable and he did
+  not list it.
+
+## What band 1 opened that band 2 inherits
+
+1. **The boy's yoke is in two halves at the bend at the bottom of the lane.** Nobody
+   has told Wat Marshe. Garrin Tolley did not go up after him with them.
+2. **The man of thirty-one has a working of his own in his head that he bent over
+   another man on `1059`** and cannot put down, and Garrin Tolley is the only person who
+   knows what it cost him.
+3. **A man who cannot see well walked the whole of that landing on `1058` and stopped
+   at the water's edge and did not cross,** and the only thing he said about it was
+   that a foot there would cost him the sentence he has been keeping.
+4. **The woman of forty-nine asked for one step and was refused about the grit, and her
+   hands are still what they were.**
+
+## Volume 21 band 5, `1041`–`1050` — what each wanted, refused, gave and withheld, as band 5 left it
 
 - **Ilyan Vester, thirty-one, nobody's.** Want to be somebody, unchanged. Asked three
   things on the page himself, and no more: the barrow question (`1046`), leave to

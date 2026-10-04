@@ -1,30 +1,54 @@
 # open threads
 
-Threads carried out of volume 21, which is closed at `1050`, into the volume 22
-plan, which opens nothing and closes nothing. A thread advances when a person
-does a thing in a mouth, and planning advances none. **Every story thread below
-is carried, not closed; the close certified the volume and this plan added no
-event.** The plan's narrowings (midpoint, climax, ordinary form, new question)
-are carded in `outline/volume-22.md` §1 and §7 and are claims about chapters
-that do not exist.
+Threads carried out of volume 21, which is closed at `1050`, and what volume 22 band
+1 added to them on ten mornings ending at `1060`. A thread advances when a person does
+a thing in a mouth. **No thread was closed by band 1 and none was carried a step it
+was not already owed.**
 
-## What advanced and what closed in band 5
+## What band 1 advanced, in words
 
-Advanced in mouths: confirming said; barrow asked and refused to his face; explaining
-asked and refused; ordinary form said from the wall and not carried off it; bench,
-drain, chair, entry, yoke and broom asked and refused with workings. Closed as events:
-the confirming, the climax question, and the ordinary form owed to this band. The offer,
-the account and the name carry on as before.
+A man took up his own tool before anybody asked him for it and worked ten mornings
+with it. A woman who reads for a living asked for one step and was refused with a
+working about where the grit goes, and nobody improved on the refusal afterwards. The
+man who cannot read refused the barrow in his own words for the first time in this
+volume, about a tool and not about the name, and said out loud that he had wanted it.
+A man of thirty-eight came up with nothing to ask for the first time in a fortnight and
+said so before anybody could ask him, was refused twice, and then **refused a kindness
+with a working of his own**, which nobody has named and nobody is to name. The man of
+thirty-one had a true sentence ready for a boy about a whole figure and **did not say
+it**, asked for the pails on one morning and **was refused in the plainest words there
+are**, and on another morning **took the shape of another man's working and bent it
+over a man who had asked him nothing**, and the man he used it on said out loud what it
+cost him. A woman with a length had nowhere dry to put it and carried it all the way
+back down. A woman who keeps chairs asked for her own work and was refused about his
+stone and folded the cloth away. A woman who saws lengths told the landing there is
+iron in a seam and did not put her hand in it. A man who cannot see well walked the
+whole of that landing and stopped at the water's edge and did not cross. And on the
+last morning of the band a broom stood against a wall with nobody holding it and
+nobody moved it and **nothing whatever was said by anybody about that.**
 
-## At `1050`, still true, in words
+## What band 1 closed
 
-The offer stands unanswered. The account is incomplete and in use. The name on the second length is still wrong. Nobody is relieved and nobody is thanked. The landing goes on being a landing. The length decision and the relationship question belong to whoever owns the outline, not to a chapter.
+**Nothing.** The confirming, the barrow question and the ordinary form were closed as
+events in volume 21 and stay closed as events. The broom-hour, the explaining, the
+second asking, the offer, the account, the name and the length decision all carry, and
+none of them moved a step on these ten mornings.
+
+## At `1060`, still true, in words
+
+The offer stands unanswered at three hundred and sixty days. The account is incomplete
+and in use. The name on the second length is still wrong. Nobody is relieved and nobody
+is thanked. The landing goes on being a landing. The broom is in one pair of hands and
+the want is in one mouth and neither has moved. The woman of forty-four's question is
+unanswered and is not meant to be. **The length decision and the relationship question
+belong to whoever owns the outline, not to a chapter, and band 1 wrote no word about
+either.**
 
 ## Earlier threads
 
 ## The standing offer
 
-Unanswered at **three hundred and fifty days** (`1050`), spoken with the subtraction
+Unanswered at **three hundred and sixty days** (`1060`), spoken with the subtraction
 out loud every morning, asked on no morning of the band, answered on none, withdrawn
 on none. It was not asked again so that somebody could finally say something. **Open.**
 
@@ -32,57 +56,79 @@ on none. It was not asked again so that somebody could finally say something. **
 
 1. **The name on the second piece of ash is still wrong.** Nobody has corrected it,
    nobody has said the right one, and the right of refusal is not restored in any
-   wording. **Open.**
+   wording. **Open, and ten mornings older than it was at `1050`.**
 2. **The account is incomplete and in use.** No morning has finished it. **Open.**
 3. **Wenna Pyle's confirming** — that the wood is what her own trade named it, said
    out loud by her, and thereby *owed* rather than given — **was said on `1041`** and
    settled nothing. She was not used for her own account. **Closed as an event; still
-   load-bearing.**
+   load-bearing. On band 1 she described iron in a seam of a step and said nothing at
+   all about that wood.**
 4. **The ordinary form** (§3.4 of the volume outline): a thing made for a use is not
-   the user's. Said in four trades across band 4 and named by nobody. **Was said from
-   the wall in the mouth of the woman of forty-four on `1048`,** who said first that it
-   does not answer her question, and nobody thanked her. It stays where she said it and
-   was not carried off the wall in `1049`. **Closed as an event; still load-bearing.**
+   the user's. Said in four trades across volume 21's band 4 and named by nobody.
+   **Was said from the wall in the mouth of the woman of forty-four on `1048`**, who
+   said first that it does not answer her question, and nobody thanked her. **It was
+   NOT said on any morning of volume 22 band 1 and it is owed to Corvin Tace in band 5
+   on `1096` or after, and not on an off-morning.** **Still load-bearing, still owed.**
 5. **The question to the man who cannot read** — whether the barrow that wood was cut
    for is the barrow that comes up that bank — **was asked on `1046`** by the man of
    thirty-one. Barnaby Crove refused it to his face in his own words, was told neither
-   wrong nor right, and nobody shaped it after him. **Closed as an event; still
-   load-bearing.**
-6. **The midpoint** — that the wood is better called the wrong thing by the man who
-   put it down than called the right thing by anybody — landed in band 2 on `1014` or
-   after, in about nine people's hearing, and was not given a figure. **Closed as an
-   event; still load-bearing.**
+   wrong nor right, and nobody shaped it after him. **On `1053` he refused the barrow a
+   second time, to the man of thirty-eight, and about the tool rather than about the
+   name.** **Closed as an event; still load-bearing.**
+6. **The midpoint** of volume 22 — that to explain a refusal is to ask a second time —
+   **did not land in band 1 and may not land before `1068`, and may not land on an
+   off-morning or an anchor.** Band 1's nearest thing to it is `1053`, where the man of
+   thirty-one had a true sentence ready and did not say it, **and that is a man
+   stopping, not a sentence said.** **Open, and owed to band 2.**
 7. **A name that travels.** It got off the landing with no carrier and reached a
    woman who had not been there when it was said. Nobody carries it, nobody has been
    asked to, and no figure of how far it went, how many times it was said, or how
-   many mornings ago exists in any wording. **Open.**
+   many mornings ago exists in any wording. **Open. Band 1 asked the question about the
+   name on seven mornings and it was not answered on any of them.**
 8. **What the strip is for.** Not said on any page. **Open.**
-9. **Simon Rook's list** of things he cannot check: still empty. His hand went past
-   the end of the wall and touched nothing, and that is not listable, and he says so.
-   **Open.**
+9. **Simon Rook's list** of things he cannot check: still empty. **On `1054` he got to
+   the water's edge at the top step and did not cross, and on `1058` he walked the whole
+   landing and said that a thing he has been told is not a thing he has found.**
+   **Open, and nothing went on the list on any of the ten.**
 10. **Barnaby Crove's question** — whether there is one thing in this county a man
-     who cannot read is wanted for, once, with nothing kept against it — asked every
-     morning at the sixth hour, and his own count of asking stands at three hundred and
-     twenty-ninth morning at `1050` with no answer on any of them. He said aloud on
-     `1047` that he is not unsaying his refusal of `1046` by asking softer. That is not
-     the same as stopping wanting.
-     **Open, and the climax has now been taken from its shape.**
+    who cannot read is wanted for, once, with nothing kept against it — asked every
+    morning at the sixth hour, and his own count of asking stands at **three hundred and
+    thirty-ninth morning at `1060`** with no answer on any of the ten. He said on
+    `1056` that he will ask it tomorrow and on `1060` that there is no morning of this
+    county going to make it come. **Open, and no longer only a question: on `1053` he
+    refused a man to his face in his own words.**
 11. **The count of asking** was spent at `947` and must not be given again, printed
-    again, or rebuilt. **Spent; closed as a figure.**
+    again, or rebuilt. **Spent; closed as a figure. Band 1 printed no figure of it and
+    put it in no mouth.**
 12. **The figure of how many things are left on that landing** was given once, at
-    `995`, with the working, and is not to be given again or rebuilt. **Spent.**
+    `995`, with the working, and is not to be given again or rebuilt. **Spent. Band 1
+    rebuilt none of it and printed no figure of zero for it.**
 13. **Ada Renk's name in ink on the ninth line** with a day against it in a place the
-    arrangement's record does not keep. **Open.**
+    arrangement's record does not keep. **Open. Untouched by band 1.**
 14. **Nevin Trask's book of heads and carts** is still shut, and if it opens it opens
-    by his hand. **Open.**
+    by his hand. **Open. Not on any of the ten.**
 15. **The lime-woman's place at the bottom of the drain** — a person asked for, none
-    named. Refused in band 4 by a man of thirty-eight who said there is no job.
-    Volume 21 may not solve it and may not have anybody put themselves down beside
-    her. **Open and refused.**
+    named. Refused in volume 21's band 4 by a man of thirty-eight who said there is no
+    job. **Volume 22 may not solve it and may not have anybody put themselves down
+    beside her. Band 1 did not.**
 16. **The woman of twenty-eight who has said no twice** is not asked again.
     **Open, not to be reopened.**
-17. **The sixty-three stitches** are on no page and nobody is to tell the boy he
-    found anything. **Open.**
+17. **The sixty-three stitches** are on no page and nobody is to tell the boy he found
+    anything. **Open. Band 1 printed no figure of them and told the boy nothing.**
+18. **NEW — THE BOY'S YOKE IS IN TWO HALVES AT THE BEND AT THE BOTTOM OF THE LANE.**
+    Garrin Tolley split it on `1059` levering up a cartload of banked grit and did not
+    go up after the boy with them. **Nobody has told Wat Marshe and nobody is to tell
+    him what he found or did not find. Band 2 may not resolve this in a single morning
+    and may not have anybody tell him it was all right.**
+19. **NEW — A WORKING OF ILYAN VESTER'S OWN IS IN HIS HEAD AND HE BENT IT OVER A MAN ON
+    `1059`.** He said one true thing and then used its shape to keep Garrin Tolley out of
+    a lane where there was work and nobody had stopped him. **Garrin Tolley is the only
+    person who knows what it cost him and he has said it out loud once. Nobody told
+    Ilyan he was wrong and nobody is to.**
+20. **NEW — A WOMAN WHO KEEPS TWENTY-NINE CHAIRS WAS REFUSED ABOUT HER OWN HANDS ON
+    `1055`** and put the cloth away inside her coat and wiped her own skirt instead.
+    **Her one question is still unanswered and nobody is to tell her it is being
+    answered or that it is not.**
 
 ## Intentionally open, from `outline/ending.md`
 
@@ -91,9 +137,9 @@ on none. It was not asked again so that somebody could finally say something. **
 
 ## Raised by review, not by a chapter
 
-- **The length of the book.** The manuscript is 200 chapters past the ending its own
+- **The length of the book.** The manuscript is **210** chapters past the ending its own
   outline specifies. Unresolved, and not the writer's to resolve. See
-  `state/current.md`.
+  `state/current.md`. **Band 1 wrote ten chapters and resolved no word of it.**
 - **The primary relationship and the System.** `outline/series.md` names Ilyan and
   **Sera Quill** as the primary slow-burn relationship. The last mention of Sera in
   any volume is volume 18; volumes 19, 20 and 21 do not contain the word. *The
@@ -163,4 +209,5 @@ on none. It was not asked again so that somebody could finally say something. **
 
 ## Archive
 
-Earlier thread blocks, in full, are under `reviews/volume-*/`.
+Earlier thread blocks, in full, are under `reviews/volume-*/`. **The volume 22 band 1
+block above is the live one and the whole of what that band carried.**

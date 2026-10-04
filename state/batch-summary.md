@@ -3,6 +3,173 @@
 What each band did, what it left behind, and what it owes the next one. The receipt
 for the band just finished is at the top.
 
+## Volume 22 band 1 — `1051`–`1060`, *The refusal stands through a week*
+
+Ten chapters on disk of ten owed. Volume 22 is open. Forty of the fifty this volume
+owes are still owed by the bands after this one.
+
+### The ten mornings, run from the formula and then read back off the page
+
+| # | ch | week / day | weekday | the water | gravel | offer | boy | mistakes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | `1051` | 172 / 3 | Thursday | four inches · about ninety under · seven days | 330 | 351 | 398 | 191 |
+| 2 | `1052` | 172 / 4 | Friday | eight inches · about eighty under · six days | 331 | 352 | 399 | 192 |
+| 3 | `1053` | 172 / 5 | Saturday | twelve inches · about seventy under · five days — the first anchor, the fever one hundred and ten weeks with no days beside it | 332 | 353 | 400 | 193 |
+| 4 | `1054` | 172 / 6 | Sunday | sixteen inches and it holds · about sixty under · four days — the first full bank, and every one of the ninety steps walkable | 333 | 354 | 401 | 194 |
+| 5 | `1055` | 172 / 7 | Monday | sixteen and it holds · about sixty under · three days — the last morning of that week | 334 | 355 | 402 | 195 |
+| 6 | `1056` | 173 / 1 | Tuesday | sixteen and it holds · about sixty under · two days — the week turned in the night between `1055` and this | 335 | 356 | 403 | 196 |
+| 7 | `1057` | 173 / 2 | Wednesday | sixteen and it holds · about sixty under · one day | 336 | 357 | 404 | 197 |
+| 8 | `1058` | 173 / 3 | Thursday | **none · none · none** — the first off-morning, all three absences said out loud in new words | 337 | 358 | 405 | 198 |
+| 9 | `1059` | 173 / 4 | Friday | four inches · about ninety under · seven days | 338 | 359 | 406 | 199 |
+| 10 | `1060` | 173 / 5 | Saturday | eight inches · about eighty under · six days — the second anchor, the fever one hundred and eleven weeks with no days beside it, and the last morning of the band | 339 | 360 | 407 | 200 |
+| **11** | **THE WHOLE BAND** | **THE WATER, RUN FROM ITS HEAD OF `686` AND NOT READ OFF ANY TABLE** | | **the ladder ran on the residue of `ch` upon eight and reproduced every figure in the table above morning by morning, and the three absences are on `1058` in words of that morning's own** | | | | |
+
+Counters, read off the page by hand and checked against the formula: his morning
+eight hundred and first through eight hundred and tenth; the settlement six hundred
+and fifty-first through six hundred and sixtieth; six hundred and fifth through six
+hundred and fourteenth since the division; five hundred and fifty-first through five
+hundred and sixtieth since the door-shut page; the county of Kell four hundred and
+ninety-seventh through five hundred and sixth, with **five hundredth** at `1054` on
+the house's own round-hundred form; the cut across that palm three hundred and
+sixty-six through three hundred and seventy-five, **twice on every one of the ten
+pages**, descriptor and speech; the offer three hundred and fifty-one through three
+hundred and sixty with the subtraction spoken on all ten; the boy's own count three
+hundred and ninety-eighth through four hundred and seventh; Barnaby Crove's
+thirtieth through thirty-ninth with the subtraction and the *and then one* on all ten;
+the mistakes one hundred and ninety-first through **two hundredth**.
+
+### What the band owed, and whether it is on the page
+
+1. **The opening image.** On the page at `1051:3`: the broom standing against the
+   wall where its man put it the night before, and a man coming up to it before
+   anybody has asked him for it. It does not open on the name, does not name the ash
+   or say what it is, opens on no water figure, does not restate the refusal, has no
+   handover and no recap and nobody arriving to be told the state of things, does
+   not finish the sentence `1050` ends on, and asks nobody what they said.
+2. **The date line.** On the page on all ten, with the settlement at six hundred and
+   fifty-one, the division at six hundred and five and the door-shut page at five
+   hundred and fifty-one on `1051`. All three fail the date-line gate and all three
+   are correct; the reason is the instrument's own.
+3. **The ladder.** On the page on all ten: four inches, about ninety under, seven
+   days, and the man of forty-three gives three and not a fifth, on the third day of
+   the hundred and seventy-second week, which is a Thursday.
+4. **The standing offer.** On the page at `1051:45` at three hundred and fifty-one
+   and one higher on each of the ten mornings, the subtraction spoken every morning.
+   Asked on none, answered on none, withdrawn on none, and nobody relieved.
+5. **The first expensive prohibition.** On the page across all ten: no new name on
+   anything; what the wood is is not said again in any wording; the name the second
+   length carries is not printed; the figure of how many new names this volume puts
+   on anything is zero and is not printed, and no figure of zero is printed for it.
+6. **The hand.** On the page in all ten, each in its own words: `1051:83`,
+   `1052:81`, `1053:87`, `1054:89`, `1055:85`, `1056:83`, `1057:79`, `1058:73`,
+   `1059:97`, `1060:71`. Not one of the ten lines repeats.
+7. **Every name traces to a mouth.** On the page. The names arrive in descriptor
+   lines, which is where they arrived on every band of volume 21; what traces to a
+   mouth is each name's first use, in an earlier chapter. **No new person exists in
+   this band and no name is put on any thing.**
+8. **Refusals with workings, in mouths, about small work-shaped askings.** On the
+   page in four mouths and **given no name and not called the right of refusal**:
+   Corvin Tace against the woman of forty-nine's one step (`1052:39`), Barnaby
+   Crove against the man of thirty-eight's barrow (`1053:43`), Corvin Tace against
+   the woman of forty-four's cloth and the chair (`1055:39`), Garrin Tolley against
+   the pails Corvin put in front of him (`1056:53`). **The second broom-asking is
+   not asked here in any wording, and leave to explain a refusal is not asked here.**
+9. **No head counts of people.** On the page. Read by hand across the ten: `about
+   nine` is *about ninety* of a flight of steps in every hit; `one of them` is steps
+   at `1058:69` and mouths at `1059:61`; the two literal counts a first draft carried
+   — *two men* and *three people* — were cut by hand at `1054:5` and `1054:71` before
+   the band was finished. The figure of how many things are left on that landing is
+   not given again, not rebuilt, and no figure of zero printed for it.
+10. **Nobody answers a question about that name.** On the page. A question is put
+    and nothing returned on `1051:75`, `1052:75`, `1053:87`, `1054:79`, `1055:63`,
+    `1056:65`, `1057:57`, `1059:95`, `1060:59`; on `1058:71` a man says out loud
+    that he is not crossing an edge to go and look. **No yes, no no, no
+    counter-question, and no figure of how many mornings ago.**
+
+### What advanced and what closed
+
+Advanced in mouths: a man takes up his own tool before anybody asks him for it; a
+woman who reads for a living asks for one step and is refused with a working about
+where the grit goes; the man who cannot read refuses the barrow in his own words and
+for the first time owns the wanting in the same breath; a man has a true sentence
+ready for a boy and does not say it; a woman with a length has nowhere dry to put it
+and carries it all the way back down; a woman who keeps chairs asks for her own work
+and is refused about his stone and folds the cloth away; a man asks too small and is
+given no reason, and refuses a kindness with one; the man of thirty-one asks for the
+pails and is refused in the plainest words; a working is bent and used on a man and
+the man he used it on says out loud what it cost him. Closed as events: nothing.
+The broom-hour, the explaining, the barrow question, the confirming, the ordinary
+form and the second asking are all carried and none is owed by this band.
+
+### The ten closing lines
+
+`1051` a broom put back against the wall at the angle it had stood at · `1052` a
+shut book carried down the road and a hand kept off a bottom step · `1053` a boy at
+the top of a lane doing his own arithmetic alone · `1054` a length carried the whole
+road and put on a bench and not on the floor · `1055` a cloth folded away and a
+skirt wiped instead · `1056` two pails carried down and a barrow pushed out of the
+run-off · `1057` a hand opened over boot-grit and shut and let go · `1058` a flight
+felt for grit by hand from the bottom to the top · `1059` a boy's yoke split in two
+hands at the bottom of a lane · `1060` a brush stood in the top step and the water
+closing over where it had been.
+
+### The gates, each run on its own calibration first and printed first
+
+- `batch-0001-datelines.py 741 750 volume-15` → 10 rows, 0 hits, reproduced row for
+  row including the day names. `1051 1060 volume-22` → **60 hits, and every one is
+  false**: the regex at line 170 stops at four hundred and `settlement`, `hall` and
+  `clear` are all past it from `1051`. **No chapter was touched to satisfy it.**
+- `batch-0001-arithmetic.py 741 750 volume-15` → 0 flagged, with 5 one out and 44 not
+  spoken on its own read-back. `1051 1060 volume-22` → 18 flagged. **Eighteen are the
+  `1+ch-722` gravel, which the instrument labels `ASKING` and which reads `ch − 722`
+  against a page carrying the ordinal — the class the calibration's five are, and the
+  class volume 21's fifty were. One is the offer at `1060:39`, where the instrument
+  cannot parse an ordinal ending. Both were read by hand against `ch − n`. The
+  offer is not the one-out class and a mouth was not changed for this tool.**
+- `batch-0001-dayrefs.py` builds its path zero-padded to five digits, prints ten
+  `MISSING` lines and *0 phrases, 0 hits*, which reads as a pass over a sweep that
+  never ran. **Its own two warnings were read first. The sweep was run by hand.**
+- `batch-0005-namedday-audit.py 1051 1060 volume-22` → **65 anchored phrases, 51 on
+  the chapter they are in, 14 backward references each resolvable, 0 unanchored or
+  impossible.** One forward reference was caught by it and repaired: `1057:55` had
+  Simon Rook saying *since the Monday of the hundred and seventy-third week*, a
+  morning that has not happened, and it now reads the Tuesday of that week.
+- `batch-0001-structure.py` hard-codes `volume-16`. **It was re-pointed by hand at
+  `chapters/volume-22/` and run there.** Unbalanced quotes 0 at file and block level;
+  odd `**` 0; straight ASCII apostrophes 0 after ten were converted; the six ways of
+  naming the book none; month and the four seasons none; `citizen` `arbiter`
+  `villain` `upstairs` `grateful` `sorry` `the rail` `redeemed` `worth it` `brave`
+  `forgiven` `First Witness` `Shale Mirror` `external witness` `dissident` `Veyra`
+  `loom` `coalition` `amendment` `Bramblefold` `Withermere` `Underloom` `a panel`
+  `System` **0 each**; duplicate six-word window in a block 0.
+- **Whole-band byte-identical sweep, by hand, over every line of sixty characters or
+  more: one line stands verbatim in more than one chapter, and it is Barnaby
+  Crove's standing question in eight of the ten.** That is the house refrain by
+  design, it stood in eleven chapters of volume 21, **and it opens no chapter of
+  this band.** No line repeats inside a chapter.
+- `thank*` stands at **14** and all fourteen were read: every one is a negation or a
+  statement of who is not to be thanked.
+- **The reserved-number guard was not run.** `I.guards` builds its path from the
+  volume argument and the one-call form cannot be run from here, so the guard was
+  discharged by the hand sweeps above and by `state/character-state.md`, which carries
+  every figure given out loud on these ten mornings.
+- **The standing act, done before the instruments.** `1050` ends on hands and a road
+  naming nothing; `1051` opens on a broom standing against a wall. All ten closings
+  were read against one another and each is a different device.
+
+### The counters that were wrong in a first write and are right on the page now
+
+Recorded because a state figure that is wrong is the thing that breaks. **The morning
+figure was seven hundred and first on all ten pages and it is eight hundred and
+first** — `ch − 250` at `1051` is 801, and `1050` says eight hundredth. **The offer's
+*asked at the* ran *seven hundred and* on all ten** and it is *eight hundred and*.
+The county of Kell ran an ordinal from `1054` and is a cardinal throughout, with
+**five hundred** and not five hundredth at `1054`, on the form `chapter-0800.md` uses
+at its own round hundreds. **The cut across that palm ran an ordinal from `1055` and is
+a cardinal on all ten.** The boy's own count ran an ordinal from `1052` and is a
+cardinal on all ten, and the settlement and the door-shut page ran ordinals at `1060`
+and are cardinals. All ten were found by running the formula, not by eye.
+
 ## Volume 22 planning — `1051`–`1100`, *The Hour Not Lent* (planned, not open)
 
 No chapter written and none owed by this phase. The plan is `outline/volume-22.md`:

@@ -9,11 +9,134 @@ below and their titles were cut at the close; the fifty titles are on the chapte
 themselves and are not duplicated here. The close record is
 `reviews/volume-21/volume-21-close.md`.
 
-## Volume 22 — *The Hour Not Lent* (1051–1100, planned, not open)
+## Volume 22 — *The Hour Not Lent* (1051–1100, open)
 
-No chapter on disk. Band 1 (`1051`–`1060`, the refusal stands through a week) is
-prompted at `workspace/volume-22/batch-0001/PROMPT.md`; bands 2–5 are carded in
-`outline/volume-22.md` §7 and have no prompt yet.
+### Band 1 — `1051`–`1060`, *The refusal stands through a week* (complete)
+
+One entry a chapter. Every figure in an entry is on the page.
+
+1. **`1051` — *Nobody Asked Him For It*.** Thursday, the third day of the hundred
+   and seventy-second week. Opens on the broom standing against the wall where its
+   man left it the night before, and on Corvin Tace coming up to it before anybody
+   has asked him for it. The morning's work is four feet of grit in the angle where
+   the dry strip stands a step above the water, which cannot be got at from the
+   strip side because the strip is where a man puts his feet when he is on it; he
+   does it on one knee with the broom head and a second pair of hands could not have
+   shortened it. Barnaby Crove asks at six, thirtieth morning, and gets nothing.
+   Ilyan Vester gives his figures, the offer at three hundred and fifty-one with the
+   subtraction out loud, and his mistake: he could have carried those pails down
+   four times over and did not, and wants it said that he thought about it. Garrin
+   Tolley comes up with nothing to ask for the first time in a fortnight and says so
+   before anybody can ask him. Simon Rook's question returns nothing; Wat Marshe
+   gives three hundred and ninety-eight. Ends with the broom back against the wall
+   at the angle it had stood at.
+2. **`1052` — *Nobody Improved On It*.** Friday. Sena Dorr comes up the cart road
+   and stops at the foot and asks Corvin Tace for one step of work. Refused with a
+   working about where the grit goes and in which direction, and offered no
+   improvement afterwards by anybody. She owns the want: her hands have held a shut
+   book for twenty-three years and she came up a bank to find out whether they would
+   still do something that is not holding a book shut. Ilyan's mistake is wanting
+   that refusal to stand, because he has been refused three times in three mornings
+   and a man who wants company in a thing begins to want a fourth person refused.
+   Barnaby at six, three hundred and thirty-first, nods at a thing that has not come.
+   Simon is not on this morning; Ilyan's question returns nothing. Ends with the shut
+   book flat against her knee and a hand kept off the bottom step.
+3. **`1053` — *The Sentence He Did Not Say*.** Saturday, and the first anchor: the
+   fever is one hundred and ten weeks old with no figure of days beside it, and
+   Barnaby Crove's own figure is a whole one and he will not go up the lane to fetch
+   days to put beside it. Garrin Tolley asks for the barrow down the cart road and is
+   refused by the man it is for, in his own words, with the working that he cannot
+   say what it weighs in words and a morning's work would go missing down the road.
+   Garrin says out loud that he wanted it because it is the only thing on that landing
+   refused with a working rather than passed over. Wenna Pyle is not on this morning.
+   Ilyan's mistake is a true sentence ready for the boy about how a whole figure is a
+   clock and not a verdict, which he does not say, because asking leave to say it is a
+   second thing and he was refused that. Ends with the boy at the top of the lane
+   doing his own arithmetic alone.
+4. **`1054` — *Nowhere To Set It Down*.** Sunday, the first full bank: sixteen inches
+   and it holds, about sixty under, four days, and every one of the ninety steps
+   walkable, which is the one morning of the week a man could reach the dry strip
+   without climbing anything. Nobody does. Simon Rook wades the whole width of the
+   landing and stops at the water's edge and will not take the stride across it,
+   because a man who has stood on that strip cannot afterwards say he never stood on
+   it. Wenna Pyle comes up with a length under her arm and stops, because the dry
+   strip is the only dry place to lay it and she is not going to put it there; she
+   carries it all the way back down. Ilyan's mistake is wanting to be the man who
+   carried it for her. Ends with the length on her own bench and not on the floor.
+5. **`1055` — *She Put It Away*.** Monday, the last morning of the hundred and
+   seventy-second week, named from this side only and with nothing said about the
+   other side. Barnaby asks at six and says out loud that he asked on every morning
+   of the week and will ask again in the morning. Orla Fennimore comes up to her own
+   wall and asks, having said she would stop asking, for leave to dust the chair;
+   refused by Corvin Tace with the working that he cannot tell her what the chair is
+   on his stone and that she keeps chairs and would carry it home about her own
+   trade. She owns the want: she wanted an hour of her own hands meaning something.
+   Nobody told her she was wrong and nobody told her she was right. Ilyan's mistake
+   is standing at the foot hoping somebody will be given something, because a tally of
+   watchings is not a shape. Ends with the cloth folded away and a skirt wiped
+   instead.
+6. **`1056` — *A Man Refuses A Kindness*.** Tuesday, the first morning of the hundred
+   and seventy-third week, the week turned in the night. Garrin Tolley asks a small
+   question in a small voice and is given a flat no and told that a question asked
+   small does not get the reason. Then Corvin Tace stands the broom against the wall
+   and puts the empty pails in front of him and says it is not kindness. Garrin
+   refuses them, with the working that a man who is given something has stopped
+   asking whether he knows it or not, and says out loud that he wanted it and had not
+   known he did. Nobody thanked him for refusing and nobody was thanked for putting it
+   in front of him, and nobody told him he was right. Ilyan's mistake is wanting one
+   small yes on that stone so he could see what one looks like standing there. Ends
+   with two pails carried down and a barrow pushed out of the run-off, unmentioned to
+   anybody.
+7. **`1057` — *The Plain Way Of No*.** Wednesday, one day of the coming back, and
+   the last of that number. Barnaby says he will ask tomorrow and the water will be
+   off that bank and the question has nothing in it about the water. Ilyan Vester
+   asks for the pails, which is work and not the broom, and is refused in the plainest
+   words a man can use: if a man is coming down after the pails then the man on the
+   landing is watching a pail instead of the stone. Nobody improved on it and nobody
+   said anything about the refusing, and the cost stayed on one face and went down
+   the bank with him. His mistake is having chosen the pails instead of picking up
+   grit that morning with nobody watching. Simon Rook asks and gets nothing and says
+   he would rather be refused straight out. Ends with a hand opened over boot-grit and
+   shut and let go.
+8. **`1058` — *Nothing On The Stone To Measure*.** Thursday, the first off-morning,
+   and the three absences are said out loud in words of that morning's own and not in
+   the words they were said in on the Wednesday of the hundred and seventy-second
+   week. Every one of the ninety steps is walkable and the man who cannot see well
+   walks all of it and does not cross the water's edge at the top. Wenna Pyle, from
+   above and no nearer, says there is iron let into the cut of the fortieth step and
+   bedded in grit with the top of it standing out and one end gone back under, and
+   says out loud that she is not putting her hand in it. Nobody puts a finger in the
+   seam. Simon says a thing he has been told is not a thing he has found, and his
+   list is empty. Ilyan's mistake is wishing for a figure of work to put beside his
+   other four. Ends with the flight gone over a second time by hand, feeling for grit,
+   every tread and beside every seam.
+9. **`1059` — *A Working Turned Over*.** Friday. A cartload of grit has banked at the
+   turn of the lane overnight and the water is coming. Garrin Tolley asks Ilyan Vester
+   — the first asking on that landing addressed to the man of thirty-one — to stand at
+   the other end of the yoke while he levers it. Ilyan says yes before he has looked
+   at anything, and Corvin Tace refuses him off the stone with the working that a man
+   off it is a man he cannot see. Then Ilyan takes the shape of that working and bends
+   it over Garrin to keep him out of the lane, and Garrin says out loud what it cost
+   him to do it, and says he went down the lane anyway, and nobody was told he was
+   wrong. Ilyan's cost is that he said one true thing and then bent it. Ends with the
+   boy's yoke split in two hands at the bottom of the lane.
+10. **`1060` — *It Stood Where He Put It*.** Saturday, the second anchor, the fever
+    one hundred and eleven weeks old with no days beside it, and the last morning of
+    the band. The broom stands against the wall at the top of the flight for the
+    length of a barrow-load with nobody holding it and Ilyan Vester four foot off it
+    does not move it. Barnaby asks at six for the thirtieth and thirty-ninth morning
+    and says he will ask tomorrow and the day after that. A whole figure comes out of
+    two mouths that morning, the fever and his two hundredth wrong thing, and nobody
+    joins them up and nobody explains why not. Ilyan's cost is that he wanted the
+    broom moved so that he could say he had left it alone. Wenna Pyle comes up with a
+    length and stands at the foot and does not come up. Nothing whatever is said by
+    anybody about the broom being left where it was put. Ends with the brush stood in
+    the top step and the water closing over where it had been.
+
+Bands 2–5 (`1061`–`1100`) are carded in `outline/volume-22.md` §7 and have no prompt
+on disk. **Band 2 carries the midpoint, which may not land before `1068` and may not
+land on an off-morning or an anchor; band 5 carries the second broom-asking, which may
+not be asked before `1094`.** Neither is owed by this band.
 
 ## Volume 21 — *The Name Already On It* (1001–1050)
 
