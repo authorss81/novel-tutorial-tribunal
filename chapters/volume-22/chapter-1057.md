@@ -76,4 +76,4 @@ Nobody on that landing laid a hand on either of those lengths at any hour of tha
 
 That morning went out of the sky and the account on that landing was as open at eleven as at six and still in a hand at both hours, and the name on that second length was wrong, and nobody standing on that flight said that any of it was finished.
 
-And Ilyan Vester went down to the second step from the bottom and stood there with the water at his shins, and took his right hand out of the water and opened it and looked at what his own boot had brought down out of that flight, and then shut it and let it go, and the water took it out of his hand and went on down about four steps and stopped in the angle where the wall runs out.
+And Ilyan Vester went down to the second step from the bottom and stood there with the water at his shins, and took his right hand out of the water and opened it and looked at what his own boot had brought down out of that flight, and then shut it and let it go, and the water took it out of his hand and went on down the flight and stopped in the angle where the wall runs out.

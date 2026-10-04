@@ -36,7 +36,7 @@ He kept one hand on the rim of the barrow and looked down the wet flight.
 
 The wall gave him the morning back and he said that in his own words, and nobody filled it.
 
-“It gave me the morning back and I am not going to say a thing about what it gave me, because whatever I say about it I have said before on this wall, and a man who says the same sentence about a wall for the four hundredth time is not saying it, he is reciting. I asked at six. It is a quarter past six and it has not come.”
+“It gave me the morning back and I am not going to say a thing about what it gave me, because whatever I say about it I have said before on this wall, and a man who says the same sentence about a wall over and over is not saying it, he is reciting. I asked at six. It is a quarter past six and it has not come.”
 
 Then Ilyan Vester came up at about the ninth hour with the water at the top of his boots, and stood below the top step and gave his figures, and gave the figure of the standing offer with the subtraction out loud, and asked for nothing.
 
@@ -54,7 +54,7 @@ He shifted his weight to the other foot so the water could go past.
 
 Then the man of thirty-eight came up the cart road and stopped at the foot of the steps where the water was shallower, and stood there with his coat shut and his board knocking once against his ribs, and said out loud what he had been holding since the Monday of the hundred and seventy-first week.
 
-Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who was refused a bench and refused a going in the same week and has not been refused for anything since, and said on the third day of the hundred and seventy-second week that he had come up with nothing to ask for the first time in a fortnight and that standing here with nothing was harder than asking.
+Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who was refused half a day at a bench and refused a going down to the drain inside a fortnight and has not been refused for anything since, and said on the third day of the hundred and seventy-second week that he had come up with nothing to ask for the first time in a fortnight and that standing here with nothing was harder than asking.
 
 “I am not asking.” He said it to the water and not up the bank. “I want that said first, because if I say it after I have asked then it is a thing I have covered up. I am going to stand at this foot and watch a man work an angle out with a broom and I am not going to open my mouth about it.”
 

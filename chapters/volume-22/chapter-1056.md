@@ -30,7 +30,7 @@ Nothing, and the wall, and the same week with a new name on it.
 
 Then the man of thirty-eight came up that cart road at about the eighth hour and put his hands on the barrow at the top of the flight and asked a small thing in a small voice, and got a small answer, and had asked it wrong and knew it while he was still asking.
 
-Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who has been refused on this landing three times inside one week and has learned the shape of a proper asking and has not learned anything else, and said on the first day of the hundred and seventy-third week that he came up to ask whether the gravel wanted doing before the water went, and that he asked it too small on purpose and knew it while it was in his mouth.
+Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who has been refused twice on this landing inside a fortnight and has learned the shape of a proper asking and has not learned anything else, and said on the first day of the hundred and seventy-third week that he came up to ask whether the gravel wanted doing before the water went, and that he asked it too small on purpose and knew it while it was in his mouth.
 
 “Does your gravel want doing before this goes off.” He said it lightly, with a shrug in it. “That is all. I will do it either way.”
 
@@ -64,7 +64,7 @@ Then Ilyan Vester came up at about the ninth hour with the sheet at his waist, s
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county five hundred and two days. The cut across that palm is three hundred and seventy-one days old.
 
-“Five hundred and two days in this county, and the cut across that palm is three hundred and seventy-first days old, and the standing offer asked at the eight hundred and sixth is three hundred and fifty-six days old, which is one thousand and fifty-six less seven hundred. It is unanswered. I have not asked it and it has not been answered on and not been withdrawn on. It is a Tuesday and it is the first morning of a week and I did not think that was going to be the day I asked it on, and it is not.”
+“Five hundred and two days in this county, and the cut across that palm is three hundred and seventy-first days old, and the standing offer asked at the eight hundred and sixth is three hundred and fifty-six days old, which is one thousand and fifty-six less seven hundred. It is unanswered. I have not asked it and it has not been answered on and not been withdrawn on. It is the first morning of a week and I did not think that was going to be the day I asked it on, and it is not.”
 
 He looked at the broom standing against the wall at the top of the flight and then at the man working the sheet with it.
 
@@ -82,4 +82,4 @@ Nobody lifted either length or turned one over or held one up to the light or fe
 
 That morning came off the wall and left, and the account on that landing was as open at eleven as it had been at six and still in use at both hours, and the name on that second length was still the wrong one, and nobody on that flight said that any of it was over.
 
-And Garrin Tolley, going down that bank last of anybody, stopped at the foot of the flight and picked up the two empty pails that stood in the wet there, and carried them the rest of the way down himself, and stood them against the leg of his own barrow, and then put his shoulder against the barrow shafts and pushed the barrow a foot along the wall so the pails would not be standing in the run-off, and said nothing about it to anybody at all.
+And Garrin Tolley, going down that bank last of anybody, stopped at the foot of the flight and picked up the two empty pails that stood in the wet there, and carried them the rest of the way down himself, and stood them against the leg of his own barrow, and then put his shoulder against the barrow shafts and pushed the barrow clear of the run-off so the pails would not be standing in it, and said nothing about it to anybody at all.

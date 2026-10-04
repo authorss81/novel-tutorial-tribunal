@@ -32,7 +32,7 @@ Nothing came back, and he told the wall so, and nobody filled it.
 
 Then the man of thirty-eight came up the cart road at about the eighth hour and put both hands on the barrow shafts and asked to be allowed to take it down that road once with gravel in it.
 
-Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who was refused a bench, refused a going and refused a lift on this landing inside one week, and said on the fifth day of the hundred and seventy-second week that he had learned to ask in the right shape and was going to ask in the right shape anyway.
+Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who was refused half a day at a bench and refused a going down to the drain inside a fortnight, and said on the fifth day of the hundred and seventy-second week that he had learned to ask in the right shape and was going to ask in the right shape anyway.
 
 “Give me the barrow down the road once. I will put it back where it stands and I will not take it past the wall. That is all of it and I am asking you and not the landing, because you are the man who holds it.”
 

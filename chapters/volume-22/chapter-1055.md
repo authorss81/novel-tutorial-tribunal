@@ -60,7 +60,7 @@ Then Ilyan Vester came up at about the ninth hour with the sheet at his waist an
 
 Ilyan Vester, thirty-one, nobody’s, and has been in this county five hundred and one days. The cut across that palm is three hundred and seventy days old.
 
-“Five hundred and first days in this county, and the cut across that palm is three hundred and seventy days old, and the standing offer asked at the eight hundred and fifth is three hundred and fifty-five days old, which is one thousand and fifty-five less seven hundred. It is unanswered. I have not asked it and it has not been answered on and not been withdrawn on. I have not asked it this week and I am not going to begin on a Monday.”
+“Five hundred and first days in this county, and the cut across that palm is three hundred and seventy days old, and the standing offer asked at the eight hundred and fifth is three hundred and fifty-five days old, which is one thousand and fifty-five less seven hundred. It is unanswered. I have not asked it and it has not been answered on and not been withdrawn on. I have not asked it this week and I am not going to begin on the last day of a week.”
 
 He stood with the water moving past him and looked at the chair going round the fortieth step in the broom.
 

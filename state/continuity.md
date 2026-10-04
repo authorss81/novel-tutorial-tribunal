@@ -280,6 +280,88 @@ wording. That absence is the subject of the volume, not an oversight.
   morning. Band 5 failed this on the review and the sweep paragraph's sentences were
   rewritten in all ten; see `reviews/volume-21/batch-0006-review-repair.md`.
 
+## Ruling on the `four hundred` collision, settled on the review of band 1
+
+**§5.2 AND §4.3 CANNOT BOTH BE SATISFIED, AND §4.3 WINS. THIS IS NOW CANON AND IS NOT TO BE
+RE-OPENED.**
+
+`§5.2` puts any figure of four hundred of anything except the arrangement at zero. `§4.3`
+gives dated formulas that put five counters in the four hundreds on the first morning of
+this volume and keep them there:
+
+| counter | at `1051` | at `1100` | in the four hundreds for |
+|---|---|---|---|
+| his morning | 801 | 850 | every morning of the volume |
+| days after the settlement | 651 | 700 | every morning of the volume |
+| days since the division | 605 | 654 | every morning of the volume |
+| days since a page was read out with the door shut | 551 | 600 | every morning of the volume |
+| in the county of Kell | 497 | 546 | `1051`–`1053` only; it is a five hundred figure from `1054` |
+| the boy's own days | 398 | 447 | `1053` onward |
+| the cut across his palm | 366 | 415 | `1085`–`1100` only |
+| the standing offer | 351 | 400 | `1100` only, where it is spoken as the plain words *four hundred* |
+
+Four hundred figures are **already canon on the page in volume 21** — *four hundred and
+ninety days in this county* stands at `1044:51` — so a reading of `§5.2` that erased the
+counters would break the back half of volume 21 as well.
+
+**THE RULING.** The counters `§4.3` specifies are printed, in full, in a mouth, and are not
+altered to dodge a guard. `§5.2`'s four hundred line is read as governing four hundreds the
+plan has not scheduled: the arrangement's *four hundred miles off* at `§11`, and the
+woman of sixty-four's. Those two keep their figure and are not to be spent. The dated
+datelines gate `reviews/volume-16/batch-0001-datelines.py` raises a hit on every chapter of
+this volume for this reason, and `outline/volume-22.md` §13 already records that every one
+of those failures is false and that **a chapter must not be fixed to satisfy it.**
+
+**THE ONE PLACE THE COLLISION IS REAL, AND IT IS NOT AVOIDED.** At `1100` the standing
+offer is spoken as the plain words *four hundred*, which is also the arrangement's figure.
+That is the volume's last morning and the ruling is that it is **spent, not dodged**: the
+offer still carries its subtraction line, it is still unanswered, and nobody is relieved.
+A writer who reaches `1100` does not rename the counter to get out of it.
+
+## Band 1 corrections carried into band 2, from the review of `1051`–`1060`
+
+- **No distance is printed for the landing, the lane, the bank, the drain or the cart road**
+  (`§11`), and no figure of how far a voice carried down that road. Band 1 breached this
+  three times on a first pass and all three are fixed: a barrow *pushed a foot along the
+  wall* (`1056`), a man *standing four foot off* the broom (`1060`), and water going
+  *down about four steps* (`1057`). The three hundred yards to Wenna Pyle's shed is hers
+  and is authorized. `about n steps under` is the water ladder and is authorized.
+- **A character's descriptor line is a fact and is checked against the page.** Band 1 gave
+  Garrin Tolley a refusal he never had (*refused a lift*, on no page in volumes 20–22) and
+  moved his count four times inside ten chapters. His refusals, with pages, are: half a
+  day at Wenna Pyle's bench (`1041`), a going down to the drain (`1044`), the barrow, from
+  Barnaby Crove (`1053`), and a question of his own making, from Corvin Tace (`1056`).
+  Nothing else. Check the page before the descriptor, not after.
+- **Sena Dorr is on that landing once in fifty chapters, and she stays at the foot of the
+  steps.** She came up `1052`, asked for one step of work, was refused about where the
+  grit goes, did not come up a step, and went back down the cart road without putting her
+  hand on the bottom step. She is not on `1060`. Do not build a band-2 morning around her
+  being up there.
+- **Water cannot arrive twice.** A morning that opens with inches standing on the top step
+  may not close on the water coming over it. `1060` opened with eight inches on the top
+  step and then closed on the water *coming over* it; the closing beat now reads as the
+  water lying over that top step and closing over the broom, which is the same dread
+  without the second crossing.
+- **A refusal that fails gets a beat.** Ilyan bent Corvin's working over Garrin at `1059`
+  and Garrin went down the lane regardless, and on the first pass nobody on the page
+  registered that the working had not held. Corvin now says so from the top step — that the
+  working has not held, that he is not going to say it again to make it hold, and that the
+  man being out of his sight is on the stone and not on the man. **A working is not a thing
+  that holds people and this volume has to be able to say that out loud.**
+- **A FIGURE OF HOW MANY TIMES A THING WAS SAID IS OWED ZERO, AND A ROUND HUNDRED MAY NOT BE
+  INVENTED TO MAKE A POINT.** `1051` had Barnaby Crove say that a man who says the same
+  sentence about a wall *for the four hundredth time* is reciting. That was two breaches in
+  one clause — the figure of how many times a thing was said, and a third four hundred that
+  nothing in `§4.3` licenses — and it is fixed by removing the count altogether. **IF A
+  CHARACTER WANTS TO MAKE AN ARGUMENT ABOUT REPETITION, MAKE IT WITHOUT COUNTING.**
+- **A NAMED DAY IS WRITTEN IN THE LONG FORM OR NOT AT ALL** — *the Monday of the hundred and
+  seventy-second week* — **including inside a quotation, and including a character being
+  casual about it.** `1055` and `1056` each printed a bare *Monday* and a bare *Tuesday* in
+  Ilyan's mouth on a first pass while every date line around them used the long form. Both
+  are fixed. Note the calendar runs **Tuesday to Monday**, so Monday is the last day of a
+  week and Tuesday is the first, and *the last day of a week* and *the first morning of a
+  week* are the ways to say it without naming a day.
+
 ## Archive
 
 Earlier continuity blocks, in full, are under `reviews/volume-*/`.

@@ -143,8 +143,14 @@ FIRST PASS.** Full table at `state/continuity.md`:
 - his morning and Barnaby Crove's mornings of asking are **ordinals** — *His eight hundred
   and twentieth morning*, *three hundred and fortieth*;
 - **a round hundred is a cardinal in days and an ordinal in a count of things** — at
-  `1064` the county of Kell is **four hundred days**; at `1060` the mistakes are
-  **two hundredth wrong things**;
+  `1054` the county of Kell is **five hundred days**, said as a cardinal; at `1060` the
+  mistakes are the **two hundredth wrong things**, said as an ordinal. **NO ROUND HUNDRED
+  FALLS ANYWHERE INSIDE `1061`–`1070`: KELL RUNS `507`–`516`, THE BOY `408`–`417`, THE OFFER
+  `361`–`370`, THE GRAVEL `340`–`349`, THE MISTAKES `201`–`210`, THE MORNING `811`–`820`,
+  THE SETTLEMENT `661`–`670`, THE DIVISION `615`–`624`, THE DOOR-SHUT PAGE `561`–`570`, THE
+  PALM `376`–`385. YOU ARE NOT TO PRODUCE ONE ON THESE TEN AND YOU ARE NOT TO INVENT A ROUND
+  FIGURE TO GET ONE. IF A MORNING READS LIKE IT WANTS TO TURN A COUNT, LET IT READ LIKE
+  THAT.**
 - the offer's *asked at the* carries **the morning ordinal**, not the cardinal, and at
   `1061` it is **asked at the eight hundred and eleventh**.
 
@@ -249,8 +255,34 @@ A FIFTH KIND AND IS NOT ONE OF THESE FOUR.**
 - **ANY MONTH, ANY SEASON, any word standing for one · ANY RELATIVE NAMED DAY, INCLUDING
   INSIDE A QUOTATION AND INCLUDING A QUOTATION OF SOMEBODY ELSE'S ERROR · ANY FIGURE OF THE
   WORLD, OF A REGION, OF A CHARTER SEAT, OR OF HOW MANY PEOPLE ANYTHING WOULD HAVE SAVED ·
-  ANY FIGURE OF FOUR HUNDRED OF ANYTHING EXCEPT THE ARRANGEMENT.** EVERY NAMED DAY IS WRITTEN
+  ANY FIGURE OF FOUR HUNDRED OF ANYTHING EXCEPT THE ARRANGEMENT — AND READ THE RULING BELOW
+  BEFORE YOU TREAT THAT LAST ONE AS ABSOLUTE.** EVERY NAMED DAY IS WRITTEN
   *THE FRIDAY OF THE HUNDRED AND SEVENTY-FOURTH WEEK* AND NEVER A BARE WEEKDAY.
+- **THE `FOUR HUNDRED` RULING, SETTLED ON THE REVIEW OF BAND 1 AND NOT TO BE RE-OPENED. §5.2
+  AND §4.3 OF THE PLAN CANNOT BOTH BE SATISFIED AND §4.3 WINS.** Your morning, the days
+  after the settlement, the days since the division and the days since the door-shut page
+  are **all in the four hundreds on every one of your ten mornings** (`811`–`820`, `661`–`670`,
+  `615`–`624`, `561`–`570`). **YOU PRINT THEM IN FULL, IN A MOUTH, AND YOU DO NOT ALTER ONE OF
+  THEM TO DODGE A GUARD.** The guard's ban is read as governing four hundreds **the plan has
+  not scheduled** — the arrangement's *four hundred miles off*, and the woman of sixty-four's —
+  and those two keep their figure. Four hundred figures are already canon on the page in
+  volume 21 (*four hundred and ninety days in this county*, `1044:51`), so the other reading
+  breaks volume 21 as well. **THE DATELINES GATE `reviews/volume-16/batch-0001-datelines.py`
+  RAISES A HIT ON EVERY CHAPTER OF THIS VOLUME FOR THIS REASON, `outline/volume-22.md` §13
+  ALREADY RECORDS THAT EVERY ONE OF THOSE FAILURES IS FALSE, AND A CHAPTER MUST NOT BE FIXED
+  TO SATISFY IT. THE ONE REAL COLLISION IS AT `1100`, WHERE THE STANDING OFFER IS SPOKEN AS THE
+  PLAIN WORDS *FOUR HUNDRED*, AND THE RULING IS THAT IT IS SPENT AND NOT DODGED. IT IS NOT
+  YOUR MORNING. DO NOT NAME IT AND DO NOT PRE-ENACT IT.**
+- **NO DISTANCE MAY BE PRINTED FOR THE LANDING, THE LANE, THE BANK, THE DRAIN OR THE CART
+  ROAD, IN ANY WORDING AND WHETHER OR NOT A PERSON IS THE ONE DOING THE MEASURING.** This is
+  `§11` and it is not the same prohibition as the walking figure above, and band 1 broke it
+  three times: a barrow *pushed a foot along the wall* (`1056`), a man *standing four foot
+  off* the broom (`1060`), and water going *down about four steps* (`1057`). All three are
+  fixed. **IF A SENTENCE WANTS A MEASUREMENT TO BE CONCRETE, GIVE IT A SURFACE INSTEAD — WHAT
+  THE THING IS RESTING ON, WHAT IT IS RUNNING INTO, WHERE IT STOPS.** The three hundred yards
+  down to Wenna Pyle's shed is hers and is authorized. `about n steps under` is the water
+  ladder and is authorized. A figure of the size of the two lengths of ash is a figure of a
+  thing and is authorized.
 - **THE EYE AT THE HEAD OF THE SHAFT, `992:57`, WHICH IS THE ONLY EYE ON THAT LANDING.** YOU
   MAY NAME IT AS AN EYE. **YOU MAY NOT GIVE IT A DEPTH, A GRADE, A LENGTH OR A DISTANCE FROM
   ANY MOUTH IN THIS BAND, AND IT MAY NOT BE WALKED TO AND IT MAY NOT BE LOOKED INTO. NOTHING
@@ -421,6 +453,27 @@ says is not compact.** Run `wc -c` on all seven yourself, at the start, and agai
 8. **AND SIX HOUSE FORMS THAT BAND 1 GOT WRONG IN A FIRST WRITE AND CAUGHT BY RUNNING THE
    FORMULA.** They are at `state/continuity.md` §*THE HOUSE FORMS ON THESE TEN*. **A BAND THAT
    COPIES THE SHAPE OF A BAND 1 PAGE WITHOUT RUNNING THE FORMULA WILL REPEAT ALL SIX.**
+9. **AND SEVEN MORE DEFECTS THE REVIEW OF BAND 1 FOUND, ALL SEVEN NOW FIXED ON DISK, AND ALL
+   SEVEN THE KIND OF DEFECT THIS BAND WILL MAKE IF IT DOES NOT LOOK FOR THEM.** They are
+   written out at `state/continuity.md` §*BAND 1 CORRECTIONS CARRIED INTO BAND 2*. **THE THREE
+   THAT WILL COST YOU MOST ARE THESE.** (a) **A CHARACTER'S DESCRIPTOR LINE IS A FACT AND IS
+   CHECKED AGAINST THE PAGE, NOT AGAINST YOUR MEMORY OF THE BAND** — band 1 gave Garrin Tolley
+   a refusal he never had (*refused a lift*, on no page in volumes 20–22) and moved his count
+   four times inside ten mornings, and every one of those descriptor lines was then quoted into
+   the state file and became canon by being written down. His refusals are four and they are
+   `1041`, `1044`, `1053` and `1056`. Check the page before the descriptor. (b) **WATER CANNOT
+   ARRIVE TWICE.** A morning that opens with inches standing on the top step may not close on
+   the water coming over it; `1060` did exactly that on a first pass. (c) **A REFUSAL THAT FAILS
+   GETS A BEAT.** On `1059` Ilyan bent Corvin's working over Garrin and Garrin went down the lane
+   on it anyway, and on the first pass **nobody on the page registered that the working had not
+   held** — which for a book whose whole engine is people noticing refusals was the worst defect
+   in the band. Corvin now says so from the top step. **A WORKING IS NOT A THING THAT HOLDS
+   PEOPLE, THIS VOLUME HAS NOW SAID THAT OUT LOUD IN A MOUTH, AND YOU MAY NOT UN-SAY IT BY
+   HAVING A WORKING WORK.** **AND TWO MORE YOU WILL MAKE IF YOU ARE CARELESS WITH A PARAGRAPH:**
+   NO FIGURE OF HOW MANY TIMES A THING WAS SAID, AND NO INVENTED ROUND HUNDRED TO MAKE A POINT
+   (`1051` had both in one clause); AND A NAMED DAY IN THE LONG FORM OR NOT AT ALL, INCLUDING
+   WHEN A CHARACTER IS CASUAL ABOUT IT, AND THE CALENDAR RUNS **TUESDAY TO MONDAY**, SO MONDAY IS
+   THE LAST DAY OF A WEEK AND TUESDAY IS THE FIRST.
 
 ---
 

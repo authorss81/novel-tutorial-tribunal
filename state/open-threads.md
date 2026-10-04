@@ -123,12 +123,21 @@ on none. It was not asked again so that somebody could finally say something. **
 19. **NEW — A WORKING OF ILYAN VESTER'S OWN IS IN HIS HEAD AND HE BENT IT OVER A MAN ON
     `1059`.** He said one true thing and then used its shape to keep Garrin Tolley out of
     a lane where there was work and nobody had stopped him. **Garrin Tolley is the only
-    person who knows what it cost him and he has said it out loud once. Nobody told
-    Ilyan he was wrong and nobody is to.**
+    person who has named what it cost him and he has said it out loud once. Nobody told
+    Ilyan he was wrong and nobody is to.** Corvin Tace now knows a different thing about
+    it, which is thread 21, and the two are not to be merged.
 20. **NEW — A WOMAN WHO KEEPS TWENTY-NINE CHAIRS WAS REFUSED ABOUT HER OWN HANDS ON
     `1055`** and put the cloth away inside her coat and wiped her own skirt instead.
     **Her one question is still unanswered and nobody is to tell her it is being
     answered or that it is not.**
+21. **NEW — CORVIN TACE HAS SAID OUT LOUD THAT HIS WORKING DID NOT HOLD.** On `1059` he
+    gave the working about his own stone, Ilyan bent it, Garrin Tolley went down the lane
+    on it and off the stone anyway, and Corvin said from the top step that it has not
+    held, that he is not going to say it again to make it hold, and that the man being
+    out of his sight is on the stone and not on the man. **This is the volume's central
+    instrument named unreliable in a mouth, and it is not to be un-named by having a
+    working work in a later band. Nobody was relieved, nobody was thanked, the stone is
+    not recovered, and the man in the lane was never told that it had failed.**
 
 ## Intentionally open, from `outline/ending.md`
 

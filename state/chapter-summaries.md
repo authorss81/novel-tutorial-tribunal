@@ -118,12 +118,16 @@ One entry a chapter. Every figure in an entry is on the page.
    off it is a man he cannot see. Then Ilyan takes the shape of that working and bends
    it over Garrin to keep him out of the lane, and Garrin says out loud what it cost
    him to do it, and says he went down the lane anyway, and nobody was told he was
-   wrong. Ilyan's cost is that he said one true thing and then bent it. Ends with the
-   boy's yoke split in two hands at the bottom of the lane.
+   wrong. Corvin Tace then says out loud from the top step that his working has not
+   held, the man went down the lane on it and off his stone, and that he will not say
+   it again to make it hold, and that a man out of his sight is on the stone and not
+   on the man. A working is not a thing that holds people and this is the first mouth
+   on the page to say so. Ilyan's cost is that he said one true thing and then bent
+   it. Ends with the boy's yoke split in two hands at the bottom of the lane.
 10. **`1060` — *It Stood Where He Put It*.** Saturday, the second anchor, the fever
     one hundred and eleven weeks old with no days beside it, and the last morning of
     the band. The broom stands against the wall at the top of the flight for the
-    length of a barrow-load with nobody holding it and Ilyan Vester four foot off it
+    length of a barrow-load with nobody holding it and Ilyan Vester standing by it
     does not move it. Barnaby asks at six for the thirtieth and thirty-ninth morning
     and says he will ask tomorrow and the day after that. A whole figure comes out of
     two mouths that morning, the fever and his two hundredth wrong thing, and nobody

@@ -30,7 +30,7 @@ Nothing came back and he let it stand without giving it a sentence this morning.
 
 Then the man of thirty-eight came up that cart road at about the eighth hour and said what he had come up to say, and it was the first thing on that landing in a fortnight that had been addressed to a man of thirty-one.
 
-Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who has been refused a bench, refused a going, refused a lift and refused a barrow inside one week, and who said on the fourth day of the hundred and seventy-third week that there was grit banked at the turn of the lane and a boy of thirteen with two full pails, and that he wanted a second pair of hands for it.
+Garrin Tolley is thirty-eight, with a board of thirty-two notches cut in the edge of it inside his coat, who has been refused a bench, refused a going, refused a barrow and refused a question of his own making inside a fortnight, and who said on the fourth day of the hundred and seventy-third week that there was grit banked at the turn of the lane and a boy of thirteen with two full pails, and that he wanted a second pair of hands for it.
 
 “Come down the lane with me.” He said it to Ilyan and not to the landing. “There is a cartload of grit at the turn and it has to come up before the water is deep enough to float it round to the bottom. It is two yoke-loads of work and one yoke, and I have the yoke. I am not asking you to carry it. I am asking you to stand at the other end of it while I lever it.”
 
@@ -65,6 +65,12 @@ He set the yoke down on the wet grit at the bottom of the lane.
 “You are nobody here, and so am I, and neither of us has been anything on this landing all week except a man who asked and a man who stood there. You wanted to be the man in the middle of it this morning and the middle of it was me with a yoke in my hands.”
 
 Then Garrin Tolley picked the yoke up again and went down the lane to the turn and levered it under the banked grit and worked at it, and nobody went after him, and nobody told him he had been right to go, and nobody told him he had been wrong to stay away from the lane.
+
+And the man with the broom stood at the top of the flight and looked down that lane at the man working in it, and said one thing, and it was not the working.
+
+“That was a working about a man who stays on my stone,” he said, “and he has gone down it, and so the working has not held, and I am not going to say it again to make it hold. He is out of my sight and that is on this stone and not on him. I do not know what he is doing. That is the whole of what I said this morning and I thought I had said the rest of it.”
+
+He went back to the bottom of the flight and worked at the sheet and did not look down the lane again that morning.
 
 Then the boy came up that lane at about the tenth hour and found the bend clear and the yoke under his own pails, and gave his own count and did not turn it into anything.
 
