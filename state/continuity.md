@@ -30,6 +30,31 @@ the same hands — plus the plan's one addition: the broom-hour asked at `1050`
 and refused with its working, and the second asking owed on `1094` or after and
 nowhere else.
 
+**Three house rules the volume 22 plan and its band prompt first dropped and that the
+review of that plan restored. All three are rules, none is a figure of volume 22, and
+all three would have been missed by a writer sweeping a list and finding a clean zero:**
+
+- **The name is NOT on the wood and is in the mouths** (`chapters/volume-21/chapter-1050.md:73`,
+  `chapter-1046.md:79`, `chapter-1047:71`). The volume 22 band 5 card first read *the name
+  is still on the wood* and that is the reversed canon fact.
+- **The eye at the head of the shaft, `chapters/volume-20/chapter-0992.md:57`,** is the
+  only eye on that landing and **may not be given a depth, a grade, a length or a
+  distance from any mouth, and may not be walked to and may not be looked into.** The row
+  was dropped from the volume 22 §11 distance table while §5.1 still permitted *an eye*
+  as a mouth figure; both are corrected.
+- **The `gratitude` ruling**, restated here because the volume 22 files dropped it: the
+  nominal is not the banned word *grateful*, it stands at `chapter-1044.md:61` and
+  `chapter-1048.md:41`, in both places as a negation, both were left standing on the review
+  of band 5, and it is not to be re-opened and not to be *fixed*.
+
+**And two figures of this file that the same review found wrong:** the volume 22 §8
+certified **relative named days at `0`** and the measurement is **29 across twelve
+chapters** on volume 21, against 252, 274 and 184 for volumes 18, 19 and 20, all four
+from `reviews/volume-21/volume-21-close-weekdays-0V21L.py`. **The class is real and
+volume 22's zero is a figure owed and not printed.** And the arithmetic one-out class is
+**the gravel, `1 + (ch − 722)`, not the offer** — the instrument labels it `ASKING` and it
+is a man of fifty-four's mornings; the offer is spelled in full in every mouth.
+
 ## The close, and the two things it changed in the prose
 
 - **`1010:21` and `1010:23`** read *one thousand and nine* less seven hundred and

@@ -49,6 +49,7 @@ runs — this section is what it would be choosing.
 | the shape of the whole book | `outline/series.md` |
 | how it ends, and what stays open | `outline/ending.md` |
 | this volume, planned | `outline/volume-22.md` |
+| what the review of that plan repaired | `reviews/volume-22/next-0013-review-repair.md` |
 | volume 21, closed | `reviews/volume-21/volume-21-close.md` |
 | the review of that close, and its eight repairs | `reviews/volume-21/volume-21-close.md` §11 |
 | the weekday figures the close certifies | `reviews/volume-21/volume-21-close-weekdays-0V21L.py` |
@@ -76,5 +77,6 @@ housekeeping pass of its own and has not been done.
 
 ## Archive
 
-`reviews/volume-01/` … `reviews/volume-21/` hold per-batch receipts, moved state
-blocks and the verification scripts used against earlier volumes.
+`reviews/volume-01/` … `reviews/volume-22/` hold per-batch receipts, moved state
+blocks and the verification scripts used against earlier volumes. Volume 22's holds one
+file: the repair of its own plan, which is not a batch receipt because no batch has run.

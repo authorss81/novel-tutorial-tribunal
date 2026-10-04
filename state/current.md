@@ -110,12 +110,91 @@ later writer inherits:
    the band 5 block and twenty are in the whole of `state/batch-summary.md`; the twentieth
    is `1045:43` in the close's own block. All twenty were re-verified.
 
+## What the review of the volume 22 plan changed
+
+`logs/next-0013.review.log` found **two critical, eleven major and seven minor defects in
+the plan and the band prompt, and not one of them in prose** — there is no volume 22
+prose to be wrong. **No chapter was restarted, none exists, no title changed, no figure on
+a page changed and no plot moved.** Every repair was made inside the plan or the prompt and
+each is printed in the open with the rejected wording beside it. The receipt is
+`reviews/volume-22/next-0013-review-repair.md`; the findings are also carried at
+`outline/volume-22.md` §13.10–§13.13.
+
+**The two that would have misled the band 1 writer into writing a wrong chapter:**
+
+1. **The plan forbade a head count of people three times and then ordered its own midpoint
+   in one.** §7's band 2 card and §7's placement rule both said the midpoint is said *in
+   about nine people's hearing*, while §5.2 and §9 put *about nine* in the banned class and
+   name *about nine of them*, a figure of a landing, as the only permitted substitute. **No
+   writer could have satisfied both.** The head count is out of both places. The same
+   contradiction is inherited from `outline/volume-21.md` §7 and stands there, unrepaired,
+   and is owed to whoever owns that file.
+2. **The band 5 card put the name back on the wood.** It read *the name is still on the
+   wood in the mouths and still wrong* — the reversed canon fact the last four volumes
+   exist to prevent. It is *not* on the wood and is in the mouths. Corrected.
+
+**The five a later writer would otherwise have inherited as false instructions:**
+
+3. **§8 certified relative named days at `0` as measured by hand on volume 21.** The
+   measured figure is **29 across twelve chapters**, against 252, 274 and 184 for volumes
+   18, 19 and 20, and all four are the output of
+   `reviews/volume-21/volume-21-close-weekdays-0V21L.py`. **The class is real, so §9's zero
+   for volume 22 is a figure owed and not printed while the claim about volume 21 is
+   withdrawn.** A band that believed the zero would have skipped the hand-check.
+4. **§8's heading said every figure in it was taken by running the tool,** and the rows
+   below say in their own cells that two were counted by hand and one could not be run at
+   all. The heading now says which is which.
+5. **The one-out arithmetic class was not the offer.** The prompt told the writer the man
+   of thirty-one spells the offer *a hundred and —*. **He does not**: `chapter-1050.md:31`
+   spells it *three hundred and fifty days old* in full, and a search for *a hundred and*
+   across volume 21 returns one hit, `chapter-1040.md:65`, where it is *a hundred and
+   eight* and that is his mistakes and not the offer. Hand-run, the calibration's five
+   one-outs are the boy's days and volume 21's fifty are the `1+ch-722` gravel, which the
+   instrument labels `ASKING` and which is a man of fifty-four's mornings.
+6. **The band 2 card named no week boundary and no anchor** while §4.2 puts two boundaries
+   (`1062`/`1063`, `1069`/`1070`) and one anchor (`1067`) inside `1061`–`1070`. Bands 1, 3
+   and 4 each stated their counts. `outline/volume-21.md:388` records the cost of that
+   omission.
+7. **The climax was ordered two ways** — *on a full bank* in §1.5 and *on `1094` or after*
+   in §7 — and `1094` is the only full bank inside band 5, so the two are one placement.
+   They now say so.
+
+**And four smaller ones, each of which was a rule with no teeth:**
+
+8. **§1.6's resolution did not parse** — *AND SHE SAYS SO IS NOT REQUIRED OF HER A SECOND
+   TIME* — and carried no instruction; the operative rule was orphaned at §6 and is now
+   where it is owed.
+9. **The head of the shaft was dropped from §11** while §5.1 blanket-permitted *an eye* as
+   a mouth figure, so a writer had the permission and not the prohibition: no depth, no
+   grade, no length, no distance, not walked to, not looked into. Row restored, permission
+   narrowed.
+10. **The `gratitude` ruling was dropped from both new files.** `state/continuity.md`
+    carries it: the nominal is not the banned word *grateful*, it stands at `1044:61` and
+    `1048:41` as negations, both were left standing on purpose, and it is not to be
+    re-opened or *fixed*. A writer sweeping `grateful` as a prefix hits both lines and both
+    are correct.
+11. **The band prompt had no reading list and no craft or title guidance.** It named
+    `AGENTS.md`'s requirements nowhere, quoted none of the three refusals the band opens on,
+    and never said what `1051` opens on. It now has a ten-item reading list, the three
+    refusals as they were refused, the opening, a *How to write the morning* section, and
+    the house title rule — **two to six words, thirty titles cut from sixty-one to a
+    hundred and thirty-two words at the volume 21 close.**
+
+**And the four citations that were pointing at nothing:** `1050:38` is a blank line and the
+broom-hour is at `1050:39` with its working at `1050:43`; `1048:35` is *this does not
+answer my question* and the forestall of thanks is at `1048:41`; `ending.md:178`–`188` is
+**seven** forbidden substitutions and not eight; `series.md:304` names the **First Witness**
+and not the Arrangement, and the error was already recorded at
+`outline/volume-15-handoff.md:133`. `testimony` was banned in §3.3 and missing from §5.2's
+list, so the two places disagreed.
+
 ## Archive
 
 Pre-reset state blocks, review receipts and verification scripts are under
-`reviews/volume-01/` … `reviews/volume-21/`. They are evidence, not live state. The
+`reviews/volume-01/` … `reviews/volume-22/`. They are evidence, not live state. The
 repair passes for bands 4 and 5 are written up in
 `reviews/volume-21/batch-0005-review-repair.md` and
 `reviews/volume-21/batch-0006-review-repair.md`, the close is
-`reviews/volume-21/volume-21-close.md`, and the instrument its weekday figures come from
-is `reviews/volume-21/volume-21-close-weekdays-0V21L.py`.
+`reviews/volume-21/volume-21-close.md`, the instrument its weekday figures come from
+is `reviews/volume-21/volume-21-close-weekdays-0V21L.py`, and the repair of the volume 22
+plan and its band prompt is `reviews/volume-22/next-0013-review-repair.md`.

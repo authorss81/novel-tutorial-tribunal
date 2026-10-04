@@ -139,6 +139,27 @@ on none. It was not asked again so that somebody could finally say something. **
   which is a Saturday on the plan's own formula. **The fifty chapters are right and the
   plan is wrong, and nothing in any chapter was repaired for it.** Owed to whoever owns
   the outline. `reviews/volume-21/volume-21-close.md` §2.1.
+- **`outline/volume-21.md` §7 orders its own midpoint in a wording the same file forbids.**
+  Its band 2 card and its placement rule both put the `1014` midpoint *in about nine
+  people's hearing*, while §5.2 and §9 put any head count of people at zero in any
+  wording including *about nine*, naming *about nine of them* — a figure of a landing — as
+  the only permitted substitute. **No writer could have satisfied both.** The review of the
+  volume 22 plan found the same contradiction inherited into `outline/volume-22.md` §7 and
+  repaired it there; **it stands unrepaired in the volume 21 plan and is owed to whoever
+  owns that file.** `reviews/volume-22/next-0013-review-repair.md`, and
+  `outline/volume-22.md` §13.10.
+- **`outline/volume-21.md` §9 cites `series.md:304` for the previously seeded antagonist and
+  names the Arrangement.** `series.md:304` names the **First Witness**, which appears
+  nowhere in volumes 18 through 22, and `outline/volume-15-handoff.md:133` already
+  recorded that this exact citation does not support the sentence. Repaired in the volume
+  22 plan, unrepaired in volume 21 and volume 17 before it. Owed to whoever owns the
+  outline. `reviews/volume-22/next-0013-review-repair.md`.
+- **`outline/volume-21.md` §1.5 derives the volume 22 climax's shape from `ending.md:152`
+  and `series.md:304`–`:306`,** which are the founding-settlement chapter and the ending
+  guardrails and neither concerns a broom. Reported by the review of the volume 22 plan
+  and **not repaired**, because the derivation is a claim about the shape of the book and
+  not a claim about a chapter, and moving it is not this repair's to do.
+  `outline/volume-22.md` §1.5.
 
 ## Archive
 

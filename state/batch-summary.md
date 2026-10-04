@@ -16,6 +16,19 @@ on `1096` or after). The exactly-one next phase is
 no prompt on disk. Length disagreement (two hundred chapters) and the Sera/System
 absence are carried as open items owned elsewhere and resolved in no chapter.
 
+**AND WHAT THE REVIEW OF THAT PLANNING PHASE FOUND AND WHAT WAS DONE ABOUT IT —
+`logs/next-0013.review.log`, repaired in `reviews/volume-22/next-0013-review-repair.md`.
+**TWO CRITICAL, ELEVEN MAJOR AND SEVEN MINOR DEFECTS, ALL OF THEM IN THE PLAN OR THE
+PROMPT, NONE IN PROSE, BECAUSE THERE IS NO VOLUME 22 PROSE.** No chapter was restarted,
+no plot moved, no event rescheduled, and neither of the two open items above was touched.
+The four that change what the band 1 writer inherits: the midpoint's *in about nine
+people's hearing* contradicted the plan's own head-count ban three times over and is
+withdrawn from both places (§7 band 2 card and §7 placement rule); the band 5 card put
+the name back on the wood and is corrected to *not on the wood and in the mouths*; §8's
+certified relative named days were `0` and are **29 across twelve chapters**; and the
+band prompt had no reading list, no craft guidance and no title rule, and now has all
+three. Full table in the receipt and at `outline/volume-22.md` §13.10–§13.13.**
+
 ## Volume 21 close, `1050` — *The name is still wrong*
 
 Volume 21 is closed at fifty chapters, `1001`–`1050`, five bands on disk. The full
