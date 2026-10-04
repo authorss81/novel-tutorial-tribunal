@@ -7,8 +7,8 @@ Where every chapter is, and where the next one goes.
 | volume | chapters | count |
 |---|---|---|
 | 1–20 | `0001`–`1000`, fifty to a volume | 1000 |
-| 21 | `1001`–`1040` | 40 |
-| **total** | | **1040** |
+| 21 | `1001`–`1050` | 50 |
+| **total** | | **1050** |
 
 ## The current volume
 
@@ -18,7 +18,7 @@ Where every chapter is, and where the next one goes.
 | 2 | `1011`–`1020` | written, reviewed; the midpoint landed |
 | 3 | `1021`–`1030` | written, reviewed |
 | 4 | `1031`–`1040` | written, reviewed, repaired |
-| 5 | `1041`–`1050` | **owed** — prompt at `workspace/volume-21/batch-0005/PROMPT.md` |
+| 5 | `1041`–`1050` | written, reviewed, repaired — **volume complete** |
 
 Volume 21 closes at `1050`, week 172 day 2, a Wednesday, on an off-morning.
 
@@ -44,13 +44,13 @@ Volume 21 closes at `1050`, week 172 day 2, a Wednesday, on an off-morning.
 | the shape of the whole book | `outline/series.md` |
 | how it ends, and what stays open | `outline/ending.md` |
 | this volume | `outline/volume-21.md` |
-| the band being written | `workspace/volume-21/batch-0005/PROMPT.md` |
+| the phase being worked | `workspace/volume-21/close-0006/PROMPT.md` |
 | the work | `chapters/volume-21/` |
 
 ## Known disagreement, unresolved
 
 `outline/series.md` and `outline/ending.md` end the book at chapter 850. The
-manuscript is at 1040. Nobody has decided whether the outline moves or the book stops.
+manuscript is at 1050. Nobody has decided whether the outline moves or the book stops.
 It is recorded here and in `state/current.md` because every batch re-reports it and it
 is not a writer's decision to make.
 

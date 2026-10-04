@@ -28,7 +28,7 @@ That found no answer, and he named that in his own fresh words, and nobody fille
 
 “It found no answer and I am not smoothing that over. I asked at six and the wall gave me the wall back, and that is the shape of every morning of asking I have carried up this bank.”
 
-Then the boy came up that lane at about the tenth hour with his pails full and his boots wet, and set them down at the foot of the steps, and gave his own count, and asked what he had come to ask.
+Then the boy came up that lane at about the eighth hour with his pails full and his boots wet, and set them down at the foot of the steps, and gave his own count, and asked what he had come to ask.
 
 Wat Marshe is thirteen, and counts his own days in this county, and said on the second day of the hundred and seventy-first week that his count is three hundred and ninety days, and that it is his and he will not make it into a count of anything standing on that landing.
 
@@ -48,7 +48,7 @@ Wenna Pyle did not step closer and did not soften her voice.
 
 “You are right that you are wrong, and I am not going to make more of that than it is.” She said it firmly. “Go and carry your water. Your yoke stops nothing and you said so yourself, and that saying was yours and nobody took it off you.”
 
-Nobody answered any question about that name that morning, and the boy’s question was about the wood and it got no answer either, and nobody was thanked for asking or for refusing.
+No question about that name found an answer that morning, the boy’s question was about the wood and it got no answer either, and nobody was thanked for asking or for refusing.
 
 Then Ilyan came up at about the ninth hour with four inches round his boots, and went round the dry strip without going near it, and gave his figures, and gave the figure of the standing offer with the subtraction out loud, and asked for nothing.
 
@@ -72,9 +72,9 @@ Simon Rook is about fifty-two, cannot see well, has a list of things he cannot c
 
 Then everybody went down that bank by about the eleventh hour, and the boy went down the lane with the pails bumping his legs, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about ninety of them were under in the thin water, and went at the whole flight from the bottom upward. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was lying on it lay there at the seventh hour and lay there at the eleventh. The two lengths were still on the dry strip when the water thinned, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about ninety of them were under in the thin water, and went at the whole flight from the bottom upward. The fortieth one he cleaned round and did not tread, and the chair he cleaned round in the same turn of the broom, and the iron in that seam took the broom head and nothing else. He came to the dry strip at the top end and swept it to its edge and stopped, and it held what it held from the seventh hour to the eleventh. The two lengths were still on the dry strip when the water thinned, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-Nothing on that landing was dragged or flipped or held up to weigh or sounded out or taken inside or set back or turned to use, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+Nothing on that landing was dragged or flipped or held up to weigh or sounded out or taken inside or set back or turned to use, then or afterwards, and no hand went on that wood to take anything off it. No name went onto anything standing there that morning, and what that wood is was not said out a second time, and nobody counted what stood there.
 
 That morning passed off, and the account on that landing stood where it had stood at six, unfinished and still worked, and the name on that second length stood wrong, and nobody there said any part of it had closed.
 

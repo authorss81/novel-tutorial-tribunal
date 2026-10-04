@@ -1,19 +1,57 @@
 # character state
 
-The cast of volume 21 at the end of band 5 (`1041`–`1050`). Every name and age here
-was made in a mouth in a chapter.
+The cast of volume 21 at the end of band 5 (`1041`–`1050`). Every name here was made
+in a mouth in an earlier chapter of this volume. On these ten pages the names arrive in
+descriptor lines: no name is spoken by anybody inside a quotation on any of the ten.
 
 ## Band 5 — what each wanted, refused, gave and withheld
 
-- **Ilyan Vester, thirty-one, nobody's.** Want to be somebody, unchanged. Asked the barrow question on `1046` and was refused; asked to explain it on `1047` and was refused; asked for bench time, drain leave is Garrin's, book entry is Sena's, yoke move and broom time and account, all refused with workings. Mistakes: wanted the confirming to finish it; wanted to smooth refusals; wanted the chair to be hers to ease the landing; wanted thanks stopped only by her. Cost: what the Saturday took, carried without shape and without number.
-- **Barnaby Crove, fifty-four, cannot read.** Asked his sixth-hour question every morning, unanswered. On `1046` was asked the barrow question by Ilyan and refused in his own words: will say neither mine nor not mine, as either puts him in it. Was told neither wrong nor right, and nobody shaped it after. Did not explain, did not soften, kept hands on wall and shafts.
-- **Wenna Pyle, thirty-eight.** Confirmed on `1041` what the wood is and that she confirms rather than hands over, settling nothing. Refused bench time to Garrin and re-saying to Wat, each with a working from her own hold.
-- **Orla Fennimore, forty-four.** Asked the chair again on `1045` and was refused; said the ordinary form on `1048` from the wall, forestalling thanks first. Refused book entry to Sena with the checked-against-said working.
-- **Corvin Tace, forty-three.** Gave three figures, never a fifth; three absences on off-mornings in new words. Refused drain leave, yoke move, and broom time, each with stone reasons.
-- **Simon Rook, about fifty-two.** List empty throughout. Asked and got nothing; kept hands off the wood.
-- **Sena Dorr, forty-nine.** Asked for account and for entry, refused with workings; kept book shut.
-- **Garrin Tolley, thirty-eight.** Asked for bench, drain, and got refusals; owned wanting to be the man who went.
-- **Wat Marshe, thirteen.** Gave his own count each morning; asked for re-saying and for yoke move, refused; owned both wants as his own mistakes.
+- **Ilyan Vester, thirty-one, nobody's.** Want to be somebody, unchanged. Asked three
+  things on the page himself, and no more: the barrow question (`1046`), leave to
+  explain the asking (`1047`), and an hour with the broom (`1050`). All three were
+  refused with a working. Refused one: Sena Dorr's asking for his account (`1042`), with
+  her own working handed back to her. Mistakes of his own, in his mouth: wanting the
+  confirming to finish it (`1041`), wanting to step in and smooth a clean refusal
+  (`1043`), thinking a man's refusal was about him (`1044`), wanting her to have the
+  chair so the landing would be easier (`1045`), wanting to explain the asking
+  (`1047`), wanting to thank her (`1048`), thinking the boy should have been allowed
+  because he liked him for asking plainly (`1049`), being glad in a small way to be the
+  man who could refuse (`1042`). Cost: what the Saturday of week 171 took, carried
+  without a shape and without a figure in any wording.
+- **Barnaby Crove, fifty-four, cannot read.** Asked his sixth-hour question every
+  morning, unanswered. On `1046` was asked the barrow question by Ilyan and refused it
+  to his face in his own words: he will say neither mine nor not mine, because either
+  saying puts him in it and he is not in it. Was told neither wrong nor right, and
+  nobody shaped it afterwards. On `1047` refused Ilyan leave to explain the asking,
+  because an explaining is another thing to carry with no way of setting it down. Kept
+  his hands on wall and shafts and did not soften either refusal.
+- **Wenna Pyle, thirty-eight.** Confirmed on `1041` what the wood is and that she
+  confirms rather than hands over, settling nothing. Refused bench time to Garrin and
+  re-saying to Wat, each with a working from her own hold. Asked one question on `1050`
+  and got nothing.
+- **Orla Fennimore, forty-four.** Asked the chair again on `1045` and was refused with
+  Corvin's working; said she will stop asking. Said the ordinary form on `1048` from the
+  wall, forestalling thanks first, and refused Sena Dorr leave to enter it in her book,
+  with the working that a said thing is not a checked thing. On `1049` she said nothing
+  at all and the saying stayed where she had said it.
+- **Corvin Tace, forty-three.** Gave three figures, never a fifth; two absences on
+  off-mornings in words of his own. Refused Garrin's leave for the drain, Wat's yoke
+  move, and Ilyan's broom time, each with a stone reason, and told Wat that settling it
+  with himself was not the same as settling it with him.
+- **Simon Rook, about fifty-two.** List empty throughout. Asked a question on six of
+  the ten mornings (`1043`, `1044`, `1046`, `1047`, `1049`, `1050`) and got nothing
+  every time; kept his hands off the wood, and on `1042` came up after the others had
+  gone and did not ask at all.
+- **Sena Dorr, forty-nine.** Asked for Ilyan's account on `1042` and was refused by the
+  man himself, with her own working handed back. Asked on `1048` to enter the chair
+  saying in her book and was refused by the woman who said it. Book shut throughout.
+- **Garrin Tolley, thirty-eight.** Asked for bench time on `1041` and leave for the
+  drain on `1044`, and got two refusals with workings; owned on `1044` that he wanted
+  to be the man who went.
+- **Wat Marshe, thirteen.** Gave his own count each morning; asked for the wood to be
+  said again (`1043`) and for leave to move his yoke (`1049`), refused twice with
+  workings, and owned both wants as his own mistakes. His own saying on `1049` was about
+  his own wood and stayed his own.
 
 ## Earlier bands
 
@@ -140,8 +178,9 @@ she will not say it to the man who said it or the man it is for. At `1036` she c
 back to say the word she has been carrying is the wrong word, handed it back without
 saying which word it was, and asked not to be corrected.
 
-**She owes the confirming in band 5**: what the wood is, said out loud, in her own
-mouth, which makes it owed and not given. She is not to be used for her own account.
+**She owed the confirming in band 5 and said it on `1041`:** what the wood is, said
+out loud, in her own mouth, which made it owed and not given. She was not used for her
+own account.
 
 ## Sena Dorr — forty-nine, reads for a living, holds the ninth of the nine positions
 
@@ -192,8 +231,8 @@ stop asking anybody about it, and if it turns out to be hers one day it will tur
 without her asking. She ate the heel of a loaf she had brought up with her and offered
 to nobody.
 
-**She owes the ordinary form in band 5**, and must say first that it does not answer
-her question.
+**She owed the ordinary form in band 5 and said it on `1048`** from the wall, having said
+first that it does not answer her question.
 
 ## Wat Marshe — thirteen, `ch − 653`
 

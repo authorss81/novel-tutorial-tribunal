@@ -34,7 +34,7 @@ Counters, read off the page by hand: his morning 791–800; settlement 641–650
 6. **Hand** — on the page in all ten, each in its own words: `1041:89`, `1042:63`, `1043:77`, `1044:79`, `1045:73`, `1046:79`, `1047:71`, `1048:85`, `1049:75`, `1050:73`.
 7. **Unanswered** — on the page. Name questions asked and unanswered on `1041`–`1045` and `1047`–`1050`; barrow question refused only by the man it was put to on `1046:49`.
 8. **No head counts** — on the page. Swept for about nine, one of them, both of them, two men, including in quotations; remaining hits are steps and things, not people.
-9. **Ordinary form again** — on the page `1048:39`. Every name traces to a mouth that said it; form given no name; thing made for a use is not the user's.
+9. **Ordinary form again** — on the page `1048:39`. The form is given no name; a thing made for a use is not the user's; it stays where she said it and was not carried off the wall in `1049`. Names on these ten pages arrive in descriptor lines and in nobody's mouth, which is where they arrived on every band of this volume; what traces to a mouth is each name's first use, in an earlier chapter.
 10. **Things left** — on the page. Figure from `995` not given again, not rebuilt, not in any title.
 
 ### What advanced and what closed
@@ -44,6 +44,22 @@ Advanced in mouths: confirming said with a refusal of bench work beside it; benc
 ### The ten closing lines
 
 `1041` a cup set upright where she will find it · `1042` a palm on warmed stone lifted away · `1043` wet rings drying unmarked · `1044` a hand held over a board to still it · `1045` a woman at her wall past going · `1046` hands kept at sides down a flight · `1047` hands washed before taking shafts · `1048` palms warmed against each other · `1049` a yoke laid where it stops nothing · `1050` setting down and taking up again and going on, naming nothing.
+
+### Repair pass after review
+
+Findings from `logs/batch-0005.review.log`, and what was done about each, is written up
+in `reviews/volume-21/batch-0006-review-repair.md`. Band 5 was not restarted and no
+plot was moved. In short: on `1042` a speaker had been asking the lead five hours
+before he came up, and the arrival order was corrected; the closing sweep paragraph
+repeated three of its sentences verbatim across the band and every morning's version
+was rewritten; `nobody` paragraphs immediately after a dialogue block came to eleven
+against a cap of five and four were rewritten; four chapters placed an hour stamp out
+of prose order and the stamps were corrected; two off-mornings printed an ordinal of a
+figure's place in a run, which §5 forbids, and it was cut; a journey figure in `1045`
+and a false count of visits went; the ordinary form was carried off the wall it was said
+from in `1049` and no longer is; two ambiguous pronouns were given antecedents. **No
+`CHAPTER:LINE` in this receipt moved**: every repair was made inside a line, and all
+nineteen references were re-verified against disk afterwards.
 
 ## Volume 21 band 4 — `1031`–`1040`, *The name that travels*
 

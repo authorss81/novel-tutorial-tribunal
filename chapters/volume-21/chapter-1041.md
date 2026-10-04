@@ -38,7 +38,7 @@ She looked up the flight and did not look at the strip.
 
 “And I am saying in the same breath that I am confirming a name and I am not giving a thing. I am not handing anything over and I am not putting anything down for anybody to pick up. What I say about the wood is said, and it settles nothing, and it was never meant to settle anything, and nobody is to make it settle anything after I have gone down.”
 
-Nobody made it settle anything, and she went on before anybody could shape it.
+What she had said settled nothing, and she carried on before anybody could shape it.
 
 Then the man of thirty-eight came up that cart road at about the ninth hour with his coat shut and his hands out of his pockets, and stopped beside the cup and looked at it and did not pick it up, and asked what he had come to ask.
 
@@ -84,10 +84,10 @@ Wat Marshe is thirteen, and counts his own days in this county, and said on the 
 
 Then everybody went down that bank by about the eleventh hour, and the man of thirty-eight stayed on the wall a while after the others had gone and then went down the cart road, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was lying on it lay there at the seventh hour and lay there at the eleventh. The two lengths were still on the dry strip when the light went, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace went over the whole flight of ninety steps from the bottom upward, though about sixty of them were under, and did not stop until he was at the top with it. He went round the fortieth one rather than over it, and the chair went round with the broom the same way, and the iron in that seam the broom head crossed and his fingers never did. At the top end he swept as far as the edge of the dry strip and no further, and what was lying on it at the seventh hour was lying on it at the eleventh. The two lengths were still on the dry strip when the light went, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
 Nothing on that landing got pulled or turned over or weighed in the hand or read out loud or carried inside or put back or used, then or afterwards, and no hand went on that wood to take anything off it. No name was put to anything standing there that morning, and what that wood is was said by her and by nobody else on that landing, and nothing standing there was counted.
 
 That morning went by, and the account on that landing remained as incomplete at eleven as at six and still in hand, and the name on that second length remained wrong, and nobody up there declared any of it over.
 
-And Wenna Pyle’s cup stood on the stone in front of the bottom step where she had set it down, with nothing in it, and Garrin Tolley came back up two steps after he had gone down, picked it up, carried it to the foot of the wall, set it upright where she would find it on her way down, and wiped his hands on his coat before he touched it and after.
+And Wenna Pyle’s cup stood on the stone in front of the bottom step where she had set it down, with nothing in it, and Garrin Tolley came back up two steps after the rest of them had gone down the bank, picked it up, carried it to the foot of the wall, set it upright where she would find it on her way down, and wiped his hands on his coat before he touched it and after.

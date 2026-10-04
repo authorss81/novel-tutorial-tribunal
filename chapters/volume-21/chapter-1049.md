@@ -28,7 +28,7 @@ That stayed without answer, and he said that in words of his own, and nobody fil
 
 “It has stayed without answer and I am not asking it different to make it land. A new week does not make a new asking out of an old one.”
 
-Then the boy came up that lane at about the tenth hour with his pails and his yoke, and set the pails down, and gave his own count, and asked what he had been holding back all week.
+Then the boy came up that lane at about the eighth hour with his pails and his yoke, and set the pails down, and gave his own count, and asked what he had been holding back all week.
 
 Wat Marshe is thirteen, and counts his own days in this county, and said on the first day of the hundred and seventy-second week that his count is three hundred and ninety-six days, and that it is his and he will not make it into a count of anything standing on that landing.
 
@@ -40,13 +40,13 @@ Corvin Tace leaned on the broom and looked at the yoke and at the lane below.
 
 Wat Marshe set the yoke down across his pails and his face worked.
 
-“I wanted it for myself, to have it near me.” He said it with his hands on the wood. “I thought if it stood up here it would be mine in a way it is not down there. That was wrong, and I can see it now. A yoke cut for shoulders does not belong to the shoulders, and where I lean it does not make it more mine.”
+“I wanted it for myself, to have it near me.” He said it with his hands on the wood. “I thought if it stood up here it would be mine in a way it is not down there. That was wrong, and I see it now that you have said no. Leaning it against your wall would not make it mine. It would only put my wood up where I could look at it and could not get at it.”
 
 Corvin Tace nodded and went back to work.
 
-“You said the saying right and you said it yourself, and I am not going to make more of that.” He worked the edge of the sheet. “Go and do your carrying. Your lane will still be there when the water goes off.”
+“That is you settling it with yourself and not with me, and I am not going to make more of it than you have made.” He worked the edge of the sheet. “Go and do your carrying. Your lane will still be there when the water goes off.”
 
-Nobody answered any question about that name that morning, and the boy’s asking was about wood and it was refused with a working, and nobody thanked anybody for it.
+The boy’s asking was about his own wood and it was refused with a working, no question about that name found an answer that morning, and nobody thanked anybody for it.
 
 Then Ilyan came up at about the ninth hour with the water round his calves, and went round the dry strip without going near it, and gave his figures, and gave the figure of the standing offer with the subtraction out loud, and asked for nothing.
 
@@ -70,9 +70,9 @@ Simon Rook is about fifty-two, cannot see well, has a list of things he cannot c
 
 Then everybody went down that bank by about the eleventh hour, and the boy went down the lane with the yoke back across his shoulders, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was lying on it lay there at the seventh hour and lay there at the eleventh. The two lengths were still on the dry strip above the open water, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward. The fortieth one went round the broom and the chair went round it beside, and the iron in that seam the broom head went over and his hand never once went near. The dry strip at the top end he swept to its edge and stopped, and what was on it at the seventh hour was still on it at the eleventh. The two lengths were still on the dry strip above the open water, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-Nothing on that landing was snatched or upended or poised in the hand or proclaimed or stowed or replanted or tasked, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+Nothing on that landing was snatched or upended or poised in the hand or proclaimed or stowed or replanted or tasked, then or afterwards, and no hand went on that wood to take anything off it. No name was put on anything standing there that morning, and nobody said what that wood is over, and nobody put a count on it.
 
 That morning thinned and went, and the account on that landing held its gap from six to eleven and stayed in work, and the name on that second length stayed wrong, and nobody on the road said any of it was resolved.
 

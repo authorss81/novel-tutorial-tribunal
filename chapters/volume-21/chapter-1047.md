@@ -50,7 +50,7 @@ Ilyan stepped back and put his hands at his sides, and his face went through som
 
 “I was wrong to ask and I am wrong to want to explain the asking.” He said it low, with the water round his shins. “That is mine and I am not asking you to lift it. I wanted to be somebody who could make it easier after, and that wanting is the mistake on top of the mistake.”
 
-Nobody answered any question about that name that morning, and the explaining was refused with a working, and nobody thanked anybody for it.
+The explaining was refused with a working, nothing answered any question about that name that morning, and nobody thanked anybody for it.
 
 Then the man who cannot see well came up at about the tenth hour with his hand on the wall, and asked his question, and got nothing, and said so in his own words.
 
@@ -66,9 +66,9 @@ Wat Marshe is thirteen, and counts his own days in this county, and said on the 
 
 Then everybody went down that bank by about the eleventh hour, and the man of fifty-four went down with the barrow through the still sheet, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the sheet unbroken ahead of him. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was lying on it lay there at the seventh hour and lay there at the eleventh. The two lengths were still on the dry strip above the still water, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the sheet unbroken ahead of him. The broom went round the fortieth one and the chair went round it in the same stroke, and where the iron lies in that seam he used the broom head and kept his two hands where they were. The dry strip at the top end he swept to its edge and then stood the broom head still on the stone, and what lay there at the seventh hour was lying there at the eleventh. The two lengths were still on the dry strip above the still water, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-Nothing on that landing was tugged or capsized or cradled to guess or called out or carried in or restored or harnessed, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+Nothing on that landing was tugged or capsized or cradled to guess or called out or carried in or restored or harnessed, then or afterwards, and no hand went on that wood to take anything off it. Nothing there was given a name that day, and what that wood is was not said again, and no count of it went anywhere.
 
 That morning drew on and went, and the account on that landing held unfinished as at six and still held in use, and the name on that second length held wrong, and nobody on the steps named any of it finished.
 

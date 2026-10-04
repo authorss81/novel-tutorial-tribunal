@@ -58,7 +58,7 @@ Ilyan opened his mouth and shut it again, and his throat worked, and he looked a
 
 He stood with his hands at his sides and his boots full of water, and said nothing more that morning, and the not saying stayed on him all the way down.
 
-Nobody answered any question about that name that morning, and the barrow question was refused by the man it was put to in his own words, and by nobody else.
+The barrow question was refused by the man it was put to, in his own words and by nobody else, and no other question about that name found an answer that morning.
 
 Then the man who cannot see well came up at about the tenth hour with his hand on the wall, and asked his question, and got nothing, and said so plainly.
 
@@ -70,13 +70,13 @@ Then the lad came up out of that lane at about the tenth hour carrying his pails
 
 Wat Marshe is thirteen, and counts his own days in this county, and said on the fifth day of the hundred and seventy-first week that his count is three hundred and ninety-three days, and that it is his and he will not make it into a count of anything standing on that landing.
 
-“Three hundred and ninety-three. That is mine.” He did not look at the strip. “Has the water been higher than this.” Nothing came of that, and he shrugged. “Then I will remember it as high.”
+“Three hundred and ninety-three. That is mine.” He did not look at the strip. “Has the water been higher than this.” Nothing came of that, and he shrugged one shoulder at it. “Then I will remember it as high.”
 
 Then everybody went down that bank by about the eleventh hour and nobody went up that cart road and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the water at the top of his thighs. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was lying on it lay there at the seventh hour and lay there at the eleventh. The two lengths were still on the dry strip above the full sheet, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the water at the top of his thighs. Round the fortieth one he went and over it he did not, and the chair went round the same way, and the iron in the seam of it was swept and was not fingered, not once, in that whole hour. He worked the water up to the edge of the dry strip and stopped with the broom still standing in it, and what lay on it at the seventh hour was still lying on it at the eleventh. The two lengths were still on the dry strip above the full sheet, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-Nobody on that landing pulled anything up or turned anything down or took anything in the hand to test or spoke anything out or fetched anything inside or laid anything back or set anything to work, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+Nobody on that landing pulled anything up or turned anything down or took anything in the hand to test or spoke anything out or fetched anything inside or laid anything back or set anything to work, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and no mouth said what that wood is again, and it was not counted by anybody.
 
 The morning went out, and the account on that landing was as wanting at eleven as at six and still plied, and the name on that second length was wrong as ever, and nobody on the flight said any of it was complete.
 

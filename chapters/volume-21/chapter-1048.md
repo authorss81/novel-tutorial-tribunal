@@ -40,7 +40,7 @@ She lifted her hands off the coping and set them back down.
 
 Nobody thanked her and nobody asked her whether she is in it and nobody told her that nobody is answering her, and she went on before anybody could shape gratitude.
 
-Then the woman who reads for a living came up that cart road at about the fourth hour and stopped beside the wall, with the book shut in her hands, and asked what she had come to ask.
+Then the woman who reads for a living came up that cart road at about the eighth hour and stopped beside the wall, with the book shut in her hands, and asked what she had come to ask.
 
 Sena Dorr is forty-nine, has read for a living for twenty-three years, holds the ninth of the nine positions, which is a public archive and not a stone, and said on the seventh day of the hundred and seventy-first week that she wanted to put the chair saying into her book, because a saying that holds should be written.
 
@@ -54,7 +54,7 @@ Sena Dorr held the shut book and did not open it.
 
 “I wanted it for the archive, and I wanted it badly, because my office is the only one here that writes things down.” She said it with her eyes on the wall. “You have refused me with a reason about checked things and said things, and I can see the difference, though I wanted not to.”
 
-Nobody thanked anybody for that refusing, and the saying stayed where it was said.
+The saying stayed where it was said, and no thanks were spent on the refusing.
 
 Then Ilyan came up at about the ninth hour with the skin breaking under his boots, and went round the dry strip without going near it, and gave his figures, and gave the figure of the standing offer with the subtraction out loud, and asked for nothing.
 
@@ -70,7 +70,7 @@ He looked at the wall and then at the strip and did not go closer to either.
 
 “Has anybody on this landing answered anything about that name since the Saturday of this week.” Nothing came of that, and he let it stand in new words. “Nothing has stood up out of that and I am leaving it lying.”
 
-Nobody answered any question about that name that morning, and nobody was thanked for the saying or for the refusing.
+Nothing answered any question about that name that morning, and nobody was thanked for the saying or for the refusing.
 
 Then the boy came up that lane at about the tenth hour with his pails empty, and gave his own count, and let it stand alone.
 
@@ -80,9 +80,9 @@ Wat Marshe is thirteen, and counts his own days in this county, and said on the 
 
 Then everybody went down that bank by about the eleventh hour, and the woman of forty-four went down the cart road with her hands empty, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the cover breaking ahead of the broom. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept over with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was resting on it rested there at the seventh hour and rested there at the eleventh. The two lengths were still on the dry strip above the sheet, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about sixty of them were under, and went at the whole flight from the bottom upward with the cover breaking ahead of the broom. He took the fortieth one round on the edge of the broom and left it under no boot, and the chair round in the same turn, and the iron in that seam he sent the broom head across and did not lay a finger on. He swept the dry strip at the top end as far as its edge and no past it, and the two lengths had not been shifted by anybody between the seventh hour and the eleventh. The two lengths were still on the dry strip above the breaking cover, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-Nothing on that landing was seized or inverted or hefted or declaimed or housed or reinstated or plied, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+Nothing on that landing was seized or inverted or hefted or declaimed or housed or reinstated or plied, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there got a name that morning, and what that wood is was not put into a mouth a second time, and nothing standing there was counted.
 
 The morning spent itself, and the account on that landing lay as incomplete at eleven as at six and still lain-to, and the name on that second length lay wrong, and nobody at the wall called any of it past.
 

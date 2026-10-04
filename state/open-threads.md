@@ -5,7 +5,11 @@ when a person does a thing in a mouth.
 
 ## What advanced and what closed in band 5
 
-Advanced in mouths: confirming said; barrow asked and refused; explaining asked and refused; ordinary form said from the wall; bench, drain, chair, entry, yoke, and broom asked and refused with workings. Closed as events: the confirming, the climax question, and the ordinary form owed to this band. The offer, the account, and the name carry on as before.
+Advanced in mouths: confirming said; barrow asked and refused to his face; explaining
+asked and refused; ordinary form said from the wall and not carried off it; bench,
+drain, chair, entry, yoke and broom asked and refused with workings. Closed as events:
+the confirming, the climax question, and the ordinary form owed to this band. The offer,
+the account and the name carry on as before.
 
 ## At `1050`, still true, in words
 
@@ -15,7 +19,7 @@ The offer stands unanswered. The account is incomplete and in use. The name on t
 
 ## The standing offer
 
-Unanswered at **three hundred and forty days** (`1040`), spoken with the subtraction
+Unanswered at **three hundred and fifty days** (`1050`), spoken with the subtraction
 out loud every morning, asked on no morning of the band, answered on none, withdrawn
 on none. It was not asked again so that somebody could finally say something. **Open.**
 
@@ -26,17 +30,19 @@ on none. It was not asked again so that somebody could finally say something. **
    wording. **Open.**
 2. **The account is incomplete and in use.** No morning has finished it. **Open.**
 3. **Wenna Pyle's confirming** — that the wood is what her own trade named it, said
-   out loud by her, and thereby *owed* rather than given — is owed in band 5 on
-   `1041` or after. She is not to be used for her own account. **Open, owed next band.**
+   out loud by her, and thereby *owed* rather than given — **was said on `1041`** and
+   settled nothing. She was not used for her own account. **Closed as an event; still
+   load-bearing.**
 4. **The ordinary form** (§3.4 of the volume outline): a thing made for a use is not
-   the user's. Said in four trades across band 4 and named by nobody. The resolution
-   is owed in band 5 in the mouth of the woman of forty-four from the wall, who must
-   say first that it does not answer her question. **Open, owed next band.**
+   the user's. Said in four trades across band 4 and named by nobody. **Was said from
+   the wall in the mouth of the woman of forty-four on `1048`,** who said first that it
+   does not answer her question, and nobody thanked her. It stays where she said it and
+   was not carried off the wall in `1049`. **Closed as an event; still load-bearing.**
 5. **The question to the man who cannot read** — whether the barrow that wood was cut
-   for is the barrow that comes up that bank — is owed on `1046` or after. It is the
-   volume's climax. Asking costs Ilyan something for the first time. Barnaby Crove
-   is the person the name is for; he will refuse, and will not be told he was wrong
-   or right. **Open, owed next band.**
+   for is the barrow that comes up that bank — **was asked on `1046`** by the man of
+   thirty-one. Barnaby Crove refused it to his face in his own words, was told neither
+   wrong nor right, and nobody shaped it after him. **Closed as an event; still
+   load-bearing.**
 6. **The midpoint** — that the wood is better called the wrong thing by the man who
    put it down than called the right thing by anybody — landed in band 2 on `1014` or
    after, in about nine people's hearing, and was not given a figure. **Closed as an
@@ -50,11 +56,12 @@ on none. It was not asked again so that somebody could finally say something. **
    the end of the wall and touched nothing, and that is not listable, and he says so.
    **Open.**
 10. **Barnaby Crove's question** — whether there is one thing in this county a man
-    who cannot read is wanted for, once, with nothing kept against it — asked every
-    morning at the sixth hour, and his own count of asking stands at three hundred and
-    nineteenth morning at `1040` with no answer on any of them. He has now said aloud
-    that he has stopped putting the wanting where a person could take it. That is not the same as stopping wanting.
-    **Open, and it is the shape the climax uses.**
+     who cannot read is wanted for, once, with nothing kept against it — asked every
+     morning at the sixth hour, and his own count of asking stands at three hundred and
+     twenty-ninth morning at `1050` with no answer on any of them. He said aloud on
+     `1047` that he is not unsaying his refusal of `1046` by asking softer. That is not
+     the same as stopping wanting.
+     **Open, and the climax has now been taken from its shape.**
 11. **The count of asking** was spent at `947` and must not be given again, printed
     again, or rebuilt. **Spent; closed as a figure.**
 12. **The figure of how many things are left on that landing** was given once, at
@@ -79,7 +86,7 @@ on none. It was not asked again so that somebody could finally say something. **
 
 ## Raised by review, not by a chapter
 
-- **The length of the book.** The manuscript is 190 chapters past the ending its own
+- **The length of the book.** The manuscript is 200 chapters past the ending its own
   outline specifies. Unresolved, and not the writer's to resolve. See
   `state/current.md`.
 - **The primary relationship and the System.** `outline/series.md` names Ilyan and
@@ -88,14 +95,16 @@ on none. It was not asked again so that somebody could finally say something. **
   System* stands at one mention in volume 17 and **zero** in volumes 18, 19, 20 and
   21, while `series.md` calls it the premise and `ending.md` makes it the final
   mechanism. This is a real absence and it is flagged in every close since volume 20.
-  It cannot be repaired by retro-fitting a character into finished chapters, so it is
-  carried as an obligation on the next band: **Sera Quill must be on the page, and
-  the System's warning service must appear at least once, in plain language, used by
-  somebody.** Whether that belongs in volume 21 at all is part of the length decision
-  above.
+  **It is recorded here as an open question and it is carried nowhere as an
+  obligation.** `outline/volume-21.md` §9 puts `System` at zero and forbids
+  introducing it for the first time in that volume, and §6 forbids naming a person who
+  is not already named in a chapter. Whether either belongs in the manuscript, and in
+  which volume, is part of the length decision above and belongs to whoever owns the
+  outline. No band is instructed to repair it, and no chapter is to be written to
+  satisfy it.
 - **Volume 21 has zero new people.** The outline forbids naming a person who is not
-  already named in a chapter. Any return of Sera Quill has to respect that rule or
-  the volume outline has to be amended by whoever owns it.
+  already named in a chapter. Any return of Sera Quill would have to respect that rule
+  or the volume outline would have to be amended by whoever owns it.
 - **The chapter titles of bands 1–3 are still 60–160 words each.** `chapter-1001.md`
   through `chapter-1030.md` carry whole plot summaries where a title belongs. Band 4's
   ten were cut on the review of band 4; bands 1–3 were not, and the work is **owed to

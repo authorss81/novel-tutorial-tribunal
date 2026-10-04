@@ -16,18 +16,18 @@ and closes on a Wednesday. Fifty mornings, five bands of ten.
 
 Counters, all checked against the page by hand. `ch` is the chapter number:
 
-| counter | formula | at `1031` | at `1040` |
+| counter | formula | at `1041` | at `1050` |
 |---|---|---|---|
-| his morning | `ch − 250` | 781 | 790 |
-| days after the settlement | `ch − 400` | 631 | 640 |
-| days since the division | `ch − 446` | 585 | 594 |
-| days since a page was read out with the door shut | `ch − 500` | 531 | 540 |
-| days in the county of Kell | `ch − 554` | 477 | 486 |
-| the cut across that palm | `ch − 685` | 346 | 355 |
-| the standing offer | `ch − 700` | 331 | 340 |
-| his own count of wrong things | `ch − 860` | 171 | 180 |
-| Barnaby Crove's mornings of asking | `1 + (ch − 722)` | 310 | 319 |
-| Wat Marshe's days in the county | `ch − 653` | 378 | 387 |
+| his morning | `ch − 250` | 791 | 800 |
+| days after the settlement | `ch − 400` | 641 | 650 |
+| days since the division | `ch − 446` | 595 | 604 |
+| days since a page was read out with the door shut | `ch − 500` | 541 | 550 |
+| days in the county of Kell | `ch − 554` | 487 | 496 |
+| the cut across that palm | `ch − 685` | 356 | 365 |
+| the standing offer | `ch − 700` | 341 | 350 |
+| his own count of wrong things | `ch − 860` | 181 | 190 |
+| Barnaby Crove's mornings of asking | `1 + (ch − 722)` | 320 | 329 |
+| Wat Marshe's days in the county | `ch − 653` | 388 | 397 |
 
 Two rules about these figures:
 
@@ -41,16 +41,26 @@ Two rules about these figures:
 
 ## The water, which is a clock
 
-The ladder runs from its own head. The head is `686`, the period is **eight**, and
-it does not read the week: `686 − (ch mod 8)`. More water puts **fewer** steps under,
-and that pairing is what the ten chapters say.
+The ladder runs from its own head of `686` and does not read the week. It runs on the
+**residue of `ch` upon eight**, and the head sentence is not all eights: `686`→`689`
+three days, `689`→`695` six, `695`→`702` seven, and eight every time after. The residue
+table below reproduces band 4 (`1031`–`1040`) and band 5 (`1041`–`1050`) morning for
+morning. More water puts **fewer** steps under, and that pairing is what the ten
+chapters say.
 
-| inches on the top step | about this many of the ninety under |
-|---|---|
-| 4 | 90 |
-| 8 | 80 |
-| 12 | 70 |
-| 16, and it holds | 60 |
+| `ch` upon eight | inches on the top step | about this many of the ninety under | days of the coming back |
+|---|---|---|---|
+| 2 | none, an off-morning | none | none |
+| 3 | 4 | 90 | 7 |
+| 4 | 8 | 80 | 6 |
+| 5 | 12 | 70 | 5 |
+| 6 | 16, and it holds | 60 | 4 — the rung that carries the full bank and the anchor |
+| 7 | 16, and it holds | 60 | 3 |
+| 0 | 16, and it holds | 60 | 2 |
+| 1 | 16, and it holds | 60 | 1 |
+
+A residue is not a chapter number, and no ordinal of a rung's place in a run may be
+printed. `1042`, `1046` and `1050` carry none.
 
 **Known hazard, not a settled fact.** More water putting fewer steps under is
 backwards, and it is physically wrong on the page. It is the spine of four chapters
@@ -62,12 +72,12 @@ not settled.** Do not silently correct it in a chapter, and do not build on it
 oversight.
 
 **Off-mornings** carry no figure at all: no inches, no steps, no days of the coming
-back. In this band `1034` is the off-morning, and it is also the morning the week
-turns — the boundary falls **between** `1034` and `1035`, not inside either date
-line. `1042` is owed as the sixth off-morning and the first boundary of band 5.
+back. `1034` was the off-morning of band 4, and `1042` and `1050` were the two of band
+5, with the sixth week boundary falling **between** `1041` and `1042` and the seventh
+**between** `1048` and `1049`. Neither boundary is cut inside a date line.
 
-Two whole figures of weeks appear with no figure of days beside them, at `1032` and
-at `1039`. Do not add days to either.
+One whole figure of weeks with no figure of days beside it falls on `1046`: *the fever
+one hundred and nine weeks old, and no days beside it.* Do not add days to it.
 
 ## Days of the coming back
 
@@ -129,11 +139,20 @@ wording. That absence is the subject of the volume, not an oversight.
   mouths and **is not given a name**.
 - Nobody is relieved, forgiven, redeemed or thanked. Every occurrence of thank in this
   volume is a refusal, a negation, or a list of who is not to be thanked.
+- **Ruling, band 5.** The nominal *gratitude* is not the banned word *grateful*. It
+  stands at `1044:61` and `1048:41`, in both places as a negation, and both were left
+  standing on the review of band 5. Do not re-open it and do not "fix" it.
 - Titles are written last, against the body. A title may not print the name of a
   thing, a giver, the age of a thing in a place, the ordinal of an off-morning, or
   any count of asking.
-- A chapter may not end on the same inventory as its neighbour. All ten closing lines
-  of band 4 use a different device.
+- A chapter may not end on the same inventory as its neighbour. All ten closing lines of
+  band 5 use a different device, and none of the ten closes on the offer.
+- **No repeated sentence inside the band.** The ritual clauses — Barnaby's question,
+  the offer formula, the want formula, *and here is the reason, because you asked me and
+  not the landing* — are the volume's voice and repeat verbatim by design. Everything
+  else, and above all the closing sweep paragraph in each chapter, is written fresh per
+  morning. Band 5 failed this on the review and the sweep paragraph's sentences were
+  rewritten in all ten; see `reviews/volume-21/batch-0006-review-repair.md`.
 
 ## Archive
 

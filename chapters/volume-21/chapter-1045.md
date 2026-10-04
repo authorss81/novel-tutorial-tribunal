@@ -28,7 +28,7 @@ No answer came down to him, and he said that in a new sentence, and nobody fille
 
 “No answer has come down and I am standing here with wet sleeves and nothing else. The water is higher and the asking is the same, and I am not making the water into an answer.”
 
-Then the woman of forty-four came up that cart road at about the eighth hour, past her own wall for the second time that week, and stopped at the foot of the steps with a heel of bread in her hand, and asked what she had come to ask.
+Then the woman of forty-four came up that cart road at about the eighth hour, past her own wall and up to the foot of the steps, and stopped there with a heel of bread in her hand, and asked what she had come to ask.
 
 Orla Fennimore is forty-four, keeps twenty-nine chairs at a house that is not in this county, stands at the wall at the bottom of that cart road, and said on the fourth day of the hundred and seventy-first week that she had come past it because the water was high and she wanted to see it with her own eyes, and that she had a asking in her about the chair on that landing.
 
@@ -68,9 +68,9 @@ Wat Marshe is thirteen, and counts his own days in this county, and said on the 
 
 Then everybody went down that bank by about the eleventh hour, and the woman of forty-four went down the cart road with the bread still in her pocket, and Ilyan went last and stood on the second step from the bottom for a moment and went on down.
 
-Corvin Tace swept all ninety of those steps, though about seventy of them were under, and went at the whole flight from the bottom upward with the water at his ankles. The fortieth one went round rather than under his boot, and the chair went round the same way, and the iron in that seam he swept across with the broom head and never touched with his fingers. The dry strip at the top end he swept up to the edge of and stopped, and what was settled on it settled there at the seventh hour and settled there at the eleventh. The two lengths were still on the dry strip above the sheet, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
+Corvin Tace swept all ninety of those steps, though about seventy of them were under, and went at the whole flight from the bottom upward with the water at his ankles. He took the fortieth one round and not underfoot, and the chair round with it, and the iron in that seam he cleared with the broom head and did not once put a finger in the groove. He brought the broom to the edge of the dry strip and stopped, and what was lying there at the seventh hour was lying there at the eleventh. The two lengths lay on the dry strip with the sheet running below them, a forearm long each and split down the middle along the grain, thick end rough where it parted, and on the second a saw mark on the square end and two shallow notches in the flat with one run out of the side.
 
-No part of that landing was hauled up or flipped down or balanced in the hand or spoken out or fetched inside or laid back or bent to work, then or afterwards, and no hand went on that wood to take anything off it. Nothing standing there was named that morning, and what that wood is was not said again, and nothing standing there was counted.
+No part of that landing was hauled up or flipped down or balanced in the hand or spoken out or fetched inside or laid back or bent to work, then or afterwards, and no hand went on that wood to take anything off it. No name was put to anything on that landing that morning, and the wood was not described again, and no count was made of it.
 
 That morning ebbed out, and the account on that landing stayed unfinished from six to eleven and stayed in hand, and the name on that second length stayed wrong, and nobody standing there spoke of it as ended.
 
